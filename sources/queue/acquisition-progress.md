@@ -1,15 +1,15 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:40:58.350472+00:00
+Ultimo aggiornamento: 2026-09-12T16:41:02.099068+00:00
 
 Batch: 25 video
-Completati tecnicamente: 2/25
+Completati tecnicamente: 3/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | zWVDQEuw_yI | MARKETING \| Perchè per un Infomercial il settore non fa differenza? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | 5gKmC-QQlhA | MARKETING \| Posizionamento e Visual Hammer con Laura Ries | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
-| 3 | r8wi8vzz61w | Brand Positioning \| Le regole del Marketing di Al Ries | PENDING |  |
+| 3 | r8wi8vzz61w | Brand Positioning \| Le regole del Marketing di Al Ries | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
 | 4 | 44NmOABcDCc | Brand Positioning and Line Extension - Marketing - The Whole Truth | PENDING |  |
 | 5 | xb8bGLwkiGY | CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning? | PENDING |  |
 | 6 | WSYK8uA39Rg | Come vendere prodotti banali e difficili da differenziare | PENDING |  |
