@@ -36,7 +36,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 26 | zWVDQEuw_yI | 20220810 | [MARKETING &#124; Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI) | 132.0 | 00_fondamenti | 2 | STUDIATO | videos |
 | 27 | 5gKmC-QQlhA | 20220809 | [MARKETING &#124; Posizionamento e Visual Hammer con Laura Ries](https://www.youtube.com/watch?v=5gKmC-QQlhA) | 4408.0 | 02_posizionamento | 2 | ESCLUSO | videos |
 | 28 | r8wi8vzz61w | 20220804 | [Brand Positioning &#124; Le regole del Marketing di Al Ries](https://www.youtube.com/watch?v=r8wi8vzz61w) | 4493.0 | 02_posizionamento | 2 | ESCLUSO | videos |
-| 29 | 44NmOABcDCc | da acquisire | [Brand Positioning and Line Extension - Marketing - The Whole Truth](https://www.youtube.com/watch?v=44NmOABcDCc) | 4344.0 | 02_posizionamento | 2 | DA STUDIARE | videos |
+| 29 | 44NmOABcDCc | 20160908 | [Brand Positioning and Line Extension - Marketing - The Whole Truth](https://www.youtube.com/watch?v=44NmOABcDCc) | 4344.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 30 | xb8bGLwkiGY | da acquisire | [CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning?](https://www.youtube.com/watch?v=xb8bGLwkiGY) | 2347.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
 | 31 | WSYK8uA39Rg | da acquisire | [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg) | 3151.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
 | 32 | b9iVR8qJn-A | da acquisire | [BRAND POSITIONING &#124; CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A) | 2694.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
