@@ -20,10 +20,10 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 12 | [Aj3VH14jTY8](https://www.youtube.com/watch?v=Aj3VH14jTY8) — Posizionamento Di Marca &#124; Ogni Nicchia che NON Penetri è Denaro che PERDI! | 02_posizionamento | STUDIATO |
 | 13 | [IvWinmjYH_A](https://www.youtube.com/watch?v=IvWinmjYH_A) — Brand Positioning: 13 Tactics to Overcome Customer Price Resistance | 03_offerta | STUDIATO |
 | 14 | [6JKenkagQL8](https://www.youtube.com/watch?v=6JKenkagQL8) — The Rules of Brand Positioning to Expand Your Business Safely | 02_posizionamento | STUDIATO |
-| 15 | [iBqoukpv7FI](https://www.youtube.com/watch?v=iBqoukpv7FI) — 5 Key Questions to Find a Positioning That Crushes the Competition | 02_posizionamento | DA STUDIARE |
-| 16 | [Xg4rNCnWNOo](https://www.youtube.com/watch?v=Xg4rNCnWNOo) — What Does It Mean to "Position" Yourself Against the Competition? | 02_posizionamento | DA STUDIARE |
-| 17 | [1685-Eacgnw](https://www.youtube.com/watch?v=1685-Eacgnw) — From Zero to Successful Brand: How Focus Changes Everything | 02_posizionamento | DA STUDIARE |
-| 18 | [lvM-4wK6ntw](https://www.youtube.com/watch?v=lvM-4wK6ntw) — Strategic Marketing for a Successful Argentine Restaurant [Hyper-Focused] | 02_posizionamento | DA STUDIARE |
+| 15 | [iBqoukpv7FI](https://www.youtube.com/watch?v=iBqoukpv7FI) — 5 Key Questions to Find a Positioning That Crushes the Competition | 02_posizionamento | STUDIATO |
+| 16 | [Xg4rNCnWNOo](https://www.youtube.com/watch?v=Xg4rNCnWNOo) — What Does It Mean to "Position" Yourself Against the Competition? | 02_posizionamento | STUDIATO |
+| 17 | [1685-Eacgnw](https://www.youtube.com/watch?v=1685-Eacgnw) — From Zero to Successful Brand: How Focus Changes Everything | 10_casi_studio | STUDIATO |
+| 18 | [lvM-4wK6ntw](https://www.youtube.com/watch?v=lvM-4wK6ntw) — Strategic Marketing for a Successful Argentine Restaurant [Hyper-Focused] | 02_posizionamento | STUDIATO |
 | 19 | [MQZbKk1250k](https://www.youtube.com/watch?v=MQZbKk1250k) — I danni del MARKETING CREATIVO quando non spinge un POSIZIONAMENTO | 02_posizionamento | DA STUDIARE |
 | 20 | [2jvLll--CY8](https://www.youtube.com/watch?v=2jvLll--CY8) — La Forza del BRAND POSITIONING &#124; L'Azienda Milionaria Grazie ad 1 SOLO PRODOTTO | 02_posizionamento | DA STUDIARE |
 | 21 | [GNrQzyYUsoI](https://www.youtube.com/watch?v=GNrQzyYUsoI) — Come il BRAND POSITIONING può DIFFERENZIARE anche il Carbone | 02_posizionamento | DA STUDIARE |
