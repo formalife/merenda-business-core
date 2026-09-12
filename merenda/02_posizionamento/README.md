@@ -11,3 +11,5 @@ Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 [Espansione per nicchie e architettura multibrand](../09_business/espansione-nicchie-e-multibrand.md): mantenere focalizzati i singoli brand mentre l'azienda cresce in nuove nicchie e soluzioni.
 
 [Prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md): il posizionamento come prerequisito per uscire dalla comparazione di prezzo.
+
+[Estensioni di linea e architettura del brand](estensioni-di-linea-e-architettura-brand.md): quando una variante indebolisce il brand, quando serve un nuovo brand e quando un vero family brand è credibile.
