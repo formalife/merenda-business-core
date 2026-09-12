@@ -2,63 +2,80 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; ingestion loop in corso con workflow v1.1.
+ACTIVE — fasi 1–6 complete; primo batch semantico completato; checkpoint Claude richiesto.
 
 ## Fase corrente
 
-Prossimo video da elaborare semanticamente: `Wk1Se1AeInw`.
+**FASE 14 — Refactor KB al checkpoint 25.**
 
-Completati i primi otto video della queue. Il video 8 (`27Bt3nswSyg`) è stato integrato nella KB con un nuovo documento sull'authority marketing e routing trasversale da brand, marketing, acquisizione e vendita.
+I primi 25 contenuti della queue sono stati processati.
 
 ## Corpus
 
 - Video individuati: 468
-- Video completati: 8
-- Video rimanenti: 460
+- Contenuti processati: 25
+- STUDIATO / integrati o classificati nella KB: 24
+- ESCLUSO dalla dottrina attiva: 1
+- Da processare: 443
 - Corpus completo: NO
 
-296 video, 109 Shorts, 63 dirette; nessun duplicato tra le tre schede. Scansione del 2026-09-12.
-
-Gli asset tecnici risultano acquisiti in anticipo per 25 video. L'acquisizione anticipata non conta come completamento: un video diventa `STUDIATO` dopo revisione semantica e merge nella KB.
+Il contenuto escluso è `Wk1Se1AeInw`, lezione di Jay Abraham ospitata sul canale senza intervento sostanziale di Frank.
 
 ## Workflow attivo — v1.1
 
 - CODEX / locale: acquisizione tecnica a batch (metadata, transcript, normalizzazione, keyframe candidati).
-- CHATGPT: revisione semantica e fasi 8–13 sui video già acquisiti.
-- CLAUDE CODE: fase 14 ogni 25 completati; fase 15 ogni 50; fasi 16–22 a corpus completo.
+- CHATGPT: revisione semantica e fasi 8–13 sui video acquisiti.
+- CLAUDE CODE: fase 14 ogni 25 contenuti processati; fase 15 ogni 50; fasi 16–22 a corpus completo.
 
 ## Checkpoint
 
 - Ultimo refactor KB: nessuno
-- Prossimo refactor KB: 25 video completati
+- Refactor KB richiesto ora: 25
 - Ultimo audit tassonomia: nessuno
-- Prossimo audit tassonomia: 50 video completati
-- Checkpoint Claude richiesto: NO
+- Prossimo audit tassonomia: 50
+- Checkpoint Claude richiesto: YES
 
 ## Agente richiesto
 
-CHATGPT
+CLAUDE CODE
 
 ## Next Action
 
-Processare `Wk1Se1AeInw`, primo pendente della queue con asset già acquisiti.
+Leggere:
 
-Per ogni video:
-1. leggere transcript normalizzato;
-2. risolvere o segnalare soltanto incomprensioni sostanziali;
-3. valutare i keyframe solo se aggiungono informazione non ricostruibile dall'audio;
-4. confrontare con la KB pertinente;
-5. MERGE, NON APPEND;
-6. aggiornare catalogo, VIDEO_INDEX, queue e STATUS.
+1. `00_START_HERE.md`
+2. `CLAUDE.md`
+3. `STATUS.md`
+4. `reviews/CHECKPOINT_025.md`
 
-Continuare fino al video 25, salvo esaurimento degli asset tecnici. Al video 25 passare a Claude Code per fase 14.
+Poi eseguire **soltanto la fase 14**: refactor della Knowledge Base senza aggiungere nuova dottrina.
+
+Al termine:
+
+- aggiornare routing e link se necessario;
+- mantenere invariati i significati;
+- aggiornare questo `STATUS.md`;
+- impostare `Agente richiesto: CODEX`, perché il prossimo transcript non è ancora acquisito su GitHub;
+- fare commit.
+
+## Prossimo contenuto dopo il checkpoint
+
+`zWVDQEuw_yI` — *MARKETING | Perchè per un Infomercial il settore non fa differenza?*
+
+Il transcript non è ancora presente nel repository remoto.
 
 ## Blocchi / intervento umano
 
-Nessun blocco per il video 8.
+Nessun blocco semantico aperto nel batch 8–25.
 
-Restano non bloccanti le verifiche manuali già documentate nelle revisioni precedenti (mappa Disney del primo corso e altri dubbi locali non consolidati).
+Restano soltanto le verifiche manuali non bloccanti già documentate nelle revisioni dei primi video.
 
 ## Verifica operativa
 
-Workflow aggiornato su GitHub: Codex non deve più consumare token per la distillazione semantica ordinaria. ChatGPT lavora sulla stessa KB remota; Claude resta responsabile dei checkpoint strutturali.
+Catalogo GitHub verificato dopo il video 25:
+
+- `STUDIATO`: 24
+- `ESCLUSO`: 1
+- `DA STUDIARE`: 443
+
+La queue è pronta per il checkpoint strutturale Claude.
