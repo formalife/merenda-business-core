@@ -78,6 +78,26 @@ Il materiale del 2024 prevale sulla formulazione più rigida del 2023: **la foca
 
 Fonte precedente: [Posizionamento NON significa vendere 1 SOLO prodotto](https://www.youtube.com/watch?v=PjcWMHBN7qM), 4 settembre 2023. [Revisione](../../sources/transcripts/PjcWMHBN7qM.review.md).
 
+## Anche una commodity si differenzia scegliendo chi deve percepire la differenza
+
+Un prodotto apparentemente identico agli altri non obbliga automaticamente alla guerra di prezzo.
+
+Nel caso Il Toro, il carbone diventa differenziabile quando il target non è "chiunque compri carbone", ma il professionista della griglia che riconosce conseguenze operative in:
+
+- costanza e durata;
+- potere calorifico;
+- fumo e scintille;
+- resa;
+- sapore trasferito agli alimenti.
+
+Il principio è che **la differenza deve essere rilevante per il target scelto**.
+
+Un cliente che non conosce il prodotto può vedere soltanto "carbone più caro"; uno specialista può invece attribuire valore a caratteristiche che influenzano il proprio lavoro.
+
+Questo è diverso dal creare un "meccanismo unico" nominale. Merenda contrappone esplicitamente quella logica, centrata sulla caratteristica inventata del prodotto, al posizionamento nella mente del cliente.
+
+Fonte: [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024. [Revisione](../../sources/transcripts/WSYK8uA39Rg.review.md).
+
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.
