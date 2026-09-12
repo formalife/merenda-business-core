@@ -241,6 +241,38 @@ Una variante è chiedere al cliente di dimostrare che usa già una soluzione con
 
 Questo trasforma il prodotto concorrente in un filtro: la persona ha già dimostrato di appartenere alla categoria e di spendere per quel bisogno.
 
+## Diagnosticare l'offerta dai risultati
+
+Non basta giudicare internamente l'offerta come "bella".
+
+Merenda propone tre segnali osservabili di debolezza:
+
+1. fatica a generare lead qualificati;
+2. molti lead non arrivano con reale intenzione di comprare;
+3. il prospect riduce la scelta a un confronto di prezzo con offerte concorrenti.
+
+Se questi segnali sono forti, il problema può stare nell'offerta anche quando funnel, automazioni e copy sembrano tecnicamente corretti.
+
+Fonte: [3 Segnali Che La Tua OFFERTA Straordinaria Fa Schifo](https://www.youtube.com/watch?v=Vm1eT2_f6Ho), 23 maggio 2024.
+
+## Garanzia come trasferimento del rischio
+
+Una garanzia forte sposta una parte del rischio percepito dal cliente all'impresa.
+
+Può andare oltre il semplice rimborso, ma l'intensità della garanzia è una decisione economica, non una formula obbligatoria.
+
+La progettazione richiede:
+
+- capire quale rischio blocca davvero il cliente;
+- formulare condizioni chiare;
+- renderla credibile e facilmente comprensibile;
+- verificare che margini e tasso di rimborso la rendano sostenibile;
+- considerare i rimborsi previsti come parte del costo di acquisizione/marketing.
+
+Bonus e fast-action bonus possono aumentare il valore percepito, ma non sostituiscono il principio fondamentale: **ridurre il rischio della prova**.
+
+Fonte: [Garanzia d'acciaio](https://www.youtube.com/watch?v=ZX_59lE19dw), 14 novembre 2023.
+
 ## Il criterio finale
 
 Una grande offerta non è quella con più bonus.
