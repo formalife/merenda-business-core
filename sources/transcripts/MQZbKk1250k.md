@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=MQZbKk1250k
 Data pubblicazione: 20240201
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `MQZbKk1250k.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] burgas è il fast food più irriverente
 
