@@ -17,6 +17,25 @@ Prima l'azienda deve costruire una base abbastanza forte da finanziare e sostene
 
 Solo dopo ha senso utilizzare la cassa e le competenze accumulate per penetrare nuovi mercati.
 
+## Replicare il successo, non la povertà
+
+Una nuova linea, una nuova sede o un nuovo brand non devono essere usati per compensare il fatto che il primo modello non funziona.
+
+Merenda definisce questo errore come **replicare la povertà**: aprire il secondo locale perché il primo guadagna poco, aggiungere altri prodotti perché quelli esistenti non vendono, moltiplicare attività mediocri sperando che la somma produca un grande risultato.
+
+Prima si deve rendere forte il core:
+
+- focus chiaro;
+- differenza riconoscibile;
+- domanda dimostrata;
+- margini e utili;
+- capacità operativa;
+- marketing che funziona.
+
+Segnali come code, agende piene, preordini o forte saturazione della capacità non sono formule universali, ma illustrano il principio: **espandere qualcosa che ha già dimostrato di funzionare**.
+
+La crescita rimane un rischio imprenditoriale, ma Merenda distingue tra rischio sostenuto da evidenze e rischio usato per fuggire dai problemi del modello attuale.
+
 ## Capire quando una nicchia sta diventando costosa
 
 All'interno di un mercato esiste un punto oltre il quale acquisire un cliente aggiuntivo può diventare progressivamente più costoso.
