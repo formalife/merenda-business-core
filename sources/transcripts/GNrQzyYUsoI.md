@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=GNrQzyYUsoI
 Data pubblicazione: 20240119
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `GNrQzyYUsoI.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] siamo andati on il 6 luglio 2023 al 6
 
