@@ -44,6 +44,20 @@ L'assenza di esempi già esistenti nel proprio settore non dimostra che il metod
 
 Fonte: [Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI), 10 agosto 2022. [Revisione](../../sources/transcripts/zWVDQEuw_yI.review.md).
 
+## Un buon prodotto non genera domanda da solo
+
+Competenza tecnica, qualità del prodotto e impegno sono necessari per mantenere le promesse, ma non sostituiscono marketing e vendita.
+
+Nel materiale del 2023 Merenda usa il paragone con un atleta capace di attirare pubblico pagante: la qualità tecnica conta, ma l'economia dell'attività cambia quando quella qualità viene anche trasformata in attenzione, domanda e acquisti.
+
+Lo stesso principio ha un limite esplicito: identificare una “folla affamata” non autorizza a improvvisarsi fornitori di qualcosa che non si sa realmente erogare. La domanda deve essere servita con competenza e con promesse che l'impresa è in grado di mantenere.
+
+Quindi:
+
+**qualità senza marketing può restare invisibile; marketing senza capacità di consegna distrugge valore.**
+
+Fonte: [Obiezione prezzo — Parte 2](https://www.youtube.com/watch?v=3SmdRSCB5EE), 27 febbraio 2023. [Revisione](../../sources/transcripts/3SmdRSCB5EE.review.md).
+
 ## Collegamenti operativi
 
 - [Differenziare l'azienda e tradurre la visione in passi](../02_posizionamento/differenziazione-operativa.md).
