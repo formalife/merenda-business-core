@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=27Bt3nswSyg
 Data pubblicazione: 20221107
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione. Revisione semantica completata; vedi `27Bt3nswSyg.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] un'autorità normalmente ha
 
