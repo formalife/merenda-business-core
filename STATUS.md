@@ -2,11 +2,11 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; primo batch semantico completato; checkpoint Claude richiesto.
+ACTIVE — fasi 1–6 complete; primo batch semantico completato; checkpoint 25 (fase 14) completato.
 
 ## Fase corrente
 
-**FASE 14 — Refactor KB al checkpoint 25.**
+**FASE 14 completata al checkpoint 25.** In attesa del prossimo batch di acquisizione (CODEX) per riprendere fasi 7–13 (CHATGPT).
 
 I primi 25 contenuti della queue sono stati processati.
 
@@ -29,53 +29,42 @@ Il contenuto escluso è `Wk1Se1AeInw`, lezione di Jay Abraham ospitata sul canal
 
 ## Checkpoint
 
-- Ultimo refactor KB: nessuno
-- Refactor KB richiesto ora: 25
+- Ultimo refactor KB: 25 (completato)
+- Refactor KB richiesto ora: no (prossimo a 50, insieme all'audit tassonomia)
 - Ultimo audit tassonomia: nessuno
 - Prossimo audit tassonomia: 50
-- Checkpoint Claude richiesto: YES
+- Checkpoint Claude richiesto: NO
 
 ## Agente richiesto
 
-CLAUDE CODE
+CODEX
+
+## Refactor eseguito al checkpoint 25
+
+`merenda/02_posizionamento/differenziazione-operativa.md` era cresciuto a 194 righe mescolando principi generali con sei esempi aziendali (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's).
+
+Separato in:
+
+- `merenda/02_posizionamento/differenziazione-operativa.md` — principi generali (83 righe);
+- `merenda/02_posizionamento/esempi-di-differenziazione.md` — esempi aziendali (113 righe, nuovo file).
+
+Nessun contenuto è stato riassunto, riscritto o eliminato: solo spostato. Aggiornati di conseguenza:
+
+- `merenda/02_posizionamento/README.md` (routing al nuovo file);
+- `merenda/05_acquisizione/README.md` (link con anchor al caso Guapo, spostato nel nuovo file).
+
+Verificati tutti i link interni della KB (script di controllo file+anchor): nessun link rotto.
+
+Le altre sezioni della KB (00–01, 03–10) sono state lette integralmente e risultano già ben organizzate: nomi, README, confini tra sezioni e collegamenti incrociati non richiedevano interventi al checkpoint 25.
 
 ## Next Action
 
-Leggere:
+Prossimo contenuto in queue: `zWVDQEuw_yI` — *MARKETING | Perchè per un Infomercial il settore non fa differenza?*. Il transcript non è ancora presente nel repository remoto.
 
-1. `00_START_HERE.md`
-2. `CLAUDE.md`
-3. `STATUS.md`
-4. `reviews/CHECKPOINT_025.md`
+Richiedere a **CODEX** l'acquisizione tecnica del prossimo batch (a partire da `zWVDQEuw_yI`), poi restituire il controllo a **CHATGPT** per le fasi 8–13.
 
-Poi eseguire **soltanto la fase 14**: refactor della Knowledge Base senza aggiungere nuova dottrina.
-
-Al termine:
-
-- aggiornare routing e link se necessario;
-- mantenere invariati i significati;
-- aggiornare questo `STATUS.md`;
-- impostare `Agente richiesto: CODEX`, perché il prossimo transcript non è ancora acquisito su GitHub;
-- fare commit.
-
-## Prossimo contenuto dopo il checkpoint
-
-`zWVDQEuw_yI` — *MARKETING | Perchè per un Infomercial il settore non fa differenza?*
-
-Il transcript non è ancora presente nel repository remoto.
+Al prossimo checkpoint (50 contenuti processati): eseguire fase 14 (refactor) e fase 15 (audit globale della tassonomia).
 
 ## Blocchi / intervento umano
 
-Nessun blocco semantico aperto nel batch 8–25.
-
-Restano soltanto le verifiche manuali non bloccanti già documentate nelle revisioni dei primi video.
-
-## Verifica operativa
-
-Catalogo GitHub verificato dopo il video 25:
-
-- `STUDIATO`: 24
-- `ESCLUSO`: 1
-- `DA STUDIARE`: 443
-
-La queue è pronta per il checkpoint strutturale Claude.
+Nessun blocco semantico aperto nel batch 8–25. Restano soltanto le verifiche manuali non bloccanti già documentate nelle revisioni dei primi video.

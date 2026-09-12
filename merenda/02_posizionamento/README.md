@@ -2,6 +2,8 @@
 
 [Differenziazione operativa](differenziazione-operativa.md): cambiamenti reali, convenzioni di settore e percorso finanziabile.
 
+[Esempi di differenziazione applicata](esempi-di-differenziazione.md): casi aziendali (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) che illustrano i principi del documento precedente.
+
 Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 
 [Complessità del sistema e riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md): il posizionamento come parte di un sistema difficile da imitare, non come slogan isolato.
