@@ -152,6 +152,40 @@ anziché:
 
 Le ipotesi devono essere realistiche e comprensibili al cliente.
 
+## Pricing situazionale: prezzare il risultato, non solo il componente
+
+Un prezzo calcolato soltanto come materia prima + ore può perdere il valore economico del contesto.
+
+Nel caso illustrativo del gommista, la gomma comprata con mesi di anticipo è confrontabile come commodity. La stessa gomma, consegnata e montata immediatamente durante un'emergenza, entra invece in un servizio che vende:
+
+- ripartenza immediata;
+- priorità;
+- reperibilità;
+- tempo salvato;
+- appuntamenti non persi;
+- riduzione dello stress.
+
+Il valore diventa quindi **prodotto + sistema di servizio + significato del risultato per quel target**.
+
+Il principio non autorizza prezzi arbitrari: il materiale 2025 prevale e richiede test su mercato, margine, conversione e target.
+
+Fonte: [Strategie Di Marketing Avanzate Per Alzare I Prezzi](https://www.youtube.com/watch?v=Ny8AkjwSoo8), 8 novembre 2024. [Revisione](../../sources/transcripts/Ny8AkjwSoo8.review.md).
+
+## Offerta VIP e valore aspirazionale
+
+Per segmenti alto-spendenti Merenda propone di progettare anche offerte:
+
+- prioritarie;
+- più comode;
+- personalizzate;
+- limitate;
+- fuori menu;
+- con accesso o servizio superiore.
+
+Il prezzo superiore deve essere legato a ciò che l'esperienza **significa** per quel cliente, non semplicemente a un costo industriale moltiplicato.
+
+Questo completa la strategia dell'[ammiraglia](#ammiraglia-come-ancora-e-leva-pr): l'offerta top può creare sia ancoraggio sia reale monetizzazione su clienti ad alta disponibilità a pagare.
+
 ## Il prezzo alto come segnale
 
 Quando il posizionamento e l'offerta lo sostengono, Merenda suggerisce di non nascondere sempre il fatto di essere costosi.
@@ -164,6 +198,25 @@ Dichiarare apertamente che il servizio richiede un investimento elevato, impegno
 - allontanare chi cerca soltanto la soluzione più economica.
 
 Il prezzo diventa parte del posizionamento, non una scusa da pronunciare alla fine.
+
+## Pre-motivare il price gap
+
+Merenda critica due estremi:
+
+1. campagne in cui **il prezzo basso guida tutto il marketing**;
+2. processi in cui **il prezzo viene tenuto completamente nascosto fino alla fine**, lasciando al venditore la sorpresa e tutte le obiezioni.
+
+L'obiettivo è costruire un percorso che renda comprensibile, prima della chiusura, perché esiste un gap tra il proprio prezzo e quello delle alternative.
+
+I materiali devono far pensare al prospect:
+
+**"è più caro, ma è proprio questa differenza che sto cercando."**
+
+Da qui la formula: **il copywriting è srotolare il posizionamento**.
+
+Il prezzo non deve necessariamente essere dichiarato nella prima riga; deve però essere preparato attraverso differenza, prove, valore e gestione anticipata delle obiezioni.
+
+Fonte: [Come Aumentare I Prezzi E Rendere Felici I Tuoi Clienti](https://www.youtube.com/watch?v=hvWYbpJPK2E), 25 ottobre 2024. [Revisione](../../sources/transcripts/hvWYbpJPK2E.review.md).
 
 ## Marketing e vendita devono dire la stessa cosa
 
