@@ -19,3 +19,21 @@ La mappa Disney mostrata con etichetta «1957» collega studio/film, TV, musica,
 ## Esercizio: riprogettare il ruolo di un'offerta
 
 Scegliere un prodotto o servizio oggi venduto con profitto. Progettare come utilizzarlo a pareggio o in piccola perdita per attrarre clienti, indicando le vendite successive da cui ottenere il profitto. L'esercizio include l'ipotesi di gratuità solo nel contesto di forte controllo dei numeri e successiva costruzione del funnel. Non afferma che qualsiasi regalo produca automaticamente vendite. [81:40–83:13](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4900s)
+
+
+## L'esca e ciò che vuoi vendere possono essere diversi
+
+Il front-end non deve necessariamente essere il prodotto sul quale l'azienda vuole ottenere il massimo profitto.
+
+Può essere scelto perché:
+
+- è desiderabile;
+- abbassa la barriera di ingresso;
+- identifica un target utile;
+- porta fisicamente/digitalmente il cliente dentro il sistema.
+
+Una volta acquisito il cliente, il profitto può arrivare da bundle, menu, upsell, cross-sell e acquisti successivi.
+
+L'esca dovrebbe però attirare **il tipo di cliente che può essere monetizzato dal backend**, non semplicemente il maggior numero possibile di persone.
+
+Fonte: [Come ATTRARRE CLIENTI con offerte irresistibili e l’esca giusta](https://www.youtube.com/watch?v=Dqzs97Wl9jc), 19 settembre 2023.
