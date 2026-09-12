@@ -2,6 +2,17 @@
 
 Fonte principale: Frank Merenda, [Posizionamento Di Marca | Ogni Nicchia che NON Penetri è Denaro che PERDI!](https://www.youtube.com/watch?v=Aj3VH14jTY8), pubblicato il 14 maggio 2025. [Revisione](../../sources/transcripts/Aj3VH14jTY8.review.md).
 
+## Decollo prima dell'espansione
+
+Merenda distingue due fasi:
+
+- **decollo**: l'impresa deve conquistare una posizione attraverso forte focus;
+- **quota**: dopo notorietà, margine e struttura, può utilizzare più leve di monetizzazione ed espansione.
+
+Questo evita di copiare la superficie delle grandi aziende. L'assortimento attuale di un brand centenario non è la ricetta che quel brand ha usato per nascere.
+
+Nel decollo, il focus scelto dovrebbe superare quattro controlli: domanda, differenza reale, marginalità e scalabilità. Vedi [differenziazione operativa](../02_posizionamento/differenziazione-operativa.md#quattro-filtri-per-scegliere-il-focus-di-decollo).
+
 ## Prima consolidare, poi espandere
 
 L'espansione non parte dal desiderio di fare più cose.
