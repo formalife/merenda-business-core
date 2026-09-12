@@ -66,6 +66,26 @@ anziché:
 
 Questa logica è stata sviluppata ulteriormente nel 2025 nel framework sull'[espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md).
 
+## Spin-off: separare il contesto può rendere credibile la stessa offerta
+
+Il caso CosMc's mostra una forma concreta di separazione.
+
+McDonald's aveva già introdotto caffè, prodotti da colazione e snack dentro i propri ristoranti, ma il significato dominante del brand restava fast food/hamburger. Nel 2024 Merenda giudica positivamente la decisione di estrarre parte di quell'offerta e costruire una catena con nome distinto.
+
+Il punto non è che il pubblico debba ignorare la proprietà: può sapere perfettamente che il nuovo brand appartiene a McDonald's.
+
+Conta che la proposta venga presentata in **un contesto mentale e fisico diverso**, con un nome che non porta con sé il significato "hamburger".
+
+Lo spin-off però risolve solo una parte del problema. Deve ancora dimostrare:
+
+- una differenza rilevante rispetto al leader della nuova categoria;
+- un menu e un'esperienza coerenti;
+- capacità di trasformare curiosità iniziale in domanda stabile.
+
+Le file all'apertura e le PR non sono prova sufficiente di un posizionamento vincente.
+
+Fonte: [CosMc's](https://www.youtube.com/watch?v=xb8bGLwkiGY), 8 febbraio 2024. [Revisione](../../sources/transcripts/xb8bGLwkiGY.review.md).
+
 ## Family brand: eccezione strutturale, non licenza universale
 
 Un family brand è possibile quando il nome superiore possiede già un significato abbastanza ampio da rendere credibili categorie diverse sottostanti.
