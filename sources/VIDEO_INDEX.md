@@ -50,9 +50,9 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 40 | uMPDxFMj9VY | 20241223 | [Direct Response Marketing: How to Create Unbeatable Offers for Your Business](https://www.youtube.com/watch?v=uMPDxFMj9VY) | 1156.0 | 03_offerta | 2 | STUDIATO | videos |
 | 41 | Ny8AkjwSoo8 | 20241108 | [Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta](https://www.youtube.com/watch?v=Ny8AkjwSoo8) | 1582.0 | 03_offerta | 2 | STUDIATO | videos |
 | 42 | hvWYbpJPK2E | 20241025 | [How to Raise Prices and Make Your Customers Happy](https://www.youtube.com/watch?v=hvWYbpJPK2E) | 1494.0 | 03_offerta | 2 | STUDIATO | videos |
-| 43 | Vm1eT2_f6Ho | da acquisire | [3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) | 272.0 | 03_offerta | 2 | DA STUDIARE | videos |
-| 44 | ZX_59lE19dw | da acquisire | [Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO](https://www.youtube.com/watch?v=ZX_59lE19dw) | 243.0 | 03_offerta | 2 | DA STUDIARE | videos |
-| 45 | Dqzs97Wl9jc | da acquisire | [How to ATTRACT CUSTOMERS with irresistible offers and the right bait](https://www.youtube.com/watch?v=Dqzs97Wl9jc) | 306.0 | 03_offerta | 2 | DA STUDIARE | videos |
+| 43 | Vm1eT2_f6Ho | 20240523 | [3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) | 272.0 | 03_offerta | 2 | STUDIATO | videos |
+| 44 | ZX_59lE19dw | 20231114 | [Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO](https://www.youtube.com/watch?v=ZX_59lE19dw) | 243.0 | 03_offerta | 2 | STUDIATO | videos |
+| 45 | Dqzs97Wl9jc | 20230919 | [How to ATTRACT CUSTOMERS with irresistible offers and the right bait](https://www.youtube.com/watch?v=Dqzs97Wl9jc) | 306.0 | 03_offerta | 2 | STUDIATO | videos |
 | 46 | 3SmdRSCB5EE | da acquisire | [Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2]](https://www.youtube.com/watch?v=3SmdRSCB5EE) | 1274.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 47 | OFsVGBnM158 | da acquisire | [How to Handle the High Price Objection and Sell More [Part 1]](https://www.youtube.com/watch?v=OFsVGBnM158) | 1124.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 48 | TXGgnHLVhvA | da acquisire | [Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega...](https://www.youtube.com/watch?v=TXGgnHLVhvA) | 3140.0 | 03_offerta | 2 | DA STUDIARE | videos |
