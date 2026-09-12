@@ -23,10 +23,34 @@ Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto
 Una campagna che incassa dopo dieci giorni impegna la cassa diversamente da una che incassa dopo mesi. La durata dell'esposizione va progettata e controllata: avere lead in un database non equivale a disporre di liquidità. L'acquisizione deve quindi essere coerente con il [sistema di offerte e monetizzazione](../03_offerta/front-end-e-back-end.md).
 
 
-## Acquisizione B2B e lifetime value
+## Acquisizione B2B, lifetime value e finestra temporale
 
-Nel caso Il Toro, Merenda richiama la necessità di giudicare una campagna B2B non soltanto dal fatturato immediato dei primi ordini, ma dal valore dei clienti acquisiti nel tempo quando il business prevede riacquisti.
+Nel caso Il Toro, Merenda richiama la necessità di giudicare una campagna B2B non soltanto dal fatturato immediato dei primi ordini, ma dal valore economico prodotto dai clienti acquisiti nel tempo.
 
-Se un cliente resta attivo mediamente per mesi o anni, il valore economico di 30 nuovi clienti non coincide con il primo ordine. Per questo il lifetime value deve entrare nella lettura della sostenibilità dell'acquisizione.
+Il riferimento più preciso è al **lifetime gross margin**: il margine complessivo generato dal cliente durante la relazione, non il semplice fatturato lordo della prima transazione.
 
-Fonte: [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024.
+Questo cambia due letture.
+
+### Quanto si può spendere per acquisire
+
+Un front-end può anche andare a break-even o essere poco redditizio se il cliente, nel tempo, genera margine sufficiente. Il costo di acquisizione va quindi confrontato con il valore economico della relazione, non automaticamente con il primo ordine.
+
+### Quando misurare la conversione
+
+Nel B2B spesso marketing e momento di acquisto non coincidono.
+
+Il prospect può avere:
+
+- scorte da consumare;
+- contratti in corso;
+- budget non ancora disponibile;
+- un fornitore che non può ancora sostituire;
+- un ciclo di approvazione interno.
+
+Per questo una coorte di lead va osservata nel tempo. Il costo di acquisizione calcolato soltanto sulle vendite immediate può sovrastimare il costo reale se altri lead convertono nei mesi successivi.
+
+Il principio non autorizza a ignorare la cassa: il tempo di rientro resta una variabile fondamentale. Lifetime value e payback devono essere letti insieme.
+
+Fonti:
+- [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
+- [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024.
