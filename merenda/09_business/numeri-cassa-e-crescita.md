@@ -54,3 +54,30 @@ Il principio non autorizza a ignorare la cassa: il tempo di rientro resta una va
 Fonti:
 - [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
 - [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024.
+
+
+## Incentivi diversi lungo la catena
+
+Una crescita di fatturato osservata a monte non implica automaticamente che la strategia crei valore per tutti gli attori.
+
+Nel materiale sulle estensioni di linea Merenda distingue il punto di vista di:
+
+- casa madre/produttore;
+- manager con obiettivi di breve periodo;
+- distributore;
+- rivenditore o franchisee;
+- cliente finale.
+
+Una nuova linea può aumentare i ricavi della casa madre perché viene caricata sugli intermediari, mentre a valle può aumentare:
+
+- stock;
+- capitale immobilizzato;
+- costi di personale e struttura;
+- rischio di invenduto;
+- necessità di scontare.
+
+Quindi bisogna chiedere sempre **chi incassa, chi sostiene il costo e chi sopporta il rischio**.
+
+Questo vale anche nel franchising: la convenienza del franchisor e quella del singolo affiliato non sono automaticamente identiche.
+
+Fonte: [CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A), 8 dicembre 2023.
