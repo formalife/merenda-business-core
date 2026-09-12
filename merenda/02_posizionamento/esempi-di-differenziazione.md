@@ -111,3 +111,16 @@ L'estensione di linea non è soltanto un problema percettivo. Può aumentare:
 Questo collega direttamente il posizionamento alla [riduzione delle variabili operative](../04_marketing/complessita-e-riduzione-variabili.md).
 
 Fonte: [Le Strategie di Marketing si basano sul Posizionamento](https://www.youtube.com/watch?v=_T73jCJtH0k), 2 maggio 2023. [Revisione](../../sources/transcripts/_T73jCJtH0k.review.md).
+
+
+## CosMc's: stessi asset, nuovo contesto mentale
+
+McDonald's aveva già una parte dell'offerta da colazione/caffetteria attraverso McCafé e prodotti mattutini.
+
+Merenda osserva che quella proposta faticava dentro il significato dominante di McDonald's: fast food e hamburger.
+
+Con CosMc's, l'azienda prende parte degli stessi asset e li sposta in un brand/catena separata. Per Merenda questa è una scelta coerente con il posizionamento: **non attaccare all'infinito nuove categorie sotto il nome originale quando il nome significa già altro**.
+
+La valutazione resta però sospesa sul lungo periodo: al momento del video il menu appariva in parte originale, in parte simile a Starbucks e in parte copiato dal menu McDonald's. Mancava ancora una differenza chiaramente dimostrata.
+
+Fonte: [CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning?](https://www.youtube.com/watch?v=xb8bGLwkiGY), 8 febbraio 2024. [Revisione](../../sources/transcripts/xb8bGLwkiGY.review.md).
