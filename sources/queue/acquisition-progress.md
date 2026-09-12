@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:42:33.876017+00:00
+Ultimo aggiornamento: 2026-09-12T16:42:39.059155+00:00
 
 Batch: 25 video
-Completati tecnicamente: 21/25
+Completati tecnicamente: 22/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -28,7 +28,7 @@ Completati tecnicamente: 21/25
 | 19 | ZX_59lE19dw | Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | Dqzs97Wl9jc | How to ATTRACT CUSTOMERS with irresistible offers and the right bait | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | 3SmdRSCB5EE | Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | OFsVGBnM158 | How to Handle the High Price Objection and Sell More [Part 1] | PENDING |  |
+| 22 | OFsVGBnM158 | How to Handle the High Price Objection and Sell More [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | TXGgnHLVhvA | Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | PENDING |  |
 | 24 | KGPCinmAcoo | [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | PENDING |  |
 | 25 | pg6obSMYC0o | Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | PENDING |  |
