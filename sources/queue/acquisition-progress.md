@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:41:34.712050+00:00
+Ultimo aggiornamento: 2026-09-12T16:41:40.414496+00:00
 
 Batch: 25 video
-Completati tecnicamente: 12/25
+Completati tecnicamente: 13/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -19,7 +19,7 @@ Completati tecnicamente: 12/25
 | 10 | vvpLVofHhHM | Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | hF9Xoc9hnHE | Brand Positioning vs Marketing Accademico | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | Cqtu8BIvyto | 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 13 | wdSlAXm_Qt4 | Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | PENDING |  |
+| 13 | wdSlAXm_Qt4 | Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | W5jfzieK33Y | How to Raise Prices and Triple Your Profits Without Ruining Your Business | PENDING |  |
 | 15 | uMPDxFMj9VY | Direct Response Marketing: How to Create Unbeatable Offers for Your Business | PENDING |  |
 | 16 | Ny8AkjwSoo8 | Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | PENDING |  |
