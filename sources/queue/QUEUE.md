@@ -40,8 +40,8 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 32 | [b9iVR8qJn-A](https://www.youtube.com/watch?v=b9iVR8qJn-A) — BRAND POSITIONING &#124; CHI Guadagna DAVVERO dalle Estensioni di Linea? | 02_posizionamento | STUDIATO |
 | 33 | [AgH3SOnS7Kc](https://www.youtube.com/watch?v=AgH3SOnS7Kc) — Kinder Ferrero e il Marketing: Tempo di Focus | 02_posizionamento | STUDIATO |
 | 34 | [GsmDyZQeYUM](https://www.youtube.com/watch?v=GsmDyZQeYUM) — Brand Positioning &#124; Il più grande FLOP di FERRERO [La vera storia] | 02_posizionamento | STUDIATO |
-| 35 | [vvpLVofHhHM](https://www.youtube.com/watch?v=vvpLVofHhHM) — Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | 02_posizionamento | DA STUDIARE |
-| 36 | [hF9Xoc9hnHE](https://www.youtube.com/watch?v=hF9Xoc9hnHE) — Brand Positioning vs Marketing Accademico | 02_posizionamento | DA STUDIARE |
+| 35 | [vvpLVofHhHM](https://www.youtube.com/watch?v=vvpLVofHhHM) — Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | 02_posizionamento | STUDIATO |
+| 36 | [hF9Xoc9hnHE](https://www.youtube.com/watch?v=hF9Xoc9hnHE) — Brand Positioning vs Marketing Accademico | 02_posizionamento | STUDIATO |
 | 37 | [Cqtu8BIvyto](https://www.youtube.com/watch?v=Cqtu8BIvyto) — 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | 03_offerta | DA STUDIARE |
 | 38 | [wdSlAXm_Qt4](https://www.youtube.com/watch?v=wdSlAXm_Qt4) — Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | 03_offerta | DA STUDIARE |
 | 39 | [W5jfzieK33Y](https://www.youtube.com/watch?v=W5jfzieK33Y) — How to Raise Prices and Triple Your Profits Without Ruining Your Business | 03_offerta | DA STUDIARE |
