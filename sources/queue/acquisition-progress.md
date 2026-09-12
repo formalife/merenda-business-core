@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:42:01.834824+00:00
+Ultimo aggiornamento: 2026-09-12T16:42:07.737269+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | wdSlAXm_Qt4 | Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | W5jfzieK33Y | How to Raise Prices and Triple Your Profits Without Ruining Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | uMPDxFMj9VY | Direct Response Marketing: How to Create Unbeatable Offers for Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | Ny8AkjwSoo8 | Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | PENDING |  |
+| 16 | Ny8AkjwSoo8 | Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | hvWYbpJPK2E | How to Raise Prices and Make Your Customers Happy | PENDING |  |
 | 18 | Vm1eT2_f6Ho | 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | PENDING |  |
 | 19 | ZX_59lE19dw | Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | PENDING |  |
