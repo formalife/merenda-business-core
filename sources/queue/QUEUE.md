@@ -18,7 +18,7 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 10 | [hT2yQgRrh7w](https://www.youtube.com/watch?v=hT2yQgRrh7w) — How to Stand Out from the Competition: A Positioning Lesson from Biraghi in Turin | 02_posizionamento | STUDIATO |
 | 11 | [elw419RBCEM](https://www.youtube.com/watch?v=elw419RBCEM) — Posizionamento di Marca: Il Sistema Complesso che Trasforma PMI in Leader di Mercato | 02_posizionamento | STUDIATO |
 | 12 | [Aj3VH14jTY8](https://www.youtube.com/watch?v=Aj3VH14jTY8) — Posizionamento Di Marca &#124; Ogni Nicchia che NON Penetri è Denaro che PERDI! | 02_posizionamento | STUDIATO |
-| 13 | [IvWinmjYH_A](https://www.youtube.com/watch?v=IvWinmjYH_A) — Brand Positioning: 13 Tactics to Overcome Customer Price Resistance | 02_posizionamento | DA STUDIARE |
+| 13 | [IvWinmjYH_A](https://www.youtube.com/watch?v=IvWinmjYH_A) — Brand Positioning: 13 Tactics to Overcome Customer Price Resistance | 03_offerta | STUDIATO |
 | 14 | [6JKenkagQL8](https://www.youtube.com/watch?v=6JKenkagQL8) — The Rules of Brand Positioning to Expand Your Business Safely | 02_posizionamento | DA STUDIARE |
 | 15 | [iBqoukpv7FI](https://www.youtube.com/watch?v=iBqoukpv7FI) — 5 Key Questions to Find a Positioning That Crushes the Competition | 02_posizionamento | DA STUDIARE |
 | 16 | [Xg4rNCnWNOo](https://www.youtube.com/watch?v=Xg4rNCnWNOo) — What Does It Mean to "Position" Yourself Against the Competition? | 02_posizionamento | DA STUDIARE |
