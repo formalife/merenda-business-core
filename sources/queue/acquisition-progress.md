@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:41:08.114952+00:00
+Ultimo aggiornamento: 2026-09-12T16:41:10.117305+00:00
 
 Batch: 25 video
-Completati tecnicamente: 6/25
+Completati tecnicamente: 7/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -13,7 +13,7 @@ Completati tecnicamente: 6/25
 | 4 | 44NmOABcDCc | Brand Positioning and Line Extension - Marketing - The Whole Truth | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | xb8bGLwkiGY | CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | WSYK8uA39Rg | Come vendere prodotti banali e difficili da differenziare | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | b9iVR8qJn-A | BRAND POSITIONING \| CHI Guadagna DAVVERO dalle Estensioni di Linea? | PENDING |  |
+| 7 | b9iVR8qJn-A | BRAND POSITIONING \| CHI Guadagna DAVVERO dalle Estensioni di Linea? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | AgH3SOnS7Kc | Kinder Ferrero e il Marketing: Tempo di Focus | PENDING |  |
 | 9 | GsmDyZQeYUM | Brand Positioning \| Il più grande FLOP di FERRERO [La vera storia] | PENDING |  |
 | 10 | vvpLVofHhHM | Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | PENDING |  |
