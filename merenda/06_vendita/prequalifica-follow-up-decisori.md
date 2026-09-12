@@ -18,6 +18,26 @@ Anche i clienti già acquisiti richiedono un metodo per mantenerli e proporre ul
 
 Questo follow-up di lungo periodo è compatibile con il successivo insegnamento sul [controllo della cassa](../09_business/numeri-cassa-e-crescita.md): mantenere una relazione non autorizza a ignorare il tempo di recupero dell'investimento. Non emerge una contraddizione reale tra i due video.
 
+### Follow-up B2B: presidiare il momento di sostituzione
+
+Il materiale del 2024 rende più operativo questo principio nel B2B.
+
+Molte vendite sono **sostitutive**: il cliente non compra qualcosa che non ha mai avuto, ma cambia un fornitore, un software, una materia prima o un servizio già in uso.
+
+Il fatto che non possa comprare oggi non rende inutile la lead.
+
+L'azienda deve conservare il contatto e continuare a comparire tramite follow-up, remarketing, retargeting e contatto commerciale consentito, fino a quando:
+
+- finisce una scorta;
+- scade un contratto;
+- viene approvato un budget;
+- cambia il fornitore;
+- emerge una nuova necessità.
+
+Il marketing genera quindi anche **fieno in cascina**: opportunità che maturano in momenti diversi.
+
+Fonte: [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
+
 ## Nel B2B raggiungere chi decide
 
 Bisogna individuare interlocutori che abbiano almeno parte del potere decisionale; entrare sempre dal filtro iniziale e sperare di risalire tutta la gerarchia rende il percorso difficile. Anche alcuni acquisti privati complessi coinvolgono persone esterne, come familiari finanziatori o consulenti nell'immobiliare. [31:13–34:30](https://www.youtube.com/watch?v=ePxhx94vW7g&t=1873s)
