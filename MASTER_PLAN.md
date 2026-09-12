@@ -36,9 +36,14 @@ Ordinare i video in `sources/queue/QUEUE.md` secondo l'ordine più utile per com
 
 ---
 
-## BLOCCO B — Ingestion loop — CODEX
+## BLOCCO B — Ingestion loop — CODEX + CHATGPT
 
 Le fasi 7–13 vengono ripetute per ogni video della queue fino al completamento dell'intero corpus.
+
+Divisione operativa:
+- **Codex / strumenti locali**: fase 7 e acquisizione meccanica degli asset necessari alle fasi 8 e 10, preferibilmente a batch.
+- **ChatGPT**: revisione semantica e fasi 8–13 sui video già acquisiti.
+- Un transcript acquisito in anticipo non conta come video completato: il completamento avviene soltanto dopo l'integrazione nella KB.
 
 ### 7. Acquisisci il transcript
 
@@ -117,7 +122,7 @@ Se necessario:
 - correggere il learning path;
 - riordinare i video non ancora studiati.
 
-Dopo il checkpoint, aggiornare `STATUS.md` e restituire il controllo a Codex, salvo corpus completo.
+Dopo il checkpoint, aggiornare `STATUS.md` e restituire il controllo a ChatGPT se gli asset del prossimo video sono disponibili; altrimenti richiedere a Codex il successivo batch di acquisizione. Salvo corpus completo.
 
 ---
 
