@@ -305,6 +305,27 @@ Per questo un aumento molto forte può essere più facile da introdurre su nuovi
 
 Posizionamento, comunicazione, prova e struttura devono evolvere insieme al price point.
 
+## Non auto-scontarsi durante la presentazione
+
+Una parte dell'obiezione di prezzo nasce dal comportamento stesso di chi vende.
+
+Merenda critica in particolare formule preventive come:
+
+- “poi ci mettiamo d'accordo”;
+- “questo sarebbe il prezzo, ma…”;
+- sconti offerti prima che il cliente li chieda;
+- tono insicuro o eccessive giustificazioni immediatamente dopo aver dichiarato il prezzo.
+
+Se il prezzo è stato costruito, testato e motivato correttamente, il venditore deve presentarlo come una normale condizione dell'offerta.
+
+Il principio non elimina la negoziazione e non vieta condizioni commerciali progettate. Evita invece di **ridurre da soli il valore prima di conoscere la reale reazione del cliente**.
+
+Nel materiale del 2023 Merenda propone anche un esercizio pratico per chi fatica a enunciare il prezzo dal vivo: scriverlo, presentarlo al cliente e lasciare spazio alla sua reazione, invece di sabotarlo verbalmente.
+
+Le regole più recenti restano prevalenti: il prezzo va testato e può essere realmente incompatibile con target/capacità di spesa.
+
+Fonte: [Obiezione prezzo — Parte 1](https://www.youtube.com/watch?v=OFsVGBnM158), 27 febbraio 2023. [Revisione](../../sources/transcripts/OFsVGBnM158.review.md).
+
 ## Sconto: strumento, non fondamento
 
 Sconti, coupon, front-end aggressivi o prove a rischio ridotto possono essere perfettamente validi dentro un funnel.
