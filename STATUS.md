@@ -6,7 +6,7 @@ ACTIVE — fasi 1–6 complete; primo batch semantico completato; checkpoint 25 
 
 ## Fase corrente
 
-**FASE 14 completata al checkpoint 25.** In attesa del prossimo batch di acquisizione (CODEX) per riprendere fasi 7–13 (CHATGPT).
+**FASE 14 completata al checkpoint 25.** In attesa del prossimo batch di acquisizione tecnica tramite script locale monitorato; poi riprendono le fasi 8–13 con CHATGPT.
 
 I primi 25 contenuti della queue sono stati processati.
 
@@ -61,7 +61,7 @@ Le altre sezioni della KB (00–01, 03–10) sono state lette integralmente e ri
 
 Prossimo contenuto in queue: `zWVDQEuw_yI` — *MARKETING | Perchè per un Infomercial il settore non fa differenza?*. Il transcript non è ancora presente nel repository remoto.
 
-Richiedere a **CODEX** l'acquisizione tecnica del prossimo batch (a partire da `zWVDQEuw_yI`), poi restituire il controllo a **CHATGPT** per le fasi 8–13.
+Eseguire localmente `python3 scripts/ingest_video.py --acquire --count 25 --commit-each --push-each --continue-on-error`. Lo script salva e pusha ogni video separatamente e aggiorna `sources/queue/acquisition-progress.md`. Terminato il batch, CHATGPT riprende le fasi 8–13.
 
 Al prossimo checkpoint (50 contenuti processati): eseguire fase 14 (refactor) e fase 15 (audit globale della tassonomia).
 
