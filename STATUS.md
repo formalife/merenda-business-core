@@ -2,24 +2,30 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; ingestion loop in corso.
+ACTIVE — fasi 1–6 complete; ingestion loop in corso con workflow v1.1.
 
 ## Fase corrente
 
-FASE 7 — prossimo video `27Bt3nswSyg`.
+Prossimo video da elaborare semanticamente: `Wk1Se1AeInw`.
 
-Completati i primi sette video della queue. Transcript letti, revisioni individuali e merge in nove documenti KB collegati. Analisi visuale selettiva effettuata dove utile; file congelati invariati.
+Completati i primi otto video della queue. Il video 8 (`27Bt3nswSyg`) è stato integrato nella KB con un nuovo documento sull'authority marketing e routing trasversale da brand, marketing, acquisizione e vendita.
 
 ## Corpus
 
 - Video individuati: 468
-- Video completati: 7
-- Video rimanenti: 461
+- Video completati: 8
+- Video rimanenti: 460
 - Corpus completo: NO
 
-296 video, 109 Shorts, 63 dirette; nessun duplicato tra le tre schede. Scansione del 2026-09-12. Video privati, eliminati e non in elenco non censibili dalle schede pubbliche.
+296 video, 109 Shorts, 63 dirette; nessun duplicato tra le tre schede. Scansione del 2026-09-12.
 
-Acquisiti metadati per 25 video e sottotitoli disponibili in anticipo: `sources/transcripts/ACQUISITION.md`. I primi sette transcript della queue sono stati letti. Le acquisizioni anticipate non contano come completamenti e non cambiano l'ordine canonico della queue.
+Gli asset tecnici risultano acquisiti in anticipo per 25 video. L'acquisizione anticipata non conta come completamento: un video diventa `STUDIATO` dopo revisione semantica e merge nella KB.
+
+## Workflow attivo — v1.1
+
+- CODEX / locale: acquisizione tecnica a batch (metadata, transcript, normalizzazione, keyframe candidati).
+- CHATGPT: revisione semantica e fasi 8–13 sui video già acquisiti.
+- CLAUDE CODE: fase 14 ogni 25 completati; fase 15 ogni 50; fasi 16–22 a corpus completo.
 
 ## Checkpoint
 
@@ -31,20 +37,28 @@ Acquisiti metadati per 25 video e sottotitoli disponibili in anticipo: `sources/
 
 ## Agente richiesto
 
-CODEX
+CHATGPT
 
 ## Next Action
 
-Acquisire e processare `27Bt3nswSyg`, primo pendente in `sources/queue/QUEUE.md`, poi continuare le fasi 7–13 fino a 25 completati. Allora checkpoint Claude fase 14. Avvio: `python3 scripts/ingest_video.py --acquire`.
+Processare `Wk1Se1AeInw`, primo pendente della queue con asset già acquisiti.
 
-Aggiornare stati in `sources/catalog.json`, rigenerare viste con `python3 scripts/scan_channel.py --from-cache`, aggiornare STATUS ed eseguire `python3 scripts/validate_project.py`.
+Per ogni video:
+1. leggere transcript normalizzato;
+2. risolvere o segnalare soltanto incomprensioni sostanziali;
+3. valutare i keyframe solo se aggiungono informazione non ricostruibile dall'audio;
+4. confrontare con la KB pertinente;
+5. MERGE, NON APPEND;
+6. aggiornare catalogo, VIDEO_INDEX, queue e STATUS.
+
+Continuare fino al video 25, salvo esaurimento degli asset tecnici. Al video 25 passare a Claude Code per fase 14.
 
 ## Blocchi / intervento umano
 
-Nessun blocco tecnico: HTTP 403 del vecchio downloader risolto usando yt-dlp 2026.08.19 in `work/tmp/yt-dlp-runtime`; lo script di acquisizione lo seleziona automaticamente quando presente.
+Nessun blocco per il video 8.
 
-DA VERIFICARE MANUALMENTE, locale e non bloccante: attribuzioni cronologiche della seconda mappa Disney a 77:35–81:22 nel primo corso. La registrazione precede la pubblicazione del 2022; data esatta dell'evento non verificata. Dettagli in `sources/transcripts/iR0e4AgmAGE.review.md`. Altri dubbi locali documentati nelle revisioni: nome del sistema di soddisfazione in `GesepBOY5E8`, voce contabile dei 40.000 € in `hYqP4mBG22o`, organico dello studio in `m-xKoXkdRak`. Non consolidati fatti incerti.
+Restano non bloccanti le verifiche manuali già documentate nelle revisioni precedenti (mappa Disney del primo corso e altri dubbi locali non consolidati).
 
 ## Verifica operativa
 
-Script di scansione, acquisizione, conversione, keyframe e validazione implementati. Validazione offline superata su 468 video; confronta file congelati con `merenda-system-v1.0`, routing, catalogo, queue e contatori. Nessuna modifica all'architettura di governo.
+Workflow aggiornato su GitHub: Codex non deve più consumare token per la distillazione semantica ordinaria. ChatGPT lavora sulla stessa KB remota; Claude resta responsabile dei checkpoint strutturali.
