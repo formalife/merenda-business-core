@@ -34,7 +34,7 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 26 | [zWVDQEuw_yI](https://www.youtube.com/watch?v=zWVDQEuw_yI) — MARKETING &#124; Perchè per un Infomercial il settore non fa differenza? | 00_fondamenti | STUDIATO |
 | 27 | [5gKmC-QQlhA](https://www.youtube.com/watch?v=5gKmC-QQlhA) — MARKETING &#124; Posizionamento e Visual Hammer con Laura Ries | 02_posizionamento | ESCLUSO |
 | 28 | [r8wi8vzz61w](https://www.youtube.com/watch?v=r8wi8vzz61w) — Brand Positioning &#124; Le regole del Marketing di Al Ries | 02_posizionamento | ESCLUSO |
-| 29 | [44NmOABcDCc](https://www.youtube.com/watch?v=44NmOABcDCc) — Brand Positioning and Line Extension - Marketing - The Whole Truth | 02_posizionamento | DA STUDIARE |
+| 29 | [44NmOABcDCc](https://www.youtube.com/watch?v=44NmOABcDCc) — Brand Positioning and Line Extension - Marketing - The Whole Truth | 02_posizionamento | STUDIATO |
 | 30 | [xb8bGLwkiGY](https://www.youtube.com/watch?v=xb8bGLwkiGY) — CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning? | 02_posizionamento | DA STUDIARE |
 | 31 | [WSYK8uA39Rg](https://www.youtube.com/watch?v=WSYK8uA39Rg) — Come vendere prodotti banali e difficili da differenziare | 02_posizionamento | DA STUDIARE |
 | 32 | [b9iVR8qJn-A](https://www.youtube.com/watch?v=b9iVR8qJn-A) — BRAND POSITIONING &#124; CHI Guadagna DAVVERO dalle Estensioni di Linea? | 02_posizionamento | DA STUDIARE |
