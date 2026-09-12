@@ -8,8 +8,11 @@ I seguenti file definiscono il sistema operativo del progetto e non devono esser
 - `system/HANDOFFS.md`
 - `system/FROZEN_FILES.md`
 
-Versione canonica iniziale:
+`00_START_HERE.md`, `AGENTS.md`, `CLAUDE.md` e `CHATGPT.md` devono rimanere coerenti con il sistema congelato.
 
-`merenda-system-v1.0`
+Versioni canoniche:
 
-`00_START_HERE.md`, `AGENTS.md` e `CLAUDE.md` devono rimanere coerenti con il sistema congelato. Eventuali modifiche sostanziali richiedono autorizzazione esplicita.
+- `merenda-system-v1.0`: sistema iniziale Codex + Claude.
+- `merenda-system-v1.1`: divisione approvata dall'utente con Codex per acquisizione tecnica, ChatGPT per elaborazione semantica e Claude per checkpoint/finalizzazione.
+
+Eventuali ulteriori modifiche sostanziali richiedono autorizzazione esplicita.
