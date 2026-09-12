@@ -98,6 +98,31 @@ Questo è diverso dal creare un "meccanismo unico" nominale. Merenda contrappone
 
 Fonte: [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024. [Revisione](../../sources/transcripts/WSYK8uA39Rg.review.md).
 
+## Prima la categoria comprensibile, poi il prodotto
+
+Il caso Gran Soleil viene usato per distinguere due sequenze.
+
+Quella debole è:
+
+**invento un prodotto → poi cerco una categoria, un messaggio e una campagna che lo rendano desiderabile**
+
+Quella preferita è:
+
+**individuo una categoria/idea che il mercato può comprendere → costruisco il prodotto e il brand coerenti con quella posizione**
+
+Questo non significa che ogni categoria debba già esistere materialmente. Significa che deve essere **mentalmente comprensibile** e collegabile a un desiderio o criterio di scelta reale.
+
+Un grande budget può ottenere curiosità e prova iniziale, ma non sostituisce:
+
+- comprensione della categoria;
+- coerenza tra promessa ed esperienza;
+- desiderabilità del prodotto;
+- riacquisto.
+
+La metrica implicita non è quindi solo "quanti lo provano al lancio", ma se il mercato continua a comprarlo dopo che l'effetto pubblicitario iniziale si esaurisce.
+
+Fonte: [Il più grande flop di Ferrero](https://www.youtube.com/watch?v=GsmDyZQeYUM), 17 novembre 2023. [Revisione](../../sources/transcripts/GsmDyZQeYUM.review.md).
+
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.
