@@ -161,3 +161,23 @@ Secondo Merenda, il problema non era soltanto il messaggio pubblicitario:
 La lezione è che **una campagna memorabile può sopravvivere nella memoria anche quando il prodotto non costruisce una posizione sostenibile**.
 
 Fonte: [Il più grande flop di Ferrero](https://www.youtube.com/watch?v=GsmDyZQeYUM), 17 novembre 2023.
+
+
+## Moda: prodotto iconico e rottura delle convenzioni
+
+Analizzando Yves Saint Laurent, Dior, Armani, Hermès e altri brand, Merenda insiste sul percorso storico invece che sull'assortimento attuale.
+
+Il pattern che evidenzia è:
+
+- un prodotto/capo iniziale fortemente riconoscibile;
+- una rottura delle convenzioni della categoria;
+- un'idea socialmente o culturalmente significativa;
+- molti anni di associazione tra quel significato e il brand.
+
+Una casa di moda oggi può vendere vestiti, scarpe, profumi e accessori, ma questo non significa che sia nata come catalogo generalista.
+
+Il caso Skechers, in un settore più recente, viene usato con la stessa logica: entrare nelle scarpe sportive contro concorrenti focalizzati sulla performance scegliendo un attributo differente — comodità — e costruire prima quella associazione.
+
+Fonti:
+- [Da Locali a Globali: Segreti del Posizionamento di Brand di Moda](https://www.youtube.com/watch?v=vvpLVofHhHM), 14 novembre 2023.
+- [Brand Positioning vs Marketing Accademico](https://www.youtube.com/watch?v=hF9Xoc9hnHE), 5 novembre 2023.
