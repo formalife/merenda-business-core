@@ -31,7 +31,7 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 23 | [PjcWMHBN7qM](https://www.youtube.com/watch?v=PjcWMHBN7qM) — Positioning does NOT mean selling ONLY 1 product | 02_posizionamento | STUDIATO |
 | 24 | [_T73jCJtH0k](https://www.youtube.com/watch?v=_T73jCJtH0k) — Marketing Strategies Are Based on Positioning | 02_posizionamento | STUDIATO |
 | 25 | [T6EGhPdoV3c](https://www.youtube.com/watch?v=T6EGhPdoV3c) — Brand Positioning and Decision-Making Process - The 3 Fundamental Factors | 08_brand | STUDIATO |
-| 26 | [zWVDQEuw_yI](https://www.youtube.com/watch?v=zWVDQEuw_yI) — MARKETING &#124; Perchè per un Infomercial il settore non fa differenza? | 02_posizionamento | DA STUDIARE |
+| 26 | [zWVDQEuw_yI](https://www.youtube.com/watch?v=zWVDQEuw_yI) — MARKETING &#124; Perchè per un Infomercial il settore non fa differenza? | 00_fondamenti | STUDIATO |
 | 27 | [5gKmC-QQlhA](https://www.youtube.com/watch?v=5gKmC-QQlhA) — MARKETING &#124; Posizionamento e Visual Hammer con Laura Ries | 02_posizionamento | DA STUDIARE |
 | 28 | [r8wi8vzz61w](https://www.youtube.com/watch?v=r8wi8vzz61w) — Brand Positioning &#124; Le regole del Marketing di Al Ries | 02_posizionamento | DA STUDIARE |
 | 29 | [44NmOABcDCc](https://www.youtube.com/watch?v=44NmOABcDCc) — Brand Positioning and Line Extension - Marketing - The Whole Truth | 02_posizionamento | DA STUDIARE |
