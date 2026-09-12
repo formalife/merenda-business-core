@@ -38,6 +38,24 @@ Il marketing genera quindi anche **fieno in cascina**: opportunità che maturano
 
 Fonte: [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
 
+## Qualificare capacità e ordine di grandezza prima della proposta
+
+Una trattativa non dovrebbe arrivare alla fine con una distanza enorme e completamente inattesa tra budget del cliente e prezzo dell'offerta.
+
+Prima di investire molto tempo nella proposta, bisogna capire almeno:
+
+- se il prospect possiede capacità economica compatibile;
+- se è disposto a investire nell'ordine di grandezza necessario;
+- se la sua aspettativa è radicalmente inferiore.
+
+Marketing educativo, casi, materiali e riferimenti economici possono preparare il prospect prima del contatto commerciale, restringendo progressivamente l'incertezza.
+
+Una normale negoziazione finale è diversa dal trovarsi davanti a qualcuno che pensava di spendere un terzo: nel secondo caso è mancata prequalifica.
+
+Il materiale del 2016 formula in modo assoluto che “il denaro non è mai un problema” quando la persona può investire. La KB usa una formulazione più precisa, coerente con il materiale successivo: **se il target ha capacità e priorità compatibili, il compito di marketing e vendita è motivare l'investimento; se la capacità non esiste, la trattativa non può correggere il problema**.
+
+Fonte: [Come superare l'obiezione del prezzo](https://www.youtube.com/watch?v=KGPCinmAcoo), 17 ottobre 2016. [Revisione](../../sources/transcripts/KGPCinmAcoo.review.md).
+
 ## Nel B2B raggiungere chi decide
 
 Bisogna individuare interlocutori che abbiano almeno parte del potere decisionale; entrare sempre dal filtro iniziale e sperare di risalire tutta la gerarchia rende il percorso difficile. Anche alcuni acquisti privati complessi coinvolgono persone esterne, come familiari finanziatori o consulenti nell'immobiliare. [31:13–34:30](https://www.youtube.com/watch?v=ePxhx94vW7g&t=1873s)
