@@ -172,6 +172,33 @@ Il suo obiettivo non è necessariamente massimizzare il margine della prima tran
 
 Vedi [front-end e monetizzazione successiva](front-end-e-back-end.md).
 
+## Il front-end deve essere "più che gratis"
+
+Il materiale del dicembre 2024 chiarisce che **gratis non elimina tutti i costi percepiti**.
+
+Il prospect può comunque pensare:
+
+- devo perdere tempo;
+- devo spostarmi;
+- sarà una televendita;
+- sarà di bassa qualità proprio perché è gratis;
+- rischio di affidarmi alla persona sbagliata;
+- non vale la fatica di cambiare abitudine.
+
+Per questo Merenda parla di **più che gratis**: oltre ad azzerare o ridurre il prezzo, l'offerta deve superare le resistenze con valore aggiuntivo, prove, bonus, tecnologia, esperienza o altri elementi desiderabili.
+
+Il principio vale anche per un lost leader/sottocosto: il prezzo aggressivo da solo non garantisce risposta.
+
+Fonte: [Come Creare Offerte Imbattibili](https://www.youtube.com/watch?v=uMPDxFMj9VY), 23 dicembre 2024. [Revisione](../../sources/transcripts/uMPDxFMj9VY.review.md).
+
+## Più porte d'ingresso
+
+Non è obbligatorio costruire un solo front-end universale.
+
+Quando esistono desideri/problemi diversi, possono esistere più offerte di ingresso coerenti, ognuna capace di attirare una parte del target verso lo stesso sistema di monetizzazione.
+
+La regola resta economica: più front-end non devono diventare più caos operativo o più posizionamenti incompatibili.
+
 ## Un prezzo simbolico può qualificare
 
 Anche quando l'economia permetterebbe il gratuito, chiedere un importo minimo può filtrare:
