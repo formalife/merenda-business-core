@@ -174,6 +174,10 @@ Il lavoro imprenditoriale è costruire sistemi e offerte che risolvano problemi 
 
 Merenda propone come obiettivo di lungo periodo l'apertura regolare di nuove nicchie, fino anche a circa una all'anno quando l'organizzazione è abbastanza matura. La frequenza non sostituisce i prerequisiti.
 
+## Rapporto con l'estensione di linea
+
+Per la distinzione tra variante, nuovo brand e family brand, vedi [estensioni di linea e architettura del brand](../02_posizionamento/estensioni-di-linea-e-architettura-brand.md).
+
 ## Collegamenti
 
 - [Differenziazione operativa e focus](../02_posizionamento/differenziazione-operativa.md)
