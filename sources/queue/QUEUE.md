@@ -45,9 +45,9 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 37 | [Cqtu8BIvyto](https://www.youtube.com/watch?v=Cqtu8BIvyto) — 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | 03_offerta | STUDIATO |
 | 38 | [wdSlAXm_Qt4](https://www.youtube.com/watch?v=wdSlAXm_Qt4) — Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | 03_offerta | STUDIATO |
 | 39 | [W5jfzieK33Y](https://www.youtube.com/watch?v=W5jfzieK33Y) — How to Raise Prices and Triple Your Profits Without Ruining Your Business | 03_offerta | STUDIATO |
-| 40 | [uMPDxFMj9VY](https://www.youtube.com/watch?v=uMPDxFMj9VY) — Direct Response Marketing: How to Create Unbeatable Offers for Your Business | 03_offerta | DA STUDIARE |
-| 41 | [Ny8AkjwSoo8](https://www.youtube.com/watch?v=Ny8AkjwSoo8) — Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | 03_offerta | DA STUDIARE |
-| 42 | [hvWYbpJPK2E](https://www.youtube.com/watch?v=hvWYbpJPK2E) — How to Raise Prices and Make Your Customers Happy | 03_offerta | DA STUDIARE |
+| 40 | [uMPDxFMj9VY](https://www.youtube.com/watch?v=uMPDxFMj9VY) — Direct Response Marketing: How to Create Unbeatable Offers for Your Business | 03_offerta | STUDIATO |
+| 41 | [Ny8AkjwSoo8](https://www.youtube.com/watch?v=Ny8AkjwSoo8) — Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | 03_offerta | STUDIATO |
+| 42 | [hvWYbpJPK2E](https://www.youtube.com/watch?v=hvWYbpJPK2E) — How to Raise Prices and Make Your Customers Happy | 03_offerta | STUDIATO |
 | 43 | [Vm1eT2_f6Ho](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) — 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | 03_offerta | DA STUDIARE |
 | 44 | [ZX_59lE19dw](https://www.youtube.com/watch?v=ZX_59lE19dw) — Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | 03_offerta | DA STUDIARE |
 | 45 | [Dqzs97Wl9jc](https://www.youtube.com/watch?v=Dqzs97Wl9jc) — How to ATTRACT CUSTOMERS with irresistible offers and the right bait | 03_offerta | DA STUDIARE |
