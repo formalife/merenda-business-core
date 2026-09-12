@@ -42,3 +42,56 @@ Il focus crea vantaggi su più livelli quando è compatibile con il contesto:
 Quindi **focus non significa ridurre l'offerta in modo dogmatico**. Significa scegliere deliberatamente ciò per cui si vuole essere ricordati e costruire un sistema operativo coerente con quella scelta, verificando che il contesto possa sostenerla.
 
 Fonte: [caso Biraghi, Torino](https://www.youtube.com/watch?v=hT2yQgRrh7w), pubblicato il 12 febbraio 2026. [Revisione](../../sources/transcripts/hT2yQgRrh7w.review.md).
+
+
+## Focalizzare il marketing non significa vendere una sola cosa
+
+Il posizionamento richiede che il mercato possa associare il brand a un'idea semplice e rilevante. Questo non significa necessariamente cancellare immediatamente ogni altro prodotto dal catalogo.
+
+Una prima applicazione pratica può essere scegliere un **cavallo di battaglia**, spesso un front-end, e concentrare su quello la comunicazione.
+
+Il prodotto di ingresso deve permettere di dire con chiarezza:
+
+- cosa facciamo di diverso;
+- quale beneficio portiamo che gli altri non portano;
+- in cosa siamo specializzati;
+- quale problema specifico risolviamo;
+- quale beneficio reale ma poco visibile possiamo rendere evidente.
+
+L'azienda può continuare a vendere altro nel back-end. Il punto è non chiedere al mercato di ricordarla contemporaneamente per dieci cose.
+
+Fonte: [5 Domande Chiave Per Trovare Un Posizionamento](https://www.youtube.com/watch?v=iBqoukpv7FI), 9 ottobre 2024. [Revisione](../../sources/transcripts/iBqoukpv7FI.review.md).
+
+## Posizionarsi in opposizione senza attaccare le persone
+
+"Attaccare il leader" non significa insultare il concorrente o sostenere genericamente di essere migliori.
+
+Significa individuare qualcosa che l'approccio dominante:
+
+- non serve;
+- serve male;
+- fa in modo obsoleto;
+- fa troppo lentamente;
+- non adatta a una certa nicchia.
+
+Poi si costruisce una posizione opposta e utile per quel target.
+
+La differenza non deve essere creatività fine a sé stessa. Deve dare al cliente un motivo concreto per preferire un approccio differente.
+
+Un nuovo entrante non vince dicendo "sono una copia migliore". La logica è creare o presidiare una categoria, un attributo o una nicchia nella quale possa essere **primo nella mente**.
+
+Fonte: [Cosa Significa Fare Posizionamento In Opposizione Alla Concorrenza?](https://www.youtube.com/watch?v=Xg4rNCnWNOo), 18 luglio 2024. [Revisione](../../sources/transcripts/Xg4rNCnWNOo.review.md).
+
+## Focalizzazione di prodotto e focalizzazione della campagna
+
+Il caso Guapo mostra una traduzione operativa del principio: un ristorante già focalizzato sulla carne argentina usa una pagina e un messaggio dedicati a chi sta cercando proprio quell'esperienza, invece di comunicare genericamente "ristorante".
+
+Il marketing spiega:
+
+- quale esperienza specifica viene offerta;
+- perché quella scelta è diversa dalle alternative;
+- perché scegliere quel locale rispetto ad altri ristoranti della stessa categoria.
+
+Questo rafforza la distinzione tra avere semplicemente un catalogo/menù e **portare il mercato a un cavallo di battaglia coerente col posizionamento**.
+
+Fonte: [Marketing Strategico per un Ristorante Argentino di Successo](https://www.youtube.com/watch?v=lvM-4wK6ntw), 22 febbraio 2024. [Revisione](../../sources/transcripts/lvM-4wK6ntw.review.md).
