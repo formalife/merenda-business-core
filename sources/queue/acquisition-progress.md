@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:41:21.224087+00:00
+Ultimo aggiornamento: 2026-09-12T16:41:28.337759+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | AgH3SOnS7Kc | Kinder Ferrero e il Marketing: Tempo di Focus | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | GsmDyZQeYUM | Brand Positioning \| Il più grande FLOP di FERRERO [La vera storia] | ERROR | Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/raffaele/Projects/formalife-zero/scripts/transcript.py', 'GsmDyZQeYUM']' returned non-zero exit status 1. |
 | 10 | vvpLVofHhHM | Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | hF9Xoc9hnHE | Brand Positioning vs Marketing Accademico | PENDING |  |
+| 11 | hF9Xoc9hnHE | Brand Positioning vs Marketing Accademico | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | Cqtu8BIvyto | 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | PENDING |  |
 | 13 | wdSlAXm_Qt4 | Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | PENDING |  |
 | 14 | W5jfzieK33Y | How to Raise Prices and Triple Your Profits Without Ruining Your Business | PENDING |  |
