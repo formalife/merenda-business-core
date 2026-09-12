@@ -123,6 +123,39 @@ La metrica implicita non è quindi solo "quanti lo provano al lancio", ma se il 
 
 Fonte: [Il più grande flop di Ferrero](https://www.youtube.com/watch?v=GsmDyZQeYUM), 17 novembre 2023. [Revisione](../../sources/transcripts/GsmDyZQeYUM.review.md).
 
+## Quattro filtri per scegliere il focus di decollo
+
+Nel materiale del 2023 Merenda sintetizza quattro controlli prima di scegliere il prodotto/servizio sul quale concentrare il decollo della PMI.
+
+1. **Folla affamata.** Deve esistere domanda sufficiente: non basta essere appassionati di qualcosa che quasi nessuno vuole comprare.
+2. **Differenza reale.** L'impresa deve possedere o poter costruire una capacità rilevante che la distingua, non una formula verbale appiccicata dopo.
+3. **Marginalità.** Il focus deve lasciare spazio economico per acquisizione, struttura e utile.
+4. **Scalabilità.** Il modello non deve restare vincolato per sempre alle ore personali del fondatore; deve poter essere erogato anche attraverso persone, processi o struttura.
+
+Questi quattro filtri collegano posizionamento e modello economico: un'idea può essere distintiva ma inadatta a diventare il motore dell'azienda se non esiste mercato, margine o capacità di scala.
+
+Fonte: [Brand Positioning vs Marketing Accademico](https://www.youtube.com/watch?v=hF9Xoc9hnHE), 5 novembre 2023. [Revisione](../../sources/transcripts/hF9Xoc9hnHE.review.md).
+
+## Decollo e quota sono fasi diverse
+
+Una PMI che deve ancora conquistare una posizione non dovrebbe imitare il catalogo attuale di un brand maturo.
+
+Durante il **decollo** l'obiettivo è rendere il brand associabile a una categoria o a un attributo semplice. Quando l'azienda è **in quota** — notorietà, margine, struttura e domanda già costruiti — può avere più spazio per cross-sell, prodotti accessori e nuove iniziative.
+
+La domanda corretta quando si studia un grande brand è quindi:
+
+**che cosa ha fatto quando era piccolo per diventare famoso?**
+
+non:
+
+**quanti prodotti vende oggi?**
+
+Questo principio emerge sia dall'analisi dei brand moda sia dal video sul marketing accademico.
+
+Fonti:
+- [Da Locali a Globali: brand di moda](https://www.youtube.com/watch?v=vvpLVofHhHM), 14 novembre 2023.
+- [Brand Positioning vs Marketing Accademico](https://www.youtube.com/watch?v=hF9Xoc9hnHE), 5 novembre 2023.
+
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.
