@@ -1,5 +1,5 @@
 # Brand
 
-Questa sezione è inizialmente vuota.
+[Autorità prima di acquisizione e vendita](autorita-e-marketing.md): costruire autorevolezza con pubblicazioni, presenza esterna ed eventi, e usarla per rendere più efficaci lead generation e vendita.
 
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+La sezione crescerà con i successivi contenuti su brand e posizionamento. Il concetto di autorità è collegato al brand ma non viene trattato come sinonimo perfetto.
