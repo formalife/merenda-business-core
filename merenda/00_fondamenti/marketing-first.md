@@ -26,6 +26,24 @@ La strategia definisce principi e direzione sul mercato; le tattiche sono gli st
 
 Per mettere alla prova idee e abitudini, Merenda propone di confrontarsi anche con imprenditori di altri settori: possono osservare un'esperienza con gli occhi del potenziale cliente e riconoscere difetti che gli addetti ai lavori danno per inevitabili. Lo scambio serve a generare idee, non a copiare il concorrente o un altro allievo. [35:33–38:24; 61:18–62:55](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=2133s)
 
+## Il settore cambia il contenuto, non la struttura del direct response
+
+Merenda contesta la ricerca continua di una versione speciale della stessa tattica per ogni settore.
+
+Un infomercial, una sales letter o un'altra comunicazione a risposta diretta devono adattarsi al mercato concreto, ma la struttura di fondo resta la stessa:
+
+- chiarire perché scegliere questa azienda anziché un'alternativa;
+- tradurre il posizionamento in argomentazioni;
+- presentare un'offerta;
+- aggiungere quando opportuno bonus e garanzia;
+- chiedere una risposta chiara e tracciabile.
+
+Quello che cambia tra ristorazione, odontoiatria o altri settori è **che cosa dire**, non il fatto che la comunicazione debba spiegare valore, differenza e azione successiva.
+
+L'assenza di esempi già esistenti nel proprio settore non dimostra che il metodo non sia applicabile: può essere proprio lo spazio per introdurlo per primi.
+
+Fonte: [Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI), 10 agosto 2022. [Revisione](../../sources/transcripts/zWVDQEuw_yI.review.md).
+
 ## Collegamenti operativi
 
 - [Differenziare l'azienda e tradurre la visione in passi](../02_posizionamento/differenziazione-operativa.md).
