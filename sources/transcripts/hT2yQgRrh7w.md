@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=hT2yQgRrh7w
 Data pubblicazione: 20260212
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `hT2yQgRrh7w.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Torino come mola di Bari, la gente non
 
