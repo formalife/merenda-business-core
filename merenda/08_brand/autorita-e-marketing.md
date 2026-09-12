@@ -123,3 +123,57 @@ Resta invece valido il principio non contraddetto:
 - [Quattro modalità e continuità del marketing](../04_marketing/quattro-modalita-e-ritmo.md)
 - [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
+
+
+## Come il cliente costruisce una decisione
+
+Quando una persona entra in un processo di acquisto, non decide soltanto sulla base di ciò che l'azienda dice di sé.
+
+Merenda raggruppa i segnali principali in tre famiglie:
+
+### 1. Forza del brand
+
+Un brand già riconosciuto riduce il lavoro cognitivo.
+
+A seconda del criterio di acquisto, il cliente può essere attirato dal brand percepito come:
+
+- leader / riferimento;
+- più prestigioso o sicuro;
+- oppure, per un target diverso, il più economico.
+
+### 2. Reputazione e PR online
+
+Il cliente cerca informazioni e incontra:
+
+- recensioni;
+- testimonianze;
+- rating;
+- articoli;
+- discussioni;
+- contenuti prodotti da clienti o fan;
+- informazioni disponibili sui motori di ricerca e sui media.
+
+Questa reputazione pubblica diventa una forma di influenza sociale anche quando il cliente non conosce personalmente chi ha lasciato il giudizio.
+
+### 3. Reputazione nel mondo reale
+
+Le persone chiedono al proprio gruppo di riferimento:
+
+- amici;
+- parenti;
+- colleghi;
+- conoscenti;
+- professionisti di fiducia;
+- specialisti, anche a pagamento quando la decisione è abbastanza importante.
+
+Più il rischio percepito è elevato, più la persona può cercare un parere competente oltre alla semplice ricerca autonoma.
+
+## Brand e passaparola si rafforzano
+
+Un brand forte non rende inutile il passaparola.
+
+I brand con maggiore coinvolgimento generano spesso persone che li promuovono spontaneamente — evangelist o ambassador — online e offline. La notorietà del brand e l'influenza sociale finiscono quindi per alimentarsi a vicenda.
+
+Per questo la costruzione dell'autorità non si esaurisce nei materiali propri: bisogna anche monitorare e alimentare ciò che il mercato dice del brand.
+
+Fonte: [Brand Positioning e processo decisionale - I 3 fattori fondamentali](https://www.youtube.com/watch?v=T6EGhPdoV3c), 30 gennaio 2023. [Revisione](../../sources/transcripts/T6EGhPdoV3c.review.md).
