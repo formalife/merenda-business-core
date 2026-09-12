@@ -24,11 +24,11 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 16 | [Xg4rNCnWNOo](https://www.youtube.com/watch?v=Xg4rNCnWNOo) — What Does It Mean to "Position" Yourself Against the Competition? | 02_posizionamento | STUDIATO |
 | 17 | [1685-Eacgnw](https://www.youtube.com/watch?v=1685-Eacgnw) — From Zero to Successful Brand: How Focus Changes Everything | 10_casi_studio | STUDIATO |
 | 18 | [lvM-4wK6ntw](https://www.youtube.com/watch?v=lvM-4wK6ntw) — Strategic Marketing for a Successful Argentine Restaurant [Hyper-Focused] | 02_posizionamento | STUDIATO |
-| 19 | [MQZbKk1250k](https://www.youtube.com/watch?v=MQZbKk1250k) — I danni del MARKETING CREATIVO quando non spinge un POSIZIONAMENTO | 02_posizionamento | DA STUDIARE |
-| 20 | [2jvLll--CY8](https://www.youtube.com/watch?v=2jvLll--CY8) — La Forza del BRAND POSITIONING &#124; L'Azienda Milionaria Grazie ad 1 SOLO PRODOTTO | 02_posizionamento | DA STUDIARE |
-| 21 | [GNrQzyYUsoI](https://www.youtube.com/watch?v=GNrQzyYUsoI) — Come il BRAND POSITIONING può DIFFERENZIARE anche il Carbone | 02_posizionamento | DA STUDIARE |
-| 22 | [0SS-XVWnQdQ](https://www.youtube.com/watch?v=0SS-XVWnQdQ) — Do the principles of BRAND POSITIONING also apply to retailers? | 02_posizionamento | DA STUDIARE |
-| 23 | [PjcWMHBN7qM](https://www.youtube.com/watch?v=PjcWMHBN7qM) — Positioning does NOT mean selling ONLY 1 product | 02_posizionamento | DA STUDIARE |
+| 19 | [MQZbKk1250k](https://www.youtube.com/watch?v=MQZbKk1250k) — I danni del MARKETING CREATIVO quando non spinge un POSIZIONAMENTO | 02_posizionamento | STUDIATO |
+| 20 | [2jvLll--CY8](https://www.youtube.com/watch?v=2jvLll--CY8) — La Forza del BRAND POSITIONING &#124; L'Azienda Milionaria Grazie ad 1 SOLO PRODOTTO | 02_posizionamento | STUDIATO |
+| 21 | [GNrQzyYUsoI](https://www.youtube.com/watch?v=GNrQzyYUsoI) — Come il BRAND POSITIONING può DIFFERENZIARE anche il Carbone | 02_posizionamento | STUDIATO |
+| 22 | [0SS-XVWnQdQ](https://www.youtube.com/watch?v=0SS-XVWnQdQ) — Do the principles of BRAND POSITIONING also apply to retailers? | 10_casi_studio | STUDIATO |
+| 23 | [PjcWMHBN7qM](https://www.youtube.com/watch?v=PjcWMHBN7qM) — Positioning does NOT mean selling ONLY 1 product | 02_posizionamento | STUDIATO |
 | 24 | [_T73jCJtH0k](https://www.youtube.com/watch?v=_T73jCJtH0k) — Marketing Strategies Are Based on Positioning | 02_posizionamento | DA STUDIARE |
 | 25 | [T6EGhPdoV3c](https://www.youtube.com/watch?v=T6EGhPdoV3c) — Brand Positioning and Decision-Making Process - The 3 Fundamental Factors | 02_posizionamento | DA STUDIARE |
 | 26 | [zWVDQEuw_yI](https://www.youtube.com/watch?v=zWVDQEuw_yI) — MARKETING &#124; Perchè per un Infomercial il settore non fa differenza? | 02_posizionamento | DA STUDIARE |
