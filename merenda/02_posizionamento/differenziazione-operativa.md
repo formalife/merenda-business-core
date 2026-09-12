@@ -95,3 +95,68 @@ Il marketing spiega:
 Questo rafforza la distinzione tra avere semplicemente un catalogo/menù e **portare il mercato a un cavallo di battaglia coerente col posizionamento**.
 
 Fonte: [Marketing Strategico per un Ristorante Argentino di Successo](https://www.youtube.com/watch?v=lvM-4wK6ntw), 22 febbraio 2024. [Revisione](../../sources/transcripts/lvM-4wK6ntw.review.md).
+
+
+## La creatività deve amplificare la posizione
+
+Creatività, provocazione, tono irriverente e unconventional marketing possono attirare attenzione, ma non sostituiscono una posizione.
+
+Se il pubblico ricorda una campagna ma non capisce:
+
+- che categoria presidia il brand;
+- quale prodotto deve associare al brand;
+- per chi è;
+- perché è diverso;
+
+la creatività sta lavorando senza una direzione strategica.
+
+Il caso Burgez viene usato come esempio: Merenda riconosce il merito imprenditoriale e la spinta alla categoria dello **smash burger**, ma critica una comunicazione che enfatizza l'irriverenza più della rivendicazione della categoria stessa.
+
+La regola pratica è:
+
+**prima rendere evidente la posizione, poi usare la creatività per amplificarla.**
+
+Fonte: [I danni del marketing creativo quando non spinge un posizionamento](https://www.youtube.com/watch?v=MQZbKk1250k), 1 febbraio 2024. [Revisione](../../sources/transcripts/MQZbKk1250k.review.md).
+
+## Prodotto iconico e creazione di categoria
+
+Un prodotto signature può diventare il veicolo attraverso il quale il mercato impara il brand.
+
+Mike's Hot Honey viene usato come esempio: non è semplicemente "miele con una piccola variazione". Il prodotto viene portato sul mercato come qualcosa di riconoscibile e usato in un contesto differente, fino a costruire una categoria percepibile.
+
+Merenda distingue questo dal concetto superficiale di "unique mechanism": cambiare un dettaglio, inventare un nome o aggiungere una variante non crea automaticamente un posizionamento.
+
+All'inizio il marketing può essere concentrato quasi interamente sul prodotto iconico che rende il brand famoso. L'estensione arriva dopo aver sfruttato in profondità ciò che rende speciale il marchio, non come fuga dalla mancata penetrazione del prodotto principale.
+
+Fonte: [La Forza del Brand Positioning — Mike's Hot Honey](https://www.youtube.com/watch?v=2jvLll--CY8), 24 gennaio 2024. [Revisione](../../sources/transcripts/2jvLll--CY8.review.md).
+
+## Differenziare anche una commodity
+
+Un prodotto apparentemente standard può essere reso meno confrontabile se viene progettato e comunicato per un target specifico.
+
+Nel caso del carbone Il Toro, il prodotto viene rivolto a ristoratori e professionisti della brace. Il marketing non parla genericamente di "carbone migliore": parte dai problemi operativi del target — costanza, durata, fumo, scintille, calore, sapore — e collega a quei problemi caratteristiche concrete.
+
+Il percorso diventa:
+
+**target specifico → problemi specifici → caratteristiche rilevanti → benefici operativi → prova a rischio ridotto → acquisizione → vendita → riacquisto**
+
+La differenziazione non richiede quindi necessariamente una categoria glamour o tecnologica. Può nascere dal capire molto meglio **chi usa il prodotto e per quale risultato economico/operativo lo compra**.
+
+Fonte: [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024. [Revisione](../../sources/transcripts/GNrQzyYUsoI.review.md).
+
+## Il rischio della commodity dentro un'offerta più ampia
+
+Il posizionamento non significa obbligatoriamente vendere un solo prodotto.
+
+Ma un prodotto fortemente comparabile sul prezzo può diventare un'ancora percettiva negativa: attira clienti che confrontano soprattutto il costo e può far sembrare sproporzionatamente cari gli altri prodotti dell'offerta.
+
+La risposta attiva, alla luce del materiale successivo, non è "eliminare sempre tutto ciò che è commodity". È decidere consapevolmente:
+
+- se quel prodotto deve essere il focus e quindi va costruito un modello ottimizzato intorno ad esso;
+- se va differenziato/reimpacchettato in modo sostanziale;
+- se va tolto dal marketing di acquisizione;
+- se va mantenuto solo come parte secondaria del catalogo.
+
+Il materiale del 2024 prevale sulla formulazione più rigida del 2023: **la focalizzazione principale è anzitutto nella mente del mercato e nel marketing, non necessariamente nella quantità assoluta di SKU venduti.**
+
+Fonte precedente: [Posizionamento NON significa vendere 1 SOLO prodotto](https://www.youtube.com/watch?v=PjcWMHBN7qM), 4 settembre 2023. [Revisione](../../sources/transcripts/PjcWMHBN7qM.review.md).
