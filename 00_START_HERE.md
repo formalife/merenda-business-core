@@ -12,15 +12,24 @@ Leggi, nell'ordine:
 2. `system/RULES.md`
 3. `STATUS.md`
 
-Poi esegui esclusivamente la prossima azione indicata in `STATUS.md`, rispettando il ruolo assegnato al tuo agente.
+Poi esegui esclusivamente la prossima azione indicata in `STATUS.md`, rispettando il ruolo assegnato.
 
 ## Ruoli
 
-### Codex
+### Codex / strumenti locali
 
-- Fasi iniziali: 1–6.
-- Ingestion loop: 7–13 per ogni video.
-- Continua fino a quando `STATUS.md` richiede un checkpoint Claude oppure il corpus è completo.
+- Setup iniziale: fasi 1–6.
+- Acquisizione tecnica a batch: fase 7 e supporto meccanico alle fasi 8 e 10.
+- Recupera metadata, transcript, file normalizzati e keyframe candidati.
+- Non esegue il merge semantico nella KB salvo istruzione esplicita.
+- Quando gli asset del batch sono pronti, restituisce il controllo a ChatGPT tramite `STATUS.md`.
+
+### ChatGPT
+
+- È il processore semantico principale durante l'ingestione.
+- Per ogni video già acquisito esegue la revisione semantica e le fasi 8–13.
+- Individua incomprensioni sostanziali, decide quando l'analisi visuale è necessaria, distilla la conoscenza e aggiorna/riscrive la KB.
+- Continua sui video già acquisiti fino al checkpoint Claude o fino a quando servono nuovi asset locali.
 
 ### Claude Code
 
