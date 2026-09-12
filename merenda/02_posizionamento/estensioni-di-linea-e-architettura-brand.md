@@ -127,6 +127,47 @@ L'esempio del baby shampoo Johnson è: "abbastanza delicato per un neonato" comu
 
 La base si amplia **per conseguenza del significato forte**, non perché il brand cerca di parlare genericamente a tutti.
 
+## Sell-in non significa domanda del cliente finale
+
+Il fatto che una grande azienda "venda" una nuova linea non dimostra automaticamente che il consumatore la desideri.
+
+Nel materiale del 2023 Merenda distingue implicitamente due livelli:
+
+- **sell-in**: il produttore vende/distribuisce il prodotto all'intermediario;
+- **sell-through**: l'intermediario riesce poi a venderlo al cliente finale.
+
+Un brand molto forte può avere un potere negoziale che una PMI non possiede. Un distributore, rivenditore, supermercato o franchisee può accettare prodotti secondari per continuare ad avere accesso ai prodotti core richiesti dal mercato.
+
+Questo può produrre:
+
+- ricavi immediati per la casa madre;
+- inventario e capitale immobilizzato per l'intermediario;
+- successivi sconti/saldi per liberare il magazzino;
+- un'apparenza di successo della linea che non coincide con domanda spontanea.
+
+La domanda da fare quando si cita una grande azienda come prova è quindi:
+
+**chi ha davvero comprato il prodotto: il cliente finale o un intermediario che aveva interesse/necessità ad accettarlo?**
+
+Per una PMI che non dispone di quel potere distributivo, imitare la stessa estensione può produrre soltanto complessità e stock.
+
+Fonte: [CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A), 8 dicembre 2023. [Revisione](../../sources/transcripts/b9iVR8qJn-A.review.md).
+
+## Prima di dichiarare "saturazione"
+
+Uno stallo nelle vendite non significa necessariamente che il mercato sia saturo.
+
+Prima di aggiungere prodotti, Merenda propone di verificare se:
+
+- il brand è ancora abbastanza focalizzato da poter essere promosso con forza;
+- la penetrazione nel mercato attuale è realmente alta;
+- esistono quote da sottrarre ai concorrenti;
+- è possibile espandere la stessa offerta in nuove aree geografiche.
+
+La logica è **espandere il raggio di un focus forte prima di espandere la linea**.
+
+Questo principio è coerente con il materiale successivo sull'[espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md): nuove linee non devono essere una fuga da un core non ancora pienamente sviluppato.
+
 ## Impatto operativo delle estensioni
 
 Ogni linea aggiuntiva può introdurre:
