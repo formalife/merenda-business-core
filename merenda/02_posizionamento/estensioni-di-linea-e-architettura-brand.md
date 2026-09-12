@@ -184,6 +184,24 @@ Ogni linea aggiuntiva può introdurre:
 
 Per questo l'estensione di linea è collegata direttamente alla [riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md): una decisione che sembra aumentare fatturato può ridurre margini e rendere il sistema meno controllabile.
 
+## Rifocalizzare senza distruggere tutto in un giorno
+
+Quando una linea è fuori focus, Merenda non prescrive necessariamente di spegnere produzione e ricavi dalla sera alla mattina.
+
+Le opzioni descritte nel caso Kinder e in casi PMI includono:
+
+- togliere il prodotto dal brand core;
+- spostarlo sotto un'identità separata;
+- gestirlo a esaurimento;
+- lasciarlo decadere senza continuare a investirci;
+- se possiede una vera opportunità autonoma, costruire un brand dedicato.
+
+Lo scopo è **purificare il significato e gli investimenti del core** senza creare inutilmente un danno finanziario immediato.
+
+La rifocalizzazione deve partire da dati di vendita, margine e coerenza strategica, non dal bisogno estetico di avere un catalogo "pulito".
+
+Fonte: [Kinder Ferrero e il Marketing: Tempo di Focus](https://www.youtube.com/watch?v=AgH3SOnS7Kc), 22 novembre 2023. [Revisione](../../sources/transcripts/AgH3SOnS7Kc.review.md).
+
 ## Regola attiva sintetica
 
 1. Rendere forte il core.
@@ -192,7 +210,8 @@ Per questo l'estensione di linea è collegata direttamente alla [riduzione delle
 4. Evitare che il nuovo prodotto indebolisca il significato originale.
 5. Se cambia categoria/posizione, valutare un nuovo brand.
 6. Non usare il concetto di family brand/brand cappello per giustificare estensioni: ragionare sui singoli brand e sul significato che ciascuno possiede nella mente del mercato.
-7. Misurare sempre anche la complessità operativa creata.
+7. Se una linea è fuori focus, separarla o dismetterla con logica economica invece di continuare a sostenerla solo perché esiste.
+8. Misurare sempre anche la complessità operativa creata.
 
 ## Collegamenti
 
