@@ -47,9 +47,9 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 37 | Cqtu8BIvyto | 20250403 | [🔴 Direct Response Marketing: The Power of an Unbeatable Offer](https://www.youtube.com/watch?v=Cqtu8BIvyto) | 3421.0 | 03_offerta | 2 | STUDIATO | videos |
 | 38 | wdSlAXm_Qt4 | 20250204 | [Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti](https://www.youtube.com/watch?v=wdSlAXm_Qt4) | 1190.0 | 03_offerta | 2 | STUDIATO | videos |
 | 39 | W5jfzieK33Y | 20241230 | [How to Raise Prices and Triple Your Profits Without Ruining Your Business](https://www.youtube.com/watch?v=W5jfzieK33Y) | 697.0 | 03_offerta | 2 | STUDIATO | videos |
-| 40 | uMPDxFMj9VY | da acquisire | [Direct Response Marketing: How to Create Unbeatable Offers for Your Business](https://www.youtube.com/watch?v=uMPDxFMj9VY) | 1156.0 | 03_offerta | 2 | DA STUDIARE | videos |
-| 41 | Ny8AkjwSoo8 | da acquisire | [Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta](https://www.youtube.com/watch?v=Ny8AkjwSoo8) | 1582.0 | 03_offerta | 2 | DA STUDIARE | videos |
-| 42 | hvWYbpJPK2E | da acquisire | [How to Raise Prices and Make Your Customers Happy](https://www.youtube.com/watch?v=hvWYbpJPK2E) | 1494.0 | 03_offerta | 2 | DA STUDIARE | videos |
+| 40 | uMPDxFMj9VY | 20241223 | [Direct Response Marketing: How to Create Unbeatable Offers for Your Business](https://www.youtube.com/watch?v=uMPDxFMj9VY) | 1156.0 | 03_offerta | 2 | STUDIATO | videos |
+| 41 | Ny8AkjwSoo8 | 20241108 | [Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta](https://www.youtube.com/watch?v=Ny8AkjwSoo8) | 1582.0 | 03_offerta | 2 | STUDIATO | videos |
+| 42 | hvWYbpJPK2E | 20241025 | [How to Raise Prices and Make Your Customers Happy](https://www.youtube.com/watch?v=hvWYbpJPK2E) | 1494.0 | 03_offerta | 2 | STUDIATO | videos |
 | 43 | Vm1eT2_f6Ho | da acquisire | [3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) | 272.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 44 | ZX_59lE19dw | da acquisire | [Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO](https://www.youtube.com/watch?v=ZX_59lE19dw) | 243.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 45 | Dqzs97Wl9jc | da acquisire | [How to ATTRACT CUSTOMERS with irresistible offers and the right bait](https://www.youtube.com/watch?v=Dqzs97Wl9jc) | 306.0 | 03_offerta | 2 | DA STUDIARE | videos |
