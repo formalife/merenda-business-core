@@ -48,9 +48,9 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 40 | [uMPDxFMj9VY](https://www.youtube.com/watch?v=uMPDxFMj9VY) — Direct Response Marketing: How to Create Unbeatable Offers for Your Business | 03_offerta | STUDIATO |
 | 41 | [Ny8AkjwSoo8](https://www.youtube.com/watch?v=Ny8AkjwSoo8) — Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | 03_offerta | STUDIATO |
 | 42 | [hvWYbpJPK2E](https://www.youtube.com/watch?v=hvWYbpJPK2E) — How to Raise Prices and Make Your Customers Happy | 03_offerta | STUDIATO |
-| 43 | [Vm1eT2_f6Ho](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) — 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | 03_offerta | DA STUDIARE |
-| 44 | [ZX_59lE19dw](https://www.youtube.com/watch?v=ZX_59lE19dw) — Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | 03_offerta | DA STUDIARE |
-| 45 | [Dqzs97Wl9jc](https://www.youtube.com/watch?v=Dqzs97Wl9jc) — How to ATTRACT CUSTOMERS with irresistible offers and the right bait | 03_offerta | DA STUDIARE |
+| 43 | [Vm1eT2_f6Ho](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) — 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | 03_offerta | STUDIATO |
+| 44 | [ZX_59lE19dw](https://www.youtube.com/watch?v=ZX_59lE19dw) — Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | 03_offerta | STUDIATO |
+| 45 | [Dqzs97Wl9jc](https://www.youtube.com/watch?v=Dqzs97Wl9jc) — How to ATTRACT CUSTOMERS with irresistible offers and the right bait | 03_offerta | STUDIATO |
 | 46 | [3SmdRSCB5EE](https://www.youtube.com/watch?v=3SmdRSCB5EE) — Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2] | 03_offerta | DA STUDIARE |
 | 47 | [OFsVGBnM158](https://www.youtube.com/watch?v=OFsVGBnM158) — How to Handle the High Price Objection and Sell More [Part 1] | 03_offerta | DA STUDIARE |
 | 48 | [TXGgnHLVhvA](https://www.youtube.com/watch?v=TXGgnHLVhvA) — Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | 03_offerta | DA STUDIARE |
