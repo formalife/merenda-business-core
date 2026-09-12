@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:43:12.213800+00:00
+Ultimo aggiornamento: 2026-09-12T16:43:14.221052+00:00
 
 Batch: 25 video
-Completati tecnicamente: 24/25
+Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -31,4 +31,4 @@ Completati tecnicamente: 24/25
 | 22 | OFsVGBnM158 | How to Handle the High Price Objection and Sell More [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | TXGgnHLVhvA | Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | KGPCinmAcoo | [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | pg6obSMYC0o | Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | PENDING |  |
+| 25 | pg6obSMYC0o | Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | ACQUIRED | Metadata + transcript Markdown disponibili. |
