@@ -179,6 +179,79 @@ Questo standardizza la parte ripetitiva della vendita e lascia al venditore il t
 
 Se i materiali sono ancora deboli, queste competenze devono almeno essere possedute direttamente dal venditore o dall'imprenditore.
 
+## Il prezzo va testato, non imposto per fede
+
+Nel materiale del 2025 Merenda rende esplicito che l'aumento di prezzo è un **test economico**, non una dichiarazione identitaria.
+
+Possibili test:
+
+- nuovi clienti esposti direttamente al nuovo prezzo;
+- cluster omogenei di clienti esistenti;
+- diverse fasce per la stessa offerta;
+- confronto tra ricavi, margine, conversione e numero di clienti serviti.
+
+L'obiettivo è trovare uno **sweet spot**: un prezzo abbastanza alto da creare margine e abbastanza accessibile da non distruggere una quota strategicamente utile della domanda.
+
+La quota di clienti utile dipende anche dalla fase dell'azienda. All'inizio, più clienti soddisfatti possono significare:
+
+- più testimonianze;
+- più recensioni;
+- più storie di successo;
+- più referral;
+- più reputazione.
+
+Un'azienda più matura può preferire meno clienti, più selezionati e con margine superiore.
+
+Fonte: [Alzare I Prezzi Senza Paura](https://www.youtube.com/watch?v=wdSlAXm_Qt4), 4 febbraio 2025. [Revisione](../../sources/transcripts/wdSlAXm_Qt4.review.md).
+
+## Costruire la capacità di sostenere un prezzo alto
+
+La disponibilità a pagare non dipende solo dal copy della trattativa.
+
+Merenda collega il pricing a:
+
+- specializzazione/focus;
+- recensioni;
+- testimonianze;
+- storie di successo;
+- passaparola;
+- assistenza;
+- qualità dell'esperienza.
+
+Per una PMI giovane queste prove svolgono parte del lavoro che un brand già affermato ottiene dalla notorietà.
+
+Il prezzo superiore deve quindi essere accompagnato dalla costruzione di segnali che rendano credibile la superiorità o specializzazione.
+
+## Ammiraglia come ancora e leva PR
+
+Una strategia del 2024 consiste nel creare un'offerta **ammiraglia** molto più costosa della gamma normale.
+
+L'ammiraglia deve essere reale e acquistabile, ma non è necessario che produca grandi volumi.
+
+Può servire a:
+
+- alzare la percezione del brand;
+- generare curiosità e conversazione;
+- creare un riferimento interno molto alto;
+- rendere relativamente più accessibili le offerte core;
+- identificare clienti ad altissima capacità di spesa.
+
+Eventuali campagne speciali sull'ammiraglia possono essere riservate a cluster selezionati di clienti esistenti, con una motivazione plausibile e condizioni private, invece di trasformare pubblicamente il listino in una sequenza di sconti.
+
+Questo chiarisce il motto "aggiungi uno zero": **non significa prendere la stessa cosa domani e moltiplicarne arbitrariamente il prezzo per tutti**.
+
+Fonte: [Come Alzare I Prezzi E Triplicare I Profitti Senza Rovinarti](https://www.youtube.com/watch?v=W5jfzieK33Y), 30 dicembre 2024. [Revisione](../../sources/transcripts/W5jfzieK33Y.review.md).
+
+## Transizione dei clienti esistenti
+
+Un nuovo prospect non possiede necessariamente un riferimento storico sul prezzo dell'azienda.
+
+Un cliente esistente sì.
+
+Per questo un aumento molto forte può essere più facile da introdurre su nuovi clienti, mentre sulla base esistente Merenda propone test e transizioni per evitare di confondere il nuovo valore con un semplice rincaro improvviso.
+
+Posizionamento, comunicazione, prova e struttura devono evolvere insieme al price point.
+
 ## Sconto: strumento, non fondamento
 
 Sconti, coupon, front-end aggressivi o prove a rischio ridotto possono essere perfettamente validi dentro un funnel.
