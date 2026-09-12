@@ -13,7 +13,7 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 5 | [m-xKoXkdRak](https://www.youtube.com/watch?v=m-xKoXkdRak) — L'Avvocato Divorzista: Come Dominare il Mercato dei Divorzi con il Marketing | 01_mercato | STUDIATO |
 | 6 | [GesepBOY5E8](https://www.youtube.com/watch?v=GesepBOY5E8) — Come trovare nuovi clienti in Target - Corso Pratico [Parte 2] | 01_mercato | STUDIATO |
 | 7 | [huJ_AaTLKnw](https://www.youtube.com/watch?v=huJ_AaTLKnw) — How to Find New Target Customers - Practical Course [Part 1] | 01_mercato | STUDIATO |
-| 8 | [27Bt3nswSyg](https://www.youtube.com/watch?v=27Bt3nswSyg) — BRAND - 5 Tecniche per creare autorità e VINCERE sul mercato | 01_mercato | DA STUDIARE |
+| 8 | [27Bt3nswSyg](https://www.youtube.com/watch?v=27Bt3nswSyg) — BRAND - 5 Tecniche per creare autorità e VINCERE sul mercato | 08_brand | STUDIATO |
 | 9 | [Wk1Se1AeInw](https://www.youtube.com/watch?v=Wk1Se1AeInw) — MARKETING &#124; Atteggiamento Mentale per dettare le regole del mercato [Jay Abraham] | 01_mercato | DA STUDIARE |
 | 10 | [hT2yQgRrh7w](https://www.youtube.com/watch?v=hT2yQgRrh7w) — How to Stand Out from the Competition: A Positioning Lesson from Biraghi in Turin | 02_posizionamento | DA STUDIARE |
 | 11 | [elw419RBCEM](https://www.youtube.com/watch?v=elw419RBCEM) — Posizionamento di Marca: Il Sistema Complesso che Trasforma PMI in Leader di Mercato | 02_posizionamento | DA STUDIARE |
