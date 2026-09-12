@@ -124,3 +124,40 @@ Con CosMc's, l'azienda prende parte degli stessi asset e li sposta in un brand/c
 La valutazione resta però sospesa sul lungo periodo: al momento del video il menu appariva in parte originale, in parte simile a Starbucks e in parte copiato dal menu McDonald's. Mancava ancora una differenza chiaramente dimostrata.
 
 Fonte: [CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning?](https://www.youtube.com/watch?v=xb8bGLwkiGY), 8 febbraio 2024. [Revisione](../../sources/transcripts/xb8bGLwkiGY.review.md).
+
+
+## Kinder: guardare il film, non la fotografia
+
+Merenda usa la storia delle varianti Kinder per mostrare perché un catalogo fotografato in un singolo momento può ingannare.
+
+Nel corso degli anni sono comparsi prodotti e gusti che, nella sua lettura, uscivano dal significato centrale: target adulti, yogurt, marmellata, cappuccino e altre varianti. Il fatto che fossero in vendita non dimostrava che fossero una buona strategia.
+
+Anni dopo molte di quelle varianti risultavano ritirate o separate dal nucleo Kinder.
+
+Il caso insegna quindi a valutare:
+
+- sopravvivenza nel tempo;
+- riacquisto;
+- coerenza con la posizione;
+- eventuale rifocalizzazione successiva.
+
+Merenda cita anche Kinderini come esempio opposto: ingresso in una nuova sottocategoria costruendo un'identità specifica e coerente con i codici del core, anziché copiare semplicemente il formato del concorrente.
+
+Nota: la formulazione 2023 su Kinder come "brand superiore" viene subordinata all'insegnamento più recente del 2024 che rifiuta il family brand come giustificazione delle estensioni.
+
+Fonte: [Kinder Ferrero e il Marketing: Tempo di Focus](https://www.youtube.com/watch?v=AgH3SOnS7Kc), 22 novembre 2023.
+
+## Gran Soleil: pubblicità memorabile, categoria debole
+
+Gran Soleil viene usato come esempio di prodotto costruito prima della categoria.
+
+Secondo Merenda, il problema non era soltanto il messaggio pubblicitario:
+
+- il cliente faticava a capire che cosa fosse;
+- il consumo richiedeva preparazione differita rispetto al desiderio immediato di dessert;
+- la promessa di naturalità era poco coerente con la percezione generata dal processo/confezione;
+- il forte investimento pubblicitario poteva ottenere prova, ma non sufficiente riacquisto.
+
+La lezione è che **una campagna memorabile può sopravvivere nella memoria anche quando il prodotto non costruisce una posizione sostenibile**.
+
+Fonte: [Il più grande flop di Ferrero](https://www.youtube.com/watch?v=GsmDyZQeYUM), 17 novembre 2023.
