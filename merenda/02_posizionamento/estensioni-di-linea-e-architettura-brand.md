@@ -86,19 +86,25 @@ Le file all'apertura e le PR non sono prova sufficiente di un posizionamento vin
 
 Fonte: [CosMc's](https://www.youtube.com/watch?v=xb8bGLwkiGY), 8 febbraio 2024. [Revisione](../../sources/transcripts/xb8bGLwkiGY.review.md).
 
-## Family brand: eccezione strutturale, non licenza universale
+## Il "family brand" non è una licenza strategica
 
-Un family brand è possibile quando il nome superiore possiede già un significato abbastanza ampio da rendere credibili categorie diverse sottostanti.
+Nel webinar del 2016 Merenda usava Apple e Disney per spiegare un concetto di "family brand", cioè un nome superiore capace di rendere credibili categorie sottostanti.
 
-Nel webinar Merenda usa Apple e Disney come esempi:
+Questa formulazione viene **superata esplicitamente dal materiale del 15 gennaio 2024**.
 
-- il brand superiore rappresenta un territorio più ampio;
-- i prodotti/categorie sottostanti hanno identità proprie;
-- il nome superiore fa da garanzia o mondo di riferimento.
+Merenda afferma che il "family brand" o "brand cappello" è una teoria universitaria sbagliata come guida operativa: il cliente non compra "Apple" in astratto, compra iPhone, iPad, Mac e gli altri brand/prodotti specifici.
 
-Questo non significa che qualunque PMI possa estendere il proprio nome perché lo fanno Apple o Disney.
+La regola attiva diventa quindi:
 
-Per essere credibile, il significato superiore deve esistere davvero nella mente del mercato.
+- un'azienda può possedere più brand focalizzati;
+- la proprietà comune può essere nota al mercato;
+- questo non autorizza a trascinare lo stesso nome in categorie differenti;
+- ogni brand/prodotto deve avere un significato comprensibile nella mente del cliente;
+- l'architettura societaria non sostituisce il posizionamento.
+
+Il caso CosMc's del febbraio 2024 è coerente con questa formulazione più recente: McDonald's può possedere CosMc's, ma la nuova categoria viene presentata con un nome e un contesto distinti.
+
+Fonte più recente: [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024. [Revisione](../../sources/transcripts/WSYK8uA39Rg.review.md).
 
 ## Dove e come viene venduto il prodotto conta
 
@@ -144,7 +150,7 @@ Per questo l'estensione di linea è collegata direttamente alla [riduzione delle
 3. Testare varianti solo se coerenti e sostenibili.
 4. Evitare che il nuovo prodotto indebolisca il significato originale.
 5. Se cambia categoria/posizione, valutare un nuovo brand.
-6. Usare un family brand solo quando esiste davvero un significato superiore credibile.
+6. Non usare il concetto di family brand/brand cappello per giustificare estensioni: ragionare sui singoli brand e sul significato che ciascuno possiede nella mente del mercato.
 7. Misurare sempre anche la complessità operativa creata.
 
 ## Collegamenti
