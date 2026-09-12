@@ -44,7 +44,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 34 | GsmDyZQeYUM | 20231117 | [Brand Positioning &#124; Il più grande FLOP di FERRERO [La vera storia]](https://www.youtube.com/watch?v=GsmDyZQeYUM) | 1703.0 | 02_posizionamento | 2 | STUDIATO | streams |
 | 35 | vvpLVofHhHM | 20231114 | [Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo](https://www.youtube.com/watch?v=vvpLVofHhHM) | 2985.0 | 02_posizionamento | 2 | STUDIATO | streams |
 | 36 | hF9Xoc9hnHE | 20231105 | [Brand Positioning vs Marketing Accademico](https://www.youtube.com/watch?v=hF9Xoc9hnHE) | 3028.0 | 02_posizionamento | 2 | STUDIATO | streams |
-| 37 | Cqtu8BIvyto | da acquisire | [🔴 Direct Response Marketing: The Power of an Unbeatable Offer](https://www.youtube.com/watch?v=Cqtu8BIvyto) | 3421.0 | 03_offerta | 2 | DA STUDIARE | videos |
+| 37 | Cqtu8BIvyto | 20250403 | [🔴 Direct Response Marketing: The Power of an Unbeatable Offer](https://www.youtube.com/watch?v=Cqtu8BIvyto) | 3421.0 | 03_offerta | 2 | STUDIATO | videos |
 | 38 | wdSlAXm_Qt4 | da acquisire | [Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti](https://www.youtube.com/watch?v=wdSlAXm_Qt4) | 1190.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 39 | W5jfzieK33Y | da acquisire | [How to Raise Prices and Triple Your Profits Without Ruining Your Business](https://www.youtube.com/watch?v=W5jfzieK33Y) | 697.0 | 03_offerta | 2 | DA STUDIARE | videos |
 | 40 | uMPDxFMj9VY | da acquisire | [Direct Response Marketing: How to Create Unbeatable Offers for Your Business](https://www.youtube.com/watch?v=uMPDxFMj9VY) | 1156.0 | 03_offerta | 2 | DA STUDIARE | videos |
