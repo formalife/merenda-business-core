@@ -6,7 +6,9 @@ Leggi `00_START_HERE.md` prima di fare qualsiasi cosa.
 
 - Ogni 25 video completati: esegui fase 14.
 - Ogni 50 video completati: esegui fase 14 e poi fase 15.
-- Dopo il checkpoint, se il corpus non è completo, restituisci il controllo a Codex tramite `STATUS.md`.
+- Dopo il checkpoint, se il corpus non è completo:
+  - restituisci il controllo a `CHATGPT` se gli asset del prossimo video sono già acquisiti;
+  - altrimenti richiedi `CODEX` per il prossimo batch tecnico.
 
 ## Ruolo dopo il completamento del corpus
 
