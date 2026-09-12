@@ -117,6 +117,20 @@ Resta invece valido il principio non contraddetto:
 
 **quando possibile, costruire autorità prima di chiedere alla lead generation e alla vendita di fare tutto il lavoro.**
 
+## Recensioni e testimonianze come PR della PMI
+
+Nel materiale del 2025 Merenda descrive recensioni, testimonianze, storie di successo e passaparola come le PR più immediatamente disponibili a una PMI che non possiede ancora notorietà mediatica.
+
+Queste prove:
+- costruiscono fiducia;
+- rendono più credibile la specializzazione;
+- sostengono aumenti di prezzo;
+- facilitano il referral.
+
+La pubblicità successiva amplifica prove che esistono già; non deve inventare da zero l'autorevolezza.
+
+Fonte: [Alzare I Prezzi Senza Paura](https://www.youtube.com/watch?v=wdSlAXm_Qt4), 4 febbraio 2025.
+
 ## Collegamenti
 
 - [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)
