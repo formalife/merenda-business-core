@@ -39,7 +39,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 29 | 44NmOABcDCc | 20160908 | [Brand Positioning and Line Extension - Marketing - The Whole Truth](https://www.youtube.com/watch?v=44NmOABcDCc) | 4344.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 30 | xb8bGLwkiGY | 20240208 | [CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning?](https://www.youtube.com/watch?v=xb8bGLwkiGY) | 2347.0 | 02_posizionamento | 2 | STUDIATO | streams |
 | 31 | WSYK8uA39Rg | 20240115 | [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg) | 3151.0 | 02_posizionamento | 2 | STUDIATO | streams |
-| 32 | b9iVR8qJn-A | da acquisire | [BRAND POSITIONING &#124; CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A) | 2694.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
+| 32 | b9iVR8qJn-A | 20231208 | [BRAND POSITIONING &#124; CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A) | 2694.0 | 02_posizionamento | 2 | STUDIATO | streams |
 | 33 | AgH3SOnS7Kc | da acquisire | [Kinder Ferrero e il Marketing: Tempo di Focus](https://www.youtube.com/watch?v=AgH3SOnS7Kc) | 2702.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
 | 34 | GsmDyZQeYUM | da acquisire | [Brand Positioning &#124; Il più grande FLOP di FERRERO [La vera storia]](https://www.youtube.com/watch?v=GsmDyZQeYUM) | 1703.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
 | 35 | vvpLVofHhHM | da acquisire | [Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo](https://www.youtube.com/watch?v=vvpLVofHhHM) | 2985.0 | 02_posizionamento | 2 | DA STUDIARE | streams |
