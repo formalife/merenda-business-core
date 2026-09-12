@@ -6,3 +6,6 @@ __pycache__/
 .env.*
 work/tmp/
 work/cache/
+
+work/*.log
+work/keyframes/

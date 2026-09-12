@@ -1,5 +1,5 @@
 # Business
 
-Questa sezione è inizialmente vuota.
+[Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md): ROI, acquisizione, tempi di incasso e risorse operative.
 
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+Rimandi alle fonti e alle eventuali incertezze locali nei documenti.

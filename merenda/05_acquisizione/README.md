@@ -1,5 +1,7 @@
 # Acquisizione
 
-Questa sezione è inizialmente vuota.
+[Costo per vendita e ritorno della cassa](../09_business/numeri-cassa-e-crescita.md), con [front-end e monetizzazione successiva](../03_offerta/front-end-e-back-end.md).
 
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+[Referral e soddisfazione](referral-e-soddisfazione.md): qualità dei clienti, feedback e strumenti di segnalazione.
+
+Rimandi alle fonti e alle eventuali incertezze locali nei documenti.

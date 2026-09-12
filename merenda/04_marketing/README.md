@@ -1,5 +1,7 @@
 # Marketing
 
-Questa sezione è inizialmente vuota.
+[Strategia e sette criteri](../00_fondamenti/marketing-first.md): principi che guidano campagne e scelta degli strumenti.
 
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+[Quattro modalità e ritmo](quattro-modalita-e-ritmo.md): organizzazione quotidiana, sperimentazione e condizioni per scalare.
+
+Rimandi alle fonti e alle eventuali incertezze locali nei documenti.

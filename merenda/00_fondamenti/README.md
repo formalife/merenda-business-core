@@ -1,5 +1,5 @@
 # Fondamenti
 
-Questa sezione è inizialmente vuota.
+[Marketing first e principi di progettazione](marketing-first.md): ruolo del marketing, sette criteri e responsabilità dell’imprenditore.
 
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+Rimandi alle fonti e alle eventuali incertezze locali nei documenti.

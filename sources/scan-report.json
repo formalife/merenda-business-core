@@ -1,0 +1,16 @@
+{
+  "scanned_at": "2026-09-12T15:30:03.363510+00:00",
+  "channel_id": "UCaAzr7bvYcZRfGR8EyBynOA",
+  "channel_url": "https://www.youtube.com/@FrankMerendaTV",
+  "tab_counts": {
+    "videos": 296,
+    "shorts": 109,
+    "streams": 63
+  },
+  "unique_videos": 468,
+  "limits": [
+    "Solo video pubblicamente elencati nelle tre schede; privati, eliminati e non in elenco non censibili.",
+    "Date esatte non restituite dalla scansione piatta; acquisizione per video prima del merge.",
+    "Titoli restituiti da YouTube talvolta localizzati in inglese."
+  ]
+}

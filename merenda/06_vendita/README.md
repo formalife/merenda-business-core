@@ -1,5 +1,3 @@
 # Vendita
 
-Questa sezione è inizialmente vuota.
-
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+[Prequalifica, follow-up e decisori](prequalifica-follow-up-decisori.md): preparazione del contatto, tempi del cliente, vendita B2B e motivazioni degli interlocutori.

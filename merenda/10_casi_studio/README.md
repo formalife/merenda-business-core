@@ -1,5 +1,3 @@
 # Casi studio
 
-Questa sezione è inizialmente vuota.
-
-Durante l'ingestione, aggiungere qui una sintesi breve della sezione e il routing verso i documenti specifici creati soltanto quando servono.
+[Focalizzazione, funnel e capacità operativa](focalizzazione-funnel-e-capacita.md): casi Il Muratore Bergamasco e Studio Di Caprio. Testimonianze e numeri attribuiti ai relatori, con verifiche visuali e limiti.
