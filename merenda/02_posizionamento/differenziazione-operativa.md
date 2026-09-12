@@ -160,3 +160,34 @@ La risposta attiva, alla luce del materiale successivo, non è "eliminare sempre
 Il materiale del 2024 prevale sulla formulazione più rigida del 2023: **la focalizzazione principale è anzitutto nella mente del mercato e nel marketing, non necessariamente nella quantità assoluta di SKU venduti.**
 
 Fonte precedente: [Posizionamento NON significa vendere 1 SOLO prodotto](https://www.youtube.com/watch?v=PjcWMHBN7qM), 4 settembre 2023. [Revisione](../../sources/transcripts/PjcWMHBN7qM.review.md).
+
+
+## La strategia deve proteggere ciò per cui il cliente compra
+
+"Qualità" non è un obiettivo strategico universale. Il cliente può scegliere un'offerta per velocità, comodità, semplicità, status, prezzo, specializzazione o un altro criterio.
+
+Il caso McDonald's viene usato per mostrare il rischio: migliorare oggettivamente un componente del prodotto può peggiorare il business se quella modifica rallenta il servizio e quindi danneggia il vero attributo per cui il cliente compra.
+
+La sequenza corretta è:
+
+**capire il focus → leggere i numeri attraverso quel focus → scegliere le strategie che lo rafforzano**
+
+non:
+
+**scegliere una tattica apparentemente migliorativa → sperare che il mercato la premi**.
+
+Anche i dati vanno interpretati in questo modo. Se una quota dominante delle vendite arriva da un canale che esprime chiaramente un criterio di acquisto — nell'esempio, il McDrive e la velocità — quel dato può indicare dove stringere il modello invece di aggiungere altre linee, prodotti e complessità.
+
+L'estensione di linea non è soltanto un problema percettivo. Può aumentare:
+
+- scelta per il cliente;
+- inventario;
+- merce e varianti;
+- personale;
+- processi;
+- tempi di produzione;
+- possibilità di errore.
+
+Questo collega direttamente il posizionamento alla [riduzione delle variabili operative](../04_marketing/complessita-e-riduzione-variabili.md).
+
+Fonte: [Le Strategie di Marketing si basano sul Posizionamento](https://www.youtube.com/watch?v=_T73jCJtH0k), 2 maggio 2023. [Revisione](../../sources/transcripts/_T73jCJtH0k.review.md).
