@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:41.694839+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:43.575166+00:00
 
 Batch: 25 video
-Completati tecnicamente: 12/25
+Completati tecnicamente: 13/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -19,7 +19,7 @@ Completati tecnicamente: 12/25
 | 10 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 13 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | PENDING |  |
+| 13 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | PENDING |  |
 | 15 | tIpkQLqsPUI | I Miei Consigli per il 2024 | PENDING |  |
 | 16 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | PENDING |  |
