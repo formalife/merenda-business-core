@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:24:13.739932+00:00
+Ultimo aggiornamento: 2026-09-13T11:24:28.560733+00:00
 
 Batch: 25 video
-Completati tecnicamente: 23/25
+Completati tecnicamente: 24/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -30,5 +30,5 @@ Completati tecnicamente: 23/25
 | 21 | -GsWbIj44dQ | Come fare Marketing in momenti di crisi [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | 8bQmDJJTEqs | How to Marketing in Times of Crisis [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | nJuSh2u1dOE | Il Marketing come ARMA per respingere i clienti che non vuoi | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 24 | _zqwnqzzv-4 | Marketing and Product Launch Strategies | PENDING |  |
+| 24 | _zqwnqzzv-4 | Marketing and Product Launch Strategies | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 25 | 0qipJSkZxmg | Il Marketing non è un’azione singola ma un metodo | PENDING |  |
