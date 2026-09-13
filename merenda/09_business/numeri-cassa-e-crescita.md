@@ -54,6 +54,38 @@ Fonti:
 - [Come fare Marketing in momenti di crisi — Parte 1](https://www.youtube.com/watch?v=8bQmDJJTEqs), 12 gennaio 2023. [Revisione](../../sources/transcripts/8bQmDJJTEqs.review.md).
 - [Come fare Marketing in momenti di crisi — Parte 2](https://www.youtube.com/watch?v=-GsWbIj44dQ), 12 gennaio 2023. [Revisione](../../sources/transcripts/-GsWbIj44dQ.review.md).
 
+## Prima del budget marketing: liberare cash flow operativo
+
+Una lezione precedente del 20 ottobre 2022 tratta il “lancio” del marketing come un problema prima di tutto finanziario: l'impresa non dovrebbe partire da un budget arbitrario o da un obiettivo di crescita inventato, ma da **quanta cassa operativa riesce a generare e liberare**.
+
+Il percorso proposto usa tre viste complementari:
+
+1. il rendiconto finanziario per isolare e seguire il cash flow generato dall'operatività;
+2. il conto economico per lavorare prima sulle spese e poi sui ricavi;
+3. lo stato patrimoniale per intervenire sul capitale circolante.
+
+Le leve operative richiamate sono:
+
+- **tempi di incasso** — ridurli, definendo già in vendita condizioni chiare e facendo rispettare gli accordi;
+- **inventario** — ridurre i giorni e il capitale immobilizzato quando conviene, senza applicare una formula universale;
+- **pagamenti ai fornitori** — negoziare tempi e condizioni sostenibili mantenendo rapporti affidabili e di lungo periodo.
+
+L'inventario mostra bene perché non esiste una regola meccanica: comprare più quantità può ridurre il costo unitario ma immobilizzare più cassa; ordini più piccoli e frequenti possono liberare liquidità ma aumentare altri costi. La decisione va presa sui numeri del business in quel momento.
+
+La stessa disciplina vale per gli incassi: una piccola impresa non dovrebbe comportarsi automaticamente come banca del cliente. Condizioni e tempi devono essere espliciti prima dell'erogazione e i ritardi ripetuti consumano margine anche attraverso il tempo amministrativo necessario a inseguire i pagamenti.
+
+### Finanziare i primi test senza strangolare l'azienda
+
+Merenda propone di usare una parte delle risorse liberate dalla riduzione di spese e dal miglioramento del ciclo di cassa per finanziare i primi test di marketing. Il principio non è “tagliare tutto”, ma creare uno spazio economico che l'impresa possa mettere a rischio nei test senza compromettere l'operatività.
+
+La sequenza è quindi:
+
+**leggere la cassa → liberare risorse → testare il marketing → aumentare le vendite → misurare e scalare ciò che regge economicamente.**
+
+Il criterio finale non è la dimensione dell'azienda in sé. Merenda privilegia la capacità di generare cassa, margine e rendimento dagli asset: una struttura più piccola ma economicamente più produttiva può essere preferibile a una crescita di volume che aumenta costi e capitale immobilizzato.
+
+Fonte precedente: [Il Marketing e le Strategie di Lancio Prodotto](https://www.youtube.com/watch?v=_zqwnqzzv-4), 20 ottobre 2022. [Revisione](../../sources/transcripts/_zqwnqzzv-4.review.md).
+
 ## Acquisizione B2B, lifetime value e finestra temporale
 
 Nel caso Il Toro, Merenda richiama la necessità di giudicare una campagna B2B non soltanto dal fatturato immediato dei primi ordini, ma dal valore economico prodotto dai clienti acquisiti nel tempo.
