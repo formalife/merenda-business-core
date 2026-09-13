@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:05:14.490711+00:00
+Ultimo aggiornamento: 2026-09-13T13:05:18.831450+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | ZX0vgJeuQwo | FRANK MERENDA - OTHERWISE WE SNACK \| The #1 Marketing Channel in Europe | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | APp6ir-U60c | DIRECT MARKETING and Direct Mail Packages \| Differences between B2B and B2C | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | 7GuscYYUBXY | MARKETING per CENTRI ESTETICI \| Quanto conta la Specializzazione? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | Ip7igFZfcwo | MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | PENDING |  |
+| 11 | Ip7igFZfcwo | MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | kNAdI1VyIJU | MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia] | PENDING |  |
 | 13 | ddb6CBRIYiU | MARKETING \| Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza | PENDING |  |
 | 14 | _LwRZ4RAo5w | What Is Digital Marketing and How Does It Work | PENDING |  |
