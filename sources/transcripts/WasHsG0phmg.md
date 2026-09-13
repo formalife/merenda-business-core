@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=WasHsG0phmg
 Data pubblicazione: 20251209
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `WasHsG0phmg.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Io quando vado a comprare il Mac non
 

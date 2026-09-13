@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=Kg6vzmxdd5Y
 Data pubblicazione: 20240220
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `Kg6vzmxdd5Y.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Qual è il principio di brand più
 

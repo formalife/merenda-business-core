@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=c-BOsaTGdbY
 Data pubblicazione: 20240206
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `c-BOsaTGdbY.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] la Lamborghini ha perso in termini di
 
