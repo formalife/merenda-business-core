@@ -47,7 +47,7 @@ Handoff dettagliato: `reviews/CHECKPOINT_050.md`.
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
