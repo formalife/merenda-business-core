@@ -139,7 +139,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 127 | [dJ90FSzTCTg](https://www.youtube.com/watch?v=dJ90FSzTCTg) — CORSO DI MARKETING per trovare nuovi clienti | 04_marketing | STUDIATO |
 | 128 | [0uWKdM51ZsI](https://www.youtube.com/watch?v=0uWKdM51ZsI) — MARKETING &#124; Il principio di Autorità per i Clienti | 04_marketing | STUDIATO |
 | 129 | [Rg6q7ynXdrM](https://www.youtube.com/watch?v=Rg6q7ynXdrM) — Marketing Strategies &#124; Why You Need to Track All Your Campaigns | 04_marketing | STUDIATO |
-| 130 | [_i0O0tp74oQ](https://www.youtube.com/watch?v=_i0O0tp74oQ) — Strategia di Marketing &#124; Il triangolo della Manipolazione di Dan Kennedy | 04_marketing | DA STUDIARE |
+| 130 | [_i0O0tp74oQ](https://www.youtube.com/watch?v=_i0O0tp74oQ) — Strategia di Marketing &#124; Il triangolo della Manipolazione di Dan Kennedy | 04_marketing | STUDIATO |
 | 131 | [2LVrzGFBcmg](https://www.youtube.com/watch?v=2LVrzGFBcmg) — Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | 04_marketing | DA STUDIARE |
 | 132 | [qQBDw9iCsyU](https://www.youtube.com/watch?v=qQBDw9iCsyU) — Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | 04_marketing | DA STUDIARE |
 | 133 | [ZX0vgJeuQwo](https://www.youtube.com/watch?v=ZX0vgJeuQwo) — FRANK MERENDA - OTHERWISE WE SNACK &#124; The #1 Marketing Channel in Europe | 04_marketing | DA STUDIARE |
