@@ -34,6 +34,43 @@ senza arrivare a:
 
 Il copy e il marketing devono tradurre tecnica e caratteristiche in conseguenze rilevanti per la vita, il lavoro, il denaro, il rischio o il desiderio del target.
 
+
+## Prima del copy: trovare il trigger reale che rende il bisogno prioritario
+
+Nel materiale del 27 settembre 2024 Merenda propone un esercizio precedente alla scrittura.
+
+La domanda non è subito:
+
+**“che cosa devo dire del prodotto?”**
+
+ma:
+
+**“quale evento della vita reale fa sì che questa persona, senza il mio marketing, senta improvvisamente il bisogno di comprare?”**
+
+Il trigger può essere, per esempio:
+
+- dolore o comparsa di un problema;
+- comportamento di un pari;
+- confronto con un amico, collega o concorrente;
+- cambiamento personale o familiare;
+- perdita, danno o rischio;
+- desiderio di non restare indietro rispetto al gruppo.
+
+Questi eventi spostano un bisogno che prima era secondario verso una priorità più alta.
+
+Merenda descrive quindi il marketing come una **replica sintetica di dinamiche che esistono già nel mondo reale**: annunci, lettere, landing, email o altri materiali cercano di ricreare il significato di quel trigger, non di inventare dal nulla un desiderio inesistente.
+
+L'esercizio operativo è:
+
+1. identificare l'evento che naturalmente precede l'acquisto;
+2. identificare chi o che cosa lo provoca nella vita reale;
+3. capire quale pensiero/emozione rende il problema improvvisamente rilevante;
+4. costruire il messaggio affinché evochi quella situazione e porti al passo successivo.
+
+Questo aggiorna il principio della priorità: il copy non deve solo spiegare conseguenze astratte, ma collegarsi ai **momenti in cui il bisogno diventa concretamente saliente**.
+
+Fonte: [Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni](https://www.youtube.com/watch?v=MuHs2UrVGEg), 27 settembre 2024. [Revisione](../../sources/transcripts/MuHs2UrVGEg.review.md).
+
 ## Ogni comunicazione deve spostare la persona
 
 Merenda insiste sul fatto che attenzione ed entusiasmo sono instabili.
