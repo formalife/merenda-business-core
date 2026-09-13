@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:06:14.234695+00:00
+Ultimo aggiornamento: 2026-09-13T13:06:20.048644+00:00
 
 Batch: 25 video
-Completati tecnicamente: 20/25
+Completati tecnicamente: 21/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -27,7 +27,7 @@ Completati tecnicamente: 20/25
 | 18 | jcVKVKvy78k | Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
 | 19 | Sjmvw03Oxqc | Spot Anni '80: Il MARKETING della nostra infanzia! | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | F1seup0MuLk | Come fare una campagna marketing di successo \| La piramide del Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | PENDING |  |
+| 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | W9IOyR3fsEo | Mental Manipulation \| Dan Kennedy and Unfair Marketing Techniques | PENDING |  |
 | 23 | joY6sigynis | Strategie di Marketing per trovare clienti \|DAN KENNEDY e il PACCONE | PENDING |  |
 | 24 | ijVoIMF_gn8 | DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | PENDING |  |
