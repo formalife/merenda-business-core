@@ -148,7 +148,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 136 | [Ip7igFZfcwo](https://www.youtube.com/watch?v=Ip7igFZfcwo) — MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | 04_marketing | STUDIATO |
 | 137 | [kNAdI1VyIJU](https://www.youtube.com/watch?v=kNAdI1VyIJU) — MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia] | 07_copy_comunicazione | STUDIATO |
 | 138 | [ddb6CBRIYiU](https://www.youtube.com/watch?v=ddb6CBRIYiU) — MARKETING &#124; Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza | 02_posizionamento | STUDIATO |
-| 139 | [_LwRZ4RAo5w](https://www.youtube.com/watch?v=_LwRZ4RAo5w) — What Is Digital Marketing and How Does It Work | 04_marketing | DA STUDIARE |
+| 139 | [_LwRZ4RAo5w](https://www.youtube.com/watch?v=_LwRZ4RAo5w) — What Is Digital Marketing and How Does It Work | 04_marketing | STUDIATO |
 | 140 | [JUaqpqx6G-8](https://www.youtube.com/watch?v=JUaqpqx6G-8) — [Strategie di Marketing] Bisogno di Reciprocità | 04_marketing | DA STUDIARE |
 | 141 | [Slo-0E7GU4o](https://www.youtube.com/watch?v=Slo-0E7GU4o) — MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | 04_marketing | DA STUDIARE |
 | 142 | [aRCppOvE-js](https://www.youtube.com/watch?v=aRCppOvE-js) — Tecniche di Marketing per Aspiranti Formatori e Coach | 04_marketing | DA STUDIARE |
