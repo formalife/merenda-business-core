@@ -111,6 +111,25 @@ Gli altri elementi della checklist direct response del video — offerta, bonus,
 
 Fonte: [Marketing a Risposta Diretta — Come farlo nel modo giusto?](https://www.youtube.com/watch?v=Aq0dxMu8AqU), 23 marzo 2023. [Revisione](../../sources/transcripts/Aq0dxMu8AqU.review.md).
 
+
+## La risposta diretta è una struttura, non un tono di voce
+
+Nel materiale del 9 luglio 2022 Merenda distingue la **meccanica** della risposta diretta dallo stile con cui viene espressa.
+
+Un messaggio può essere:
+
+- elegante;
+- sobrio;
+- tecnico;
+- premium;
+- coerente con moda, lusso o contesti istituzionali;
+
+e restare comunque risposta diretta se conduce a un'azione esplicita e misurabile.
+
+L'errore è associare automaticamente la risposta diretta a un tono aggressivo, urlato o da televendita. **CTA, offerta e misurabilità non impongono un'unica voce creativa.** Lo stile va adattato al target, al posizionamento e al contesto senza perdere la funzione della comunicazione.
+
+Fonte precedente: [MARKETING a Risposta Diretta VS Marketing Istituzionale](https://www.youtube.com/watch?v=kNAdI1VyIJU), 9 luglio 2022. [Revisione](../../sources/transcripts/kNAdI1VyIJU.review.md).
+
 ## Ogni comunicazione deve spostare la persona
 
 Merenda insiste sul fatto che attenzione ed entusiasmo sono instabili.

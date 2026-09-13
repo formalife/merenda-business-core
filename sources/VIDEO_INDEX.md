@@ -145,7 +145,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 135 | APp6ir-U60c | da acquisire | [DIRECT MARKETING and Direct Mail Packages &#124; Differences between B2B and B2C](https://www.youtube.com/watch?v=APp6ir-U60c) | 345.0 | 04_marketing | 2 | STUDIATO | videos |
 | 136 | 7GuscYYUBXY | da acquisire | [MARKETING per CENTRI ESTETICI &#124; Quanto conta la Specializzazione?](https://www.youtube.com/watch?v=7GuscYYUBXY) | 189.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 137 | Ip7igFZfcwo | da acquisire | [MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social?](https://www.youtube.com/watch?v=Ip7igFZfcwo) | 205.0 | 04_marketing | 2 | STUDIATO | videos |
-| 138 | kNAdI1VyIJU | da acquisire | [MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia]](https://www.youtube.com/watch?v=kNAdI1VyIJU) | 140.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 138 | kNAdI1VyIJU | da acquisire | [MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia]](https://www.youtube.com/watch?v=kNAdI1VyIJU) | 140.0 | 07_copy_comunicazione | 2 | STUDIATO | videos |
 | 139 | ddb6CBRIYiU | da acquisire | [MARKETING &#124; Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza](https://www.youtube.com/watch?v=ddb6CBRIYiU) | 5081.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 140 | _LwRZ4RAo5w | da acquisire | [What Is Digital Marketing and How Does It Work](https://www.youtube.com/watch?v=_LwRZ4RAo5w) | 736.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 141 | JUaqpqx6G-8 | da acquisire | [[Strategie di Marketing] Bisogno di Reciprocità](https://www.youtube.com/watch?v=JUaqpqx6G-8) | 358.0 | 04_marketing | 2 | DA STUDIARE | videos |
