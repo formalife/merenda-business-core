@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:58:10.874209+00:00
+Ultimo aggiornamento: 2026-09-13T08:58:15.074827+00:00
 
 Batch: 25 video
-Completati tecnicamente: 6/25
+Completati tecnicamente: 7/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -13,7 +13,7 @@ Completati tecnicamente: 6/25
 | 4 | kJZXe1i5Vcg | Aperture nicchia altospendenti #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | ugbJzDGdsMA | Come fidelizzare i ricchi #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | WasHsG0phmg | Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | PENDING |  |
+| 7 | WasHsG0phmg | Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | fkvXwg_tswE | Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | PENDING |  |
 | 9 | Kg6vzmxdd5Y | BRAND POSITIONING \| The Most Important Principle of Brand Positioning #shorts | PENDING |  |
 | 10 | c-BOsaTGdbY | BRAND POSITIONING \| What is Line Extension #shorts | PENDING |  |
