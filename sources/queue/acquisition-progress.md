@@ -1,15 +1,15 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:57:29.712081+00:00
+Ultimo aggiornamento: 2026-09-13T08:57:50.663614+00:00
 
 Batch: 25 video
-Completati tecnicamente: 2/25
+Completati tecnicamente: 3/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | AG7Gi9sPBRs | How do you get rich (for real)? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | o_T9s3lzAAE | L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | PENDING |  |
+| 3 | o_T9s3lzAAE | L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | kJZXe1i5Vcg | Aperture nicchia altospendenti #shorts | PENDING |  |
 | 5 | ugbJzDGdsMA | Come fidelizzare i ricchi #shorts | PENDING |  |
 | 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | PENDING |  |
