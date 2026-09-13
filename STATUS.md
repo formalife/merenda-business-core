@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 8/25 completati; continuare dal contenuto 109.**
+**Elaborazione semantica del batch 101–125 — 9/25 completati; continuare dal contenuto 110.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 108
-- STUDIATO / integrati nella KB: 104
+- Contenuti processati semanticamente: 109
+- STUDIATO / integrati nella KB: 105
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 360
+- Da processare: 359
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 8/25 completati
+- Elaborazione semantica 101–125: 9/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`3oDGQ4SImC8` — *RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant* — `04_marketing`.
+`tcOwLBoPC-8` — *Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi?* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

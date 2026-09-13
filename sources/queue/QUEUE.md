@@ -118,7 +118,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 106 | [FIOKn72b_Bk](https://www.youtube.com/watch?v=FIOKn72b_Bk) — 3 Techniques (You Don't Know About) to Power Your Marketing | 04_marketing | STUDIATO |
 | 107 | [4beA9XR2tHE](https://www.youtube.com/watch?v=4beA9XR2tHE) — La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | 04_marketing | STUDIATO |
 | 108 | [Qlk15QgvaK4](https://www.youtube.com/watch?v=Qlk15QgvaK4) — MARKETING per DENTISTI &#124; Cosa Succede quando un Dentista fa Marketing? | 04_marketing | STUDIATO |
-| 109 | [3oDGQ4SImC8](https://www.youtube.com/watch?v=3oDGQ4SImC8) — RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | 04_marketing | DA STUDIARE |
+| 109 | [3oDGQ4SImC8](https://www.youtube.com/watch?v=3oDGQ4SImC8) — RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | 04_marketing | STUDIATO |
 | 110 | [tcOwLBoPC-8](https://www.youtube.com/watch?v=tcOwLBoPC-8) — Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi? | 04_marketing | DA STUDIARE |
 | 111 | [2R2u-O-uoYg](https://www.youtube.com/watch?v=2R2u-O-uoYg) — Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | 04_marketing | DA STUDIARE |
 | 112 | [k8d8CYjp3u8](https://www.youtube.com/watch?v=k8d8CYjp3u8) — COME TROVARE CLIENTI &#124; Le basi di una Campagna Marketing di Successo | 04_marketing | DA STUDIARE |
