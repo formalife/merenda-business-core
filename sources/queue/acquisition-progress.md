@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:59:34.002165+00:00
+Ultimo aggiornamento: 2026-09-13T08:59:38.700846+00:00
 
 Batch: 25 video
-Completati tecnicamente: 24/25
+Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -31,4 +31,4 @@ Completati tecnicamente: 24/25
 | 22 | od9yQ84Rj7Y | Il POSIZIONAMENTO nasce dal CORAGGIO dell'imprenditore #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | v1TRuSNshgA | It All Starts With Positioning - #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | ldXZUf-mKSU | How to Beat Your Competitors with Google Reviews (Before We Talk About Price) | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | 9r2SLDzMPlQ | How to Create an Irresistible Offer (Even if It Costs More) | PENDING |  |
+| 25 | 9r2SLDzMPlQ | How to Create an Irresistible Offer (Even if It Costs More) | ACQUIRED | Metadata + transcript Markdown disponibili. |
