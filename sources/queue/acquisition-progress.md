@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:47.294049+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:49.082613+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | tIpkQLqsPUI | I Miei Consigli per il 2024 | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | PENDING |  |
+| 16 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | PENDING |  |
 | 18 | KyHZ4zR6AbU | Come aprire un'attività senza soldi \| Dropshipping Made in Italy [Corso Completo] | PENDING |  |
 | 19 | DqI8rCDchGc | REAL ESTATE AGENT \| How to Become a Successful Real Estate Agent | PENDING |  |
