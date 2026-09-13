@@ -59,6 +59,29 @@ Deve essere coerente con:
 
 In alcuni casi l'azienda deve poter rifiutare un cliente anche se è disposto a pagare.
 
+## Trasformare l'appropriatezza in criteri di accettazione
+
+Un materiale precedente del 24 ottobre 2022 rende operativo questo principio: non basta sapere in astratto che esistono clienti migliori e peggiori; l'impresa deve tradurre l'economia desiderata in **criteri minimi sotto i quali un ordine non viene accettato**.
+
+I criteri non vanno decisi a sensazione. Possono combinare, a seconda del business:
+
+- margine atteso;
+- condizioni e tempi di pagamento;
+- rischio di insoluto;
+- costi di erogazione e assistenza;
+- capacità richiesta alla struttura;
+- coerenza con il target che l'azienda vuole servire.
+
+La funzione finanziaria o chi controlla l'economia dell'ordine deve poter fermare una vendita che, pur aumentando il fatturato, distrugge margine o cassa. Questo impedisce che l'incentivo del venditore a “chiudere” prevalga sull'interesse economico dell'impresa.
+
+La selezione non significa però limitarsi a rifiutare lavoro. Il secondo movimento è usare il marketing per **sostituire la domanda inappropriata con domanda migliore**. Spendere budget di acquisizione per portare dentro clienti che poi fanno perdere denaro significa pagare per amplificare un errore economico.
+
+Anche il modo in cui prodotto, servizio, ambiente e comunicazione vengono presentati può funzionare come segnale di auto-selezione: il target desiderato deve riconoscere valore, mentre chi cerca condizioni incompatibili con il modello dovrebbe percepire che l'offerta non è costruita per lui.
+
+Le generalizzazioni del 2022 su specifiche fasce di reddito non diventano criteri universali. Prevale il modello più recente del 2025: segmentare sulla base di **evidenze economiche reali** e dell'appropriatezza per l'impresa.
+
+Fonte precedente: [Il Marketing come ARMA per respingere i clienti che non vuoi](https://www.youtube.com/watch?v=nJuSh2u1dOE), 24 ottobre 2022. [Revisione](../../sources/transcripts/nJuSh2u1dOE.review.md).
+
 ## RFM: recenza, frequenza, valore monetario
 
 Per i clienti già acquisiti Merenda richiama la segmentazione RFM:
