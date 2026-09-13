@@ -1,14 +1,14 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:03:58.921388+00:00
+Ultimo aggiornamento: 2026-09-13T13:04:14.025905+00:00
 
 Batch: 25 video
-Completati tecnicamente: 1/25
+Completati tecnicamente: 2/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | dwfknCGx8UI | MARKETING \| Diventare il punto di riferimento per il tuo Settore [Jay Abraham] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | dJ90FSzTCTg | CORSO DI MARKETING per trovare nuovi clienti | PENDING |  |
+| 2 | dJ90FSzTCTg | CORSO DI MARKETING per trovare nuovi clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | 0uWKdM51ZsI | MARKETING \| Il principio di Autorità per i Clienti | PENDING |  |
 | 4 | Rg6q7ynXdrM | Marketing Strategies \| Why You Need to Track All Your Campaigns | PENDING |  |
 | 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | PENDING |  |
