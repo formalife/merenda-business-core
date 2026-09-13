@@ -15,3 +15,5 @@ Il [caso Guapo](../02_posizionamento/esempi-di-differenziazione.md#focalizzazion
 [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md): trasformare attenzione e traffico in una risposta misurabile, poi recuperare e monetizzare le opportunità generate.
 
 [Piramide di information marketing](information-marketing.md): educare e far avanzare il prospect attraverso livelli crescenti di informazione, impegno e interazione.
+
+Per il lavoro sul database già acquisito, vedi [Riattivazione dei clienti fermi](../04_marketing/riattivazione-clienti.md): frequenza attesa, trigger CRM e campagne di ritorno.

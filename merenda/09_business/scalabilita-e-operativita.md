@@ -76,6 +76,22 @@ L'impresa deve progettarsi per poter offrire:
 
 Questo non elimina selezione, formazione e cultura; ne crea il prerequisito economico.
 
+## Azienda leggibile, trasferibile e non dipendente da scorciatoie
+
+Nel materiale del 25 giugno 2022 Merenda collega la libertà del titolare alla possibilità di costruire un'azienda che possa essere letta, gestita e potenzialmente trasferita senza di lui.
+
+Richiama tre elementi:
+
+- contabilità e numeri aziendali leggibili;
+- procedure/manuali per i reparti;
+- eliminazione delle persone chiave insostituibili.
+
+Pratiche informali o fuori dai registri rendono più difficile valutare, finanziare, delegare o cedere l'impresa e aumentano la dipendenza dal titolare.
+
+La KB conserva il principio organizzativo e di trasparenza; non trasforma il video in consulenza fiscale o legale.
+
+Fonte: [Movimento FIRE — Come Smettere di Lavorare?](https://www.youtube.com/watch?v=Cv2pCRKIMx4), 25 giugno 2022. [Revisione](../../sources/transcripts/Cv2pCRKIMx4.review.md).
+
 ## Collegamenti
 
 - [Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md)

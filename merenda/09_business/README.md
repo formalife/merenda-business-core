@@ -15,3 +15,5 @@ Nel [caso CosMc's](../02_posizionamento/esempi-di-differenziazione.md#cosmcs-ste
 [Scalabilità e uscita dall'operatività](scalabilita-e-operativita.md): crescere senza far inseguire il break-even, delegare misurando KPI e togliere il fondatore dal collo di bottiglia operativo.
 
 [Partire da zero: competenze prima del capitale](partire-da-zero.md): immersione nel settore, vendita, skill imprenditoriali e verifica del modello prima di cercare finanziamenti.
+
+[Marketing del personale](marketing-del-personale.md): trattare recruiting e proposta di lavoro come target, offerta, campagna e conversione, poi sostenere la retention con struttura e condizioni credibili.

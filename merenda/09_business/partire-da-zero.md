@@ -77,6 +77,29 @@ Le lead diventano persone con cui:
 
 L'idea che un prodotto valido eviti questa competenza viene rifiutata.
 
+## Un modello commerciale asset-light
+
+Nel corso del 12 luglio 2022 Merenda propone come esempio di avvio con poco capitale un'attività commerciale che sfrutta capacità produttiva già esistente invece di costruire subito fabbrica e magazzino.
+
+Il modello concettuale è:
+
+**produttore competente ma debole commercialmente → imprenditore che costruisce marketing e vendita → cliente finale**
+
+Il valore dell'imprenditore sta nella capacità di:
+
+- scegliere prodotti con domanda e margine;
+- trovare produttori affidabili e con capacità;
+- negoziare condizioni sensate;
+- costruire materiali e acquisizione;
+- vendere;
+- gestire la logistica senza immobilizzare struttura eccessiva.
+
+Merenda chiarisce che “senza soldi” non significa letteralmente zero risorse.
+
+Il materiale specifico su strumenti logistici e piattaforme del 2022 non viene consolidato perché databile. Resta il principio **asset-light: comprare capacità esterna prima di costruire struttura propria quando il modello lo consente**.
+
+Fonte: [Come aprire un'attività senza soldi — Dropshipping Made in Italy](https://www.youtube.com/watch?v=KyHZ4zR6AbU), 12 luglio 2022. [Revisione](../../sources/transcripts/KyHZ4zR6AbU.review.md).
+
 ## Dopo l'avvio: reinvestire
 
 Una volta costruito il business, il flusso di cassa positivo può essere reinvestito per anni in:

@@ -1,0 +1,104 @@
+# Appropriatezza e qualità economica dei clienti
+
+Fonte principale: Frank Merenda, [Marketing a Risposta Diretta: Perché NON Tutti i Clienti Sono Uguali](https://www.youtube.com/watch?v=y-xhZeuogvc), pubblicato l'11 giugno 2025. [Revisione](../../sources/transcripts/y-xhZeuogvc.review.md).
+
+## Non tutti i clienti valgono allo stesso modo
+
+La ricerca indiscriminata di “più clienti” è un errore di progettazione.
+
+Un cliente può generare molto fatturato e poco valore economico reale, oppure spendere meno ma essere semplice da servire, fedele e molto profittevole nel tempo.
+
+Per questo Merenda introduce il concetto di **appropriatezza**: quanto un certo cliente è adatto all'azienda e quanto l'azienda è adatta a servire quel tipo di cliente.
+
+L'obiettivo non è discriminare arbitrariamente, ma scegliere il “chi” sul quale l'impresa può produrre più valore con un'economia migliore.
+
+## Guardare margine e lifetime value, non solo fatturato
+
+Tra i KPI richiamati:
+
+- marginalità del cliente;
+- spesa annua;
+- lifetime value / margine lungo il ciclo di vita;
+- frequenza di acquisto;
+- recenza dell'ultimo acquisto;
+- costi occulti generati dalla relazione.
+
+Una vendita non è quindi equivalente a un'altra vendita.
+
+Il costo per lead e il costo per vendita sono dati intermedi: per decidere quanto investire bisogna capire **quale tipo di cliente viene acquisito e quanto vale dopo**.
+
+## I costi occulti fanno parte della marginalità reale
+
+Un cliente fuori target può generare:
+
+- assistenza sproporzionata;
+- lamentele;
+- solleciti di pagamento;
+- rilavorazioni;
+- tempo aggiuntivo di venditori e personale;
+- ripensamenti e attrito.
+
+Anche quando questi costi non compaiono come voce separata in fattura, consumano capacità e margine.
+
+La marginalità reale del cliente deve quindi includere il costo di servirlo, non soltanto ricavi meno costo del prodotto.
+
+## Vendere a un cliente inappropriato può essere una cattiva vendita
+
+Merenda descrive anche il rischio opposto: venditori molto bravi che forzano una vendita a persone che l'azienda non dovrebbe servire.
+
+Il principio è:
+
+**la vendita non è buona solo perché incassa denaro.**
+
+Deve essere coerente con:
+
+- target;
+- capacità di erogazione;
+- regole dell'impresa;
+- interesse di lungo periodo della relazione.
+
+In alcuni casi l'azienda deve poter rifiutare un cliente anche se è disposto a pagare.
+
+## RFM: recenza, frequenza, valore monetario
+
+Per i clienti già acquisiti Merenda richiama la segmentazione RFM:
+
+- **Recency** — quanto recentemente ha comprato;
+- **Frequency** — quanto spesso compra;
+- **Monetary value** — quanto valore economico genera.
+
+La matrice aiuta a distinguere clienti caldi e responsivi da clienti occasionali o poco rilevanti e a progettare campagne differenti.
+
+Non sostituisce margine, LTV e costi occulti: è un ulteriore modo per leggere il database.
+
+## Il marketing serve anche a poter scegliere
+
+Un insegnamento precedente del 23 giugno 2022 viene precisato dal modello 2025: il marketing non serve soltanto ad aumentare il numero dei clienti, ma anche a creare **abbastanza domanda da poter selezionare quelli migliori**.
+
+Una piccola impresa con domanda scarsa è spesso costretta ad accettare chiunque arrivi.
+
+Una coda più ampia permette invece di:
+
+- rifiutare clienti incompatibili;
+- proteggere margini;
+- servire meglio quelli appropriati;
+- mantenere la dimensione desiderata dell'azienda senza vivere di clienti sbagliati.
+
+Fonte precedente: [Come vivere felici anche se hai la P.IVA](https://www.youtube.com/watch?v=uT-OrLKpCYE), 23 giugno 2022. [Revisione](../../sources/transcripts/uT-OrLKpCYE.review.md).
+
+## Segmentare sulla base di evidenze
+
+Caratteristiche demografiche, geografiche, professionali o comportamentali possono correlare con valore e probabilità di acquisto.
+
+Vanno però usate perché i dati mostrano una differenza economicamente utile, non come stereotipi.
+
+La domanda corretta è:
+
+**quale cluster produce più valore, resta più a lungo e costa meno da servire?**
+
+## Collegamenti
+
+- [Clienti identificabili e target](clienti-identificabili-e-target.md)
+- [Clienti alto-spendenti](clienti-altospendenti.md)
+- [Numeri, cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md)
+- [Referral, soddisfazione e qualità dei clienti](../05_acquisizione/referral-e-soddisfazione.md)
