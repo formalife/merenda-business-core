@@ -1,34 +1,34 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:24:33.845627+00:00
+Ultimo aggiornamento: 2026-09-13T13:03:58.921388+00:00
 
 Batch: 25 video
-Completati tecnicamente: 25/25
+Completati tecnicamente: 1/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
-| 1 | zZFg2oM208w | Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | kmtvBlfL25I | Campagne Di Marketing \| ​​3 Azioni Infallibili Per Generare Profitto Immediato | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | MuHs2UrVGEg | Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 4 | J7WZ-gzN3zg | Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | 68H6aOPXITg | Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | FIOKn72b_Bk | 3 Techniques (You Don't Know About) to Power Your Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | 4beA9XR2tHE | La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | Qlk15QgvaK4 | MARKETING per DENTISTI \| Cosa Succede quando un Dentista fa Marketing? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | 3oDGQ4SImC8 | RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | tcOwLBoPC-8 | Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | 2R2u-O-uoYg | Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | k8d8CYjp3u8 | COME TROVARE CLIENTI \| Le basi di una Campagna Marketing di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 13 | qQ8htL2fA9o | Le Strategie di Marketing per trovare nuovi clienti [e non perderli] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | 5q1QvjuXX_w | Campagne Marketing ONLINE oppure OFFLINE? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | AsD7LxX-n2I | I 4 Pilastri di una Campagna Marketing di successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | lQd9lhLJMXk | How to find customers with sensible marketing campaigns | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 17 | Aq0dxMu8AqU | Marketing a Risposta Diretta \| Come farlo nel modo giusto? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | txFb7PkaVAw | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 19 | dYc5k5tRZx0 | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | gy-80USEC8g | Direct Response Marketing \| How to Create Effective Promos [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | -GsWbIj44dQ | Come fare Marketing in momenti di crisi [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | 8bQmDJJTEqs | How to Marketing in Times of Crisis [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | nJuSh2u1dOE | Il Marketing come ARMA per respingere i clienti che non vuoi | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 24 | _zqwnqzzv-4 | Marketing and Product Launch Strategies | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | 0qipJSkZxmg | Il Marketing non è un’azione singola ma un metodo | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 1 | dwfknCGx8UI | MARKETING \| Diventare il punto di riferimento per il tuo Settore [Jay Abraham] | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 2 | dJ90FSzTCTg | CORSO DI MARKETING per trovare nuovi clienti | PENDING |  |
+| 3 | 0uWKdM51ZsI | MARKETING \| Il principio di Autorità per i Clienti | PENDING |  |
+| 4 | Rg6q7ynXdrM | Marketing Strategies \| Why You Need to Track All Your Campaigns | PENDING |  |
+| 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | PENDING |  |
+| 6 | 2LVrzGFBcmg | Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | PENDING |  |
+| 7 | qQBDw9iCsyU | Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | PENDING |  |
+| 8 | ZX0vgJeuQwo | FRANK MERENDA - OTHERWISE WE SNACK \| The #1 Marketing Channel in Europe | PENDING |  |
+| 9 | APp6ir-U60c | DIRECT MARKETING and Direct Mail Packages \| Differences between B2B and B2C | PENDING |  |
+| 10 | 7GuscYYUBXY | MARKETING per CENTRI ESTETICI \| Quanto conta la Specializzazione? | PENDING |  |
+| 11 | Ip7igFZfcwo | MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | PENDING |  |
+| 12 | kNAdI1VyIJU | MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia] | PENDING |  |
+| 13 | ddb6CBRIYiU | MARKETING \| Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza | PENDING |  |
+| 14 | _LwRZ4RAo5w | What Is Digital Marketing and How Does It Work | PENDING |  |
+| 15 | JUaqpqx6G-8 | [Strategie di Marketing] Bisogno di Reciprocità | PENDING |  |
+| 16 | Slo-0E7GU4o | MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | PENDING |  |
+| 17 | aRCppOvE-js | Tecniche di Marketing per Aspiranti Formatori e Coach | PENDING |  |
+| 18 | jcVKVKvy78k | Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | PENDING |  |
+| 19 | Sjmvw03Oxqc | Spot Anni '80: Il MARKETING della nostra infanzia! | PENDING |  |
+| 20 | F1seup0MuLk | Come fare una campagna marketing di successo \| La piramide del Marketing | PENDING |  |
+| 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | PENDING |  |
+| 22 | W9IOyR3fsEo | Mental Manipulation \| Dan Kennedy and Unfair Marketing Techniques | PENDING |  |
+| 23 | joY6sigynis | Strategie di Marketing per trovare clienti \|DAN KENNEDY e il PACCONE | PENDING |  |
+| 24 | ijVoIMF_gn8 | DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | PENDING |  |
+| 25 | VN1d2qBc0U0 | Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | PENDING |  |
