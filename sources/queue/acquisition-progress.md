@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:23:46.069704+00:00
+Ultimo aggiornamento: 2026-09-13T11:23:50.470157+00:00
 
 Batch: 25 video
-Completati tecnicamente: 17/25
+Completati tecnicamente: 18/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -24,7 +24,7 @@ Completati tecnicamente: 17/25
 | 15 | AsD7LxX-n2I | I 4 Pilastri di una Campagna Marketing di successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | lQd9lhLJMXk | How to find customers with sensible marketing campaigns | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | Aq0dxMu8AqU | Marketing a Risposta Diretta \| Come farlo nel modo giusto? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | txFb7PkaVAw | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 3] | PENDING |  |
+| 18 | txFb7PkaVAw | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | dYc5k5tRZx0 | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 2] | PENDING |  |
 | 20 | gy-80USEC8g | Direct Response Marketing \| How to Create Effective Promos [Part 1] | PENDING |  |
 | 21 | -GsWbIj44dQ | Come fare Marketing in momenti di crisi [Parte 2] | PENDING |  |
