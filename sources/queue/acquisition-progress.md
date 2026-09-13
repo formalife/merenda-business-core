@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:40:10.098662+00:00
+Ultimo aggiornamento: 2026-09-13T09:40:14.864571+00:00
 
 Batch: 25 video
-Completati tecnicamente: 22/25
+Completati tecnicamente: 23/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -29,6 +29,6 @@ Completati tecnicamente: 22/25
 | 20 | Cv2pCRKIMx4 | FIRE MOVEMENT - How to Stop Working? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | uT-OrLKpCYE | How to Live Happily Even if You Have a VAT Number | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | 1_5F0_so-rY | RICERCA del PERSONALE - Come avere la fila di persone che vogliono lavorare per te | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | y-xhZeuogvc | DIRECT RESPONSE MARKETING: Why NOT All Customers Are Created Equal | PENDING |  |
+| 23 | y-xhZeuogvc | DIRECT RESPONSE MARKETING: Why NOT All Customers Are Created Equal | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | 4PoyRaEqTOQ | Direct Response Marketing Campaigns: How to Get Immediate Results | PENDING |  |
 | 25 | zzfGuALQQco | Come Riattivare I Clienti Persi Con Una Campagna Marketing Micidiale | PENDING |  |
