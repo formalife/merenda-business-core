@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:37:29.811542+00:00
+Ultimo aggiornamento: 2026-09-13T08:37:34.814771+00:00
 
 Batch: 25 video
-Completati tecnicamente: 11/25
+Completati tecnicamente: 12/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -18,7 +18,7 @@ Completati tecnicamente: 11/25
 | 9 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | PENDING |  |
+| 12 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | ERROR | Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/raffaele/Projects/formalife-zero-acquisition/scripts/transcript.py', '-k-APTf2heA']' returned non-zero exit status 2. |
 | 13 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | PENDING |  |
 | 14 | tIpkQLqsPUI | I Miei Consigli per il 2024 | PENDING |  |
 | 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | PENDING |  |
