@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:06:30.866551+00:00
+Ultimo aggiornamento: 2026-09-13T13:06:34.629592+00:00
 
 Batch: 25 video
-Completati tecnicamente: 23/25
+Completati tecnicamente: 24/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -30,5 +30,5 @@ Completati tecnicamente: 23/25
 | 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | W9IOyR3fsEo | Mental Manipulation \| Dan Kennedy and Unfair Marketing Techniques | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | joY6sigynis | Strategie di Marketing per trovare clienti \|DAN KENNEDY e il PACCONE | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
-| 24 | ijVoIMF_gn8 | DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | PENDING |  |
+| 24 | ijVoIMF_gn8 | DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
 | 25 | VN1d2qBc0U0 | Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | PENDING |  |
