@@ -112,6 +112,27 @@ Quindi la keyword va letta con almeno due domande:
 
 Fonte di supporto: [PNL — Come Diventare un Mental Coach di Successo](https://www.youtube.com/watch?v=FEYiruC-2as), 20 luglio 2022. [Revisione](../../sources/transcripts/FEYiruC-2as.review.md).
 
+
+## I canali possono avere ruoli complementari: attacco, continuità e difesa
+
+Nel materiale del 27 aprile 2023 Merenda rifiuta la domanda astratta “meglio online o offline?”: il punto è quale funzione deve svolgere ogni mezzo nel sistema.
+
+Un canale può servire a:
+
+- intercettare domanda attiva;
+- raggiungere direttamente un target già identificabile;
+- generare attenzione iniziale;
+- spostare il prospect verso un ambiente più adatto all'approfondimento;
+- **proteggere domanda già creata altrove**.
+
+Quest'ultimo ruolo è particolarmente utile: una campagna offline, un evento, un referral o altra attività può far nascere una ricerca successiva del brand. Se l'azienda non presidia quel momento online, una parte della domanda creata può disperdersi verso concorrenti, intermediari o risultati non controllati.
+
+Quindi il percorso non va letto come una linea “online oppure offline”, ma come una sequenza nella quale i mezzi si sostengono a vicenda. Un mezzo può creare la domanda e un altro raccoglierla; uno può ottenere il primo contatto e un altro approfondire; uno può attaccare e un altro difendere.
+
+Le prescrizioni tattiche del 2023 su specifiche piattaforme, liste e superiorità della carta non restano regole assolute. La formulazione più recente del 2025 prevale: **prima classificare domanda, intento e target; poi assegnare ai canali il ruolo economico più adatto**.
+
+Fonte: [Campagne Marketing ONLINE oppure OFFLINE?](https://www.youtube.com/watch?v=5q1QvjuXX_w), 27 aprile 2023. [Revisione](../../sources/transcripts/5q1QvjuXX_w.review.md).
+
 ## Social media: strumento, non punto di partenza automatico
 
 Il materiale 2022 sul social media management distingue due casi:
