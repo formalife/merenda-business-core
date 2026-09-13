@@ -37,6 +37,28 @@ Può esistere anche un prodotto che non danneggia seriamente il core ma non ha a
 
 In questo caso il nome noto viene usato come scorciatoia, pur senza creare una posizione forte nella nuova categoria.
 
+## Un errore di estensione non spegne automaticamente il business
+
+Merenda chiarisce nel febbraio 2024 che il posizionamento non è un interruttore acceso/spento.
+
+Una grande azienda può:
+
+- commettere estensioni incoerenti;
+- indebolire la propria posizione;
+- perdere un'opportunità di creare un nuovo brand;
+
+e continuare comunque a vendere grazie a notorietà, distribuzione, capitale e forza del core.
+
+La conseguenza strategica non è quindi “estensione di linea = fallimento immediato”.
+
+È piuttosto:
+
+**l'estensione può disperdere significato, margine e opportunità; quando il core perde forza, la risposta preferita è rifocalizzare e ridargli una differenza riconoscibile.**
+
+Questo impedisce di usare la sopravvivenza di una grande corporation come prova che l'estensione fosse una buona scelta.
+
+Fonte: [Cos’è l’Estensione di Linea](https://www.youtube.com/watch?v=c-BOsaTGdbY), 6 febbraio 2024. [Revisione](../../sources/transcripts/c-BOsaTGdbY.review.md).
+
 ## Varianti: test, non strategia di salvataggio
 
 Merenda ammette che piccole varianti possano essere testate quando:

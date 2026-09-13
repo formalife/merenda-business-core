@@ -326,6 +326,27 @@ Le regole più recenti restano prevalenti: il prezzo va testato e può essere re
 
 Fonte: [Obiezione prezzo — Parte 1](https://www.youtube.com/watch?v=OFsVGBnM158), 27 febbraio 2023. [Revisione](../../sources/transcripts/OFsVGBnM158.review.md).
 
+## La richiesta sistematica di sconto è un segnale diagnostico
+
+Nel materiale del 9 dicembre 2025 Merenda distingue tra:
+
+- **scontistica progettata dall'azienda**, applicata secondo regole proprie;
+- **negoziazione sistematica richiesta dal cliente** perché l'offerta viene percepita come facilmente confrontabile.
+
+Se una quota rilevante dei prospect arriva alla trattativa soprattutto per confrontare preventivi e chiedere riduzioni, il problema può essere a monte: il mercato conosce l'azienda, ma non la percepisce come scelta specifica e non sostituibile.
+
+Un brand forte tende invece a generare più richieste del tipo:
+
+**“voglio comprare proprio da te”**
+
+e meno:
+
+**“sei uguale agli altri: fammi il prezzo migliore.”**
+
+Non è una legge secondo cui nessun cliente di un brand chiederà mai uno sconto. È un **segnale diagnostico di commodity/comparabilità** da leggere insieme a conversione, margine, target e posizionamento.
+
+Fonte: [Se Devi Fare Sconti per Vendere, il Tuo Brand Non Esiste](https://www.youtube.com/watch?v=WasHsG0phmg), 9 dicembre 2025. [Revisione](../../sources/transcripts/WasHsG0phmg.review.md).
+
 ## Sconto: strumento, non fondamento
 
 Sconti, coupon, front-end aggressivi o prove a rischio ridotto possono essere perfettamente validi dentro un funnel.

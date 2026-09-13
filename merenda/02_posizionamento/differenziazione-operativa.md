@@ -156,6 +156,31 @@ Fonti:
 - [Da Locali a Globali: brand di moda](https://www.youtube.com/watch?v=vvpLVofHhHM), 14 novembre 2023.
 - [Brand Positioning vs Marketing Accademico](https://www.youtube.com/watch?v=hF9Xoc9hnHE), 5 novembre 2023.
 
+## Il piccolo non batte il gigante giocando da generalista
+
+Nel materiale del 25 febbraio 2026 Merenda usa la metafora **sole vs raggio laser**.
+
+Il concorrente grande può avere:
+
+- più notorietà;
+- più storia;
+- più risorse;
+- più prodotti;
+- più distribuzione.
+
+Una PMI non recupera questo svantaggio cercando di imitare la stessa ampiezza. Può invece concentrare risorse e messaggio su una categoria, un target o un risultato molto più preciso.
+
+Il generalista grande è il “sole”: enorme ma diffuso.  
+Il piccolo focalizzato deve diventare il “laser”: meno energia assoluta, ma concentrata abbastanza da produrre un effetto più profondo in un punto specifico.
+
+Questo aggiorna e rafforza il principio di focus:
+
+**contro un leader più grande, la strategia non è fare altrettante cose con meno risorse; è scegliere un campo più stretto nel quale essere più rilevanti.**
+
+Una comunicazione del tipo “facciamo tutto” favorisce indirettamente i brand già forti, perché la mente tende a semplificare e ad associare le categorie generiche al leader già noto.
+
+Fonte: [La Legge del Posizionamento che Ti Fa Dominare il Mercato](https://www.youtube.com/watch?v=YKh5jNVu3rE), 25 febbraio 2026. [Revisione](../../sources/transcripts/YKh5jNVu3rE.review.md).
+
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.
