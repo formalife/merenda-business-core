@@ -125,7 +125,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 113 | [qQ8htL2fA9o](https://www.youtube.com/watch?v=qQ8htL2fA9o) — Le Strategie di Marketing per trovare nuovi clienti [e non perderli] | 04_marketing | STUDIATO |
 | 114 | [5q1QvjuXX_w](https://www.youtube.com/watch?v=5q1QvjuXX_w) — Campagne Marketing ONLINE oppure OFFLINE? | 04_marketing | STUDIATO |
 | 115 | [AsD7LxX-n2I](https://www.youtube.com/watch?v=AsD7LxX-n2I) — I 4 Pilastri di una Campagna Marketing di successo | 04_marketing | STUDIATO |
-| 116 | [lQd9lhLJMXk](https://www.youtube.com/watch?v=lQd9lhLJMXk) — How to find customers with sensible marketing campaigns | 04_marketing | DA STUDIARE |
+| 116 | [lQd9lhLJMXk](https://www.youtube.com/watch?v=lQd9lhLJMXk) — How to find customers with sensible marketing campaigns | 04_marketing | STUDIATO |
 | 117 | [Aq0dxMu8AqU](https://www.youtube.com/watch?v=Aq0dxMu8AqU) — Marketing a Risposta Diretta &#124; Come farlo nel modo giusto? | 04_marketing | DA STUDIARE |
 | 118 | [txFb7PkaVAw](https://www.youtube.com/watch?v=txFb7PkaVAw) — Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3] | 04_marketing | DA STUDIARE |
 | 119 | [dYc5k5tRZx0](https://www.youtube.com/watch?v=dYc5k5tRZx0) — Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 2] | 04_marketing | DA STUDIARE |

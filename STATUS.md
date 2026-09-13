@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 15/25 completati; continuare dal contenuto 116.**
+**Elaborazione semantica del batch 101–125 — 16/25 completati; continuare dal contenuto 117.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 115
-- STUDIATO / integrati nella KB: 111
+- Contenuti processati semanticamente: 116
+- STUDIATO / integrati nella KB: 112
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 353
+- Da processare: 352
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 15/25 completati
+- Elaborazione semantica 101–125: 16/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`lQd9lhLJMXk` — *How to find customers with sensible marketing campaigns* — `04_marketing`.
+`Aq0dxMu8AqU` — *Marketing a Risposta Diretta | Come farlo nel modo giusto?* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
