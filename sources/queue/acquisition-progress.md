@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:39.919179+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:41.694839+00:00
 
 Batch: 25 video
-Completati tecnicamente: 11/25
+Completati tecnicamente: 12/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -18,7 +18,7 @@ Completati tecnicamente: 11/25
 | 9 | ERjFJYE6fXc | The True Story of Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | PENDING |  |
+| 12 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | PENDING |  |
 | 14 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | PENDING |  |
 | 15 | tIpkQLqsPUI | I Miei Consigli per il 2024 | PENDING |  |
