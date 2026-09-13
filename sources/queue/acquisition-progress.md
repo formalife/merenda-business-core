@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:37:21.120258+00:00
+Ultimo aggiornamento: 2026-09-13T08:37:25.317342+00:00
 
 Batch: 25 video
-Completati tecnicamente: 9/25
+Completati tecnicamente: 10/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -16,7 +16,7 @@ Completati tecnicamente: 9/25
 | 7 | 6sNjbCGzd2A | How to Create an Effective Call to Action | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | asMedYJtd4I | CONCORRENZA SLEALE dei dipendenti? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | PENDING |  |
+| 10 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | PENDING |  |
 | 12 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | PENDING |  |
 | 13 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | PENDING |  |
