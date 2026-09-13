@@ -60,6 +60,37 @@ Un oggetto fisico, una collezione, un calendario, un programma di utilizzo o un'
 
 Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 2](https://www.youtube.com/watch?v=dYc5k5tRZx0), 19 gennaio 2023. [Revisione](../../sources/transcripts/dYc5k5tRZx0.review.md).
 
+
+## Rendere esplicita la continuità naturale del bisogno
+
+La prima parte della trilogia del 19 gennaio 2023 aggiunge un esercizio utile: cercare, anche nei servizi apparentemente “una tantum”, una forma di **manutenzione, controllo, aggiornamento o ritorno periodico** che il cliente dovrebbe comunque fare.
+
+Merenda usa la metafora del “tagliando”:
+
+- manutenzione tecnica;
+- controllo periodico;
+- visite/servizi ricorrenti;
+- aggiornamenti;
+- consumi che si ripetono;
+- verifiche che evitano il peggioramento di un problema.
+
+L'obiettivo non è inventare artificialmente acquisti inutili, ma rendere visibile e programmabile una ricorrenza che esiste già nel bisogno del cliente.
+
+Una volta identificato il ritmo naturale, l'impresa può progettare:
+
+- pacchetti;
+- bundle;
+- richiami;
+- appuntamenti successivi;
+- bonus progressivi;
+- elementi collezionabili o altri incentivi alla continuità.
+
+La collezione mostrata nel caso Disney è quindi un esempio di una regola più generale:
+
+**se il valore del cliente dipende da acquisti successivi, il sistema deve dare una ragione concreta per ricordarsi, tornare e completare il percorso.**
+
+Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 1](https://www.youtube.com/watch?v=gy-80USEC8g), 19 gennaio 2023. [Revisione](../../sources/transcripts/gy-80USEC8g.review.md).
+
 ## Esempio raccontato da Merenda
 
 Per la propria formazione descrive una successione di libri, prodotti informativi, magazine, programmi in continuità, corsi e percorsi avanzati. La forza dell'esempio è una relazione monetizzata in più modi, sostenuta da una struttura costruita negli anni. Il solo evento sul palco non rappresenta l'intero business. [79:19–80:19](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4759s)

@@ -128,7 +128,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 118 | Aq0dxMu8AqU | da acquisire | [Marketing a Risposta Diretta &#124; Come farlo nel modo giusto?](https://www.youtube.com/watch?v=Aq0dxMu8AqU) | 1230.0 | 04_marketing | 2 | STUDIATO | videos |
 | 119 | txFb7PkaVAw | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3]](https://www.youtube.com/watch?v=txFb7PkaVAw) | 955.0 | 04_marketing | 2 | STUDIATO | videos |
 | 120 | dYc5k5tRZx0 | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 2]](https://www.youtube.com/watch?v=dYc5k5tRZx0) | 1233.0 | 04_marketing | 2 | STUDIATO | videos |
-| 121 | gy-80USEC8g | da acquisire | [Direct Response Marketing &#124; How to Create Effective Promos [Part 1]](https://www.youtube.com/watch?v=gy-80USEC8g) | 988.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 121 | gy-80USEC8g | da acquisire | [Direct Response Marketing &#124; How to Create Effective Promos [Part 1]](https://www.youtube.com/watch?v=gy-80USEC8g) | 988.0 | 04_marketing | 2 | STUDIATO | videos |
 | 122 | -GsWbIj44dQ | da acquisire | [Come fare Marketing in momenti di crisi [Parte 2]](https://www.youtube.com/watch?v=-GsWbIj44dQ) | 1671.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 123 | 8bQmDJJTEqs | da acquisire | [How to Marketing in Times of Crisis [Part 1]](https://www.youtube.com/watch?v=8bQmDJJTEqs) | 1050.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 124 | nJuSh2u1dOE | da acquisire | [Il Marketing come ARMA per respingere i clienti che non vuoi](https://www.youtube.com/watch?v=nJuSh2u1dOE) | 1598.0 | 04_marketing | 2 | DA STUDIARE | videos |
