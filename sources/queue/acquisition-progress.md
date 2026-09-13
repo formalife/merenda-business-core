@@ -1,34 +1,34 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:39:02.043076+00:00
+Ultimo aggiornamento: 2026-09-13T08:57:27.579585+00:00
 
 Batch: 25 video
-Completati tecnicamente: 25/25
+Completati tecnicamente: 1/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
-| 1 | bHxjwGQQoUw | Can an SME WIN ON THE MARKET and beat the giants in its sector? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 4 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | dqAy1D8TnyQ | How to find new clients by dominating with information | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | ERjFJYE6fXc | The True Story of Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | 6sNjbCGzd2A | How to Create an Effective Call to Action | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | asMedYJtd4I | CONCORRENZA SLEALE dei dipendenti? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | ERROR | Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/raffaele/Projects/formalife-zero-acquisition/scripts/transcript.py', '-k-APTf2heA']' returned non-zero exit status 2. |
-| 13 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | tIpkQLqsPUI | I Miei Consigli per il 2024 | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | cPDsbG0fZ_I | L'Impero del Miele: Come diventare ricchi con un solo prodotto | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 19 | dC6avQzKliQ | Il segreto di TESLA: perché vende 10 volte di più dei colossi dell'Automotive? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | d1xejlyQVWM | La Battaglia del Thé | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | AG7Gi9sPBRs | How do you get rich (for real)? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 24 | KyHZ4zR6AbU | Come aprire un'attività senza soldi \| Dropshipping Made in Italy [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | DqI8rCDchGc | REAL ESTATE AGENT \| How to Become a Successful Real Estate Agent | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 1 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 2 | AG7Gi9sPBRs | How do you get rich (for real)? | PENDING |  |
+| 3 | o_T9s3lzAAE | L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | PENDING |  |
+| 4 | kJZXe1i5Vcg | Aperture nicchia altospendenti #shorts | PENDING |  |
+| 5 | ugbJzDGdsMA | Come fidelizzare i ricchi #shorts | PENDING |  |
+| 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | PENDING |  |
+| 7 | WasHsG0phmg | Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | PENDING |  |
+| 8 | fkvXwg_tswE | Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | PENDING |  |
+| 9 | Kg6vzmxdd5Y | BRAND POSITIONING \| The Most Important Principle of Brand Positioning #shorts | PENDING |  |
+| 10 | c-BOsaTGdbY | BRAND POSITIONING \| What is Line Extension #shorts | PENDING |  |
+| 11 | sm6UbD67FBY | POSITIONING \| Why create a new BRAND when launching a new PRODUCT? | PENDING |  |
+| 12 | N2cTTWDkHdY | BRAND POSITIONING \| Il successo dei BRAND lanciati da SONY | PENDING |  |
+| 13 | a8YTZtJnuo4 | The Power of Brand Positioning: The Secret to SAMURAI's Success | PENDING |  |
+| 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | PENDING |  |
+| 15 | oArzCO3vtiI | Il POSIZIONAMENTO DI MARCA delle PMI e il danno delle ESTENSIONI DI LINEA #shorts | PENDING |  |
+| 16 | N4gNS7xqPeY | Cosa significa POSIZIONAMENTO DI MARCA #shorts | PENDING |  |
+| 17 | t_V64UBPorc | Brand Positioning explained in 50 seconds #shorts | PENDING |  |
+| 18 | 51wqxX6Y2JA | BRAND POSITIONING \| L'errore di Marketing di Perlana #shorts | PENDING |  |
+| 19 | _6IQIO-Mb_4 | Come DYSON ha raggiunto il SUCCESSO grazie al POSIZIONAMENTO STRATEGICO #shorts | PENDING |  |
+| 20 | RJodFtfVzmY | If you want to sell, you must respect the rules of brand positioning. | PENDING |  |
+| 21 | 9zOdkSi45GM | Come VENDERE CON PIÙ MARGINE e differenziarsi dai concorrenti #shorts | PENDING |  |
+| 22 | od9yQ84Rj7Y | Il POSIZIONAMENTO nasce dal CORAGGIO dell'imprenditore #shorts | PENDING |  |
+| 23 | v1TRuSNshgA | It All Starts With Positioning - #shorts | PENDING |  |
+| 24 | ldXZUf-mKSU | How to Beat Your Competitors with Google Reviews (Before We Talk About Price) | PENDING |  |
+| 25 | 9r2SLDzMPlQ | How to Create an Irresistible Offer (Even if It Costs More) | PENDING |  |
