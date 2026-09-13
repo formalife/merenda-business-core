@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:38:05.193462+00:00
+Ultimo aggiornamento: 2026-09-13T08:38:09.825679+00:00
 
 Batch: 25 video
-Completati tecnicamente: 16/25
+Completati tecnicamente: 17/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -23,7 +23,7 @@ Completati tecnicamente: 16/25
 | 14 | tIpkQLqsPUI | I Miei Consigli per il 2024 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | cPDsbG0fZ_I | L'Impero del Miele: Come diventare ricchi con un solo prodotto | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | PENDING |  |
+| 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | PENDING |  |
 | 19 | dC6avQzKliQ | Il segreto di TESLA: perché vende 10 volte di più dei colossi dell'Automotive? | PENDING |  |
 | 20 | d1xejlyQVWM | La Battaglia del Thé | PENDING |  |
