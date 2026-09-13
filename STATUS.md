@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 12/25 completati; continuare dal contenuto 113.**
+**Elaborazione semantica del batch 101–125 — 13/25 completati; continuare dal contenuto 114.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 112
-- STUDIATO / integrati nella KB: 108
+- Contenuti processati semanticamente: 113
+- STUDIATO / integrati nella KB: 109
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 356
+- Da processare: 355
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 12/25 completati
+- Elaborazione semantica 101–125: 13/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`qQ8htL2fA9o` — *Le Strategie di Marketing per trovare nuovi clienti [e non perderli]* — `04_marketing`.
+`5q1QvjuXX_w` — *Campagne Marketing ONLINE oppure OFFLINE?* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

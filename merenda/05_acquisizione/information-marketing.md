@@ -87,6 +87,42 @@ Non ogni business deve usare tutti questi elementi. Il principio riusabile è fa
 
 Fonte: [Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top](https://www.youtube.com/watch?v=zZFg2oM208w), 21 gennaio 2025. [Revisione](../../sources/transcripts/zZFg2oM208w.review.md).
 
+
+## Vendita one-to-many: conquistare attenzione prima di argomentare
+
+Nel materiale del 6 giugno 2023 Merenda tratta una presentazione, VSL o infomercial come una vendita **one-to-many**: a differenza della conversazione uno-a-uno, il pubblico può interrompere l'attenzione in qualunque momento.
+
+Per questo l'apertura deve ottenere rapidamente una reazione del tipo:
+
+**“sta parlando proprio del mio problema / desiderio.”**
+
+Può farlo introducendo:
+
+- una domanda già presente nella mente del target;
+- un problema riconoscibile;
+- un desiderio;
+- un dubbio;
+- una situazione specifica.
+
+L'apertura non è un'introduzione ornamentale. Serve a **selezionare e trattenere il target** abbastanza a lungo da permettere al resto dell'argomentazione di funzionare. Se chi non è in target si disconnette rapidamente, non è necessariamente un difetto: una comunicazione specifica non deve risultare interessante a tutti.
+
+### Il canale di scoperta non deve per forza essere il luogo della persuasione lunga
+
+Nel materiale 2023 Merenda osserva che smartphone e feed digitali espongono il prospect a notifiche, scrolling, concorrenti e distrazioni continue. Suggerisce quindi, quando utile, di usare il canale digitale per **agganciare** e poi spostare l'approfondimento verso un contesto con maggiore attenzione:
+
+- materiale fisico;
+- pagina/video dedicato;
+- computer o schermo più adatto a contenuti lunghi;
+- evento;
+- appuntamento;
+- ambiente in cui l'interazione sia più controllata.
+
+Questa indicazione non viene trattata come divieto moderno dello smartphone. Il principio più generale è **progettare separatamente acquisizione dell'attenzione e consumo dell'argomentazione lunga**, scegliendo per ciascun passaggio l'ambiente più adatto e verificandolo sui numeri.
+
+Le durate televisive e la struttura in blocchi citate nel video derivano dall'infomercial tradizionale e restano contesto storico, non formato obbligatorio per ogni mezzo contemporaneo.
+
+Fonte: [Le Strategie di Marketing per trovare nuovi clienti](https://www.youtube.com/watch?v=qQ8htL2fA9o), 6 giugno 2023. [Revisione](../../sources/transcripts/qQ8htL2fA9o.review.md).
+
 ## Focalizzare l'offerta, diversificare le porte di ingresso
 
 Merenda contrappone due comportamenti:
