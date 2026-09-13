@@ -37,13 +37,6 @@ Il caso è coerente con quattro principi presenti nella KB:
 3. la crescita crea un nuovo problema di capacità, che richiede reinvestimento;
 4. quando la domanda supera la capacità, la risposta non è allargare indiscriminatamente il target ma aumentare struttura o selettività.
 
-## Collegamenti
-
-- [Differenziazione operativa e focus](../02_posizionamento/differenziazione-operativa.md)
-- [Espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md)
-- [Numeri, cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md)
-
-
 ## Rivenditore e vincoli del fornitore
 
 Un precedente video del 22 dicembre 2023 mostra lo stesso caso dal punto di vista del rivenditore.
@@ -53,3 +46,9 @@ MotoArgento aveva accesso a un contratto che richiedeva di vendere l'intera gamm
 Il principio illustrato è che **anche chi non produce ciò che vende può fare posizionamento**: può decidere quale categoria presidiare, quale assortimento spingere, quale target servire e quale esperienza costruire.
 
 Fonte: [I principi del Brand Positioning valgono anche per i rivenditori?](https://www.youtube.com/watch?v=0SS-XVWnQdQ), 22 dicembre 2023. [Revisione](../../sources/transcripts/0SS-XVWnQdQ.review.md).
+
+## Collegamenti
+
+- [Differenziazione operativa e focus](../02_posizionamento/differenziazione-operativa.md)
+- [Espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md)
+- [Numeri, cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md)

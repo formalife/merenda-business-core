@@ -6,9 +6,9 @@ ACTIVE — fasi 1–6 complete; primi 75 contenuti processati semanticamente; ch
 
 ## Fase corrente
 
-**CHECKPOINT 75 — richiesta FASE 14 con CLAUDE CODE.**
+**CHECKPOINT 75 — FASE 14 completata da CLAUDE CODE.**
 
-La fase 15 non è dovuta a questo checkpoint.
+La fase 15 non era dovuta a questo checkpoint e non è stata eseguita.
 
 ## Corpus
 
@@ -27,49 +27,29 @@ La fase 15 non è dovuta a questo checkpoint.
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: 50
-- Refactor KB richiesto ora: **SÌ — fase 14**
+- Ultimo refactor KB completato: 75
+- Refactor KB richiesto ora: NO
 - Ultimo audit tassonomia: 50
 - Prossimo audit tassonomia: 100
-- Checkpoint Claude richiesto: **SÌ**
+- Checkpoint Claude richiesto: NO
 
 Handoff dettagliato: `reviews/CHECKPOINT_075.md`.
 
 ## Agente richiesto
 
-**CLAUDE CODE**
+**CODEX**
 
 ## Next Action
 
-Leggere:
+Gli asset tecnici dei video 76–79 non sono ancora presenti su `main` (video 76 `h-ngxN8kYPc` risulta `da acquisire` in `sources/VIDEO_INDEX.md` e `sources/queue/QUEUE.md`).
 
-1. `00_START_HERE.md`
-2. `CLAUDE.md`
-3. `MASTER_PLAN.md`
-4. `system/RULES.md`
-5. `system/PHASES.md`
-6. `system/HANDOFFS.md`
-7. `reviews/CHECKPOINT_075.md`
-8. `STATUS.md`
-
-Poi eseguire **soltanto FASE 14 — refactor KB**.
-
-Non eseguire fase 15.
-
-Al termine:
-
-- aggiornare `reviews/CHECKPOINT_075.md` con l'esito;
-- aggiornare `STATUS.md`;
-- verificare routing/link;
-- creare commit descrittivo e push su `origin/main`;
-- se il prossimo batch tecnico 76–100 non è ancora disponibile, richiedere CODEX/script locale;
-- altrimenti restituire direttamente il controllo a CHATGPT.
+Codex deve acquisire il prossimo batch tecnico (76–100 o dimensione compatibile) e poi restituire il controllo a CHATGPT secondo `system/HANDOFFS.md`.
 
 ## Prossimo contenuto
 
 `h-ngxN8kYPc` — *Why Customers Don't Buy From You (It's Not the Price's Fault)* — `03_offerta`.
 
-Asset tecnici 76–79: NON PRESENTI al momento del checkpoint.
+Asset tecnici 76–79: NON PRESENTI.
 
 ## Blocchi
 

@@ -164,14 +164,6 @@ Il principio è:
 
 Fonte: [Come Battere i Tuoi Concorrenti con le Recensioni Google](https://www.youtube.com/watch?v=ldXZUf-mKSU), 12 maggio 2026. [Revisione](../../sources/transcripts/ldXZUf-mKSU.review.md).
 
-## Collegamenti
-
-- [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)
-- [Quattro modalità e continuità del marketing](../04_marketing/quattro-modalita-e-ritmo.md)
-- [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
-- [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
-
-
 ## Come il cliente costruisce una decisione
 
 Quando una persona entra in un processo di acquisto, non decide soltanto sulla base di ciò che l'azienda dice di sé.
@@ -224,3 +216,10 @@ I brand con maggiore coinvolgimento generano spesso persone che li promuovono sp
 Per questo la costruzione dell'autorità non si esaurisce nei materiali propri: bisogna anche monitorare e alimentare ciò che il mercato dice del brand.
 
 Fonte: [Brand Positioning e processo decisionale - I 3 fattori fondamentali](https://www.youtube.com/watch?v=T6EGhPdoV3c), 30 gennaio 2023. [Revisione](../../sources/transcripts/T6EGhPdoV3c.review.md).
+
+## Collegamenti
+
+- [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)
+- [Quattro modalità e continuità del marketing](../04_marketing/quattro-modalita-e-ritmo.md)
+- [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
+- [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)

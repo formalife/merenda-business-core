@@ -126,3 +126,21 @@ Alcuni contenuti più avanti nella queue hanno già asset acquisiti durante il p
 Dopo il refactor:
 - se gli asset 76–100 non sono ancora stati acquisiti, richiedere CODEX/script locale;
 - se sono già presenti, restituire direttamente il controllo a CHATGPT.
+
+## Esito FASE 14 (eseguita da Claude Code)
+
+Verifica completata su tutta la KB (`merenda/`, 32 file). Nessuna nuova dottrina introdotta, nessun file congelato modificato.
+
+Controlli eseguiti:
+
+- **Duplicazioni/sovrapposizioni segnalate nel checkpoint**: `clienti-altospendenti.md` vs `prezzo-premium-e-percezione-del-valore.md` e `patrimonializzazione-e-reinvestimento.md` vs `numeri-cassa-e-crescita.md` — verificate: contenuto complementare, correttamente collegato tramite `## Collegamenti`, nessuna duplicazione da correggere.
+- **Dimensione file**: nessun file supera dimensioni ingestibili; `offerta-a-risposta-diretta.md` (343 righe) e `prezzo-premium-e-percezione-del-valore.md` (371 righe) sono i più grandi e in crescita, ma restano organizzati per sotto-sezioni tematiche coerenti. Da tenere sotto osservazione nei prossimi checkpoint, senza splitting forzato ora.
+- **Routing/INDEX/README**: `merenda/INDEX.md` e tutti gli 11 README di sezione risultano coerenti con i file effettivamente presenti.
+- **Link interni e anchor**: verifica programmatica su tutti i 32 file — 0 link rotti, 0 anchor non risolvibili.
+- **Struttura interna**: trovati e corretti 2 file in cui la sezione `## Collegamenti` non era in coda al documento (contenuto aggiunto in batch successivi dopo la sezione collegamenti anziché prima):
+  - `merenda/08_brand/autorita-e-marketing.md` — spostata `## Collegamenti` in fondo al file, dopo `## Come il cliente costruisce una decisione` e `## Brand e passaparola si rafforzano`. Nessun contenuto modificato o rimosso, solo riordino.
+  - `merenda/10_casi_studio/motoargento-focalizzazione.md` — stesso tipo di correzione, spostata `## Collegamenti` dopo `## Rivenditore e vincoli del fornitore`.
+
+Nessun'altra frammentazione, ridenominazione di sezione o spostamento file è risultata necessaria a questo checkpoint.
+
+Fase 15 NON eseguita, come richiesto.
