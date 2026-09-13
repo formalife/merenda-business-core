@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:59:20.438254+00:00
+Ultimo aggiornamento: 2026-09-13T08:59:24.957250+00:00
 
 Batch: 25 video
-Completati tecnicamente: 21/25
+Completati tecnicamente: 22/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -28,7 +28,7 @@ Completati tecnicamente: 21/25
 | 19 | _6IQIO-Mb_4 | Come DYSON ha raggiunto il SUCCESSO grazie al POSIZIONAMENTO STRATEGICO #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | RJodFtfVzmY | If you want to sell, you must respect the rules of brand positioning. | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | 9zOdkSi45GM | Come VENDERE CON PIÙ MARGINE e differenziarsi dai concorrenti #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | od9yQ84Rj7Y | Il POSIZIONAMENTO nasce dal CORAGGIO dell'imprenditore #shorts | PENDING |  |
+| 22 | od9yQ84Rj7Y | Il POSIZIONAMENTO nasce dal CORAGGIO dell'imprenditore #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | v1TRuSNshgA | It All Starts With Positioning - #shorts | PENDING |  |
 | 24 | ldXZUf-mKSU | How to Beat Your Competitors with Google Reviews (Before We Talk About Price) | PENDING |  |
 | 25 | 9r2SLDzMPlQ | How to Create an Irresistible Offer (Even if It Costs More) | PENDING |  |
