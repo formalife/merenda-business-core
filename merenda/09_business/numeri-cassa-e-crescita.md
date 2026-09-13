@@ -102,6 +102,24 @@ Il criterio finale non è la dimensione dell'azienda in sé. Merenda privilegia 
 
 Fonte precedente: [Il Marketing e le Strategie di Lancio Prodotto](https://www.youtube.com/watch?v=_zqwnqzzv-4), 20 ottobre 2022. [Revisione](../../sources/transcripts/_zqwnqzzv-4.review.md).
 
+
+## Margine per transazione e utilizzo della capacità sono due domande diverse
+
+Nel materiale del 11 agosto 2022 Merenda usa il settore estetico per mostrare un errore di lettura: eliminare automaticamente un servizio a margine più basso senza considerare **quando** viene erogato e quali costi restano comunque attivi.
+
+Quando una struttura sostiene costi fissi anche durante le ore vuote, un'offerta meno redditizia può avere una funzione economica se:
+
+- occupa capacità che altrimenti resterebbe inutilizzata;
+- non sottrae spazio a servizi più profittevoli nei periodi di maggiore domanda;
+- contribuisce ai costi fissi;
+- crea una relazione dalla quale possono nascere upsell o servizi a maggior margine.
+
+La regola non è “tenere sempre i prodotti a basso margine”. Se la capacità è piena, sostituire uno slot a basso rendimento con uno ad alto rendimento può essere razionale. Il punto è valutare **margine incrementale, capacità disponibile e costo opportunità insieme**, invece di giudicare il prodotto isolatamente.
+
+L'esempio dell'estetica è settoriale; il principio trasferibile riguarda la gestione economica di capacità e slot.
+
+Fonte precedente: [Marketing nei Centri Estetici — Puoi eliminare l'estetica di Base?](https://www.youtube.com/watch?v=qQBDw9iCsyU), 11 agosto 2022. [Revisione](../../sources/transcripts/qQBDw9iCsyU.review.md).
+
 ## Acquisizione B2B, lifetime value e finestra temporale
 
 Nel caso Il Toro, Merenda richiama la necessità di giudicare una campagna B2B non soltanto dal fatturato immediato dei primi ordini, ma dal valore economico prodotto dai clienti acquisiti nel tempo.
