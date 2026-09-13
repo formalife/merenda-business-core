@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:54.764788+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:59.856474+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | KyHZ4zR6AbU | Come aprire un'attività senza soldi \| Dropshipping Made in Italy [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | DqI8rCDchGc | REAL ESTATE AGENT \| How to Become a Successful Real Estate Agent | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | Cv2pCRKIMx4 | FIRE MOVEMENT - How to Stop Working? | PENDING |  |
+| 20 | Cv2pCRKIMx4 | FIRE MOVEMENT - How to Stop Working? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | uT-OrLKpCYE | How to Live Happily Even if You Have a VAT Number | PENDING |  |
 | 22 | 1_5F0_so-rY | RICERCA del PERSONALE - Come avere la fila di persone che vogliono lavorare per te | PENDING |  |
 | 23 | y-xhZeuogvc | DIRECT RESPONSE MARKETING: Why NOT All Customers Are Created Equal | PENDING |  |
