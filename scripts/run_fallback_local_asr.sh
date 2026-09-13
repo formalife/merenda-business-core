@@ -17,9 +17,10 @@ if [[ -n "$(git status --porcelain)" ]]; then
   exit 1
 fi
 
-WORK="work/local-asr"
+WORK="$HOME/Library/Caches/formalife-zero-local-asr"
 VENV="$WORK/.venv"
-mkdir -p "$WORK"
+AUDIO_DIR="$WORK/audio"
+mkdir -p "$AUDIO_DIR"
 
 python3 -m venv "$VENV"
 source "$VENV/bin/activate"
