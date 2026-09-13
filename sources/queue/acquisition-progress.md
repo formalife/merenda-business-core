@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:58:43.469828+00:00
+Ultimo aggiornamento: 2026-09-13T08:58:47.712081+00:00
 
 Batch: 25 video
-Completati tecnicamente: 13/25
+Completati tecnicamente: 14/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -20,7 +20,7 @@ Completati tecnicamente: 13/25
 | 11 | sm6UbD67FBY | POSITIONING \| Why create a new BRAND when launching a new PRODUCT? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | N2cTTWDkHdY | BRAND POSITIONING \| Il successo dei BRAND lanciati da SONY | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | a8YTZtJnuo4 | The Power of Brand Positioning: The Secret to SAMURAI's Success | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | PENDING |  |
+| 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | oArzCO3vtiI | Il POSIZIONAMENTO DI MARCA delle PMI e il danno delle ESTENSIONI DI LINEA #shorts | PENDING |  |
 | 16 | N4gNS7xqPeY | Cosa significa POSIZIONAMENTO DI MARCA #shorts | PENDING |  |
 | 17 | t_V64UBPorc | Brand Positioning explained in 50 seconds #shorts | PENDING |  |
