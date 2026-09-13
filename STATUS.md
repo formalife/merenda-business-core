@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 16/25 completati; continuare dal contenuto 142.**
+**Elaborazione semantica del batch 126–150 — 17/25 completati; BLOCCATA al contenuto 143 per transcript assente.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 141
-- STUDIATO / integrati nella KB: 135
+- Contenuti processati semanticamente: 142
+- STUDIATO / integrati nella KB: 136
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 327
+- Da processare: 326
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
-- Elaborazione semantica 126–150: 16/25 completati
+- Elaborazione semantica 126–150: 17/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -60,32 +60,27 @@ Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. N
 
 ## Agente richiesto
 
-**CHATGPT**
+**CODEX**
 
 ## Next Action
 
-Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 142:
+Il prossimo contenuto canonico è `jcVKVKvy78k` (posizione 143), ma non dispone di transcript italiano utilizzabile.
 
-`aRCppOvE-js` — *Tecniche di Marketing per Aspiranti Formatori e Coach* — `04_marketing`.
+Passare a CODEX per un fallback tecnico locale di trascrizione audio. Per evitare ulteriori interruzioni nello stesso batch, il fallback può essere preparato nello stesso intervento anche per gli altri due contenuti già noti senza transcript:
 
-Per ogni contenuto:
-1. revisione/correzione ragionevole del transcript;
-2. segnalazione di sole incomprensioni sostanziali;
-3. verifica dell'eventuale necessità di analisi visuale/keyframe;
-4. estrazione delle conoscenze importanti;
-5. routing minimo nella KB;
-6. MERGE, NON APPEND;
-7. aggiornamento di stato video, queue, catalogo/VIDEO_INDEX e STATUS secondo workflow.
+- `jcVKVKvy78k` — posizione 143
+- `joY6sigynis` — posizione 148
+- `ijVoIMF_gn8` — posizione 149
 
-Procedere in ordine fino al primo contenuto senza transcript utilizzabile. Al raggiungimento di `jcVKVKvy78k` (143), se il transcript resta assente, passare a CODEX per un fallback audio/trascrizione locale prima di proseguire.
+L'acquisizione/trascrizione tecnica di 148 e 149 in anticipo non modifica l'ordine semantico: ChatGPT dovrà comunque riprendere dal 143 e procedere in ordine.
 
-Non saltare contenuti della queue per completare quelli successivi.
+Non marcare questi video STUDIATO o ESCLUSO durante il fallback tecnico. Non modificare KB, queue canonica, categorie o review semantiche.
 
 ## Primo pendente
 
-`aRCppOvE-js` — *Tecniche di Marketing per Aspiranti Formatori e Coach* — `04_marketing` — posizione 142.
+`jcVKVKvy78k` — *Le Tattiche Segrete dei Samurai Italiani applicate al Marketing* — `04_marketing` — posizione 143.
 
-Asset tecnici disponibili in `sources/transcripts/`.
+Metadata disponibili; transcript italiano assente.
 
 ## Validazione e blocchi
 
