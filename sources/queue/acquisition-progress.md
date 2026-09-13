@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:38:27.320185+00:00
+Ultimo aggiornamento: 2026-09-13T08:38:32.449893+00:00
 
 Batch: 25 video
-Completati tecnicamente: 20/25
+Completati tecnicamente: 21/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -27,7 +27,7 @@ Completati tecnicamente: 20/25
 | 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | dC6avQzKliQ | Il segreto di TESLA: perché vende 10 volte di più dei colossi dell'Automotive? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | d1xejlyQVWM | La Battaglia del Thé | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | AG7Gi9sPBRs | How do you get rich (for real)? | PENDING |  |
+| 21 | AG7Gi9sPBRs | How do you get rich (for real)? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | PENDING |  |
 | 23 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | PENDING |  |
 | 24 | KyHZ4zR6AbU | Come aprire un'attività senza soldi \| Dropshipping Made in Italy [Corso Completo] | PENDING |  |
