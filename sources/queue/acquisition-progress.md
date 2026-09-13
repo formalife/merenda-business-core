@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:23:37.832422+00:00
+Ultimo aggiornamento: 2026-09-13T11:23:41.784269+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | qQ8htL2fA9o | Le Strategie di Marketing per trovare nuovi clienti [e non perderli] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | 5q1QvjuXX_w | Campagne Marketing ONLINE oppure OFFLINE? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | AsD7LxX-n2I | I 4 Pilastri di una Campagna Marketing di successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | lQd9lhLJMXk | How to find customers with sensible marketing campaigns | PENDING |  |
+| 16 | lQd9lhLJMXk | How to find customers with sensible marketing campaigns | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | Aq0dxMu8AqU | Marketing a Risposta Diretta \| Come farlo nel modo giusto? | PENDING |  |
 | 18 | txFb7PkaVAw | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 3] | PENDING |  |
 | 19 | dYc5k5tRZx0 | Marketing a Risposta diretta \| Come fare PROMO efficaci [Parte 2] | PENDING |  |
