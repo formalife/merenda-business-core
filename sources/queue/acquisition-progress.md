@@ -1,44 +1,34 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-12T16:43:14.221052+00:00
+Ultimo aggiornamento: 2026-09-13T08:59:38.700846+00:00
 
 Batch: 25 video
 Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
-| 1 | zWVDQEuw_yI | MARKETING \| Perchè per un Infomercial il settore non fa differenza? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | 5gKmC-QQlhA | MARKETING \| Posizionamento e Visual Hammer con Laura Ries | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
-| 3 | r8wi8vzz61w | Brand Positioning \| Le regole del Marketing di Al Ries | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
-| 4 | 44NmOABcDCc | Brand Positioning and Line Extension - Marketing - The Whole Truth | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | xb8bGLwkiGY | CosMc's: la nuova catena McDonald's segue i dettami del Brand Positioning? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | WSYK8uA39Rg | Come vendere prodotti banali e difficili da differenziare | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | b9iVR8qJn-A | BRAND POSITIONING \| CHI Guadagna DAVVERO dalle Estensioni di Linea? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | AgH3SOnS7Kc | Kinder Ferrero e il Marketing: Tempo di Focus | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | GsmDyZQeYUM | Brand Positioning \| Il più grande FLOP di FERRERO [La vera storia] | RECOVERED | JSON3 italiano presente: metadata e transcript Markdown ricostruiti successivamente su GitHub; revisione semantica completata. |
-| 10 | vvpLVofHhHM | Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | hF9Xoc9hnHE | Brand Positioning vs Marketing Accademico | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | Cqtu8BIvyto | 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 13 | wdSlAXm_Qt4 | Alzare I Prezzi Senza Paura: Trasforma La Tua Azienda In Una Macchina di Profitti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | W5jfzieK33Y | How to Raise Prices and Triple Your Profits Without Ruining Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | uMPDxFMj9VY | Direct Response Marketing: How to Create Unbeatable Offers for Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | Ny8AkjwSoo8 | Strategie Di Marketing Avanzate Per Alzare I Prezzi E Conquistare Clienti Di Fascia Alta | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 17 | hvWYbpJPK2E | How to Raise Prices and Make Your Customers Happy | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | Vm1eT2_f6Ho | 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 19 | ZX_59lE19dw | Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | Dqzs97Wl9jc | How to ATTRACT CUSTOMERS with irresistible offers and the right bait | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | 3SmdRSCB5EE | Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | OFsVGBnM158 | How to Handle the High Price Objection and Sell More [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | TXGgnHLVhvA | Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 24 | KGPCinmAcoo | [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | pg6obSMYC0o | Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | ACQUIRED | Metadata + transcript Markdown disponibili. |
-
-
-## Chiusura semantica del batch
-
-Il batch 26–50 è stato completamente processato semanticamente.
-
-- 22 acquisizioni standard utilizzate;
-- 2 video senza transcript italiano (`5gKmC-QQlhA`, `r8wi8vzz61w`) identificati come lezioni ospite Ries ed esclusi dalla dottrina attiva;
-- `GsmDyZQeYUM` recuperato dal JSON3 italiano dopo l'errore di conversione;
-- tutti i 25 contenuti del batch hanno ora stato semantico definitivo `STUDIATO` o `ESCLUSO`.
+| 1 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 2 | AG7Gi9sPBRs | How do you get rich (for real)? | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 3 | o_T9s3lzAAE | L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 4 | kJZXe1i5Vcg | Aperture nicchia altospendenti #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 5 | ugbJzDGdsMA | Come fidelizzare i ricchi #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 7 | WasHsG0phmg | Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 8 | fkvXwg_tswE | Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 9 | Kg6vzmxdd5Y | BRAND POSITIONING \| The Most Important Principle of Brand Positioning #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 10 | c-BOsaTGdbY | BRAND POSITIONING \| What is Line Extension #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 11 | sm6UbD67FBY | POSITIONING \| Why create a new BRAND when launching a new PRODUCT? | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 12 | N2cTTWDkHdY | BRAND POSITIONING \| Il successo dei BRAND lanciati da SONY | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 13 | a8YTZtJnuo4 | The Power of Brand Positioning: The Secret to SAMURAI's Success | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 15 | oArzCO3vtiI | Il POSIZIONAMENTO DI MARCA delle PMI e il danno delle ESTENSIONI DI LINEA #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 16 | N4gNS7xqPeY | Cosa significa POSIZIONAMENTO DI MARCA #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 17 | t_V64UBPorc | Brand Positioning explained in 50 seconds #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 18 | 51wqxX6Y2JA | BRAND POSITIONING \| L'errore di Marketing di Perlana #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 19 | _6IQIO-Mb_4 | Come DYSON ha raggiunto il SUCCESSO grazie al POSIZIONAMENTO STRATEGICO #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 20 | RJodFtfVzmY | If you want to sell, you must respect the rules of brand positioning. | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 21 | 9zOdkSi45GM | Come VENDERE CON PIÙ MARGINE e differenziarsi dai concorrenti #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 22 | od9yQ84Rj7Y | Il POSIZIONAMENTO nasce dal CORAGGIO dell'imprenditore #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 23 | v1TRuSNshgA | It All Starts With Positioning - #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 24 | ldXZUf-mKSU | How to Beat Your Competitors with Google Reviews (Before We Talk About Price) | ACQUIRED | Metadata + transcript Markdown disponibili. |
+| 25 | 9r2SLDzMPlQ | How to Create an Irresistible Offer (Even if It Costs More) | ACQUIRED | Metadata + transcript Markdown disponibili. |
