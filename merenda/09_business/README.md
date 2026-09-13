@@ -9,3 +9,5 @@ Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 [Espansione per nicchie e architettura multibrand](espansione-nicchie-e-multibrand.md): quando aprire nuovi mercati, i quattro livelli di espansione e come crescere senza defocalizzare il singolo brand.
 
 Nel [caso CosMc's](../02_posizionamento/esempi-di-differenziazione.md#cosmcs-stessi-asset-nuovo-contesto-mentale) emerge anche una nota sui franchising: gli interessi della casa madre e quelli del singolo affiliato possono divergere quando nuove linee aumentano forniture/complessità senza aumentare proporzionalmente la redditività del punto vendita.
+
+[Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md): reinvestire nel core, aumentare capacità e valore dell'impresa prima di estrarre eccessivamente risorse.
