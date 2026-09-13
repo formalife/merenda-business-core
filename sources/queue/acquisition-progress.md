@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:04:36.484388+00:00
+Ultimo aggiornamento: 2026-09-13T13:04:40.832733+00:00
 
 Batch: 25 video
-Completati tecnicamente: 4/25
+Completati tecnicamente: 5/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -11,7 +11,7 @@ Completati tecnicamente: 4/25
 | 2 | dJ90FSzTCTg | CORSO DI MARKETING per trovare nuovi clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | 0uWKdM51ZsI | MARKETING \| Il principio di Autorità per i Clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | Rg6q7ynXdrM | Marketing Strategies \| Why You Need to Track All Your Campaigns | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | PENDING |  |
+| 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | 2LVrzGFBcmg | Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | PENDING |  |
 | 7 | qQBDw9iCsyU | Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | PENDING |  |
 | 8 | ZX0vgJeuQwo | FRANK MERENDA - OTHERWISE WE SNACK \| The #1 Marketing Channel in Europe | PENDING |  |
