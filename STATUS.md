@@ -2,73 +2,75 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; primi 50 contenuti processati semanticamente; checkpoint 50 completato (fase 14 + fase 15 eseguite da Claude Code).
+ACTIVE — fasi 1–6 complete; primi 75 contenuti processati semanticamente; checkpoint 75 raggiunto.
 
 ## Fase corrente
 
-**CHECKPOINT 50 COMPLETATO.** Refactor KB (fase 14) e audit tassonomia (fase 15) eseguiti. Corpus non ancora completo: si riprende l'ingestione dal video 51 della queue corretta.
+**CHECKPOINT 75 — richiesta FASE 14 con CLAUDE CODE.**
 
-Esito dettagliato in `reviews/CHECKPOINT_050.md`.
+La fase 15 non è dovuta a questo checkpoint.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati: 50
-- STUDIATO / integrati nella KB: 46
+- Contenuti processati: 75
+- STUDIATO / integrati nella KB: 71
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 418
+- Da processare: 393
 - Corpus completo: NO
-
-Contenuti esclusi finora:
-
-- `Wk1Se1AeInw` — Jay Abraham;
-- `5gKmC-QQlhA` — Laura Ries;
-- `r8wi8vzz61w` — Al Ries;
-- `TXGgnHLVhvA` — Dan Kennedy.
-
-Sono contenuti ospite senza intervento sostanziale di Frank da consolidare nella dottrina attiva.
 
 ## Workflow attivo — v1.1
 
-- CODEX / locale: acquisizione tecnica a batch.
-- CHATGPT: revisione semantica e fasi 8–13 sui video acquisiti.
-- CLAUDE CODE: fase 14 ogni 25 contenuti; fase 14 + fase 15 ogni 50; fasi 16–22 a corpus completo.
+- CODEX / script locale: acquisizione tecnica a batch.
+- CHATGPT: revisione semantica e fasi 8–13.
+- CLAUDE CODE: fase 14 ogni 25; fase 14 + 15 ogni 50.
 
 ## Checkpoint
 
 - Ultimo refactor KB completato: 50
-- Refactor KB richiesto ora: NO
+- Refactor KB richiesto ora: **SÌ — fase 14**
 - Ultimo audit tassonomia: 50
-- Audit tassonomia richiesto ora: NO
-- Prossimo checkpoint dopo questo: 75 (fase 14); 100 (fase 14 + fase 15)
-- Checkpoint Claude richiesto: NO
+- Prossimo audit tassonomia: 100
+- Checkpoint Claude richiesto: **SÌ**
 
-Handoff dettagliato: `reviews/CHECKPOINT_050.md`.
+Handoff dettagliato: `reviews/CHECKPOINT_075.md`.
 
 ## Agente richiesto
 
-**CHATGPT**
+**CLAUDE CODE**
 
 ## Next Action
 
-Codex deve acquisire il prossimo batch tecnico a partire dal primo video non completato della queue corretta (vedi sotto), preferibilmente ordine 51–75, poi restituire il controllo a ChatGPT (fasi 8–13) tramite `STATUS.md`.
+Leggere:
 
-## Prossimo contenuto dopo il checkpoint
+1. `00_START_HERE.md`
+2. `CLAUDE.md`
+3. `MASTER_PLAN.md`
+4. `system/RULES.md`
+5. `system/PHASES.md`
+6. `system/HANDOFFS.md`
+7. `reviews/CHECKPOINT_075.md`
+8. `STATUS.md`
 
-`AAiq6RnCysE` — *Come comprano i ricchi? [Quelli veri]* (`01_mercato`).
+Poi eseguire **soltanto FASE 14 — refactor KB**.
 
-Asset tecnici: NON PRESENTI.
+Non eseguire fase 15.
 
-Nota: `bHxjwGQQoUw` (precedente "prossimo video") ha già un'acquisizione tecnica parziale (`info.json` + `it-orig.json3`) da un batch precedente; dopo il riordino della fase 15 si trova più avanti nella queue (categoria `04_marketing`). Il lavoro parziale resta valido e verrà riutilizzato quando toccherà il suo turno.
+Al termine:
 
-## Blocchi / intervento umano
+- aggiornare `reviews/CHECKPOINT_075.md` con l'esito;
+- aggiornare `STATUS.md`;
+- verificare routing/link;
+- creare commit descrittivo e push su `origin/main`;
+- se il prossimo batch tecnico 76–100 non è ancora disponibile, richiedere CODEX/script locale;
+- altrimenti restituire direttamente il controllo a CHATGPT.
 
-Nessun blocco semantico aperto sui primi 50 contenuti.
+## Prossimo contenuto
 
-Note tecniche già risolte nel batch 26–50:
+`h-ngxN8kYPc` — *Why Customers Don't Buy From You (It's Not the Price's Fault)* — `03_offerta`.
 
-- due lezioni Ries senza transcript italiano sono state classificate come contenuti ospite ed escluse dalla dottrina attiva;
-- il transcript Ferrero `GsmDyZQeYUM` è stato recuperato dal JSON3 italiano dopo l'errore di conversione;
-- la lezione Dan Kennedy è stata identificata ed esclusa dalla dottrina attiva.
+Asset tecnici 76–79: NON PRESENTI al momento del checkpoint.
 
-Esito fase 14 + fase 15 (checkpoint 50): vedi `reviews/CHECKPOINT_050.md`. Riclassificati 40/418 video non ancora studiati dal bucket generico `04_marketing` verso categorie più precise; riordinata l'intera coda non ancora studiata secondo la sequenza tematica dichiarata in `sources/queue/QUEUE.md`, con gli Shorts posposti ai video lunghi entro ciascuna categoria. Nessun video già `STUDIATO`/`ESCLUSO` è stato toccato.
+## Blocchi
+
+Nessun blocco semantico aperto sui primi 75 contenuti.
