@@ -11,6 +11,59 @@ Nel modello organizzativo che propone, l'azienda individua lead interessati e il
 Merenda formula come principio che le persone non cambiano idea: interpreta la buona vendita come incontro con un target già compatibile con l'idea differenziante, anziché come successo di frasi ipnotiche capaci di convertire chiunque. Le proporzioni «100 telefonate, 20 appuntamenti, un contratto» sono dichiarate numeri d'esempio, non benchmark. [22:58–27:46](https://www.youtube.com/watch?v=ePxhx94vW7g&t=1378s)
 
 
+
+## Quattro requisiti prima di passare una lead alla vendita
+
+Nel materiale del 20 aprile 2023 Merenda sintetizza la prequalifica in quattro risultati che il marketing dovrebbe produrre prima di consegnare il contatto al venditore.
+
+### 1. Premotivazione
+
+Il prospect deve avere già capito **perché vale la pena valutare proprio l'azienda** rispetto ai concorrenti o al non fare nulla.
+
+Non significa che abbia già deciso di comprare. Significa che arriva alla trattativa con una ragione riconoscibile per considerare quella soluzione.
+
+Materiali, email, video, libri, pagine e altri contenuti dovrebbero quindi “srotolare” il posizionamento prima della conversazione commerciale, soprattutto sulle parti standard che il venditore altrimenti ripeterebbe identiche a ogni incontro.
+
+### 2. Prequalifica economica
+
+Il prospect deve avere almeno una percezione realistica della fascia economica.
+
+Non è sempre necessario pubblicare un prezzo preciso, soprattutto nei lavori progettuali o su misura. Ma il marketing non dovrebbe creare sistematicamente aspettative da fascia economica incompatibile con ciò che l'azienda vende.
+
+Anche il front-end conta: **un'esca da prezzo può attirare un segmento da prezzo** che poi non è compatibile con il backend premium.
+
+### 3. Processo e potere decisionale
+
+Il prospect deve capire:
+
+- chi deve partecipare alla decisione;
+- quali persone influenzano l'acquisto;
+- chi può realmente autorizzare/spendere;
+- quale percorso decisionale è necessario.
+
+Il marketing può preparare questa mappa prima dell'appuntamento, evitando al venditore di scoprire troppo tardi che manca il decisore.
+
+### 4. Timeframe e urgenza
+
+Prima della trattativa è utile sapere se il bisogno è:
+
+- immediato;
+- entro giorni/settimane;
+- entro mesi;
+- soltanto esplorativo.
+
+Il timeframe non coincide automaticamente con la volontà di comprare: serve a capire priorità, temperatura e ciclo di decisione.
+
+### Vendita come sensore del marketing
+
+Merenda aggiunge un feedback loop operativo: il venditore deve chiedere al prospect **perché ha scelto proprio l'azienda per essere valutata** e che cosa ha trovato di diverso.
+
+Se le risposte sono sistematicamente “volevo solo un preventivo”, “mi sembravate uguali agli altri” o mostrano aspettative economiche completamente errate, il problema non va attribuito soltanto al venditore: è un segnale che posizionamento, materiali, offerta o prequalifica a monte vanno corretti.
+
+Il valore “70–80% già convinto” citato nel video resta un modo espressivo del relatore, non una soglia universale misurabile.
+
+Fonte: [I 4 Pilastri di una Campagna Marketing di successo](https://www.youtube.com/watch?v=AsD7LxX-n2I), 20 aprile 2023. [Revisione](../../sources/transcripts/AsD7LxX-n2I.review.md).
+
 ## Una lead inbound va presa in carico rapidamente
 
 Nel materiale dell'8 luglio 2024 Merenda tratta la velocità di risposta come parte del processo di vendita, non come dettaglio amministrativo.

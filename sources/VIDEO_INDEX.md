@@ -123,7 +123,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 113 | k8d8CYjp3u8 | da acquisire | [COME TROVARE CLIENTI &#124; Le basi di una Campagna Marketing di Successo](https://www.youtube.com/watch?v=k8d8CYjp3u8) | 896.0 | 04_marketing | 2 | STUDIATO | videos |
 | 114 | qQ8htL2fA9o | da acquisire | [Le Strategie di Marketing per trovare nuovi clienti [e non perderli]](https://www.youtube.com/watch?v=qQ8htL2fA9o) | 1146.0 | 04_marketing | 2 | STUDIATO | videos |
 | 115 | 5q1QvjuXX_w | da acquisire | [Campagne Marketing ONLINE oppure OFFLINE?](https://www.youtube.com/watch?v=5q1QvjuXX_w) | 3541.0 | 04_marketing | 2 | STUDIATO | videos |
-| 116 | AsD7LxX-n2I | da acquisire | [I 4 Pilastri di una Campagna Marketing di successo](https://www.youtube.com/watch?v=AsD7LxX-n2I) | 1790.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 116 | AsD7LxX-n2I | da acquisire | [I 4 Pilastri di una Campagna Marketing di successo](https://www.youtube.com/watch?v=AsD7LxX-n2I) | 1790.0 | 04_marketing | 2 | STUDIATO | videos |
 | 117 | lQd9lhLJMXk | da acquisire | [How to find customers with sensible marketing campaigns](https://www.youtube.com/watch?v=lQd9lhLJMXk) | 1262.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 118 | Aq0dxMu8AqU | da acquisire | [Marketing a Risposta Diretta &#124; Come farlo nel modo giusto?](https://www.youtube.com/watch?v=Aq0dxMu8AqU) | 1230.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 119 | txFb7PkaVAw | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3]](https://www.youtube.com/watch?v=txFb7PkaVAw) | 955.0 | 04_marketing | 2 | DA STUDIARE | videos |
