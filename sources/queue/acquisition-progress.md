@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:34.534012+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:36.285453+00:00
 
 Batch: 25 video
-Completati tecnicamente: 8/25
+Completati tecnicamente: 9/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -15,7 +15,7 @@ Completati tecnicamente: 8/25
 | 6 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | dqAy1D8TnyQ | How to find new clients by dominating with information | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | ERjFJYE6fXc | The True Story of Frank Merenda | PENDING |  |
+| 9 | ERjFJYE6fXc | The True Story of Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | PENDING |  |
 | 11 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | PENDING |  |
 | 12 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | PENDING |  |
