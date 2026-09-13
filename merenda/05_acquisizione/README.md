@@ -13,3 +13,5 @@ Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 Il [caso Guapo](../02_posizionamento/esempi-di-differenziazione.md#focalizzazione-di-prodotto-e-focalizzazione-della-campagna) mostra un funnel di acquisizione coerente con un'offerta iper-focalizzata, rivolto a nuovi clienti in target anziché a traffico generico.
 
 [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md): trasformare attenzione e traffico in una risposta misurabile, poi recuperare e monetizzare le opportunità generate.
+
+[Piramide di information marketing](information-marketing.md): educare e far avanzare il prospect attraverso livelli crescenti di informazione, impegno e interazione.

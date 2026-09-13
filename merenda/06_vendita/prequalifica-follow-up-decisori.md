@@ -63,3 +63,28 @@ Bisogna individuare interlocutori che abbiano almeno parte del potere decisional
 Merenda distingue le motivazioni dell'imprenditore, orientato al risultato aziendale, da quelle del manager, che nella sua lettura tende a proteggere posizione e responsabilità. Per quest'ultimo descrive due scelte difendibili: il leader quando il budget lo consente, oppure il meno caro tra alternative simili. È il modello interpretativo del relatore; non una verifica su tutti i manager. [34:35–37:18](https://www.youtube.com/watch?v=ePxhx94vW7g&t=2075s)
 
 Il venditore deve adattare la trattativa all'interlocutore. Quando passa dal manager al decisore superiore, riparte dalle motivazioni di quest'ultimo; ripetere identiche caratteristiche, vantaggi e benefici a ogni livello rischia di perdere la vendita. Il video annuncia una successiva «mappa decisionale», senza insegnarne qui la procedura completa. [37:18–38:18](https://www.youtube.com/watch?v=ePxhx94vW7g&t=2238s)
+
+
+## Vendita consulenziale: diagnosi, fatti e prescrizione
+
+Nel materiale del 7 giugno 2024 Merenda descrive una forma di vendita consulenziale nella quale il professionista non si limita a essere gentile o tecnicamente preparato.
+
+Per essere percepito come esperto deve essere disposto a:
+
+1. **diagnosticare** ciò che il cliente sta facendo male;
+2. **mostrare fatti, numeri ed evidenze** anche quando sono scomodi;
+3. **spiegare le conseguenze** del comportamento attuale;
+4. **prescrivere un comportamento diverso**;
+5. chiedere al cliente di fidarsi della prescrizione.
+
+Il parallelo è il medico che non si limita a descrivere il problema, ma dice chiaramente cosa deve cambiare e perché.
+
+Questo modello richiede autorità già costruita prima della trattativa. Se il professionista arriva come sconosciuto, la stessa franchezza può essere percepita come arroganza o aggressione.
+
+Perciò il percorso è:
+
+**autorità/prove prima → diagnosi autorevole → prescrizione → trattativa**
+
+Libri, testimonianze, casi e referral servono anche a guadagnare il diritto di dire al prospect cose scomode che un venditore generico non può permettersi di dire.
+
+Fonte: [Una PMI può vincere sul mercato?](https://www.youtube.com/watch?v=bHxjwGQQoUw), 7 giugno 2024. [Revisione](../../sources/transcripts/bHxjwGQQoUw.review.md).
