@@ -1,0 +1,185 @@
+name: Local ASR fallback 143-149
+
+on:
+  push:
+    branches:
+      - fallback-transcripts-143-149
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ASR dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install yt-dlp faster-whisper
+
+      - name: Download audio and transcribe
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          mkdir -p work/local-asr
+          cat > /tmp/transcribe.py <<'PY'
+          import json, sys
+          from pathlib import Path
+          from faster_whisper import WhisperModel
+
+          IDS = [
+              "jcVKVKvy78k",
+              "joY6sigynis",
+              "ijVoIMF_gn8",
+          ]
+          MODEL = "small"
+
+          def hms(sec):
+              sec = max(0, int(sec))
+              h = sec // 3600
+              m = (sec % 3600) // 60
+              s = sec % 60
+              return f"{h:02d}:{m:02d}:{s:02d}"
+
+          model = WhisperModel(MODEL, device="cpu", compute_type="int8")
+
+          for vid in IDS:
+              info_path = Path(f"sources/transcripts/{vid}.info.json")
+              info = json.loads(info_path.read_text())
+              audio = Path(f"work/local-asr/{vid}.wav")
+              out_json = Path(f"sources/transcripts/{vid}.asr.json")
+              out_md = Path(f"sources/transcripts/{vid}.md")
+
+              if not audio.exists():
+                  raise SystemExit(f"Missing audio for {vid}")
+
+              print(f"TRANSCRIBING {vid}: {info['title']}", flush=True)
+              segments, detected = model.transcribe(
+                  str(audio),
+                  language="it",
+                  beam_size=5,
+                  vad_filter=True,
+                  condition_on_previous_text=True,
+                  word_timestamps=False,
+              )
+
+              rows = []
+              for seg in segments:
+                  text = (seg.text or "").strip()
+                  if not text:
+                      continue
+                  rows.append({
+                      "start": round(float(seg.start), 3),
+                      "end": round(float(seg.end), 3),
+                      "text": text,
+                  })
+
+              if not rows:
+                  raise SystemExit(f"No ASR segments for {vid}")
+
+              duration = float(info.get("duration") or 0)
+              last_end = rows[-1]["end"]
+              coverage = (last_end / duration) if duration else None
+
+              payload = {
+                  "video_id": vid,
+                  "source_url": info.get("webpage_url"),
+                  "language_requested": "it",
+                  "language_detected": getattr(detected, "language", None),
+                  "language_probability": getattr(detected, "language_probability", None),
+                  "engine": "faster-whisper",
+                  "model": MODEL,
+                  "device": "cpu",
+                  "compute_type": "int8",
+                  "beam_size": 5,
+                  "vad_filter": True,
+                  "duration_seconds_metadata": duration,
+                  "last_segment_end_seconds": last_end,
+                  "coverage_ratio": coverage,
+                  "segments": rows,
+              }
+              out_json.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
+
+              lines = [
+                  f"# {info['title']}",
+                  "",
+                  f"Fonte: {info.get('webpage_url','')}",
+                  f"Data pubblicazione: {info.get('upload_date','')}",
+                  "",
+                  "Trascrizione locale automatica da audio usata come fallback perché il video non dispone di sottotitoli italiani utilizzabili.",
+                  f"Motore/modello: faster-whisper / {MODEL} (CPU int8, lingua=it, beam_size=5, VAD attivo).",
+                  "Revisione semantica ancora da eseguire.",
+                  "",
+              ]
+              for row in rows:
+                  lines.append(f"[{hms(row['start'])}] {row['text']}")
+                  lines.append("")
+              out_md.write_text("\n".join(lines).rstrip() + "\n")
+
+              print(json.dumps({
+                  "id": vid,
+                  "segments": len(rows),
+                  "duration": duration,
+                  "last_end": last_end,
+                  "coverage": coverage,
+                  "detected": getattr(detected, "language", None),
+                  "prob": getattr(detected, "language_probability", None),
+              }, ensure_ascii=False), flush=True)
+
+              if duration and coverage < 0.85:
+                  raise SystemExit(f"Coverage too low for {vid}: {coverage:.3f}")
+
+          PY
+
+          for id in jcVKVKvy78k joY6sigynis ijVoIMF_gn8; do
+            echo "Downloading $id"
+            python -m yt_dlp               --no-playlist               --extract-audio               --audio-format wav               --audio-quality 0               --extractor-args "youtube:player_client=android,web"               -o "work/local-asr/%(id)s.%(ext)s"               "https://www.youtube.com/watch?v=$id"
+          done
+
+          python /tmp/transcribe.py
+
+      - name: Validate outputs
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          ids = ["jcVKVKvy78k","joY6sigynis","ijVoIMF_gn8"]
+          for vid in ids:
+              jp = Path(f"sources/transcripts/{vid}.asr.json")
+              mp = Path(f"sources/transcripts/{vid}.md")
+              assert jp.exists() and jp.stat().st_size > 1000, vid
+              assert mp.exists() and mp.stat().st_size > 1000, vid
+              data = json.loads(jp.read_text())
+              segs = data["segments"]
+              assert len(segs) > 20, (vid, len(segs))
+              starts = [x["start"] for x in segs]
+              assert starts == sorted(starts), vid
+              assert data["coverage_ratio"] is None or data["coverage_ratio"] >= 0.85, (vid, data["coverage_ratio"])
+              print(vid, len(segs), data["last_segment_end_seconds"], data["coverage_ratio"])
+          PY
+
+          git diff --check -- sources/transcripts/jcVKVKvy78k.md sources/transcripts/joY6sigynis.md sources/transcripts/ijVoIMF_gn8.md
+
+      - name: Commit ASR outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add             sources/transcripts/jcVKVKvy78k.md             sources/transcripts/jcVKVKvy78k.asr.json             sources/transcripts/joY6sigynis.md             sources/transcripts/joY6sigynis.asr.json             sources/transcripts/ijVoIMF_gn8.md             sources/transcripts/ijVoIMF_gn8.asr.json
+          git diff --cached --stat
+          git commit -m "Add local ASR transcripts for 143, 148 and 149"
+          git push origin HEAD:fallback-transcripts-143-149
