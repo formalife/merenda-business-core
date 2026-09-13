@@ -10,6 +10,29 @@ Questo spiega la relazione con il principio del prezzo superiore alla concorrenz
 
 Il profitto complessivo e i tempi di recupero vanno verificati insieme. Il valore futuro del cliente non elimina il fabbisogno di capitale presente; vedi [cassa e costo per vendita](../09_business/numeri-cassa-e-crescita.md).
 
+## La prima vendita apre il marketing di secondo livello
+
+Nel materiale del 26 settembre 2022 Merenda collega il front-end ai diversi livelli di consapevolezza del prospect. La tassonomia dei livelli è trattata in modo più recente nel documento sulla [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md); qui resta utile soprattutto una conseguenza operativa.
+
+Educare un prospect molto lontano dall'acquisto può richiedere tempo. Quando il modello economico e la cassa lo permettono, un front-end con una forte riduzione della barriera d'ingresso può **accorciare il percorso verso la prima transazione**.
+
+La prima vendita non è il traguardo del marketing. Per Merenda apre un “secondo livello” nel quale l'impresa deve dimostrare, attraverso l'esperienza reale, di meritare la relazione successiva.
+
+Questo secondo livello comprende:
+
+- qualità dell'erogazione;
+- facilità e cura dell'esperienza d'acquisto;
+- servizio e assistenza;
+- coerenza fra promessa e risultato;
+- percorso verso acquisti successivi e back-end.
+
+L'obiettivo diventa quindi **acquisire un cliente attraverso una vendita**, non accumulare indefinitamente prospect da educare senza una transazione.
+
+La leva va però dimensionata sui numeri. Un'offerta d'ingresso molto aggressiva può creare cassa negativa, carico produttivo o problemi di consegna se viene aperta a un volume superiore a quello che l'azienda può sostenere. Va quindi testata in scala controllata, misurando costo, capacità e tempo di recupero.
+
+Il principio è coerente con il resto del sistema: il front-end serve a far entrare il target giusto, mentre profitto e valore vengono progettati sull'intero ciclo di relazione.
+
+Fonte precedente: [Il Marketing non è un’azione singola ma un metodo](https://www.youtube.com/watch?v=0qipJSkZxmg), 26 settembre 2022. [Revisione](../../sources/transcripts/0qipJSkZxmg.review.md).
 
 ## Il front-end può funzionare come degustazione del portafoglio
 
@@ -37,7 +60,6 @@ Questo rende il costo di acquisizione leggibile sull'intera relazione e non solt
 
 Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 3](https://www.youtube.com/watch?v=txFb7PkaVAw), 19 gennaio 2023. [Revisione](../../sources/transcripts/txFb7PkaVAw.review.md).
 
-
 ## Progettare il secondo acquisto, non aspettarlo
 
 Nel materiale del 19 gennaio 2023 Merenda distingue operativamente tra chi ha comprato **una volta** e chi ha già ripetuto l'acquisto.
@@ -59,7 +81,6 @@ Nel caso mostrato, una raccolta fisica e il fatto di rimandare il pezzo più des
 Un oggetto fisico, una collezione, un calendario, un programma di utilizzo o un'altra struttura possono sostenere questo ponte quando coerenti col business, ma non sono obbligatori.
 
 Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 2](https://www.youtube.com/watch?v=dYc5k5tRZx0), 19 gennaio 2023. [Revisione](../../sources/transcripts/dYc5k5tRZx0.review.md).
-
 
 ## Rendere esplicita la continuità naturale del bisogno
 
@@ -100,7 +121,6 @@ La mappa Disney mostrata con etichetta «1957» collega studio/film, TV, musica,
 ## Esercizio: riprogettare il ruolo di un'offerta
 
 Scegliere un prodotto o servizio oggi venduto con profitto. Progettare come utilizzarlo a pareggio o in piccola perdita per attrarre clienti, indicando le vendite successive da cui ottenere il profitto. L'esercizio include l'ipotesi di gratuità solo nel contesto di forte controllo dei numeri e successiva costruzione del funnel. Non afferma che qualsiasi regalo produca automaticamente vendite. [81:40–83:13](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4900s)
-
 
 ## L'esca e ciò che vuoi vendere possono essere diversi
 
