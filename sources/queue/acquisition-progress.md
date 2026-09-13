@@ -1,14 +1,14 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:11.339258+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:16.380677+00:00
 
 Batch: 25 video
-Completati tecnicamente: 1/25
+Completati tecnicamente: 2/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | h-ngxN8kYPc | Why Customers Don't Buy From You (It's Not the Price's Fault) | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | 2er__0CBdmY | The Offer No One Wants: Marketing Mistakes to Avoid | PENDING |  |
+| 2 | 2er__0CBdmY | The Offer No One Wants: Marketing Mistakes to Avoid | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | ZqHMzE7OeKI | OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO #shorts | PENDING |  |
 | 4 | AzFe_Tfl0tI | The 7-Minute Guarantee That Multiplies Customers (and Terrifies the Competition) | PENDING |  |
 | 5 | bHxjwGQQoUw | Can an SME WIN ON THE MARKET and beat the giants in its sector? | PENDING |  |
