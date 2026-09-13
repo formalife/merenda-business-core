@@ -113,7 +113,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 101 | [zZFg2oM208w](https://www.youtube.com/watch?v=zZFg2oM208w) — Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top | 04_marketing | STUDIATO |
 | 102 | [kmtvBlfL25I](https://www.youtube.com/watch?v=kmtvBlfL25I) — Campagne Di Marketing &#124; ​​3 Azioni Infallibili Per Generare Profitto Immediato | 04_marketing | STUDIATO |
 | 103 | [MuHs2UrVGEg](https://www.youtube.com/watch?v=MuHs2UrVGEg) — Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | 04_marketing | STUDIATO |
-| 104 | [J7WZ-gzN3zg](https://www.youtube.com/watch?v=J7WZ-gzN3zg) — Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | 04_marketing | DA STUDIARE |
+| 104 | [J7WZ-gzN3zg](https://www.youtube.com/watch?v=J7WZ-gzN3zg) — Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | 04_marketing | STUDIATO |
 | 105 | [68H6aOPXITg](https://www.youtube.com/watch?v=68H6aOPXITg) — Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | 04_marketing | DA STUDIARE |
 | 106 | [FIOKn72b_Bk](https://www.youtube.com/watch?v=FIOKn72b_Bk) — 3 Techniques (You Don't Know About) to Power Your Marketing | 04_marketing | DA STUDIARE |
 | 107 | [4beA9XR2tHE](https://www.youtube.com/watch?v=4beA9XR2tHE) — La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | 04_marketing | DA STUDIARE |

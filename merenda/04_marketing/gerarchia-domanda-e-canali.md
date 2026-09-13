@@ -63,6 +63,42 @@ Almeno i principali livelli devono avere:
 
 Una persona che cerca già un prodotto specifico non deve ricevere la stessa educazione di chi ha appena riconosciuto il problema.
 
+
+## La domanda ha anche una dimensione temporale
+
+Il materiale del 16 settembre 2024 aggiunge una seconda dimensione alla “folla affamata”: non basta capire **dove** si trova il target o quale intento esprime; bisogna capire anche **quando** quel bisogno diventa più reattivo.
+
+Il timing può dipendere da:
+
+- stagionalità;
+- ricorrenze;
+- fasi del ciclo di acquisto;
+- eventi di vita;
+- momenti in cui un problema diventa più visibile o urgente.
+
+La conseguenza non è necessariamente spegnere le campagne evergreen. Merenda propone di poter:
+
+- mantenere la campagna ordinaria;
+- affiancare o sostituire temporaneamente una campagna specifica;
+- adattare copy, offerta e materiale al momento;
+- aumentare l'investimento quando target e timing rendono la risposta più probabile.
+
+Quindi la domanda utile non è solo:
+
+**“chi sta cercando / chi potrei stimolare?”**
+
+ma anche:
+
+**“in quale finestra questo stesso target è più disposto ad agire?”**
+
+Gli esempi del video riguardano periodi stagionali e specifici eventi di vita. Sono esempi di applicazione, non finestre universali da trasferire automaticamente ad altri business. L'impresa deve ricavare il proprio timing da esperienza, dati e conoscenza del mercato.
+
+Questo principio è compatibile con la gerarchia più recente del 2025: quando esiste domanda diretta conviene prima intercettarla; il timing serve a rendere più precisa l'allocazione di messaggio e budget all'interno dei diversi livelli di domanda.
+
+Vedi anche [priorità, azione e trigger reali](../07_copy_comunicazione/priorita-azione-e-inerzia.md#prima-del-copy-trovare-il-trigger-reale-che-rende-il-bisogno-prioritario).
+
+Fonte: [Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400%](https://www.youtube.com/watch?v=J7WZ-gzN3zg), 16 settembre 2024. [Revisione](../../sources/transcripts/J7WZ-gzN3zg.review.md).
+
 ## Volume di ricerca e intento sono cose diverse
 
 Un termine può avere molto volume e scarso intento d'acquisto.

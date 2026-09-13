@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 3/25 completati; continuare dal contenuto 104.**
+**Elaborazione semantica del batch 101–125 — 4/25 completati; continuare dal contenuto 105.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 103
-- STUDIATO / integrati nella KB: 99
+- Contenuti processati semanticamente: 104
+- STUDIATO / integrati nella KB: 100
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 365
+- Da processare: 364
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 3/25 completati
+- Elaborazione semantica 101–125: 4/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`J7WZ-gzN3zg` — *Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400%* — `04_marketing`.
+`68H6aOPXITg` — *Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito]* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
