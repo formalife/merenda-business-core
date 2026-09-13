@@ -1,10 +1,22 @@
 name: Local ASR fallback 143-149
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - fallback-transcripts-143-149
+
+permissions:
+  contents: write
 
 jobs:
-  disabled:
+  direct-audio-test:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Temporary workflow disabled after fallback runner test."
+      - uses: actions/checkout@v4
+      - name: Test resolved audio stream
+        env:
+          AUDIO_URL: "https://rr2---sn-2onx5c-53.googlevideo.com/videoplayback?expire=1789342459&ei=m96maqfLKeP5sfIP6_we&ip=136.67.93.38&id=o-AAd72Gb6nMrDSuACHMQQaGsvb73ozYpfQlIwHwmqCLEH&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=304&met=1789320859%2C&mh=aw&mm=31%2C26&mn=sn-2onx5c-53%2Csn-a5mlrnls&ms=au%2Conr&mv=m&mvi=2&pl=15&rms=au%2Cau&initcwndbps=3580000&bui=AR3QkAlkSuTUu8wWUao2nmcczKu_MVusdO_ylRWl1UetP8lpaiVYErsXPWnztAiJkF-9muxi0Cz5pjyo&spc=I-rgIX-B-fppO7vu5H3tX61N9NZuTC8eN5GuavQYZggkzn3Bjcc4CcjCVg&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=30293223&dur=2227.661&lmt=1701445605214188&mt=1789320528&fvip=2&keepalive=yes&fexp=51565115%2C52135441&c=VISIONOS&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRgIhAPR3-qS4ZC54JlTrzI7fZalsMEcuWrFbnrm9YOLQSNKgAiEAkf-Fg_dzv8GmddrLRupsmW-5o3j9zAN_jc_83PfMW0g%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgZQoAabbt3ogImoCKqOzMewEUDlfrZ9DDCbm7jto80_sCICBxdwKOwJdXmxa1Kl5_vEldrO8KjYNLxukDN9FUHiz7"
+        run: |
+          curl -fL --retry 2 --range 0-1048575 "$AUDIO_URL" -o /tmp/test.webm
+          ls -lh /tmp/test.webm
