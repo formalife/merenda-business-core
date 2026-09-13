@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:37:57.698176+00:00
+Ultimo aggiornamento: 2026-09-13T08:38:05.193462+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | tIpkQLqsPUI | I Miei Consigli per il 2024 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | cPDsbG0fZ_I | L'Impero del Miele: Come diventare ricchi con un solo prodotto | PENDING |  |
+| 16 | cPDsbG0fZ_I | L'Impero del Miele: Come diventare ricchi con un solo prodotto | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | PENDING |  |
 | 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | PENDING |  |
 | 19 | dC6avQzKliQ | Il segreto di TESLA: perché vende 10 volte di più dei colossi dell'Automotive? | PENDING |  |
