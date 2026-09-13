@@ -112,7 +112,7 @@ def acquire_one(item, command, env):
     transcript = TRANSCRIPTS / f'{ident}.md'
     if not transcript.exists():
         if (TRANSCRIPTS / f'{ident}.it-orig.json3').exists() or (TRANSCRIPTS / f'{ident}.it.json3').exists():
-            run([sys.executable, str(ROOT / 'scripts' / 'transcript.py'), ident])
+            run([sys.executable, str(ROOT / 'scripts' / 'transcript.py'), '--', ident])
         else:
             return 'NO_IT_TRANSCRIPT', 'Sottotitoli italiani assenti: servirà fallback audio/trascrizione.'
 
