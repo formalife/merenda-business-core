@@ -1,5 +1,7 @@
 # Acquisizione
 
+Questa sezione copre come portare nuovi contatti/traffico in target verso il sistema (referral, canali, funnel), a differenza di [03 — Offerta](../03_offerta/README.md) (struttura e prezzo di ciò che si propone) e [06 — Vendita](../06_vendita/README.md) (trattativa e qualificazione dopo il contatto). Ancora poco popolata: crescerà quando saranno processati i contenuti dedicati a funnel, lead generation e canali.
+
 [Costo per vendita e ritorno della cassa](../09_business/numeri-cassa-e-crescita.md), con [front-end e monetizzazione successiva](../03_offerta/front-end-e-back-end.md).
 
 [Referral e soddisfazione](referral-e-soddisfazione.md): qualità dei clienti, feedback e strumenti di segnalazione.

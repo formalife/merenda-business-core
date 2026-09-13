@@ -1,6 +1,6 @@
-# Checkpoint 050 — handoff a Claude Code
+# Checkpoint 050 — esito fase 14 + fase 15 (Claude Code)
 
-## Stato
+## Stato all'ingresso del checkpoint
 
 Primi 50 contenuti della queue processati:
 
@@ -16,142 +16,86 @@ Contenuti esclusi:
 - `r8wi8vzz61w` — lezione di Al Ries;
 - `TXGgnHLVhvA` — lezione di Dan Kennedy.
 
-Il batch tecnico 26–50 è stato completamente risolto. Il transcript Ferrero `GsmDyZQeYUM`, inizialmente fallito in conversione, è stato recuperato dal JSON3 italiano. Nessun blocco semantico aperto.
+## Esito FASE 14 — Refactor KB
 
-## Obiettivo del checkpoint
+Letta integralmente la KB (11 README + 19 documenti, INDEX.md, ~2.400 righe) e verificati con script i link/anchor interni, l'assenza di file orfani e la copertura di `merenda/INDEX.md`.
 
-Eseguire, in quest'ordine:
+Risultato: la KB risultava già in buono stato dal lavoro di ingestione precedente (regola MERGE, NON APPEND applicata correttamente con cross-link invece di duplicazione). Nessuna riscrittura di contenuto sostanziale è stata necessaria. Verifiche puntuali sui punti richiesti:
 
-1. **FASE 14 — Refactor KB**
-2. **FASE 15 — Audit globale della tassonomia**
+- **Link interni e anchor**: 0 link rotti, 0 anchor mancanti su tutti i file `merenda/**/*.md` (verifica scriptata).
+- **File orfani/routing**: ogni documento è linkato dal README della propria sezione; ogni README è linkato da `merenda/INDEX.md`.
+- **Duplicazioni tra i principi ricorrenti** (quattro filtri del focus, family brand, sell-in/sell-through, cavallo di battaglia, folla affamata, "più che gratis", "srotolare il posizionamento", "replicare la povertà"): ciascun concetto ha un'unica spiegazione estesa in un solo file, richiamata altrove solo con link — nessuna duplicazione da correggere.
+- **Sovrapposizione `00_fondamenti`/`04_marketing`**: nessuna sovrapposizione reale; `00_fondamenti` resta il corso sui 7 principi, `04_marketing` contiene solo i due documenti tematici propri (complessità/riduzione variabili, quattro modalità/ritmo) più i rimandi incrociati previsti.
+- **Confine `01_mercato`/`02_posizionamento`**: le "quattro domande" (mercato) e i "quattro filtri del focus" (posizionamento) restano framework distinti, già disambiguati nel testo e collegati con anchor reciproci.
+- **Confine `03_offerta`/`05_acquisizione`/`06_vendita`**: confine coerente (struttura/prezzo dell'offerta vs. contatto/traffico/referral vs. trattativa), ma `05_acquisizione` resta la sezione più scarna (un solo documento nativo) perché pochi video finora processati vi appartengono in modo specifico; aggiunta una riga di chiarimento del confine nel suo README.
+- **Dimensione dei file**: nessun file eccessivo. I più cresciuti restano `prezzo-premium-e-percezione-del-valore.md` (350 righe) e `offerta-a-risposta-diretta.md` (290 righe) — da tenere d'occhio ai prossimi checkpoint se continuano a crescere, ma non richiedono split ora.
+- **Separazione principi/esempi**: già rispettata (`differenziazione-operativa.md` vs `esempi-di-differenziazione.md`, con richiamo reciproco).
 
-Non introdurre nuova conoscenza e non modificare file congelati.
+Correzioni minime applicate:
 
-## Cambiamenti principali del batch 26–50
+1. `merenda/07_copy_comunicazione/README.md` — rimosso il placeholder "sezione inizialmente vuota", non più coerente con il contenuto già presente (principio su copywriting e price gap).
+2. `merenda/05_acquisizione/README.md` — aggiunta una frase di confine rispetto a `03_offerta` e `06_vendita`, data la scarsità di contenuto nativo della sezione.
 
-### Posizionamento e architettura brand
+Nessun contenuto sostanziale modificato o rimosso. Nessun file congelato toccato. Nessuna conoscenza nuova introdotta. Formalife non è comparsa nella KB.
 
-Sono stati consolidati:
+## Esito FASE 15 — Audit globale della tassonomia
 
-- estensioni di linea e architettura del brand;
-- spin-off e brand separati;
-- sell-in vs domanda reale del cliente finale;
-- gestione economica della rifocalizzazione;
-- commodity differenziate attraverso target/problema/servizio;
-- fase di decollo vs fase in quota;
-- quattro filtri del focus: domanda, differenza reale, marginalità, scalabilità.
+Domanda guida: alla luce di 46 video studiati, la KB verrebbe ancora organizzata nello stesso modo?
 
-Contraddizione importante già risolta con la regola “il materiale più recente prevale”:
+**Conclusione: sì.** Le 11 categorie restano adeguate al corpus attuale (46/468). Nessuna fusione, separazione o ridenominazione di sezione è risultata necessaria a questo stadio.
 
-- nel 2016 Frank usava il concetto di *family brand*;
-- il 15 gennaio 2024 lo rifiuta esplicitamente come guida operativa;
-- la KB attiva mantiene la formulazione 2024 e tratta quella 2016 come superseded.
+### Classificazione preliminare dei contenuti non ancora studiati
 
-File principali cresciuti:
+Il problema reale individuato riguardava `sources/VIDEO_INDEX.md` e `sources/queue/QUEUE.md`: un blocco di ~103 video non ancora studiati era classificato genericamente come `04_marketing`, mentre molti titoli indicavano con ragionevole sicurezza una categoria più specifica già esistente in tassonomia.
 
-- `merenda/02_posizionamento/differenziazione-operativa.md`
-- `merenda/02_posizionamento/estensioni-di-linea-e-architettura-brand.md`
-- `merenda/02_posizionamento/esempi-di-differenziazione.md`
+Applicata una riclassificazione conservativa, riproducibile (regole per parole chiave IT/EN sui titoli + una lista esplicita di override per case study aziendali riconoscibili — es. Mortadella Shop, Coca-Cola, Tesla, Nutella, Barilla, Dyson, Ducati, Chiara Ferragni/Balocco), applicata **solo** ai contenuti `DA STUDIARE`:
 
-### Offerta e pricing
+- 40 video su 418 non ancora studiati sono stati spostati dal bucket generico (o da una categoria palesemente errata) a una categoria più precisa:
+  - `10_casi_studio`: +24 (case study aziendali riconoscibili nel titolo)
+  - `09_business`: +10 (assunzioni, mentalità imprenditoriale, truffe/investimenti, CRM)
+  - `01_mercato`: +3 (segmento clienti alto-spendenti)
+  - `07_copy_comunicazione`: +1 (call to action)
+  - `05_acquisizione`: +1 (email marketing come canale)
+  - `03_offerta`: +1 (garanzia)
+- I restanti ~110 video il cui titolo non permette una classificazione più precisa senza vedere il contenuto sono rimasti in `04_marketing`: per regola RULES §5 si corregge solo quando ragionevolmente sicuri; la conferma definitiva avviene alla fase 8+ in ingestione.
 
-Creato e sviluppato:
+### Riordino della queue (solo contenuti non ancora studiati)
 
-- `merenda/03_offerta/offerta-a-risposta-diretta.md`
+I 418 video `DA STUDIARE` (ordine 51–468) sono stati riordinati secondo la sequenza macro già dichiarata in `QUEUE.md` (mercato → posizionamento → offerta → marketing → acquisizione → vendita → comunicazione → brand → business → casi studio), con gli Shorts posposti ai video lunghi **all'interno di ciascuna categoria** (prima erano sparsi fuori sequenza, es. dopo i blocchi `09_business`/`10_casi_studio`).
 
-Aggiornati in profondità:
+I 50 video già `STUDIATO`/`ESCLUSO` (ordine 1–50) **non sono stati toccati**: stesso ordine, stessa categoria, stesso stato.
 
-- `merenda/03_offerta/prezzo-premium-e-percezione-del-valore.md`
-- `merenda/03_offerta/front-end-e-back-end.md`
+Verifiche di integrità eseguite:
 
-Concetti consolidati:
+- stessi 468 ID video presenti prima e dopo, nessuna perdita/duplicazione;
+- `Ordine` sequenziale 1–468 in entrambi i file;
+- `sources/queue/QUEUE.md` e `sources/VIDEO_INDEX.md` perfettamente sincronizzati (stesso ordine, stessa categoria per ogni ID).
 
-- offerta come richiesta di risposta misurabile;
-- “più che gratis”;
-- esca/front-end distinta dalla monetizzazione backend;
-- garanzia come trasferimento del rischio;
-- diagnosi dell'offerta dai risultati del funnel;
-- upsell, cross-sell e recupero del quasi-acquisto;
-- prezzo testato per cluster;
-- sweet spot prezzo/margine/clienti;
-- ammiraglia e offerta VIP;
-- pricing situazionale;
-- pre-motivazione del price gap;
-- evitare l'auto-sconto del venditore.
+`sources/queue/next-batch.txt` **non è stato modificato**: come documentato in `scripts/README.md`, registra un batch già acquisito in passato, non è la queue canonica.
 
-Le formulazioni assolute più vecchie sul prezzo sono già subordinate al materiale 2024–2025, che richiede target corretto, capacità di spesa, differenziazione e test economici.
+### Effetto sul prossimo video
 
-### Mercato, vendita e numeri
+Il primo video non completato non è più `bHxjwGQQoUw` ma **`AAiq6RnCysE`** — *Come comprano i ricchi? [Quelli veri]* (`01_mercato`). Nessun asset tecnico presente su disco per questo video.
 
-Creato:
+`bHxjwGQQoUw` ha già un'acquisizione tecnica parziale (`info.json` + `it-orig.json3` presenti in `sources/transcripts/`) da un batch precedente; ora si trova più avanti nel blocco `04_marketing` riordinato. Questo lavoro parziale non è perso: verrà riutilizzato quando toccherà il suo turno nella queue corretta.
 
-- `merenda/01_mercato/quattro-domande-prima-di-lanciare.md`
-
-La checklist distingue:
-
-1. domanda/problema reale;
-2. raggiungibilità del target;
-3. capacità di acquisto;
-4. trend del mercato.
-
-È volutamente distinta dai quattro filtri del focus di posizionamento.
-
-Aggiornati anche:
-
-- `merenda/06_vendita/prequalifica-follow-up-decisori.md`
-- `merenda/09_business/numeri-cassa-e-crescita.md`
-- `merenda/00_fondamenti/marketing-first.md`
-
-## Punti da controllare nella fase 14
-
-Controllare soprattutto:
-
-- sovrapposizioni tra `00_fondamenti` e `04_marketing`;
-- confine tra `01_mercato` e `02_posizionamento`;
-- confine tra `03_offerta`, `05_acquisizione` e `06_vendita`;
-- duplicazioni tra i numerosi principi su focus, pricing e front-end;
-- dimensione dei file maggiormente cresciuti;
-- routing dei README e di `merenda/INDEX.md`;
-- link interni e anchor;
-- separazione tra principi ed esempi/casi.
-
-Preservare il contenuto sostanziale: refactor significa migliorare gerarchia, routing e consumo token, non riscrivere liberamente la dottrina.
-
-## Punti da controllare nella fase 15
-
-La tassonomia iniziale era volutamente provvisoria.
-
-Dopo 50 contenuti, verificare se:
-
-- le categorie attuali restano adeguate;
-- i confini tra sezioni devono cambiare;
-- alcuni file meritano spostamento/ridenominazione;
-- la queue futura deve essere riordinata per aumentare qualità e coerenza del learning path;
-- la classificazione preliminare molto ampia `04_marketing` dei video successivi va raffinata.
-
-Claude può riordinare **solo i contenuti non ancora processati**.
-
-## Regole da preservare
+## Regole preservate
 
 - MERGE, NON APPEND.
 - Formalife resta completamente fuori dalla KB.
-- Materiale più recente prevale in caso di contraddizione reale.
-- Guest content non viene attribuito a Frank.
-- Nessuna nuova burocrazia, claim database o schema complesso.
-- `sources/transcripts/` resta archivio; `merenda/` resta il prodotto vivo.
-- Ottimizzare routing e consumo token.
-- Non modificare file congelati.
+- Materiale più recente prevale in caso di contraddizione (nessuna nuova contraddizione emersa in questo checkpoint).
+- Nessuna nuova burocrazia, claim database o schema complesso introdotto.
+- File congelati non toccati.
+- Nessuna conoscenza nuova introdotta nella KB: le uniche modifiche a `merenda/` sono le due correzioni di routing/testo elencate sopra.
 
 ## Dopo Claude
 
 Il prossimo contenuto non processato è:
 
-`bHxjwGQQoUw` — *Can an SME WIN ON THE MARKET and beat the giants in its sector?*
+`AAiq6RnCysE` — *Come comprano i ricchi? [Quelli veri]* (`01_mercato`).
 
-Gli asset tecnici del video 51 **non sono presenti** nel repository.
+Asset tecnici: **NON PRESENTI**.
 
-Dopo fase 14 + fase 15, se il corpus resta incompleto, impostare:
+`Agente richiesto: CODEX` per l'acquisizione del prossimo batch tecnico (proposto: ordine 51–75 della queue corretta), poi ritorno a ChatGPT per le fasi 8–13.
 
-`Agente richiesto: CODEX`
-
-e richiedere l'acquisizione tecnica del prossimo batch, idealmente video 51–75, quindi restituire il controllo a ChatGPT per le fasi 8–13.
+Prossimo checkpoint Claude: dopo il video 75 (fase 14).
