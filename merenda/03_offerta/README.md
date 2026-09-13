@@ -1,6 +1,6 @@
 # Offerta
 
-[Front-end e back-end](front-end-e-back-end.md): funzione della prima vendita, monetizzazione successiva e condizioni economiche.
+[Front-end e monetizzazione successiva](front-end-e-back-end.md): funzione della prima vendita, monetizzazione successiva e condizioni economiche.
 
 Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 
