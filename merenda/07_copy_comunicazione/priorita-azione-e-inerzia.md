@@ -71,6 +71,46 @@ Questo aggiorna il principio della priorità: il copy non deve solo spiegare con
 
 Fonte: [Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni](https://www.youtube.com/watch?v=MuHs2UrVGEg), 27 settembre 2024. [Revisione](../../sources/transcripts/MuHs2UrVGEg.review.md).
 
+
+## Progettare a ritroso dalla call to action
+
+Nel materiale del 23 marzo 2023 Merenda propone di costruire ogni pezzo di comunicazione **partendo mentalmente dalla risposta desiderata**.
+
+Prima di scrivere l'email, registrare il video, progettare la pagina o creare l'annuncio, la domanda è:
+
+**“che cosa voglio che questa persona faccia subito dopo?”**
+
+L'azione può essere:
+
+- lasciare i dati;
+- richiedere un materiale;
+- guardare il contenuto successivo;
+- prenotare;
+- venire in negozio;
+- chiedere una consulenza;
+- provare;
+- acquistare.
+
+Solo dopo aver scelto il passo successivo si costruiscono messaggio, argomentazione e formato che devono portare lì.
+
+Questo evita il processo inverso:
+
+**“ho creato un contenuto; adesso cosa gli chiedo di fare?”**
+
+La call to action deve inoltre essere **osservabile e misurabile** quando possibile. Una risposta misurabile crea un dato sul quale intervenire: si può aumentare ciò che funziona e modificare ciò che non funziona.
+
+Il principio completa la sequenza già consolidata:
+
+**attenzione → significato → azione successiva**
+
+aggiungendo una regola di progettazione:
+
+**azione desiderata → costruzione a ritroso del messaggio → misurazione della risposta.**
+
+Gli altri elementi della checklist direct response del video — offerta, bonus, urgenza, garanzia, fast-action bonus e scadenza — sono consolidati in forma più recente nel documento sull'[offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md).
+
+Fonte: [Marketing a Risposta Diretta — Come farlo nel modo giusto?](https://www.youtube.com/watch?v=Aq0dxMu8AqU), 23 marzo 2023. [Revisione](../../sources/transcripts/Aq0dxMu8AqU.review.md).
+
 ## Ogni comunicazione deve spostare la persona
 
 Merenda insiste sul fatto che attenzione ed entusiasmo sono instabili.
