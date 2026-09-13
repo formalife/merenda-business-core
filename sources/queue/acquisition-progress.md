@@ -15,7 +15,7 @@ Completati tecnicamente: 25/25
 | 6 | WSYK8uA39Rg | Come vendere prodotti banali e difficili da differenziare | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | b9iVR8qJn-A | BRAND POSITIONING \| CHI Guadagna DAVVERO dalle Estensioni di Linea? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | AgH3SOnS7Kc | Kinder Ferrero e il Marketing: Tempo di Focus | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | GsmDyZQeYUM | Brand Positioning \| Il più grande FLOP di FERRERO [La vera storia] | ERROR | Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/raffaele/Projects/formalife-zero/scripts/transcript.py', 'GsmDyZQeYUM']' returned non-zero exit status 1. |
+| 9 | GsmDyZQeYUM | Brand Positioning \| Il più grande FLOP di FERRERO [La vera storia] | RECOVERED | JSON3 italiano presente: metadata e transcript Markdown ricostruiti successivamente su GitHub; revisione semantica completata. |
 | 10 | vvpLVofHhHM | Da Locali a Globali: Segreti del Posizionamento di Brand di Moda di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | hF9Xoc9hnHE | Brand Positioning vs Marketing Accademico | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | Cqtu8BIvyto | 🔴 Direct Response Marketing: The Power of an Unbeatable Offer | ACQUIRED | Metadata + transcript Markdown disponibili. |
@@ -32,3 +32,13 @@ Completati tecnicamente: 25/25
 | 23 | TXGgnHLVhvA | Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | KGPCinmAcoo | [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 25 | pg6obSMYC0o | Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | ACQUIRED | Metadata + transcript Markdown disponibili. |
+
+
+## Chiusura semantica del batch
+
+Il batch 26–50 è stato completamente processato semanticamente.
+
+- 22 acquisizioni standard utilizzate;
+- 2 video senza transcript italiano (`5gKmC-QQlhA`, `r8wi8vzz61w`) identificati come lezioni ospite Ries ed esclusi dalla dottrina attiva;
+- `GsmDyZQeYUM` recuperato dal JSON3 italiano dopo l'errore di conversione;
+- tutti i 25 contenuti del batch hanno ora stato semantico definitivo `STUDIATO` o `ESCLUSO`.

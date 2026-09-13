@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=KGPCinmAcoo
 Data pubblicazione: 20161017
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `KGPCinmAcoo.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:01] budget Il denaro non è mai un problema
 
