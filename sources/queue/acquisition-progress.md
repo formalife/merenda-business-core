@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:38:21.546200+00:00
+Ultimo aggiornamento: 2026-09-13T08:38:27.320185+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | dC6avQzKliQ | Il segreto di TESLA: perché vende 10 volte di più dei colossi dell'Automotive? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | d1xejlyQVWM | La Battaglia del Thé | PENDING |  |
+| 20 | d1xejlyQVWM | La Battaglia del Thé | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | AG7Gi9sPBRs | How do you get rich (for real)? | PENDING |  |
 | 22 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | PENDING |  |
 | 23 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | PENDING |  |
