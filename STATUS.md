@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 0/25 completati.**
+**Elaborazione semantica del batch 126–150 — 1/25 completato; continuare dal contenuto 127.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 125
+- Contenuti processati semanticamente: 126
 - STUDIATO / integrati nella KB: 121
-- ESCLUSO dalla dottrina attiva: 4
-- Da processare: 343
+- ESCLUSO dalla dottrina attiva: 5
+- Da processare: 342
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
-- Elaborazione semantica 126–150: 0/25 completati
+- Elaborazione semantica 126–150: 1/25 completato
 
 ## Workflow attivo — v1.1
 
@@ -64,9 +64,9 @@ Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. N
 
 ## Next Action
 
-Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 126:
+Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 127:
 
-`dwfknCGx8UI` — *MARKETING | Diventare il punto di riferimento per il tuo Settore [Jay Abraham]* — `04_marketing`.
+`dJ90FSzTCTg` — *CORSO DI MARKETING per trovare nuovi clienti* — `04_marketing`.
 
 Per ogni contenuto:
 1. revisione/correzione ragionevole del transcript;
@@ -83,7 +83,7 @@ Non saltare contenuti della queue per completare quelli successivi.
 
 ## Primo pendente
 
-`dwfknCGx8UI` — *MARKETING | Diventare il punto di riferimento per il tuo Settore [Jay Abraham]* — `04_marketing` — posizione 126.
+`dJ90FSzTCTg` — *CORSO DI MARKETING per trovare nuovi clienti* — `04_marketing` — posizione 127.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
