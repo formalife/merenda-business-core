@@ -136,7 +136,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 124 | [_zqwnqzzv-4](https://www.youtube.com/watch?v=_zqwnqzzv-4) — Marketing and Product Launch Strategies | 04_marketing | STUDIATO |
 | 125 | [0qipJSkZxmg](https://www.youtube.com/watch?v=0qipJSkZxmg) — Il Marketing non è un’azione singola ma un metodo | 04_marketing | STUDIATO |
 | 126 | [dwfknCGx8UI](https://www.youtube.com/watch?v=dwfknCGx8UI) — MARKETING &#124; Diventare il punto di riferimento per il tuo Settore [Jay Abraham] | 04_marketing | ESCLUSO |
-| 127 | [dJ90FSzTCTg](https://www.youtube.com/watch?v=dJ90FSzTCTg) — CORSO DI MARKETING per trovare nuovi clienti | 04_marketing | DA STUDIARE |
+| 127 | [dJ90FSzTCTg](https://www.youtube.com/watch?v=dJ90FSzTCTg) — CORSO DI MARKETING per trovare nuovi clienti | 04_marketing | STUDIATO |
 | 128 | [0uWKdM51ZsI](https://www.youtube.com/watch?v=0uWKdM51ZsI) — MARKETING &#124; Il principio di Autorità per i Clienti | 04_marketing | DA STUDIARE |
 | 129 | [Rg6q7ynXdrM](https://www.youtube.com/watch?v=Rg6q7ynXdrM) — Marketing Strategies &#124; Why You Need to Track All Your Campaigns | 04_marketing | DA STUDIARE |
 | 130 | [_i0O0tp74oQ](https://www.youtube.com/watch?v=_i0O0tp74oQ) — Strategia di Marketing &#124; Il triangolo della Manipolazione di Dan Kennedy | 04_marketing | DA STUDIARE |

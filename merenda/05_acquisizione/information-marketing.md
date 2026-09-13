@@ -123,6 +123,27 @@ Le durate televisive e la struttura in blocchi citate nel video derivano dall'in
 
 Fonte: [Le Strategie di Marketing per trovare nuovi clienti](https://www.youtube.com/watch?v=qQ8htL2fA9o), 6 giugno 2023. [Revisione](../../sources/transcripts/qQ8htL2fA9o.review.md).
 
+
+## Stati della relazione: non ogni contatto è un “cliente”
+
+Nel materiale del 7 settembre 2022 Merenda distingue sette stati operativi della relazione:
+
+1. **potenziale cliente** — non conosce ancora l'azienda;
+2. **prospect** — ha già incontrato il marketing ma non ha ancora acquistato;
+3. **cliente perso/fermo** — ha già comprato ma non è più attivo;
+4. **referral** — arriva presentato da qualcuno che conosce già l'azienda;
+5. **acquirente** — ha effettuato una prima transazione;
+6. **cliente** — ha dimostrato continuità con un acquisto successivo o una relazione ricorrente;
+7. **fan** — ha un livello di fiducia tale da comprare con elevata predisposizione e sostenere attivamente il brand.
+
+I nomi non vanno trattati come tassonomia universale immutabile. La funzione utile è distinguere **quanto lavoro di fiducia e conversione resta da fare**.
+
+Una campagna rivolta a sconosciuti non equivale quindi a una campagna verso clienti già acquisiti. I potenziali clienti tendono a richiedere più tempo, educazione e capitale; prospect, clienti fermi, referral e clienti attivi partono invece da livelli diversi di conoscenza e fiducia.
+
+Il video 2022 insiste sul fatto che chiamare genericamente tutto “acquisizione clienti” nasconde questa differenza. La formulazione più recente del 2025 sulla priorità commerciale resta quella riportata in [Riattivazione dei clienti fermi](../04_marketing/riattivazione-clienti.md): prima lavorare sulle relazioni già costruite quando economicamente sensato, poi sulla domanda completamente nuova.
+
+Fonte precedente: [CORSO DI MARKETING per trovare nuovi clienti](https://www.youtube.com/watch?v=dJ90FSzTCTg), 7 settembre 2022. [Revisione](../../sources/transcripts/dJ90FSzTCTg.review.md).
+
 ## Focalizzare l'offerta, diversificare le porte di ingresso
 
 Merenda contrappone due comportamenti:

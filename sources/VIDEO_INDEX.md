@@ -135,7 +135,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 125 | _zqwnqzzv-4 | da acquisire | [Marketing and Product Launch Strategies](https://www.youtube.com/watch?v=_zqwnqzzv-4) | 6135.0 | 04_marketing | 2 | STUDIATO | videos |
 | 126 | 0qipJSkZxmg | da acquisire | [Il Marketing non è un’azione singola ma un metodo](https://www.youtube.com/watch?v=0qipJSkZxmg) | 1237.0 | 04_marketing | 2 | STUDIATO | videos |
 | 127 | dwfknCGx8UI | da acquisire | [MARKETING &#124; Diventare il punto di riferimento per il tuo Settore [Jay Abraham]](https://www.youtube.com/watch?v=dwfknCGx8UI) | 5064.0 | 04_marketing | 2 | ESCLUSO | videos |
-| 128 | dJ90FSzTCTg | da acquisire | [CORSO DI MARKETING per trovare nuovi clienti](https://www.youtube.com/watch?v=dJ90FSzTCTg) | 4783.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 128 | dJ90FSzTCTg | da acquisire | [CORSO DI MARKETING per trovare nuovi clienti](https://www.youtube.com/watch?v=dJ90FSzTCTg) | 4783.0 | 04_marketing | 2 | STUDIATO | videos |
 | 129 | 0uWKdM51ZsI | da acquisire | [MARKETING &#124; Il principio di Autorità per i Clienti](https://www.youtube.com/watch?v=0uWKdM51ZsI) | 824.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 130 | Rg6q7ynXdrM | da acquisire | [Marketing Strategies &#124; Why You Need to Track All Your Campaigns](https://www.youtube.com/watch?v=Rg6q7ynXdrM) | 597.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 131 | _i0O0tp74oQ | da acquisire | [Strategia di Marketing &#124; Il triangolo della Manipolazione di Dan Kennedy](https://www.youtube.com/watch?v=_i0O0tp74oQ) | 886.0 | 04_marketing | 2 | DA STUDIARE | videos |
