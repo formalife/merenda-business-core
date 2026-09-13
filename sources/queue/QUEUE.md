@@ -116,7 +116,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 104 | [J7WZ-gzN3zg](https://www.youtube.com/watch?v=J7WZ-gzN3zg) — Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | 04_marketing | STUDIATO |
 | 105 | [68H6aOPXITg](https://www.youtube.com/watch?v=68H6aOPXITg) — Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | 04_marketing | STUDIATO |
 | 106 | [FIOKn72b_Bk](https://www.youtube.com/watch?v=FIOKn72b_Bk) — 3 Techniques (You Don't Know About) to Power Your Marketing | 04_marketing | STUDIATO |
-| 107 | [4beA9XR2tHE](https://www.youtube.com/watch?v=4beA9XR2tHE) — La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | 04_marketing | DA STUDIARE |
+| 107 | [4beA9XR2tHE](https://www.youtube.com/watch?v=4beA9XR2tHE) — La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | 04_marketing | STUDIATO |
 | 108 | [Qlk15QgvaK4](https://www.youtube.com/watch?v=Qlk15QgvaK4) — MARKETING per DENTISTI &#124; Cosa Succede quando un Dentista fa Marketing? | 04_marketing | DA STUDIARE |
 | 109 | [3oDGQ4SImC8](https://www.youtube.com/watch?v=3oDGQ4SImC8) — RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | 04_marketing | DA STUDIARE |
 | 110 | [tcOwLBoPC-8](https://www.youtube.com/watch?v=tcOwLBoPC-8) — Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi? | 04_marketing | DA STUDIARE |

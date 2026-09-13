@@ -100,6 +100,36 @@ Il materiale specifico su strumenti logistici e piattaforme del 2022 non viene c
 
 Fonte: [Come aprire un'attività senza soldi — Dropshipping Made in Italy](https://www.youtube.com/watch?v=KyHZ4zR6AbU), 12 luglio 2022. [Revisione](../../sources/transcripts/KyHZ4zR6AbU.review.md).
 
+
+## Lancio: comprare apprendimento prima di pretendere margine
+
+Nel materiale del 17 giugno 2024 Merenda propone, per un prodotto/servizio nuovo o per chi parte senza prove, di non usare automaticamente **prezzo basso** come scorciatoia per ottenere i primi clienti.
+
+La priorità iniziale è creare rapidamente un ciclo di apprendimento reale:
+
+**prova → feedback → miglioramento → prova sociale → clienti paganti**
+
+Una modalità descritta è offrire temporaneamente:
+
+- una prova gratuita;
+- un'analisi/consulenza preliminare gratuita;
+- oppure, come variante, chiedere al cliente di destinare a beneficenza l'importo che avrebbe pagato.
+
+Il punto non è che ogni business debba regalare il prodotto principale. Per beni costosi o non regalabili può essere gratuita la componente di diagnosi, prova, analisi o accesso iniziale.
+
+In cambio l'impresa cerca quattro cose:
+
+1. capire se il cliente vuole continuare a pagamento;
+2. ottenere feedback operativo per migliorare ciò che ancora non è testato;
+3. raccogliere recensioni/testimonianze quando meritate;
+4. chiedere referral in modo esplicito.
+
+L'idea è evitare di monetizzare aggressivamente un'offerta che non ha ancora abbastanza prove, processi e casi di successo, rischiando reputazione prima di aver imparato.
+
+Nel video Merenda propone anche l'euristica “10 testimonianze → +20% di prezzo” ripetuta fino al punto in cui la conversione peggiora. La KB non la assume come legge generale: il materiale più recente sul pricing prevale e richiede **test economici su conversione, margine, target e domanda**. Resta valido il principio di aumentare progressivamente il prezzo quando prova, valore e capacità dell'offerta crescono.
+
+Fonte: [La Strategia Di Marketing #1 Per Chi Parte Da Zero](https://www.youtube.com/watch?v=4beA9XR2tHE), 17 giugno 2024. [Revisione](../../sources/transcripts/4beA9XR2tHE.review.md).
+
 ## Dopo l'avvio: reinvestire
 
 Una volta costruito il business, il flusso di cassa positivo può essere reinvestito per anni in:

@@ -114,7 +114,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 104 | J7WZ-gzN3zg | da acquisire | [Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400%](https://www.youtube.com/watch?v=J7WZ-gzN3zg) | 637.0 | 04_marketing | 2 | STUDIATO | videos |
 | 105 | 68H6aOPXITg | da acquisire | [Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito]](https://www.youtube.com/watch?v=68H6aOPXITg) | 494.0 | 04_marketing | 2 | STUDIATO | videos |
 | 106 | FIOKn72b_Bk | da acquisire | [3 Techniques (You Don't Know About) to Power Your Marketing](https://www.youtube.com/watch?v=FIOKn72b_Bk) | 669.0 | 04_marketing | 2 | STUDIATO | videos |
-| 107 | 4beA9XR2tHE | da acquisire | [La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto]](https://www.youtube.com/watch?v=4beA9XR2tHE) | 792.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 107 | 4beA9XR2tHE | da acquisire | [La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto]](https://www.youtube.com/watch?v=4beA9XR2tHE) | 792.0 | 04_marketing | 2 | STUDIATO | videos |
 | 108 | UL7p310omY8 | da acquisire | [Marketing per CENTRI ESTETICI &#124; Come Raddoppiare il Fatturato in 1 Mese](https://www.youtube.com/watch?v=UL7p310omY8) | 143.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 109 | Qlk15QgvaK4 | da acquisire | [MARKETING per DENTISTI &#124; Cosa Succede quando un Dentista fa Marketing?](https://www.youtube.com/watch?v=Qlk15QgvaK4) | 351.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 110 | 3oDGQ4SImC8 | da acquisire | [RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant](https://www.youtube.com/watch?v=3oDGQ4SImC8) | 187.0 | 04_marketing | 2 | DA STUDIARE | videos |
