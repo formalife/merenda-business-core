@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:36:58.337439+00:00
+Ultimo aggiornamento: 2026-09-13T08:37:02.603219+00:00
 
 Batch: 25 video
-Completati tecnicamente: 4/25
+Completati tecnicamente: 5/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -11,7 +11,7 @@ Completati tecnicamente: 4/25
 | 2 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | dqAy1D8TnyQ | How to find new clients by dominating with information | PENDING |  |
+| 5 | dqAy1D8TnyQ | How to find new clients by dominating with information | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | ERjFJYE6fXc | The True Story of Frank Merenda | PENDING |  |
 | 7 | 6sNjbCGzd2A | How to Create an Effective Call to Action | PENDING |  |
 | 8 | asMedYJtd4I | CONCORRENZA SLEALE dei dipendenti? | PENDING |  |
