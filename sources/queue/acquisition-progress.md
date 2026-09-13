@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:37:52.947007+00:00
+Ultimo aggiornamento: 2026-09-13T08:37:57.698176+00:00
 
 Batch: 25 video
-Completati tecnicamente: 14/25
+Completati tecnicamente: 15/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -21,7 +21,7 @@ Completati tecnicamente: 14/25
 | 12 | -k-APTf2heA | Come Fare Soldi: Il Corso Completo | ERROR | Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '/Users/raffaele/Projects/formalife-zero-acquisition/scripts/transcript.py', '-k-APTf2heA']' returned non-zero exit status 2. |
 | 13 | WLNsk8EVUjQ | LIVE Domande e Risposte con Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | tIpkQLqsPUI | I Miei Consigli per il 2024 | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | PENDING |  |
+| 15 | abr257wwW3U | CHIARA FERRAGNI e il caso del PANDORO BALOCCO | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | cPDsbG0fZ_I | L'Impero del Miele: Come diventare ricchi con un solo prodotto | PENDING |  |
 | 17 | QlCVKca7Ygk | Come si diventa RICCHI con le sneakers? | PENDING |  |
 | 18 | h5e1TxDcVV0 | Coca Cola: Il Suo Errore Più Grande | PENDING |  |
