@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:32.737502+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:34.534012+00:00
 
 Batch: 25 video
-Completati tecnicamente: 7/25
+Completati tecnicamente: 8/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -14,7 +14,7 @@ Completati tecnicamente: 7/25
 | 5 | bHxjwGQQoUw | Can an SME WIN ON THE MARKET and beat the giants in its sector? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | dqAy1D8TnyQ | How to find new clients by dominating with information | PENDING |  |
+| 8 | dqAy1D8TnyQ | How to find new clients by dominating with information | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | ERjFJYE6fXc | The True Story of Frank Merenda | PENDING |  |
 | 10 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | PENDING |  |
 | 11 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | PENDING |  |
