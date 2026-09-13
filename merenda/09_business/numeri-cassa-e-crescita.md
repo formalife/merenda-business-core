@@ -22,6 +22,27 @@ Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto
 
 Una campagna che incassa dopo dieci giorni impegna la cassa diversamente da una che incassa dopo mesi. La durata dell'esposizione va progettata e controllata: avere lead in un database non equivale a disporre di liquidità. L'acquisizione deve quindi essere coerente con il [sistema di offerte e monetizzazione](../03_offerta/front-end-e-back-end.md).
 
+## Cassa reale, cash flow neutro e previsionale
+
+Nel materiale sulla gestione dell'impresa in condizioni di forte incertezza Merenda separa nettamente **cassa reale** e valori che non sono ancora disponibili sul conto.
+
+Fatture emesse, crediti e pagamenti promessi non vanno trattati come liquidità già disponibile. Quando la capacità di incasso è incerta, il piano operativo deve partire dai soldi effettivamente presenti e dagli incassi realmente attesi nel periodo considerato.
+
+La priorità immediata è portare il flusso di cassa almeno a **neutralità**: gli incassi reali devono riuscire a coprire le uscite reali nel breve periodo. È un controllo diverso dal limitarsi a guardare il risultato economico dell'esercizio.
+
+In una fase di elevata incertezza Merenda propone di:
+
+- proteggere le riserve di cassa senza interrompere indiscriminatamente pagamenti necessari a mantenere operativa la catena di fornitura;
+- costruire un **rendiconto finanziario previsionale** con orizzonte di almeno tre mesi;
+- articolare il previsionale su base settimanale;
+- controllarlo con frequenza molto ravvicinata e aggiornarlo quando cambiano gli incassi o le uscite previste;
+- prendere decisioni sulla realtà dei flussi, non sull'ottimismo riguardo a crediti o ricavi futuri.
+
+Il principio riusabile è che l'incertezza richiede **più intensità nella gestione finanziaria**, non meno: quando la visibilità diminuisce, l'imprenditore deve aumentare frequenza e precisione con cui legge la cassa.
+
+Le affermazioni sanitarie e le previsioni contingenti sulla crisi COVID presenti nella lezione non vengono consolidate nella KB: non sono necessarie al principio economico.
+
+Fonte: [Come fare Marketing in momenti di crisi — Parte 2](https://www.youtube.com/watch?v=-GsWbIj44dQ), 12 gennaio 2023. [Revisione](../../sources/transcripts/-GsWbIj44dQ.review.md).
 
 ## Acquisizione B2B, lifetime value e finestra temporale
 
@@ -54,7 +75,6 @@ Il principio non autorizza a ignorare la cassa: il tempo di rientro resta una va
 Fonti:
 - [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
 - [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024.
-
 
 ## Incentivi diversi lungo la catena
 
