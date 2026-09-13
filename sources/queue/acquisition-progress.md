@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:05:48.871236+00:00
+Ultimo aggiornamento: 2026-09-13T13:05:52.576022+00:00
 
 Batch: 25 video
-Completati tecnicamente: 17/25
+Completati tecnicamente: 18/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -24,7 +24,7 @@ Completati tecnicamente: 17/25
 | 15 | JUaqpqx6G-8 | [Strategie di Marketing] Bisogno di Reciprocità | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | Slo-0E7GU4o | MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | aRCppOvE-js | Tecniche di Marketing per Aspiranti Formatori e Coach | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | jcVKVKvy78k | Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | PENDING |  |
+| 18 | jcVKVKvy78k | Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
 | 19 | Sjmvw03Oxqc | Spot Anni '80: Il MARKETING della nostra infanzia! | PENDING |  |
 | 20 | F1seup0MuLk | Come fare una campagna marketing di successo \| La piramide del Marketing | PENDING |  |
 | 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | PENDING |  |
