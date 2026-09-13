@@ -143,7 +143,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 133 | qQBDw9iCsyU | da acquisire | [Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base?](https://www.youtube.com/watch?v=qQBDw9iCsyU) | 316.0 | 09_business | 2 | STUDIATO | videos |
 | 134 | ZX0vgJeuQwo | da acquisire | [FRANK MERENDA - OTHERWISE WE SNACK &#124; The #1 Marketing Channel in Europe](https://www.youtube.com/watch?v=ZX0vgJeuQwo) | 95.0 | 04_marketing | 2 | ESCLUSO | videos |
 | 135 | APp6ir-U60c | da acquisire | [DIRECT MARKETING and Direct Mail Packages &#124; Differences between B2B and B2C](https://www.youtube.com/watch?v=APp6ir-U60c) | 345.0 | 04_marketing | 2 | STUDIATO | videos |
-| 136 | 7GuscYYUBXY | da acquisire | [MARKETING per CENTRI ESTETICI &#124; Quanto conta la Specializzazione?](https://www.youtube.com/watch?v=7GuscYYUBXY) | 189.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 136 | 7GuscYYUBXY | da acquisire | [MARKETING per CENTRI ESTETICI &#124; Quanto conta la Specializzazione?](https://www.youtube.com/watch?v=7GuscYYUBXY) | 189.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 137 | Ip7igFZfcwo | da acquisire | [MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social?](https://www.youtube.com/watch?v=Ip7igFZfcwo) | 205.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 138 | kNAdI1VyIJU | da acquisire | [MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia]](https://www.youtube.com/watch?v=kNAdI1VyIJU) | 140.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 139 | ddb6CBRIYiU | da acquisire | [MARKETING &#124; Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza](https://www.youtube.com/watch?v=ddb6CBRIYiU) | 5081.0 | 04_marketing | 2 | DA STUDIARE | videos |
