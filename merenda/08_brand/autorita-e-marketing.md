@@ -107,6 +107,24 @@ Il numero specifico citato è un caso personale, non una formula universale. Il 
 
 Se l'autorità manca, anche buon copy, advertising e lead generation devono lavorare contro una quota maggiore di diffidenza.
 
+
+## L'autorità aumenta quanto può essere diagnostica la comunicazione
+
+Nel materiale del 6 novembre 2024 Merenda collega l'autorità non solo alla fiducia iniziale, ma anche alla **forza del messaggio**.
+
+Un soggetto percepito come sconosciuto deve spesso essere più diplomatico; un soggetto che ha già costruito prove e autorevolezza può permettersi di:
+
+- contestare comportamenti abituali del cliente;
+- indicare errori;
+- mostrare conseguenze scomode;
+- prescrivere un approccio differente.
+
+Il punto non è essere aggressivi per stile. È guadagnare abbastanza credibilità da poter dire cose che aiutano il prospect anche quando non sono piacevoli da sentire.
+
+Questo converge con la [vendita consulenziale](../06_vendita/prequalifica-follow-up-decisori.md#vendita-consulenziale-diagnosi-fatti-e-prescrizione): autorità e prove preparano il diritto di diagnosticare e prescrivere prima e durante la trattativa.
+
+Fonte: [Campagne Di Marketing — 3 Azioni Infallibili Per Generare Profitto Immediato](https://www.youtube.com/watch?v=kmtvBlfL25I), 6 novembre 2024. [Revisione](../../sources/transcripts/kmtvBlfL25I.review.md).
+
 ## Rapporto con gli insegnamenti successivi
 
 In questa lezione del 2022 Merenda contrappone authority marketing e lead generation alla vendita a freddo, che descrive come superata.

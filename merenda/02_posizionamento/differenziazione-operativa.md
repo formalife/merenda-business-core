@@ -8,6 +8,25 @@ Il posizionamento non consiste nel trovare parole nuove per l'azienda di sempre.
 
 Invita a mettere in discussione le convenzioni del settore, anziché copiarne il leader. Nei suoi esempi la differenza può riguardare produzione, consegna, assistenza, accoglienza, comunicazione ed esperienza complessiva. La reazione critica di concorrenti ed esperti è presentata come un segnale della distanza dalle consuetudini; non viene proposta una misurazione economica autonoma basata sulle critiche. [24:29–30:42](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=1469s)
 
+
+## Reverse engineering dalle lamentele, non dalle tattiche dei concorrenti
+
+Nel materiale del 6 novembre 2024 Merenda propone una forma pratica di ricerca di mercato: studiare ciò che i clienti **criticano** nelle alternative esistenti, invece di limitarsi a copiare ciò che i concorrenti fanno.
+
+Le fonti possono includere recensioni e discussioni su marketplace, motori di ricerca, piattaforme verticali, social, forum e community. Se il mercato locale produce pochi dati, la ricerca può allargarsi a città o mercati più grandi della stessa categoria.
+
+L'analisi deve separare almeno tre famiglie di problemi:
+
+- difetti o limiti del **prodotto**;
+- problemi di **servizio/assistenza**;
+- attriti nella **relazione con l'azienda**.
+
+Il passaggio decisivo è operativo: le lamentele ricorrenti devono essere usate per **riprogettare prodotto, servizio o processo** quando possibile. Solo dopo diventano materiale di posizionamento e comunicazione. Questo rafforza il principio “essere diversi prima di raccontarlo”: il marketing non deve promettere di aver eliminato un difetto che l'azienda continua a produrre.
+
+Come euristica comunicativa Merenda suggerisce anche di chiarire per contrasto **che cosa la proposta non è / quali difetti tipici elimina**, prima di spiegare la differenza positiva. Non è una formula obbligatoria: serve a rendere evidente il contrasto con ciò che il target già rifiuta.
+
+Fonte: [Campagne Di Marketing — 3 Azioni Infallibili Per Generare Profitto Immediato](https://www.youtube.com/watch?v=kmtvBlfL25I), 6 novembre 2024. [Revisione](../../sources/transcripts/kmtvBlfL25I.review.md).
+
 ## Esercizio: cinque convenzioni da cambiare
 
 1. Scrivere almeno cinque frasi del tipo «nel mio settore tutti sanno che si fa così».

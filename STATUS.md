@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 1/25 completati; continuare dal contenuto 102.**
+**Elaborazione semantica del batch 101–125 — 2/25 completati; continuare dal contenuto 103.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 101
-- STUDIATO / integrati nella KB: 97
+- Contenuti processati semanticamente: 102
+- STUDIATO / integrati nella KB: 98
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 367
+- Da processare: 366
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 1/25 completati
+- Elaborazione semantica 101–125: 2/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`kmtvBlfL25I` — *Campagne Di Marketing | 3 Azioni Infallibili Per Generare Profitto Immediato* — `04_marketing`.
+`MuHs2UrVGEg` — *Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
