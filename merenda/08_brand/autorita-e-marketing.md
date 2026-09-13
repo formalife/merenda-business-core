@@ -217,6 +217,29 @@ Per questo la costruzione dell'autorità non si esaurisce nei materiali propri: 
 
 Fonte: [Brand Positioning e processo decisionale - I 3 fattori fondamentali](https://www.youtube.com/watch?v=T6EGhPdoV3c), 30 gennaio 2023. [Revisione](../../sources/transcripts/T6EGhPdoV3c.review.md).
 
+## Storia e passaparola come vantaggio accumulato
+
+Nel materiale del 21 aprile 2026 Merenda chiarisce perché un'impresa tecnicamente valida può perdere clienti contro operatori più vecchi e più noti anche quando non costano meno.
+
+Una parte rilevante dei prospect non sceglie il prezzo più basso: sceglie il soggetto che appare **più sicuro per default** perché:
+
+- esiste da più tempo;
+- è più conosciuto;
+- viene consigliato da più persone;
+- appartiene alla storia locale o familiare della categoria;
+- ha accumulato passaparola per anni o generazioni.
+
+Il leader/co-leader può quindi essere più caro e continuare a vincere perché la storia riduce il rischio percepito.
+
+Questo vantaggio non va interpretato come prova automatica di maggiore qualità tecnica o migliore marketing corrente. È un **asset accumulato nel tempo**.
+
+Per il nuovo entrante la conseguenza è doppia:
+
+1. non attribuire automaticamente ogni mancata vendita al prezzo;
+2. costruire rapidamente prove, autorità, referenze e una differenza abbastanza forte da compensare il vantaggio storico del leader.
+
+Fonte: [Perché i Clienti Non Comprano da Te](https://www.youtube.com/watch?v=h-ngxN8kYPc), 21 aprile 2026. [Revisione](../../sources/transcripts/h-ngxN8kYPc.review.md).
+
 ## Collegamenti
 
 - [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)

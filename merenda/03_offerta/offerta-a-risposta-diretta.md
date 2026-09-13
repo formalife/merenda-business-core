@@ -326,6 +326,30 @@ L'offerta diventa così parte del sistema aziendale, non un'improvvisazione indi
 
 Fonte: [Come Creare un'Offerta Irresistibile (Anche se Costi di Più)](https://www.youtube.com/watch?v=9r2SLDzMPlQ), 5 maggio 2026. [Revisione](../../sources/transcripts/9r2SLDzMPlQ.review.md).
 
+## La garanzia deve essere sostenuta dal processo
+
+Una garanzia forte non è soltanto una frase di copy.
+
+Nel caso del 27 gennaio 2026 Merenda mostra una clinica che garantisce un tempo massimo di attesa: superata la soglia, la paziente riceve un voucher economico.
+
+Per poter promettere questo, l'azienda deve aver già progettato:
+
+- tempi standard;
+- ruoli;
+- flussi;
+- accoglienza;
+- responsabilità;
+- capacità di monitorare lo scostamento;
+- economia sufficiente per sostenere l'eventuale compensazione.
+
+La garanzia diventa quindi un **vincolo operativo autoimposto** che rende visibile una differenza reale.
+
+Più la promessa è aggressiva, più il sistema deve essere capace di mantenerla.
+
+Questo aggiorna il principio di risk reversal: non basta trasferire il rischio al cliente sulla carta; bisogna ingegnerizzare l'azienda affinché la promessa resti sostenibile.
+
+Fonte: [La Garanzia dei 7 Minuti](https://www.youtube.com/watch?v=AzFe_Tfl0tI), 27 gennaio 2026. [Revisione](../../sources/transcripts/AzFe_Tfl0tI.review.md).
+
 ## Il criterio finale
 
 Una grande offerta non è quella con più bonus.
