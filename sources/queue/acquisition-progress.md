@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:23:14.851956+00:00
+Ultimo aggiornamento: 2026-09-13T11:23:20.061298+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | Qlk15QgvaK4 | MARKETING per DENTISTI \| Cosa Succede quando un Dentista fa Marketing? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | 3oDGQ4SImC8 | RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | tcOwLBoPC-8 | Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | 2R2u-O-uoYg | Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | PENDING |  |
+| 11 | 2R2u-O-uoYg | Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | k8d8CYjp3u8 | COME TROVARE CLIENTI \| Le basi di una Campagna Marketing di Successo | PENDING |  |
 | 13 | qQ8htL2fA9o | Le Strategie di Marketing per trovare nuovi clienti [e non perderli] | PENDING |  |
 | 14 | 5q1QvjuXX_w | Campagne Marketing ONLINE oppure OFFLINE? | PENDING |  |
