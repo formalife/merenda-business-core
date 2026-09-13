@@ -4,7 +4,6 @@ import argparse
 from datetime import datetime, timezone
 import json
 import os
-import re
 from pathlib import Path
 import subprocess
 import sys
@@ -140,11 +139,21 @@ def main():
     # QUEUE.md è la fonte canonica dell'ordine di apprendimento.
     # catalog.json conserva metadata/status ma può mantenere un ordine storico.
     queue_text = (ROOT / 'sources' / 'queue' / 'QUEUE.md').read_text()
-    queue_ids = re.findall(
-        r'^\\|\\s*\\d+\\s*\\|\\s*\\[([A-Za-z0-9_-]{11})\\]\\(',
-        queue_text,
-        flags=re.MULTILINE,
-    )
+    queue_ids = []
+    for line in queue_text.splitlines():
+        if not line.startswith('|'):
+            continue
+        parts = [part.strip() for part in line.split('|')]
+        if len(parts) < 3 or not parts[1].isdigit():
+            continue
+
+        video_cell = parts[2]
+        if not video_cell.startswith('[') or '](' not in video_cell:
+            continue
+
+        ident = video_cell[1:video_cell.index('](')]
+        if len(ident) == 11 and all(ch.isalnum() or ch in '_-' for ch in ident):
+            queue_ids.append(ident)
 
     pending = []
     for ident in queue_ids:
