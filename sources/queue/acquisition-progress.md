@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:06:07.791920+00:00
+Ultimo aggiornamento: 2026-09-13T13:06:14.234695+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | aRCppOvE-js | Tecniche di Marketing per Aspiranti Formatori e Coach | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | jcVKVKvy78k | Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | NO_IT_TRANSCRIPT | Sottotitoli italiani assenti: servirà fallback audio/trascrizione. |
 | 19 | Sjmvw03Oxqc | Spot Anni '80: Il MARKETING della nostra infanzia! | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | F1seup0MuLk | Come fare una campagna marketing di successo \| La piramide del Marketing | PENDING |  |
+| 20 | F1seup0MuLk | Come fare una campagna marketing di successo \| La piramide del Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | VRXyHpVBvAo | STRATEGIE DI MARKETING \| Risposte di Frank Merenda, esperto di Marketing #1 | PENDING |  |
 | 22 | W9IOyR3fsEo | Mental Manipulation \| Dan Kennedy and Unfair Marketing Techniques | PENDING |  |
 | 23 | joY6sigynis | Strategie di Marketing per trovare clienti \|DAN KENNEDY e il PACCONE | PENDING |  |
