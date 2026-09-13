@@ -118,7 +118,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 108 | UL7p310omY8 | da acquisire | [Marketing per CENTRI ESTETICI &#124; Come Raddoppiare il Fatturato in 1 Mese](https://www.youtube.com/watch?v=UL7p310omY8) | 143.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 109 | Qlk15QgvaK4 | da acquisire | [MARKETING per DENTISTI &#124; Cosa Succede quando un Dentista fa Marketing?](https://www.youtube.com/watch?v=Qlk15QgvaK4) | 351.0 | 04_marketing | 2 | STUDIATO | videos |
 | 110 | 3oDGQ4SImC8 | da acquisire | [RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant](https://www.youtube.com/watch?v=3oDGQ4SImC8) | 187.0 | 04_marketing | 2 | STUDIATO | videos |
-| 111 | tcOwLBoPC-8 | da acquisire | [Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi?](https://www.youtube.com/watch?v=tcOwLBoPC-8) | 1576.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 111 | tcOwLBoPC-8 | da acquisire | [Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi?](https://www.youtube.com/watch?v=tcOwLBoPC-8) | 1576.0 | 04_marketing | 2 | STUDIATO | videos |
 | 112 | 2R2u-O-uoYg | da acquisire | [Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci](https://www.youtube.com/watch?v=2R2u-O-uoYg) | 166.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 113 | k8d8CYjp3u8 | da acquisire | [COME TROVARE CLIENTI &#124; Le basi di una Campagna Marketing di Successo](https://www.youtube.com/watch?v=k8d8CYjp3u8) | 896.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 114 | qQ8htL2fA9o | da acquisire | [Le Strategie di Marketing per trovare nuovi clienti [e non perderli]](https://www.youtube.com/watch?v=qQ8htL2fA9o) | 1146.0 | 04_marketing | 2 | DA STUDIARE | videos |

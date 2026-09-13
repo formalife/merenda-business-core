@@ -45,6 +45,38 @@ L'assenza di esempi già esistenti nel proprio settore non dimostra che il metod
 Fonte: [Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI), 10 agosto 2022. [Revisione](../../sources/transcripts/zWVDQEuw_yI.review.md).
 
 
+
+## Creatività al servizio del posizionamento
+
+Nel materiale del 30 novembre 2023 Merenda propone una griglia semplice per giudicare una pubblicità non a risposta diretta, come uno spot:
+
+| Posizionamento | Creatività | Valutazione |
+|---|---|---|
+| chiaro | forte | situazione migliore |
+| chiaro | debole/essenziale | comunque utile: il messaggio vende il prodotto |
+| assente | forte | intrattenimento che rischia di non dare una ragione per scegliere |
+| assente | debole | comunicazione priva sia di idea sia di forza esecutiva |
+
+Il punto non è essere contrari alla creatività. La creatività deve:
+
+1. attirare attenzione;
+2. **veicolare o rendere memorabile la differenza**;
+3. far capire di che prodotto si parla e perché preferirlo.
+
+Uno spot può essere emozionante, divertente o tecnicamente bello e comunque lavorare soprattutto per la categoria se non spiega perché scegliere quel brand/prodotto.
+
+Al contrario, una creatività molto semplice può funzionare quando utilizza bene il poco tempo disponibile per mostrare:
+
+- una caratteristica distintiva;
+- una nuova categoria;
+- leadership/originalità;
+- una dimostrazione concreta;
+- un beneficio differenziante.
+
+La distinzione non trasforma ogni spot in direct response: Merenda riconosce che lo scopo può essere diverso, ma mantiene il criterio che **attenzione e creatività devono servire il posizionamento, non sostituirlo**.
+
+Fonte: [Il Marketing degli Spot Anni '80](https://www.youtube.com/watch?v=tcOwLBoPC-8), 30 novembre 2023. [Revisione](../../sources/transcripts/tcOwLBoPC-8.review.md).
+
 ## Sequenza minima per una PMI: differenza → domanda → pre-educazione
 
 Nel materiale del 21 gennaio 2025 Merenda comprime il problema commerciale di una PMI in tre livelli collegati:

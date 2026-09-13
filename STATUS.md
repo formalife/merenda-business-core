@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 9/25 completati; continuare dal contenuto 110.**
+**Elaborazione semantica del batch 101–125 — 10/25 completati; continuare dal contenuto 111.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 109
-- STUDIATO / integrati nella KB: 105
+- Contenuti processati semanticamente: 110
+- STUDIATO / integrati nella KB: 106
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 359
+- Da processare: 358
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 9/25 completati
+- Elaborazione semantica 101–125: 10/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`tcOwLBoPC-8` — *Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi?* — `04_marketing`.
+`2R2u-O-uoYg` — *Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
