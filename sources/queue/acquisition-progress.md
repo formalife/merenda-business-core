@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:22:51.972940+00:00
+Ultimo aggiornamento: 2026-09-13T11:22:55.924687+00:00
 
 Batch: 25 video
-Completati tecnicamente: 7/25
+Completati tecnicamente: 8/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -14,7 +14,7 @@ Completati tecnicamente: 7/25
 | 5 | 68H6aOPXITg | Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | FIOKn72b_Bk | 3 Techniques (You Don't Know About) to Power Your Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | 4beA9XR2tHE | La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | Qlk15QgvaK4 | MARKETING per DENTISTI \| Cosa Succede quando un Dentista fa Marketing? | PENDING |  |
+| 8 | Qlk15QgvaK4 | MARKETING per DENTISTI \| Cosa Succede quando un Dentista fa Marketing? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | 3oDGQ4SImC8 | RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | PENDING |  |
 | 10 | tcOwLBoPC-8 | Il Marketing degli Spot Anni '80: Cosa possiamo imparare oggi? | PENDING |  |
 | 11 | 2R2u-O-uoYg | Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | PENDING |  |
