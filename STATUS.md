@@ -2,11 +2,11 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; checkpoint 125 raggiunto e refactor FASE 14 completato.
+ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; checkpoint 125 e FASE 14 completati; asset tecnici del batch 126–150 integrati su main.
 
 ## Fase corrente
 
-**Checkpoint 125 completato — elaborazione semantica e FASE 14 (refactor KB) concluse. FASE 15 non eseguita (non dovuta a questo checkpoint).**
+**Elaborazione semantica del batch 126–150 — 0/25 completati.**
 
 ## Corpus
 
@@ -15,11 +15,12 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 - STUDIATO / integrati nella KB: 121
 - ESCLUSO dalla dottrina attiva: 4
 - Da processare: 343
-- Video completati: 121
-- Video rimanenti: 343
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
+- Batch tecnico 126–150: 25/25 tentati
+- Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
+- Elaborazione semantica 126–150: 0/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -31,42 +32,63 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 - Ultimo refactor KB completato: 125
 - Ultimo audit tassonomia completato: 100
-- Checkpoint raggiunto: 125
+- Prossimo checkpoint: 150 (FASE 14 + FASE 15)
 - Checkpoint Claude richiesto ora: NO
-- Refactor richiesto ora: NO — FASE 14 completata in questo checkpoint
-- FASE 15 richiesta ora: NO — non dovuta a questo checkpoint (resta al contenuto 150) e non eseguita
-- Prossimo refactor KB: 150
-- Prossimo audit tassonomia: 150
 
-Documento di checkpoint: `reviews/CHECKPOINT_125.md` (aggiornato con la sezione "Esito FASE 14").
+Documento precedente: `reviews/CHECKPOINT_125.md`.
+
+## Acquisizione tecnica 126–150
+
+Branch tecnico integrato su main: `acquisition-126-150`.
+
+- base: `0ee98de07664c9cf2a74c9dc90facea795293de2`
+- head tecnico: `751003eb318f2d15b4a64238cfe9d175de4580d9`
+- 25/25 tentati
+- 22 ACQUIRED
+- 3 NO_IT_TRANSCRIPT
+- 0 ERROR
+- 0 PENDING
+- nessun video marcato STUDIATO/ESCLUSO durante l'acquisizione
+- KB, queue canonica, catalogo, VIDEO_INDEX, reviews, file congelati e script invariati nel branch tecnico
+
+Contenuti senza transcript italiano:
+- `jcVKVKvy78k` — posizione 143
+- `joY6sigynis` — posizione 148
+- `ijVoIMF_gn8` — posizione 149
+
+Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. Non inventare contenuti: servirà fallback audio/trascrizione tecnica prima della loro elaborazione semantica.
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-FASE 14 completata su questo checkpoint. Il corpus non è completo (343 contenuti da processare): secondo `system/HANDOFFS.md` (Claude → ingestione), si verifica ora la disponibilità degli asset del prossimo contenuto.
+Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 126:
 
-Verificato localmente: `sources/transcripts/dwfknCGx8UI.*` non esiste. Gli asset del batch 126–150 non risultano acquisiti.
+`dwfknCGx8UI` — *MARKETING | Diventare il punto di riferimento per il tuo Settore [Jay Abraham]* — `04_marketing`.
 
-Next action per CODEX:
+Per ogni contenuto:
+1. revisione/correzione ragionevole del transcript;
+2. segnalazione di sole incomprensioni sostanziali;
+3. verifica dell'eventuale necessità di analisi visuale/keyframe;
+4. estrazione delle conoscenze importanti;
+5. routing minimo nella KB;
+6. MERGE, NON APPEND;
+7. aggiornamento di stato video, queue, catalogo/VIDEO_INDEX e STATUS secondo workflow.
 
-1. acquisire tecnicamente il batch 126–150 secondo il workflow canonico (fase 7 e supporto meccanico alle fasi 8/10), a partire da `dwfknCGx8UI`;
-2. aggiornare `STATUS.md` indicando quanti video del batch sono acquisiti ma non ancora studiati e impostare `Agente richiesto: CHATGPT`.
+Procedere in ordine fino al primo contenuto senza transcript utilizzabile. Al raggiungimento di `jcVKVKvy78k` (143), se il transcript resta assente, passare a CODEX per un fallback audio/trascrizione locale prima di proseguire.
 
-Non acquisire il corpus oltre il batch indicato; non modificare stati `STUDIATO`/`ESCLUSO`; non alterare l'ordine della queue.
+Non saltare contenuti della queue per completare quelli successivi.
 
 ## Primo pendente
 
-`dwfknCGx8UI` — *MARKETING | Diventare il punto di riferimento per il tuo Settore [Jay Abraham]* — `04_marketing` — posizione 126 della queue.
+`dwfknCGx8UI` — *MARKETING | Diventare il punto di riferimento per il tuo Settore [Jay Abraham]* — `04_marketing` — posizione 126.
 
-Verificata l'assenza di asset `sources/transcripts/dwfknCGx8UI.*` durante questo checkpoint. Batch 126–150 non avviato.
+Asset tecnici disponibili in `sources/transcripts/`.
 
 ## Validazione e blocchi
 
-FASE 14 (refactor KB) eseguita su questo checkpoint: audit completo di tutti i 40 file `.md` di `merenda/` (35 documenti di contenuto + 11 README + INDEX). Nessuna duplicazione sostanziale rilevata; le sovrapposizioni segnalate da `reviews/CHECKPOINT_125.md` sono risultate complementari e sono state lasciate invariate. Unica modifica: correzione del testo di un link in `merenda/03_offerta/README.md` per farlo coincidere col titolo reale del documento collegato. Controllo programmatico di link relativi e anchor su tutta `merenda/`: 0 errori. Nessun file orfano. Dettagli in `reviews/CHECKPOINT_125.md` (sezione "Esito FASE 14").
+Le anomalie note di `scripts/validate_project.py` restano quelle preesistenti già documentate: confronto file congelati vs tag v1.0 e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue. Nessuna nuova anomalia tecnica è stata rilevata nell'integrazione del batch.
 
-`scripts/validate_project.py` eseguito dopo il refactor: NON PASSA per le stesse anomalie preesistenti già documentate prima di questo checkpoint (confronto dei file congelati con il tag v1.0 — MASTER_PLAN.md, system/HANDOFFS.md e system/FROZEN_FILES.md differiscono già nella base — e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue). Nessuna nuova anomalia introdotta dalla FASE 14. Script, ordinamenti e file congelati preesistenti lasciati invariati nel perimetro di questo task.
-
-Nessuna nuova dottrina introdotta. FASE 15 non eseguita (non dovuta a questo checkpoint).
+Blocco previsto alla posizione 143: transcript italiano assente per `jcVKVKvy78k`.
