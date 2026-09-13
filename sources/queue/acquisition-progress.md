@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:37:12.244321+00:00
+Ultimo aggiornamento: 2026-09-13T08:37:16.626158+00:00
 
 Batch: 25 video
-Completati tecnicamente: 7/25
+Completati tecnicamente: 8/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -14,7 +14,7 @@ Completati tecnicamente: 7/25
 | 5 | dqAy1D8TnyQ | How to find new clients by dominating with information | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | ERjFJYE6fXc | The True Story of Frank Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | 6sNjbCGzd2A | How to Create an Effective Call to Action | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | asMedYJtd4I | CONCORRENZA SLEALE dei dipendenti? | PENDING |  |
+| 8 | asMedYJtd4I | CONCORRENZA SLEALE dei dipendenti? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | KUHh5PhRNwo | STARTUP E FINANZIAMENTI \| Come evitare di farsi male | PENDING |  |
 | 10 | FGy3jHhD5io | PAROLE CHIAVE \| Quando conta il volume di ricerca su Google | PENDING |  |
 | 11 | 4skx5MVcLl4 | TRUFFE ONLINE \| Riconoscere i Fuffa Guru in 5 minuti | PENDING |  |
