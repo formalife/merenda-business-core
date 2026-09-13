@@ -30,4 +30,4 @@ Può occuparsene il titolare, personale interno o un'azienda di telemarketing ad
 
 La soddisfazione non genera automaticamente un passaparola attivo. Bisogna dire esplicitamente che si cercano segnalazioni, aiutare i clienti e fornire strumenti: non sono venditori addestrati. L'esempio è consegnare più copie di un libro da regalare a persone che potrebbero avere bisogno dell'offerta. Il materiale porta il nuovo contatto dentro la comunicazione dell'azienda, superando la difficoltà del semplice «chiama questo numero». Il relatore cita anche incentivi, senza definirne qui un piano. [Parte 2, 19:40–24:58](https://www.youtube.com/watch?v=GesepBOY5E8&t=1180s)
 
-Collegamenti: [prequalifica e follow-up](../06_vendita/prequalifica-follow-up-decisori.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md).
+Collegamenti: [prequalifica e follow-up](../06_vendita/prequalifica-follow-up-decisori.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md), [appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md).

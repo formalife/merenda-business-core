@@ -20,3 +20,8 @@ Con clienti già serviti, la vendita è spesso sostitutiva: bisogna mostrare per
 Con clienti difficili da identificare può essere più facile apparire innovativi una volta trovati, perché ricevono meno proposte simili. Non è una promessa di vendita automatica. Dire «tutti possono comprare» lascia irrisolto il problema operativo: a chi destinare comunicazioni, tempo e budget? L'esempio degli infissi mostra perché spedire indiscriminatamente lettere a tutti gli abitanti di una città può rendere la campagna economicamente impraticabile. [17:12–22:46](https://www.youtube.com/watch?v=ePxhx94vW7g&t=1032s)
 
 Per il contatto e la trattativa, vedi [prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md).
+
+## Collegamenti
+
+- [Appropriatezza e qualità economica dei clienti](appropriatezza-clienti.md)
+- [Clienti alto-spendenti](clienti-altospendenti.md)

@@ -2,11 +2,11 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; checkpoint 100 raggiunto.
+ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; checkpoint 100 (fase 14 + fase 15) completato.
 
 ## Fase corrente
 
-**CHECKPOINT 100 — richieste FASE 14 + FASE 15 con CLAUDE CODE.**
+**Post-checkpoint 100 — in attesa di acquisizione tecnica del batch 101–125.**
 
 ## Corpus
 
@@ -25,55 +25,36 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: 75
-- Refactor richiesto ora: **SÌ — fase 14**
-- Ultimo audit tassonomia: 50
-- Audit tassonomia richiesto ora: **SÌ — fase 15**
-- Prossimo checkpoint dopo questo: 125 (fase 14)
-- Checkpoint Claude richiesto: **SÌ**
+- Ultimo refactor KB completato: 100
+- Ultimo audit tassonomia completato: 100
+- Prossimo checkpoint: 125 (fase 14)
+- Checkpoint Claude richiesto ora: NO
 
-Handoff dettagliato: `reviews/CHECKPOINT_100.md`.
+Esito dettagliato: `reviews/CHECKPOINT_100.md`.
+
+## Esito sintetico checkpoint 100
+
+- FASE 14: KB già ben architettata; aggiunti solo 3 collegamenti incrociati mancanti in `01_mercato`/`05_acquisizione`. Nessun file creato/eliminato/fuso/rinominato.
+- FASE 15: tassonomia a 11 categorie confermata adeguata. 11 contenuti 101+ riclassificati da titolo (caso aziendale nominato) verso `10_casi_studio` e riordinati in coda a quella sezione. Corretto un disallineamento pregresso tra `sources/catalog.json` e `sources/queue/QUEUE.md` su 36 contenuti 101+ (categoria non sincronizzata dal checkpoint 50). Nessun contenuto 101+ visionato o marcato STUDIATO; nessuna modifica ai primi 100.
 
 ## Agente richiesto
 
-**CLAUDE CODE**
+**CODEX**
 
 ## Next Action
 
-Leggere:
+Acquisire a batch gli asset tecnici (metadata, transcript, markdown normalizzato, keyframe candidati quando utili) per i video 101–125 della queue post-audit, tutti in `04_marketing`:
 
-1. `00_START_HERE.md`
-2. `CLAUDE.md`
-3. `MASTER_PLAN.md`
-4. `system/RULES.md`
-5. `system/PHASES.md`
-6. `system/HANDOFFS.md`
-7. `reviews/CHECKPOINT_100.md`
-8. `STATUS.md`
+`zZFg2oM208w`, `kmtvBlfL25I`, `MuHs2UrVGEg`, `J7WZ-gzN3zg`, `68H6aOPXITg`, `FIOKn72b_Bk`, `4beA9XR2tHE`, `Qlk15QgvaK4`, `3oDGQ4SImC8`, `tcOwLBoPC-8`, `2R2u-O-uoYg`, `k8d8CYjp3u8`, `qQ8htL2fA9o`, `5q1QvjuXX_w`, `AsD7LxX-n2I`, `lQd9lhLJMXk`, `Aq0dxMu8AqU`, `txFb7PkaVAw`, `dYc5k5tRZx0`, `gy-80USEC8g`, `-GsWbIj44dQ`, `8bQmDJJTEqs`, `nJuSh2u1dOE`, `_zqwnqzzv-4`, `0qipJSkZxmg`.
 
-Poi eseguire, in ordine:
+Al termine del batch, impostare `Agente richiesto: CHATGPT` per l'elaborazione semantica (fasi 8–13), partendo da `zZFg2oM208w`.
 
-1. **FASE 14 — refactor KB**
-2. **FASE 15 — audit globale della tassonomia**
-
-Non introdurre nuova dottrina.
-
-Al termine:
-
-- aggiornare `reviews/CHECKPOINT_100.md`;
-- aggiornare `STATUS.md`;
-- verificare routing/link/anchor;
-- commit e push su `origin/main`;
-- poiché la fase 15 può riordinare la queue, impostare il prossimo agente tecnico solo sulla queue risultante dall'audit.
-
-## Primo pendente prima dell'audit
+## Primo pendente
 
 `zZFg2oM208w` — *Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top* — `04_marketing`.
 
-Asset tecnici 101+: non presenti per i primi video controllati.
+Asset tecnici 101–125: verificati assenti in `sources/transcripts/`. Non acquisiti durante il checkpoint 100.
 
 ## Blocchi
 
 Nessun blocco semantico aperto sui primi 100 contenuti.
-
-**Importante:** non avviare acquisizione 101–125 in parallelo prima della conclusione della fase 15.

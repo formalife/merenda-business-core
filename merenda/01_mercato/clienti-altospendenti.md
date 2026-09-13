@@ -103,6 +103,8 @@ Fonte aggiuntiva: [Aperture nicchia altospendenti](https://www.youtube.com/watch
 
 ## Collegamenti
 
+- [Appropriatezza e qualità economica dei clienti](appropriatezza-clienti.md)
+- [Clienti identificabili e target](clienti-identificabili-e-target.md)
 - [Quattro domande prima di lanciare](quattro-domande-prima-di-lanciare.md)
 - [Prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md)
 - [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
