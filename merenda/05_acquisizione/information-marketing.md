@@ -118,3 +118,46 @@ Per mercati ampi e poco segmentati serve invece più filtraggio prima di arrivar
 - [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
+
+
+## Il volume della keyword ovvia non misura tutta la domanda
+
+Nel materiale del 14 luglio 2022 Merenda critica la lettura superficiale del mercato basata soltanto sulle keyword più immediate.
+
+Poche ricerche su una singola query non significano necessariamente che esista poca domanda.
+
+La domanda può distribuirsi su:
+
+- livelli diversi di consapevolezza;
+- problemi collegati;
+- desideri;
+- sintomi;
+- alternative;
+- domande informative;
+- query indirette.
+
+Ogni livello può richiedere:
+
+- copy diverso;
+- landing page specifica;
+- contenuti differenti;
+- funnel differenti.
+
+La ricerca delle keyword è quindi una **competenza di discovery**, non il semplice controllo di una parola ovvia in uno strumento.
+
+Il volume deve comunque essere collegato all'economia del business: anche poche vendite mensili possono essere sufficienti se margine e valore cliente sono elevati.
+
+Fonte: [Parole chiave — quando conta il volume di ricerca](https://www.youtube.com/watch?v=FGy3jHhD5io), 14 luglio 2022.
+
+## Prima saturare un funnel, poi moltiplicarlo
+
+Nel Q&A del 10 gennaio 2024 Merenda descrive una sequenza di crescita:
+
+1. costruire un funnel che funziona;
+2. alimentarlo con più fonti di traffico coerenti;
+3. spingerlo finché esiste capacità economica di crescita;
+4. soltanto dopo creare altri funnel, front-end e backend.
+
+La moltiplicazione dei funnel non deve compensare il fatto che il primo non funziona.
+
+Fonte: [LIVE Domande e Risposte](https://www.youtube.com/watch?v=WLNsk8EVUjQ), 10 gennaio 2024.
