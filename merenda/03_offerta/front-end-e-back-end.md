@@ -37,6 +37,29 @@ Questo rende il costo di acquisizione leggibile sull'intera relazione e non solt
 
 Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 3](https://www.youtube.com/watch?v=txFb7PkaVAw), 19 gennaio 2023. [Revisione](../../sources/transcripts/txFb7PkaVAw.review.md).
 
+
+## Progettare il secondo acquisto, non aspettarlo
+
+Nel materiale del 19 gennaio 2023 Merenda distingue operativamente tra chi ha comprato **una volta** e chi ha già ripetuto l'acquisto.
+
+Il principio non dipende dai nomi usati nel video (“acquirente” vs “cliente”): il passaggio importante è che **la seconda transazione è una soglia da progettare**.
+
+Dopo il primo sì, l'impresa dovrebbe chiedersi:
+
+- quale ragione concreta porta la persona a tornare;
+- quanto tempo deve passare;
+- quale prodotto/servizio proporre;
+- quale promemoria o incentivo riduce la dimenticanza;
+- come collegare il primo acquisto al successivo.
+
+Nel caso mostrato, una raccolta fisica e il fatto di rimandare il pezzo più desiderabile all'uscita successiva servono a creare continuità. La lezione generale è più ampia:
+
+**non affidare il riacquisto al fatto che il cliente “si ricordi” o che il prodotto gli sia piaciuto; costruire esplicitamente il ponte verso la seconda transazione.**
+
+Un oggetto fisico, una collezione, un calendario, un programma di utilizzo o un'altra struttura possono sostenere questo ponte quando coerenti col business, ma non sono obbligatori.
+
+Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 2](https://www.youtube.com/watch?v=dYc5k5tRZx0), 19 gennaio 2023. [Revisione](../../sources/transcripts/dYc5k5tRZx0.review.md).
+
 ## Esempio raccontato da Merenda
 
 Per la propria formazione descrive una successione di libri, prodotti informativi, magazine, programmi in continuità, corsi e percorsi avanzati. La forza dell'esempio è una relazione monetizzata in più modi, sostenuta da una struttura costruita negli anni. Il solo evento sul palco non rappresenta l'intero business. [79:19–80:19](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4759s)
