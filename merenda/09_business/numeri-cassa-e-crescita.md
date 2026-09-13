@@ -22,27 +22,37 @@ Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto
 
 Una campagna che incassa dopo dieci giorni impegna la cassa diversamente da una che incassa dopo mesi. La durata dell'esposizione va progettata e controllata: avere lead in un database non equivale a disporre di liquidità. L'acquisizione deve quindi essere coerente con il [sistema di offerte e monetizzazione](../03_offerta/front-end-e-back-end.md).
 
-## Cassa reale, cash flow neutro e previsionale
+## Cassa reale, riserve, cash flow e previsionale
 
 Nel materiale sulla gestione dell'impresa in condizioni di forte incertezza Merenda separa nettamente **cassa reale** e valori che non sono ancora disponibili sul conto.
 
 Fatture emesse, crediti e pagamenti promessi non vanno trattati come liquidità già disponibile. Quando la capacità di incasso è incerta, il piano operativo deve partire dai soldi effettivamente presenti e dagli incassi realmente attesi nel periodo considerato.
 
+La lezione distingue due funzioni:
+
+- **le riserve di cassa sostengono la sopravvivenza** quando gli incassi diminuiscono;
+- **il cash flow sostiene la stabilità**, perché determina se l'attività continua a consumare quelle riserve oppure torna ad alimentarle.
+
+Per questo riaprire, aumentare attività o tornare a sostenere i costi precedenti non equivale automaticamente ad avere risolto il problema: se le uscite ripartono più velocemente degli incassi, il **burn rate** consuma la riserva disponibile. La domanda diventa per quanto tempo la cassa può sostenere scenari di ricavo inferiori al normale.
+
 La priorità immediata è portare il flusso di cassa almeno a **neutralità**: gli incassi reali devono riuscire a coprire le uscite reali nel breve periodo. È un controllo diverso dal limitarsi a guardare il risultato economico dell'esercizio.
 
 In una fase di elevata incertezza Merenda propone di:
 
+- costruire scenari prudenziali, compreso uno scenario sfavorevole, invece di assumere il ritorno immediato alla normalità;
 - proteggere le riserve di cassa senza interrompere indiscriminatamente pagamenti necessari a mantenere operativa la catena di fornitura;
-- costruire un **rendiconto finanziario previsionale** con orizzonte di almeno tre mesi;
+- costruire un **rendiconto finanziario previsionale** con orizzonte di almeno tre mesi, estendibile quando serve;
 - articolare il previsionale su base settimanale;
 - controllarlo con frequenza molto ravvicinata e aggiornarlo quando cambiano gli incassi o le uscite previste;
 - prendere decisioni sulla realtà dei flussi, non sull'ottimismo riguardo a crediti o ricavi futuri.
 
 Il principio riusabile è che l'incertezza richiede **più intensità nella gestione finanziaria**, non meno: quando la visibilità diminuisce, l'imprenditore deve aumentare frequenza e precisione con cui legge la cassa.
 
-Le affermazioni sanitarie e le previsioni contingenti sulla crisi COVID presenti nella lezione non vengono consolidate nella KB: non sono necessarie al principio economico.
+Le affermazioni sanitarie, le date di riapertura e le previsioni contingenti sulla crisi COVID presenti nelle lezioni non vengono consolidate nella KB: non sono necessarie al principio economico.
 
-Fonte: [Come fare Marketing in momenti di crisi — Parte 2](https://www.youtube.com/watch?v=-GsWbIj44dQ), 12 gennaio 2023. [Revisione](../../sources/transcripts/-GsWbIj44dQ.review.md).
+Fonti:
+- [Come fare Marketing in momenti di crisi — Parte 1](https://www.youtube.com/watch?v=8bQmDJJTEqs), 12 gennaio 2023. [Revisione](../../sources/transcripts/8bQmDJJTEqs.review.md).
+- [Come fare Marketing in momenti di crisi — Parte 2](https://www.youtube.com/watch?v=-GsWbIj44dQ), 12 gennaio 2023. [Revisione](../../sources/transcripts/-GsWbIj44dQ.review.md).
 
 ## Acquisizione B2B, lifetime value e finestra temporale
 
