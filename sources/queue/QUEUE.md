@@ -130,11 +130,11 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 118 | [txFb7PkaVAw](https://www.youtube.com/watch?v=txFb7PkaVAw) — Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3] | 04_marketing | STUDIATO |
 | 119 | [dYc5k5tRZx0](https://www.youtube.com/watch?v=dYc5k5tRZx0) — Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 2] | 04_marketing | STUDIATO |
 | 120 | [gy-80USEC8g](https://www.youtube.com/watch?v=gy-80USEC8g) — Direct Response Marketing &#124; How to Create Effective Promos [Part 1] | 04_marketing | STUDIATO |
-| 121 | [-GsWbIj44dQ](https://www.youtube.com/watch?v=-GsWbIj44dQ) — Come fare Marketing in momenti di crisi [Parte 2] | 04_marketing | DA STUDIARE |
-| 122 | [8bQmDJJTEqs](https://www.youtube.com/watch?v=8bQmDJJTEqs) — How to Marketing in Times of Crisis [Part 1] | 04_marketing | DA STUDIARE |
-| 123 | [nJuSh2u1dOE](https://www.youtube.com/watch?v=nJuSh2u1dOE) — Il Marketing come ARMA per respingere i clienti che non vuoi | 04_marketing | DA STUDIARE |
-| 124 | [_zqwnqzzv-4](https://www.youtube.com/watch?v=_zqwnqzzv-4) — Marketing and Product Launch Strategies | 04_marketing | DA STUDIARE |
-| 125 | [0qipJSkZxmg](https://www.youtube.com/watch?v=0qipJSkZxmg) — Il Marketing non è un’azione singola ma un metodo | 04_marketing | DA STUDIARE |
+| 121 | [-GsWbIj44dQ](https://www.youtube.com/watch?v=-GsWbIj44dQ) — Come fare Marketing in momenti di crisi [Parte 2] | 04_marketing | STUDIATO |
+| 122 | [8bQmDJJTEqs](https://www.youtube.com/watch?v=8bQmDJJTEqs) — How to Marketing in Times of Crisis [Part 1] | 04_marketing | STUDIATO |
+| 123 | [nJuSh2u1dOE](https://www.youtube.com/watch?v=nJuSh2u1dOE) — Il Marketing come ARMA per respingere i clienti che non vuoi | 04_marketing | STUDIATO |
+| 124 | [_zqwnqzzv-4](https://www.youtube.com/watch?v=_zqwnqzzv-4) — Marketing and Product Launch Strategies | 04_marketing | STUDIATO |
+| 125 | [0qipJSkZxmg](https://www.youtube.com/watch?v=0qipJSkZxmg) — Il Marketing non è un’azione singola ma un metodo | 04_marketing | STUDIATO |
 | 126 | [dwfknCGx8UI](https://www.youtube.com/watch?v=dwfknCGx8UI) — MARKETING &#124; Diventare il punto di riferimento per il tuo Settore [Jay Abraham] | 04_marketing | DA STUDIARE |
 | 127 | [dJ90FSzTCTg](https://www.youtube.com/watch?v=dJ90FSzTCTg) — CORSO DI MARKETING per trovare nuovi clienti | 04_marketing | DA STUDIARE |
 | 128 | [0uWKdM51ZsI](https://www.youtube.com/watch?v=0uWKdM51ZsI) — MARKETING &#124; Il principio di Autorità per i Clienti | 04_marketing | DA STUDIARE |

@@ -129,11 +129,11 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 119 | txFb7PkaVAw | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3]](https://www.youtube.com/watch?v=txFb7PkaVAw) | 955.0 | 04_marketing | 2 | STUDIATO | videos |
 | 120 | dYc5k5tRZx0 | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 2]](https://www.youtube.com/watch?v=dYc5k5tRZx0) | 1233.0 | 04_marketing | 2 | STUDIATO | videos |
 | 121 | gy-80USEC8g | da acquisire | [Direct Response Marketing &#124; How to Create Effective Promos [Part 1]](https://www.youtube.com/watch?v=gy-80USEC8g) | 988.0 | 04_marketing | 2 | STUDIATO | videos |
-| 122 | -GsWbIj44dQ | da acquisire | [Come fare Marketing in momenti di crisi [Parte 2]](https://www.youtube.com/watch?v=-GsWbIj44dQ) | 1671.0 | 04_marketing | 2 | DA STUDIARE | videos |
-| 123 | 8bQmDJJTEqs | da acquisire | [How to Marketing in Times of Crisis [Part 1]](https://www.youtube.com/watch?v=8bQmDJJTEqs) | 1050.0 | 04_marketing | 2 | DA STUDIARE | videos |
-| 124 | nJuSh2u1dOE | da acquisire | [Il Marketing come ARMA per respingere i clienti che non vuoi](https://www.youtube.com/watch?v=nJuSh2u1dOE) | 1598.0 | 04_marketing | 2 | DA STUDIARE | videos |
-| 125 | _zqwnqzzv-4 | da acquisire | [Marketing and Product Launch Strategies](https://www.youtube.com/watch?v=_zqwnqzzv-4) | 6135.0 | 04_marketing | 2 | DA STUDIARE | videos |
-| 126 | 0qipJSkZxmg | da acquisire | [Il Marketing non è un’azione singola ma un metodo](https://www.youtube.com/watch?v=0qipJSkZxmg) | 1237.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 122 | -GsWbIj44dQ | da acquisire | [Come fare Marketing in momenti di crisi [Parte 2]](https://www.youtube.com/watch?v=-GsWbIj44dQ) | 1671.0 | 04_marketing | 2 | STUDIATO | videos |
+| 123 | 8bQmDJJTEqs | da acquisire | [How to Marketing in Times of Crisis [Part 1]](https://www.youtube.com/watch?v=8bQmDJJTEqs) | 1050.0 | 04_marketing | 2 | STUDIATO | videos |
+| 124 | nJuSh2u1dOE | da acquisire | [Il Marketing come ARMA per respingere i clienti che non vuoi](https://www.youtube.com/watch?v=nJuSh2u1dOE) | 1598.0 | 04_marketing | 2 | STUDIATO | videos |
+| 125 | _zqwnqzzv-4 | da acquisire | [Marketing and Product Launch Strategies](https://www.youtube.com/watch?v=_zqwnqzzv-4) | 6135.0 | 04_marketing | 2 | STUDIATO | videos |
+| 126 | 0qipJSkZxmg | da acquisire | [Il Marketing non è un’azione singola ma un metodo](https://www.youtube.com/watch?v=0qipJSkZxmg) | 1237.0 | 04_marketing | 2 | STUDIATO | videos |
 | 127 | dwfknCGx8UI | da acquisire | [MARKETING &#124; Diventare il punto di riferimento per il tuo Settore [Jay Abraham]](https://www.youtube.com/watch?v=dwfknCGx8UI) | 5064.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 128 | dJ90FSzTCTg | da acquisire | [CORSO DI MARKETING per trovare nuovi clienti](https://www.youtube.com/watch?v=dJ90FSzTCTg) | 4783.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 129 | 0uWKdM51ZsI | da acquisire | [MARKETING &#124; Il principio di Autorità per i Clienti](https://www.youtube.com/watch?v=0uWKdM51ZsI) | 824.0 | 04_marketing | 2 | DA STUDIARE | videos |
