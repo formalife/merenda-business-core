@@ -83,10 +83,10 @@ Audit tassonomico (checkpoint 50, fase 15): la classificazione preliminare dei c
 | 73 | [v1TRuSNshgA](https://www.youtube.com/watch?v=v1TRuSNshgA) — It All Starts With Positioning - #shorts | 02_posizionamento | STUDIATO |
 | 74 | [ldXZUf-mKSU](https://www.youtube.com/watch?v=ldXZUf-mKSU) — How to Beat Your Competitors with Google Reviews (Before We Talk About Price) | 08_brand | STUDIATO |
 | 75 | [9r2SLDzMPlQ](https://www.youtube.com/watch?v=9r2SLDzMPlQ) — How to Create an Irresistible Offer (Even if It Costs More) | 03_offerta | STUDIATO |
-| 76 | [h-ngxN8kYPc](https://www.youtube.com/watch?v=h-ngxN8kYPc) — Why Customers Don't Buy From You (It's Not the Price's Fault) | 03_offerta | DA STUDIARE |
-| 77 | [2er__0CBdmY](https://www.youtube.com/watch?v=2er__0CBdmY) — The Offer No One Wants: Marketing Mistakes to Avoid | 03_offerta | DA STUDIARE |
-| 78 | [ZqHMzE7OeKI](https://www.youtube.com/watch?v=ZqHMzE7OeKI) — OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO #shorts | 03_offerta | DA STUDIARE |
-| 79 | [AzFe_Tfl0tI](https://www.youtube.com/watch?v=AzFe_Tfl0tI) — The 7-Minute Guarantee That Multiplies Customers (and Terrifies the Competition) | 03_offerta | DA STUDIARE |
+| 76 | [h-ngxN8kYPc](https://www.youtube.com/watch?v=h-ngxN8kYPc) — Why Customers Don't Buy From You (It's Not the Price's Fault) | 08_brand | STUDIATO |
+| 77 | [2er__0CBdmY](https://www.youtube.com/watch?v=2er__0CBdmY) — The Offer No One Wants: Marketing Mistakes to Avoid | 03_offerta | STUDIATO |
+| 78 | [ZqHMzE7OeKI](https://www.youtube.com/watch?v=ZqHMzE7OeKI) — OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO #shorts | 03_offerta | STUDIATO |
+| 79 | [AzFe_Tfl0tI](https://www.youtube.com/watch?v=AzFe_Tfl0tI) — The 7-Minute Guarantee That Multiplies Customers (and Terrifies the Competition) | 03_offerta | STUDIATO |
 | 80 | [bHxjwGQQoUw](https://www.youtube.com/watch?v=bHxjwGQQoUw) — Can an SME WIN ON THE MARKET and beat the giants in its sector? | 04_marketing | DA STUDIARE |
 | 81 | [7xC2ZTUt7fo](https://www.youtube.com/watch?v=7xC2ZTUt7fo) — The Great Online WEBINAR SCAM | 04_marketing | DA STUDIARE |
 | 82 | [DEzmBKlwsfo](https://www.youtube.com/watch?v=DEzmBKlwsfo) — Come trovare nuovi clienti &#124; Le informazioni chiave | 04_marketing | DA STUDIARE |
