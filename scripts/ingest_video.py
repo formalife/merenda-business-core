@@ -4,6 +4,7 @@ import argparse
 from datetime import datetime, timezone
 import json
 import os
+import re
 from pathlib import Path
 import subprocess
 import sys
@@ -124,7 +125,7 @@ def main():
     p.add_argument('--count', type=int, default=1, help='Numero di video pendenti da acquisire (1-25)')
     p.add_argument('--acquire', action='store_true', help='Scarica metadati e sottotitoli italiani')
     p.add_argument('--commit-each', action='store_true', help='Commit Git dopo ogni singolo video')
-    p.add_argument('--push-each', action='store_true', help='Push su origin/main dopo ogni singolo video; implica --commit-each')
+    p.add_argument('--push-each', action='store_true', help='Push sul branch Git corrente dopo ogni singolo video; implica --commit-each')
     p.add_argument('--continue-on-error', action='store_true', help='Continua il batch se un video fallisce')
     args = p.parse_args()
 
@@ -134,9 +135,27 @@ def main():
         args.commit_each = True
 
     rows = json.loads((ROOT / 'sources' / 'catalog.json').read_text())
-    pending = [r for r in rows if r['status'] not in ['STUDIATO', 'ESCLUSO']][:args.count]
+    by_id = {r['id']: r for r in rows}
+
+    # QUEUE.md è la fonte canonica dell'ordine di apprendimento.
+    # catalog.json conserva metadata/status ma può mantenere un ordine storico.
+    queue_text = (ROOT / 'sources' / 'queue' / 'QUEUE.md').read_text()
+    queue_ids = re.findall(
+        r'^\\|\\s*\\d+\\s*\\|\\s*\\[([A-Za-z0-9_-]{11})\\]\\(',
+        queue_text,
+        flags=re.MULTILINE,
+    )
+
+    pending = []
+    for ident in queue_ids:
+        row = by_id.get(ident)
+        if row and row.get('status') not in ['STUDIATO', 'ESCLUSO']:
+            pending.append(row)
+            if len(pending) >= args.count:
+                break
+
     if not pending:
-        print('Nessun video pendente: verificare fase 16 con Claude.')
+        print('Nessun video pendente nella queue canonica: verificare fase 16 con Claude.')
         return
 
     if not args.acquire:
