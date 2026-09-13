@@ -37,19 +37,19 @@ Handoff dettagliato: `reviews/CHECKPOINT_075.md`.
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Gli asset tecnici dei video 76–79 non sono ancora presenti su `main` (video 76 `h-ngxN8kYPc` risulta `da acquisire` in `sources/VIDEO_INDEX.md` e `sources/queue/QUEUE.md`).
+Gli asset tecnici dei video 76–100 sono presenti su `main`.
 
-Codex deve acquisire il prossimo batch tecnico (76–100 o dimensione compatibile) e poi restituire il controllo a CHATGPT secondo `system/HANDOFFS.md`.
+CHATGPT deve eseguire le fasi 8–13 sui contenuti 76–100 seguendo la queue canonica.
 
 ## Prossimo contenuto
 
 `h-ngxN8kYPc` — *Why Customers Don't Buy From You (It's Not the Price's Fault)* — `03_offerta`.
 
-Asset tecnici 76–79: NON PRESENTI.
+Asset tecnici 76–100: PRESENTI.
 
 ## Blocchi
 
