@@ -22,6 +22,22 @@ Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto
 
 Una campagna che incassa dopo dieci giorni impegna la cassa diversamente da una che incassa dopo mesi. La durata dell'esposizione va progettata e controllata: avere lead in un database non equivale a disporre di liquidità. L'acquisizione deve quindi essere coerente con il [sistema di offerte e monetizzazione](../03_offerta/front-end-e-back-end.md).
 
+
+### Usare test comparativi per decidere, non il gusto
+
+Il materiale del 30 agosto 2022 aggiunge una regola pratica al tracciamento: quando esistono due possibili esecuzioni, è preferibile metterle **in competizione controllata** invece di scegliere sulla base di preferenze interne.
+
+Un esempio è dividere il traffico fra due annunci o due landing e confrontare:
+
+- conversione nell'azione richiesta;
+- vendite generate;
+- costo per vendita;
+- ROI.
+
+Il test non rende automaticamente buona una campagna: serve a trasformare una discussione soggettiva sulla creatività in una decisione basata sulla risposta reale del mercato. Se una variante non produce la risposta prevista, va corretta o sostituita.
+
+Fonte precedente: [Strategie di marketing — Perché devi tracciare tutte le campagne](https://www.youtube.com/watch?v=Rg6q7ynXdrM), 30 agosto 2022. [Revisione](../../sources/transcripts/Rg6q7ynXdrM.review.md).
+
 ## Cassa reale, riserve, cash flow e previsionale
 
 Nel materiale sulla gestione dell'impresa in condizioni di forte incertezza Merenda separa nettamente **cassa reale** e valori che non sono ancora disponibili sul conto.

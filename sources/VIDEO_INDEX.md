@@ -137,7 +137,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 127 | dwfknCGx8UI | da acquisire | [MARKETING &#124; Diventare il punto di riferimento per il tuo Settore [Jay Abraham]](https://www.youtube.com/watch?v=dwfknCGx8UI) | 5064.0 | 04_marketing | 2 | ESCLUSO | videos |
 | 128 | dJ90FSzTCTg | da acquisire | [CORSO DI MARKETING per trovare nuovi clienti](https://www.youtube.com/watch?v=dJ90FSzTCTg) | 4783.0 | 04_marketing | 2 | STUDIATO | videos |
 | 129 | 0uWKdM51ZsI | da acquisire | [MARKETING &#124; Il principio di Autorità per i Clienti](https://www.youtube.com/watch?v=0uWKdM51ZsI) | 824.0 | 04_marketing | 2 | STUDIATO | videos |
-| 130 | Rg6q7ynXdrM | da acquisire | [Marketing Strategies &#124; Why You Need to Track All Your Campaigns](https://www.youtube.com/watch?v=Rg6q7ynXdrM) | 597.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 130 | Rg6q7ynXdrM | da acquisire | [Marketing Strategies &#124; Why You Need to Track All Your Campaigns](https://www.youtube.com/watch?v=Rg6q7ynXdrM) | 597.0 | 04_marketing | 2 | STUDIATO | videos |
 | 131 | _i0O0tp74oQ | da acquisire | [Strategia di Marketing &#124; Il triangolo della Manipolazione di Dan Kennedy](https://www.youtube.com/watch?v=_i0O0tp74oQ) | 886.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 132 | 2LVrzGFBcmg | da acquisire | [Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing](https://www.youtube.com/watch?v=2LVrzGFBcmg) | 690.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 133 | qQBDw9iCsyU | da acquisire | [Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base?](https://www.youtube.com/watch?v=qQBDw9iCsyU) | 316.0 | 04_marketing | 2 | DA STUDIARE | videos |
