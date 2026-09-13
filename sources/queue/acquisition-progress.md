@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:23:29.011487+00:00
+Ultimo aggiornamento: 2026-09-13T11:23:33.566331+00:00
 
 Batch: 25 video
-Completati tecnicamente: 13/25
+Completati tecnicamente: 14/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -20,7 +20,7 @@ Completati tecnicamente: 13/25
 | 11 | 2R2u-O-uoYg | Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | k8d8CYjp3u8 | COME TROVARE CLIENTI \| Le basi di una Campagna Marketing di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | qQ8htL2fA9o | Le Strategie di Marketing per trovare nuovi clienti [e non perderli] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | 5q1QvjuXX_w | Campagne Marketing ONLINE oppure OFFLINE? | PENDING |  |
+| 14 | 5q1QvjuXX_w | Campagne Marketing ONLINE oppure OFFLINE? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | AsD7LxX-n2I | I 4 Pilastri di una Campagna Marketing di successo | PENDING |  |
 | 16 | lQd9lhLJMXk | How to find customers with sensible marketing campaigns | PENDING |  |
 | 17 | Aq0dxMu8AqU | Marketing a Risposta Diretta \| Come farlo nel modo giusto? | PENDING |  |
