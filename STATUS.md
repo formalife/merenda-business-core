@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 7/25 completati; continuare dal contenuto 108.**
+**Elaborazione semantica del batch 101–125 — 8/25 completati; continuare dal contenuto 109.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 107
-- STUDIATO / integrati nella KB: 103
+- Contenuti processati semanticamente: 108
+- STUDIATO / integrati nella KB: 104
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 361
+- Da processare: 360
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 7/25 completati
+- Elaborazione semantica 101–125: 8/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`Qlk15QgvaK4` — *MARKETING per DENTISTI | Cosa Succede quando un Dentista fa Marketing?* — `04_marketing`.
+`3oDGQ4SImC8` — *RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
