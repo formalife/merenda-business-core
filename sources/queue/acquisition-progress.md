@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:58:56.599415+00:00
+Ultimo aggiornamento: 2026-09-13T08:59:01.344440+00:00
 
 Batch: 25 video
-Completati tecnicamente: 16/25
+Completati tecnicamente: 17/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -23,7 +23,7 @@ Completati tecnicamente: 16/25
 | 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | oArzCO3vtiI | Il POSIZIONAMENTO DI MARCA delle PMI e il danno delle ESTENSIONI DI LINEA #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | N4gNS7xqPeY | Cosa significa POSIZIONAMENTO DI MARCA #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 17 | t_V64UBPorc | Brand Positioning explained in 50 seconds #shorts | PENDING |  |
+| 17 | t_V64UBPorc | Brand Positioning explained in 50 seconds #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | 51wqxX6Y2JA | BRAND POSITIONING \| L'errore di Marketing di Perlana #shorts | PENDING |  |
 | 19 | _6IQIO-Mb_4 | Come DYSON ha raggiunto il SUCCESSO grazie al POSIZIONAMENTO STRATEGICO #shorts | PENDING |  |
 | 20 | RJodFtfVzmY | If you want to sell, you must respect the rules of brand positioning. | PENDING |  |
