@@ -1,16 +1,16 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:04:31.520641+00:00
+Ultimo aggiornamento: 2026-09-13T13:04:36.484388+00:00
 
 Batch: 25 video
-Completati tecnicamente: 3/25
+Completati tecnicamente: 4/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | dwfknCGx8UI | MARKETING \| Diventare il punto di riferimento per il tuo Settore [Jay Abraham] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | dJ90FSzTCTg | CORSO DI MARKETING per trovare nuovi clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | 0uWKdM51ZsI | MARKETING \| Il principio di Autorità per i Clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 4 | Rg6q7ynXdrM | Marketing Strategies \| Why You Need to Track All Your Campaigns | PENDING |  |
+| 4 | Rg6q7ynXdrM | Marketing Strategies \| Why You Need to Track All Your Campaigns | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | PENDING |  |
 | 6 | 2LVrzGFBcmg | Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | PENDING |  |
 | 7 | qQBDw9iCsyU | Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | PENDING |  |
