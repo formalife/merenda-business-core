@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:58:02.605109+00:00
+Ultimo aggiornamento: 2026-09-13T08:58:10.874209+00:00
 
 Batch: 25 video
-Completati tecnicamente: 5/25
+Completati tecnicamente: 6/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -12,7 +12,7 @@ Completati tecnicamente: 5/25
 | 3 | o_T9s3lzAAE | L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | kJZXe1i5Vcg | Aperture nicchia altospendenti #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | ugbJzDGdsMA | Come fidelizzare i ricchi #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | PENDING |  |
+| 6 | YKh5jNVu3rE | The Law of Positioning That Makes You Dominate the Market #sales #positioning | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | WasHsG0phmg | Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | PENDING |  |
 | 8 | fkvXwg_tswE | Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | PENDING |  |
 | 9 | Kg6vzmxdd5Y | BRAND POSITIONING \| The Most Important Principle of Brand Positioning #shorts | PENDING |  |
