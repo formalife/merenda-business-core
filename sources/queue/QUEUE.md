@@ -58,11 +58,11 @@ Audit tassonomico (checkpoint 50, fase 15): la classificazione preliminare dei c
 | 48 | [TXGgnHLVhvA](https://www.youtube.com/watch?v=TXGgnHLVhvA) — Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | 03_offerta | ESCLUSO |
 | 49 | [KGPCinmAcoo](https://www.youtube.com/watch?v=KGPCinmAcoo) — [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | 06_vendita | STUDIATO |
 | 50 | [pg6obSMYC0o](https://www.youtube.com/watch?v=pg6obSMYC0o) — Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | 01_mercato | STUDIATO |
-| 51 | [AAiq6RnCysE](https://www.youtube.com/watch?v=AAiq6RnCysE) — Come comprano i ricchi? [Quelli veri] | 01_mercato | DA STUDIARE |
-| 52 | [AG7Gi9sPBRs](https://www.youtube.com/watch?v=AG7Gi9sPBRs) — How do you get rich (for real)? | 01_mercato | DA STUDIARE |
-| 53 | [o_T9s3lzAAE](https://www.youtube.com/watch?v=o_T9s3lzAAE) — L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | 01_mercato | DA STUDIARE |
-| 54 | [kJZXe1i5Vcg](https://www.youtube.com/watch?v=kJZXe1i5Vcg) — Aperture nicchia altospendenti #shorts | 01_mercato | DA STUDIARE |
-| 55 | [ugbJzDGdsMA](https://www.youtube.com/watch?v=ugbJzDGdsMA) — Come fidelizzare i ricchi #shorts | 01_mercato | DA STUDIARE |
+| 51 | [AAiq6RnCysE](https://www.youtube.com/watch?v=AAiq6RnCysE) — Come comprano i ricchi? [Quelli veri] | 01_mercato | STUDIATO |
+| 52 | [AG7Gi9sPBRs](https://www.youtube.com/watch?v=AG7Gi9sPBRs) — How do you get rich (for real)? | 09_business | STUDIATO |
+| 53 | [o_T9s3lzAAE](https://www.youtube.com/watch?v=o_T9s3lzAAE) — L'Avvocato che Domina il Mercato dei Divorzi con il Marketing #Shorts | 10_casi_studio | STUDIATO |
+| 54 | [kJZXe1i5Vcg](https://www.youtube.com/watch?v=kJZXe1i5Vcg) — Aperture nicchia altospendenti #shorts | 01_mercato | STUDIATO |
+| 55 | [ugbJzDGdsMA](https://www.youtube.com/watch?v=ugbJzDGdsMA) — Come fidelizzare i ricchi #shorts | 01_mercato | STUDIATO |
 | 56 | [YKh5jNVu3rE](https://www.youtube.com/watch?v=YKh5jNVu3rE) — The Law of Positioning That Makes You Dominate the Market #sales #positioning | 02_posizionamento | DA STUDIARE |
 | 57 | [WasHsG0phmg](https://www.youtube.com/watch?v=WasHsG0phmg) — Brand Positioning: If You Have to Discount to Sell, Your Brand Doesn't Exist | 02_posizionamento | DA STUDIARE |
 | 58 | [fkvXwg_tswE](https://www.youtube.com/watch?v=fkvXwg_tswE) — Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | 02_posizionamento | DA STUDIARE |
