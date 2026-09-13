@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 10/25 completati; continuare dal contenuto 111.**
+**Elaborazione semantica del batch 101–125 — 11/25 completati; continuare dal contenuto 112.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 110
-- STUDIATO / integrati nella KB: 106
+- Contenuti processati semanticamente: 111
+- STUDIATO / integrati nella KB: 107
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 358
+- Da processare: 357
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 10/25 completati
+- Elaborazione semantica 101–125: 11/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`2R2u-O-uoYg` — *Espandi il Tuo Studio Dentistico con Tecniche di Marketing Efficaci* — `04_marketing`.
+`k8d8CYjp3u8` — *COME TROVARE CLIENTI | Le basi di una Campagna Marketing di Successo* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
