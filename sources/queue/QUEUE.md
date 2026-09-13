@@ -143,7 +143,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 131 | [2LVrzGFBcmg](https://www.youtube.com/watch?v=2LVrzGFBcmg) — Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | 04_marketing | STUDIATO |
 | 132 | [qQBDw9iCsyU](https://www.youtube.com/watch?v=qQBDw9iCsyU) — Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | 09_business | STUDIATO |
 | 133 | [ZX0vgJeuQwo](https://www.youtube.com/watch?v=ZX0vgJeuQwo) — FRANK MERENDA - OTHERWISE WE SNACK &#124; The #1 Marketing Channel in Europe | 04_marketing | ESCLUSO |
-| 134 | [APp6ir-U60c](https://www.youtube.com/watch?v=APp6ir-U60c) — DIRECT MARKETING and Direct Mail Packages &#124; Differences between B2B and B2C | 04_marketing | DA STUDIARE |
+| 134 | [APp6ir-U60c](https://www.youtube.com/watch?v=APp6ir-U60c) — DIRECT MARKETING and Direct Mail Packages &#124; Differences between B2B and B2C | 04_marketing | STUDIATO |
 | 135 | [7GuscYYUBXY](https://www.youtube.com/watch?v=7GuscYYUBXY) — MARKETING per CENTRI ESTETICI &#124; Quanto conta la Specializzazione? | 04_marketing | DA STUDIARE |
 | 136 | [Ip7igFZfcwo](https://www.youtube.com/watch?v=Ip7igFZfcwo) — MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | 04_marketing | DA STUDIARE |
 | 137 | [kNAdI1VyIJU](https://www.youtube.com/watch?v=kNAdI1VyIJU) — MARKETING a Risposta Diretta VS Marketing Istituzionale [Idiozia] | 04_marketing | DA STUDIARE |

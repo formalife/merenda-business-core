@@ -99,6 +99,26 @@ Vedi anche [priorità, azione e trigger reali](../07_copy_comunicazione/priorita
 
 Fonte: [Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400%](https://www.youtube.com/watch?v=J7WZ-gzN3zg), 16 settembre 2024. [Revisione](../../sources/transcripts/J7WZ-gzN3zg.review.md).
 
+
+## La profondità del funnel dipende anche da urgenza e bisogno di informazione
+
+Il materiale del 20 luglio 2022 chiarisce che la distinzione **B2B vs B2C**, da sola, non decide quale strumento utilizzare.
+
+La domanda più utile è:
+
+**quanto deve capire il cliente prima di poter decidere e quanto rapidamente deve agire?**
+
+Un acquisto complesso, ad alto rischio percepito o con molte obiezioni può beneficiare di materiale informativo ricco prima dell'appuntamento. Al contrario, quando il bisogno è immediato e il prospect sta già cercando una soluzione urgente, aggiungere un libro, un kit o un percorso educativo lungo può diventare attrito.
+
+Esempi concettuali del video:
+
+- emergenza / intenzione immediata → accesso rapido, risposta chiara, passo successivo semplice;
+- decisione complessa → più informazioni, prove e pre-educazione prima della conversazione commerciale.
+
+Quindi il funnel non viene copiato per formato o settore. Va calibrato su **intento, urgenza, complessità della decisione e quantità di fiducia/informazione ancora necessaria**.
+
+Fonte precedente: [Direct Marketing e Paccone — Differenze tra B2B e B2C](https://www.youtube.com/watch?v=APp6ir-U60c), 20 luglio 2022. [Revisione](../../sources/transcripts/APp6ir-U60c.review.md).
+
 ## Volume di ricerca e intento sono cose diverse
 
 Un termine può avere molto volume e scarso intento d'acquisto.
