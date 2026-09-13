@@ -1,0 +1,61 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 780,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Eh ma quando viene mi compra solo la margherita! \nE Kitt*********, te l'ho fatta io la campagna?   "
+    } ]
+  }, {
+    "tStartMs": 6240,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "È per forza che viene ti compra solo la margherita: \nperché attrai un pubblico di merda, la campagna  "
+    } ]
+  }, {
+    "tStartMs": 9300,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "è fatta a ca**o non fai niente di quello \nche ti sto spiegando. Margherita uguale:  "
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "qualunque prodotto basso-spendente che voi \navete che non vi da margini, che vi rompe i  "
+    } ]
+  }, {
+    "tStartMs": 18060,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "c******** nel vostro portafoglio e che i clienti \nvi comprano in maniera ricorsiva. Nessuno di  "
+    } ]
+  }, {
+    "tStartMs": 22740,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "voi dovrebbe avere la margherita a menù; questa \nè una regola base del posizionamento! Ok? Frank qual è  "
+    } ]
+  }, {
+    "tStartMs": 28380,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "la soluzione? Togliete quella ca**o di Margherita \ndal menù, la fate uguale, stessi ingredienti (basta  "
+    } ]
+  }, {
+    "tStartMs": 34620,
+    "dDurationMs": 4503,
+    "segs": [ {
+      "utf8": "che non si chiami Margherita) la mettete a 10 € e abbiamo risolto il problema!"
+    } ]
+  } ]
+}
