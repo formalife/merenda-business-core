@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:28.630914+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:30.372325+00:00
 
 Batch: 25 video
-Completati tecnicamente: 5/25
+Completati tecnicamente: 6/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -12,7 +12,7 @@ Completati tecnicamente: 5/25
 | 3 | ZqHMzE7OeKI | OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | AzFe_Tfl0tI | The 7-Minute Guarantee That Multiplies Customers (and Terrifies the Competition) | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | bHxjwGQQoUw | Can an SME WIN ON THE MARKET and beat the giants in its sector? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | PENDING |  |
+| 6 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | PENDING |  |
 | 8 | dqAy1D8TnyQ | How to find new clients by dominating with information | PENDING |  |
 | 9 | ERjFJYE6fXc | The True Story of Frank Merenda | PENDING |  |
