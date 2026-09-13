@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T09:39:53.053342+00:00
+Ultimo aggiornamento: 2026-09-13T09:39:54.764788+00:00
 
 Batch: 25 video
-Completati tecnicamente: 18/25
+Completati tecnicamente: 19/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -25,7 +25,7 @@ Completati tecnicamente: 18/25
 | 16 | 6I0VK6Gl0do | SOCIAL MEDIA MANAGER \| Cosa fa e a Cosa Serve nelle PMI | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | FEYiruC-2as | PNL \| Come Diventare un Mental Coach di Successo [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | KyHZ4zR6AbU | Come aprire un'attività senza soldi \| Dropshipping Made in Italy [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 19 | DqI8rCDchGc | REAL ESTATE AGENT \| How to Become a Successful Real Estate Agent | PENDING |  |
+| 19 | DqI8rCDchGc | REAL ESTATE AGENT \| How to Become a Successful Real Estate Agent | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | Cv2pCRKIMx4 | FIRE MOVEMENT - How to Stop Working? | PENDING |  |
 | 21 | uT-OrLKpCYE | How to Live Happily Even if You Have a VAT Number | PENDING |  |
 | 22 | 1_5F0_so-rY | RICERCA del PERSONALE - Come avere la fila di persone che vogliono lavorare per te | PENDING |  |
