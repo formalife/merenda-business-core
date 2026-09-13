@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 17/25 completati; continuare dal contenuto 118.**
+**Elaborazione semantica del batch 101–125 — 18/25 completati; continuare dal contenuto 119.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 117
-- STUDIATO / integrati nella KB: 113
+- Contenuti processati semanticamente: 118
+- STUDIATO / integrati nella KB: 114
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 351
+- Da processare: 350
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 17/25 completati
+- Elaborazione semantica 101–125: 18/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -57,7 +57,7 @@ Gli asset tecnici sono stati integrati su `main` preservando i 25 commit di acqu
 
 ## Next Action
 
-Continuare semanticamente, in ordine di queue, dai contenuti 118–125 eseguendo per ciascuno le fasi 8–13:
+Continuare semanticamente, in ordine di queue, dai contenuti 119–125 eseguendo per ciascuno le fasi 8–13:
 
 1. revisione/correzione ragionevole del transcript;
 2. segnalazione di sole incomprensioni sostanziali;
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`txFb7PkaVAw` — *Marketing a Risposta diretta | Come fare PROMO efficaci [Parte 3]* — `04_marketing`.
+`dYc5k5tRZx0` — *Marketing a Risposta diretta | Come fare PROMO efficaci [Parte 2]* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

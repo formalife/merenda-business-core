@@ -10,6 +10,33 @@ Questo spiega la relazione con il principio del prezzo superiore alla concorrenz
 
 Il profitto complessivo e i tempi di recupero vanno verificati insieme. Il valore futuro del cliente non elimina il fabbisogno di capitale presente; vedi [cassa e costo per vendita](../09_business/numeri-cassa-e-crescita.md).
 
+
+## Il front-end può funzionare come degustazione del portafoglio
+
+Nel materiale del 19 gennaio 2023 Merenda usa il caso editoriale Disney per mostrare una funzione ulteriore del front-end: non solo far entrare il cliente a bassa barriera, ma **fargli assaggiare più parti dell'offerta complessiva**.
+
+Un prodotto d'ingresso può quindi:
+
+- essere autonomamente desiderabile;
+- introdurre il cliente al “mondo” dell'azienda;
+- esporlo a più categorie, gusti, servizi o linee;
+- far emergere quale componente preferisce;
+- aprire percorsi di cross-sell verso offerte più specifiche.
+
+La metafora pratica è quella della degustazione o del test drive: il front-end riduce la soglia d'ingresso e, una volta ottenuto il primo sì, il sistema invita il cliente a provare altre parti del catalogo.
+
+La progettazione non deve fermarsi a:
+
+**“come faccio a vendere il primo prodotto?”**
+
+ma continuare con:
+
+**“quali altri prodotti o servizi voglio far provare a chi è entrato da qui?”**
+
+Questo rende il costo di acquisizione leggibile sull'intera relazione e non soltanto sulla prima transazione, purché cross-sell e acquisti successivi abbiano reale coerenza col target e numeri sostenibili.
+
+Fonte: [Marketing a Risposta diretta — Promo efficaci, Parte 3](https://www.youtube.com/watch?v=txFb7PkaVAw), 19 gennaio 2023. [Revisione](../../sources/transcripts/txFb7PkaVAw.review.md).
+
 ## Esempio raccontato da Merenda
 
 Per la propria formazione descrive una successione di libri, prodotti informativi, magazine, programmi in continuità, corsi e percorsi avanzati. La forza dell'esempio è una relazione monetizzata in più modi, sostenuta da una struttura costruita negli anni. Il solo evento sul palco non rappresenta l'intero business. [79:19–80:19](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4759s)

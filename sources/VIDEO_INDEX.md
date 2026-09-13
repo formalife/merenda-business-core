@@ -126,7 +126,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 116 | AsD7LxX-n2I | da acquisire | [I 4 Pilastri di una Campagna Marketing di successo](https://www.youtube.com/watch?v=AsD7LxX-n2I) | 1790.0 | 04_marketing | 2 | STUDIATO | videos |
 | 117 | lQd9lhLJMXk | da acquisire | [How to find customers with sensible marketing campaigns](https://www.youtube.com/watch?v=lQd9lhLJMXk) | 1262.0 | 04_marketing | 2 | STUDIATO | videos |
 | 118 | Aq0dxMu8AqU | da acquisire | [Marketing a Risposta Diretta &#124; Come farlo nel modo giusto?](https://www.youtube.com/watch?v=Aq0dxMu8AqU) | 1230.0 | 04_marketing | 2 | STUDIATO | videos |
-| 119 | txFb7PkaVAw | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3]](https://www.youtube.com/watch?v=txFb7PkaVAw) | 955.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 119 | txFb7PkaVAw | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 3]](https://www.youtube.com/watch?v=txFb7PkaVAw) | 955.0 | 04_marketing | 2 | STUDIATO | videos |
 | 120 | dYc5k5tRZx0 | da acquisire | [Marketing a Risposta diretta &#124; Come fare PROMO efficaci [Parte 2]](https://www.youtube.com/watch?v=dYc5k5tRZx0) | 1233.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 121 | gy-80USEC8g | da acquisire | [Direct Response Marketing &#124; How to Create Effective Promos [Part 1]](https://www.youtube.com/watch?v=gy-80USEC8g) | 988.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 122 | -GsWbIj44dQ | da acquisire | [Come fare Marketing in momenti di crisi [Parte 2]](https://www.youtube.com/watch?v=-GsWbIj44dQ) | 1671.0 | 04_marketing | 2 | DA STUDIARE | videos |
