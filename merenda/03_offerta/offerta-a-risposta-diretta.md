@@ -273,6 +273,59 @@ Bonus e fast-action bonus possono aumentare il valore percepito, ma non sostitui
 
 Fonte: [Garanzia d'acciaio](https://www.youtube.com/watch?v=ZX_59lE19dw), 14 novembre 2023.
 
+## L'offerta può compensare una minore forza di brand
+
+Nel materiale del 5 maggio 2026 Merenda tratta l'offerta come una delle armi con cui una PMI può competere contro leader e co-leader più noti.
+
+Il leader parte con un vantaggio: il cliente lo percepisce come scelta più sicura e più semplice.
+
+Il piccolo deve quindi costruire un bundle/pacchetto che renda razionale considerarlo nonostante la minore notorietà.
+
+L'offerta può essere anche più cara del prodotto base concorrente, purché il cliente riceva **più valore utile e meno preoccupazione complessiva**.
+
+La progettazione deve lavorare su due assi:
+
+1. **percezione** — la proposta deve sembrare chiaramente diversa e più vantaggiosa per quel target;
+2. **numeri** — margini, costi e conversione devono sostenere realmente il pacchetto.
+
+## Ridurre il rischio senza essere il leader
+
+Quando il cliente sceglie il leader per sentirsi più tranquillo, un'offerta competitiva deve togliere strati di rischio o attrito.
+
+Può farlo attraverso una combinazione coerente di:
+
+- servizio;
+- garanzie;
+- bonus;
+- assistenza;
+- comodità;
+- chiarezza;
+- accesso;
+- condizioni;
+- elementi che aumentano il valore totale.
+
+Il cliente deve avere una ragione concreta per pensare:
+
+**“costa di più, ma per me è più conveniente comprare questo pacchetto.”**
+
+Non si tratta di raccontare valore inesistente: il vantaggio deve essere reale.
+
+## Standardizzare l'offerta prima della trattativa
+
+Merenda indica che l'azienda dovrebbe preparare offerte in gran parte precompilate/standardizzate, lasciando al venditore una quota controllata di adattamento.
+
+Questo evita che ogni venditore inventi da zero:
+
+- bundle;
+- condizioni;
+- pricing;
+- bonus;
+- argomentazione.
+
+L'offerta diventa così parte del sistema aziendale, non un'improvvisazione individuale.
+
+Fonte: [Come Creare un'Offerta Irresistibile (Anche se Costi di Più)](https://www.youtube.com/watch?v=9r2SLDzMPlQ), 5 maggio 2026. [Revisione](../../sources/transcripts/9r2SLDzMPlQ.review.md).
+
 ## Il criterio finale
 
 Una grande offerta non è quella con più bonus.

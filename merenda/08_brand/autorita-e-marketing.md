@@ -131,6 +131,39 @@ La pubblicità successiva amplifica prove che esistono già; non deve inventare 
 
 Fonte: [Alzare I Prezzi Senza Paura](https://www.youtube.com/watch?v=wdSlAXm_Qt4), 4 febbraio 2025.
 
+## La prova va confrontata con il competitor
+
+Nel materiale del 12 maggio 2026 Merenda rende più competitivo il lavoro su recensioni e testimonianze.
+
+Non basta chiedersi:
+
+**“ho recensioni?”**
+
+Bisogna anche osservare:
+
+- quante ne ha il competitor percepito come leader;
+- quale rating ha;
+- quante testimonianze scritte/video possiede;
+- quanto queste prove sono visibili prima della trattativa.
+
+L'obiettivo proposto nel video è volutamente aggressivo: costruire una quantità di prova sociale molto superiore a quella del concorrente locale. Il riferimento “10x” è una direzione competitiva, non una soglia scientifica universale.
+
+Quando la prova diventa nettamente superiore, può modificare la percezione di leadership prima ancora che la quota di mercato sia cambiata.
+
+Recensioni e testimonianze non devono restare soltanto sulla piattaforma che le ospita. Vanno riutilizzate nei punti in cui il cliente decide:
+
+- materiali di marketing;
+- cataloghi;
+- presentazioni;
+- preventivi;
+- trattativa commerciale.
+
+Il principio è:
+
+**accumulare prova → renderla visibile → ridurre il rischio percepito → rendere più semplice la vendita successiva.**
+
+Fonte: [Come Battere i Tuoi Concorrenti con le Recensioni Google](https://www.youtube.com/watch?v=ldXZUf-mKSU), 12 maggio 2026. [Revisione](../../sources/transcripts/ldXZUf-mKSU.review.md).
+
 ## Collegamenti
 
 - [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)
