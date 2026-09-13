@@ -1,14 +1,14 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:36:44.286965+00:00
+Ultimo aggiornamento: 2026-09-13T08:36:46.502306+00:00
 
 Batch: 25 video
-Completati tecnicamente: 1/25
+Completati tecnicamente: 2/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | bHxjwGQQoUw | Can an SME WIN ON THE MARKET and beat the giants in its sector? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | PENDING |  |
+| 2 | 7xC2ZTUt7fo | The Great Online WEBINAR SCAM | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | AAiq6RnCysE | Come comprano i ricchi? [Quelli veri] | PENDING |  |
 | 4 | DEzmBKlwsfo | Come trovare nuovi clienti \| Le informazioni chiave | PENDING |  |
 | 5 | dqAy1D8TnyQ | How to find new clients by dominating with information | PENDING |  |
