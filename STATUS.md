@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 7/25 completati; continuare dal contenuto 133.**
+**Elaborazione semantica del batch 126–150 — 8/25 completati; continuare dal contenuto 134.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 132
+- Contenuti processati semanticamente: 133
 - STUDIATO / integrati nella KB: 127
-- ESCLUSO dalla dottrina attiva: 5
-- Da processare: 336
+- ESCLUSO dalla dottrina attiva: 6
+- Da processare: 335
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
-- Elaborazione semantica 126–150: 7/25 completati
+- Elaborazione semantica 126–150: 8/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,7 +66,7 @@ Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. N
 
 Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 127:
 
-`ZX0vgJeuQwo` — *FRANK MERENDA - OTHERWISE WE SNACK | The #1 Marketing Channel in Europe* — `04_marketing`.
+`APp6ir-U60c` — *DIRECT MARKETING and Direct Mail Packages | Differences between B2B and B2C* — `04_marketing`.
 
 Per ogni contenuto:
 1. revisione/correzione ragionevole del transcript;
@@ -83,7 +83,7 @@ Non saltare contenuti della queue per completare quelli successivi.
 
 ## Primo pendente
 
-`ZX0vgJeuQwo` — *FRANK MERENDA - OTHERWISE WE SNACK | The #1 Marketing Channel in Europe* — `04_marketing` — posizione 133.
+`APp6ir-U60c` — *DIRECT MARKETING and Direct Mail Packages | Differences between B2B and B2C* — `04_marketing` — posizione 134.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
