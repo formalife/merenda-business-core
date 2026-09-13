@@ -51,11 +51,11 @@ Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento →
 | 43 | [Vm1eT2_f6Ho](https://www.youtube.com/watch?v=Vm1eT2_f6Ho) — 3 Signs Your "Extraordinary" Offer Actually Sucks and Isn't Selling | 03_offerta | STUDIATO |
 | 44 | [ZX_59lE19dw](https://www.youtube.com/watch?v=ZX_59lE19dw) — Crea la Tua OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO | 03_offerta | STUDIATO |
 | 45 | [Dqzs97Wl9jc](https://www.youtube.com/watch?v=Dqzs97Wl9jc) — How to ATTRACT CUSTOMERS with irresistible offers and the right bait | 03_offerta | STUDIATO |
-| 46 | [3SmdRSCB5EE](https://www.youtube.com/watch?v=3SmdRSCB5EE) — Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2] | 03_offerta | DA STUDIARE |
-| 47 | [OFsVGBnM158](https://www.youtube.com/watch?v=OFsVGBnM158) — How to Handle the High Price Objection and Sell More [Part 1] | 03_offerta | DA STUDIARE |
-| 48 | [TXGgnHLVhvA](https://www.youtube.com/watch?v=TXGgnHLVhvA) — Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | 03_offerta | DA STUDIARE |
-| 49 | [KGPCinmAcoo](https://www.youtube.com/watch?v=KGPCinmAcoo) — [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | 03_offerta | DA STUDIARE |
-| 50 | [pg6obSMYC0o](https://www.youtube.com/watch?v=pg6obSMYC0o) — Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | 04_marketing | DA STUDIARE |
+| 46 | [3SmdRSCB5EE](https://www.youtube.com/watch?v=3SmdRSCB5EE) — Come gestire l’obiezione del prezzo alto e vendere di più [Parte 2] | 03_offerta | STUDIATO |
+| 47 | [OFsVGBnM158](https://www.youtube.com/watch?v=OFsVGBnM158) — How to Handle the High Price Objection and Sell More [Part 1] | 03_offerta | STUDIATO |
+| 48 | [TXGgnHLVhvA](https://www.youtube.com/watch?v=TXGgnHLVhvA) — Come stabilire il prezzo di un prodotto? Dan Kennedy ce lo spiega... | 03_offerta | ESCLUSO |
+| 49 | [KGPCinmAcoo](https://www.youtube.com/watch?v=KGPCinmAcoo) — [Tecniche di vendita] - Come superare l'obiezione del prezzo - [Live] | 06_vendita | STUDIATO |
+| 50 | [pg6obSMYC0o](https://www.youtube.com/watch?v=pg6obSMYC0o) — Can Your Product Make You Rich? Find Out With These 4 Tactical Questions! | 01_mercato | STUDIATO |
 | 51 | [bHxjwGQQoUw](https://www.youtube.com/watch?v=bHxjwGQQoUw) — Can an SME WIN ON THE MARKET and beat the giants in its sector? | 04_marketing | DA STUDIARE |
 | 52 | [7xC2ZTUt7fo](https://www.youtube.com/watch?v=7xC2ZTUt7fo) — The Great Online WEBINAR SCAM | 04_marketing | DA STUDIARE |
 | 53 | [AAiq6RnCysE](https://www.youtube.com/watch?v=AAiq6RnCysE) — Come comprano i ricchi? [Quelli veri] | 04_marketing | DA STUDIARE |
