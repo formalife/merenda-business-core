@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=t_V64UBPorc
 Data pubblicazione: 20231209
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `t_V64UBPorc.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] nella mia testa per lana era un Brand
 

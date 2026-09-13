@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=v1TRuSNshgA
 Data pubblicazione: 20230131
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `v1TRuSNshgA.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Buonasera Sono un parrucchiere come
 

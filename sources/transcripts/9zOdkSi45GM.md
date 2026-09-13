@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=9zOdkSi45GM
 Data pubblicazione: 20230824
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `9zOdkSi45GM.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Eh ma quando viene mi compra solo la margherita! E Kitt*********, te l'ho fatta io la campagna?
 
