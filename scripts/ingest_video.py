@@ -63,7 +63,16 @@ def commit_and_push(item, push):
     if changed:
         run(['git', 'commit', '-m', f'Acquire technical assets for {ident}'], cwd=ROOT)
         if push:
-            run(['git', 'push', 'origin', 'main'], cwd=ROOT)
+            branch = subprocess.run(
+                ['git', 'branch', '--show-current'],
+                cwd=ROOT,
+                text=True,
+                capture_output=True,
+                check=True,
+            ).stdout.strip()
+            if not branch:
+                raise RuntimeError('Impossibile determinare il branch Git corrente.')
+            run(['git', 'push', '-u', 'origin', branch], cwd=ROOT)
 
 
 def acquire_one(item, command, env):
