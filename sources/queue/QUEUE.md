@@ -150,7 +150,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 138 | [ddb6CBRIYiU](https://www.youtube.com/watch?v=ddb6CBRIYiU) — MARKETING &#124; Il CORAGGIO di essere DIFFERENTI per demolire la concorrenza | 02_posizionamento | STUDIATO |
 | 139 | [_LwRZ4RAo5w](https://www.youtube.com/watch?v=_LwRZ4RAo5w) — What Is Digital Marketing and How Does It Work | 04_marketing | STUDIATO |
 | 140 | [JUaqpqx6G-8](https://www.youtube.com/watch?v=JUaqpqx6G-8) — [Strategie di Marketing] Bisogno di Reciprocità | 05_acquisizione | STUDIATO |
-| 141 | [Slo-0E7GU4o](https://www.youtube.com/watch?v=Slo-0E7GU4o) — MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | 04_marketing | DA STUDIARE |
+| 141 | [Slo-0E7GU4o](https://www.youtube.com/watch?v=Slo-0E7GU4o) — MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | 10_casi_studio | STUDIATO |
 | 142 | [aRCppOvE-js](https://www.youtube.com/watch?v=aRCppOvE-js) — Tecniche di Marketing per Aspiranti Formatori e Coach | 04_marketing | DA STUDIARE |
 | 143 | [jcVKVKvy78k](https://www.youtube.com/watch?v=jcVKVKvy78k) — Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | 04_marketing | DA STUDIARE |
 | 144 | [Sjmvw03Oxqc](https://www.youtube.com/watch?v=Sjmvw03Oxqc) — Spot Anni '80: Il MARKETING della nostra infanzia! | 04_marketing | DA STUDIARE |

@@ -1,4 +1,4 @@
-# Focalizzazione, funnel e capacità operativa: due casi
+# Focalizzazione, funnel e capacità operativa: casi
 
 Casi presentati sul canale ufficiale. Numeri e risultati sono dichiarazioni dei relatori/testimoni e dati delle slide, non risultati auditati né promesse generalizzabili. Non attribuire automaticamente tutti gli interventi a Frank Merenda.
 
@@ -21,3 +21,20 @@ I relatori descrivono una focalizzazione sulla protezione della parte lesa nel d
 Per luglio–settembre vengono riportati 139 contatti, 48 pacchi, 64 consulenze e 15 mandati. La [slide verificata](../../sources/transcripts/m-xKoXkdRak-frames/m-xKoXkdRak-75.png) distingue **31.200 € di fatturato** da **72.000 € di fatturato in fase di finalizzazione**: non sommare quest'ultimo agli incassi realizzati. La testimonianza di incassi triplicati in agosto è un confronto personale col precedente agosto, senza base assoluta riportata. [00:49–01:20; 02:40–03:12](https://www.youtube.com/watch?v=m-xKoXkdRak&t=49s)
 
 L'avvocata riferisce necessità di ampliare studio, disponibilità e personale; il numero preciso di avvocati è ambiguo tra intro montata e testimonianza e non viene consolidato. La discussione distingue i risultati commerciali dalle visualizzazioni di una scheda Google presentate da un precedente fornitore come «obiettivi». Questo caso illustra il [controllo delle metriche effettive](../09_business/numeri-cassa-e-crescita.md), senza trasformare la critica al fornitore non nominato in un fatto verificato autonomamente.
+
+## Maccheroni — ristorante romano a Milano
+
+Fonte: [Marketing per Ristoranti: Tutti i Segreti per Riempire il Tuo Locale](https://www.youtube.com/watch?v=Slo-0E7GU4o), 7 gennaio 2024. [Revisione](../../sources/transcripts/Slo-0E7GU4o.review.md).
+
+Frank presenta il locale Maccheroni come caso applicativo costruito a partire da un'analisi di fattibilità prima dell'apertura. La scelta di città, bacino e proposta non viene descritta come conseguenza della sola passione del fondatore: il progetto viene sottoposto a ricerca di mercato e poi misurato durante l'esecuzione.
+
+Il marketing d'ingresso si focalizza su un **piatto-bandiera** — la carbonara — invece di promuovere genericamente l'intero ristorante. Una video sales letter presenta una promessa forte e un'offerta di prova. Il locale, però, non vende soltanto quel piatto: una volta entrato, il cliente può acquistare antipasti, altri piatti, bevande e successive occasioni di consumo. Il caso rende quindi visibile la distinzione fra **cavallo di battaglia/front-end** e portafoglio monetizzato dopo l'ingresso.
+
+Frank descrive inoltre un sistema che non si ferma alla prima campagna: marketing verso clienti già acquisiti, riattivazione, referral, offerte interne e automazioni affiancano l'acquisizione. La parte commerciale viene sostenuta da processi di sala, cucina, personale e gestione; portare più clienti in una struttura che non sa servirli non è presentato come soluzione.
+
+Il caso non dimostra che “la carbonara” o la stessa promozione funzionino universalmente. Frank insiste sull'adattamento al contesto e sul fatto che dietro l'offerta visibile esistono targetizzazione, economics, capacità operativa e test.
+
+I numeri economici citati nella diretta non vengono consolidati qui come benchmark o promessa: sono dati dichiarati del caso e non servono per il principio generale.
+
+Collegamenti: [differenziazione operativa](../02_posizionamento/differenziazione-operativa.md), [front-end e monetizzazione successiva](../03_offerta/front-end-e-back-end.md), [riattivazione clienti](../04_marketing/riattivazione-clienti.md), [numeri, cassa e capacità](../09_business/numeri-cassa-e-crescita.md).
+
