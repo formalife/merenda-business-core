@@ -59,6 +59,41 @@ Nello stesso intervento Merenda ribadisce che la struttura di fondo del marketin
 
 Fonte: [Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top](https://www.youtube.com/watch?v=zZFg2oM208w), 21 gennaio 2025. [Revisione](../../sources/transcripts/zZFg2oM208w.review.md).
 
+
+## Misurare la promessa prima di amplificarla
+
+Nel materiale del 25 giugno 2024 Merenda collega direttamente qualità operativa e forza della comunicazione.
+
+La sequenza proposta è:
+
+1. **definire KPI del risultato** che prodotto o servizio dovrebbe produrre;
+2. **raccogliere dati nel tempo**, non soltanto impressioni;
+3. **migliorare l'erogazione** finché i risultati diventano abbastanza forti;
+4. solo allora usare quei risultati come prova nel marketing.
+
+La misurazione non riguarda soltanto vendite e lead. Può riguardare, a seconda del business:
+
+- tempi;
+- qualità;
+- frequenza di successo;
+- errori o rilavorazioni;
+- recupero;
+- prestazione;
+- soddisfazione;
+- altri esiti osservabili coerenti con la promessa.
+
+Il principio è coerente con “essere diversi prima di raccontarlo”: una promessa forte è sostenibile quando l'azienda **produce e misura** realmente ciò che comunica.
+
+Per rendere una promessa verificabile Merenda suggerisce di esplicitare quattro elementi:
+
+**quota/percentuale di clienti → risultato ottenuto → tempo necessario → condizioni necessarie**
+
+Le condizioni contano perché un risultato che dipende da comportamenti o requisiti del cliente non va presentato come automatico.
+
+Dati, casi e testimonianze possono poi ridurre il carico persuasivo della trattativa: il venditore non deve sostituire con retorica una prova che l'azienda può mostrare direttamente.
+
+Fonte: [3 Tecniche Per Dare Potenza Al Tuo Marketing](https://www.youtube.com/watch?v=FIOKn72b_Bk), 25 giugno 2024. [Revisione](../../sources/transcripts/FIOKn72b_Bk.review.md).
+
 ## Un buon prodotto non genera domanda da solo
 
 Competenza tecnica, qualità del prodotto e impegno sono necessari per mantenere le promesse, ma non sostituiscono marketing e vendita.

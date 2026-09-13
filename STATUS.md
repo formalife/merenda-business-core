@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 5/25 completati; continuare dal contenuto 106.**
+**Elaborazione semantica del batch 101–125 — 6/25 completati; continuare dal contenuto 107.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 105
-- STUDIATO / integrati nella KB: 101
+- Contenuti processati semanticamente: 106
+- STUDIATO / integrati nella KB: 102
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 363
+- Da processare: 362
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 5/25 completati
+- Elaborazione semantica 101–125: 6/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`FIOKn72b_Bk` — *3 Techniques (You Don't Know About) to Power Your Marketing* — `04_marketing`.
+`4beA9XR2tHE` — *La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto]* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 
