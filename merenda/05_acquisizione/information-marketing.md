@@ -182,6 +182,29 @@ Può aumentare:
 Questo collega information marketing e [authority marketing](../08_brand/autorita-e-marketing.md).
 
 
+
+## Dare valore prima della trattativa: reciprocità applicata
+
+Nel materiale del 10 ottobre 2017 Merenda richiama esplicitamente la reciprocità come principio noto da altre fonti e ne mostra la propria applicazione operativa al marketing.
+
+La parte da conservare nella KB è l'applicazione: **prima di chiedere tempo, attenzione o una decisione commerciale, creare una storia di valore già ricevuto dal prospect**.
+
+Può avvenire attraverso:
+
+- informazioni utili ma non consulenza personalizzata gratuita;
+- libro, report, video o webinar;
+- sessioni informative o Q&A;
+- assistenza e risposte rapide;
+- materiali fisici percepiti come utili.
+
+L'obiettivo non è “regalare cose” in modo indiscriminato. È cambiare la qualità della relazione prima della trattativa: il prospect incontra un'azienda che ha già aiutato, spiegato o ridotto incertezza, invece di un venditore che compare soltanto per chiedere un acquisto.
+
+La consulenza specifica e il lavoro su misura restano parte dell'offerta quando hanno valore proprio. Il pre-marketing deve quindi **dare abbastanza da aumentare fiducia e predisposizione senza sostituire gratuitamente il servizio venduto**.
+
+Il video presenta anche il pacchetto fisico come applicazione forte del principio. La priorità assoluta che Merenda gli attribuiva nel 2017 non viene elevata a regola permanente: le formulazioni successive della KB su domanda, target, canale ed economics restano prevalenti.
+
+Fonte precedente: [Strategie di Marketing — Bisogno di Reciprocità](https://www.youtube.com/watch?v=JUaqpqx6G-8), 10 ottobre 2017. [Revisione](../../sources/transcripts/JUaqpqx6G-8.review.md).
+
 ## Materiale fisico come “venditore in scatola”
 
 Nel materiale del 24 agosto 2022 Merenda definisce il pacchetto informativo fisico (“paccone”) come un **venditore one-to-many**: un insieme progettato di materiali che anticipa una parte del lavoro commerciale prima del contatto personale.
