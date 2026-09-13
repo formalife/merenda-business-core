@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T08:58:29.816260+00:00
+Ultimo aggiornamento: 2026-09-13T08:58:34.921539+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | fkvXwg_tswE | Diversifying Brands: The Positioning Strategy of Mortadella Shop's 5 Brands | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | Kg6vzmxdd5Y | BRAND POSITIONING \| The Most Important Principle of Brand Positioning #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | c-BOsaTGdbY | BRAND POSITIONING \| What is Line Extension #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | sm6UbD67FBY | POSITIONING \| Why create a new BRAND when launching a new PRODUCT? | PENDING |  |
+| 11 | sm6UbD67FBY | POSITIONING \| Why create a new BRAND when launching a new PRODUCT? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | N2cTTWDkHdY | BRAND POSITIONING \| Il successo dei BRAND lanciati da SONY | PENDING |  |
 | 13 | a8YTZtJnuo4 | The Power of Brand Positioning: The Secret to SAMURAI's Success | PENDING |  |
 | 14 | D3Mz_7WOuvU | BRAND POSITIONING \| Il Segreto per Diventare un Rivenditore di Successo | PENDING |  |
