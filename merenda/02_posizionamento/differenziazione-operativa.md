@@ -27,6 +27,25 @@ Come euristica comunicativa Merenda suggerisce anche di chiarire per contrasto *
 
 Fonte: [Campagne Di Marketing — 3 Azioni Infallibili Per Generare Profitto Immediato](https://www.youtube.com/watch?v=kmtvBlfL25I), 6 novembre 2024. [Revisione](../../sources/transcripts/kmtvBlfL25I.review.md).
 
+
+## Cercare differenze fuori dal proprio settore
+
+Nel materiale del 7 luglio 2022 Merenda propone di non limitare la ricerca di idee ai concorrenti diretti.
+
+Se tutti gli operatori della categoria osservano gli stessi leader e copiano le stesse pratiche, il risultato tende a essere convergenza. Una fonte di differenziazione può invece essere:
+
+1. osservare settori adiacenti o lontani;
+2. individuare un'esperienza, un processo o una strategia che lì funziona;
+3. capire quale principio la rende efficace;
+4. adattarla al proprio mercato invece di copiarla letteralmente;
+5. applicarla prima che diventi una convenzione della categoria.
+
+Il criterio non è essere strani per originalità. La pratica importata deve produrre un vantaggio reale per il target e restare economicamente sostenibile.
+
+Questo completa l'esercizio sulle convenzioni di settore: oltre a chiedersi **“che cosa posso fare al contrario?”**, si può chiedere **“che cosa funziona altrove che qui nessuno ha ancora adattato?”**
+
+Fonte precedente: [MARKETING — Il coraggio di essere differenti per demolire la concorrenza](https://www.youtube.com/watch?v=ddb6CBRIYiU), 7 luglio 2022. [Revisione](../../sources/transcripts/ddb6CBRIYiU.review.md).
+
 ## Esercizio: cinque convenzioni da cambiare
 
 1. Scrivere almeno cinque frasi del tipo «nel mio settore tutti sanno che si fa così».
