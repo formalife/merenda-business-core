@@ -183,3 +183,5 @@ jobs:
           git diff --cached --stat
           git commit -m "Add local ASR transcripts for 143, 148 and 149"
           git push origin HEAD:fallback-transcripts-143-149
+
+# trigger after registration on default branch
