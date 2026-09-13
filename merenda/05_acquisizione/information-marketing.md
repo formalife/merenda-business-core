@@ -181,6 +181,37 @@ Può aumentare:
 
 Questo collega information marketing e [authority marketing](../08_brand/autorita-e-marketing.md).
 
+
+## Materiale fisico come “venditore in scatola”
+
+Nel materiale del 24 agosto 2022 Merenda definisce il pacchetto informativo fisico (“paccone”) come un **venditore one-to-many**: un insieme progettato di materiali che anticipa una parte del lavoro commerciale prima del contatto personale.
+
+La funzione non è sostituire automaticamente il venditore. È far arrivare il prospect alla conversazione avendo già affrontato una quota rilevante di:
+
+- domande;
+- dubbi;
+- obiezioni;
+- differenze rispetto alle alternative;
+- ragioni per scegliere l'azienda.
+
+Quanto più prodotto o servizio è personalizzato, tanto maggiore resta il ruolo finale della persona che diagnostica, adatta l'offerta e chiude la vendita.
+
+### Prima il destinatario, poi il materiale
+
+Il punto economico è particolarmente importante: **non si costruisce prima il pacchetto per poi chiedersi a chi spedirlo**.
+
+Essendo un mezzo con costi di copy, produzione, stampa e spedizione, va progettato partendo da:
+
+1. target preciso;
+2. azione che si vuole ottenere;
+3. obiezioni e informazioni necessarie a quel target;
+4. follow-up umano o automatico previsto;
+5. economics compatibili con il valore della vendita.
+
+Un pacchetto costoso inviato indiscriminatamente può trasformare uno strumento forte in semplice consumo di cassa. Il materiale fisico deve quindi essere parte di un funnel, non un oggetto isolato.
+
+Fonte precedente: [Marketing a Risposta Diretta — Cos'è il paccone nel Direct Marketing](https://www.youtube.com/watch?v=2LVrzGFBcmg), 24 agosto 2022. [Revisione](../../sources/transcripts/2LVrzGFBcmg.review.md).
+
 ## Compressione della piramide
 
 Con target piccoli, identificabili e ad alto valore, alcuni gradini possono essere compressi.
