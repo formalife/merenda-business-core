@@ -6,18 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — 11/25 completati; continuare dal contenuto 112.**
+**Elaborazione semantica del batch 101–125 — 12/25 completati; continuare dal contenuto 113.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 111
-- STUDIATO / integrati nella KB: 107
+- Contenuti processati semanticamente: 112
+- STUDIATO / integrati nella KB: 108
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 357
+- Da processare: 356
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
-- Elaborazione semantica 101–125: 11/25 completati
+- Elaborazione semantica 101–125: 12/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -81,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`k8d8CYjp3u8` — *COME TROVARE CLIENTI | Le basi di una Campagna Marketing di Successo* — `04_marketing`.
+`qQ8htL2fA9o` — *Le Strategie di Marketing per trovare nuovi clienti [e non perderli]* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

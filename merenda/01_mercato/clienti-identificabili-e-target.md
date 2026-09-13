@@ -21,6 +21,45 @@ Con clienti difficili da identificare può essere più facile apparire innovativ
 
 Per il contatto e la trattativa, vedi [prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md).
 
+
+## Il settore non basta: definire il cliente ideale dentro il target
+
+Nel materiale del 4 luglio 2023 Merenda rende più granulare il concetto di target.
+
+Dire:
+
+- “ristoranti”;
+- “parrucchieri”;
+- “dentisti”;
+- “persone che mangiano pizza”;
+- “chi vuole dimagrire”;
+
+non descrive ancora un cliente ideale.
+
+Dentro la stessa categoria cambiano infatti:
+
+- dimensione e fatturato;
+- struttura e numero di persone;
+- fascia di prezzo;
+- problemi gestionali;
+- capacità di spesa;
+- geografia;
+- età/sesso quando rilevanti;
+- desideri e dialogo mentale;
+- servizi acquistati e priorità.
+
+La domanda operativa è:
+
+**“se potessi replicare i clienti migliori che ho, come sono fatti?”**
+
+La risposta iniziale può essere una bozza e deve poi essere corretta con i numeri reali. Questo collega l'identificabilità alla [qualità economica del cliente](appropriatezza-clienti.md): prima si ipotizza chi cercare, poi dati, margini, frequenza e comportamento aiutano a capire chi conviene davvero replicare.
+
+Merenda propone di focalizzare **la prima campagna** sul cliente ideale più desiderabile, invece di costruire subito un messaggio medio per tutti. Dopo averlo presidiato, si possono creare campagne distinte per segmenti secondari.
+
+La ragione è anche di copy: segmenti diversi hanno problemi, linguaggio e dialogo mentale diversi. Una campagna generica tende a non parlare con precisione a nessuno.
+
+Fonte: [COME TROVARE CLIENTI — Le basi di una Campagna Marketing di Successo](https://www.youtube.com/watch?v=k8d8CYjp3u8), 4 luglio 2023. [Revisione](../../sources/transcripts/k8d8CYjp3u8.review.md).
+
 ## Collegamenti
 
 - [Appropriatezza e qualità economica dei clienti](appropriatezza-clienti.md)
