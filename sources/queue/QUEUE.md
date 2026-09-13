@@ -87,10 +87,10 @@ Audit tassonomico (checkpoint 50, fase 15): la classificazione preliminare dei c
 | 77 | [2er__0CBdmY](https://www.youtube.com/watch?v=2er__0CBdmY) — The Offer No One Wants: Marketing Mistakes to Avoid | 03_offerta | STUDIATO |
 | 78 | [ZqHMzE7OeKI](https://www.youtube.com/watch?v=ZqHMzE7OeKI) — OFFERTA IRRESISTIBILE con una GARANZIA D'ACCIAIO #shorts | 03_offerta | STUDIATO |
 | 79 | [AzFe_Tfl0tI](https://www.youtube.com/watch?v=AzFe_Tfl0tI) — The 7-Minute Guarantee That Multiplies Customers (and Terrifies the Competition) | 03_offerta | STUDIATO |
-| 80 | [bHxjwGQQoUw](https://www.youtube.com/watch?v=bHxjwGQQoUw) — Can an SME WIN ON THE MARKET and beat the giants in its sector? | 04_marketing | DA STUDIARE |
-| 81 | [7xC2ZTUt7fo](https://www.youtube.com/watch?v=7xC2ZTUt7fo) — The Great Online WEBINAR SCAM | 04_marketing | DA STUDIARE |
-| 82 | [DEzmBKlwsfo](https://www.youtube.com/watch?v=DEzmBKlwsfo) — Come trovare nuovi clienti &#124; Le informazioni chiave | 04_marketing | DA STUDIARE |
-| 83 | [dqAy1D8TnyQ](https://www.youtube.com/watch?v=dqAy1D8TnyQ) — How to find new clients by dominating with information | 04_marketing | DA STUDIARE |
+| 80 | [bHxjwGQQoUw](https://www.youtube.com/watch?v=bHxjwGQQoUw) — Can an SME WIN ON THE MARKET and beat the giants in its sector? | 06_vendita | STUDIATO |
+| 81 | [7xC2ZTUt7fo](https://www.youtube.com/watch?v=7xC2ZTUt7fo) — The Great Online WEBINAR SCAM | 04_marketing | STUDIATO |
+| 82 | [DEzmBKlwsfo](https://www.youtube.com/watch?v=DEzmBKlwsfo) — Come trovare nuovi clienti &#124; Le informazioni chiave | 07_copy_comunicazione | STUDIATO |
+| 83 | [dqAy1D8TnyQ](https://www.youtube.com/watch?v=dqAy1D8TnyQ) — How to find new clients by dominating with information | 05_acquisizione | STUDIATO |
 | 84 | [ERjFJYE6fXc](https://www.youtube.com/watch?v=ERjFJYE6fXc) — The True Story of Frank Merenda | 04_marketing | DA STUDIARE |
 | 85 | [KUHh5PhRNwo](https://www.youtube.com/watch?v=KUHh5PhRNwo) — STARTUP E FINANZIAMENTI &#124; Come evitare di farsi male | 04_marketing | DA STUDIARE |
 | 86 | [FGy3jHhD5io](https://www.youtube.com/watch?v=FGy3jHhD5io) — PAROLE CHIAVE &#124; Quando conta il volume di ricerca su Google | 04_marketing | DA STUDIARE |

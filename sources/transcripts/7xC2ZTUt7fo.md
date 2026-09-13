@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=7xC2ZTUt7fo
 Data pubblicazione: 20240417
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `7xC2ZTUt7fo.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] la gente è ridotta a morire di fame
 
