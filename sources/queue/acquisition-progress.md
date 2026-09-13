@@ -1,15 +1,15 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:22:09.192181+00:00
+Ultimo aggiornamento: 2026-09-13T11:22:22.797130+00:00
 
 Batch: 25 video
-Completati tecnicamente: 2/25
+Completati tecnicamente: 3/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | zZFg2oM208w | Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | kmtvBlfL25I | Campagne Di Marketing \| ​​3 Azioni Infallibili Per Generare Profitto Immediato | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | MuHs2UrVGEg | Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | PENDING |  |
+| 3 | MuHs2UrVGEg | Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | J7WZ-gzN3zg | Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | PENDING |  |
 | 5 | 68H6aOPXITg | Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | PENDING |  |
 | 6 | FIOKn72b_Bk | 3 Techniques (You Don't Know About) to Power Your Marketing | PENDING |  |
