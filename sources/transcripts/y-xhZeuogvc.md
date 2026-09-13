@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=y-xhZeuogvc
 Data pubblicazione: 20250611
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `y-xhZeuogvc.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:00] Ma il lead cosa significa? A me non
 

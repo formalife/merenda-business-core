@@ -3,7 +3,7 @@
 Fonte: https://www.youtube.com/watch?v=FEYiruC-2as
 Data pubblicazione: 20220720
 
-Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica e visuale ancora da eseguire. Il JSON3 originale conserva i timestamp precisi.
+Sottotitoli automatici italiani. Normalizzati spazi e segmentazione; revisione semantica completata; vedi `FEYiruC-2as.review.md`. Il JSON3 originale conserva i timestamp precisi.
 
 [00:00:11] frank merenda è l'uomo che ha stabilito
 
