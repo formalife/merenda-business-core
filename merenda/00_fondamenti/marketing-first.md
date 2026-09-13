@@ -44,6 +44,21 @@ L'assenza di esempi già esistenti nel proprio settore non dimostra che il metod
 
 Fonte: [Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI), 10 agosto 2022. [Revisione](../../sources/transcripts/zWVDQEuw_yI.review.md).
 
+
+## Sequenza minima per una PMI: differenza → domanda → pre-educazione
+
+Nel materiale del 21 gennaio 2025 Merenda comprime il problema commerciale di una PMI in tre livelli collegati:
+
+1. **posizionamento differenziante** — prima di amplificare la domanda deve esistere una ragione concreta per scegliere l'azienda invece di un'alternativa indistinguibile;
+2. **campagne e investimento sufficienti** — una domanda troppo scarsa costringe l'impresa ad accettare quasi chiunque arrivi; un flusso più ampio crea invece la possibilità economica di scegliere;
+3. **materiali educativi prima della vendita** — il prospect deve capire metodo, differenza, autorità, compatibilità e principali obiezioni prima di consumare tempo commerciale costoso.
+
+La sequenza non sostituisce i framework più specifici emersi successivamente. La [gerarchia della domanda e dei canali](../04_marketing/gerarchia-domanda-e-canali.md) precisa dove cercare prima domanda attiva o latente; l'[appropriatezza dei clienti](../01_mercato/appropriatezza-clienti.md) precisa quali clienti conviene selezionare; la [piramide di information marketing](../05_acquisizione/information-marketing.md) sviluppa il ruolo dei materiali nel filtraggio e nell'avanzamento del prospect.
+
+Nello stesso intervento Merenda ribadisce che la struttura di fondo del marketing resta trasferibile tra B2B e B2C: cambiano soprattutto durata del ciclo, numero di decisori, necessità di progetto/consulenza e profondità della trattativa. Questo è coerente con la distinzione tra marketing e vendita già consolidata nell'[offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md).
+
+Fonte: [Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top](https://www.youtube.com/watch?v=zZFg2oM208w), 21 gennaio 2025. [Revisione](../../sources/transcripts/zZFg2oM208w.review.md).
+
 ## Un buon prodotto non genera domanda da solo
 
 Competenza tecnica, qualità del prodotto e impegno sono necessari per mantenere le promesse, ma non sostituiscono marketing e vendita.

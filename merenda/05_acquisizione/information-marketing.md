@@ -63,6 +63,30 @@ Se il prospect non è disposto a compiere un piccolo passo informativo, può ess
 
 La piramide svolge quindi anche una funzione di **auto-qualificazione**.
 
+
+## Materiali educativi come filtro prima della vendita
+
+Una campagna può generare interesse senza generare automaticamente un prospect adatto e preparato.
+
+Nel materiale del 21 gennaio 2025 Merenda assegna ai materiali educativi una funzione esplicitamente **selettiva** prima del contatto commerciale. Devono aiutare il prospect a capire:
+
+- per chi è e per chi non è l'azienda;
+- come lavora;
+- quale differenza/posizionamento difende;
+- perché può essere considerata autorevole;
+- quali obiezioni fondamentali trovano già risposta;
+- quale passo successivo compiere.
+
+Il marketing educativo deve quindi anche **respingere o far auto-escludere** chi è incompatibile, non soltanto convincere chiunque a chiedere un appuntamento. Il beneficio operativo è ridurre tempo perso, discussioni sul prezzo e trattative con persone che arrivano senza aver compreso il metodo.
+
+Come esempio di sequenza completa Merenda mostra:
+
+**traffico/domanda → landing con video sales letter → eventuale kit informativo fisico → ricontatto commerciale → trattativa**, con retargeting verso chi interrompe il percorso.
+
+Non ogni business deve usare tutti questi elementi. Il principio riusabile è far crescere informazione e impegno **prima** di allocare tempo di vendita più costoso, mantenendo coerenti messaggio, livello di consapevolezza e passo successivo.
+
+Fonte: [Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top](https://www.youtube.com/watch?v=zZFg2oM208w), 21 gennaio 2025. [Revisione](../../sources/transcripts/zZFg2oM208w.review.md).
+
 ## Focalizzare l'offerta, diversificare le porte di ingresso
 
 Merenda contrappone due comportamenti:

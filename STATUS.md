@@ -6,17 +6,18 @@ ACTIVE — fasi 1–6 complete; primi 100 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 101–125 — richieste fasi 8–13 con CHATGPT.**
+**Elaborazione semantica del batch 101–125 — 1/25 completati; continuare dal contenuto 102.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 100
-- STUDIATO / integrati nella KB: 96
+- Contenuti processati semanticamente: 101
+- STUDIATO / integrati nella KB: 97
 - ESCLUSO dalla dottrina attiva: 4
-- Da processare: 368
+- Da processare: 367
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
+- Elaborazione semantica 101–125: 1/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -56,7 +57,7 @@ Gli asset tecnici sono stati integrati su `main` preservando i 25 commit di acqu
 
 ## Next Action
 
-Processare semanticamente, in ordine di queue, i contenuti 101–125 eseguendo per ciascuno le fasi 8–13:
+Continuare semanticamente, in ordine di queue, dai contenuti 102–125 eseguendo per ciascuno le fasi 8–13:
 
 1. revisione/correzione ragionevole del transcript;
 2. segnalazione di sole incomprensioni sostanziali;
@@ -80,7 +81,7 @@ Al completamento semantico del 125° contenuto:
 
 ## Primo pendente
 
-`zZFg2oM208w` — *Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top* — `04_marketing`.
+`kmtvBlfL25I` — *Campagne Di Marketing | 3 Azioni Infallibili Per Generare Profitto Immediato* — `04_marketing`.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

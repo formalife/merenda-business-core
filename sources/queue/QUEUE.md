@@ -110,7 +110,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 98 | [y-xhZeuogvc](https://www.youtube.com/watch?v=y-xhZeuogvc) — DIRECT RESPONSE MARKETING: Why NOT All Customers Are Created Equal | 01_mercato | STUDIATO |
 | 99 | [4PoyRaEqTOQ](https://www.youtube.com/watch?v=4PoyRaEqTOQ) — Direct Response Marketing Campaigns: How to Get Immediate Results | 04_marketing | STUDIATO |
 | 100 | [zzfGuALQQco](https://www.youtube.com/watch?v=zzfGuALQQco) — Come Riattivare I Clienti Persi Con Una Campagna Marketing Micidiale | 04_marketing | STUDIATO |
-| 101 | [zZFg2oM208w](https://www.youtube.com/watch?v=zZFg2oM208w) — Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top | 04_marketing | DA STUDIARE |
+| 101 | [zZFg2oM208w](https://www.youtube.com/watch?v=zZFg2oM208w) — Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top | 04_marketing | STUDIATO |
 | 102 | [kmtvBlfL25I](https://www.youtube.com/watch?v=kmtvBlfL25I) — Campagne Di Marketing &#124; ​​3 Azioni Infallibili Per Generare Profitto Immediato | 04_marketing | DA STUDIARE |
 | 103 | [MuHs2UrVGEg](https://www.youtube.com/watch?v=MuHs2UrVGEg) — Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | 04_marketing | DA STUDIARE |
 | 104 | [J7WZ-gzN3zg](https://www.youtube.com/watch?v=J7WZ-gzN3zg) — Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | 04_marketing | DA STUDIARE |
