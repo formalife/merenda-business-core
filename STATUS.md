@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 2/25 completati; continuare dal contenuto 128.**
+**Elaborazione semantica del batch 126–150 — 3/25 completati; continuare dal contenuto 129.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 127
-- STUDIATO / integrati nella KB: 122
+- Contenuti processati semanticamente: 128
+- STUDIATO / integrati nella KB: 123
 - ESCLUSO dalla dottrina attiva: 5
-- Da processare: 341
+- Da processare: 340
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
-- Elaborazione semantica 126–150: 2/25 completati
+- Elaborazione semantica 126–150: 3/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,7 +66,7 @@ Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. N
 
 Procedere semanticamente in ordine di queue con le fasi 8–13 a partire dal contenuto 127:
 
-`0uWKdM51ZsI` — *MARKETING | Il principio di Autorità per i Clienti* — `04_marketing`.
+`Rg6q7ynXdrM` — *Marketing Strategies | Why You Need to Track All Your Campaigns* — `04_marketing`.
 
 Per ogni contenuto:
 1. revisione/correzione ragionevole del transcript;
@@ -83,7 +83,7 @@ Non saltare contenuti della queue per completare quelli successivi.
 
 ## Primo pendente
 
-`0uWKdM51ZsI` — *MARKETING | Il principio di Autorità per i Clienti* — `04_marketing` — posizione 128.
+`Rg6q7ynXdrM` — *Marketing Strategies | Why You Need to Track All Your Campaigns* — `04_marketing` — posizione 129.
 
 Asset tecnici disponibili in `sources/transcripts/`.
 

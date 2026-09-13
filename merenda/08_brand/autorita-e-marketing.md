@@ -33,6 +33,24 @@ Può trattare:
 
 Nella lezione Merenda indica come ritmo ideale circa un libro all'anno.
 
+
+## Il libro è un simbolo di autorità, non automaticamente un funnel
+
+Nel materiale del 1 settembre 2022 Merenda distingue due funzioni che spesso vengono confuse.
+
+Un libro può essere utile **anche quando non è il canale principale con cui acquisire clienti**. Il fatto di essere autore crea un segnale di competenza e può cambiare la percezione prima della vendita, indipendentemente dal fatto che il business utilizzi o meno un vero “book funnel”.
+
+Perciò:
+
+- avere un libro può essere sensato come asset di autorità;
+- usare quel libro come front-end o come meccanismo principale di lead generation è una decisione separata;
+- non ogni settore deve copiare automaticamente il funnel editoriale di chi vende formazione;
+- gli asset di autorità vanno proporzionati alle risorse: una piccola impresa può partire da pubblicazioni semplici e occasionali invece di costruire subito una macchina editoriale ricorrente.
+
+Il principio rafforza la distinzione già presente nella KB fra **costruire la posizione da cui il messaggio arriva** e **scegliere il canale con cui generare domanda**.
+
+Fonte precedente: [MARKETING — Il principio di Autorità per i Clienti](https://www.youtube.com/watch?v=0uWKdM51ZsI), 1 settembre 2022. [Revisione](../../sources/transcripts/0uWKdM51ZsI.review.md).
+
 ### Magazine ricorrente
 
 Un'azienda può produrre una propria pubblicazione periodica destinata a clienti e prospect.
