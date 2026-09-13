@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T13:04:49.603041+00:00
+Ultimo aggiornamento: 2026-09-13T13:04:54.025000+00:00
 
 Batch: 25 video
-Completati tecnicamente: 7/25
+Completati tecnicamente: 8/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -14,7 +14,7 @@ Completati tecnicamente: 7/25
 | 5 | _i0O0tp74oQ | Strategia di Marketing \| Il triangolo della Manipolazione di Dan Kennedy | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | 2LVrzGFBcmg | Marketing a Risposta Diretta - Cos’è il paccone nel Direct Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | qQBDw9iCsyU | Marketing nei Centri Estetici - Puoi eliminare l'estetica di Base? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | ZX0vgJeuQwo | FRANK MERENDA - OTHERWISE WE SNACK \| The #1 Marketing Channel in Europe | PENDING |  |
+| 8 | ZX0vgJeuQwo | FRANK MERENDA - OTHERWISE WE SNACK \| The #1 Marketing Channel in Europe | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | APp6ir-U60c | DIRECT MARKETING and Direct Mail Packages \| Differences between B2B and B2C | PENDING |  |
 | 10 | 7GuscYYUBXY | MARKETING per CENTRI ESTETICI \| Quanto conta la Specializzazione? | PENDING |  |
 | 11 | Ip7igFZfcwo | MARKETING A RISPOSTA DIRETTA - L'infomercial si usa anche sui Social? | PENDING |  |
