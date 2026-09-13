@@ -10,6 +10,30 @@ Nel modello organizzativo che propone, l'azienda individua lead interessati e il
 
 Merenda formula come principio che le persone non cambiano idea: interpreta la buona vendita come incontro con un target già compatibile con l'idea differenziante, anziché come successo di frasi ipnotiche capaci di convertire chiunque. Le proporzioni «100 telefonate, 20 appuntamenti, un contratto» sono dichiarate numeri d'esempio, non benchmark. [22:58–27:46](https://www.youtube.com/watch?v=ePxhx94vW7g&t=1378s)
 
+
+## Una lead inbound va presa in carico rapidamente
+
+Nel materiale dell'8 luglio 2024 Merenda tratta la velocità di risposta come parte del processo di vendita, non come dettaglio amministrativo.
+
+Quando una persona:
+
+- lascia i dati da una campagna;
+- chiede informazioni;
+- apre una chat o un ticket;
+- telefona o scrive attraverso un canale ufficiale,
+
+ha appena manifestato interesse. Lasciare la richiesta ferma per ore o giorni significa disperdere una parte del lavoro e del budget già spesi per generarla.
+
+La prescrizione del video è organizzare l'azienda affinché la nuova opportunità venga **segnalata e presa in carico in tempo reale**, con una persona responsabile di contattarla rapidamente. Il primo contatto non deve necessariamente chiudere la vendita: può semplicemente confermare la presa in carico, capire la richiesta e fissare il passo successivo.
+
+Merenda cita quattro minuti come proprio standard operativo e racconta un test interno con forti miglioramenti economici. Questi numeri sono esperienza specifica del caso, non benchmark universali consolidati nella KB. Il principio generale è:
+
+**ridurre intenzionalmente il tempo tra manifestazione d'interesse e contatto umano, misurandone l'effetto su appuntamenti, vendite e costo di acquisizione.**
+
+Questo richiede processo e responsabilità: CRM/notifiche, routing della lead e copertura sufficiente perché le opportunità non dipendano dal fatto che qualcuno controlli casualmente la posta.
+
+Fonte: [Triplica le Conversioni e Taglia i Costi di Marketing del 75%](https://www.youtube.com/watch?v=68H6aOPXITg), 8 luglio 2024. [Revisione](../../sources/transcripts/68H6aOPXITg.review.md).
+
 ## Non confondere mancato acquisto e assenza d'interesse
 
 Un cliente può essere interessato senza poter comprare ora: budget, investimenti già avviati, contratti in corso o priorità personali possono impedire la sincronizzazione con il venditore. Il follow-up mantiene la relazione attraverso lettere di vendita, blog, email e marketing educativo, rafforzando nel tempo la percezione dell'idea differenziante. Tornare a ripetere lo stesso discorso a intervalli regolari non è il sistema descritto. [11:24–16:43](https://www.youtube.com/watch?v=ePxhx94vW7g&t=684s)

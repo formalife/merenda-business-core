@@ -112,7 +112,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 102 | kmtvBlfL25I | da acquisire | [Campagne Di Marketing &#124; ​​3 Azioni Infallibili Per Generare Profitto Immediato](https://www.youtube.com/watch?v=kmtvBlfL25I) | 1284.0 | 04_marketing | 2 | STUDIATO | videos |
 | 103 | MuHs2UrVGEg | da acquisire | [Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni](https://www.youtube.com/watch?v=MuHs2UrVGEg) | 589.0 | 04_marketing | 2 | STUDIATO | videos |
 | 104 | J7WZ-gzN3zg | da acquisire | [Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400%](https://www.youtube.com/watch?v=J7WZ-gzN3zg) | 637.0 | 04_marketing | 2 | STUDIATO | videos |
-| 105 | 68H6aOPXITg | da acquisire | [Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito]](https://www.youtube.com/watch?v=68H6aOPXITg) | 494.0 | 04_marketing | 2 | DA STUDIARE | videos |
+| 105 | 68H6aOPXITg | da acquisire | [Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito]](https://www.youtube.com/watch?v=68H6aOPXITg) | 494.0 | 04_marketing | 2 | STUDIATO | videos |
 | 106 | FIOKn72b_Bk | da acquisire | [3 Techniques (You Don't Know About) to Power Your Marketing](https://www.youtube.com/watch?v=FIOKn72b_Bk) | 669.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 107 | 4beA9XR2tHE | da acquisire | [La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto]](https://www.youtube.com/watch?v=4beA9XR2tHE) | 792.0 | 04_marketing | 2 | DA STUDIARE | videos |
 | 108 | UL7p310omY8 | da acquisire | [Marketing per CENTRI ESTETICI &#124; Come Raddoppiare il Fatturato in 1 Mese](https://www.youtube.com/watch?v=UL7p310omY8) | 143.0 | 04_marketing | 2 | DA STUDIARE | videos |
