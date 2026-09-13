@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-13T11:22:41.455959+00:00
+Ultimo aggiornamento: 2026-09-13T11:22:47.782132+00:00
 
 Batch: 25 video
-Completati tecnicamente: 5/25
+Completati tecnicamente: 6/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -12,7 +12,7 @@ Completati tecnicamente: 5/25
 | 3 | MuHs2UrVGEg | Il Segreto Nascosto Dietro I Materiali Di Marketing Che Generano Milioni | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | J7WZ-gzN3zg | Quando Accendere Le Campagne Di Marketing Per Avere Un Roi +400% | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | 68H6aOPXITg | Triplica le Conversioni e Taglia i Costi di Marketing del 75% [Subito] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | FIOKn72b_Bk | 3 Techniques (You Don't Know About) to Power Your Marketing | PENDING |  |
+| 6 | FIOKn72b_Bk | 3 Techniques (You Don't Know About) to Power Your Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | 4beA9XR2tHE | La Strategia Di Marketing #1 Per Chi Parte Da Zero [O Deve Lanciare Un Nuovo Prodotto] | PENDING |  |
 | 8 | Qlk15QgvaK4 | MARKETING per DENTISTI \| Cosa Succede quando un Dentista fa Marketing? | PENDING |  |
 | 9 | 3oDGQ4SImC8 | RESTAURANT MARKETING STRATEGIES: How to Launch a Successful Restaurant | PENDING |  |
