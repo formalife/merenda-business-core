@@ -8,10 +8,12 @@ Transcript utilizzabile. Categoria finale: `04_marketing`.
 
 ## Conoscenza incrementale
 
-La priorità clienti attivi → riattivazione → referral era già coperta, così come upsell/cross-sell a livello generale. L'elemento nuovo è il modello operativo RFM — recency, frequency, monetary value — affiancato allo storico acquisti per individuare deviazioni, riattivazioni e opportunità coerenti di sviluppo.
+La fonte combina RFM, storico acquisti, upsell/cross-sell, riattivazione e referral per lavorare sul portafoglio clienti esistente. Dopo confronto completo con la KB, questi elementi risultano già consolidati: RFM è in `appropriatezza-clienti.md`, la riattivazione ha già trigger e campagne dedicate, upsell/cross-sell sono nel sistema front-end/back-end e il referral ha un documento specialistico.
+
+Il contributo utile è il collegamento applicativo: RFM può alimentare il trigger di riattivazione insieme allo storico acquisti, senza duplicare la definizione del modello.
 
 ## Integrazione
 
-Aggiornato `merenda/04_marketing/riattivazione-clienti.md` con RFM e il confronto comportamento atteso ↔ osservato. Non sono state duplicate le procedure già presenti su referral e front-end/back-end.
+Nessuna nuova dottrina. `riattivazione-clienti.md` mantiene soltanto un rinvio operativo alla sezione RFM già canonica, evitando una seconda spiegazione dello stesso framework.
 
-**Novelty: sì.**
+**Novelty: no.**

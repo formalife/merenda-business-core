@@ -16,6 +16,28 @@ La definizione è quindi **relativa al business**.
 
 Un cliente alto-spendente per un dentista non richiede lo stesso patrimonio di un cliente alto-spendente per yacht da decine di milioni.
 
+## Capacità economica e propensione a spendere sono variabili diverse
+
+Una fonte del 25 febbraio 2025 precisa che “alto-spendente” non è sinonimo di “ricco” e che il comportamento di spesa può cambiare **per categoria e situazione**.
+
+Una persona può:
+
+- avere elevata capacità economica ma essere molto sensibile al prezzo quando percepisce due offerte come equivalenti;
+- avere capacità più limitata ma attribuire una priorità eccezionale a una categoria, una passione o un problema specifico;
+- apparire “basso-spendente” soltanto perché il marketing non ha reso comprensibile la differenza che giustifica il premium.
+
+Il criterio utile non è quindi etichettare stabilmente le persone, ma separare almeno tre domande:
+
+1. **può sostenere economicamente l'acquisto senza diventare un cliente inappropriato?**
+2. **attribuisce abbastanza valore alla soluzione da voler investire?**
+3. **ha compreso la differenza che giustifica prezzo e condizioni?**
+
+La terza domanda è particolarmente importante: quando il prospect considera due prodotti identici, scegliere il prezzo più basso può essere una risposta razionale, non la prova che sia “un cliente economico”.
+
+Il modello a “sei personalità” usato nella fonte è una semplificazione didattica. La KB non lo trasforma in una tassonomia rigida né assume che indebitarsi per beni aspirazionali sia un comportamento da incentivare. Restano prevalenti appropriatezza, capacità di pagamento, margine e interesse di lungo periodo.
+
+Fonte: [Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più](https://www.youtube.com/watch?v=rcVXvepx-l8), 25 febbraio 2025. [Revisione](../../sources/transcripts/rcVXvepx-l8.review.md).
+
 ## Tre modi ricorrenti in cui acquistano
 
 ### 1. Referenza diretta
