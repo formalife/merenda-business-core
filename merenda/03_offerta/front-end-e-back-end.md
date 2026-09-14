@@ -66,6 +66,28 @@ Questa fonte descrive un'architettura storica del sistema. Per la progettazione 
 
 Fonte precedente: [Come creare un FUNNEL di FRONT END che converte [in 4 Step]](https://www.youtube.com/watch?v=TrY_mDjr7I4), 5 ottobre 2022. [Revisione](../../sources/transcripts/TrY_mDjr7I4.review.md).
 
+## Ridurre la barriera senza svalutare il prodotto principale
+
+Nel materiale più recente del 17 novembre 2025 Merenda chiarisce due modi per costruire un front-end quando l'azienda non vuole trasformare il proprio prodotto principale in uno sconto permanente.
+
+### 1. Creare una porzione d'ingresso
+
+Si può isolare una parte reale e utile dell'esperienza, del servizio o del prodotto e usarla come primo acquisto a barriera più bassa. Il cliente prova una **versione circoscritta**, mentre l'offerta principale resta integra e mantiene il proprio prezzo.
+
+La porzione deve avere valore autonomo: non deve essere un prodotto deliberatamente monco creato soltanto per obbligare all'upsell.
+
+### 2. Usare l'offerta completa con forte inversione del rischio
+
+In alternativa il front-end può coincidere con il prodotto o servizio pieno senza ridurne necessariamente il prezzo. La barriera viene abbassata attraverso una **garanzia/risk reversal** sufficientemente forte da rendere più facile il primo sì.
+
+La conseguenza è importante:
+
+**front-end = riduzione della barriera d'ingresso, non necessariamente riduzione del prezzo del prodotto principale.**
+
+Questa formulazione 2025 prevale sugli esempi più vecchi quando sembrano suggerire che il front-end debba per forza essere fortemente scontato. Prezzo, garanzia, margine, capacità e qualità del target vanno comunque testati sui numeri reali.
+
+Fonte più recente: [Strategie di Marketing | I Due Modi Per Creare Un Front-End Perfetto](https://www.youtube.com/watch?v=WCP26HC6wd0), 17 novembre 2025. [Revisione](../../sources/transcripts/WCP26HC6wd0.review.md).
+
 ## Il front-end può funzionare come degustazione del portafoglio
 
 Nel materiale del 19 gennaio 2023 Merenda usa il caso editoriale Disney per mostrare una funzione ulteriore del front-end: non solo far entrare il cliente a bassa barriera, ma **fargli assaggiare più parti dell'offerta complessiva**.
