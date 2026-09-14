@@ -1,16 +1,16 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:51:00.300858+00:00
+Ultimo aggiornamento: 2026-09-14T19:51:15.951627+00:00
 
 Batch: 25 video
-Completati tecnicamente: 3/25
+Completati tecnicamente: 4/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | ellOvKnIOqk | The #1 Sales Technique for a Record-Breaking Sales Team | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | rI00A_jHqz8 | Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | -_oOcTQgkcY | The Best SALES TECHNIQUES on the Internet | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 4 | P_LavmWySLs | How to Sell Anything With Frank Merenda's "Secret Word" | PENDING |  |
+| 4 | P_LavmWySLs | How to Sell Anything With Frank Merenda's "Secret Word" | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | an5eXiIyyiA | How to Create High-Converting Ads [That Sell] | PENDING |  |
 | 6 | wDPyGhkY_CA | The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients | PENDING |  |
 | 7 | oefQwsBIUc0 | RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati] | PENDING |  |
