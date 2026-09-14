@@ -225,7 +225,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 215 | aEv9F66CZqA | da acquisire | [Il VERO SEGRETO di un imprenditore per acquisire clienti](https://www.youtube.com/watch?v=aEv9F66CZqA) | 362.0 | 09_business | 2 | STUDIATO | videos |
 | 216 | WtyLO1gMqVI | da acquisire | [HOW TO FIND CUSTOMERS thanks to new acquisition channels](https://www.youtube.com/watch?v=WtyLO1gMqVI) | 3037.0 | 01_mercato | 2 | STUDIATO | videos |
 | 217 | TrY_mDjr7I4 | da acquisire | [Come creare un FUNNEL di FRONT END che converte [in 4 Step]](https://www.youtube.com/watch?v=TrY_mDjr7I4) | 7212.0 | 03_offerta | 2 | STUDIATO | videos |
-| 218 | _CPcSMMzIY0 | da acquisire | [L'arma del VENDITORE per le Aziende che acquisiscono contatti online](https://www.youtube.com/watch?v=_CPcSMMzIY0) | 171.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 218 | _CPcSMMzIY0 | da acquisire | [L'arma del VENDITORE per le Aziende che acquisiscono contatti online](https://www.youtube.com/watch?v=_CPcSMMzIY0) | 171.0 | 06_vendita | 2 | STUDIATO | videos |
 | 219 | I-YCFdXNSO0 | da acquisire | [Cos'è il MARKETING, a cosa serve e perchè non è pubblicità](https://www.youtube.com/watch?v=I-YCFdXNSO0) | 479.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 220 | bLmGe86nDAA | da acquisire | [FUNNEL &#124; Translation and Meaning - What is a Marketing Funnel [Explained Simply]](https://www.youtube.com/watch?v=bLmGe86nDAA) | 471.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 221 | of0ppir9sq4 | da acquisire | [FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO](https://www.youtube.com/watch?v=of0ppir9sq4) | 236.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
