@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–157 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–158 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–157/175. `G6j8xbargKY` confermato senza duplicazioni e riclassificato in `08_brand`. Prossima azione: fasi 8–13 su `LMzKVDWrGlk` (posizione canonica 158). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–158/175. `LMzKVDWrGlk` studiato e instradato in `10_casi_studio`. Prossima azione: fasi 8–13 su `-6L9gCbicjk` (posizione canonica 159). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 157
-- STUDIATO / integrati nella KB: 151
+- Contenuti processati semanticamente: 158
+- STUDIATO / integrati nella KB: 152
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 311
+- Da processare: 310
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `LMzKVDWrGlk` — *The Placement Rule That Brought Skechers to Success #shorts* — posizione canonica 158 della queue. I video 151–157 sono completati semanticamente.
+Continuare il batch **151–175** con `-6L9gCbicjk` — *Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts* — posizione canonica 159 della queue. I video 151–158 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **7/25** contenuti del batch completati. `G6j8xbargKY` è stato riclassificato in `08_brand` e non ha richiesto nuova dottrina perché il principio di autorità basata su esperienza dimostrabile era già consolidato. Contenuti semanticamente processati: **157**.
+- Revisione semantica in corso: **8/25** contenuti del batch completati. Ultimo: `LMzKVDWrGlk` → `10_casi_studio`, `STUDIATO`. Contenuti semanticamente processati: **158**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 

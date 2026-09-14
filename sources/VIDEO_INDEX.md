@@ -166,7 +166,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 156 | Z7FhdrG-fOw | da acquisire | [How to Increase Revenue with Just One Question](https://www.youtube.com/watch?v=Z7FhdrG-fOw) | n.d. | 03_offerta | 3 | STUDIATO | shorts |
 | 157 | 5awWbxibHIE | da acquisire | [Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣](https://www.youtube.com/watch?v=5awWbxibHIE) | n.d. | 09_business | 3 | STUDIATO | shorts |
 | 158 | G6j8xbargKY | da acquisire | [Coaches and Trainers for Companies - Be Careful Who You Follow](https://www.youtube.com/watch?v=G6j8xbargKY) | n.d. | 08_brand | 3 | STUDIATO | shorts |
-| 159 | LMzKVDWrGlk | da acquisire | [The Placement Rule That Brought Skechers to Success #shorts](https://www.youtube.com/watch?v=LMzKVDWrGlk) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
+| 159 | LMzKVDWrGlk | da acquisire | [The Placement Rule That Brought Skechers to Success #shorts](https://www.youtube.com/watch?v=LMzKVDWrGlk) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 160 | -6L9gCbicjk | da acquisire | [Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts](https://www.youtube.com/watch?v=-6L9gCbicjk) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 161 | I2RBYMESAsk | da acquisire | [HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts](https://www.youtube.com/watch?v=I2RBYMESAsk) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 162 | mkhp-EGSORA | da acquisire | [L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts](https://www.youtube.com/watch?v=mkhp-EGSORA) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
