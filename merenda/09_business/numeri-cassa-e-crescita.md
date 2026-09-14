@@ -53,6 +53,29 @@ Le piramidi e i numeri mostrati nel video sono strumenti didattici, non benchmar
 
 Fonte precedente: [Marketing: quanto costa davvero trovare clienti?](https://www.youtube.com/watch?v=8xBneQflDhY), 25 agosto 2022. [Revisione](../../sources/transcripts/8xBneQflDhY.review.md).
 
+## Leggere acquisizione e valore per sorgente e per venditore
+
+Nel materiale del 10 gennaio 2025 Merenda rende più granulare la lettura dell'economia di acquisizione: una media unica di costo per lead o costo per vendita può nascondere differenze importanti fra **sorgenti di traffico** e, quando le opportunità sono confrontabili, fra **venditori**.
+
+Per ogni sorgente è quindi utile collegare almeno:
+
+- costo completo sostenuto per generare e lavorare le opportunità;
+- quota che arriva realmente alla vendita;
+- margine e valore prodotto dai clienti acquisiti;
+- tempo di recupero dell'investimento.
+
+Se più venditori ricevono opportunità comparabili, la conversione può essere letta anche per venditore: il dato serve a distinguere un problema di sorgente/qualità del traffico da un problema di presa in carico o chiusura commerciale.
+
+Una sorgente più costosa sulla prima vendita non è necessariamente peggiore. Può produrre clienti con maggiore valore nel tempo; per questo Merenda suggerisce di osservare le coorti acquisite anche a distanza di mesi o anni invece di ottimizzare soltanto il costo iniziale.
+
+La sequenza riusabile è:
+
+**sorgente → costo completo → conversione commerciale → margine/LTV della coorte → payback.**
+
+Le cifre e gli intervalli temporali raccontati nel video sono esempi operativi, non benchmark universali.
+
+Fonte: [Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest)](https://www.youtube.com/watch?v=vD7zMl6YXzs), 10 gennaio 2025. [Revisione](../../sources/transcripts/vD7zMl6YXzs.review.md).
+
 ## Misure da chiedere alle campagne
 
 Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto comprano e al tempo entro cui il denaro ritorna in azienda. Click, contatti e lead diventano utili quando aiutano ad analizzare e ottimizzare questi risultati; non li sostituiscono. [68:35–71:11](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4115s)
