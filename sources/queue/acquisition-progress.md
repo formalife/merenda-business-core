@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:58.007324+00:00
+Ultimo aggiornamento: 2026-09-14T07:17:00.470704+00:00
 
 Batch: 25 video
-Completati tecnicamente: 13/25
+Completati tecnicamente: 14/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -20,7 +20,7 @@ Completati tecnicamente: 13/25
 | 11 | mkhp-EGSORA | L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | NTy1ZHQ8NYs | Il più grande FLOP di FERRERO #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | 5XW0s6NizEE | Il SUCCESSO della URUS [O forse no?] #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | NCQ1lX3S5wk | Il Segreto del Gommista di Successo #Shorts | PENDING |  |
+| 14 | NCQ1lX3S5wk | Il Segreto del Gommista di Successo #Shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | AjvfyImTiPI | All’Antico Vinaio: il “segreto” del suo successo #shorts | PENDING |  |
 | 16 | qIG_0TMol8s | Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts | PENDING |  |
 | 17 | fpao23ulhkQ | Why You Shouldn't Spend on Marketing (Unless You Do This First) | PENDING |  |
