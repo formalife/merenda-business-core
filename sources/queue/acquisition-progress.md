@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:11:26.369203+00:00
+Ultimo aggiornamento: 2026-09-14T13:11:32.754990+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | bY6Lb0Dld88 | Strategie di Acquisizione Clienti: Invadere l’ambiente | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | JQXoKKwneBQ | E Commerce: Il futuro è nei Funnel | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | ji8rHHO_KHY | Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | HwlqYf73Ctk | Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | PENDING |  |
+| 20 | HwlqYf73Ctk | Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | G0fxszrL9_M | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | PENDING |  |
 | 22 | 0rM-F7msbkA | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | PENDING |  |
 | 23 | sUkGSSqTq3c | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | PENDING |  |
