@@ -2,18 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–250 processati semanticamente**. Checkpoint **250 raggiunto**: FASE 14 + FASE 15 dovute a Claude Code. Corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti **1–250 processati semanticamente**. Checkpoint **250 completato**: FASE 14 + FASE 15 eseguite da Claude Code. Corpus ancora incompleto.
 
 ## Fase corrente
 
-Elaborazione semantica **226–250 completata da ChatGPT**. Il checkpoint 250 è in stato **PRE-HANDOFF CLAUDE** e non è ancora definitivo.
+Elaborazione semantica **226–250 completata da ChatGPT**. Checkpoint 250 (FASE 14 + FASE 15) **eseguito e chiuso da Claude Code**.
 
-Claude deve eseguire:
+Esito sintetico:
 
-- **FASE 14 — refactor KB**
-- **FASE 15 — audit tassonomia**
+- FASE 14: refactor mirato in `06_vendita` (il metodo diagnosi→prescrizione spostato da `prequalifica-follow-up-decisori.md` a `preventivo-consulenza-diagnosi.md`); tutti gli altri focus richiesti (`08_brand`, `07_copy_comunicazione`, `04_marketing`, `03_offerta`, RFM, prevalenza temporale 249) verificati corretti senza modifiche.
+- FASE 15: nessuna modifica alla tassonomia a 11 categorie (nessun beneficio netto identificato); nessuna modifica al classificatore A/B/C; `reviews/RESIDUAL_CLASSIFICATION_201-468.md` rigenerato per riflettere l'avanzamento del residuo (243→218).
+- Validator: baseline reale misurata **842 warning** (non 841 come nel pre-handoff; causa documentata: formattazione di una riga STATUS nel commit di handoff ChatGPT), identici prima/dopo il refactor. Nessuna nuova anomalia.
 
-Report pre-handoff: `reviews/CHECKPOINT_250.md`.
+Report definitivo: `reviews/CHECKPOINT_250.md`.
 
 ## Corpus
 
@@ -65,39 +66,29 @@ Dettagli completi in `reviews/CHECKPOINT_250.md`.
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: **225**
-- Ultimo audit tassonomia completato: **200**
-- Refactor KB dovuto: **250 — FASE 14**
-- Audit tassonomia dovuto: **250 — FASE 15**
-- Checkpoint Claude richiesto ora: **SÌ**
-- Report checkpoint corrente: `reviews/CHECKPOINT_250.md` (pre-handoff)
+- Ultimo refactor KB completato: **250 — FASE 14**
+- Ultimo audit tassonomia completato: **250 — FASE 15**
+- Prossimo refactor KB dovuto: **275 — FASE 14**
+- Prossimo audit tassonomia dovuto: **300 — FASE 14 + FASE 15**
+- Checkpoint Claude richiesto ora: **NO**
+- Report checkpoint corrente: `reviews/CHECKPOINT_250.md` (definitivo)
 
 ## Agente richiesto
 
-**CLAUDE CODE**
+**CODEX**
 
 ## Next Action
 
-Eseguire il checkpoint **250 — FASE 14 + FASE 15** sullo stato canonico che verrà portato su `main`.
+Acquisizione tecnica del batch **251–275** (fase 7: transcript, eventuale fallback ASR, keyframe candidati dove segnalato), poi restituire il controllo a ChatGPT via `STATUS.md` secondo la procedura standard in `system/HANDOFFS.md`.
 
-Claude deve:
+Primo contenuto non completato: **251 — `ellOvKnIOqk` — “The #1 Sales Technique for a Record-Breaking Sales Team”**.
 
-1. rileggere l'intera `merenda/`;
-2. refactorare solo dove esiste un beneficio strutturale reale;
-3. eseguire audit tassonomico completo;
-4. verificare in particolare le nuove aree `06_vendita`, `07_copy_comunicazione`, `08_brand`;
-5. verificare il nodo canonico RFM e le regole di prevalenza temporale;
-6. valutare empiricamente il classifier A/B/C senza modificare frozen senza autorizzazione;
-7. eseguire validator prima/dopo, `git diff --check`, link/orfani, contaminazione Formalife e frozen;
-8. non processare/acquisire semanticamente alcun contenuto 251+;
-9. aggiornare `reviews/CHECKPOINT_250.md` da pre-handoff a report definitivo e aggiornare `STATUS.md`.
-
-Dopo il checkpoint, salvo diversa decisione motivata, il prossimo lavoro tecnico sarà **251–275**. Primo contenuto residuo: **251 — `ellOvKnIOqk` — “The #1 Sales Technique for a Record-Breaking Sales Team”**.
+Nessuna elaborazione semantica o acquisizione tecnica 251+ è stata eseguita durante il checkpoint 250: questo è il punto di ripartenza.
 
 ## Validazione e limiti
 
-- Baseline validator certa alla fine della fase tecnica 226–250: **841 warning storici**, identici prima/dopo acquisizione.
-- Il connettore GitHub usato da ChatGPT non può eseguire il validator sul working tree remoto: il validator post-semantico deve essere misurato da Claude, non viene inventato.
+- Baseline validator **reale, misurata da Claude sulla HEAD del checkpoint 250**: **842 warning** (non 841: la fase tecnica 226–250 aveva certificato 841 identici prima/dopo l'acquisizione; il commit di handoff semantico ChatGPT ha poi aggiunto grassetto markdown a una riga di `STATUS.md`, portando a 3 le righe `Contatore STATUS errato` invece di 2 — stessa classe di drift di nomenclatura già nota, non una nuova anomalia semantica). Identici prima/dopo FASE 14+15 di questo checkpoint: nessuna nuova anomalia introdotta.
 - Confronto tecnico→semantico verificato: **25 commit**, **25 review**, nessun frozen e nessun file 251+ modificato.
 - Contatori catalogo verificati: **244 STUDIATO + 6 ESCLUSO + 218 DA STUDIARE = 468**.
 - Limiti tecnici transcript: 227 copertura 95,51%; 228 copertura 92,79%; piccoli sforamenti timestamp fino a 2,360 s. Nessuna nuova regola semantica è stata basata sulle code non coperte.
+- Dettaglio completo FASE 14/15: `reviews/CHECKPOINT_250.md`.

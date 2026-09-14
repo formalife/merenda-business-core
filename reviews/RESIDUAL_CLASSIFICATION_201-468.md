@@ -16,17 +16,16 @@ Il video 225 (`WCP26HC6wd0`) era classe **C** perché short, ma ha introdotto un
 
 ## Riepilogo
 
-- Totale residuo: 243
-- A: 44 (18%)
-- B: 140 (58%)
-- C: 59 (24%)
+- Totale residuo: 218
+- A: 34 (16%)
+- B: 131 (60%)
+- C: 53 (24%)
 
 ## Per categoria
 
 | Categoria | A | B | C | Totale |
 |---|---:|---:|---:|---:|
-| 05_acquisizione | 0 | 0 | 6 | 6 |
-| 06_vendita | 19 | 55 | 15 | 89 |
+| 06_vendita | 9 | 46 | 15 | 70 |
 | 07_copy_comunicazione | 5 | 0 | 0 | 5 |
 | 08_brand | 5 | 0 | 3 | 8 |
 | 09_business | 12 | 53 | 22 | 87 |
@@ -36,31 +35,6 @@ Il video 225 (`WCP26HC6wd0`) era classe **C** perché short, ma ha introdotto un
 
 | ID | Categoria | Formato | Classe | Titolo | Motivazione |
 |---|---|---|:---:|---|---|
-| m53_BsS_x8U | 05_acquisizione | shorts | C | Video animati per Landing page - Strategia di marketing corretta? #shorts | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| n_5xPjN-NZY | 05_acquisizione | shorts | C | 50% of Customers Go to the Leader. What Are You Doing? | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| W90bBHzfPMI | 05_acquisizione | shorts | C | ❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have! | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| 7zRyOC3Z0lM | 05_acquisizione | shorts | C | Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| Qg8Z2Oh5z3s | 05_acquisizione | shorts | C | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| xBM5PST7ZKs | 05_acquisizione | shorts | C | Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| MwNCMJE8sRk | 06_vendita | videos | A | 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| g-VOlvqnL_8 | 06_vendita | videos | A | Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | area vendita segnalata come poco satura (preventivi/testimonial/follow-up/script/qualificazione/closing) |
-| ggJnCJCXIO4 | 06_vendita | videos | A | Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| KZ78VhszH_o | 06_vendita | videos | B | How to SELL More and Generate Extraordinary PROFITS for Your Business | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| 3ZNE75sPen8 | 06_vendita | videos | A | Come Aumentare Le Conversioni: La Checklist Segreta Che Fa Impazzire I Venditori | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| lwuJ6MYETUw | 06_vendita | videos | A | Testimonials That Sell: How to Make Them Perfect in 7 Steps | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| T5ccJyQqX9c | 06_vendita | videos | A | How to Sell More: The 4 Crucial Phases of Follow-Up Marketing | area vendita segnalata come poco satura (preventivi/testimonial/follow-up/script/qualificazione/closing) |
-| t-rvhD0P5Iw | 06_vendita | videos | B | 🔥 How to Explode Sales Without Acquiring New Customers | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| dYMeQuuT8QY | 06_vendita | videos | B | How to Sell More by Turning Your Marketing Into a Magnet | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| 8XduYN366z0 | 06_vendita | videos | B | How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| rcVXvepx-l8 | 06_vendita | videos | B | Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| gcQKKrbZW28 | 06_vendita | videos | B | Live Events: How to Generate Extraordinary Sales Without Wasting Budget | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| sa45UbN4sMI | 06_vendita | videos | B | 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| Zzh6PXGTmD0 | 06_vendita | videos | B | Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| bWNr-tHknvw | 06_vendita | videos | A | Frank Merenda's Formula for Selling Any Product | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| V8CVwcH5rwA | 06_vendita | videos | A | 🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi | area vendita segnalata come poco satura (preventivi/testimonial/follow-up/script/qualificazione/closing) |
-| r649dAXopLM | 06_vendita | videos | A | Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | area vendita segnalata come poco satura (preventivi/testimonial/follow-up/script/qualificazione/closing) |
-| Q3SCQG-aZSM | 06_vendita | videos | A | #4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi" | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| uOu65O88jrU | 06_vendita | videos | B | The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less) | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
 | ellOvKnIOqk | 06_vendita | videos | B | The #1 Sales Technique for a Record-Breaking Sales Team | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
 | rI00A_jHqz8 | 10_casi_studio | videos | B | Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | caso applicativo su azienda specifica: probabile ma non certo consolidamento di dottrina esistente |
 | -_oOcTQgkcY | 06_vendita | videos | B | The Best SALES TECHNIQUES on the Internet | video lungo in area operativa senza segnali forti né di alta né di bassa densità |

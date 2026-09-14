@@ -214,80 +214,12 @@ La percentuale di personalizzazione citata nella lezione è un esempio, non una 
 
 Fonte precedente: [Strategie di Marketing per trovare clienti — Dan Kennedy e il Paccone](https://www.youtube.com/watch?v=joY6sigynis), 30 giugno 2022. [Revisione](../../sources/transcripts/joY6sigynis.review.md).
 
-## Standardizzare la diagnosi, personalizzare la prescrizione
+Il metodo di diagnosi e prescrizione usato durante la trattativa, la sua standardizzazione a livello di rete vendita e la sua forma consulenziale/autorevole sono trattati come nodo unico in [preventivo, consulenza e diagnosi](preventivo-consulenza-diagnosi.md).
 
-Nel materiale del 7 gennaio 2025 Merenda chiarisce un passaggio organizzativo della vendita consulenziale: il fatto che ogni cliente sia diverso **non giustifica una trattativa improvvisata**.
+## Collegamenti
 
-La distinzione proposta è:
-
-- **diagnosi standardizzata** — una sequenza comune di domande, controlli e passaggi che permette di capire la situazione;
-- **prescrizione personalizzata** — la soluzione finale cambia in funzione di ciò che la diagnosi ha fatto emergere.
-
-In forma sintetica:
-
-**stesso metodo di analisi → evidenze diverse → prescrizione diversa.**
-
-Questo riduce la dipendenza dallo stile individuale del singolo venditore e rende più semplice:
-
-- formare la rete;
-- confrontare trattative;
-- individuare dove il processo si rompe;
-- trasferire le pratiche migliori;
-- mantenere coerenza con posizionamento, copy e materiali di pre-vendita.
-
-Uno script non deve trasformare il venditore in un lettore meccanico. È una **coreografia diagnostica minima**: definisce ciò che non può essere dimenticato, lasciando adattabile linguaggio, approfondimento e prescrizione.
-
-### Marketing e vendita devono coprirsi a vicenda senza scaricarsi la colpa
-
-La fonte descrive quattro strati che cooperano prima e durante la trattativa:
-
-1. posizionamento;
-2. copy/materiali;
-3. automazioni e pre-vendita;
-4. venditore preparato.
-
-Se i primi tre sono deboli, il venditore deve fare più lavoro; se la vendita è improvvisata, anche lead ben generati possono essere sprecati.
-
-Le proporzioni “10/10/80” e l'“80%” attribuito al venditore sono esempi retorici del video, non benchmark.
-
-Il principio attivo è:
-
-**non diagnosticare automaticamente “lead scadenti” quando il sistema commerciale non segue un processo ripetibile.**
-
-Fonte precedente: [TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi](https://www.youtube.com/watch?v=V8CVwcH5rwA), 7 gennaio 2025. [Revisione](../../sources/transcripts/V8CVwcH5rwA.review.md).
-
-## Vendita consulenziale: diagnosi, fatti e prescrizione
-
-Nel materiale del 7 giugno 2024 Merenda descrive una forma di vendita consulenziale nella quale il professionista non si limita a essere gentile o tecnicamente preparato.
-
-Per essere percepito come esperto deve essere disposto a:
-
-1. **diagnosticare** ciò che il cliente sta facendo male;
-2. **mostrare fatti, numeri ed evidenze** anche quando sono scomodi;
-3. **spiegare le conseguenze** del comportamento attuale;
-4. **prescrivere un comportamento diverso**;
-5. chiedere al cliente di fidarsi della prescrizione.
-
-Il parallelo è il medico che non si limita a descrivere il problema, ma dice chiaramente cosa deve cambiare e perché.
-
-Questo modello richiede autorità già costruita prima della trattativa. Se il professionista arriva come sconosciuto, la stessa franchezza può essere percepita come arroganza o aggressione.
-
-Perciò il percorso è:
-
-**autorità/prove prima → diagnosi autorevole → prescrizione → trattativa**
-
-Libri, testimonianze, casi e referral servono anche a guadagnare il diritto di dire al prospect cose scomode che un venditore generico non può permettersi di dire.
-
-Nel materiale più recente del 19 maggio 2026 Merenda applica la stessa logica al cliente che arriva dicendo di avere già provato altre soluzioni senza successo. Il fallimento precedente non va trattato automaticamente come prova che anche la nuova proposta non funzionerà: il venditore deve capire che il cliente può avere seguito un processo decisionale inadeguato e, se possiede diagnosi, prove e un'offerta coerente, deve **guidarlo verso un processo diverso** invece di restituirgli semplicemente la stessa indecisione che lo ha portato al problema.
-
-Questa fermezza riguarda prima di tutto il **dialogo mentale interno del venditore**. Merenda chiarisce esplicitamente che il linguaggio provocatorio usato sul palco non va copiato in trattativa: pensare con convinzione «devo fermare il cliente dal ripetere l'errore» non autorizza a comunicare con aggressività o disprezzo. La convinzione interna serve a sostenere una prescrizione chiara, mentre la comunicazione esterna deve restare adatta alla relazione.
-
-Il principio operativo diventa quindi:
-
-**capire il fallimento precedente → diagnosticare il processo che lo ha prodotto → proporre una strada diversa → ridurre il rischio con l'offerta → guidare con fermezza la decisione.**
-
-Quando la proposta include una garanzia o un'altra forma sostenibile di riduzione del rischio, questa rafforza la possibilità di chiedere al cliente di affidarsi alla prescrizione. La garanzia non sostituisce diagnosi e autorevolezza: riduce l'attrito della decisione.
-
-Fonte più recente: [Ho Già Provato e Non Ha Funzionato — La Scusa che Distrugge il Tuo Fatturato](https://www.youtube.com/watch?v=8R8NR6nqhJY), 19 maggio 2026. [Revisione](../../sources/transcripts/8R8NR6nqhJY.review.md).
-
-Fonte: [Una PMI può vincere sul mercato?](https://www.youtube.com/watch?v=bHxjwGQQoUw), 7 giugno 2024. [Revisione](../../sources/transcripts/bHxjwGQQoUw.review.md).
+- [Preventivo, consulenza e diagnosi](preventivo-consulenza-diagnosi.md)
+- [Follow-up dei lead non convertiti](follow-up-lead-non-convertiti.md)
+- [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
+- [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
+- [Prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md)
