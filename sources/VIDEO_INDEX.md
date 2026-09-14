@@ -201,7 +201,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 191 | mDBoBf6qugE | 20250313 | [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www.youtube.com/watch?v=mDBoBf6qugE) | 3618.0 | 03_offerta | 2 | STUDIATO | videos |
 | 192 | yu6t8pXgzMA | 20250130 | [Landing Page Imbattibili: 7 Metodi Testati Per Migliorare Le Conversioni [In Ogni Settore]](https://www.youtube.com/watch?v=yu6t8pXgzMA) | 1064.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 193 | PLIAmuNzx_s | 20250128 | [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s) | 1238.0 | 09_business | 2 | STUDIATO | videos |
-| 194 | GEWf_KjMfhI | 20240809 | [La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare](https://www.youtube.com/watch?v=GEWf_KjMfhI) | 474.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 194 | GEWf_KjMfhI | 20240809 | [La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare](https://www.youtube.com/watch?v=GEWf_KjMfhI) | 474.0 | 10_casi_studio | 2 | STUDIATO | videos |
 | 195 | SK338MdNIy0 | 20240627 | [The Easiest Way to Market and Get Clients [Now]](https://www.youtube.com/watch?v=SK338MdNIy0) | 529.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 196 | TF9UGPSLxSw | 20230629 | [Come fare campagne online per trovare clienti - La creazione della promessa](https://www.youtube.com/watch?v=TF9UGPSLxSw) | 867.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 197 | wF8Dqa_VtW8 | 20230425 | [Come trovare i clienti migliori (e capire quali lasciar perdere)](https://www.youtube.com/watch?v=wF8Dqa_VtW8) | 1093.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
