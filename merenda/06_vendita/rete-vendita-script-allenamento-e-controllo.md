@@ -190,6 +190,78 @@ Questo collega la rete vendita alla [scalabilità](../09_business/scalabilita-e-
 
 Fonte: [RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati]](https://www.youtube.com/watch?v=oefQwsBIUc0), 3 giugno 2024. [Revisione](../../sources/transcripts/oefQwsBIUc0.review.md).
 
+## Gestire la performance: standard, incentivi, review, turnover
+
+Nel materiale del 31 maggio 2024 Merenda propone una piramide in quattro livelli per distinguere problemi che spesso vengono confusi.
+
+### 1. Norma: esiste uno standard minimo
+
+La base non è “fare del proprio meglio”, ma una soglia di prestazione e comportamento compatibile con l'economia del reparto.
+
+Gli indicatori possono comprendere:
+
+- tasso di conversione;
+- fatturato/margine;
+- qualità dei contratti;
+- rispetto del mix di prodotti strategico;
+- qualità dell'incasso e degli accordi;
+- corretta gestione dei dati e dei passaggi amministrativi;
+- comportamenti verso clienti e altri reparti.
+
+Il set preciso dipende dal business. Il punto è che **la performance commerciale non si misura soltanto sul fatturato lordo**.
+
+### 2. Incentivi: premiare la sovraperformance
+
+Gli incentivi servono a riconoscere chi supera in modo utile gli standard, non a comprare l'esecuzione di compiti minimi già compresi nel ruolo.
+
+Un piano di incentivo dovrebbe quindi distinguere:
+
+- risultato minimo atteso;
+- risultati superiori;
+- qualità del risultato;
+- coerenza con gli obiettivi economici dell'azienda.
+
+Premiare soltanto il volume può spingere comportamenti dannosi: sconti eccessivi, mix poco profittevole, contratti incompleti, crediti difficili o clienti inappropriati.
+
+### 3. Performance review: recuperare prima di sostituire
+
+Quando i dati scendono sotto soglia, Merenda non propone di aumentare automaticamente il premio.
+
+La sequenza descritta è:
+
+**segnale negativo → colloquio → diagnosi della causa → retraining/affiancamento → periodo di verifica → nuova misura.**
+
+La review deve capire se il problema è:
+
+- tecnico;
+- di processo;
+- di preparazione;
+- motivazionale;
+- di ruolo/fit;
+- temporaneo.
+
+L'obiettivo iniziale è recuperare una persona che può tornare a performare.
+
+### 4. Turnover: non mantenere indefinitamente un errore
+
+Se, dopo formazione, feedback e un periodo ragionevole di verifica, performance o comportamenti restano incompatibili con il ruolo, l'azienda deve poter cambiare assegnazione o rapporto secondo le regole applicabili.
+
+La KB conserva il principio manageriale, non le procedure disciplinari specifiche raccontate nella fonte. Contratti, richiami, incentivi, licenziamenti e privacy dipendono dalla legge e dagli accordi applicabili.
+
+### KPI economici: il venditore modifica anche il costo di acquisizione
+
+A parità di lead generate, due venditori con tassi di conversione diversi producono economie molto diverse.
+
+Quindi il costo commerciale reale non è soltanto:
+
+**spesa marketing / lead**
+
+ma dipende anche da quanto efficacemente la rete trasforma le opportunità in clienti appropriati e profittevoli.
+
+Questo collega la performance della vendita al [costo di acquisizione e alla cassa](../09_business/numeri-cassa-e-crescita.md).
+
+Fonte: [Come Gestire una Rete Vendita al Top](https://www.youtube.com/watch?v=jzQcezkw8_o), 31 maggio 2024. [Revisione](../../sources/transcripts/jzQcezkw8_o.review.md).
+
 ## Prova sociale anche come strumento interno
 
 Testimonianze e casi non servono solo a convincere il prospect.
