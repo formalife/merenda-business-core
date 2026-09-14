@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 17/25 completati; BLOCCATA al contenuto 143 per transcript assente.**
+**Elaborazione semantica del batch 126–150 — 18/25 completati; prossimo contenuto canonico: 144 `Sjmvw03Oxqc`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 142
-- STUDIATO / integrati nella KB: 136
+- Contenuti processati semanticamente: 143
+- STUDIATO / integrati nella KB: 137
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 326
+- Da processare: 325
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
-- Asset 126–150: 22 ACQUIRED, 3 NO_IT_TRANSCRIPT, 0 ERROR, 0 PENDING
-- Elaborazione semantica 126–150: 17/25 completati
+- Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
+- Elaborazione semantica 126–150: 18/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -51,39 +51,33 @@ Branch tecnico integrato su main: `acquisition-126-150`.
 - nessun video marcato STUDIATO/ESCLUSO durante l'acquisizione
 - KB, queue canonica, catalogo, VIDEO_INDEX, reviews, file congelati e script invariati nel branch tecnico
 
-Contenuti senza transcript italiano:
+Fallback ASR locale completato e integrato su `main` per i tre contenuti privi di sottotitoli italiani:
 - `jcVKVKvy78k` — posizione 143
 - `joY6sigynis` — posizione 148
 - `ijVoIMF_gn8` — posizione 149
 
-Per questi tre sono disponibili i metadata, ma non un transcript utilizzabile. Non inventare contenuti: servirà fallback audio/trascrizione tecnica prima della loro elaborazione semantica.
+I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il contenuto 143 è stato revisionato e marcato STUDIATO.
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Il prossimo contenuto canonico è `jcVKVKvy78k` (posizione 143), ma non dispone di transcript italiano utilizzabile.
+Proseguire con CHATGPT in ordine canonico dal contenuto 144:
 
-Passare a CODEX per un fallback tecnico locale di trascrizione audio. Per evitare ulteriori interruzioni nello stesso batch, il fallback può essere preparato nello stesso intervento anche per gli altri due contenuti già noti senza transcript:
+- `Sjmvw03Oxqc` — *Spot Anni '80: Il MARKETING della nostra infanzia!*
 
-- `jcVKVKvy78k` — posizione 143
-- `joY6sigynis` — posizione 148
-- `ijVoIMF_gn8` — posizione 149
-
-L'acquisizione/trascrizione tecnica di 148 e 149 in anticipo non modifica l'ordine semantico: ChatGPT dovrà comunque riprendere dal 143 e procedere in ordine.
-
-Non marcare questi video STUDIATO o ESCLUSO durante il fallback tecnico. Non modificare KB, queue canonica, categorie o review semantiche.
+Non saltare 144–147 anche se i fallback ASR di 148 e 149 sono già disponibili. Dopo il completamento semantico del 150, fermarsi e passare a CLAUDE CODE per **FASE 14 + FASE 15**. Non acquisire 151–175 prima della conclusione della FASE 15.
 
 ## Primo pendente
 
-`jcVKVKvy78k` — *Le Tattiche Segrete dei Samurai Italiani applicate al Marketing* — `04_marketing` — posizione 143.
+`Sjmvw03Oxqc` — *Spot Anni '80: Il MARKETING della nostra infanzia!* — posizione 144.
 
-Metadata disponibili; transcript italiano assente.
+Transcript italiano disponibile; pronto per revisione semantica.
 
 ## Validazione e blocchi
 
 Le anomalie note di `scripts/validate_project.py` restano quelle preesistenti già documentate: confronto file congelati vs tag v1.0 e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue. Nessuna nuova anomalia tecnica è stata rilevata nell'integrazione del batch.
 
-Blocco previsto alla posizione 143: transcript italiano assente per `jcVKVKvy78k`.
+Il blocco alla posizione 143 è risolto tramite fallback ASR locale. Restano soltanto le anomalie preesistenti già documentate.

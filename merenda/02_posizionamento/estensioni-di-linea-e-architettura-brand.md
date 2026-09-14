@@ -88,6 +88,25 @@ anziché:
 
 Questa logica è stata sviluppata ulteriormente nel 2025 nel framework sull'[espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md).
 
+### Ragione sociale e brand di mercato: il caso Sisma
+
+Nel caso presentato nel novembre 2023, Merenda usa Sisma come esempio di separazione fra **azienda proprietaria** e **brand visibili al mercato**.
+
+La ricostruzione della lezione associa alla stessa azienda più identità focalizzate — Samurai, Cotoneve, Farmacotone e Logix — invece di usare il nome societario o il primo brand di successo come etichetta per categorie differenti.
+
+Il punto strategico non è il dettaglio storico dei singoli prodotti, ma l'architettura:
+
+- la ragione sociale può restare sullo sfondo;
+- infrastruttura, competenze produttive e distribuzione possono essere condivise;
+- quando cambia categoria o significato per il cliente, il nome di mercato può cambiare;
+- il successo di un primo brand non è di per sé una ragione per trascinarlo sulle opportunità successive.
+
+Il caso è quindi una prova applicativa della regola **azienda proprietaria → più brand focalizzati**. Non sostituisce il framework più recente del 2025 sull'espansione multibrand, che resta la guida operativa attiva.
+
+Frank cita anche dati storici e confronti finanziari relativi a Sisma, Sony e Apple. Questi numeri non vengono consolidati qui come benchmark o fatti autonomi: nella KB interessa il metodo di lettura e il principio di architettura del brand, non la verifica contabile dei singoli casi.
+
+Fonte: [Le Tattiche Segrete dei Samurai Italiani applicate al Marketing](https://www.youtube.com/watch?v=jcVKVKvy78k), 29 novembre 2023. [Revisione](../../sources/transcripts/jcVKVKvy78k.review.md).
+
 ## Spin-off: separare il contesto può rendere credibile la stessa offerta
 
 Il caso CosMc's mostra una forma concreta di separazione.

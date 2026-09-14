@@ -26,6 +26,25 @@ La strategia definisce principi e direzione sul mercato; le tattiche sono gli st
 
 Per mettere alla prova idee e abitudini, Merenda propone di confrontarsi anche con imprenditori di altri settori: possono osservare un'esperienza con gli occhi del potenziale cliente e riconoscere difetti che gli addetti ai lavori danno per inevitabili. Lo scambio serve a generare idee, non a copiare il concorrente o un altro allievo. [35:33–38:24; 61:18–62:55](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=2133s)
 
+## Diventare esperti di marketing del proprio settore
+
+Nel materiale del 29 novembre 2023 Merenda rende più concreta la responsabilità strategica dell'imprenditore: non serve trasformarsi in un divulgatore generalista di marketing, ma bisogna diventare **esperti di marketing del proprio settore**.
+
+Questo richiede di leggere il mercato come una sequenza nel tempo, non come una fotografia isolata. Le domande da ricostruire includono:
+
+- da dove partivano azienda e concorrenti;
+- come sono cambiati nel tempo fatturato, redditività e altri dati economici disponibili;
+- quali erano i benchmark del settore nei medesimi periodi;
+- quali lanci o cambi di posizionamento sono stati fatti;
+- quali contromosse ha fatto la concorrenza;
+- come sono evoluti risultati e quote dopo quelle mosse.
+
+Il metodo serve a evitare due errori: copiare un caso di successo senza conoscerne la storia e accettare come prova una singola iniziativa osservata fuori dal suo contesto competitivo.
+
+Gli esempi provenienti da altri settori restano utili per generare idee e mettere in discussione abitudini, ma la competenza decisionale dell'imprenditore deve diventare specifica sul proprio mercato. Anche il confronto con consulenti o interlocutori esperti viene presentato come modo per ridurre i propri bias, non come sostituto della comprensione strategica interna.
+
+Fonte: [Le Tattiche Segrete dei Samurai Italiani applicate al Marketing](https://www.youtube.com/watch?v=jcVKVKvy78k), 29 novembre 2023. [Revisione](../../sources/transcripts/jcVKVKvy78k.review.md).
+
 ## Il settore cambia il contenuto, non la struttura del direct response
 
 Merenda contesta la ricerca continua di una versione speciale della stessa tattica per ogni settore.

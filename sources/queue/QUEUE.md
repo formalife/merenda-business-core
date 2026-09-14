@@ -152,7 +152,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 140 | [JUaqpqx6G-8](https://www.youtube.com/watch?v=JUaqpqx6G-8) — [Strategie di Marketing] Bisogno di Reciprocità | 05_acquisizione | STUDIATO |
 | 141 | [Slo-0E7GU4o](https://www.youtube.com/watch?v=Slo-0E7GU4o) — MARKETING PER RISTORANTI: Tutti i Segreti per Riempire il Tuo Locale | 10_casi_studio | STUDIATO |
 | 142 | [aRCppOvE-js](https://www.youtube.com/watch?v=aRCppOvE-js) — Tecniche di Marketing per Aspiranti Formatori e Coach | 08_brand | STUDIATO |
-| 143 | [jcVKVKvy78k](https://www.youtube.com/watch?v=jcVKVKvy78k) — Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | 04_marketing | DA STUDIARE |
+| 143 | [jcVKVKvy78k](https://www.youtube.com/watch?v=jcVKVKvy78k) — Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | 10_casi_studio | STUDIATO |
 | 144 | [Sjmvw03Oxqc](https://www.youtube.com/watch?v=Sjmvw03Oxqc) — Spot Anni '80: Il MARKETING della nostra infanzia! | 04_marketing | DA STUDIARE |
 | 145 | [F1seup0MuLk](https://www.youtube.com/watch?v=F1seup0MuLk) — Come fare una campagna marketing di successo &#124; La piramide del Marketing | 04_marketing | DA STUDIARE |
 | 146 | [VRXyHpVBvAo](https://www.youtube.com/watch?v=VRXyHpVBvAo) — STRATEGIE DI MARKETING &#124; Risposte di Frank Merenda, esperto di Marketing #1 | 04_marketing | DA STUDIARE |
