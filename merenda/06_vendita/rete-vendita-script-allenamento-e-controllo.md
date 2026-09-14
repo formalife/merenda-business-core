@@ -54,6 +54,27 @@ Merenda propone un ciclo ricorrente:
 
 La frequenza quotidiana citata nella fonte è un modello intensivo, non una soglia universale. Il principio è che la formazione commerciale deve includere **pratica ripetuta**, non soltanto lezioni teoriche occasionali.
 
+### L'adozione di un metodo può creare un learning dip iniziale
+
+Nel materiale del 20 febbraio 2023 Merenda descrive un problema tipico quando un venditore abituato a lavorare “a braccio” viene portato dentro uno script più rigoroso.
+
+All'inizio può accadere che:
+
+- la conversazione sembri meno naturale;
+- il venditore debba pensare consapevolmente alle domande;
+- tono e fluidità peggiorino temporaneamente;
+- alcuni risultati calino mentre la nuova sequenza non è ancora automatizzata.
+
+Questo non dimostra automaticamente che il metodo sia inferiore. Può essere il costo di apprendimento che compare quando una competenza nuova sostituisce un'abitudine consolidata.
+
+La risposta proposta è:
+
+**standard nuovo → pratica guidata → disagio/errore iniziale → ripetizione e feedback → nuova misurazione.**
+
+Il caveat è essenziale: non ogni metodo migliora solo perché viene ripetuto abbastanza. Dopo un periodo di addestramento sufficiente, l'azienda deve comunque verificare sui dati se conversione, qualità delle vendite e altri KPI pertinenti migliorano. Il “calo prima della crescita” è quindi una possibile dinamica di adozione, non una curva garantita.
+
+Fonte precedente: [Come vendere di più utilizzando gli script di vendita](https://www.youtube.com/watch?v=21iVqc13KoE), 20 febbraio 2023. [Revisione](../../sources/transcripts/21iVqc13KoE.review.md).
+
 ## Registrare e rivedere le interazioni quando è lecito
 
 Un processo commerciale migliora più facilmente se l'azienda può osservare ciò che accade davvero.
