@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 21/25 completati; prossimo contenuto canonico: 147 `W9IOyR3fsEo`.**
+**Elaborazione semantica del batch 126–150 — 22/25 completati; prossimo contenuto canonico: 148 `joY6sigynis`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 146
-- STUDIATO / integrati nella KB: 140
+- Contenuti processati semanticamente: 147
+- STUDIATO / integrati nella KB: 141
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 322
+- Da processare: 321
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 21/25 completati
+- Elaborazione semantica 126–150: 22/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,9 +66,9 @@ I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il conte
 
 Proseguire con CHATGPT in ordine canonico dal contenuto 144:
 
-- `W9IOyR3fsEo` — *Mental Manipulation | Dan Kennedy and Unfair Marketing Techniques* — posizione 147.
+- `joY6sigynis` — *Strategie di Marketing per trovare clienti |DAN KENNEDY e il PACCONE* — posizione 148.
 
-Transcript italiano disponibile; pronto per revisione semantica.
+Fallback ASR locale disponibile; pronto per revisione semantica.
 
 ## Validazione e blocchi
 

@@ -14,6 +14,69 @@ La lead generation rimane utile, ma se viene preceduta dalla costruzione di auto
 
 Merenda usa il brand forte come concetto parallelo per spiegare l'effetto, precisando che brand e autorità non sono esattamente la stessa cosa.
 
+## Autorità, credibilità e fiducia: tre lavori distinti
+
+Nel materiale del 30 giugno 2022 Merenda presenta, attribuendolo agli insegnamenti di Dan Kennedy, un triangolo che separa tre problemi spesso confusi:
+
+1. **autorità** — la posizione da cui il soggetto parla;
+2. **credibilità** — le prove che rendono plausibili le sue affermazioni;
+3. **fiducia** — la relazione che riduce la distanza emotiva con il cliente.
+
+### Autorità
+
+L'autorità viene costruita con simboli e contesti che fanno percepire competenza prima della prova diretta:
+
+- libri e pubblicazioni;
+- interventi pubblici;
+- media, podcast, eventi e contesti esterni;
+- materiali propri e asset che mostrano specializzazione.
+
+Questa parte è già sviluppata nelle sezioni precedenti di questo documento.
+
+### Credibilità
+
+La credibilità richiede fatti e prove.
+
+Merenda distingue una via più rapida — associazione con persone, media o contesti già riconosciuti — e una progressiva costruita con:
+
+- testimonianze;
+- casi;
+- risultati documentabili;
+- dati e numeri pertinenti;
+- certificazioni o altre prove realmente applicabili;
+- storia e continuità operativa.
+
+La prova va poi riutilizzata nei materiali di marketing e nella vendita, non semplicemente raccolta e archiviata.
+
+### Fiducia
+
+La fiducia viene descritta come più relazionale ed emotiva.
+
+Nel marketing e nella vendita si costruisce mostrando **affinità reale** con il target:
+
+- comprensione del suo dialogo mentale;
+- esperienze o problemi riconoscibili;
+- domande e ascolto;
+- capacità di far percepire al cliente che il suo contesto è compreso.
+
+L'affinità da sola non sostituisce autorità e credibilità: essere simpatici o orientati al cliente non elimina automaticamente diffidenza, negoziazione e rischio percepito.
+
+### Il caveat etico della lezione
+
+Merenda usa il termine “manipolazione” nel senso di costruire intenzionalmente il contesto percettivo che permette al cliente di valutare una proposta. Nella stessa lezione insiste però su una distinzione sostanziale:
+
+**la tecnica persuasiva non rende automaticamente onesta la proposta; l'operatore serio deve mantenere le promesse e consegnare il valore dichiarato.**
+
+Un soggetto può costruire simboli di autorità e credibilità anche senza avere un prodotto valido. Per questo la KB non tratta i simboli come prova oggettiva di qualità: sono strumenti di percezione che devono essere sostenuti da erogazione, risultati e promesse vere.
+
+Il triangolo è quindi utile come checklist:
+
+**autorità → credibilità → fiducia → prova/acquisto**
+
+ma non autorizza a sostituire la sostanza con la sola percezione.
+
+Fonte precedente: [Manipolazione Mentale — Dan Kennedy e le Tecniche Sleali del Marketing](https://www.youtube.com/watch?v=W9IOyR3fsEo), 30 giugno 2022. [Revisione](../../sources/transcripts/W9IOyR3fsEo.review.md).
+
 ## Gli strumenti principali di autorità
 
 ### Libri
