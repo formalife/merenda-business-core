@@ -154,7 +154,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 142 | [aRCppOvE-js](https://www.youtube.com/watch?v=aRCppOvE-js) — Tecniche di Marketing per Aspiranti Formatori e Coach | 08_brand | STUDIATO |
 | 143 | [jcVKVKvy78k](https://www.youtube.com/watch?v=jcVKVKvy78k) — Le Tattiche Segrete dei Samurai Italiani applicate al Marketing | 10_casi_studio | STUDIATO |
 | 144 | [Sjmvw03Oxqc](https://www.youtube.com/watch?v=Sjmvw03Oxqc) — Spot Anni '80: Il MARKETING della nostra infanzia! | 04_marketing | STUDIATO |
-| 145 | [F1seup0MuLk](https://www.youtube.com/watch?v=F1seup0MuLk) — Come fare una campagna marketing di successo &#124; La piramide del Marketing | 04_marketing | DA STUDIARE |
+| 145 | [F1seup0MuLk](https://www.youtube.com/watch?v=F1seup0MuLk) — Come fare una campagna marketing di successo &#124; La piramide del Marketing | 04_marketing | STUDIATO |
 | 146 | [VRXyHpVBvAo](https://www.youtube.com/watch?v=VRXyHpVBvAo) — STRATEGIE DI MARKETING &#124; Risposte di Frank Merenda, esperto di Marketing #1 | 04_marketing | DA STUDIARE |
 | 147 | [W9IOyR3fsEo](https://www.youtube.com/watch?v=W9IOyR3fsEo) — Mental Manipulation &#124; Dan Kennedy and Unfair Marketing Techniques | 04_marketing | DA STUDIARE |
 | 148 | [joY6sigynis](https://www.youtube.com/watch?v=joY6sigynis) — Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE | 04_marketing | DA STUDIARE |

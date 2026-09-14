@@ -2,6 +2,25 @@
 
 Fonte principale: Frank Merenda, [Campagne di Marketing a Risposta Diretta: Come Ottenere Risultati Immediati](https://www.youtube.com/watch?v=4PoyRaEqTOQ), pubblicato il 6 maggio 2025. [Revisione](../../sources/transcripts/4PoyRaEqTOQ.review.md).
 
+## Prima della nuova acquisizione: lavorare la domanda già posseduta
+
+La lezione del 24 gennaio 2023 presenta la gerarchia dei canali come soltanto la parte superiore della piramide. Per un'azienda già operativa, prima di investire per raggiungere nuovi sconosciuti esistono gruppi sui quali il costo commerciale è già stato sostenuto in tutto o in parte:
+
+- clienti attivi, da far acquistare con maggiore frequenza o profondità;
+- clienti già acquisiti ma fermi, da riattivare;
+- referral generati da clienti soddisfatti;
+- lead e prospect già entrati nel sistema ma non convertiti, da seguire invece di abbandonare.
+
+Il principio stabile è quindi:
+
+**prima sfruttare responsabilmente relazioni, dati e domanda già costruiti; poi aumentare l'investimento per acquisire nuova domanda.**
+
+L'ordine preciso tra referral e clienti fermi viene formulato diversamente in materiali successivi. Per la gerarchia interna prevale il materiale specifico e più recente del 2025 sulla [riattivazione dei clienti](riattivazione-clienti.md), che ordina clienti attivi → referral → clienti fermi → prospect nuovi. Il 2023 resta utile perché rende esplicito anche il valore dei **non convertiti**: una lead che ha già richiesto informazioni, ricevuto un preventivo o interagito con la vendita non va trattata come se non fosse mai esistita.
+
+Questo collega la scelta dei canali al [follow-up commerciale](../06_vendita/prequalifica-follow-up-decisori.md): generare lead e prenderle in carico rapidamente sono due parti dello stesso sistema.
+
+Fonte precedente: [Come fare una campagna marketing di successo — La piramide del Marketing](https://www.youtube.com/watch?v=F1seup0MuLk), 24 gennaio 2023. [Revisione](../../sources/transcripts/F1seup0MuLk.review.md).
+
 ## Prima capire il tipo di domanda, poi scegliere il media
 
 Merenda distingue due macro-situazioni:

@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 19/25 completati; prossimo contenuto canonico: 145 `F1seup0MuLk`.**
+**Elaborazione semantica del batch 126–150 — 20/25 completati; prossimo contenuto canonico: 146 `VRXyHpVBvAo`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 144
-- STUDIATO / integrati nella KB: 138
+- Contenuti processati semanticamente: 145
+- STUDIATO / integrati nella KB: 139
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 324
+- Da processare: 323
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 19/25 completati
+- Elaborazione semantica 126–150: 20/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,7 +66,7 @@ I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il conte
 
 Proseguire con CHATGPT in ordine canonico dal contenuto 144:
 
-- `F1seup0MuLk` — *Come fare una campagna marketing di successo | La piramide del Marketing* — posizione 145.
+- `VRXyHpVBvAo` — *STRATEGIE DI MARKETING | Risposte di Frank Merenda, esperto di Marketing #1* — posizione 146.
 
 Transcript italiano disponibile; pronto per revisione semantica.
 

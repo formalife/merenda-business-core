@@ -153,7 +153,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 143 | aRCppOvE-js | da acquisire | [Tecniche di Marketing per Aspiranti Formatori e Coach](https://www.youtube.com/watch?v=aRCppOvE-js) | 4025.0 | 04_marketing | 2 | DA STUDIARE | streams |
 | 144 | jcVKVKvy78k | da acquisire | [Le Tattiche Segrete dei Samurai Italiani applicate al Marketing](https://www.youtube.com/watch?v=jcVKVKvy78k) | 2228.0 | 10_casi_studio | 2 | STUDIATO | streams |
 | 145 | Sjmvw03Oxqc | da acquisire | [Spot Anni '80: Il MARKETING della nostra infanzia!](https://www.youtube.com/watch?v=Sjmvw03Oxqc) | 3813.0 | 04_marketing | 2 | STUDIATO | streams |
-| 146 | F1seup0MuLk | da acquisire | [Come fare una campagna marketing di successo &#124; La piramide del Marketing](https://www.youtube.com/watch?v=F1seup0MuLk) | 4003.0 | 04_marketing | 2 | DA STUDIARE | streams |
+| 146 | F1seup0MuLk | da acquisire | [Come fare una campagna marketing di successo &#124; La piramide del Marketing](https://www.youtube.com/watch?v=F1seup0MuLk) | 4003.0 | 04_marketing | 2 | STUDIATO | streams |
 | 147 | VRXyHpVBvAo | da acquisire | [STRATEGIE DI MARKETING &#124; Risposte di Frank Merenda, esperto di Marketing #1](https://www.youtube.com/watch?v=VRXyHpVBvAo) | 4970.0 | 04_marketing | 2 | DA STUDIARE | streams |
 | 148 | W9IOyR3fsEo | da acquisire | [Mental Manipulation &#124; Dan Kennedy and Unfair Marketing Techniques](https://www.youtube.com/watch?v=W9IOyR3fsEo) | 5606.0 | 04_marketing | 2 | DA STUDIARE | streams |
 | 149 | joY6sigynis | da acquisire | [Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE](https://www.youtube.com/watch?v=joY6sigynis) | 5287.0 | 04_marketing | 2 | DA STUDIARE | streams |
