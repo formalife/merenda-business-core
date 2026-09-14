@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 18/25 completati; prossimo contenuto canonico: 144 `Sjmvw03Oxqc`.**
+**Elaborazione semantica del batch 126–150 — 19/25 completati; prossimo contenuto canonico: 145 `F1seup0MuLk`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 143
-- STUDIATO / integrati nella KB: 137
+- Contenuti processati semanticamente: 144
+- STUDIATO / integrati nella KB: 138
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 325
+- Da processare: 324
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 18/25 completati
+- Elaborazione semantica 126–150: 19/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,13 +66,7 @@ I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il conte
 
 Proseguire con CHATGPT in ordine canonico dal contenuto 144:
 
-- `Sjmvw03Oxqc` — *Spot Anni '80: Il MARKETING della nostra infanzia!*
-
-Non saltare 144–147 anche se i fallback ASR di 148 e 149 sono già disponibili. Dopo il completamento semantico del 150, fermarsi e passare a CLAUDE CODE per **FASE 14 + FASE 15**. Non acquisire 151–175 prima della conclusione della FASE 15.
-
-## Primo pendente
-
-`Sjmvw03Oxqc` — *Spot Anni '80: Il MARKETING della nostra infanzia!* — posizione 144.
+- `F1seup0MuLk` — *Come fare una campagna marketing di successo | La piramide del Marketing* — posizione 145.
 
 Transcript italiano disponibile; pronto per revisione semantica.
 
