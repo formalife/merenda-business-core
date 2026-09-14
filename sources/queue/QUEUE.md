@@ -183,7 +183,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 169 | [oQXsQzrIv2M](https://www.youtube.com/watch?v=oQXsQzrIv2M) — Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market | 04_marketing | STUDIATO |
 | 170 | [PKgWYVvme2s](https://www.youtube.com/watch?v=PKgWYVvme2s) — Customer Experience: The Marketing Secret No One Tells You | 00_fondamenti | STUDIATO |
 | 171 | [degAX4kvT-0](https://www.youtube.com/watch?v=degAX4kvT-0) — Digital Marketing for Typical Products: The Formula for Winning Bundles | 03_offerta | STUDIATO |
-| 172 | [YvfN2NUwXtY](https://www.youtube.com/watch?v=YvfN2NUwXtY) — Marketing per il tuo CENTRO ESTETICO #shorts | 04_marketing | DA STUDIARE |
+| 172 | [YvfN2NUwXtY](https://www.youtube.com/watch?v=YvfN2NUwXtY) — Marketing per il tuo CENTRO ESTETICO #shorts | 10_casi_studio | STUDIATO |
 | 173 | [aw3Fu_LTH34](https://www.youtube.com/watch?v=aw3Fu_LTH34) — What does Marketing #shorts mean? | 04_marketing | DA STUDIARE |
 | 174 | [znVPLom4j70](https://www.youtube.com/watch?v=znVPLom4j70) — Marketing for Dentists &#124; Here's What Happens When a Dentist Does Marketing #shots | 04_marketing | DA STUDIARE |
 | 175 | [y-8LBcQsS9M](https://www.youtube.com/watch?v=y-8LBcQsS9M) — RESTAURANT MARKETING &#124; Launching a Successful Restaurant | 04_marketing | DA STUDIARE |
