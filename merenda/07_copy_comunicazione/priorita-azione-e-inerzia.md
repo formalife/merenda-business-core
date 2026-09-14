@@ -187,6 +187,46 @@ L'azione può essere piccola:
 
 Non significa forzare sempre la vendita finale: significa non lasciare il prospect in un limbo privo di progressione.
 
+## L'attenzione va mantenuta, non soltanto ottenuta
+
+Nel materiale del 1 giugno 2023 Merenda distingue il **primo aggancio** dalla capacità di mantenere il prospect mentalmente dentro una presentazione, una pagina, un video o un evento.
+
+Il principio trasferibile è:
+
+**ottenere attenzione → rinnovare continuamente la rilevanza → sostenere le affermazioni → guidare il passo successivo.**
+
+Aver ottenuto un click, una registrazione o persino un acquisto di accesso non garantisce che la persona continui a seguire. Ogni tratto del messaggio deve darle una ragione per proseguire.
+
+Le leve citate nella fonte possono essere ricondotte a famiglie più generali:
+
+- **promessa/rilevanza** — ricordare quale problema, desiderio o risultato viene servito;
+- **curiosità** — aprire domande pertinenti che il contenuto successivo risolverà;
+- **specificità** — parlare al target e al suo contesto, non a un pubblico indistinto;
+- **struttura** — rendere chiaro cosa verrà appreso o ottenuto;
+- **variazione** — cambiare ritmo, esempi, formato o livello di interazione quando serve;
+- **istruzioni esplicite** — dire con chiarezza quale azione compiere;
+- **prova nel punto della promessa** — quando una dichiarazione è importante, affiancarla a testimonianza, dimostrazione, dato o altra evidenza pertinente invece di rimandare tutta la credibilità alla fine.
+
+Quest'ultimo punto converge con il modello già canonico delle [testimonianze](../08_brand/testimonianze-e-prova-sociale.md): **claim → prova → conseguenza → passo successivo**.
+
+### Non confondere attenzione con allarmismo
+
+La fonte usa anche esempi molto aggressivi basati su minacce, paura e perdita.
+
+La KB conserva soltanto il principio valido: **rendere visibile una conseguenza reale e pertinente del non agire quando è supportata dai fatti**.
+
+Non vengono canonizzati:
+
+- scenari catastrofici inventati;
+- statistiche non verificate;
+- paure politiche/sociali usate senza relazione causale con l'offerta;
+- urgenza artificiale;
+- “segreti” inventati o credenziali artefatte.
+
+L'attenzione utile deve aumentare comprensione e decisione, non sostituire la prova con lo shock.
+
+Fonte precedente: [COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti](https://www.youtube.com/watch?v=9FpKpV15B_4), 1 giugno 2023. [Revisione](../../sources/transcripts/9FpKpV15B_4.review.md).
+
 ## Inerzia prima del cambiamento
 
 Il cliente tende a continuare ciò che già fa.

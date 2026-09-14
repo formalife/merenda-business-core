@@ -275,7 +275,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 261 | [A4I-A5hldQw](https://www.youtube.com/watch?v=A4I-A5hldQw) — VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | 06_vendita | STUDIATO |
 | 262 | [RExoYxfxFWQ](https://www.youtube.com/watch?v=RExoYxfxFWQ) — TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA | 06_vendita | STUDIATO |
 | 263 | [HJBySYV6HjA](https://www.youtube.com/watch?v=HJBySYV6HjA) — Close the SALES NEGOTIATIONS thanks to the Authority | 08_brand | STUDIATO |
-| 264 | [9FpKpV15B_4](https://www.youtube.com/watch?v=9FpKpV15B_4) — COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | 06_vendita | DA STUDIARE |
+| 264 | [9FpKpV15B_4](https://www.youtube.com/watch?v=9FpKpV15B_4) — COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | 07_copy_comunicazione | STUDIATO |
 | 265 | [imdxn91jLik](https://www.youtube.com/watch?v=imdxn91jLik) — How to create a high-performance sales network | 06_vendita | DA STUDIARE |
 | 266 | [NB9g-DhSj-4](https://www.youtube.com/watch?v=NB9g-DhSj-4) — Come vendere di più creando affinità e fiducia con i clienti | 06_vendita | DA STUDIARE |
 | 267 | [Vqn55dABlHQ](https://www.youtube.com/watch?v=Vqn55dABlHQ) — How to SELL more to your active customers | 06_vendita | DA STUDIARE |
