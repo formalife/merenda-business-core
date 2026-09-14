@@ -210,7 +210,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 196 | [JXQkNx5YyX8](https://www.youtube.com/watch?v=JXQkNx5YyX8) — Marketing &#124; How to Create a Front End That Converts | 05_acquisizione | STUDIATO |
 | 197 | [0_dyJ0ZJMEE](https://www.youtube.com/watch?v=0_dyJ0ZJMEE) — How to Create a Marketing Funnel That Works (Even on a Limited Budget) - A Guide for SMBs | 05_acquisizione | STUDIATO |
 | 198 | [j171O4uv45I](https://www.youtube.com/watch?v=j171O4uv45I) — Direct Response Marketing: 12 Strategies to Triple Your Customers (Without Spending on Advertising) | 09_business | STUDIATO |
-| 199 | [8xBneQflDhY](https://www.youtube.com/watch?v=8xBneQflDhY) — Quali Sono I Costi Di Una Campagna Di Lead Generation? Scopri I Dettagli | 05_acquisizione | DA STUDIARE |
+| 199 | [8xBneQflDhY](https://www.youtube.com/watch?v=8xBneQflDhY) — Quali Sono I Costi Di Una Campagna Di Lead Generation? Scopri I Dettagli | 09_business | STUDIATO |
 | 200 | [bW_LBSe6s5U](https://www.youtube.com/watch?v=bW_LBSe6s5U) — 🔴 Creare Un Funnel Da Zero: Il Sistema Usato Dalle Aziende Che Guadagnano Milioni | 05_acquisizione | DA STUDIARE |
 | 201 | [vD7zMl6YXzs](https://www.youtube.com/watch?v=vD7zMl6YXzs) — Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest) | 05_acquisizione | DA STUDIARE |
 | 202 | [QJUjdX0zglA](https://www.youtube.com/watch?v=QJUjdX0zglA) — LEAD GENERATION &#124; Come Trovare il Cliente ideale [Non adatto alle Web Agency] | 05_acquisizione | DA STUDIARE |

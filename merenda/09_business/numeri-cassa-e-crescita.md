@@ -16,6 +16,43 @@ Acquisire più clienti genera lavoro in vendita, produzione o erogazione, assist
 
 Il costo di acquisizione può precedere l'incasso. Nei conti occorre considerarlo insieme a produzione, consegna e installazione, sostenendo poi struttura e risorse per ulteriori investimenti. La capacità economica di acquisire clienti conta più della semplice disponibilità a spendere. [63:01–68:33](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=3781s)
 
+## Il CAC reale comprende l'intero percorso di acquisizione
+
+Nel materiale del 25 agosto 2022 Merenda rende esplicito un errore di contabilità gestionale: trattare come costo di acquisizione soltanto il media spend o il costo per click.
+
+Il costo reale del nuovo cliente può includere, a seconda del sistema:
+
+- traffico a pagamento o invii fisici;
+- produzione e spedizione dei materiali;
+- retargeting/remarketing e follow-up;
+- tempo e costo del venditore;
+- assistenza necessaria prima della vendita;
+- strumenti e persone che rendono possibile il passaggio fino all'acquisto.
+
+La misura utile non è quindi “quanto ho pagato il lead”, ma **quanto capitale e capacità ho dovuto impiegare perché quel cliente effettuasse la vendita**.
+
+### Incasso, margine e recupero del CAC sono tre cose diverse
+
+L'incasso iniziale non coincide automaticamente con profitto.
+
+Per leggere la prima transazione occorre separare:
+
+1. denaro incassato;
+2. margine lordo prodotto da ciò che è stato venduto;
+3. costi di acquisizione ancora da recuperare.
+
+Un front-end a basso margine, break-even o perdita può essere sostenibile soltanto se gli acquisti successivi recuperano questi costi entro una finestra compatibile con la cassa.
+
+La conseguenza finanziaria è che l'acquisizione moderna può **anticipare l'uscita di cassa rispetto all'incasso**. Quanto più lungo è il payback, tanto maggiore è il capitale necessario per crescere senza strangolare l'operatività.
+
+La formulazione riusabile è:
+
+**costo completo di acquisizione → margine della prima vendita → saldo ancora da recuperare → acquisti successivi/retention → payback.**
+
+Le piramidi e i numeri mostrati nel video sono strumenti didattici, non benchmark universali.
+
+Fonte precedente: [Marketing: quanto costa davvero trovare clienti?](https://www.youtube.com/watch?v=8xBneQflDhY), 25 agosto 2022. [Revisione](../../sources/transcripts/8xBneQflDhY.review.md).
+
 ## Misure da chiedere alle campagne
 
 Merenda dà precedenza al costo per vendita, a quanti clienti comprano, a quanto comprano e al tempo entro cui il denaro ritorna in azienda. Click, contatti e lead diventano utili quando aiutano ad analizzare e ottimizzare questi risultati; non li sostituiscono. [68:35–71:11](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=4115s)
