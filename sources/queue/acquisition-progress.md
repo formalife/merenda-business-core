@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:51:49.656151+00:00
+Ultimo aggiornamento: 2026-09-14T19:51:55.141603+00:00
 
 Batch: 25 video
-Completati tecnicamente: 9/25
+Completati tecnicamente: 10/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -16,7 +16,7 @@ Completati tecnicamente: 9/25
 | 7 | oefQwsBIUc0 | RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | jzQcezkw8_o | How to Manage a Top-Rated Sales Network | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | 5-UeSJzSvos | Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | XDnktZGk-ZM | How to Sell More? Learn from the Money-Grabbing Method of American Churches | PENDING |  |
+| 10 | XDnktZGk-ZM | How to Sell More? Learn from the Money-Grabbing Method of American Churches | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | A4I-A5hldQw | VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | PENDING |  |
 | 12 | RExoYxfxFWQ | TECNICHE DI VENDITA \| Script e Processi per diventare un VENDITORE PROFESSIONISTA | PENDING |  |
 | 13 | HJBySYV6HjA | Close the SALES NEGOTIATIONS thanks to the Authority | PENDING |  |
