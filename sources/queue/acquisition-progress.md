@@ -1,15 +1,15 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:08:53.533381+00:00
+Ultimo aggiornamento: 2026-09-14T13:08:59.788921+00:00
 
 Batch: 25 video
-Completati tecnicamente: 2/25
+Completati tecnicamente: 3/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | vD7zMl6YXzs | Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest) | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | QJUjdX0zglA | LEAD GENERATION \| Come Trovare il Cliente ideale [Non adatto alle Web Agency] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | uayjrQ6GWQc | How to Acquire Profiled Contacts with Lead Generation [Done Right] | PENDING |  |
+| 3 | uayjrQ6GWQc | How to Acquire Profiled Contacts with Lead Generation [Done Right] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | nAqH9enAM1U | Lead Generation: What It Means and How to Do It [Which Tools to Use] | PENDING |  |
 | 5 | R22IWnVNYus | Come trovare nuovi clienti con campagne di Lead Generation | PENDING |  |
 | 6 | zfmFg5L7VDU | How to Do Lead Generation in Your Business \| Key Concepts | PENDING |  |
