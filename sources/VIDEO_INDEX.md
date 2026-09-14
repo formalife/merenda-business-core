@@ -162,7 +162,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 152 | 8R8NR6nqhJY | da acquisire | ["I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue](https://www.youtube.com/watch?v=8R8NR6nqhJY) | n.d. | 06_vendita | 3 | STUDIATO | shorts |
 | 153 | -oYSpJrj024 | da acquisire | [The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do](https://www.youtube.com/watch?v=-oYSpJrj024) | n.d. | 03_offerta | 3 | STUDIATO | shorts |
 | 154 | v6WWqNpNSpE | da acquisire | [The Unfair Advantage You Can Create From Scratch Today](https://www.youtube.com/watch?v=v6WWqNpNSpE) | n.d. | 02_posizionamento | 3 | STUDIATO | shorts |
-| 155 | _6QCnb6Oj1Y | da acquisire | [Customer Lifetime Value: Why Not Knowing This Value Will Set You Back](https://www.youtube.com/watch?v=_6QCnb6Oj1Y) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 155 | _6QCnb6Oj1Y | da acquisire | [Customer Lifetime Value: Why Not Knowing This Value Will Set You Back](https://www.youtube.com/watch?v=_6QCnb6Oj1Y) | n.d. | 09_business | 3 | STUDIATO | shorts |
 | 156 | Z7FhdrG-fOw | da acquisire | [How to Increase Revenue with Just One Question](https://www.youtube.com/watch?v=Z7FhdrG-fOw) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 157 | 5awWbxibHIE | da acquisire | [Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣](https://www.youtube.com/watch?v=5awWbxibHIE) | n.d. | 09_business | 3 | DA STUDIARE | shorts |
 | 158 | G6j8xbargKY | da acquisire | [Coaches and Trainers for Companies - Be Careful Who You Follow](https://www.youtube.com/watch?v=G6j8xbargKY) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |

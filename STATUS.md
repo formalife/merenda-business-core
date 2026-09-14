@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–153 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–154 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–153/175. `v6WWqNpNSpE` confermato senza duplicazioni e riclassificato in `02_posizionamento`. Prossima azione: fasi 8–13 su `_6QCnb6Oj1Y` (posizione canonica 154). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–154/175. `_6QCnb6Oj1Y` integrato in `09_business`. Prossima azione: fasi 8–13 su `Z7FhdrG-fOw` (posizione canonica 155). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 153
-- STUDIATO / integrati nella KB: 147
+- Contenuti processati semanticamente: 154
+- STUDIATO / integrati nella KB: 148
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 315
+- Da processare: 314
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `_6QCnb6Oj1Y` — *Customer Lifetime Value: Perché Non Conoscere Questo Valore Ti Farà Fallire* — posizione canonica 154 della queue. I video 151–153 sono completati semanticamente.
+Continuare il batch **151–175** con `Z7FhdrG-fOw` — *Come Aumentare Il Fatturato Con Una Sola Domanda* — posizione canonica 155 della queue. I video 151–154 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **3/25** contenuti del batch completati. Il 153 `v6WWqNpNSpE` è `STUDIATO`, riclassificato in `02_posizionamento` e non ha richiesto modifiche dottrinali perché già coperto dalla KB. Contenuti semanticamente processati: **153**.
+- Revisione semantica in corso: **4/25** contenuti del batch completati. `_6QCnb6Oj1Y` è stato riclassificato in `09_business` e ha collegato LTV, payback e durata minima profittevole della relazione. Contenuti semanticamente processati: **154**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 

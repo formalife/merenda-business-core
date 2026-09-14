@@ -152,6 +152,27 @@ Fonti:
 - [Come vendere prodotti banali e difficili da differenziare](https://www.youtube.com/watch?v=WSYK8uA39Rg), 15 gennaio 2024.
 - [Come il Brand Positioning può differenziare anche il carbone](https://www.youtube.com/watch?v=GNrQzyYUsoI), 19 gennaio 2024.
 
+### La relazione deve durare abbastanza da ripagare l'acquisizione
+
+Nel materiale del 22 gennaio 2026 Merenda generalizza il ragionamento oltre il caso B2B: ogni business dovrebbe sapere **quanto deve durare almeno la relazione con un cliente perché il costo sostenuto per acquisirlo venga recuperato**.
+
+Non basta quindi conoscere un LTV teorico medio. Serve collegarlo al tempo:
+
+- quanto costa acquisire il cliente;
+- quanto margine produce per periodo o per acquisto;
+- dopo quanti acquisti/mesi l'acquisizione raggiunge il pareggio;
+- quando l'inattività anticipata mette a rischio quel recupero.
+
+Se il cliente si ferma prima della soglia economicamente necessaria, l'azienda può avere convenienza a intervenire con una campagna di [riattivazione](../04_marketing/riattivazione-clienti.md), anche offrendo un incentivo con costo vivo, quando il costo atteso del recupero è inferiore a quello di sostituire il cliente con una nuova acquisizione.
+
+Il modello è:
+
+**costo di acquisizione → durata minima profittevole → trigger di inattività → incentivo di riattivazione → prosecuzione della relazione.**
+
+I numeri del caso clinico mostrato nel video sono specifici di quel business e non diventano benchmark universali. Il principio trasferibile è calcolare la propria soglia.
+
+Fonte più recente: [Customer Lifetime Value: Perché Non Conoscere Questo Valore Ti Farà Fallire](https://www.youtube.com/watch?v=_6QCnb6Oj1Y), 22 gennaio 2026. [Revisione](../../sources/transcripts/_6QCnb6Oj1Y.review.md).
+
 ## Incentivi diversi lungo la catena
 
 Una crescita di fatturato osservata a monte non implica automaticamente che la strategia crei valore per tutti gli attori.
