@@ -2,6 +2,8 @@
 
 [Prequalifica, follow-up e decisori](prequalifica-follow-up-decisori.md): preparazione del contatto, tempi del cliente, vendita B2B e motivazioni degli interlocutori.
 
+[Preventivo, consulenza e diagnosi](preventivo-consulenza-diagnosi.md): spostare la richiesta dal puro confronto di prezzo a una valutazione personalizzata e valorizzata.
+
 [Follow-up dei lead non convertiti](follow-up-lead-non-convertiti.md): progettare una sequenza coordinata di ricontatto dopo il primo no o la mancata conversione.
 
 [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md): come l'autorevolezza preesistente riduce diffidenza e rende più semplice la fase commerciale.
