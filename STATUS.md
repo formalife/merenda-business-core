@@ -6,6 +6,9 @@ ACTIVE — fasi 1–6 complete; contenuti **1–250 processati semanticamente**.
 
 ## Fase corrente
 
+**FASE 7 — acquisizione tecnica 251–275 completata: 25/25 transcript utilizzabili, ancora da processare semanticamente.** Branch `acquisition-251-275`, base `e75aeca6b76f2e94678608dd90a2e550d7d486db`. Report tecnico completo: `sources/queue/acquisition-progress.md`.
+
+
 Elaborazione semantica **226–250 completata da ChatGPT**. Checkpoint 250 (FASE 14 + FASE 15) **eseguito e chiuso da Claude Code**.
 
 Esito sintetico:
@@ -24,7 +27,8 @@ Report definitivo: `reviews/CHECKPOINT_250.md`.
 - ESCLUSO dalla dottrina attiva: **6**
 - Da processare: **218**
 - Corpus completo: NO
-- Batch tecnico 226–250: **25/25 utilizzabili**
+- Batch tecnico 251–275: **25/25 utilizzabili**, acquisiti ma non studiati
+- Sottotitoli batch 251–275: **25 automatici italiani originali / 0 manuali**
 - Elaborazione semantica 226–250: **25/25**
 - Review 226–250: **25**
 - Transcript mancanti nel batch: 0
@@ -75,17 +79,22 @@ Dettagli completi in `reviews/CHECKPOINT_250.md`.
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Acquisizione tecnica del batch **251–275** (fase 7: transcript, eventuale fallback ASR, keyframe candidati dove segnalato), poi restituire il controllo a ChatGPT via `STATUS.md` secondo la procedura standard in `system/HANDOFFS.md`.
+Revisione semantica del batch **251–275**, fasi **8–13**, utilizzando gli asset tecnici disponibili. Elaborazione semantica ancora ferma a **250**; nessun contenuto di questo batch è stato marcato STUDIATO o ESCLUSO dalla fase tecnica.
 
-Primo contenuto non completato: **251 — `ellOvKnIOqk` — “The #1 Sales Technique for a Record-Breaking Sales Team”**.
+Primo contenuto acquisito non completato: **251 — `ellOvKnIOqk` — “The #1 Sales Technique for a Record-Breaking Sales Team”**.
 
-Nessuna elaborazione semantica o acquisizione tecnica 251+ è stata eseguita durante il checkpoint 250: questo è il punto di ripartenza.
+Prossimo checkpoint Claude: **275 — FASE 14** dopo il completamento semantico; prossimo audit tassonomia **300 — FASE 14 + FASE 15**. Nessuna acquisizione 276+; stop tecnico a 275, nessun merge su main.
 
 ## Validazione e limiti
+
+- FASE 7 251–275: metadata/canale e JSON3↔Markdown verificati 25/25; 22 keyframe selettivi su 8 video ispezionati. Code fuori traccia: 252 2,640 s; 253 5,440 s; 259 13,320 s; 262 8,681 s; 263 9,401 s. Sforamenti positivi fino a 2,240 s. Nessuna correzione arbitraria; limiti visuali di 253/261 nel report tecnico.
+- Validator tecnico pre/post: **842 warning identici**, nessuna nuova anomalia; `git diff --check` pulito. 25 commit individuali + 1 handoff globale. Frozen, KB, catalogo, queue e review invariati; nessuna `.review.md` creata.
+
+Dettagli storici del checkpoint 250:
 
 - Baseline validator **reale, misurata da Claude sulla HEAD del checkpoint 250**: **842 warning** (non 841: la fase tecnica 226–250 aveva certificato 841 identici prima/dopo l'acquisizione; il commit di handoff semantico ChatGPT ha poi aggiunto grassetto markdown a una riga di `STATUS.md`, portando a 3 le righe `Contatore STATUS errato` invece di 2 — stessa classe di drift di nomenclatura già nota, non una nuova anomalia semantica). Identici prima/dopo FASE 14+15 di questo checkpoint: nessuna nuova anomalia introdotta.
 - Confronto tecnico→semantico verificato: **25 commit**, **25 review**, nessun frozen e nessun file 251+ modificato.
