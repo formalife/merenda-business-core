@@ -347,6 +347,27 @@ Non è una legge secondo cui nessun cliente di un brand chiederà mai uno sconto
 
 Fonte: [Se Devi Fare Sconti per Vendere, il Tuo Brand Non Esiste](https://www.youtube.com/watch?v=WasHsG0phmg), 9 dicembre 2025. [Revisione](../../sources/transcripts/WasHsG0phmg.review.md).
 
+## Non trasformare lo sconto in un calendario prevedibile
+
+Nel materiale del 10 luglio 2022 Merenda distingue l'uso legittimo di un lancio a tempo dal creare una **cadenza di sconti così prevedibile da educare il cliente ad aspettare**.
+
+Il problema non è la scadenza in sé. Nasce quando l'azienda:
+
+- ripropone ciclicamente lo stesso prodotto con riduzioni facilmente anticipabili;
+- sovrappone troppe finestre promozionali;
+- rende il prezzo pieno poco credibile perché il mercato impara che basta attendere;
+- penalizza la percezione di chi ha appena acquistato a condizioni normali.
+
+Una promozione temporanea può invece restare coerente quando ha una ragione distinta — nuova offerta, segmento, evento, bundle o condizione realmente limitata — e la scadenza è autentica.
+
+La regola riusabile è:
+
+**usare la promozione come leva progettata → evitare che il mercato impari “non comprare ora, arriverà lo sconto” → proteggere il valore del prezzo pieno.**
+
+La fonte è precedente al materiale 2024–2025 sul pricing; perciò non viene letta come divieto assoluto di lanci o sconti, ma come cautela sulla loro frequenza e prevedibilità.
+
+Fonte precedente: [FUNNEL DI VENDITA | Progettare Lanci di prodotto a TEMPO](https://www.youtube.com/watch?v=of0ppir9sq4), 10 luglio 2022. [Revisione](../../sources/transcripts/of0ppir9sq4.review.md).
+
 ## Sconto: strumento, non fondamento
 
 Sconti, coupon, front-end aggressivi o prove a rischio ridotto possono essere perfettamente validi dentro un funnel.
