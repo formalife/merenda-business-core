@@ -2,6 +2,8 @@
 
 [Autorità prima di acquisizione e vendita](autorita-e-marketing.md): costruire autorevolezza con pubblicazioni, presenza esterna ed eventi, e usarla per rendere più efficaci lead generation e vendita.
 
+[PR, earned media e notiziabilità](pr-earned-media-e-notiziabilita.md): trasformare differenze e contenuti in angoli notiziabili, rendere facile il lavoro del media e riusare la prova esterna ottenuta.
+
 [Testimonianze e prova sociale](testimonianze-e-prova-sociale.md): raccogliere e usare testimonianze credibili, pertinenti e progettate per provare specifici punti del messaggio.
 
 [Brand community e fan](brand-community-e-fan.md): trasformare il posizionamento in appartenenza duratura attraverso personalità, storie, prove, linguaggio condiviso, principi e contrasto filosofico.
