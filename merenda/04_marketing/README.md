@@ -12,4 +12,6 @@ Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 
 [Gerarchia della domanda e scelta dei canali](gerarchia-domanda-e-canali.md): partire dalla domanda diretta quando esiste e costruire funnel diversi per i livelli di consapevolezza prima di lavorare sulla domanda latente.
 
+[Eventi proprietari e VIP experience](eventi-proprietari-vip-experience.md): usare incontri dal vivo progettati come asset di relazione, vendita, riattivazione e referral quando l'economia del cliente li sostiene.
+
 [Riattivazione dei clienti fermi](riattivazione-clienti.md): definire la frequenza attesa, usare trigger CRM e campagne specifiche per riportare clienti inattivi nel ciclo di acquisto.

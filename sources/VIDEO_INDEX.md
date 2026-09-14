@@ -256,7 +256,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 246 | dYMeQuuT8QY | acquisito | [How to Sell More by Turning Your Marketing Into a Magnet](https://www.youtube.com/watch?v=dYMeQuuT8QY) | 2329.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 247 | 8XduYN366z0 | acquisito | [How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass]](https://www.youtube.com/watch?v=8XduYN366z0) | 2644.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 248 | rcVXvepx-l8 | acquisito | [Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!]](https://www.youtube.com/watch?v=rcVXvepx-l8) | 885.0 | 06_vendita | 2 | DA STUDIARE | videos |
-| 249 | gcQKKrbZW28 | da acquisire | [Live Events: How to Generate Extraordinary Sales Without Wasting Budget](https://www.youtube.com/watch?v=gcQKKrbZW28) | 2405.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 249 | gcQKKrbZW28 | acquisito | [Live Events: How to Generate Extraordinary Sales Without Wasting Budget](https://www.youtube.com/watch?v=gcQKKrbZW28) | 2405.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 250 | sa45UbN4sMI | da acquisire | [🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance](https://www.youtube.com/watch?v=sa45UbN4sMI) | 1474.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 251 | Zzh6PXGTmD0 | da acquisire | [Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato](https://www.youtube.com/watch?v=Zzh6PXGTmD0) | 1227.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 252 | bWNr-tHknvw | da acquisire | [Frank Merenda's Formula for Selling Any Product](https://www.youtube.com/watch?v=bWNr-tHknvw) | 1148.0 | 06_vendita | 2 | DA STUDIARE | videos |

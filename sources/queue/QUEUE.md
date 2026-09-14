@@ -254,7 +254,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 240 | [dYMeQuuT8QY](https://www.youtube.com/watch?v=dYMeQuuT8QY) — How to Sell More by Turning Your Marketing Into a Magnet | 07_copy_comunicazione | STUDIATO |
 | 241 | [8XduYN366z0](https://www.youtube.com/watch?v=8XduYN366z0) — How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | 08_brand | STUDIATO |
 | 242 | [rcVXvepx-l8](https://www.youtube.com/watch?v=rcVXvepx-l8) — Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | 01_mercato | STUDIATO |
-| 243 | [gcQKKrbZW28](https://www.youtube.com/watch?v=gcQKKrbZW28) — Live Events: How to Generate Extraordinary Sales Without Wasting Budget | 06_vendita | DA STUDIARE |
+| 243 | [gcQKKrbZW28](https://www.youtube.com/watch?v=gcQKKrbZW28) — Live Events: How to Generate Extraordinary Sales Without Wasting Budget | 04_marketing | STUDIATO |
 | 244 | [sa45UbN4sMI](https://www.youtube.com/watch?v=sa45UbN4sMI) — 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | 06_vendita | DA STUDIARE |
 | 245 | [Zzh6PXGTmD0](https://www.youtube.com/watch?v=Zzh6PXGTmD0) — Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | 06_vendita | DA STUDIARE |
 | 246 | [bWNr-tHknvw](https://www.youtube.com/watch?v=bWNr-tHknvw) — Frank Merenda's Formula for Selling Any Product | 06_vendita | DA STUDIARE |
