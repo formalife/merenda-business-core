@@ -2,11 +2,11 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–175 processati semanticamente; batch 151–175 completato; corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti 1–175 processati semanticamente; refactor KB checkpoint 175 (FASE 14) completato; corpus ancora incompleto.
 
 ## Fase corrente
 
-**Checkpoint 175 raggiunto.** Le fasi 8–13 sono complete per tutti i contenuti 151–175. È dovuta **CLAUDE CODE — FASE 14 soltanto**.
+**Checkpoint 175 completato.** FASE 14 eseguita (rilettura globale della KB, verifica integrazioni batch 151–175, validazione tecnica). FASE 15 non dovuta ed esplicitamente non eseguita. È dovuta ora l'acquisizione tecnica del batch 176–200.
 
 ## Corpus
 
@@ -29,52 +29,39 @@ ACTIVE — fasi 1–6 complete; contenuti 1–175 processati semanticamente; bat
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: 150
-- Refactor KB dovuto ora: **175**
+- Ultimo refactor KB completato: **175**
+- Prossimo refactor KB dovuto: **200**
 - Ultimo audit tassonomia completato: 150
-- Prossimo audit tassonomia: 200
-- Checkpoint Claude richiesto ora: **YES**
-- Documento handoff corrente: `reviews/CHECKPOINT_175.md`
+- Prossimo audit tassonomia: **200**
+- Checkpoint Claude richiesto ora: **NO**
+- Documento checkpoint corrente: `reviews/CHECKPOINT_175.md`
 - Checkpoint precedente: `reviews/CHECKPOINT_150.md`
 
-## Batch 151–175 — sintesi semantica
+## FASE 14 — esito checkpoint 175
 
-Principali integrazioni:
-
-- vendita consulenziale: guidare il cliente oltre decisioni precedenti fallite;
-- offerta: rendere percepibile la qualità e costruire bundle sul risultato d'uso;
-- business: collegare LTV/CAC alla durata minima profittevole;
-- backend: upsell pertinente proposto in modo sistematico;
-- HR: selezione verificata sul lavoro reale;
-- fondamentali: strumenti vs competenza e customer experience come marketing operativo;
-- canali: vincoli di acquisizione aumentano il peso di referral, retention e LTV.
-
-Riclassificazioni semantiche sono state sincronizzate in `sources/catalog.json`, `sources/VIDEO_INDEX.md` e `sources/queue/QUEUE.md`.
-
-Dettagli completi: `reviews/CHECKPOINT_175.md` e singole `sources/transcripts/*.review.md`.
+- Rilettura integrale di `merenda/`: 39 file (INDEX + 11 README + 27 documenti).
+- Le sette integrazioni del batch 151–175 verificate singolarmente: tutte correttamente fuse, nessuna duplicazione.
+- Nessun problema strutturale trovato: 0 link rotti, 0 anchor non risolti, 0 file orfani, nessuna contraddizione attiva, Formalife assente.
+- Nessun merge/split/ristrutturazione necessario: la KB era già in buono stato dopo il merge semantico del batch.
+- Validator tecnico: 841 segnalazioni, invariato rispetto alla baseline nota (836 ordine/stato queue, 3 frozen file storici, 2 contatori STATUS non riconosciuti). Nessuna nuova anomalia.
+- Dettagli completi: `reviews/CHECKPOINT_175.md`.
 
 ## Agente richiesto
 
-**CLAUDE CODE**
+**CODEX**
 
 ## Next Action
 
-Eseguire **FASE 14 soltanto** al checkpoint 175:
+Acquisizione tecnica del batch **176–200** (metadata, transcript, versione Markdown normalizzata, keyframe candidati quando utili). Nessun asset tecnico per 176–200 risulta già presente in `sources/transcripts/`.
 
-- rilettura globale di `merenda/`;
-- audit duplicazioni, frammentazione, gerarchia, routing e collegamenti;
-- attenzione particolare ai sette documenti modificati nel batch 151–175;
-- nessuna FASE 15;
-- nessuna introduzione di Formalife;
-- nessuna modifica ai file congelati senza autorizzazione;
-- eseguire i validator locali e documentare l'esito in `reviews/CHECKPOINT_175.md`.
+Il primo contenuto pendente della coda è `176 — aQ5V7845jX4` (categoria preliminare `10_casi_studio`, da confermare in fase di ingestione).
 
-Dopo la FASE 14, se 176–200 non dispongono già degli asset tecnici necessari, impostare l'handoff a **CODEX** per l'acquisizione del batch 176–200.
+Dopo l'acquisizione, restituire il controllo a **CHATGPT** per l'elaborazione semantica (fasi 8–13) del batch 176–200.
 
 ## Validazione e blocchi
 
 - Nessun blocco semantico residuo dal batch 151–175.
 - Nessun fallback ASR richiesto nel batch.
-- Nessun contenuto 176+ acquisito nel batch tecnico 151–175.
-- Baseline validator tecnica nota prima dell'ingestione: 841 segnalazioni preesistenti (836 disallineamenti d'ordine/stato, 3 divergenze storiche dei congelati rispetto al tag v1.0, 2 etichette STATUS non riconosciute).
-- La validazione locale completa deve essere rieseguita da Claude durante FASE 14.
+- Nessun contenuto 176+ acquisito.
+- Baseline validator tecnica confermata invariata al checkpoint 175: 841 segnalazioni (836 disallineamenti d'ordine/stato in `sources/queue/QUEUE.md`, 3 divergenze storiche dei frozen file rispetto al tag v1.0, 2 etichette STATUS non riconosciute dal validator).
+- Nessuna modifica ai file congelati in questo checkpoint.

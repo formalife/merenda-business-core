@@ -1,4 +1,11 @@
-# Checkpoint 175 — handoff a Claude Code (FASE 14)
+# Checkpoint 175 — report finale FASE 14
+
+## Verifica iniziale
+
+- Branch: `main`.
+- SHA iniziale: `e42d4a8517434a79aedfd5ee7ca55746078a0136` (atteso e confermato).
+- Allineamento con `origin/main`: identico allo SHA iniziale (`git fetch` non ha portato nuovi commit su `main`; è comparso solo il branch remoto `semantic-151-175`, non toccato in questo checkpoint).
+- Working tree: pulito all'inizio del lavoro.
 
 ## Stato al raggiungimento della soglia
 
@@ -10,100 +17,101 @@
 - Batch tecnico 151–175: **25/25** transcript utilizzabili
 - Batch semantico 151–175: **25/25 completato**
 - Corpus completo: **NO**
-- Checkpoint dovuto: **175 — sola FASE 14**
+- Checkpoint eseguito: **175 — sola FASE 14**
 - Prossimo audit tassonomia: **200**
 
-Questo documento è l'handoff pre-checkpoint. Claude Code deve eseguire e documentare qui la FASE 14 finale del checkpoint 175. **Non eseguire FASE 15**.
+## FASE 14 — rilettura globale
 
-## Integrazioni dottrinali del batch 151–175
+Rilettura integrale di `merenda/`:
 
-I contenuti realmente incrementali sono stati fusi nei documenti esistenti secondo MERGE, NON APPEND:
+- `merenda/INDEX.md`;
+- gli 11 README di sezione (`00_fondamenti` … `10_casi_studio`);
+- tutti i 27 documenti di contenuto della KB.
 
-- `merenda/06_vendita/prequalifica-follow-up-decisori.md`
-  - guidare con fermezza il cliente dopo decisioni precedenti fallite;
-  - separare convinzione interna del venditore e linguaggio esterno.
-- `merenda/03_offerta/offerta-a-risposta-diretta.md`
-  - tradurre qualità interna non percepibile in un'offerta valutabile;
-  - costruire bundle attorno al risultato d'uso.
-- `merenda/09_business/numeri-cassa-e-crescita.md`
-  - collegare CAC/LTV alla durata minima profittevole della relazione.
-- `merenda/03_offerta/front-end-e-back-end.md`
-  - proporre sistematicamente upsell pertinenti senza interpretar-ne il rifiuto maggioritario come prova di inutilità.
-- `merenda/09_business/marketing-del-personale.md`
-  - distinguere errore di inserimento da errore di trattenimento;
-  - verificare l'idoneità sul lavoro reale.
-- `merenda/00_fondamenti/marketing-first.md`
-  - strumenti come acceleratori, non sostituti del giudizio;
-  - customer experience come marketing operativo.
-- `merenda/04_marketing/gerarchia-domanda-e-canali.md`
-  - quando vincoli esterni restringono l'acquisizione aumenta il peso economico di referral, conversione, retention e LTV.
+**File letti: 39** (1 INDEX + 11 README + 27 documenti di contenuto).
 
-Gli altri contenuti del batch hanno confermato principi già presenti o casi già coperti e sono stati documentati nelle rispettive `.review.md` senza duplicare la KB.
+### Verifica specifica delle integrazioni 151–175
 
-## Routing semantico finale 151–175
+I sette documenti indicati come modificati nel batch sono stati controllati singolarmente:
 
-| Pos. | ID | Categoria finale | KB incrementale |
-|---:|---|---|---|
-| 151 | `8R8NR6nqhJY` | 06_vendita | sì |
-| 152 | `-oYSpJrj024` | 03_offerta | sì |
-| 153 | `v6WWqNpNSpE` | 02_posizionamento | no |
-| 154 | `_6QCnb6Oj1Y` | 09_business | sì |
-| 155 | `Z7FhdrG-fOw` | 03_offerta | sì |
-| 156 | `5awWbxibHIE` | 09_business | sì |
-| 157 | `G6j8xbargKY` | 08_brand | no |
-| 158 | `LMzKVDWrGlk` | 10_casi_studio | no |
-| 159 | `-6L9gCbicjk` | 07_copy_comunicazione | no |
-| 160 | `I2RBYMESAsk` | 02_posizionamento | no |
-| 161 | `mkhp-EGSORA` | 10_casi_studio | no |
-| 162 | `NTy1ZHQ8NYs` | 10_casi_studio | no |
-| 163 | `5XW0s6NizEE` | 10_casi_studio | no |
-| 164 | `NCQ1lX3S5wk` | 10_casi_studio | no |
-| 165 | `AjvfyImTiPI` | 10_casi_studio | no |
-| 166 | `qIG_0TMol8s` | 00_fondamenti | sì |
-| 167 | `fpao23ulhkQ` | 02_posizionamento | no |
-| 168 | `9zvNhQOpRI4` | 00_fondamenti | no |
-| 169 | `oQXsQzrIv2M` | 04_marketing | sì |
-| 170 | `PKgWYVvme2s` | 00_fondamenti | sì |
-| 171 | `degAX4kvT-0` | 03_offerta | sì |
-| 172 | `YvfN2NUwXtY` | 10_casi_studio | no |
-| 173 | `aw3Fu_LTH34` | 00_fondamenti | no |
-| 174 | `znVPLom4j70` | 10_casi_studio | no |
-| 175 | `y-8LBcQsS9M` | 10_casi_studio | no |
+| Documento | Esito |
+|---|---|
+| `06_vendita/prequalifica-follow-up-decisori.md` | Sezione "Ho Già Provato e Non Ha Funzionato" ben fusa nella sezione esistente "Vendita consulenziale: diagnosi, fatti e prescrizione"; distinzione fermezza interna/linguaggio esterno chiara; nessuna duplicazione. |
+| `03_offerta/offerta-a-risposta-diretta.md` | "Costruire il bundle attorno al risultato d'uso" e "L'offerta può compensare una minore forza di brand" (qualità non percepita) correttamente posizionati dentro le rispettive sezioni tematiche (desiderabilità/bundle, forza del brand). |
+| `09_business/numeri-cassa-e-crescita.md` | "La relazione deve durare abbastanza da ripagare l'acquisizione" collega correttamente CAC/LTV/durata minima/trigger inattività/riattivazione, con link a `riattivazione-clienti.md`. |
+| `03_offerta/front-end-e-back-end.md` | Regola sull'upsell pertinente proposto sistematicamente ben integrata subito dopo il principio generale su front-end/back-end, senza duplicare `prezzo-premium-e-percezione-del-valore.md`. |
+| `09_business/marketing-del-personale.md` | Sezione "La selezione continua dopo l'ingresso" distingue correttamente errore di inserimento da errore di trattenimento, con rimando a `scalabilita-e-operativita.md` per la retention strutturale. |
+| `00_fondamenti/marketing-first.md` | Entrambe le integrazioni (strumenti vs competenza; customer experience come marketing operativo) presenti, correttamente subordinate al principio "marketing first" e non duplicate con `autorita-e-marketing.md` o `referral-e-soddisfazione.md`. |
+| `04_marketing/gerarchia-domanda-e-canali.md` | Sezione sui vincoli di acquisizione (caso cliniche) presente con il caveat esplicito che le affermazioni normative italiane non diventano ricostruzione giuridica generale. |
 
-## Indicazioni per FASE 14
+Nessuna delle sette integrazioni ha richiesto ulteriore intervento: il merge semantico eseguito durante il batch 151–175 rispetta già "MERGE, NON APPEND".
 
-Claude Code deve:
+### Problemi cercati e trovati
 
-1. rileggere integralmente `merenda/`;
-2. verificare in particolare i sette documenti modificati nel batch;
-3. eliminare eventuali duplicazioni, frammentazione o formulazioni ridondanti;
-4. controllare gerarchia, routing, README, INDEX e collegamenti;
-5. verificare che le fonti più recenti prevalgano dove realmente incompatibili;
-6. mantenere esempi e casi subordinati ai principi generali;
-7. non introdurre conoscenza esterna;
-8. non introdurre Formalife;
-9. non modificare file congelati senza autorizzazione;
-10. **non eseguire FASE 15** al checkpoint 175;
-11. eseguire i validator locali e documentare eventuali anomalie nuove rispetto alla baseline nota;
-12. aggiornare questo documento con l'esito finale della FASE 14 e aggiornare `STATUS.md`.
+Controllati sistematicamente, per l'intera KB: duplicazioni concettuali, formulazioni ridondanti, frammentazione inutile, file troppo grandi o multi-tema, file troppo piccoli da fondere, sezioni di routing fuori posto, link interni, anchor, file orfani, coerenza INDEX/README/contenuti, gerarchia principio→applicazione→esempio, prevalenza delle fonti più recenti, contraddizioni reali, separazione tra categorie.
 
-Dopo FASE 14, se gli asset tecnici 176–200 non risultano già disponibili, l'handoff corretto è a **CODEX** per la nuova acquisizione tecnica.
+- **Duplicazioni concettuali**: nessuna duplicazione problematica trovata. L'unico caso di contenuto ripetuto su un medesimo argomento (Gran Soleil, citato sia in `02_posizionamento/differenziazione-operativa.md` sia in `02_posizionamento/esempi-di-differenziazione.md`) è intenzionale e coerente con l'architettura dichiarata dalla stessa KB: il primo file tratta il principio ("categoria prima del prodotto"), il secondo il caso con i dettagli del fallimento. Non ridondante, non da fondere.
+- **File troppo grandi**: nessun file supera dimensioni problematiche (massimo 398 righe, `offerta-a-risposta-diretta.md`); la lunghezza riflette accumulo legittimo di integrazioni su un tema coeso, non mescolanza di temi eterogenei.
+- **File troppo piccoli**: nessuno sufficientemente piccolo/ridondante da giustificare una fusione forzata (il più corto è `marketing-del-personale.md` con 93 righe, ma tratta un argomento distinto — HR/recruiting — non sovrapponibile ad altre sezioni).
+- **Routing/collegamenti**: verificati con controllo automatico di tutti i link relativi e di tutti gli anchor `#...` presenti nella KB → **0 link rotti, 0 anchor non risolti**.
+- **File orfani**: verificato con controllo automatico (ogni file di contenuto deve essere raggiungibile da almeno un altro file/README) → **0 file orfani**; tutti i 27 documenti sono referenziati da INDEX→README→contenuti e da collegamenti incrociati.
+- **Coerenza INDEX/README**: INDEX.md instrada correttamente alle 11 sezioni; ogni README elenca i file realmente presenti nella propria cartella.
+- **Gerarchia principio→applicazione→esempio**: rispettata; i casi (10_casi_studio, esempi-di-differenziazione.md, MotoArgento) restano subordinati ai documenti di principio.
+- **Prevalenza fonti più recenti**: verificata nei punti di contrasto storico già noti (family brand, freddo vs preparazione, online/offline, sconto vs autorità del brand, pricing situazionale) — tutti correttamente risolti a favore della fonte più recente con nota esplicita nel testo.
+- **Contraddizioni reali**: nessuna trovata.
+- **Formalife**: assente in tutta `merenda/` (verificato con ricerca testuale case-insensitive su tutta la cartella).
 
-## Baseline tecnica nota
+### Merge / split / ristrutturazioni
 
-Dal batch tecnico 151–175:
+**Nessuno.** La rilettura globale non ha rilevato necessità di merge, split o spostamento di sezioni: il lavoro semantico del batch 151–175 ha già applicato correttamente "MERGE, NON APPEND" e la struttura complessiva risultava coerente prima di questo checkpoint.
 
-- 25/25 acquisiti;
-- 0 fallback ASR;
-- 0 errori;
-- nessun contenuto 176+ acquisito;
-- baseline validator riportata: 841 segnalazioni preesistenti, di cui 836 disallineamenti d'ordine/stato, 3 divergenze storiche dei congelati rispetto al tag v1.0 e 2 etichette STATUS non riconosciute.
+### File modificati / creati / eliminati / rinominati
 
-Questa baseline va verificata localmente da Claude; non correggere automaticamente anomalie storiche fuori scope.
+- File di contenuto KB (`merenda/`): **nessuno modificato, creato, eliminato o rinominato**.
+- File di governance aggiornati in questo checkpoint: `STATUS.md`, `reviews/CHECKPOINT_175.md` (questo documento).
 
-## Governance
+### Ragione delle non-modifiche
 
-- Nessun file congelato è stato intenzionalmente modificato nel batch semantico.
-- Formalife non è stato introdotto nella KB.
-- Nessuna fonte esterna al canale ufficiale è stata usata per arricchire la dottrina.
-- Il batch 151–175 è stato elaborato in ordine canonico con una review per video.
+La FASE 14 richiede di controllare e, se necessario, migliorare la KB. Il controllo è stato eseguito integralmente; non sono emerse necessità concrete di intervento che non si tradurrebbero in "cancellare differenze reali solo per ridurre le righe" (esplicitamente vietato). Si è quindi preferito non introdurre modifiche cosmetiche prive di beneficio reale, coerentemente con la regola di non gonfiare la KB con interventi non necessari.
+
+## Routing
+
+- **INDEX**: coerente, 11 sezioni tutte raggiungibili.
+- **README**: tutti e 11 coerenti con i file realmente presenti.
+- **Link interni**: 0 rotti (controllo automatico su tutti i file `.md` di `merenda/`).
+- **Anchor**: 0 non risolti (controllo automatico su tutti i riferimenti con `#`).
+- **File orfani**: 0.
+
+## Validazione finale
+
+```
+python3 scripts/validate_project.py
+```
+
+Risultato: **841 segnalazioni totali**, invariato rispetto alla baseline nota pre-checkpoint:
+
+- 836 × "Ordine/stato incoerente" in `sources/queue/QUEUE.md` (baseline: 836 — invariato; riguarda contenuti 176+ non ancora processati, fuori scope FASE 14);
+- 3 × "File congelato modificato" (`MASTER_PLAN.md`, `system/HANDOFFS.md`, `system/FROZEN_FILES.md`) — baseline: 3 divergenze storiche rispetto al tag `v1.0`, non modifiche introdotte in questo checkpoint; nessun file congelato è stato toccato durante questa sessione;
+- 2 × "Contatore STATUS errato" (`Video completati`, `Video rimanenti`) — baseline: 2 etichette non riconosciute dal validator.
+
+**Nessuna nuova anomalia introdotta.** Il numero resta identico alla baseline (841 = 841); non è sceso perché le 836 segnalazioni sulla queue riguardano contenuti 176+ non ancora processati (fuori dallo scope della FASE 14) e le altre 5 sono divergenze storiche/di validator note, non modificabili senza autorizzazione esplicita o intervento sullo script fuori scope.
+
+- `git diff --check`: nessun problema di whitespace.
+- `git status --short`: pulito prima delle modifiche di governance di questo checkpoint.
+- Frozen files (`MASTER_PLAN.md`, `system/RULES.md`, `system/PHASES.md`, `system/HANDOFFS.md`, `system/FROZEN_FILES.md`): **non modificati** in questa sessione.
+- Formalife: **assente** da `merenda/` (verificato).
+- Conteggi catalogo: 468 individuati / 175 processati / 169 STUDIATO / 6 ESCLUSO / 293 DA STUDIARE — confermati e coerenti con `STATUS.md` e con questo report.
+
+## Decisione finale
+
+- **Checkpoint 175 — FASE 14: COMPLETATA.**
+- **FASE 15: NON ESEGUITA** (non dovuta a questo checkpoint).
+- **Prossimo audit tassonomia: 200.**
+- Prossimo refactor KB (FASE 14): dovuto al checkpoint 200, insieme alla FASE 15.
+
+## Handoff
+
+Il batch tecnico 151–175 (25/25) e il batch semantico 151–175 (25/25) sono completi; non risultano asset tecnici già acquisiti per il range 176–200 in questo repository.
+
+- **Agente richiesto: CODEX**
+- **Next Action: acquisizione tecnica del batch 176–200** (metadata, transcript, versione Markdown normalizzata, keyframe candidati quando utili), poi restituzione del controllo a ChatGPT per l'elaborazione semantica.
