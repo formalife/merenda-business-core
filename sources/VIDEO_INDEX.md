@@ -203,7 +203,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 193 | PLIAmuNzx_s | 20250128 | [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s) | 1238.0 | 09_business | 2 | STUDIATO | videos |
 | 194 | GEWf_KjMfhI | 20240809 | [La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare](https://www.youtube.com/watch?v=GEWf_KjMfhI) | 474.0 | 10_casi_studio | 2 | STUDIATO | videos |
 | 195 | SK338MdNIy0 | 20240627 | [The Easiest Way to Market and Get Clients [Now]](https://www.youtube.com/watch?v=SK338MdNIy0) | 529.0 | 05_acquisizione | 2 | STUDIATO | videos |
-| 196 | TF9UGPSLxSw | 20230629 | [Come fare campagne online per trovare clienti - La creazione della promessa](https://www.youtube.com/watch?v=TF9UGPSLxSw) | 867.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 196 | TF9UGPSLxSw | 20230629 | [Come fare campagne online per trovare clienti - La creazione della promessa](https://www.youtube.com/watch?v=TF9UGPSLxSw) | 867.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 197 | wF8Dqa_VtW8 | 20230425 | [Come trovare i clienti migliori (e capire quali lasciar perdere)](https://www.youtube.com/watch?v=wF8Dqa_VtW8) | 1093.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 198 | MORFqQB8xGg | 20230411 | [How to Find Clients with the Referral System](https://www.youtube.com/watch?v=MORFqQB8xGg) | 540.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 199 | k2H4428Uj00 | da acquisire | [FACEBOOK ADS vs. GOOGLE ADS - Which is better to use?](https://www.youtube.com/watch?v=k2H4428Uj00) | 340.0 | 05_acquisizione | 2 | DA STUDIARE | videos |

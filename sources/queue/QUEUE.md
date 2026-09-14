@@ -202,7 +202,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 188 | [PLIAmuNzx_s](https://www.youtube.com/watch?v=PLIAmuNzx_s) — How to Increase Campaign Traffic Without Burning Your Budget | 09_business | STUDIATO |
 | 189 | [GEWf_KjMfhI](https://www.youtube.com/watch?v=GEWf_KjMfhI) — La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare | 10_casi_studio | STUDIATO |
 | 190 | [SK338MdNIy0](https://www.youtube.com/watch?v=SK338MdNIy0) — The Easiest Way to Market and Get Clients [Now] | 05_acquisizione | STUDIATO |
-| 191 | [TF9UGPSLxSw](https://www.youtube.com/watch?v=TF9UGPSLxSw) — Come fare campagne online per trovare clienti - La creazione della promessa | 05_acquisizione | DA STUDIARE |
+| 191 | [TF9UGPSLxSw](https://www.youtube.com/watch?v=TF9UGPSLxSw) — Come fare campagne online per trovare clienti - La creazione della promessa | 05_acquisizione | STUDIATO |
 | 192 | [wF8Dqa_VtW8](https://www.youtube.com/watch?v=wF8Dqa_VtW8) — Come trovare i clienti migliori (e capire quali lasciar perdere) | 05_acquisizione | DA STUDIARE |
 | 193 | [MORFqQB8xGg](https://www.youtube.com/watch?v=MORFqQB8xGg) — How to Find Clients with the Referral System | 05_acquisizione | DA STUDIARE |
 | 194 | [k2H4428Uj00](https://www.youtube.com/watch?v=k2H4428Uj00) — FACEBOOK ADS vs. GOOGLE ADS - Which is better to use? | 05_acquisizione | DA STUDIARE |
