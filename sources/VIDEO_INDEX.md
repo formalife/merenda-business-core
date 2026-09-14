@@ -191,7 +191,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 181 | aQ5V7845jX4 | da acquisire | [Il più Grande Errore di Marketing di Coca Cola #shorts](https://www.youtube.com/watch?v=aQ5V7845jX4) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 182 | 4FNdTMDCC6g | da acquisire | [Impresa edile e Marketing Automation: Successo Assicurato #shorts](https://www.youtube.com/watch?v=4FNdTMDCC6g) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 183 | fm3RYkxRXCk | da acquisire | [Tecniche di Marketing per Espandere il Tuo Studio Dentistico #shorts](https://www.youtube.com/watch?v=fm3RYkxRXCk) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
-| 184 | 6tgz9aFzyNE | da acquisire | [Come TROVARE più CLIENTI grazie al Marketing #shorts](https://www.youtube.com/watch?v=6tgz9aFzyNE) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 184 | 6tgz9aFzyNE | da acquisire | [Come TROVARE più CLIENTI grazie al Marketing #shorts](https://www.youtube.com/watch?v=6tgz9aFzyNE) | n.d. | 02_posizionamento | 3 | STUDIATO | shorts |
 | 185 | G7Jiu-Ig9vI | da acquisire | [Woke marketing e Cancel Culture? #shorts @disneyplus @Netflix](https://www.youtube.com/watch?v=G7Jiu-Ig9vI) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 186 | Revqwijd6P0 | da acquisire | [Marketing o location? #shorts](https://www.youtube.com/watch?v=Revqwijd6P0) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 187 | R9fhEHLn8ww | da acquisire | [La campagna marketing di maggior successo [Parte 2] #shorts](https://www.youtube.com/watch?v=R9fhEHLn8ww) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
