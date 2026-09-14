@@ -132,6 +132,64 @@ Un incentivo utile dovrebbe:
 
 Il principio è creare conseguenze visibili per la buona esecuzione, non sostituire il sistema commerciale con una gara permanente.
 
+## Proteggere il tempo ad alto valore del venditore
+
+Nel materiale del 3 giugno 2024 Merenda estende il problema dalla qualità della singola trattativa alla **progettazione della struttura commerciale**.
+
+All'inizio è normale che una persona svolga più funzioni. Crescendo, però, continuare a caricare sul venditore senior attività molto diverse può ridurre il tempo disponibile per le trattative in cui la sua competenza produce più valore.
+
+Le funzioni che la fonte separa progressivamente sono:
+
+- presa in carico rapida della lead e fissazione dell'appuntamento;
+- vendita/trattativa;
+- assistenza al cliente;
+- telemarketing/appuntamenti;
+- sollecito crediti e attività amministrative compatibili.
+
+Il principio non è creare subito cinque reparti. È:
+
+**misurare dove il tempo del venditore produce più valore → spostare progressivamente attività standardizzabili verso ruoli dedicati → lasciare al venditore più capacità per vendere.**
+
+### Timing e appointment setting
+
+La velocità di presa in carico della lead è già trattata in [prequalifica, follow-up e decisori](prequalifica-follow-up-decisori.md). Qui il contributo organizzativo è diverso: quando il volume lo giustifica, la funzione di risposta e fissazione appuntamenti può diventare un ruolo dedicato invece di competere con il tempo di chi deve condurre trattative complesse.
+
+I “4 minuti” e le percentuali citate nella fonte restano standard/casi del relatore, non benchmark universali.
+
+### Assistenza distinta dalla vendita
+
+Quando cresce il portafoglio clienti, una parte delle richieste riguarda:
+
+- uso del prodotto/servizio;
+- problemi operativi;
+- informazioni;
+- assistenza ordinaria.
+
+Un supporto dedicato può risolvere queste richieste e, quando emerge una nuova opportunità commerciale, trasferirla nuovamente alla vendita.
+
+Questo evita due errori:
+
+1. usare il venditore senior come help desk permanente;
+2. lasciare che l'assistenza ignori segnali reali di cross-sell, rinnovo o nuovo bisogno.
+
+### Sollecito crediti come funzione separabile
+
+Nei modelli con dilazioni e fatture, il venditore resta responsabile della qualità degli accordi commerciali che prende, ma il sollecito amministrativo ordinario può essere gestito da una funzione dedicata quando il volume lo giustifica.
+
+La separazione non deresponsabilizza la vendita: serve a evitare che un negoziatore ad alto costo passi una quota rilevante del tempo su attività ripetitive che un processo specializzato può svolgere meglio.
+
+### La struttura cresce per soglie economiche, non per organigramma ideale
+
+Merenda descrive la propria organizzazione come punto di arrivo, non come requisito del giorno uno.
+
+La regola attiva è:
+
+**prima una funzione è condivisa → il volume cresce → il collo di bottiglia diventa misurabile → si specializza il ruolo quando il costo aggiuntivo è sostenuto dal valore liberato.**
+
+Questo collega la rete vendita alla [scalabilità](../09_business/scalabilita-e-operativita.md): il reparto deve crescere riducendo i single point of failure e senza aumentare costi fissi prima che l'economia li sostenga.
+
+Fonte: [RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati]](https://www.youtube.com/watch?v=oefQwsBIUc0), 3 giugno 2024. [Revisione](../../sources/transcripts/oefQwsBIUc0.review.md).
+
 ## Prova sociale anche come strumento interno
 
 Testimonianze e casi non servono solo a convincere il prospect.
