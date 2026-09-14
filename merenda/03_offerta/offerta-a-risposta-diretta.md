@@ -288,6 +288,18 @@ La progettazione deve lavorare su due assi:
 1. **percezione** — la proposta deve sembrare chiaramente diversa e più vantaggiosa per quel target;
 2. **numeri** — margini, costi e conversione devono sostenere realmente il pacchetto.
 
+Nel materiale del 7 maggio 2026 Merenda aggiunge un chiarimento percettivo: **la qualità interna che il cliente non sa riconoscere non diventa automaticamente vendibile spiegandola più a lungo con i criteri tecnici dell'azienda**.
+
+Quando l'impresa lamenta che «il cliente non capisce la nostra qualità», deve cambiare il terreno della decisione. Se non possiede ancora una posizione abbastanza forte, l'offerta deve tradurre quella superiorità interna in elementi che il cliente possa vedere, confrontare e desiderare.
+
+Il passaggio è:
+
+**qualità interna non percepita → non aumentare soltanto la spiegazione → tradurre la differenza in un'offerta percepibile → dare una ragione concreta per scegliere.**
+
+Questo non sostituisce il posizionamento di lungo periodo: è la leva immediata per vendere ciò che l'impresa ha oggi senza pretendere che il cliente adotti spontaneamente i criteri tecnici del produttore.
+
+Fonte più recente: [Il Cliente Non Capisce la Tua Qualità. E Non La Capirà Mai: Ecco Cosa Fare](https://www.youtube.com/watch?v=-oYSpJrj024), 7 maggio 2026. [Revisione](../../sources/transcripts/-oYSpJrj024.review.md).
+
 ## Ridurre il rischio senza essere il leader
 
 Quando il cliente sceglie il leader per sentirsi più tranquillo, un'offerta competitiva deve togliere strati di rischio o attrito.

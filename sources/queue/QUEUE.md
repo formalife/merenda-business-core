@@ -163,7 +163,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 149 | [ijVoIMF_gn8](https://www.youtube.com/watch?v=ijVoIMF_gn8) — DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | 00_fondamenti | STUDIATO |
 | 150 | [VN1d2qBc0U0](https://www.youtube.com/watch?v=VN1d2qBc0U0) — Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | 00_fondamenti | STUDIATO |
 | 151 | [8R8NR6nqhJY](https://www.youtube.com/watch?v=8R8NR6nqhJY) — "I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue | 06_vendita | STUDIATO |
-| 152 | [-oYSpJrj024](https://www.youtube.com/watch?v=-oYSpJrj024) — The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | 04_marketing | DA STUDIARE |
+| 152 | [-oYSpJrj024](https://www.youtube.com/watch?v=-oYSpJrj024) — The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | 03_offerta | STUDIATO |
 | 153 | [v6WWqNpNSpE](https://www.youtube.com/watch?v=v6WWqNpNSpE) — The Unfair Advantage You Can Create From Scratch Today | 04_marketing | DA STUDIARE |
 | 154 | [_6QCnb6Oj1Y](https://www.youtube.com/watch?v=_6QCnb6Oj1Y) — Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | 04_marketing | DA STUDIARE |
 | 155 | [Z7FhdrG-fOw](https://www.youtube.com/watch?v=Z7FhdrG-fOw) — How to Increase Revenue with Just One Question | 04_marketing | DA STUDIARE |
