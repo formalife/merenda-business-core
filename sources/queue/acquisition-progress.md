@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:53:52.378777+00:00
+Ultimo aggiornamento: 2026-09-14T19:53:58.784985+00:00
 
 Batch: 25 video
-Completati tecnicamente: 24/25
+Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -31,4 +31,4 @@ Completati tecnicamente: 24/25
 | 22 | NyH30NE16_0 | How to Sell More with the 5 Levels of Clarity | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | 0QpK3scgm4c | Come Vendere di più e con maggior frequenza [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | G4j1zImJq8I | Come Vendere di più e con maggior frequenza [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | jIVCaEJe9RU | Come Vendere di più e con maggior frequenza [Parte 1] | PENDING |  |
+| 25 | jIVCaEJe9RU | Come Vendere di più e con maggior frequenza [Parte 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
