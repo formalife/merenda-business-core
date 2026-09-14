@@ -270,7 +270,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 256 | [wDPyGhkY_CA](https://www.youtube.com/watch?v=wDPyGhkY_CA) — The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients | 03_offerta | STUDIATO |
 | 257 | [oefQwsBIUc0](https://www.youtube.com/watch?v=oefQwsBIUc0) — RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati] | 06_vendita | STUDIATO |
 | 258 | [jzQcezkw8_o](https://www.youtube.com/watch?v=jzQcezkw8_o) — How to Manage a Top-Rated Sales Network | 06_vendita | STUDIATO |
-| 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 06_vendita | DA STUDIARE |
+| 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 06_vendita | STUDIATO |
 | 260 | [XDnktZGk-ZM](https://www.youtube.com/watch?v=XDnktZGk-ZM) — How to Sell More? Learn from the Money-Grabbing Method of American Churches | 06_vendita | DA STUDIARE |
 | 261 | [A4I-A5hldQw](https://www.youtube.com/watch?v=A4I-A5hldQw) — VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | 06_vendita | DA STUDIARE |
 | 262 | [RExoYxfxFWQ](https://www.youtube.com/watch?v=RExoYxfxFWQ) — TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA | 06_vendita | DA STUDIARE |
