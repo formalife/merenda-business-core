@@ -267,7 +267,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 253 | [-_oOcTQgkcY](https://www.youtube.com/watch?v=-_oOcTQgkcY) — The Best SALES TECHNIQUES on the Internet | 06_vendita | STUDIATO |
 | 254 | [P_LavmWySLs](https://www.youtube.com/watch?v=P_LavmWySLs) — How to Sell Anything With Frank Merenda's "Secret Word" | 02_posizionamento | STUDIATO |
 | 255 | [an5eXiIyyiA](https://www.youtube.com/watch?v=an5eXiIyyiA) — How to Create High-Converting Ads [That Sell] | 06_vendita | STUDIATO |
-| 256 | [wDPyGhkY_CA](https://www.youtube.com/watch?v=wDPyGhkY_CA) — The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients | 06_vendita | DA STUDIARE |
+| 256 | [wDPyGhkY_CA](https://www.youtube.com/watch?v=wDPyGhkY_CA) — The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients | 03_offerta | STUDIATO |
 | 257 | [oefQwsBIUc0](https://www.youtube.com/watch?v=oefQwsBIUc0) — RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati] | 06_vendita | DA STUDIARE |
 | 258 | [jzQcezkw8_o](https://www.youtube.com/watch?v=jzQcezkw8_o) — How to Manage a Top-Rated Sales Network | 06_vendita | DA STUDIARE |
 | 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 06_vendita | DA STUDIARE |

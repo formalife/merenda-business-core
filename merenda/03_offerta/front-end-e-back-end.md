@@ -22,6 +22,26 @@ Le percentuali di accettazione citate nel video sono esempi, non benchmark unive
 
 Fonte: [Come Aumentare Il Fatturato Con Una Sola Domanda](https://www.youtube.com/watch?v=Z7FhdrG-fOw), 23 dicembre 2025. [Revisione](../../sources/transcripts/Z7FhdrG-fOw.review.md).
 
+## Tre assi pratici per progettare un upsell
+
+Nel materiale dell'11 giugno 2024 Merenda rende più concreta la progettazione dell'upsell distinguendo tre modi ricorrenti di offrire un livello superiore:
+
+1. **quantità** — più unità, più durata, porzione maggiore, capacità superiore;
+2. **qualità** — materiali, prestazioni, finitura o esperienza di livello superiore;
+3. **completezza / feature** — più componenti, servizi, accessori, funzioni o livelli di assistenza.
+
+La logica può essere espressa come:
+
+**base → intermedio → superiore**
+
+ma il numero di livelli non è obbligatorio e non ogni business deve avere esattamente tre opzioni.
+
+Il principio utile è che l'upsell non sia un aumento arbitrario di prezzo: deve corrispondere a **più valore reale lungo almeno una dimensione comprensibile al cliente**.
+
+Questo materiale precede la fonte del 23 dicembre 2025 già canonica, che resta prevalente sulla regola operativa generale: proporre sistematicamente l'opzione pertinente, lasciare libertà di scelta e mantenerla solo se crea valore ed è economicamente sostenibile.
+
+Fonte precedente: [Le 3 Opzioni dell'UPSELLING per far Esplodere il Fatturato Senza Trovare Nuovi Clienti](https://www.youtube.com/watch?v=wDPyGhkY_CA), 11 giugno 2024. [Revisione](../../sources/transcripts/wDPyGhkY_CA.review.md).
+
 ## La prima vendita apre il marketing di secondo livello
 
 Nel materiale del 26 settembre 2022 Merenda collega il front-end ai diversi livelli di consapevolezza del prospect. La tassonomia dei livelli è trattata in modo più recente nel documento sulla [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md); qui resta utile soprattutto una conseguenza operativa.

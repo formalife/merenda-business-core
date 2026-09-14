@@ -270,7 +270,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 260 | -_oOcTQgkcY | da acquisire | [The Best SALES TECHNIQUES on the Internet](https://www.youtube.com/watch?v=-_oOcTQgkcY) | 5521.0 | 06_vendita | 2 | STUDIATO | videos |
 | 261 | P_LavmWySLs | da acquisire | [How to Sell Anything With Frank Merenda's "Secret Word"](https://www.youtube.com/watch?v=P_LavmWySLs) | 426.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 262 | an5eXiIyyiA | da acquisire | [How to Create High-Converting Ads [That Sell]](https://www.youtube.com/watch?v=an5eXiIyyiA) | 901.0 | 06_vendita | 2 | STUDIATO | videos |
-| 263 | wDPyGhkY_CA | da acquisire | [The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients](https://www.youtube.com/watch?v=wDPyGhkY_CA) | 1000.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 263 | wDPyGhkY_CA | da acquisire | [The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients](https://www.youtube.com/watch?v=wDPyGhkY_CA) | 1000.0 | 03_offerta | 2 | STUDIATO | videos |
 | 264 | oefQwsBIUc0 | da acquisire | [RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati]](https://www.youtube.com/watch?v=oefQwsBIUc0) | 1531.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 265 | jzQcezkw8_o | da acquisire | [How to Manage a Top-Rated Sales Network](https://www.youtube.com/watch?v=jzQcezkw8_o) | 1003.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 266 | 5-UeSJzSvos | da acquisire | [Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo](https://www.youtube.com/watch?v=5-UeSJzSvos) | 257.0 | 06_vendita | 2 | DA STUDIARE | videos |
