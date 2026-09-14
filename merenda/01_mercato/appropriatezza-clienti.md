@@ -119,6 +119,20 @@ La domanda corretta è:
 
 **quale cluster produce più valore, resta più a lungo e costa meno da servire?**
 
+## Concentrare le risorse sui prospect migliori quando sono limitate
+
+Nel materiale del 10 novembre 2022 Merenda trasforma la selezione dei clienti migliori in una regola di allocazione: quando tempo e budget sono limitati, distribuire uno sforzo insufficiente su tutto il mercato può essere meno efficace che scegliere una **coorte finita di prospect ad alta priorità** e lavorarla con intensità sufficiente.
+
+La lista non va scelta a intuito. Parte dall'analisi dei clienti già acquisiti e delle caratteristiche che correlano con economia e appropriatezza migliori; da lì si individuano aziende o persone simili che meritano più attenzione.
+
+La sequenza riusabile è:
+
+**evidenze sui clienti migliori → coorte prioritaria finita → concentrazione di contatti/materiali/risorse → misura della risposta e dell'economia → estensione progressiva.**
+
+Nel video l'esempio è una lista “Top 100”: il numero è illustrativo, non una soglia universale. Il principio non contraddice la diversificazione dei canali nel tempo; evita piuttosto di aprire simultaneamente troppe direttrici con una pressione insufficiente su ciascuna.
+
+Fonte: [COME TROVARE CLIENTI grazie a nuovi canali di acquisizione](https://www.youtube.com/watch?v=WtyLO1gMqVI), 10 novembre 2022. [Revisione](../../sources/transcripts/WtyLO1gMqVI.review.md).
+
 ## Collegamenti
 
 - [Clienti identificabili e target](clienti-identificabili-e-target.md)
