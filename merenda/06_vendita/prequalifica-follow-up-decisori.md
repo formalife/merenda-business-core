@@ -196,4 +196,16 @@ Perciò il percorso è:
 
 Libri, testimonianze, casi e referral servono anche a guadagnare il diritto di dire al prospect cose scomode che un venditore generico non può permettersi di dire.
 
+Nel materiale più recente del 19 maggio 2026 Merenda applica la stessa logica al cliente che arriva dicendo di avere già provato altre soluzioni senza successo. Il fallimento precedente non va trattato automaticamente come prova che anche la nuova proposta non funzionerà: il venditore deve capire che il cliente può avere seguito un processo decisionale inadeguato e, se possiede diagnosi, prove e un'offerta coerente, deve **guidarlo verso un processo diverso** invece di restituirgli semplicemente la stessa indecisione che lo ha portato al problema.
+
+Questa fermezza riguarda prima di tutto il **dialogo mentale interno del venditore**. Merenda chiarisce esplicitamente che il linguaggio provocatorio usato sul palco non va copiato in trattativa: pensare con convinzione «devo fermare il cliente dal ripetere l'errore» non autorizza a comunicare con aggressività o disprezzo. La convinzione interna serve a sostenere una prescrizione chiara, mentre la comunicazione esterna deve restare adatta alla relazione.
+
+Il principio operativo diventa quindi:
+
+**capire il fallimento precedente → diagnosticare il processo che lo ha prodotto → proporre una strada diversa → ridurre il rischio con l'offerta → guidare con fermezza la decisione.**
+
+Quando la proposta include una garanzia o un'altra forma sostenibile di riduzione del rischio, questa rafforza la possibilità di chiedere al cliente di affidarsi alla prescrizione. La garanzia non sostituisce diagnosi e autorevolezza: riduce l'attrito della decisione.
+
+Fonte più recente: [Ho Già Provato e Non Ha Funzionato — La Scusa che Distrugge il Tuo Fatturato](https://www.youtube.com/watch?v=8R8NR6nqhJY), 19 maggio 2026. [Revisione](../../sources/transcripts/8R8NR6nqhJY.review.md).
+
 Fonte: [Una PMI può vincere sul mercato?](https://www.youtube.com/watch?v=bHxjwGQQoUw), 7 giugno 2024. [Revisione](../../sources/transcripts/bHxjwGQQoUw.review.md).
