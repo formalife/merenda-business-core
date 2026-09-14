@@ -4,7 +4,7 @@ Fonte: Frank Merenda, [Le basi della vendita — Parte 1](https://www.youtube.co
 
 ## Le differenze cambiano la priorità del lavoro
 
-I business condividono l'esigenza di attrarre clienti, concludere vendite e mantenere una relazione da cui generare acquisti ulteriori. Le differenze di settore non annullano questi fondamentali; cambiano le competenze su cui concentrarsi prima. [00:06–05:49](https://www.youtube.com/watch?v=ePxhx94vW7g&t=6s)
+I business condividono l'esigenza di attrarre clienti, concludere vendite e mantenere una relazione da cui generare acquisti ulteriori. Le differenze di settore non annullano questi fondamentali; cambiano le competenze su cui concentrarsi prima. [00:06–05:49; 16:46–22:46](https://www.youtube.com/watch?v=ePxhx94vW7g&t=6s)
 
 | Situazione | Vantaggio e difficoltà | Priorità |
 |---|---|---|
@@ -59,6 +59,51 @@ Merenda propone di focalizzare **la prima campagna** sul cliente ideale più des
 La ragione è anche di copy: segmenti diversi hanno problemi, linguaggio e dialogo mentale diversi. Una campagna generica tende a non parlare con precisione a nessuno.
 
 Fonte: [COME TROVARE CLIENTI — Le basi di una Campagna Marketing di Successo](https://www.youtube.com/watch?v=k8d8CYjp3u8), 4 luglio 2023. [Revisione](../../sources/transcripts/k8d8CYjp3u8.review.md).
+
+## Consapevolezza e storia d'acquisto cambiano il lavoro commerciale
+
+Nel materiale del 9 marzo 2023 Merenda aggiunge una seconda segmentazione: due persone appartenenti allo stesso target possono trovarsi in punti molto diversi del processo decisionale.
+
+### Livello di consapevolezza
+
+Il prospect può trovarsi, in forma semplificata, lungo una progressione come:
+
+1. non percepisce ancora il problema o non lo considera prioritario;
+2. riconosce il problema ma non crede che esista una soluzione praticabile;
+3. sa che esistono più modi per risolverlo e sta confrontando gli approcci;
+4. ha scelto la famiglia di soluzione / approccio;
+5. sta scegliendo fra fornitori che adottano quell'approccio.
+
+Il marketing non dovrebbe parlare a tutti come se fossero già al quinto livello. Se una persona non crede ancora che il problema sia risolvibile, una comparazione dettagliata fra fornitori arriva troppo presto.
+
+### Storia di acquisto e soluzione attuale
+
+Va inoltre distinto chi:
+
+- non ha mai acquistato una soluzione per quel problema;
+- ha acquistato in passato ma ha smesso;
+- sta ancora usando una soluzione alternativa o concorrente.
+
+Per chi usa ancora una soluzione bisogna capire almeno se è:
+
+- molto soddisfatto;
+- mediamente soddisfatto / aperto;
+- attivamente alla ricerca di un sostituto.
+
+Questi stati implicano lavori differenti:
+
+- **mai comprato** → rendere comprensibile problema, possibilità di soluzione e rilevanza;
+- **ha provato e smesso** → capire il fallimento precedente e ricostruire fiducia nella possibilità di ottenere un risultato diverso;
+- **usa e vuole cambiare** → vendita sostitutiva, spesso più vicina alla decisione;
+- **usa ed è molto soddisfatto** → priorità commerciale normalmente inferiore, perché occorre prima creare una ragione reale per cambiare.
+
+Il principio operativo è:
+
+**target corretto ≠ stessa maturità decisionale → identificare lo stato → usare messaggio e sforzo commerciale coerenti.**
+
+La fonte usa espressioni aggressive sul “creare terrore” nelle persone inconsapevoli. La KB non conserva quella formulazione: un problema va reso saliente solo attraverso conseguenze reali, pertinenti e supportate dai fatti.
+
+Fonte precedente: [Come vendere di più al giusto Target | I 7 tipi di clienti — Parte 2](https://www.youtube.com/watch?v=IGR6IPPvY3Q), 9 marzo 2023. [Revisione](../../sources/transcripts/IGR6IPPvY3Q.review.md).
 
 ## Collegamenti
 
