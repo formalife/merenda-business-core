@@ -226,7 +226,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 212 | [TrY_mDjr7I4](https://www.youtube.com/watch?v=TrY_mDjr7I4) — Come creare un FUNNEL di FRONT END che converte [in 4 Step] | 03_offerta | STUDIATO |
 | 213 | [_CPcSMMzIY0](https://www.youtube.com/watch?v=_CPcSMMzIY0) — L'arma del VENDITORE per le Aziende che acquisiscono contatti online | 06_vendita | STUDIATO |
 | 214 | [I-YCFdXNSO0](https://www.youtube.com/watch?v=I-YCFdXNSO0) — Cos'è il MARKETING, a cosa serve e perchè non è pubblicità | 02_posizionamento | STUDIATO |
-| 215 | [bLmGe86nDAA](https://www.youtube.com/watch?v=bLmGe86nDAA) — FUNNEL &#124; Translation and Meaning - What is a Marketing Funnel [Explained Simply] | 05_acquisizione | DA STUDIARE |
+| 215 | [bLmGe86nDAA](https://www.youtube.com/watch?v=bLmGe86nDAA) — FUNNEL &#124; Translation and Meaning - What is a Marketing Funnel [Explained Simply] | 05_acquisizione | STUDIATO |
 | 216 | [of0ppir9sq4](https://www.youtube.com/watch?v=of0ppir9sq4) — FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO | 05_acquisizione | DA STUDIARE |
 | 217 | [bY6Lb0Dld88](https://www.youtube.com/watch?v=bY6Lb0Dld88) — Strategie di Acquisizione Clienti: Invadere l’ambiente | 05_acquisizione | DA STUDIARE |
 | 218 | [JQXoKKwneBQ](https://www.youtube.com/watch?v=JQXoKKwneBQ) — E Commerce: Il futuro è nei Funnel | 05_acquisizione | DA STUDIARE |
