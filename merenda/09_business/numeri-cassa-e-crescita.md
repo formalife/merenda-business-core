@@ -259,6 +259,29 @@ Questo vale anche nel franchising: la convenienza del franchisor e quella del si
 
 Fonte: [CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A), 8 dicembre 2023.
 
+## Prima di aumentare i lead: chiudere i buchi del sistema
+
+Nel materiale del 2 luglio 2025 Merenda presenta un **growth funnel** strategico distinto dal funnel tattico di acquisizione.
+
+La novità non sono le singole leve — già presenti nella KB — ma il loro **ordine di lavoro**. Aumentare i lead è collocato per ultimo, perché amplificare il traffico dentro un sistema che perde clienti, converte male o monetizza poco significa amplificare anche gli sprechi.
+
+La sequenza proposta è:
+
+1. **trattenere meglio i clienti**, partendo da ciò che vogliono realmente e dalla qualità dell'erogazione;
+2. **sistematizzare i referral**;
+3. **aumentare focus e valore percepito/trasmesso**, rendendo più difficile la sostituzione con un concorrente;
+4. **migliorare i processi di vendita**, con procedure, script, domande, formazione e controllo;
+5. **migliorare i tassi di conversione** nei singoli passaggi, non soltanto il fatturato finale;
+6. **aumentare il valore della transazione**, tramite prezzo, bundle, volume, upsell/cross-sell quando i margini lo permettono;
+7. **aumentare la frequenza di acquisto**, con offerte successive, loyalty o ricorrenza quando naturali;
+8. **solo dopo aumentare i lead** e alimentare più forte il funnel di acquisizione.
+
+Il modello non richiede che ogni azienda perfezioni ciascun punto prima di fare qualunque acquisizione. È una gerarchia di diagnosi e miglioramento: **prima correggere le perdite più costose del sistema, poi versare più traffico nel secchio**.
+
+Percentuali, esempi di upsell e obiettivi di referral citati nella lezione non sono benchmark universali. Ogni leva va letta con margine, capacità, cassa e dati reali.
+
+Fonte: [Strategia Marketing Per PMI: 8 Passi Per Vendere di Più](https://www.youtube.com/watch?v=ggJnCJCXIO4), 2 luglio 2025. [Revisione](../../sources/transcripts/ggJnCJCXIO4.review.md).
+
 ## Quattro leve economiche per far crescere il sistema
 
 Nel materiale del 28 gennaio 2025 Merenda propone una mappa semplice per capire dove intervenire quando si vuole far crescere il risultato economico:
