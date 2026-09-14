@@ -40,6 +40,26 @@ Persone diverse reagiscono a stimoli diversi. La sequenza può quindi combinare,
 
 Il punto non è usare ogni canale. È evitare di identificare il follow-up con un unico autoresponder e scegliere i touchpoint coerenti con margine, valore del cliente e capacità operativa.
 
+## Quattro livelli di copertura del follow-up
+
+Una fonte successiva, dell'11 aprile 2025, organizza il follow-up come copertura su quattro livelli complementari.
+
+1. **Materiale immediato dopo il contatto** — dare rapidamente alla persona qualcosa che la aiuti a capire, valutare o ricordare l'offerta. Può essere fisico o digitale in funzione dell'economia e del contesto.
+2. **Sequenza di ricontatto** — non affidarsi a un singolo invio e non identificare il follow-up con “una serie di email”. La sequenza può usare più canali quando sono sostenibili.
+3. **Presenza continuativa tra una campagna e l'altra** — mantenere viva la relazione con newsletter, contenuti o altri touchpoint anche quando non esiste una promozione attiva.
+4. **Intervento umano della vendita** — quando esistono dati e opportunità sufficienti, dare alla rete commerciale la possibilità di contattare e sviluppare direttamente il prospect/cliente.
+
+Il modello serve soprattutto a evitare due buchi:
+
+- **il silenzio dopo il primo contatto**;
+- **la dipendenza da un unico canale di follow-up**.
+
+Le cadenze citate nella lezione — mensili, bimestrali, trimestrali o più ravvicinate — sono esempi, non una frequenza universale. La cadenza corretta dipende da ciclo d'acquisto, valore del cliente, capacità di produzione e costo del contatto.
+
+La fonte ribadisce inoltre il problema del timing: una persona può non essere pronta oggi e diventarlo più avanti per un cambiamento reale della situazione. Per questo il follow-up non deve essere progettato soltanto come pressione immediata, ma anche come **presenza che intercetta il momento giusto**.
+
+Fonte più recente: [Come Vendere di Più: Le 4 Fasi Cruciali del Follow Up di Marketing](https://www.youtube.com/watch?v=T5ccJyQqX9c), 11 aprile 2025. [Revisione](../../sources/transcripts/T5ccJyQqX9c.review.md).
+
 ## Sette decisioni di progetto
 
 La lezione del 2024 può essere sintetizzata in sette decisioni operative.
