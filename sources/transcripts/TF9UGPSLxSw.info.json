@@ -14,37 +14,37 @@
   "language": null,
   "chapters": [
     {
-      "start_time": 0.0,
+      "start_time": 0,
       "title": "Intro",
-      "end_time": 50.0
+      "end_time": 50
     },
     {
-      "start_time": 50.0,
+      "start_time": 50,
       "title": "Promesse grandi Vs piccole",
-      "end_time": 252.0
+      "end_time": 252
     },
     {
-      "start_time": 252.0,
+      "start_time": 252,
       "title": "I 2 momenti di Marketing",
-      "end_time": 437.0
+      "end_time": 437
     },
     {
-      "start_time": 437.0,
+      "start_time": 437,
       "title": "Il limite del Compliant",
-      "end_time": 555.0
+      "end_time": 555
     },
     {
-      "start_time": 555.0,
+      "start_time": 555,
       "title": "Le promesse grandi",
-      "end_time": 673.0
+      "end_time": 673
     },
     {
-      "start_time": 673.0,
+      "start_time": 673,
       "title": "Come riscrivere la promessa",
-      "end_time": 750.0
+      "end_time": 750
     },
     {
-      "start_time": 750.0,
+      "start_time": 750,
       "title": "Cosa ti succederà?",
       "end_time": 866
     }
