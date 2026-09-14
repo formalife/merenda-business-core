@@ -279,7 +279,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 269 | RExoYxfxFWQ | da acquisire | [TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA](https://www.youtube.com/watch?v=RExoYxfxFWQ) | 198.0 | 06_vendita | 2 | STUDIATO | videos |
 | 270 | HJBySYV6HjA | da acquisire | [Close the SALES NEGOTIATIONS thanks to the Authority](https://www.youtube.com/watch?v=HJBySYV6HjA) | 231.0 | 08_brand | 2 | STUDIATO | videos |
 | 271 | 9FpKpV15B_4 | da acquisire | [COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti](https://www.youtube.com/watch?v=9FpKpV15B_4) | 2263.0 | 07_copy_comunicazione | 2 | STUDIATO | videos |
-| 272 | imdxn91jLik | da acquisire | [How to create a high-performance sales network](https://www.youtube.com/watch?v=imdxn91jLik) | 1342.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 272 | imdxn91jLik | da acquisire | [How to create a high-performance sales network](https://www.youtube.com/watch?v=imdxn91jLik) | 1342.0 | 09_business | 2 | STUDIATO | videos |
 | 273 | NB9g-DhSj-4 | da acquisire | [Come vendere di più creando affinità e fiducia con i clienti](https://www.youtube.com/watch?v=NB9g-DhSj-4) | 967.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 274 | Vqn55dABlHQ | da acquisire | [How to SELL more to your active customers](https://www.youtube.com/watch?v=Vqn55dABlHQ) | 4482.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 275 | IGR6IPPvY3Q | da acquisire | [How to Sell More to the Right Target &#124; The 7 Types of Customers [Part 2]](https://www.youtube.com/watch?v=IGR6IPPvY3Q) | 1287.0 | 06_vendita | 2 | DA STUDIARE | videos |
