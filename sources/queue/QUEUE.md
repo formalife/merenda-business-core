@@ -217,7 +217,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 203 | [uayjrQ6GWQc](https://www.youtube.com/watch?v=uayjrQ6GWQc) — How to Acquire Profiled Contacts with Lead Generation [Done Right] | 05_acquisizione | STUDIATO |
 | 204 | [nAqH9enAM1U](https://www.youtube.com/watch?v=nAqH9enAM1U) — Lead Generation: What It Means and How to Do It [Which Tools to Use] | 05_acquisizione | STUDIATO |
 | 205 | [R22IWnVNYus](https://www.youtube.com/watch?v=R22IWnVNYus) — Come trovare nuovi clienti con campagne di Lead Generation | 09_business | STUDIATO |
-| 206 | [zfmFg5L7VDU](https://www.youtube.com/watch?v=zfmFg5L7VDU) — How to Do Lead Generation in Your Business &#124; Key Concepts | 05_acquisizione | DA STUDIARE |
+| 206 | [zfmFg5L7VDU](https://www.youtube.com/watch?v=zfmFg5L7VDU) — How to Do Lead Generation in Your Business &#124; Key Concepts | 06_vendita | STUDIATO |
 | 207 | [saBj3DmgsCg](https://www.youtube.com/watch?v=saBj3DmgsCg) — Lead Generation: How to Create a Winning Sales Funnel | 05_acquisizione | DA STUDIARE |
 | 208 | [-lqseFTfCzk](https://www.youtube.com/watch?v=-lqseFTfCzk) — How to Create a Funnel [Complete Guide to Lead Generation] | 05_acquisizione | DA STUDIARE |
 | 209 | [C4IfIcOkwdE](https://www.youtube.com/watch?v=C4IfIcOkwdE) — Funnel Marketing &#124; How to Build a Funnel from Scratch [that actually sells] | 05_acquisizione | DA STUDIARE |
