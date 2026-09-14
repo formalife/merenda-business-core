@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:27:24.313978+00:00
+Ultimo aggiornamento: 2026-09-14T16:27:26.334932+00:00
 
 Batch: 25 video
-Completati tecnicamente: 7/25
+Completati tecnicamente: 8/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -14,7 +14,7 @@ Completati tecnicamente: 7/25
 | 5 | Qg8Z2Oh5z3s | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | xBM5PST7ZKs | Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | MwNCMJE8sRk | 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 8 | g-VOlvqnL_8 | Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | PENDING |  |
+| 8 | g-VOlvqnL_8 | Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | ggJnCJCXIO4 | Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | PENDING |  |
 | 10 | KZ78VhszH_o | How to SELL More and Generate Extraordinary PROFITS for Your Business | PENDING |  |
 | 11 | 3ZNE75sPen8 | Come Aumentare Le Conversioni: La Checklist Segreta Che Fa Impazzire I Venditori | PENDING |  |
