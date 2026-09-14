@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:52:00.668198+00:00
+Ultimo aggiornamento: 2026-09-14T19:52:05.659685+00:00
 
 Batch: 25 video
-Completati tecnicamente: 11/25
+Completati tecnicamente: 12/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -18,7 +18,7 @@ Completati tecnicamente: 11/25
 | 9 | 5-UeSJzSvos | Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | XDnktZGk-ZM | How to Sell More? Learn from the Money-Grabbing Method of American Churches | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | A4I-A5hldQw | VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | RExoYxfxFWQ | TECNICHE DI VENDITA \| Script e Processi per diventare un VENDITORE PROFESSIONISTA | PENDING |  |
+| 12 | RExoYxfxFWQ | TECNICHE DI VENDITA \| Script e Processi per diventare un VENDITORE PROFESSIONISTA | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | HJBySYV6HjA | Close the SALES NEGOTIATIONS thanks to the Authority | PENDING |  |
 | 14 | 9FpKpV15B_4 | COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | PENDING |  |
 | 15 | imdxn91jLik | How to create a high-performance sales network | PENDING |  |
