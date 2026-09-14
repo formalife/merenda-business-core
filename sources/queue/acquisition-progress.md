@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:27:22.254682+00:00
+Ultimo aggiornamento: 2026-09-14T16:27:24.313978+00:00
 
 Batch: 25 video
-Completati tecnicamente: 6/25
+Completati tecnicamente: 7/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -13,7 +13,7 @@ Completati tecnicamente: 6/25
 | 4 | 7zRyOC3Z0lM | Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | Qg8Z2Oh5z3s | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | xBM5PST7ZKs | Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | MwNCMJE8sRk | 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | PENDING |  |
+| 7 | MwNCMJE8sRk | 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | g-VOlvqnL_8 | Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | PENDING |  |
 | 9 | ggJnCJCXIO4 | Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | PENDING |  |
 | 10 | KZ78VhszH_o | How to SELL More and Generate Extraordinary PROFITS for Your Business | PENDING |  |
