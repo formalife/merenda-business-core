@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–155 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–156 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–155/175. `Z7FhdrG-fOw` integrato in `03_offerta`. Prossima azione: fasi 8–13 su `5awWbxibHIE` (posizione canonica 156). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–156/175. `5awWbxibHIE` integrato in `09_business`. Prossima azione: fasi 8–13 su `G6j8xbargKY` (posizione canonica 157). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 155
-- STUDIATO / integrati nella KB: 149
+- Contenuti processati semanticamente: 156
+- STUDIATO / integrati nella KB: 150
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 313
+- Da processare: 312
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `5awWbxibHIE` — *Errori di Assunzione? Frank Merenda Ti Dice La VERITÀ Brutale* — posizione canonica 156 della queue. I video 151–155 sono completati semanticamente.
+Continuare il batch **151–175** con `G6j8xbargKY` — *COACH e FORMATORI per Aziende - Attenzione a chi Segui* — posizione canonica 157 della queue. I video 151–156 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **5/25** contenuti del batch completati. `Z7FhdrG-fOw` è stato riclassificato in `03_offerta` e ha aggiunto la disciplina dell'upsell sistematico ma pertinente. Contenuti semanticamente processati: **155**.
+- Revisione semantica in corso: **6/25** contenuti del batch completati. `5awWbxibHIE` conferma `09_business` e aggiunge la verifica post-assunzione come parte del sistema HR. Contenuti semanticamente processati: **156**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 

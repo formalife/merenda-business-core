@@ -70,6 +70,22 @@ Dopo l'assunzione servono:
 
 Questa parte è sviluppata nel materiale più recente su [scalabilità e uscita dall'operatività](scalabilita-e-operativita.md), che prevale sulle formulazioni 2022 quando entra più nel dettaglio.
 
+### La selezione continua dopo l'ingresso
+
+Nel materiale del 13 ottobre 2025 Merenda separa l'errore di **inserire** una persona che poi si rivela inadatta dall'errore di **continuare a tenerla** quando l'inadeguatezza è diventata evidente.
+
+Le prime settimane possono essere una fase di entusiasmo in cui il rendimento apparente non basta a prevedere la tenuta sul lavoro reale. La verifica avviene quando emergono obiettivi, responsabilità, problemi e richiesta costante di risultati.
+
+Il processo operativo diventa quindi:
+
+**selezionare → osservare sul lavoro reale → misurare risultati/comportamenti → confermare o interrompere tempestivamente l'inserimento.**
+
+Merenda distingue inoltre questo turnover iniziale dalla perdita di una persona già formata e produttiva dopo anni: sono fenomeni con significato e costo diversi.
+
+La durata temporale citata nel video è un esempio della sua pratica, non una soglia universale né una regola giuridica.
+
+Fonte: [Errori di Assunzione? Frank Merenda Ti Dice La VERITÀ Brutale](https://www.youtube.com/watch?v=5awWbxibHIE), 13 ottobre 2025. [Revisione](../../sources/transcripts/5awWbxibHIE.review.md).
+
 ## Collegamenti
 
 - [Scalabilità e uscita dall'operatività](scalabilita-e-operativita.md)

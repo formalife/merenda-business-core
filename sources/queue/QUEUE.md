@@ -167,7 +167,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 153 | [v6WWqNpNSpE](https://www.youtube.com/watch?v=v6WWqNpNSpE) — The Unfair Advantage You Can Create From Scratch Today | 02_posizionamento | STUDIATO |
 | 154 | [_6QCnb6Oj1Y](https://www.youtube.com/watch?v=_6QCnb6Oj1Y) — Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | 09_business | STUDIATO |
 | 155 | [Z7FhdrG-fOw](https://www.youtube.com/watch?v=Z7FhdrG-fOw) — How to Increase Revenue with Just One Question | 03_offerta | STUDIATO |
-| 156 | [5awWbxibHIE](https://www.youtube.com/watch?v=5awWbxibHIE) — Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | 09_business | DA STUDIARE |
+| 156 | [5awWbxibHIE](https://www.youtube.com/watch?v=5awWbxibHIE) — Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | 09_business | STUDIATO |
 | 157 | [G6j8xbargKY](https://www.youtube.com/watch?v=G6j8xbargKY) — Coaches and Trainers for Companies - Be Careful Who You Follow | 04_marketing | DA STUDIARE |
 | 158 | [LMzKVDWrGlk](https://www.youtube.com/watch?v=LMzKVDWrGlk) — The Placement Rule That Brought Skechers to Success #shorts | 10_casi_studio | DA STUDIARE |
 | 159 | [-6L9gCbicjk](https://www.youtube.com/watch?v=-6L9gCbicjk) — Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | 04_marketing | DA STUDIARE |
