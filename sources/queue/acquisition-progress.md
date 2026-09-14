@@ -1,14 +1,14 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:26:42.970160+00:00
+Ultimo aggiornamento: 2026-09-14T16:26:50.047820+00:00
 
 Batch: 25 video
-Completati tecnicamente: 1/25
+Completati tecnicamente: 2/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | m53_BsS_x8U | Video animati per Landing page - Strategia di marketing corretta? #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | n_5xPjN-NZY | 50% of Customers Go to the Leader. What Are You Doing? | PENDING |  |
+| 2 | n_5xPjN-NZY | 50% of Customers Go to the Leader. What Are You Doing? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | W90bBHzfPMI | ❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have! | PENDING |  |
 | 4 | 7zRyOC3Z0lM | Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | PENDING |  |
 | 5 | Qg8Z2Oh5z3s | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | PENDING |  |
