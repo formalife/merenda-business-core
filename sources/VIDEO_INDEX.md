@@ -259,7 +259,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 249 | gcQKKrbZW28 | acquisito | [Live Events: How to Generate Extraordinary Sales Without Wasting Budget](https://www.youtube.com/watch?v=gcQKKrbZW28) | 2405.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 250 | sa45UbN4sMI | acquisito | [🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance](https://www.youtube.com/watch?v=sa45UbN4sMI) | 1474.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 251 | Zzh6PXGTmD0 | acquisito | [Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato](https://www.youtube.com/watch?v=Zzh6PXGTmD0) | 1227.0 | 06_vendita | 2 | DA STUDIARE | videos |
-| 252 | bWNr-tHknvw | da acquisire | [Frank Merenda's Formula for Selling Any Product](https://www.youtube.com/watch?v=bWNr-tHknvw) | 1148.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 252 | bWNr-tHknvw | acquisito | [Frank Merenda's Formula for Selling Any Product](https://www.youtube.com/watch?v=bWNr-tHknvw) | 1148.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 253 | V8CVwcH5rwA | da acquisire | [🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi](https://www.youtube.com/watch?v=V8CVwcH5rwA) | 1363.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 254 | r649dAXopLM | da acquisire | [Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide](https://www.youtube.com/watch?v=r649dAXopLM) | 903.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 255 | Q3SCQG-aZSM | da acquisire | [#4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi"](https://www.youtube.com/watch?v=Q3SCQG-aZSM) | 962.0 | 06_vendita | 2 | DA STUDIARE | videos |
