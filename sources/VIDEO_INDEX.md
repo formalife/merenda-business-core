@@ -219,7 +219,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 209 | nAqH9enAM1U | da acquisire | [Lead Generation: What It Means and How to Do It [Which Tools to Use]](https://www.youtube.com/watch?v=nAqH9enAM1U) | 1444.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 210 | R22IWnVNYus | da acquisire | [Come trovare nuovi clienti con campagne di Lead Generation](https://www.youtube.com/watch?v=R22IWnVNYus) | 1378.0 | 09_business | 2 | STUDIATO | videos |
 | 211 | zfmFg5L7VDU | da acquisire | [How to Do Lead Generation in Your Business &#124; Key Concepts](https://www.youtube.com/watch?v=zfmFg5L7VDU) | 1005.0 | 06_vendita | 2 | STUDIATO | videos |
-| 212 | saBj3DmgsCg | da acquisire | [Lead Generation: How to Create a Winning Sales Funnel](https://www.youtube.com/watch?v=saBj3DmgsCg) | 2430.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 212 | saBj3DmgsCg | da acquisire | [Lead Generation: How to Create a Winning Sales Funnel](https://www.youtube.com/watch?v=saBj3DmgsCg) | 2430.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 213 | -lqseFTfCzk | da acquisire | [How to Create a Funnel [Complete Guide to Lead Generation]](https://www.youtube.com/watch?v=-lqseFTfCzk) | 1277.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 214 | C4IfIcOkwdE | da acquisire | [Funnel Marketing &#124; How to Build a Funnel from Scratch [that actually sells]](https://www.youtube.com/watch?v=C4IfIcOkwdE) | 1189.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 215 | aEv9F66CZqA | da acquisire | [Il VERO SEGRETO di un imprenditore per acquisire clienti](https://www.youtube.com/watch?v=aEv9F66CZqA) | 362.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
