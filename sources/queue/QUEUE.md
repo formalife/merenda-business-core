@@ -215,7 +215,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 201 | [vD7zMl6YXzs](https://www.youtube.com/watch?v=vD7zMl6YXzs) — Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest) | 09_business | STUDIATO |
 | 202 | [QJUjdX0zglA](https://www.youtube.com/watch?v=QJUjdX0zglA) — LEAD GENERATION &#124; Come Trovare il Cliente ideale [Non adatto alle Web Agency] | 05_acquisizione | STUDIATO |
 | 203 | [uayjrQ6GWQc](https://www.youtube.com/watch?v=uayjrQ6GWQc) — How to Acquire Profiled Contacts with Lead Generation [Done Right] | 05_acquisizione | STUDIATO |
-| 204 | [nAqH9enAM1U](https://www.youtube.com/watch?v=nAqH9enAM1U) — Lead Generation: What It Means and How to Do It [Which Tools to Use] | 05_acquisizione | DA STUDIARE |
+| 204 | [nAqH9enAM1U](https://www.youtube.com/watch?v=nAqH9enAM1U) — Lead Generation: What It Means and How to Do It [Which Tools to Use] | 05_acquisizione | STUDIATO |
 | 205 | [R22IWnVNYus](https://www.youtube.com/watch?v=R22IWnVNYus) — Come trovare nuovi clienti con campagne di Lead Generation | 05_acquisizione | DA STUDIARE |
 | 206 | [zfmFg5L7VDU](https://www.youtube.com/watch?v=zfmFg5L7VDU) — How to Do Lead Generation in Your Business &#124; Key Concepts | 05_acquisizione | DA STUDIARE |
 | 207 | [saBj3DmgsCg](https://www.youtube.com/watch?v=saBj3DmgsCg) — Lead Generation: How to Create a Winning Sales Funnel | 05_acquisizione | DA STUDIARE |
