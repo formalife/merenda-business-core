@@ -231,7 +231,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 221 | of0ppir9sq4 | da acquisire | [FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO](https://www.youtube.com/watch?v=of0ppir9sq4) | 236.0 | 03_offerta | 2 | STUDIATO | videos |
 | 222 | bY6Lb0Dld88 | da acquisire | [Strategie di Acquisizione Clienti: Invadere l’ambiente](https://www.youtube.com/watch?v=bY6Lb0Dld88) | 318.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 223 | JQXoKKwneBQ | da acquisire | [E Commerce: Il futuro è nei Funnel](https://www.youtube.com/watch?v=JQXoKKwneBQ) | 4259.0 | 05_acquisizione | 2 | STUDIATO | streams |
-| 224 | ji8rHHO_KHY | da acquisire | [Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo]](https://www.youtube.com/watch?v=ji8rHHO_KHY) | 4484.0 | 05_acquisizione | 2 | DA STUDIARE | streams |
+| 224 | ji8rHHO_KHY | da acquisire | [Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo]](https://www.youtube.com/watch?v=ji8rHHO_KHY) | 4484.0 | 05_acquisizione | 2 | STUDIATO | streams |
 | 225 | HwlqYf73Ctk | da acquisire | [Referral - Come moltiplicare le vendite grazie ai tuoi Clienti](https://www.youtube.com/watch?v=HwlqYf73Ctk) | 6443.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 226 | G0fxszrL9_M | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3]](https://www.youtube.com/watch?v=G0fxszrL9_M) | 823.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 227 | 0rM-F7msbkA | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2]](https://www.youtube.com/watch?v=0rM-F7msbkA) | 1232.0 | 05_acquisizione | 2 | DA STUDIARE | videos |

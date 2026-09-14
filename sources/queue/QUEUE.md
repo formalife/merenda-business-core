@@ -230,7 +230,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 216 | [of0ppir9sq4](https://www.youtube.com/watch?v=of0ppir9sq4) — FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO | 03_offerta | STUDIATO |
 | 217 | [bY6Lb0Dld88](https://www.youtube.com/watch?v=bY6Lb0Dld88) — Strategie di Acquisizione Clienti: Invadere l’ambiente | 05_acquisizione | STUDIATO |
 | 218 | [JQXoKKwneBQ](https://www.youtube.com/watch?v=JQXoKKwneBQ) — E Commerce: Il futuro è nei Funnel | 05_acquisizione | STUDIATO |
-| 219 | [ji8rHHO_KHY](https://www.youtube.com/watch?v=ji8rHHO_KHY) — Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | 05_acquisizione | DA STUDIARE |
+| 219 | [ji8rHHO_KHY](https://www.youtube.com/watch?v=ji8rHHO_KHY) — Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | 05_acquisizione | STUDIATO |
 | 220 | [HwlqYf73Ctk](https://www.youtube.com/watch?v=HwlqYf73Ctk) — Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | 05_acquisizione | DA STUDIARE |
 | 221 | [G0fxszrL9_M](https://www.youtube.com/watch?v=G0fxszrL9_M) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | 05_acquisizione | DA STUDIARE |
 | 222 | [0rM-F7msbkA](https://www.youtube.com/watch?v=0rM-F7msbkA) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | 05_acquisizione | DA STUDIARE |
