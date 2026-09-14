@@ -24,6 +24,18 @@ Merenda presenta questi principi come criteri con cui supervisiona ogni campagna
 
 La strategia definisce principi e direzione sul mercato; le tattiche sono gli strumenti, che cambiano nel tempo. Assemblare Facebook, Google, lettere o volantini non sostituisce una strategia. L'imprenditore deve guidarla; può poi affidare l'esecuzione tecnica ad altri. Non deve necessariamente imparare a configurare personalmente gli annunci. [31:37–35:11](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=1897s)
 
+### Gli strumenti accelerano, non sostituiscono il giudizio
+
+Nel materiale del 22 gennaio 2023 Merenda usa ChatGPT come esempio di una regola più ampia: un tool può velocizzare ricerca, produzione ed esecuzione, ma la qualità strategica dipende ancora dalla competenza di chi lo dirige e valuta il risultato.
+
+La formulazione assoluta del video secondo cui lo strumento non possa “superare” l'utilizzatore non viene trattata come limite tecnico universale. Il principio operativo conservato è:
+
+**strumento → accelerazione dell'esecuzione; competenza → direzione, selezione e controllo della qualità.**
+
+Un output più rapido o apparentemente più sofisticato non elimina quindi la responsabilità di capire il dominio, formulare criteri corretti e riconoscere errori o banalità.
+
+Fonte: [Chat GPT: Intelligenza Artificiale come opportunità o minaccia?](https://www.youtube.com/watch?v=qIG_0TMol8s), 22 gennaio 2023. [Revisione](../../sources/transcripts/qIG_0TMol8s.review.md).
+
 Per mettere alla prova idee e abitudini, Merenda propone di confrontarsi anche con imprenditori di altri settori: possono osservare un'esperienza con gli occhi del potenziale cliente e riconoscere difetti che gli addetti ai lavori danno per inevitabili. Lo scambio serve a generare idee, non a copiare il concorrente o un altro allievo. [35:33–38:24; 61:18–62:55](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=2133s)
 
 ## Diventare esperti di marketing del proprio settore
