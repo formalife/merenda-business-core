@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 23/25 completati; prossimo contenuto canonico: 149 `ijVoIMF_gn8`.**
+**Elaborazione semantica del batch 126–150 — 24/25 completati; prossimo contenuto canonico: 150 `VN1d2qBc0U0`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 148
-- STUDIATO / integrati nella KB: 142
+- Contenuti processati semanticamente: 149
+- STUDIATO / integrati nella KB: 143
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 320
+- Da processare: 319
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 23/25 completati
+- Elaborazione semantica 126–150: 24/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -64,11 +64,11 @@ I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il conte
 
 ## Next Action
 
-Proseguire con CHATGPT in ordine canonico dal contenuto 149:
+Proseguire con CHATGPT in ordine canonico dal contenuto 150:
 
-- `ijVoIMF_gn8` — *DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta* — posizione 149.
+- `VN1d2qBc0U0` — *Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing]* — posizione 150.
 
-Fallback ASR locale disponibile; pronto per revisione semantica.
+Transcript italiano disponibile; pronto per revisione semantica.
 
 ## Validazione e blocchi
 

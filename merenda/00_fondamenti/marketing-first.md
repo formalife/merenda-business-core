@@ -45,6 +45,34 @@ Gli esempi provenienti da altri settori restano utili per generare idee e metter
 
 Fonte: [Le Tattiche Segrete dei Samurai Italiani applicate al Marketing](https://www.youtube.com/watch?v=jcVKVKvy78k), 29 novembre 2023. [Revisione](../../sources/transcripts/jcVKVKvy78k.review.md).
 
+## Per una PMI il marketing svolge anche una funzione distributiva
+
+Nel materiale del 28 giugno 2022 Merenda, spiegando i principi di Dan Kennedy, individua una differenza strutturale tra grande impresa e PMI.
+
+Una grande azienda consolidata dispone tipicamente, in misura molto superiore, di tre asset:
+
+- **brand già noto**;
+- **potenza economica**;
+- **canali distributivi già costruiti** — negozi, scaffali, rivenditori, reti commerciali o altre presenze che rendono il prodotto facilmente raggiungibile.
+
+Una piccola azienda spesso non possiede nessuno dei tre in scala sufficiente. Per questo Merenda attribuisce al marketing a risposta diretta anche una funzione di **distribuzione commerciale**:
+
+**il marketing deve portare la proposta davanti al cliente e provocare un passo concreto, come farebbero una vetrina, un negozio o un venditore.**
+
+Una landing page, una lettera, un video, un materiale fisico o un'altra comunicazione non diventano letteralmente un canale logistico. Svolgono però una parte del lavoro commerciale che una PMI non può delegare alla sola presenza distributiva:
+
+- spiegano il prodotto e la differenza;
+- presentano un'offerta o un passo successivo;
+- indicano come rispondere;
+- rendono misurabile la risposta;
+- preparano o anticipano il lavoro della vendita.
+
+Questo chiarisce perché, nel sistema Merenda, “risposta diretta” non significa uno specifico mezzo. Il principio è progettare il marketing affinché **faccia avanzare la relazione commerciale**, indipendentemente dal fatto che il mezzo sia carta, web, video, telefono o altro.
+
+La formulazione assoluta del 2022 secondo cui una PMI possa fare “solo” marketing a risposta diretta non viene trasformata in divieto universale di altri strumenti. La KB conserva il principio operativo: quando risorse, brand e distribuzione sono limitati, il marketing deve essere giudicato soprattutto per la capacità di generare e misurare avanzamento commerciale e ritorno economico.
+
+Fonte precedente: [Dan Kennedy — I 10 Comandamenti del Marketing a Risposta Diretta](https://www.youtube.com/watch?v=ijVoIMF_gn8), 28 giugno 2022. [Revisione](../../sources/transcripts/ijVoIMF_gn8.review.md).
+
 ## Il settore cambia il contenuto, non la struttura del direct response
 
 Merenda contesta la ricerca continua di una versione speciale della stessa tattica per ogni settore.
