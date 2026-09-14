@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:28:19.323957+00:00
+Ultimo aggiornamento: 2026-09-14T16:28:24.833441+00:00
 
 Batch: 25 video
-Completati tecnicamente: 17/25
+Completati tecnicamente: 18/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -24,7 +24,7 @@ Completati tecnicamente: 17/25
 | 15 | dYMeQuuT8QY | How to Sell More by Turning Your Marketing Into a Magnet | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | 8XduYN366z0 | How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | rcVXvepx-l8 | Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | gcQKKrbZW28 | Live Events: How to Generate Extraordinary Sales Without Wasting Budget | PENDING |  |
+| 18 | gcQKKrbZW28 | Live Events: How to Generate Extraordinary Sales Without Wasting Budget | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | sa45UbN4sMI | 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | PENDING |  |
 | 20 | Zzh6PXGTmD0 | Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | PENDING |  |
 | 21 | bWNr-tHknvw | Frank Merenda's Formula for Selling Any Product | PENDING |  |
