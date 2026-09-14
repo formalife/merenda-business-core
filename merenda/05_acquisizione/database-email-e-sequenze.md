@@ -32,6 +32,24 @@ Merenda propone di distinguere progressivamente almeno in base a:
 
 Quando l'impresa parte senza alcun sistema, però, è preferibile una campagna semplice su una lista utilizzabile rispetto a rimandare indefinitamente in attesa della segmentazione perfetta.
 
+
+### Segmentare per stato della relazione e prossima azione
+
+Nel materiale del 28 maggio 2025 Merenda rende la segmentazione più operativa: il database dovrebbe distinguere almeno fra **clienti attivi, clienti persi/fermi, clienti ad alta fiducia (“fan”) e lead non convertiti**.
+
+La distinzione serve a decidere il lavoro successivo, non a creare etichette fini a se stesse:
+
+- **attivi** → capire cosa comprano già e quali bisogni coerenti restano scoperti;
+- **persi/fermi** → capire perché hanno interrotto e progettare una riattivazione coerente con la causa;
+- **fan / clienti ad alta fiducia** → proteggere la relazione, ampliare il valore servito e facilitare referral/continuità;
+- **lead non convertiti** → non trattarli come sconosciuti: hanno già mostrato interesse e meritano follow-up/analisi separati.
+
+Il principio è:
+
+**stato della relazione → diagnosi specifica → prossima offerta/azione coerente.**
+
+Fonte: [Marketing a Risposta Diretta: 12 Strategie Per Triplicare i Clienti (Senza Spendere in Pubblicità)](https://www.youtube.com/watch?v=j171O4uv45I), 28 maggio 2025. [Revisione](../../sources/transcripts/j171O4uv45I.review.md).
+
 ## Sequenza minima in tre comunicazioni
 
 La lezione costruisce una campagna minima di tre contatti. Non è una formula obbligatoria per ogni business, ma una struttura operativa riutilizzabile.

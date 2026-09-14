@@ -118,6 +118,8 @@ Una volta identificato il ritmo naturale, l'impresa può progettare:
 - bonus progressivi;
 - elementi collezionabili o altri incentivi alla continuità.
 
+Nel materiale del 28 maggio 2025 Merenda aggiunge una forma più strutturale: quando il bisogno è realmente ricorrente, la continuità può essere resa **più semplice da eseguire** con membership, autoordine/autoshipping o servizi periodici. La funzione non è vincolare artificialmente il cliente, ma rimuovere il bisogno di ricordare e riordinare ogni volta, mentre l'azienda progetta benefici coerenti per chi mantiene la relazione. Questi modelli vanno introdotti solo dove esiste una ricorrenza reale e un'economia sostenibile.
+
 La collezione mostrata nel caso Disney è quindi un esempio di una regola più generale:
 
 **se il valore del cliente dipende da acquisti successivi, il sistema deve dare una ragione concreta per ricordarsi, tornare e completare il percorso.**
