@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:27:44.265300+00:00
+Ultimo aggiornamento: 2026-09-14T16:27:50.482373+00:00
 
 Batch: 25 video
-Completati tecnicamente: 11/25
+Completati tecnicamente: 12/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -18,7 +18,7 @@ Completati tecnicamente: 11/25
 | 9 | ggJnCJCXIO4 | Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | KZ78VhszH_o | How to SELL More and Generate Extraordinary PROFITS for Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | 3ZNE75sPen8 | Come Aumentare Le Conversioni: La Checklist Segreta Che Fa Impazzire I Venditori | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | lwuJ6MYETUw | Testimonials That Sell: How to Make Them Perfect in 7 Steps | PENDING |  |
+| 12 | lwuJ6MYETUw | Testimonials That Sell: How to Make Them Perfect in 7 Steps | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | T5ccJyQqX9c | How to Sell More: The 4 Crucial Phases of Follow-Up Marketing | PENDING |  |
 | 14 | t-rvhD0P5Iw | 🔥 How to Explode Sales Without Acquiring New Customers | PENDING |  |
 | 15 | dYMeQuuT8QY | How to Sell More by Turning Your Marketing Into a Magnet | PENDING |  |
