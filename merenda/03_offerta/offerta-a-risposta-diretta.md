@@ -389,6 +389,27 @@ Una grande offerta non è quella con più bonus.
 
 **target giusto → desiderio → valore percepito → rischio ridotto → risposta semplice → monetizzazione successiva**
 
+## Costruire il messaggio attorno a un solo problema e una sola promessa
+
+Nel materiale del 13 marzo 2025 Merenda rende più esplicita la struttura con cui accompagnare un prospect freddo verso un front-end.
+
+La sequenza proposta è:
+
+1. **partire dal problema o desiderio del cliente**, non dal prodotto;
+2. **agitare il problema** mostrando conseguenze presenti e future;
+3. mostrare perché le soluzioni abituali o alternative non risolvono abbastanza bene il problema;
+4. introdurre la propria soluzione differenziata;
+5. rendere visibile la trasformazione con dimostrazioni, storie, testimonianze o altri elementi di prova;
+6. ripetere il **medesimo nucleo di promessa** attraverso angoli e prove differenti.
+
+L'ultimo punto evita un errore frequente: accumulare molti argomenti scollegati pensando che più messaggi equivalgano a più persuasione. Merenda propone invece di mantenere stabile la promessa centrale e rafforzarla con spiegazioni e prove diverse.
+
+Questo schema non sostituisce posizionamento, offerta e front-end: li traduce in una progressione comunicativa.
+
+Il front-end resta un meccanismo di riduzione del rischio. Può essere gratuito, a pareggio, profittevole o in perdita solo in funzione dell'economia complessiva del cliente e del back-end; il video non introduce una regola universale sul prezzo d'ingresso.
+
+Fonte: [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www.youtube.com/watch?v=mDBoBf6qugE), 13 marzo 2025. [Revisione](../../sources/transcripts/mDBoBf6qugE.review.md).
+
 ## Collegamenti
 
 - [Front-end e monetizzazione successiva](front-end-e-back-end.md)

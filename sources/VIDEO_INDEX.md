@@ -198,7 +198,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 188 | Gy82YE1iul4 | da acquisire | [La campagna marketing di maggior successo di Metodo Merenda [Parte 1] #shorts](https://www.youtube.com/watch?v=Gy82YE1iul4) | n.d. | 05_acquisizione | 3 | STUDIATO | shorts |
 | 189 | Qt4lGjC-NdY | da acquisire | [Guerrilla Marketing: Funziona? #shorts](https://www.youtube.com/watch?v=Qt4lGjC-NdY) | n.d. | 04_marketing | 3 | STUDIATO | shorts |
 | 190 | H_dkTYpFb8I | da acquisire | [Email Marketing: The Campaign No One Ever Taught You](https://www.youtube.com/watch?v=H_dkTYpFb8I) | 3629.0 | 05_acquisizione | 2 | STUDIATO | videos |
-| 191 | mDBoBf6qugE | 20250313 | [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www.youtube.com/watch?v=mDBoBf6qugE) | 3618.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 191 | mDBoBf6qugE | 20250313 | [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www.youtube.com/watch?v=mDBoBf6qugE) | 3618.0 | 03_offerta | 2 | STUDIATO | videos |
 | 192 | yu6t8pXgzMA | 20250130 | [Landing Page Imbattibili: 7 Metodi Testati Per Migliorare Le Conversioni [In Ogni Settore]](https://www.youtube.com/watch?v=yu6t8pXgzMA) | 1064.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 193 | PLIAmuNzx_s | 20250128 | [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s) | 1238.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 194 | GEWf_KjMfhI | 20240809 | [La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare](https://www.youtube.com/watch?v=GEWf_KjMfhI) | 474.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
