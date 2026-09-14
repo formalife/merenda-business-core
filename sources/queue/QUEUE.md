@@ -240,7 +240,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 226 | [m53_BsS_x8U](https://www.youtube.com/watch?v=m53_BsS_x8U) — Video animati per Landing page - Strategia di marketing corretta? #shorts | 05_acquisizione | STUDIATO |
 | 227 | [n_5xPjN-NZY](https://www.youtube.com/watch?v=n_5xPjN-NZY) — 50% of Customers Go to the Leader. What Are You Doing? | 08_brand | STUDIATO |
 | 228 | [W90bBHzfPMI](https://www.youtube.com/watch?v=W90bBHzfPMI) — ❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have! | 04_marketing | STUDIATO |
-| 229 | [7zRyOC3Z0lM](https://www.youtube.com/watch?v=7zRyOC3Z0lM) — Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | 05_acquisizione | DA STUDIARE |
+| 229 | [7zRyOC3Z0lM](https://www.youtube.com/watch?v=7zRyOC3Z0lM) — Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | 03_offerta | STUDIATO |
 | 230 | [Qg8Z2Oh5z3s](https://www.youtube.com/watch?v=Qg8Z2Oh5z3s) — SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | 05_acquisizione | DA STUDIARE |
 | 231 | [xBM5PST7ZKs](https://www.youtube.com/watch?v=xBM5PST7ZKs) — Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | 05_acquisizione | DA STUDIARE |
 | 232 | [MwNCMJE8sRk](https://www.youtube.com/watch?v=MwNCMJE8sRk) — 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | 06_vendita | DA STUDIARE |

@@ -88,6 +88,29 @@ Questa formulazione 2025 prevale sugli esempi più vecchi quando sembrano sugger
 
 Fonte più recente: [Strategie di Marketing | I Due Modi Per Creare Un Front-End Perfetto](https://www.youtube.com/watch?v=WCP26HC6wd0), 17 novembre 2025. [Revisione](../../sources/transcripts/WCP26HC6wd0.review.md).
 
+## Non confondere la prima transazione con una conversione economica completa
+
+Nel materiale più recente del 16 dicembre 2025 Merenda introduce una distinzione operativa volutamente più severa per leggere i funnel nei quali il front-end lavora a pareggio o in perdita.
+
+In questo contesto, una persona che ha acquistato soltanto il front-end può aver compiuto una **transazione** senza avere ancora completato la **conversione economica** che il sistema deve produrre. Se il costo di acquisizione non è stato recuperato e la relazione non ha ancora generato margine, Merenda continua a trattarla, nel proprio linguaggio di lavoro, come un “unconverted lead”.
+
+La definizione serve a evitare un errore di reporting:
+
+**front-end venduto ≠ acquisizione economicamente riuscita, se il sistema non ha ancora recuperato il costo e prodotto il margine previsto.**
+
+Operativamente conviene quindi separare almeno:
+
+1. contatto entrato nel funnel;
+2. acquirente del front-end;
+3. cliente che ha recuperato il CAC / superato il punto economico progettato;
+4. cliente che prosegue nel back-end e aumenta il valore della relazione.
+
+La terminologia “cliente” / “non convertito” è specifica del metodo esposto nel video e **non sostituisce** la nozione ordinaria, contabile o giuridica di cliente. Il principio riusabile è misurare l'economia reale oltre il primo acquisto e mantenere follow-up e monetizzazione coerenti finché il costo di acquisizione non è realmente recuperato.
+
+Questa fonte del dicembre 2025 è successiva al chiarimento del 17 novembre 2025 sulla riduzione della barriera: i due principi sono complementari. Il front-end non deve necessariamente essere scontato; ma se viene progettato a break-even/perdita, non va scambiata la prima transazione per profitto già realizzato.
+
+Fonte più recente: [Basta Perdere SOLDI Con Front-End E Funnel Marketing: Perché il Tuo "Cliente" NON È un Cliente](https://www.youtube.com/watch?v=7zRyOC3Z0lM), 16 dicembre 2025. [Revisione](../../sources/transcripts/7zRyOC3Z0lM.review.md).
+
 ## Il front-end può funzionare come degustazione del portafoglio
 
 Nel materiale del 19 gennaio 2023 Merenda usa il caso editoriale Disney per mostrare una funzione ulteriore del front-end: non solo far entrare il cliente a bassa barriera, ma **fargli assaggiare più parti dell'offerta complessiva**.

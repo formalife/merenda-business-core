@@ -241,7 +241,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 231 | m53_BsS_x8U | acquisito | [Video animati per Landing page - Strategia di marketing corretta? #shorts](https://www.youtube.com/watch?v=m53_BsS_x8U) | n.d. | 05_acquisizione | 3 | STUDIATO | shorts |
 | 232 | n_5xPjN-NZY | acquisito | [50% of Customers Go to the Leader. What Are You Doing?](https://www.youtube.com/watch?v=n_5xPjN-NZY) | n.d. | 08_brand | 3 | STUDIATO | shorts |
 | 233 | W90bBHzfPMI | acquisito | [❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have!](https://www.youtube.com/watch?v=W90bBHzfPMI) | n.d. | 04_marketing | 3 | STUDIATO | shorts |
-| 234 | 7zRyOC3Z0lM | da acquisire | [Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer](https://www.youtube.com/watch?v=7zRyOC3Z0lM) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
+| 234 | 7zRyOC3Z0lM | acquisito | [Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer](https://www.youtube.com/watch?v=7zRyOC3Z0lM) | n.d. | 03_offerta | 3 | STUDIATO | shorts |
 | 235 | Qg8Z2Oh5z3s | da acquisire | [SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder](https://www.youtube.com/watch?v=Qg8Z2Oh5z3s) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 236 | xBM5PST7ZKs | da acquisire | [Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts](https://www.youtube.com/watch?v=xBM5PST7ZKs) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 237 | MwNCMJE8sRk | 20241101 | [7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti](https://www.youtube.com/watch?v=MwNCMJE8sRk) | 1091.0 | 06_vendita | 2 | DA STUDIARE | videos |
