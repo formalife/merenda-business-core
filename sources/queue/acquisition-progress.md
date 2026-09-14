@@ -2,8 +2,14 @@
 
 Ultimo aggiornamento: 2026-09-14T07:17:40.033904+00:00
 
-Batch: 25 video
-Completati tecnicamente: 25/25
+Batch: posizioni canoniche 151–175 di `QUEUE.md` — 25 video
+
+- Tentati: 25/25
+- Acquisiti normalmente (`ACQUIRED`): 25
+- Transcript italiani mancanti / fallback ASR richiesti: 0
+- Errori (`ERROR`): 0
+- Pending: 0
+- Elaborazione semantica del batch: 0/25; totale corpus invariato a 150
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -32,3 +38,15 @@ Completati tecnicamente: 25/25
 | 23 | aw3Fu_LTH34 | What does Marketing #shorts mean? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | znVPLom4j70 | Marketing for Dentists \| Here's What Happens When a Dentist Does Marketing #shots | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 25 | y-8LBcQsS9M | RESTAURANT MARKETING \| Launching a Successful Restaurant | ACQUIRED | Metadata + transcript Markdown disponibili. |
+
+## Verifiche tecniche
+
+- Base verificata: `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; branch `acquisition-151-175`.
+- Batch coerente con STATUS, checkpoint 150 e posizioni 151–175 della queue; `next-batch.txt` rigenerato.
+- 25/25 metadata con ID corretto e canale ufficiale `UCaAzr7bvYcZRfGR8EyBynOA`; JSON3 italiani e Markdown normalizzati tramite `scripts/transcript.py`, verificati segmento per segmento.
+- Nessun candidato emerso dalla ricerca meccanica di riferimenti espliciti a slide, grafici, tabelle o schermate nei transcript. Nessun keyframe estratto; necessità visuali da valutare nella revisione ChatGPT.
+- Esattamente un commit di acquisizione per ciascuno dei 25 ID; nessun asset relativo alle posizioni 176+.
+- KB, file congelati, catalogo, VIDEO_INDEX e queue invariati rispetto alla base. Nessun `.review.md` creato e nessuno stato semantico modificato.
+- Validator del repository: le stesse 841 segnalazioni della base (836 disallineamenti ordine/stato, 3 divergenze storiche dei congelati rispetto al tag v1.0, 2 etichette contatori STATUS); nessuna nuova anomalia.
+- Rimossi soltanto spazi finali di formattazione dai JSON3 scaricati; equivalenza dei dati JSON verificata (testo, segmenti e timestamp invariati).
+- `git diff --check` anche rispetto alla base: superato.

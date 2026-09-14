@@ -2,11 +2,11 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–150 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; prossimo batch tecnico 151–175 da acquisire.
+ACTIVE — fasi 1–6 complete; contenuti 1–150 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Checkpoint 150 completato.** Prossima azione: acquisizione tecnica del batch 151–175 (CODEX), poi elaborazione semantica (CHATGPT).
+**Acquisizione tecnica 151–175 completata.** Prossima azione: revisione semantica CHATGPT, fasi 8–13. Il checkpoint 150 resta concluso.
 
 ## Corpus
 
@@ -49,11 +49,19 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Acquisire tecnicamente il batch **151–175** (metadata, transcript, versione Markdown normalizzata, keyframe candidati quando utili). Nessuno dei contenuti 151–175 dispone ancora di asset tecnici (tutti `da acquisire` in `sources/VIDEO_INDEX.md`).
+Processare semanticamente il batch **151–175**, iniziando da `8R8NR6nqhJY` — *"I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue* — posizione canonica 151 della queue.
+
+- Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
+- Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
+- Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
+- Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
+- Nessuna revisione semantica eseguita, nessun `.review.md` creato, nessuna modifica alla KB o agli stati: i contenuti semanticamente processati restano **150**.
+- `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
+- Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 
 Ordine e categoria del batch 151–175, confermati dopo l'audit tassonomico del checkpoint 150 (elenco completo con categorie aggiornate in `reviews/CHECKPOINT_150.md`):
 
@@ -83,8 +91,10 @@ Ordine e categoria del batch 151–175, confermati dopo l'audit tassonomico del 
 24. `znVPLom4j70` (04_marketing)
 25. `y-8LBcQsS9M` (04_marketing)
 
-Dopo l'acquisizione tecnica, Codex aggiorna `STATUS.md` impostando `Agente richiesto: CHATGPT` per la revisione semantica, come da `system/HANDOFFS.md`.
+Agente richiesto: CHATGPT. Eseguire le fasi 8–13 in ordine canonico. Dopo il completamento semantico di tutti i contenuti 151–175, prossimo checkpoint CLAUDE CODE: **175 — sola FASE 14**; prossimo audit tassonomia a 200.
 
 ## Validazione e blocchi
 
-Le anomalie note di `scripts/validate_project.py` restano quelle preesistenti già documentate: confronto file congelati vs tag v1.0 e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue (836 righe, verificato invariato prima e dopo il checkpoint 150). Nessun nuovo blocco introdotto da questo checkpoint.
+`scripts/validate_project.py`: output invariato rispetto alla base, con 841 segnalazioni preesistenti: 836 disallineamenti d’ordine/stato, 3 divergenze dei congelati rispetto al tag v1.0 e 2 etichette dei contatori STATUS non riconosciute. Nessuna riparazione automatica eseguita.
+
+Controlli specifici del batch superati: 25 ID esatti, provenienza ufficiale, corrispondenza JSON3/Markdown, nessun asset 176+, KB e congelati invariati, catalogo/VIDEO_INDEX/queue invariati, stati semantici invariati (144 STUDIATO, 6 ESCLUSO, 318 DA STUDIARE). `git diff --check` superato. Nessun blocco tecnico o fallback richiesto.
