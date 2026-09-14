@@ -4,6 +4,8 @@
 
 [Testimonianze e prova sociale](testimonianze-e-prova-sociale.md): raccogliere e usare testimonianze credibili, pertinenti e progettate per provare specifici punti del messaggio.
 
+[Brand community e fan](brand-community-e-fan.md): trasformare il posizionamento in appartenenza duratura attraverso personalità, storie, prove, linguaggio condiviso, principi e contrasto filosofico.
+
 La sezione crescerà con i successivi contenuti su brand e posizionamento. Il concetto di autorità è collegato al brand ma non viene trattato come sinonimo perfetto.
 
 Il documento sull'[autorità e marketing](autorita-e-marketing.md#come-il-cliente-costruisce-una-decisione) include anche il modello decisionale: forza del brand, reputazione online e reputazione/passaparola reale.

@@ -254,7 +254,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 244 | T5ccJyQqX9c | acquisito | [How to Sell More: The 4 Crucial Phases of Follow-Up Marketing](https://www.youtube.com/watch?v=T5ccJyQqX9c) | 3397.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 245 | t-rvhD0P5Iw | acquisito | [🔥 How to Explode Sales Without Acquiring New Customers](https://www.youtube.com/watch?v=t-rvhD0P5Iw) | 2988.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 246 | dYMeQuuT8QY | acquisito | [How to Sell More by Turning Your Marketing Into a Magnet](https://www.youtube.com/watch?v=dYMeQuuT8QY) | 2329.0 | 06_vendita | 2 | DA STUDIARE | videos |
-| 247 | 8XduYN366z0 | da acquisire | [How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass]](https://www.youtube.com/watch?v=8XduYN366z0) | 2644.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 247 | 8XduYN366z0 | acquisito | [How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass]](https://www.youtube.com/watch?v=8XduYN366z0) | 2644.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 248 | rcVXvepx-l8 | da acquisire | [Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!]](https://www.youtube.com/watch?v=rcVXvepx-l8) | 885.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 249 | gcQKKrbZW28 | da acquisire | [Live Events: How to Generate Extraordinary Sales Without Wasting Budget](https://www.youtube.com/watch?v=gcQKKrbZW28) | 2405.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 250 | sa45UbN4sMI | da acquisire | [🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance](https://www.youtube.com/watch?v=sa45UbN4sMI) | 1474.0 | 06_vendita | 2 | DA STUDIARE | videos |

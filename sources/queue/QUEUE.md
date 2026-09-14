@@ -252,7 +252,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 238 | [T5ccJyQqX9c](https://www.youtube.com/watch?v=T5ccJyQqX9c) — How to Sell More: The 4 Crucial Phases of Follow-Up Marketing | 06_vendita | STUDIATO |
 | 239 | [t-rvhD0P5Iw](https://www.youtube.com/watch?v=t-rvhD0P5Iw) — 🔥 How to Explode Sales Without Acquiring New Customers | 04_marketing | STUDIATO |
 | 240 | [dYMeQuuT8QY](https://www.youtube.com/watch?v=dYMeQuuT8QY) — How to Sell More by Turning Your Marketing Into a Magnet | 07_copy_comunicazione | STUDIATO |
-| 241 | [8XduYN366z0](https://www.youtube.com/watch?v=8XduYN366z0) — How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | 06_vendita | DA STUDIARE |
+| 241 | [8XduYN366z0](https://www.youtube.com/watch?v=8XduYN366z0) — How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | 08_brand | STUDIATO |
 | 242 | [rcVXvepx-l8](https://www.youtube.com/watch?v=rcVXvepx-l8) — Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | 06_vendita | DA STUDIARE |
 | 243 | [gcQKKrbZW28](https://www.youtube.com/watch?v=gcQKKrbZW28) — Live Events: How to Generate Extraordinary Sales Without Wasting Budget | 06_vendita | DA STUDIARE |
 | 244 | [sa45UbN4sMI](https://www.youtube.com/watch?v=sa45UbN4sMI) — 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | 06_vendita | DA STUDIARE |
