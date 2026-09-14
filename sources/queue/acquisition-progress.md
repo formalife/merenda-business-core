@@ -1,14 +1,14 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:22.603788+00:00
+Ultimo aggiornamento: 2026-09-14T07:16:25.484392+00:00
 
 Batch: 25 video
-Completati tecnicamente: 1/25
+Completati tecnicamente: 2/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | 8R8NR6nqhJY | "I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 2 | -oYSpJrj024 | The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | PENDING |  |
+| 2 | -oYSpJrj024 | The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | v6WWqNpNSpE | The Unfair Advantage You Can Create From Scratch Today | PENDING |  |
 | 4 | _6QCnb6Oj1Y | Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | PENDING |  |
 | 5 | Z7FhdrG-fOw | How to Increase Revenue with Just One Question | PENDING |  |
