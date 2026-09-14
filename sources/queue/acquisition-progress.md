@@ -1,16 +1,16 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:29.828929+00:00
+Ultimo aggiornamento: 2026-09-14T07:16:32.554985+00:00
 
 Batch: 25 video
-Completati tecnicamente: 3/25
+Completati tecnicamente: 4/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | 8R8NR6nqhJY | "I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | -oYSpJrj024 | The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | v6WWqNpNSpE | The Unfair Advantage You Can Create From Scratch Today | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 4 | _6QCnb6Oj1Y | Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | PENDING |  |
+| 4 | _6QCnb6Oj1Y | Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | Z7FhdrG-fOw | How to Increase Revenue with Just One Question | PENDING |  |
 | 6 | 5awWbxibHIE | Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | PENDING |  |
 | 7 | G6j8xbargKY | Coaches and Trainers for Companies - Be Careful Who You Follow | PENDING |  |
