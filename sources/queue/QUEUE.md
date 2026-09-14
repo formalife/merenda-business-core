@@ -262,7 +262,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 248 | [r649dAXopLM](https://www.youtube.com/watch?v=r649dAXopLM) — Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | 08_brand | STUDIATO |
 | 249 | [Q3SCQG-aZSM](https://www.youtube.com/watch?v=Q3SCQG-aZSM) — #4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi" | 06_vendita | STUDIATO |
 | 250 | [uOu65O88jrU](https://www.youtube.com/watch?v=uOu65O88jrU) — The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less) | 06_vendita | STUDIATO |
-| 251 | [ellOvKnIOqk](https://www.youtube.com/watch?v=ellOvKnIOqk) — The #1 Sales Technique for a Record-Breaking Sales Team | 06_vendita | DA STUDIARE |
+| 251 | [ellOvKnIOqk](https://www.youtube.com/watch?v=ellOvKnIOqk) — The #1 Sales Technique for a Record-Breaking Sales Team | 06_vendita | STUDIATO |
 | 252 | [rI00A_jHqz8](https://www.youtube.com/watch?v=rI00A_jHqz8) — Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | 10_casi_studio | DA STUDIARE |
 | 253 | [-_oOcTQgkcY](https://www.youtube.com/watch?v=-_oOcTQgkcY) — The Best SALES TECHNIQUES on the Internet | 06_vendita | DA STUDIARE |
 | 254 | [P_LavmWySLs](https://www.youtube.com/watch?v=P_LavmWySLs) — How to Sell Anything With Frank Merenda's "Secret Word" | 06_vendita | DA STUDIARE |

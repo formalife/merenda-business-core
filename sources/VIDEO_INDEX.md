@@ -265,7 +265,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 255 | Q3SCQG-aZSM | acquisito | [#4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi"](https://www.youtube.com/watch?v=Q3SCQG-aZSM) | 962.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 256 | uOu65O88jrU | acquisito | [The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less)](https://www.youtube.com/watch?v=uOu65O88jrU) | 395.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 257 | hoVoLLL3eZk | da acquisire | [From 0 to 464 Orders Thanks to the Sales Techniques of Tana Delle Tigri](https://www.youtube.com/watch?v=hoVoLLL3eZk) | 227.0 | 06_vendita | 2 | DA STUDIARE | videos |
-| 258 | ellOvKnIOqk | da acquisire | [The #1 Sales Technique for a Record-Breaking Sales Team](https://www.youtube.com/watch?v=ellOvKnIOqk) | 421.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 258 | ellOvKnIOqk | da acquisire | [The #1 Sales Technique for a Record-Breaking Sales Team](https://www.youtube.com/watch?v=ellOvKnIOqk) | 421.0 | 06_vendita | 2 | STUDIATO | videos |
 | 259 | rI00A_jHqz8 | da acquisire | [Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo](https://www.youtube.com/watch?v=rI00A_jHqz8) | 278.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 260 | -_oOcTQgkcY | da acquisire | [The Best SALES TECHNIQUES on the Internet](https://www.youtube.com/watch?v=-_oOcTQgkcY) | 5521.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 261 | P_LavmWySLs | da acquisire | [How to Sell Anything With Frank Merenda's "Secret Word"](https://www.youtube.com/watch?v=P_LavmWySLs) | 426.0 | 06_vendita | 2 | DA STUDIARE | videos |
