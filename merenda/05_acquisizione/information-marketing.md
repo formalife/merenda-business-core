@@ -266,14 +266,6 @@ La maggiore spesa per prospect può essere sensata quando il numero di account �
 
 Per mercati ampi e poco segmentati serve invece più filtraggio prima di arrivare alla vendita personale.
 
-## Collegamenti
-
-- [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
-- [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
-- [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
-- [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
-
-
 ## Il volume della keyword ovvia non misura tutta la domanda
 
 Nel materiale del 14 luglio 2022 Merenda critica la lettura superficiale del mercato basata soltanto sulle keyword più immediate.
@@ -315,3 +307,10 @@ Nel Q&A del 10 gennaio 2024 Merenda descrive una sequenza di crescita:
 La moltiplicazione dei funnel non deve compensare il fatto che il primo non funziona.
 
 Fonte: [LIVE Domande e Risposte](https://www.youtube.com/watch?v=WLNsk8EVUjQ), 10 gennaio 2024.
+
+## Collegamenti
+
+- [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
+- [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
+- [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
+- [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)

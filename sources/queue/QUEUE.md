@@ -8,6 +8,8 @@ Audit tassonomico (checkpoint 50, fase 15): la classificazione preliminare dei c
 
 Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (ordine 101+), il cui titolo nomina con sufficiente sicurezza un'azienda/caso specifico (es. Mortadella Shop, Guapo, Tana Delle Tigri, Tesla, una clinica, un'agenzia immobiliare, un centro estetico, un ristorante nominato) invece di un principio generale, sono stati riclassificati da `04_marketing`/`06_vendita`/`08_brand`/`09_business` a `10_casi_studio` e spostati in coda alla sezione, prima dei casi già presenti. La coda è stata rinumerata di conseguenza (101→468); i primi 100 contenuti STUDIATO/ESCLUSO non sono stati toccati. Il primo pendente resta `zZFg2oM208w`. Nessun contenuto 101+ è stato marcato STUDIATO né visionato: la riclassificazione si basa solo sul titolo, da confermare in fase di ingestione.
 
+Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta adeguata al corpus studiato (1–150); nessuna categoria è stata unita, divisa o rinominata. Sono stati corretti soltanto 9 contenuti non ancora studiati il cui titolo nomina con sufficiente sicurezza un caso/azienda specifico o un tema più preciso del generico `04_marketing`/`06_vendita`: `5awWbxibHIE` (04_marketing → 09_business, errori di assunzione), `LMzKVDWrGlk`, `mkhp-EGSORA`, `NTy1ZHQ8NYs`, `5XW0s6NizEE`, `NCQ1lX3S5wk`, `AjvfyImTiPI`, `aQ5V7845jX4` (04_marketing → 10_casi_studio: Skechers, Mike's Hot Honey, Ferrero, Lamborghini Urus, gommista, All'Antico Vinaio, Coca-Cola — versioni brevi di casi il cui equivalente lungo è già in `10_casi_studio`) e `rI00A_jHqz8` (06_vendita → 10_casi_studio: azienda farmaceutica con risultato numerico specifico, coerente con gli altri casi già presenti). A differenza del checkpoint 100, questi 9 contenuti non sono stati spostati in fondo alla sezione né la coda è stata rinumerata: restano nella loro posizione d'ordine originale, per non aggravare i disallineamenti d'ordine preesistenti fra `catalog.json`, `VIDEO_INDEX.md` e `QUEUE.md` già documentati come anomalia nota. Il resto della coda (309 contenuti) è stato riletto ma non presenta altri casi di riclassificazione ad alta confidenza basata solo sul titolo. Nessun contenuto 151+ è stato marcato STUDIATO né visionato: la riclassificazione si basa solo sul titolo, da confermare in fase di ingestione. Prossimo batch tecnico 151–175 confermato nell'ordine attuale (vedi `reviews/CHECKPOINT_150.md`).
+
 | Ordine | Video | Categoria preliminare | Stato |
 |---:|---|---|---|
 | 1 | [iR0e4AgmAGE](https://www.youtube.com/watch?v=iR0e4AgmAGE) — Corso di Marketing [vero] - I 7 principi inviolabili del Marketing | 00_fondamenti | STUDIATO |
@@ -165,16 +167,16 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 153 | [v6WWqNpNSpE](https://www.youtube.com/watch?v=v6WWqNpNSpE) — The Unfair Advantage You Can Create From Scratch Today | 04_marketing | DA STUDIARE |
 | 154 | [_6QCnb6Oj1Y](https://www.youtube.com/watch?v=_6QCnb6Oj1Y) — Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | 04_marketing | DA STUDIARE |
 | 155 | [Z7FhdrG-fOw](https://www.youtube.com/watch?v=Z7FhdrG-fOw) — How to Increase Revenue with Just One Question | 04_marketing | DA STUDIARE |
-| 156 | [5awWbxibHIE](https://www.youtube.com/watch?v=5awWbxibHIE) — Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | 04_marketing | DA STUDIARE |
+| 156 | [5awWbxibHIE](https://www.youtube.com/watch?v=5awWbxibHIE) — Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | 09_business | DA STUDIARE |
 | 157 | [G6j8xbargKY](https://www.youtube.com/watch?v=G6j8xbargKY) — Coaches and Trainers for Companies - Be Careful Who You Follow | 04_marketing | DA STUDIARE |
-| 158 | [LMzKVDWrGlk](https://www.youtube.com/watch?v=LMzKVDWrGlk) — The Placement Rule That Brought Skechers to Success #shorts | 04_marketing | DA STUDIARE |
+| 158 | [LMzKVDWrGlk](https://www.youtube.com/watch?v=LMzKVDWrGlk) — The Placement Rule That Brought Skechers to Success #shorts | 10_casi_studio | DA STUDIARE |
 | 159 | [-6L9gCbicjk](https://www.youtube.com/watch?v=-6L9gCbicjk) — Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | 04_marketing | DA STUDIARE |
 | 160 | [I2RBYMESAsk](https://www.youtube.com/watch?v=I2RBYMESAsk) — HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | 04_marketing | DA STUDIARE |
-| 161 | [mkhp-EGSORA](https://www.youtube.com/watch?v=mkhp-EGSORA) — L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | 04_marketing | DA STUDIARE |
-| 162 | [NTy1ZHQ8NYs](https://www.youtube.com/watch?v=NTy1ZHQ8NYs) — Il più grande FLOP di FERRERO #Shorts | 04_marketing | DA STUDIARE |
-| 163 | [5XW0s6NizEE](https://www.youtube.com/watch?v=5XW0s6NizEE) — Il SUCCESSO della URUS [O forse no?] #Shorts | 04_marketing | DA STUDIARE |
-| 164 | [NCQ1lX3S5wk](https://www.youtube.com/watch?v=NCQ1lX3S5wk) — Il Segreto del Gommista di Successo #Shorts | 04_marketing | DA STUDIARE |
-| 165 | [AjvfyImTiPI](https://www.youtube.com/watch?v=AjvfyImTiPI) — All’Antico Vinaio: il “segreto” del suo successo #shorts | 04_marketing | DA STUDIARE |
+| 161 | [mkhp-EGSORA](https://www.youtube.com/watch?v=mkhp-EGSORA) — L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | 10_casi_studio | DA STUDIARE |
+| 162 | [NTy1ZHQ8NYs](https://www.youtube.com/watch?v=NTy1ZHQ8NYs) — Il più grande FLOP di FERRERO #Shorts | 10_casi_studio | DA STUDIARE |
+| 163 | [5XW0s6NizEE](https://www.youtube.com/watch?v=5XW0s6NizEE) — Il SUCCESSO della URUS [O forse no?] #Shorts | 10_casi_studio | DA STUDIARE |
+| 164 | [NCQ1lX3S5wk](https://www.youtube.com/watch?v=NCQ1lX3S5wk) — Il Segreto del Gommista di Successo #Shorts | 10_casi_studio | DA STUDIARE |
+| 165 | [AjvfyImTiPI](https://www.youtube.com/watch?v=AjvfyImTiPI) — All’Antico Vinaio: il “segreto” del suo successo #shorts | 10_casi_studio | DA STUDIARE |
 | 166 | [qIG_0TMol8s](https://www.youtube.com/watch?v=qIG_0TMol8s) — Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts | 04_marketing | DA STUDIARE |
 | 167 | [fpao23ulhkQ](https://www.youtube.com/watch?v=fpao23ulhkQ) — Why You Shouldn't Spend on Marketing (Unless You Do This First) | 04_marketing | DA STUDIARE |
 | 168 | [9zvNhQOpRI4](https://www.youtube.com/watch?v=9zvNhQOpRI4) — Is Marketing Important? This Is the Definitive Answer | 04_marketing | DA STUDIARE |
@@ -185,7 +187,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 173 | [aw3Fu_LTH34](https://www.youtube.com/watch?v=aw3Fu_LTH34) — What does Marketing #shorts mean? | 04_marketing | DA STUDIARE |
 | 174 | [znVPLom4j70](https://www.youtube.com/watch?v=znVPLom4j70) — Marketing for Dentists &#124; Here's What Happens When a Dentist Does Marketing #shots | 04_marketing | DA STUDIARE |
 | 175 | [y-8LBcQsS9M](https://www.youtube.com/watch?v=y-8LBcQsS9M) — RESTAURANT MARKETING &#124; Launching a Successful Restaurant | 04_marketing | DA STUDIARE |
-| 176 | [aQ5V7845jX4](https://www.youtube.com/watch?v=aQ5V7845jX4) — Il più Grande Errore di Marketing di Coca Cola #shorts | 04_marketing | DA STUDIARE |
+| 176 | [aQ5V7845jX4](https://www.youtube.com/watch?v=aQ5V7845jX4) — Il più Grande Errore di Marketing di Coca Cola #shorts | 10_casi_studio | DA STUDIARE |
 | 177 | [4FNdTMDCC6g](https://www.youtube.com/watch?v=4FNdTMDCC6g) — Impresa edile e Marketing Automation: Successo Assicurato #shorts | 04_marketing | DA STUDIARE |
 | 178 | [fm3RYkxRXCk](https://www.youtube.com/watch?v=fm3RYkxRXCk) — Tecniche di Marketing per Espandere il Tuo Studio Dentistico #shorts | 04_marketing | DA STUDIARE |
 | 179 | [6tgz9aFzyNE](https://www.youtube.com/watch?v=6tgz9aFzyNE) — Come TROVARE più CLIENTI grazie al Marketing #shorts | 04_marketing | DA STUDIARE |
@@ -261,7 +263,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 249 | [Q3SCQG-aZSM](https://www.youtube.com/watch?v=Q3SCQG-aZSM) — #4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi" | 06_vendita | DA STUDIARE |
 | 250 | [uOu65O88jrU](https://www.youtube.com/watch?v=uOu65O88jrU) — The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less) | 06_vendita | DA STUDIARE |
 | 251 | [ellOvKnIOqk](https://www.youtube.com/watch?v=ellOvKnIOqk) — The #1 Sales Technique for a Record-Breaking Sales Team | 06_vendita | DA STUDIARE |
-| 252 | [rI00A_jHqz8](https://www.youtube.com/watch?v=rI00A_jHqz8) — Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | 06_vendita | DA STUDIARE |
+| 252 | [rI00A_jHqz8](https://www.youtube.com/watch?v=rI00A_jHqz8) — Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | 10_casi_studio | DA STUDIARE |
 | 253 | [-_oOcTQgkcY](https://www.youtube.com/watch?v=-_oOcTQgkcY) — The Best SALES TECHNIQUES on the Internet | 06_vendita | DA STUDIARE |
 | 254 | [P_LavmWySLs](https://www.youtube.com/watch?v=P_LavmWySLs) — How to Sell Anything With Frank Merenda's "Secret Word" | 06_vendita | DA STUDIARE |
 | 255 | [an5eXiIyyiA](https://www.youtube.com/watch?v=an5eXiIyyiA) — How to Create High-Converting Ads [That Sell] | 06_vendita | DA STUDIARE |
