@@ -175,7 +175,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 161 | [mkhp-EGSORA](https://www.youtube.com/watch?v=mkhp-EGSORA) — L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | 10_casi_studio | STUDIATO |
 | 162 | [NTy1ZHQ8NYs](https://www.youtube.com/watch?v=NTy1ZHQ8NYs) — Il più grande FLOP di FERRERO #Shorts | 10_casi_studio | STUDIATO |
 | 163 | [5XW0s6NizEE](https://www.youtube.com/watch?v=5XW0s6NizEE) — Il SUCCESSO della URUS [O forse no?] #Shorts | 10_casi_studio | STUDIATO |
-| 164 | [NCQ1lX3S5wk](https://www.youtube.com/watch?v=NCQ1lX3S5wk) — Il Segreto del Gommista di Successo #Shorts | 10_casi_studio | DA STUDIARE |
+| 164 | [NCQ1lX3S5wk](https://www.youtube.com/watch?v=NCQ1lX3S5wk) — Il Segreto del Gommista di Successo #Shorts | 10_casi_studio | STUDIATO |
 | 165 | [AjvfyImTiPI](https://www.youtube.com/watch?v=AjvfyImTiPI) — All’Antico Vinaio: il “segreto” del suo successo #shorts | 10_casi_studio | DA STUDIARE |
 | 166 | [qIG_0TMol8s](https://www.youtube.com/watch?v=qIG_0TMol8s) — Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts | 04_marketing | DA STUDIARE |
 | 167 | [fpao23ulhkQ](https://www.youtube.com/watch?v=fpao23ulhkQ) — Why You Shouldn't Spend on Marketing (Unless You Do This First) | 04_marketing | DA STUDIARE |
