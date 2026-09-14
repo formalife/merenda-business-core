@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:17:32.204715+00:00
+Ultimo aggiornamento: 2026-09-14T07:17:34.864491+00:00
 
 Batch: 25 video
-Completati tecnicamente: 22/25
+Completati tecnicamente: 23/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -29,6 +29,6 @@ Completati tecnicamente: 22/25
 | 20 | PKgWYVvme2s | Customer Experience: The Marketing Secret No One Tells You | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | degAX4kvT-0 | Digital Marketing for Typical Products: The Formula for Winning Bundles | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | YvfN2NUwXtY | Marketing per il tuo CENTRO ESTETICO #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | aw3Fu_LTH34 | What does Marketing #shorts mean? | PENDING |  |
+| 23 | aw3Fu_LTH34 | What does Marketing #shorts mean? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | znVPLom4j70 | Marketing for Dentists \| Here's What Happens When a Dentist Does Marketing #shots | PENDING |  |
 | 25 | y-8LBcQsS9M | RESTAURANT MARKETING \| Launching a Successful Restaurant | PENDING |  |
