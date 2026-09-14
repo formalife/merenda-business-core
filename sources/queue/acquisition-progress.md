@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:35.237525+00:00
+Ultimo aggiornamento: 2026-09-14T07:16:38.259024+00:00
 
 Batch: 25 video
-Completati tecnicamente: 5/25
+Completati tecnicamente: 6/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -12,7 +12,7 @@ Completati tecnicamente: 5/25
 | 3 | v6WWqNpNSpE | The Unfair Advantage You Can Create From Scratch Today | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | _6QCnb6Oj1Y | Customer Lifetime Value: Why Not Knowing This Value Will Set You Back | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | Z7FhdrG-fOw | How to Increase Revenue with Just One Question | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | 5awWbxibHIE | Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | PENDING |  |
+| 6 | 5awWbxibHIE | Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | G6j8xbargKY | Coaches and Trainers for Companies - Be Careful Who You Follow | PENDING |  |
 | 8 | LMzKVDWrGlk | The Placement Rule That Brought Skechers to Success #shorts | PENDING |  |
 | 9 | -6L9gCbicjk | Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | PENDING |  |
