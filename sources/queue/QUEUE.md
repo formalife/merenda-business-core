@@ -187,7 +187,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 173 | [aw3Fu_LTH34](https://www.youtube.com/watch?v=aw3Fu_LTH34) — What does Marketing #shorts mean? | 00_fondamenti | STUDIATO |
 | 174 | [znVPLom4j70](https://www.youtube.com/watch?v=znVPLom4j70) — Marketing for Dentists &#124; Here's What Happens When a Dentist Does Marketing #shots | 10_casi_studio | STUDIATO |
 | 175 | [y-8LBcQsS9M](https://www.youtube.com/watch?v=y-8LBcQsS9M) — RESTAURANT MARKETING &#124; Launching a Successful Restaurant | 10_casi_studio | STUDIATO |
-| 176 | [aQ5V7845jX4](https://www.youtube.com/watch?v=aQ5V7845jX4) — Il più Grande Errore di Marketing di Coca Cola #shorts | 10_casi_studio | DA STUDIARE |
+| 176 | [aQ5V7845jX4](https://www.youtube.com/watch?v=aQ5V7845jX4) — Il più Grande Errore di Marketing di Coca Cola #shorts | 10_casi_studio | STUDIATO |
 | 177 | [4FNdTMDCC6g](https://www.youtube.com/watch?v=4FNdTMDCC6g) — Impresa edile e Marketing Automation: Successo Assicurato #shorts | 04_marketing | DA STUDIARE |
 | 178 | [fm3RYkxRXCk](https://www.youtube.com/watch?v=fm3RYkxRXCk) — Tecniche di Marketing per Espandere il Tuo Studio Dentistico #shorts | 04_marketing | DA STUDIARE |
 | 179 | [6tgz9aFzyNE](https://www.youtube.com/watch?v=6tgz9aFzyNE) — Come TROVARE più CLIENTI grazie al Marketing #shorts | 04_marketing | DA STUDIARE |
