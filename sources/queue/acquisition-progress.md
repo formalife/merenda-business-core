@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:28:02.458402+00:00
+Ultimo aggiornamento: 2026-09-14T16:28:07.937962+00:00
 
 Batch: 25 video
-Completati tecnicamente: 14/25
+Completati tecnicamente: 15/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -21,7 +21,7 @@ Completati tecnicamente: 14/25
 | 12 | lwuJ6MYETUw | Testimonials That Sell: How to Make Them Perfect in 7 Steps | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | T5ccJyQqX9c | How to Sell More: The 4 Crucial Phases of Follow-Up Marketing | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | t-rvhD0P5Iw | 🔥 How to Explode Sales Without Acquiring New Customers | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | dYMeQuuT8QY | How to Sell More by Turning Your Marketing Into a Magnet | PENDING |  |
+| 15 | dYMeQuuT8QY | How to Sell More by Turning Your Marketing Into a Magnet | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | 8XduYN366z0 | How to Create Customers for Life: 7 Top Actions to Boost Sales [Masterclass] | PENDING |  |
 | 17 | rcVXvepx-l8 | Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | PENDING |  |
 | 18 | gcQKKrbZW28 | Live Events: How to Generate Extraordinary Sales Without Wasting Budget | PENDING |  |
