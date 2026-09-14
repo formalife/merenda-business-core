@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:09:56.919416+00:00
+Ultimo aggiornamento: 2026-09-14T13:10:02.702392+00:00
 
 Batch: 25 video
-Completati tecnicamente: 8/25
+Completati tecnicamente: 9/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -15,7 +15,7 @@ Completati tecnicamente: 8/25
 | 6 | zfmFg5L7VDU | How to Do Lead Generation in Your Business \| Key Concepts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | saBj3DmgsCg | Lead Generation: How to Create a Winning Sales Funnel | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | -lqseFTfCzk | How to Create a Funnel [Complete Guide to Lead Generation] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | C4IfIcOkwdE | Funnel Marketing \| How to Build a Funnel from Scratch [that actually sells] | PENDING |  |
+| 9 | C4IfIcOkwdE | Funnel Marketing \| How to Build a Funnel from Scratch [that actually sells] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | aEv9F66CZqA | Il VERO SEGRETO di un imprenditore per acquisire clienti | PENDING |  |
 | 11 | WtyLO1gMqVI | HOW TO FIND CUSTOMERS thanks to new acquisition channels | PENDING |  |
 | 12 | TrY_mDjr7I4 | Come creare un FUNNEL di FRONT END che converte [in 4 Step] | PENDING |  |
