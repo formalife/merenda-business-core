@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:46.477892+00:00
+Ultimo aggiornamento: 2026-09-14T07:16:49.052943+00:00
 
 Batch: 25 video
-Completati tecnicamente: 9/25
+Completati tecnicamente: 10/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -16,7 +16,7 @@ Completati tecnicamente: 9/25
 | 7 | G6j8xbargKY | Coaches and Trainers for Companies - Be Careful Who You Follow | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | LMzKVDWrGlk | The Placement Rule That Brought Skechers to Success #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | -6L9gCbicjk | Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | I2RBYMESAsk | HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | PENDING |  |
+| 10 | I2RBYMESAsk | HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | mkhp-EGSORA | L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | PENDING |  |
 | 12 | NTy1ZHQ8NYs | Il più grande FLOP di FERRERO #Shorts | PENDING |  |
 | 13 | 5XW0s6NizEE | Il SUCCESSO della URUS [O forse no?] #Shorts | PENDING |  |
