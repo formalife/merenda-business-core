@@ -35,6 +35,42 @@ senza arrivare a:
 Il copy e il marketing devono tradurre tecnica e caratteristiche in conseguenze rilevanti per la vita, il lavoro, il denaro, il rischio o il desiderio del target.
 
 
+## Vendere lo stato desiderato, non lo sforzo necessario
+
+Una fonte del 4 marzo 2025 chiarisce una distinzione utile per il copy: il cliente può **avere bisogno** del prodotto, del servizio o del lavoro necessario per migliorare, ma non per questo **desiderare** quel processo.
+
+Il messaggio non deve quindi fermarsi a:
+
+- caratteristiche;
+- funzionalità;
+- benefici tecnici;
+- quantità di lavoro richiesta;
+- disciplina o sacrificio necessari.
+
+Deve collegare la soluzione a uno **stato futuro desiderabile** che il target riconosca come rilevante.
+
+In forma sintetica:
+
+**bisogno tecnico → conseguenza desiderata → nuovo stato percepito come migliore.**
+
+Questo non significa promettere scorciatoie false o nascondere lo sforzo reale. Significa evitare che il marketing venda come prodotto principale proprio la parte che il cliente vive come fatica, rischio o noia.
+
+### Trasformazione senza fantasia ingannevole
+
+Merenda usa esempi di “cambio vita” e di opportunità percepite come più eccitanti del lavoro quotidiano. La KB conserva il meccanismo psicologico ma non la retorica estrema.
+
+Un messaggio corretto deve:
+
+1. partire da un desiderio realmente collegato alla soluzione;
+2. rendere concreto il prima/dopo;
+3. non promettere un risultato che il prodotto non può sostenere;
+4. non presentare un outlier come esito normale;
+5. mostrare, quando necessario, anche condizioni, lavoro e limiti del percorso.
+
+L'obiettivo è trasformare un'offerta da **utile ma fredda** a **desiderabile e significativa**, non da reale a fantastica.
+
+Fonte: [Come Vendere Di Più Trasformando Il Tuo Marketing In Un Magnete](https://www.youtube.com/watch?v=dYMeQuuT8QY), 4 marzo 2025. [Revisione](../../sources/transcripts/dYMeQuuT8QY.review.md).
+
 ## Prima del copy: trovare il trigger reale che rende il bisogno prioritario
 
 Nel materiale del 27 settembre 2024 Merenda propone un esercizio precedente alla scrittura.
