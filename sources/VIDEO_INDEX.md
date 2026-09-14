@@ -217,7 +217,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 207 | QJUjdX0zglA | da acquisire | [LEAD GENERATION &#124; Come Trovare il Cliente ideale [Non adatto alle Web Agency]](https://www.youtube.com/watch?v=QJUjdX0zglA) | 301.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 208 | uayjrQ6GWQc | da acquisire | [How to Acquire Profiled Contacts with Lead Generation [Done Right]](https://www.youtube.com/watch?v=uayjrQ6GWQc) | 1226.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 209 | nAqH9enAM1U | da acquisire | [Lead Generation: What It Means and How to Do It [Which Tools to Use]](https://www.youtube.com/watch?v=nAqH9enAM1U) | 1444.0 | 05_acquisizione | 2 | STUDIATO | videos |
-| 210 | R22IWnVNYus | da acquisire | [Come trovare nuovi clienti con campagne di Lead Generation](https://www.youtube.com/watch?v=R22IWnVNYus) | 1378.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 210 | R22IWnVNYus | da acquisire | [Come trovare nuovi clienti con campagne di Lead Generation](https://www.youtube.com/watch?v=R22IWnVNYus) | 1378.0 | 09_business | 2 | STUDIATO | videos |
 | 211 | zfmFg5L7VDU | da acquisire | [How to Do Lead Generation in Your Business &#124; Key Concepts](https://www.youtube.com/watch?v=zfmFg5L7VDU) | 1005.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 212 | saBj3DmgsCg | da acquisire | [Lead Generation: How to Create a Winning Sales Funnel](https://www.youtube.com/watch?v=saBj3DmgsCg) | 2430.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 213 | -lqseFTfCzk | da acquisire | [How to Create a Funnel [Complete Guide to Lead Generation]](https://www.youtube.com/watch?v=-lqseFTfCzk) | 1277.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
