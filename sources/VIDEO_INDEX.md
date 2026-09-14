@@ -208,7 +208,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 198 | MORFqQB8xGg | 20230411 | [How to Find Clients with the Referral System](https://www.youtube.com/watch?v=MORFqQB8xGg) | 540.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 199 | k2H4428Uj00 | da acquisire | [FACEBOOK ADS vs. GOOGLE ADS - Which is better to use?](https://www.youtube.com/watch?v=k2H4428Uj00) | 340.0 | 04_marketing | 2 | STUDIATO | videos |
 | 200 | MOrs4uWtXO0 | da acquisire | [STRATEGIE DI MARKETING per NUTRIZIONISTI: come si crea un Front-end efficace?](https://www.youtube.com/watch?v=MOrs4uWtXO0) | 129.0 | 02_posizionamento | 2 | STUDIATO | videos |
-| 201 | JXQkNx5YyX8 | da acquisire | [Marketing &#124; How to Create a Front End That Converts](https://www.youtube.com/watch?v=JXQkNx5YyX8) | 556.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 201 | JXQkNx5YyX8 | da acquisire | [Marketing &#124; How to Create a Front End That Converts](https://www.youtube.com/watch?v=JXQkNx5YyX8) | 556.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 202 | 0_dyJ0ZJMEE | da acquisire | [How to Create a Marketing Funnel That Works (Even on a Limited Budget) - A Guide for SMBs](https://www.youtube.com/watch?v=0_dyJ0ZJMEE) | 2342.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 203 | j171O4uv45I | da acquisire | [Direct Response Marketing: 12 Strategies to Triple Your Customers (Without Spending on Advertising)](https://www.youtube.com/watch?v=j171O4uv45I) | 3585.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 204 | 8xBneQflDhY | da acquisire | [Quali Sono I Costi Di Una Campagna Di Lead Generation? Scopri I Dettagli](https://www.youtube.com/watch?v=8xBneQflDhY) | 1554.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
