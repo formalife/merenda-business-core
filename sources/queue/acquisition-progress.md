@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:17:37.376373+00:00
+Ultimo aggiornamento: 2026-09-14T07:17:40.033904+00:00
 
 Batch: 25 video
-Completati tecnicamente: 24/25
+Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -31,4 +31,4 @@ Completati tecnicamente: 24/25
 | 22 | YvfN2NUwXtY | Marketing per il tuo CENTRO ESTETICO #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | aw3Fu_LTH34 | What does Marketing #shorts mean? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | znVPLom4j70 | Marketing for Dentists \| Here's What Happens When a Dentist Does Marketing #shots | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | y-8LBcQsS9M | RESTAURANT MARKETING \| Launching a Successful Restaurant | PENDING |  |
+| 25 | y-8LBcQsS9M | RESTAURANT MARKETING \| Launching a Successful Restaurant | ACQUIRED | Metadata + transcript Markdown disponibili. |
