@@ -1,0 +1,31 @@
+name: validate-checkpoint-275
+
+on:
+  push:
+    branches: [semantic-251-275]
+    paths:
+      - .github/workflows/validate-checkpoint-275.yml
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: semantic-251-275
+          fetch-depth: 0
+      - name: Git diff check
+        run: git diff --check e75aeca6b76f2e94678608dd90a2e550d7d486db..HEAD
+      - name: Project validator
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/validate_project.py > /tmp/validator.txt 2>&1
+          code=$?
+          cat /tmp/validator.txt
+          echo "VALIDATOR_EXIT_CODE=$code"
+          echo "VALIDATOR_WARNING_LINES=$(grep -c '^WARNING\|warning\|Warning' /tmp/validator.txt || true)"
+          exit 0
