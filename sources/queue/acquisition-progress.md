@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:16:44.072847+00:00
+Ultimo aggiornamento: 2026-09-14T07:16:46.477892+00:00
 
 Batch: 25 video
-Completati tecnicamente: 8/25
+Completati tecnicamente: 9/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -15,7 +15,7 @@ Completati tecnicamente: 8/25
 | 6 | 5awWbxibHIE | Hiring Mistakes? Frank Merenda Tells You the Brutal TRUTH 💣 | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | G6j8xbargKY | Coaches and Trainers for Companies - Be Careful Who You Follow | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | LMzKVDWrGlk | The Placement Rule That Brought Skechers to Success #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | -6L9gCbicjk | Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | PENDING |  |
+| 9 | -6L9gCbicjk | Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | I2RBYMESAsk | HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | PENDING |  |
 | 11 | mkhp-EGSORA | L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | PENDING |  |
 | 12 | NTy1ZHQ8NYs | Il più grande FLOP di FERRERO #Shorts | PENDING |  |
