@@ -1,0 +1,1704 @@
+{
+  "video_id": "jcVKVKvy78k",
+  "source_url": "https://www.youtube.com/watch?v=jcVKVKvy78k",
+  "provenance": "local automatic fallback from Codex raw ASR",
+  "raw_source": "work/tmp/local-asr/jcVKVKvy78k.raw.json",
+  "language_requested": "it",
+  "language_detected": "it",
+  "language_probability": null,
+  "engine": "whisper",
+  "model": {
+    "type": "large",
+    "multilingual": true,
+    "vocab": 51866,
+    "audio": {
+      "ctx": 1500,
+      "state": 1280,
+      "head": 20,
+      "layer": 32
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1280,
+      "head": 20,
+      "layer": 4
+    },
+    "mels": 128,
+    "ftype": 1
+  },
+  "duration_seconds_metadata": 2228.0,
+  "last_segment_end_seconds": 2227.64,
+  "coverage_ratio": 0.9998384201077198,
+  "segment_count": 333,
+  "max_exact_text_repeat": {
+    "count": 1,
+    "text": "disgraziati ciao a tutti e bentornati ad altrimenti merendiamo la televisione degli"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.82,
+      "text": "disgraziati ciao a tutti e bentornati ad altrimenti merendiamo la televisione degli"
+    },
+    {
+      "start": 5.82,
+      "end": 9.84,
+      "text": "imprenditori arrabbiati arrabbiatissimi incazzatissimi spero che anche voi siate"
+    },
+    {
+      "start": 9.84,
+      "end": 15.3,
+      "text": "arrabbiatissimi quanto sono arrabbiatissimo io e oggi parleremo di una bellissima realtà"
+    },
+    {
+      "start": 15.3,
+      "end": 19.62,
+      "text": "italiana che tutto issimo giissimo issimo arrabbiatissimi bellissime tutto e tutto"
+    },
+    {
+      "start": 19.62,
+      "end": 25.68,
+      "text": "unissimo parliamo di una bellissima realtà italiana che è maestra nel brand positioning"
+    },
+    {
+      "start": 25.68,
+      "end": 31.32,
+      "text": "quindi ha fatto delle cose molto molto interessanti in termini di posizionamento di marca e mi piace"
+    },
+    {
+      "start": 31.32,
+      "end": 37.5,
+      "text": "parlarne innanzitutto perché sono un loro fan è un'azienda di mantua quindi è vicino a casa mia"
+    },
+    {
+      "start": 37.5,
+      "end": 43.98,
+      "text": "insomma io sono di modena comunque mantua è vicino è una zona che ho frequentato molto da da ragazzo"
+    },
+    {
+      "start": 43.98,
+      "end": 48.78,
+      "text": "e gente brava che lavora loro rappresentano perfettamente diciamo il tessuto della loro"
+    },
+    {
+      "start": 48.78,
+      "end": 54.92,
+      "text": "terra e quello che voglio vedere con voi ragazzi è questa azienda italiana per un motivo molto"
+    },
+    {
+      "start": 54.92,
+      "end": 62.52,
+      "text": "semplice perché mi piace darvi le visioni il più possibile prese da settori diversi modelli di"
+    },
+    {
+      "start": 62.52,
+      "end": 68.06,
+      "text": "business diversi in azioni diverse dimensioni aziende diverse perché perché io voglio c'è la mia"
+    },
+    {
+      "start": 68.06,
+      "end": 74.48,
+      "text": "missione è stirparvi dalla mente ma questa roba è per solo per le grandi aziende ma questa roba è solo"
+    },
+    {
+      "start": 74.48,
+      "end": 79.16,
+      "text": "per le piccole aziende o ma questa ognuno c'è le sue cazzate che sono il contrario di quello della"
+    },
+    {
+      "start": 79.16,
+      "end": 84.16,
+      "text": "cazzata di un altro ma questa roba si fa solo in america ma sta roba non si può fare in italia ma sta roba si"
+    },
+    {
+      "start": 84.16,
+      "end": 91.84,
+      "text": "può fare solo in italia però se a milano basta ok quindi io cerco di essendo uno storico vengo con"
+    },
+    {
+      "start": 91.84,
+      "end": 99.64,
+      "text": "voi a fare un po di lavoro di ricerca per mostrarvi anche dietro casa vostra dove in realtà il posizionamento"
+    },
+    {
+      "start": 99.64,
+      "end": 105.88,
+      "text": "di marca in maniera diretta in maniera indiretta attecchito e ha portato nel corso degli anni dei"
+    },
+    {
+      "start": 105.88,
+      "end": 111.4,
+      "text": "dei risultati quindi l'altro giorno abbiamo visto insieme l'esempio di mike sottoni che è un ragazzo"
+    },
+    {
+      "start": 111.4,
+      "end": 117.32,
+      "text": "che è partito da pizzaiolo faceva l'assistente pizzaiolo e ha creato la sua bellissima azienda di miele"
+    },
+    {
+      "start": 117.32,
+      "end": 122.88,
+      "text": "piccante ma quello sta in america va bene magari voi non ci mettete miele piccante sulla pizza lo"
+    },
+    {
+      "start": 122.88,
+      "end": 127.48,
+      "text": "metterete sulle alette di pollo lo metterete sulle costine barbecue di sicuro che buonissima di"
+    },
+    {
+      "start": 127.48,
+      "end": 133.9,
+      "text": "quello quindi ognuno però si cerca fare esistenza novi cercate di fare risa trovare sempre l'informazione"
+    },
+    {
+      "start": 133.9,
+      "end": 139.48,
+      "text": "stupida nella vostra testa che faccia eccezione noi quindi continuerò a bombardarvi finché non vi"
+    },
+    {
+      "start": 139.48,
+      "end": 148.0,
+      "text": "viene il vomito oggi andiamo a parlare di una bella bella bella bella azienda italiana ok prima di"
+    },
+    {
+      "start": 148.0,
+      "end": 153.94,
+      "text": "partire facciamo l'angolino della pubblicità che non è pubblicità in realtà ragazzi è se ancora non"
+    },
+    {
+      "start": 153.94,
+      "end": 160.3,
+      "text": "lo avete ricordatevi di ordinare il libro fondamentale del marketing che questo è le sette leggi del"
+    },
+    {
+      "start": 160.3,
+      "end": 165.7,
+      "text": "marketing per il ventunesimo secolo questo libro perché è straordinario per alcuni motivi allora"
+    },
+    {
+      "start": 165.7,
+      "end": 171.86,
+      "text": "questo libro in realtà si chiamava in originale positioning per il ventunesimo secolo e contiene"
+    },
+    {
+      "start": 171.86,
+      "end": 178.22,
+      "text": "l'ho scritto l'ultimo degli scritti originali di orris e di laura anche perché ha contribuito anche"
+    },
+    {
+      "start": 178.22,
+      "end": 184.34,
+      "text": "lei dove al voleva semplicemente riscrivere il suo primo libro quindi vi ricordate che il primo"
+    },
+    {
+      "start": 184.34,
+      "end": 188.18,
+      "text": "libro di orris jack trout era position in oculo basato sul posizionamento di market se io lo"
+    },
+    {
+      "start": 188.18,
+      "end": 195.8,
+      "text": "dovessi riscrivere oggi che cosa direi e quindi qui voi trovate il tra virgolette la visione di orris"
+    },
+    {
+      "start": 195.8,
+      "end": 201.08,
+      "text": "per il ventunesimo secolo dei principi che aveva studiato e aveva cominciato a lanciare negli anni"
+    },
+    {
+      "start": 201.08,
+      "end": 206.66,
+      "text": "70 il dato bello è che solo in questo libro perché negli stati uniti non è mai stato pubblicato"
+    },
+    {
+      "start": 206.66,
+      "end": 212.24,
+      "text": "perché orris aveva più di 90 anni è che fosse aveva tutta una serie di altre cose da fare di cui"
+    },
+    {
+      "start": 212.24,
+      "end": 216.86,
+      "text": "prendersi cura e quindi in realtà ce l'abbiamo in noi in italiano e nel mondo non c'è quindi voi"
+    },
+    {
+      "start": 216.86,
+      "end": 220.82,
+      "text": "avete la possibilità di avere questo manoscritto originale di orris qua dentro con una mia"
+    },
+    {
+      "start": 220.82,
+      "end": 225.74,
+      "text": "introduzione la mia introduzione abbastanza grande in realtà perché il manoscritto di orris e c è un po"
+    },
+    {
+      "start": 225.74,
+      "end": 230.3,
+      "text": "di più della metà di questo libro e qui voi trovate per partire tutte le informazioni"
+    },
+    {
+      "start": 230.3,
+      "end": 234.86,
+      "text": "informazioni che risolvono tutti i dubbi sul posizionamento di marca quindi oltre che seguire"
+    },
+    {
+      "start": 234.86,
+      "end": 239.12,
+      "text": "le dirette se volete accelerare un po la comprensione quindi seguire le dirette con"
+    },
+    {
+      "start": 239.12,
+      "end": 243.02,
+      "text": "maggiore comprensione io ve lo dico per questo ragazzi lo sapete che noi dei libri non guadagniamo"
+    },
+    {
+      "start": 243.02,
+      "end": 247.58,
+      "text": "niente più la rotura di palle il costo di stampa per la carta bella che abbiamo le spese di spedizione"
+    },
+    {
+      "start": 247.58,
+      "end": 253.28,
+      "text": "ci guadagniamo niente per noi è un front end ad andare in pari quando va bene ok però se lo volete"
+    },
+    {
+      "start": 253.28,
+      "end": 258.2,
+      "text": "prendere prendetelo volevo leggervi una cosa carina per esempio che stavo prima lo stavo sfogliando e ogni tanto"
+    },
+    {
+      "start": 258.2,
+      "end": 265.76,
+      "text": "qualcuno mi rompe i coglioni una delle delle scemenze più grosse dette per cercare di smontare il"
+    },
+    {
+      "start": 265.76,
+      "end": 272.3,
+      "text": "posizionamento di marca sono per esempio le grandi conglomerate giapponesi ricordate tipo la sony no"
+    },
+    {
+      "start": 272.3,
+      "end": 277.4,
+      "text": "tutte quelle grandi ma questo fa questo fa questo fa quell'altro fa quell'altro ed è vero che esistono"
+    },
+    {
+      "start": 277.4,
+      "end": 284.4,
+      "text": "ma il lavoro del market in realtà non è solo comprendere le teorie di marketing ma è andare"
+    },
+    {
+      "start": 284.4,
+      "end": 288.8,
+      "text": "a recuperare quelli che sono i dati finanziari delle aziende per cercare di capire se stiamo"
+    },
+    {
+      "start": 288.8,
+      "end": 295.46,
+      "text": "parlando di cose intelligenti o di cose mediamente non intelligenti e quindi confrontare le aziende con"
+    },
+    {
+      "start": 295.46,
+      "end": 300.32,
+      "text": "i loro benchmark di mercato con i loro competitor fondamentali cioè l'analista di mark il marketer"
+    },
+    {
+      "start": 300.32,
+      "end": 305.84,
+      "text": "fa questo ma che studia solo o meglio uno studia proprio i lanci del mese arrivati dall'america come"
+    },
+    {
+      "start": 305.84,
+      "end": 311.42,
+      "text": "fare i soldi col webinar come fare i soldi con queste stronzate qua non sono rilevanti un esperto"
+    },
+    {
+      "start": 311.42,
+      "end": 316.64,
+      "text": "di marketing vero fa questo c'è stata studia il posizionamento di marca e studia le aziende e studia"
+    },
+    {
+      "start": 316.64,
+      "end": 322.16,
+      "text": "i loro competitor e studia quello che è il benchmark di riferimento del settore e poi studia i dati"
+    },
+    {
+      "start": 322.16,
+      "end": 328.16,
+      "text": "finanziari dell'azienda dei competitor negli stessi periodi e del benchmark di settore poi guarda i lanci che ha"
+    },
+    {
+      "start": 328.16,
+      "end": 331.98,
+      "text": "fatto l'azienda poi contemporaneamente i lanci che ha fatto la concorrenza e cosa succedeva nel"
+    },
+    {
+      "start": 331.98,
+      "end": 337.66,
+      "text": "settore quindi voi non dovete diventare esperti di marketing basto io voi dovete diventare esperti"
+    },
+    {
+      "start": 337.66,
+      "end": 343.04,
+      "text": "di marketing del vostro settore che già tutto quello che vi serve perché avete i coglioni da rompervi io"
+    },
+    {
+      "start": 343.04,
+      "end": 347.44,
+      "text": "faccio questo solo questo la mattina alla sera voi se già lo faceste per il vostro settore invece"
+    },
+    {
+      "start": 347.44,
+      "end": 352.88,
+      "text": "che buttarvi a pesce lesso in bagni di merda già sarebbe qualcosa di straordinario con la definizione"
+    },
+    {
+      "start": 352.88,
+      "end": 358.46,
+      "text": "di imprenditore vera per me ragazzi è esperto di marketing del suo settore che già avete da"
+    },
+    {
+      "start": 358.46,
+      "end": 363.98,
+      "text": "studiare una vita se siete intelligenti dalla storia i dati finanziari storici dati finanziari moderni a"
+    },
+    {
+      "start": 363.98,
+      "end": 368.3,
+      "text": "quando sono stati effettuati lanci a cosa faceva la concorrenza a come erano i benchmark di trezzi cioè"
+    },
+    {
+      "start": 368.3,
+      "end": 372.38,
+      "text": "se voi volete fare l'imprenditore dovete studiare questa roba qua dovete essere inutile che cercate di"
+    },
+    {
+      "start": 372.38,
+      "end": 376.58,
+      "text": "fare il frank merenda la situazione perché vi dovete rompere i coglioni con settori con voi non"
+    },
+    {
+      "start": 376.58,
+      "end": 382.6,
+      "text": "c'entrano niente imparate almeno a fare marketing sul vostro no che già è tanta tanta tanta tanta"
+    },
+    {
+      "start": 382.6,
+      "end": 386.9,
+      "text": "roba ma giusto per dirvi noi invece faccio il ricercatore perché faccio il divulgatore allora"
+    },
+    {
+      "start": 386.9,
+      "end": 391.34,
+      "text": "stavo rileggendo quello che avevo scritto perché ero andato a recuperare i dati finanziari vi leggo"
+    },
+    {
+      "start": 391.34,
+      "end": 395.42,
+      "text": "solo questo tra filettino perché per me è straordinario intanto che si connettono tutti"
+    },
+    {
+      "start": 395.42,
+      "end": 401.54,
+      "text": "poi partiamo parlavamo per esempio della della sony no che ha sempre fatto tutto su tutti allora dicevamo"
+    },
+    {
+      "start": 401.54,
+      "end": 407.9,
+      "text": "di sony ve lo leggo questo libro ragazzi è uscito nella prima edizione cavallo tra 2018 e 2019 poi"
+    },
+    {
+      "start": 407.9,
+      "end": 414.92,
+      "text": "dopo vi do gli aggiornamenti negli ultimi dieci anni ha fatturato sony in totale 759,3 miliardi di"
+    },
+    {
+      "start": 414.92,
+      "end": 422.54,
+      "text": "dollari eppure ha perso 5,5 miliardi di dollari cioè allo stato scrivente del libro con l'analisi"
+    },
+    {
+      "start": 422.54,
+      "end": 428.3,
+      "text": "del decennio precedente ma anche il decennio prima era così non ha guadagnato un cazzo esiste fa un sacco"
+    },
+    {
+      "start": 428.3,
+      "end": 433.46,
+      "text": "di soldi è una mega conglomerata giapponese le mega conglomerate giapponesi tra l'altro sono tutte"
+    },
+    {
+      "start": 433.46,
+      "end": 439.64,
+      "text": "uguali tutte sostenute dallo stato quindi sono per un terzo aziende parastatali in realtà perché"
+    },
+    {
+      "start": 439.64,
+      "end": 444.86,
+      "text": "servono per dare come la fiat italiana no degli anni ok bene le aziende i conglomerati giapponesi"
+    },
+    {
+      "start": 444.86,
+      "end": 450.48,
+      "text": "sono così e hanno sto vizio per una serie di motivi di attaccare il loro brand su tutto quello che"
+    },
+    {
+      "start": 450.48,
+      "end": 455.66,
+      "text": "respira e quindi questa cosa viene portata come dimostrazione che in realtà attaccare il brand su"
+    },
+    {
+      "start": 455.66,
+      "end": 462.8,
+      "text": "tutto funziona ma funziona a me non sembra è perché la sony in dieci anni ha perso 5,5 miliardi di"
+    },
+    {
+      "start": 462.8,
+      "end": 467.72,
+      "text": "dollari non so neanche come si scrivono 5,5 miliardi di dollari ma vedete che questa reazione nel modo"
+    },
+    {
+      "start": 467.72,
+      "end": 473.96,
+      "text": "di ragionare ok ma cerchiamo di capire cioè il settore però com'è andato e i benchmark di settore"
+    },
+    {
+      "start": 473.96,
+      "end": 479.3,
+      "text": "i competitor allora io ho continuato a analizzare e ho fatto le prove comparative no da storico da"
+    },
+    {
+      "start": 479.3,
+      "end": 484.2,
+      "text": "marketer ora prova a comparare sony con apple per esempio perché sono nello stesso settore"
+    },
+    {
+      "start": 484.2,
+      "end": 490.06,
+      "text": "dell'elettronica fanno la stessa roba dieci anni fa il fatturato di sony era di 89,1 miliardi di"
+    },
+    {
+      "start": 490.06,
+      "end": 496.06,
+      "text": "dollari più del triplo di apple che si fermava 24 miliardi a cazzo quindi siamo partiti dieci anni fa"
+    },
+    {
+      "start": 496.06,
+      "end": 503.84,
+      "text": "dove sony faceva quasi 90 miliardi faceva più del triplo di apple bene oggi giornato tempo moderno"
+    },
+    {
+      "start": 503.84,
+      "end": 510.68,
+      "text": "apple ha circa il triplo del fatturato di soli quindi si è ribaltata quindi ad essere un terzo apple è diventata il triplo di sony"
+    },
+    {
+      "start": 510.68,
+      "end": 516.54,
+      "text": "sono galbani vuol dire fiducia attacchiamo sony ovunque perché noi siamo furbi orrisse uno scemo certo"
+    },
+    {
+      "start": 516.54,
+      "end": 528.4,
+      "text": "quindi 229,2 miliardi di apple contro il 76,9 di sony di più sul mercato azionario apple è arrivata a valere 940"
+    },
+    {
+      "start": 528.4,
+      "end": 536.4,
+      "text": "miliardi di dollari poi è diventata in realtà super strada bilionaria più di quattordici volte di quanto valga sony che si ferma a"
+    },
+    {
+      "start": 536.4,
+      "end": 542.86,
+      "text": "63 miliardi quindi sul mercato azionario apple vale quattordici volte sony che prima dieci anni fa gli stava davanti del triplo"
+    },
+    {
+      "start": 542.86,
+      "end": 552.6,
+      "text": "ragazzi è importante essere un esperto di marketing conoscere la storia dei dati finanziari o no o bisogna parlare sempre perché io sto sul cazzo a qualcuno quindi la realtà dopo non esiste più"
+    },
+    {
+      "start": 552.6,
+      "end": 559.34,
+      "text": "allora qual è la differenza tra le due aziende mentre sony appiccicava il nome sony su tutto quello che poteva apple lanciava nuovi brand"
+    },
+    {
+      "start": 559.34,
+      "end": 569.8,
+      "text": "iphone in primis che la macchina da soldi più importante di apple fa 80 per cento del fatturato poi ipod ipad mac eccetera eccetera questi quattro brand diversi apple ha dominato il mondo dell'i-tech che prima era di sony"
+    },
+    {
+      "start": 569.8,
+      "end": 580.8,
+      "text": "quindi sony una volta era un potentissimo brand legato al concetto di televisore ve lo ricordate non è solo legato al concetto di televisore sony ha fatto i soldi quando facevate quando ha fatto tre cose"
+    },
+    {
+      "start": 580.8,
+      "end": 589.28,
+      "text": "uno il televisore ma perché aveva un brand ve lo ricordate sony aveva il trimtron quando quando sony ha lanciato un brand invece che appiccicare"
+    },
+    {
+      "start": 589.28,
+      "end": 601.14,
+      "text": "il nome basta su una sigla lgv 426 sony faceva col trimitron avere televisori e faceva i soldi qual era l'altro momento nel quale sony ha fatto i soldi ve lo ricordate quando ha lanciato un altro brand"
+    },
+    {
+      "start": 601.14,
+      "end": 611.0,
+      "text": "quale è walkman ve lo ricordate il walkman detto male all'italiana lettore di cassette portatile che poi apple ha sostituito con l'ipod bene quello è stato un altro momento"
+    },
+    {
+      "start": 611.0,
+      "end": 619.22,
+      "text": "ma negli anni sony ha diluito il suo brand appiccicandolo su personal computer smartphone una serie in finta di prodotti quando espandi il tuo brand tu indebolisci il tuo brand"
+    },
+    {
+      "start": 619.22,
+      "end": 626.04,
+      "text": "quando focalizzi il tuo brand tu rinforzi il tuo brand questo erano solo quattro righe a pagina 20 del mio libro"
+    },
+    {
+      "start": 626.04,
+      "end": 633.94,
+      "text": "queste erano nemmeno le cose intelligenti che dicevano risulta era la mia introduzione che è fatta di dati finanziari storia storia del marketing e azioni da compiere"
+    },
+    {
+      "start": 633.94,
+      "end": 644.96,
+      "text": "quindi prendetelo ragazzi perché è veramente veramente carino e quindi cosa vi voglio dire a negli ultimi anni dopo il libro in realtà l'anno successivo a quello che ho scritto"
+    },
+    {
+      "start": 644.96,
+      "end": 651.78,
+      "text": "sony è tornata leggermente in profitto ha cominciato a fare profitto vi chiederete ma come mai dopo dieci anni eccetera eccetera"
+    },
+    {
+      "start": 651.78,
+      "end": 665.78,
+      "text": "è andata così è andata così per un motivo molto semplice perché il se voi guardate il grosso del fatturato soprattutto fatturato ma degli utili di sony che compensano tutte le perdite degli altri reparti dove fanno miliardi di cose con il nome sony appiccicato"
+    },
+    {
+      "start": 665.78,
+      "end": 672.6,
+      "text": "non è una delle mille estensioni di linea quel nome sony appiccicato ma è un brand singolo sapete qual è certo che lo sapete playstation"
+    },
+    {
+      "start": 672.6,
+      "end": 684.6,
+      "text": "le vendite di playstation all'epoca era stato lancio che c'era il traino delle vendite di playstation 4 con playstation 4 sony si è rilanciato i soldi in sony li fanno con non con sony li fanno con il brand playstation"
+    },
+    {
+      "start": 684.6,
+      "end": 693.6,
+      "text": "molti non sanno nemmeno che playstation e della sony ragazzi di valerlo si chiama sony playstation si chiama place o la play dice la gente non dice o la sony playstation"
+    },
+    {
+      "start": 693.6,
+      "end": 702.6,
+      "text": "è vero no quindi sony ha fatto i soldi in tre momenti storici stranamente in tutti e tre i momenti nei quali ha lanciato dei brand ha lanciato il trimitron ha fatto i soldi"
+    },
+    {
+      "start": 702.6,
+      "end": 702.6,
+      "text": "ha lanciato walkman ha fatto i soldi ha lanciato playstation ha fatto i soldi tutto il resto se spegnesse le fabbriche farebbe prima perché smena solo del denaro poi per l'amore di dio azienda parastatale da da lavorare a un sacco di persone in Giappone come era la fiat da noi"
+    },
+    {
+      "start": 702.6,
+      "end": 732.58,
+      "text": "capisco tutto però non mi dovete non potete venire a dire che le conglomerate giapponesi fanno bene quindi smontano il concetto della focalizzazione il posizionamento di marca perché loro attaccano e attaccano ovunque perdono tutti i soldi ok se vi andate a vedere anche brand vendita per esempio che è gratis anche quello vedete tutti i"
+    },
+    {
+      "start": 732.58,
+      "end": 762.56,
+      "text": "dei conglomerati giapponesi che o perdono una fracca di soldi ma parliamo di miliardi di dollari o rispetto ai brand competitor nel loro settore che in realtà sono focalizzati fanno delle figure di merda anche anche quelle che crescono crescono a un centesimo avete visto il confronto con Apple in questo caso specifico per la Sony rispetto alla vera azienda leader e sono e vengono sorpassate quindi non c'è nessuna eccezione al mondo ma quindi sony, Yamaha, Katsinghul, Sangyong, Zunjong, Wingwang, Nessuna è un'eccezione alle regole del posizionamento di marca quando tu capisci"
+    },
+    {
+      "start": 762.56,
+      "end": 792.54,
+      "text": "che significa il posizionamento di marca cioè un confronto tra quello che fai tu quello che fa la concorrenza da dove sei partito tu da dove è partita la concorrenza quali erano i dati finanziari quando hai cominciato tu quali erano i dati finanziari della concorrenza e del settore e come si sono evoluti lancio contro lancio mano mano che andavano avanti ragazzi però sta roba non la fa nessuna l'università non si studia mica così guardate che l'università non si studia mica così il marketing non si studia storia dell'economia storia del marketing quindi è ma leggete anche nei commenti nei video che vengono fatti"
+    },
+    {
+      "start": 792.54,
+      "end": 822.52,
+      "text": "ragazzi è vero all'università a noi ci trattavano come gli deficienti come se fossimo già dei manager e tutte le iniziative di marketing che ci mostravano come case studi erano delle fotografie ai quali noi ci dovevamo ispirare o copiarle o prendere a sé cioè come se fossero dei momenti creativi di arte ma non c'era nessuna storia dietro a quel momento che ci veniva fotografato infatti fai io di marketing non capisco un cazzo anche se ho fatto la facoltà dove il marketing era il centro del... perché nessuno ragazzi nel mondo insegna il marketing quindi questo è il primo cazzo... non il primo perché ho risinato di tanti altri..."
+    },
+    {
+      "start": 822.52,
+      "end": 847.08,
+      "text": "bellissimi prima di... ma questo è un libro di marketing vero voi lo studiate ok poi fate una cosa prendetelo che tanto costa due lire se non vi piace me lo ritirate in faccia e vi rido i soldi se pensate che non valga la pena me lo ritirate in faccia vi rimborso prendetelo però ok perché è veramente questo è veramente straordinario questo libro è dell'ultimo lascito con i materiali originali di Oris e non ce l'hanno nemmeno negli Stati Uniti questo ce l'abbiamo noi quindi è un peccato secondo me se non l'avete non lo usate come manuale di base."
+    },
+    {
+      "start": 847.08,
+      "end": 863.08,
+      "text": "Allora vediamo noi quindi allora cosa dice Giorgio eccolo qua scusa Frank ma ho provato a cercare estensione di linea e non ho trovato chi l'ho da tale azione tutti tutti Giorgio tutti tutti cioè nel senso è l'estensione di linea è il... il modo basico che esiste..."
+    },
+    {
+      "start": 863.08,
+      "end": 883.32,
+      "text": "Tu cerca line extension non cerca l'estensione di linea, cerca line extension quindi te lo trovi in americano inglese e trovi che è parte del curriculum delle università cioè le aziende vengono i manager vengono addestrati a espandere il più possibile il raggio di azione dei propri brand perché così per loro è più facile, è più comodo, funziona meglio, la storia li smentisce sempre."
+    },
+    {
+      "start": 883.32,
+      "end": 893.66,
+      "text": "La mia introduzione ragazzi è una... sono 100 pagine che smentiscono le estensioni di linea, la Virgin ci sono tutti i casi di tutte le aziende fallite basate sulle estensioni di linea ok?"
+    },
+    {
+      "start": 894.16,
+      "end": 924.14,
+      "text": "Quindi dove si acquista? Si acquista Miss Wolf dove si acquista? Si acquista nel nostro sito ok adesso vedo se riesco hai ragione anche tu sono scemo io perché non vi ho messo il link vi metto il link in chat datemi un secondo ragazzi eccolo qua ve lo metto scusa Miss brava hai fatto un'ottima domanda eccolo qua trovate il linkino qui in chat eccolo qua ve l'ho pubblicato il link è le sette leggi del marketing e ce l'avete lì nei commenti ma adesso"
+    },
+    {
+      "start": 924.14,
+      "end": 954.12,
+      "text": "torniamo a noi ok quindi al netto di questo di quale azienda straordinaria italiana parliamo e la faccio subito vedere eccolo qua la sisma just quality e voi direte che cazzo stai a di frank che cazzo è la sisma no perché se voi andate a vedere la sisma è adesso sapete come sono io prendo in giro per capirsi ricordate grazie questo brand è nato nel 1965 poi l'azienda è stata rifondata nel 1982 oggi"
+    },
+    {
+      "start": 954.12,
+      "end": 974.12,
+      "text": "si chiama nuova sisma ma hanno ripreso il logo vecchio per motivi tradizionali eccetera eccetera però e quindi il dato importante qual è chi è sisma chi è sisma cosa fa sisma se voi andate a cercare c'è una sisma in almeno una sisma in ogni città italiana cioè voi cercate andate sulle pagine io stavo dicendo andate sulle pagine gialle no andate a pesa come sono vecchio"
+    },
+    {
+      "start": 974.12,
+      "end": 996.08,
+      "text": "andate su google e visto che google visual localizza se voi cercate sisma o azienda sisma c'è una sisma dietro casa vostra che fa qualcosa erano i modi di dare i nomi alle aziende ancora oggi è così in italia e come si danno i nomi alle aziende alla canta cessi quindi snc la succhia pulli srl con i nomi con i cognomi no normalmente del titolare"
+    },
+    {
+      "start": 996.08,
+      "end": 1005.9,
+      "text": "e questi nomi bel la sisma ogni città alla sua sisma o alla sua sigma o alla sua delta alla sua gamma ok tutti questi sono i nomi con i quali"
+    },
+    {
+      "start": 1005.9,
+      "end": 1033.9,
+      "text": "quindi c'è o mettevi il tuo cognome o mettevi queste parole in mezzo in greco no tutte queste cose qua quindi sto prendendo in giro è perché voi non sapete questa cosa è importante perché voi non sapete la sisma chi cazzo è la maggior parte di voi non ovviamente non sa la sisma nessuno di voi sa chi è la sisma non è non è un concorso a prendere anche se qualcuno lo sa non è importante ma è una bellissima azienda di mantua cosa fa la sisma allora adesso invece di dirvi che cosa fa la sisma"
+    },
+    {
+      "start": 1033.9,
+      "end": 1047.8,
+      "text": "sisma perché voi non conoscete i prodotti della sisma che come dovrebbe essere voi conoscete i brand della sisma e adesso ve ne faccio vedere uno ho recuperato ragazzi uno spot di tanti anni fa e ve lo faccio vedere così capite immediatamente di cosa parliamo"
+    },
+    {
+      "start": 1047.8,
+      "end": 1052.04,
+      "text": "ed ecco questo"
+    },
+    {
+      "start": 1077.8,
+      "end": 1089.04,
+      "text": "samurai lo stuzzicadenti famoso ok tra l'altro lo spot è anche veramente veramente carino il nome"
+    },
+    {
+      "start": 1089.04,
+      "end": 1093.16,
+      "text": "era il nome dello spot era compagni di scuola quindi quando conosce anche il nome dello spot è"
+    },
+    {
+      "start": 1093.16,
+      "end": 1098.92,
+      "text": "ancora più divertente ok quindi la sisma in realtà voi non la conoscete per il nome dell'azienda c'è"
+    },
+    {
+      "start": 1098.92,
+      "end": 1104.04,
+      "text": "il capannone con scritto sisma ma in realtà voi la conoscete perché ha lo stuzzicadente più famoso"
+    },
+    {
+      "start": 1104.04,
+      "end": 1107.94,
+      "text": "che esiste in italia e poi è stato esportato ovviamente anche nel mondo in più di 50 paesi"
+    },
+    {
+      "start": 1107.94,
+      "end": 1116.88,
+      "text": "quindi samurai allora in realtà la sisma non nasce così ok la sisma nasce come sisma quindi vi spiego"
+    },
+    {
+      "start": 1116.88,
+      "end": 1124.32,
+      "text": "un minimo di storia così nel 65 nasce come sisma ed è un'azienda che fa stranamente non lo so perché"
+    },
+    {
+      "start": 1124.32,
+      "end": 1129.3,
+      "text": "ragazzi perché allora perché io l'altro giorno vi spiegavo orris fa un'analisi spesso e volentieri"
+    },
+    {
+      "start": 1129.3,
+      "end": 1133.86,
+      "text": "più possibile di grandi aziende multinazionali portate in borsa ma anche per un motivo molto"
+    },
+    {
+      "start": 1133.86,
+      "end": 1138.36,
+      "text": "semplice che è facile recuperare non solo i dati finanziari quindi un'azienda che non è quotata in"
+    },
+    {
+      "start": 1138.36,
+      "end": 1142.74,
+      "text": "borsa si è molto difficile trovare i dati finanziari soprattutto antichi eccetera eccetera in italia è più"
+    },
+    {
+      "start": 1142.74,
+      "end": 1149.22,
+      "text": "facile perché srl eccetera ma normalmente le aziende piccole soprattutto negli stati uniti non hanno i"
+    },
+    {
+      "start": 1149.22,
+      "end": 1155.26,
+      "text": "bilanci quotati ed è difficile anche risalire alla storia perché perché le piccole aziende non lasciano"
+    },
+    {
+      "start": 1155.26,
+      "end": 1160.54,
+      "text": "uno sto c'è se hanno qualche decennio e sono nata nell'era pre internet molte non lasciano traccia ok"
+    },
+    {
+      "start": 1160.54,
+      "end": 1166.36,
+      "text": "quindi è difficile ma della sisma invece sappiamo com'è andata quindi ve lo posso raccontare la sima"
+    },
+    {
+      "start": 1166.36,
+      "end": 1172.36,
+      "text": "nasce come un'aziendina sì come nasce come sì che poi ma perché ma l'hanno aggiunto dopo perché era"
+    },
+    {
+      "start": 1172.36,
+      "end": 1178.42,
+      "text": "per mantova quindi nasce così la sigla in realtà rappresenta questa roba qua e sì non mi ricordo perché cos'era"
+    },
+    {
+      "start": 1178.42,
+      "end": 1188.44,
+      "text": "in realtà però ma sono sicuro che che fosse per mantova e produceva stuzzicadenti e spugnette e voi"
+    },
+    {
+      "start": 1188.44,
+      "end": 1193.3,
+      "text": "direte ma che cazzo di azienda è che prodotti perché produci stuzzicadenti e spugnette che"
+    },
+    {
+      "start": 1193.3,
+      "end": 1197.74,
+      "text": "cazzo c'è neanche io lo so nel senso mi farebbe piacere chiedere perché poi oggi la proprietà anche"
+    },
+    {
+      "start": 1197.74,
+      "end": 1202.24,
+      "text": "cambiata mi farebbe piacere chiedere ai fondatori come mai molto probabilmente erano in questo caso"
+    },
+    {
+      "start": 1202.24,
+      "end": 1207.64,
+      "text": "ricordatevi in che anni siamo periodo di artigiani eccetera eccetera vendevano probabilmente quello che"
+    },
+    {
+      "start": 1207.64,
+      "end": 1213.7,
+      "text": "avevano trovato che serviva intorno a una zona non ne ho idea e non è importante questa cosa ma i"
+    },
+    {
+      "start": 1213.7,
+      "end": 1219.76,
+      "text": "fondatori un bel giorno ok in come molto vicino alla fondazione fortunatamente per loro in realtà"
+    },
+    {
+      "start": 1219.76,
+      "end": 1228.56,
+      "text": "incontrano un rappresentante giapponese signor dal signor tanaka che gli presenta i vantaggi del"
+    },
+    {
+      "start": 1228.56,
+      "end": 1235.74,
+      "text": "legno giapponese di betulla e quindi gli mostra che è possibile grazie alla betulla particolare"
+    },
+    {
+      "start": 1235.74,
+      "end": 1240.8,
+      "text": "che avevano loro fare degli stuzzicadenti che non erano più prima gli stuzzicadenti grazie voi non ve"
+    },
+    {
+      "start": 1240.8,
+      "end": 1246.18,
+      "text": "lo ricordate ma erano le punte semipiatte in realtà perché è difficile fargli la punta esatta"
+    },
+    {
+      "start": 1246.18,
+      "end": 1249.66,
+      "text": "come sono i samurai oggi e tutti quelli che chiaramente le hanno copiati e poi si rompevano"
+    },
+    {
+      "start": 1249.66,
+      "end": 1255.24,
+      "text": "perché si rompevano molto più facilmente voglio dire la betulla è molto più flessibile e è possibile"
+    },
+    {
+      "start": 1255.24,
+      "end": 1260.34,
+      "text": "quindi produrre dei degli stuzzicadenti che sono molto più flessibili e molto più appuntiti prima"
+    },
+    {
+      "start": 1260.34,
+      "end": 1266.82,
+      "text": "erano dei legnetti ma era difficile tagliarli il legno era difficile lavorarlo ok quindi loro"
+    },
+    {
+      "start": 1266.82,
+      "end": 1274.08,
+      "text": "prendono dal signor tanaka la fornitura del legno giapponese eccetera eccetera imparano a lavorare"
+    },
+    {
+      "start": 1274.08,
+      "end": 1279.84,
+      "text": "la betulla riescono a creare per la prima volta questi stuzzicadenti che sono così appuntiti così"
+    },
+    {
+      "start": 1279.84,
+      "end": 1285.34,
+      "text": "straordinari così flessibili molto più della media mercato molto più di quelli che producevano prima e"
+    },
+    {
+      "start": 1285.34,
+      "end": 1292.44,
+      "text": "quindi non decidono di chiamarli come facevano prima sigma stuzzicadenti come fareste voi e farebbero la"
+    },
+    {
+      "start": 1292.44,
+      "end": 1298.44,
+      "text": "maggior parte gli stuzzicadenti sigma non fanno così tutti gli italiani farebbero così ciò la sigma e"
+    },
+    {
+      "start": 1298.44,
+      "end": 1304.14,
+      "text": "faccio gli stuzzicadenti sigma e faccio le spugnette sigma vero nella media fare così bene loro non fanno"
+    },
+    {
+      "start": 1304.14,
+      "end": 1311.34,
+      "text": "così loro decidono nel 1965 tempi clamorosamente non sospetti sti ragazzi perché all'epoca erano"
+    },
+    {
+      "start": 1311.34,
+      "end": 1318.3,
+      "text": "ragazzi lanciano in onore anche al signor tanaka che gli ha dato l'idea quindi dal giappone il"
+    },
+    {
+      "start": 1318.3,
+      "end": 1324.9,
+      "text": "brand samurai con il visual hammer del samurai che su cui non ce l'aveva se lo ricordate il logo di"
+    },
+    {
+      "start": 1324.9,
+      "end": 1329.54,
+      "text": "prima era quello con il samurai quello proprio lo stuzzicadenti in mano al posto della della katana"
+    },
+    {
+      "start": 1329.54,
+      "end": 1338.18,
+      "text": "bellissima e quindi nasce il brand nasce il brand c'è dalla sigma da sta roba qua si scassi ma dalla"
+    },
+    {
+      "start": 1338.18,
+      "end": 1342.56,
+      "text": "sisma l'avrò pronunciato male cento volte non so perché mi è venuto sigma che mi dalla sisma invece"
+    },
+    {
+      "start": 1342.56,
+      "end": 1350.16,
+      "text": "che fare sisma stuzzicadenti loro lanciano samurai quindi lancia e quindi cominciano a avere questo"
+    },
+    {
+      "start": 1350.16,
+      "end": 1355.52,
+      "text": "enorme successo in italia arrivano anche in televisione fanno pubblicità e tutte queste cose e creano questo"
+    },
+    {
+      "start": 1355.52,
+      "end": 1361.16,
+      "text": "brand di enorme successo in una commodity clamorosa che sono stuzzicadenti di legno e quindi perché hanno"
+    },
+    {
+      "start": 1361.16,
+      "end": 1365.94,
+      "text": "successo estremo successo rispetto agli altri perché creano un brand non lo chiamano col nome dell'azienda"
+    },
+    {
+      "start": 1365.94,
+      "end": 1371.9,
+      "text": "quindi questa è la lezione che dovete prendere laddove possibile e come apple cioè apple non vuol dire"
+    },
+    {
+      "start": 1371.9,
+      "end": 1378.98,
+      "text": "un cazzo nessuno compra l'apple la gente compra l'iphone che è un brand dell'apple ma l'iphone lo sai che"
+    },
+    {
+      "start": 1378.98,
+      "end": 1384.92,
+      "text": "dell'apple ma di samurai più il nome della sisma ma nemmeno lo conosci quindi tu la ragione sociale"
+    },
+    {
+      "start": 1384.92,
+      "end": 1390.68,
+      "text": "della vostra azienda voi la potete chiamare come cazzo vi pare questi sono italiani di mantua quindi"
+    },
+    {
+      "start": 1390.68,
+      "end": 1396.26,
+      "text": "questi hanno capito che la ragione sisma non andava bene attaccato a uno stuzzicadenti cazzo sisma lo"
+    },
+    {
+      "start": 1396.26,
+      "end": 1404.16,
+      "text": "stuzzicadenti del terremoto non poteva funzionare ok non portava bene e quindi hanno deciso di in tempi"
+    },
+    {
+      "start": 1404.16,
+      "end": 1410.28,
+      "text": "completamente non sospetti di lanciare un brand ex novo samurai quindi la lezione resi non mi interessa"
+    },
+    {
+      "start": 1410.28,
+      "end": 1414.66,
+      "text": "come siete andati in camera di commercio a registrare il nome di merda della vostra ragione sociale"
+    },
+    {
+      "start": 1414.66,
+      "end": 1419.88,
+      "text": "lanciate dei cazzo di brand quando dovete fare le cose un prodotto sto cazzo di prodotto loro ci"
+    },
+    {
+      "start": 1419.88,
+      "end": 1427.44,
+      "text": "hanno lanciato sopra un brand sopra ed è diventato distribuito in 50 paesi in tutto il mondo questo è"
+    },
+    {
+      "start": 1427.44,
+      "end": 1432.28,
+      "text": "il primo passaggio che hanno fatto poi cosa succede loro quindi si specie continuano a fare una"
+    },
+    {
+      "start": 1432.28,
+      "end": 1438.7,
+      "text": "aziendina continua a fare ricerca vanno in vanno negli stati uniti loro erano abituati a fare"
+    },
+    {
+      "start": 1438.7,
+      "end": 1443.98,
+      "text": "ovviamente quindi guardate la storia come diverte i pivoti questa azienda per me sono straordinario"
+    },
+    {
+      "start": 1443.98,
+      "end": 1447.52,
+      "text": "sono i pivoti per chi non è abituato al linguaggio di merda gli start up pari e quando tu stai facendo"
+    },
+    {
+      "start": 1447.52,
+      "end": 1453.4,
+      "text": "una cosa e stranamente poi ti accorgi che la gente o ne puoi fare un altro che la gente vuole un'altra"
+    },
+    {
+      "start": 1453.4,
+      "end": 1458.0,
+      "text": "cosa legata a quello che stai facendo e quindi ti metti a produrla e funziona come pivottano i samurai"
+    },
+    {
+      "start": 1458.0,
+      "end": 1462.1,
+      "text": "loro sono abituati a fare questi bastoncini erano abituati a fare i bastoncini vanno negli stati"
+    },
+    {
+      "start": 1462.1,
+      "end": 1469.9,
+      "text": "uniti e scoprono che ci sono già dei prodotti che sono a base di bastoncini e c'è del cotone ai"
+    },
+    {
+      "start": 1469.9,
+      "end": 1475.98,
+      "text": "entrambi i lati quindi loro tornano in italia si mettono a fare sti cazzo di bastoncini ci"
+    },
+    {
+      "start": 1475.98,
+      "end": 1485.74,
+      "text": "mettono il cotone davanti e lanciano il nuovo brand che è cotoneve quindi quelli che voi chiamate in"
+    },
+    {
+      "start": 1485.74,
+      "end": 1492.68,
+      "text": "gergo tecnico cotton fioc ok bene loro lanciano un altro non chiamano samurai da orecchio lanciano"
+    },
+    {
+      "start": 1492.68,
+      "end": 1498.92,
+      "text": "cotoneve ok questo faccio vedere un po più grande eccoli qua vedete cotoneve quindi lanciano tutta la"
+    },
+    {
+      "start": 1498.92,
+      "end": 1504.76,
+      "text": "linea degli ecco quelli che noi chiamiamo i cotton fioc ok quindi sono il bastoncino di plastico ovviamente"
+    },
+    {
+      "start": 1504.76,
+      "end": 1509.48,
+      "text": "non ci mettono veramente lo stuzzicadente però loro abituati a fare i bastoncini e ci mettono"
+    },
+    {
+      "start": 1509.48,
+      "end": 1516.74,
+      "text": "quindi vedete non sono nemmeno nello stesso settore o meglio loro in che settore sono tutto sommato"
+    },
+    {
+      "start": 1516.74,
+      "end": 1523.22,
+      "text": "questa azienda sono nel settore della gd o quindi sono degli inventori sono a modo loro nel settore"
+    },
+    {
+      "start": 1523.22,
+      "end": 1529.3,
+      "text": "della gd o quando tu sei dentro la gd o se hai un prodotto nuovo originale particolare e hai qualcosa"
+    },
+    {
+      "start": 1529.3,
+      "end": 1534.14,
+      "text": "che funziona te lo fai prendere loro neanche lo vendono sull'e commerce anche hanno i negozi loro di"
+    },
+    {
+      "start": 1534.14,
+      "end": 1539.3,
+      "text": "proprietà o i negozi speciali come la vendi la roba ragazzi o la vendi in gdo o ai tuoi negozi o la"
+    },
+    {
+      "start": 1539.3,
+      "end": 1543.58,
+      "text": "vendi attraverso i negozi di altri con la vendi online questo è un business mod che si basa sulla"
+    },
+    {
+      "start": 1543.58,
+      "end": 1548.26,
+      "text": "distribuzione in gdo quindi quando tu sei entrato con i buyer in gdo se hai altre cose gliele propone"
+    },
+    {
+      "start": 1548.26,
+      "end": 1552.7,
+      "text": "e non devono essere necessariamente afferenti al primo prodotto che hai fatto in questo caso"
+    },
+    {
+      "start": 1552.7,
+      "end": 1557.88,
+      "text": "ragazzi questo esempio io li adoro perché questi fanno cose che apparentemente non c'entrano un cazzo"
+    },
+    {
+      "start": 1557.88,
+      "end": 1562.58,
+      "text": "una con l'altra ma la cosa divertente è che loro hanno capito il concetto del posizionamento"
+    },
+    {
+      "start": 1562.58,
+      "end": 1567.14,
+      "text": "di marca cioè loro non hanno ok noi abbiamo avuto successo con samurai che non hanno fatto samurai per"
+    },
+    {
+      "start": 1567.14,
+      "end": 1573.04,
+      "text": "le tue orecchie samurai cotone non hanno fatto voi fareste così voi guardate mi faccia voi fareste"
+    },
+    {
+      "start": 1573.04,
+      "end": 1579.14,
+      "text": "samurai cotone ok samurai orecchia fareste questa roba qua loro hanno lanciato il brand cotoneve che"
+    },
+    {
+      "start": 1579.14,
+      "end": 1586.52,
+      "text": "pure bello cazzo è nel senso sono inventati praticamente un settore sono veramente straordinari poi che cosa hanno"
+    },
+    {
+      "start": 1586.52,
+      "end": 1598.86,
+      "text": "capito ancora da qua che questa roba che loro mettevano questo cotone che loro mettevano intorno al bastoncino per"
+    },
+    {
+      "start": 1598.86,
+      "end": 1606.12,
+      "text": "entrare delicatamente all'interno delle orecchie tutte queste cose qua poteva essere venduto a parte e quindi"
+    },
+    {
+      "start": 1606.12,
+      "end": 1613.08,
+      "text": "lanciano nuovamente un nuovo brand e quindi crea un nuovo brand che è farmacotone e lanciano quella che voi"
+    },
+    {
+      "start": 1613.08,
+      "end": 1618.6,
+      "text": "chiamate normalmente ovatta lanciano lo vatta quando voi andate in farmacia non vi danno il farmacotone e"
+    },
+    {
+      "start": 1618.6,
+      "end": 1623.8,
+      "text": "loro che voi non sapevate che cotton fiocca erano loro che il farmaco che lo vatta che comprate nel"
+    },
+    {
+      "start": 1623.8,
+      "end": 1627.6,
+      "text": "grover c'è neanche altri brand ovviamente negli anni sono tutti fuori ma queste robe le hanno portate"
+    },
+    {
+      "start": 1627.6,
+      "end": 1633.9,
+      "text": "loro i fazzolettini no aluat loro hanno portato i fazzolettini aluat tutta questa roba qua ok non lo"
+    },
+    {
+      "start": 1633.9,
+      "end": 1638.98,
+      "text": "sapevate ed è un'aziendina di mantova e non glielo insegnate io ste robe le hanno fatte a partire dal"
+    },
+    {
+      "start": 1638.98,
+      "end": 1645.0,
+      "text": "1965 le hanno fatte giuste sombra che hanno fatto samurai poi da lì hanno fatto il samurai col cotone"
+    },
+    {
+      "start": 1645.0,
+      "end": 1649.32,
+      "text": "che è diventata una nuova categoria e poi hanno tolto il cotone hanno messo da solo e ci hanno fatto"
+    },
+    {
+      "start": 1649.32,
+      "end": 1656.4,
+      "text": "lo vatta per per disinfettare sono bravi ok il farmacotone quindi sono tanti brand che voi non"
+    },
+    {
+      "start": 1656.4,
+      "end": 1662.22,
+      "text": "sapete nemmeno che sono loro e sono veramente veramente veramente bravi veramente geniali e"
+    },
+    {
+      "start": 1662.22,
+      "end": 1669.84,
+      "text": "giustamente simona mi sono serviti ma la spugna che fine ha fatto ah ok hai fatto la domanda giusta"
+    },
+    {
+      "start": 1669.84,
+      "end": 1675.4,
+      "text": "prossimo ok pure io me lo chiedevo ma sta cazzo di spugna in azienda io non ho mai capito perché"
+    },
+    {
+      "start": 1675.4,
+      "end": 1681.34,
+      "text": "facessero stessero facendo la spugna all'inizio ok ho detto ma poi cosa hanno fatto la spugna l'hanno"
+    },
+    {
+      "start": 1681.34,
+      "end": 1687.48,
+      "text": "buttata indagare ma non è che ci voglia più di tanto ed eccola qua l'hanno ribrandizzata hanno"
+    },
+    {
+      "start": 1687.48,
+      "end": 1694.72,
+      "text": "creato hanno diviso il brini da sisma hanno fatto la sisma originale è diventata samurai e logix logix"
+    },
+    {
+      "start": 1694.72,
+      "end": 1698.98,
+      "text": "fa le spugnette fa le spugnette le spugnette abrasive le spugnette strigliace tutta la linea"
+    },
+    {
+      "start": 1698.98,
+      "end": 1704.02,
+      "text": "delle spugnette dei prodotti per cucina in quella roba lì poi ci hanno messo anche in ogni linea ci hanno"
+    },
+    {
+      "start": 1704.02,
+      "end": 1709.12,
+      "text": "messo anche degli altri prodotti ovviamente dietro ma hanno creato ragazzi quattro brand quattro brand"
+    },
+    {
+      "start": 1709.12,
+      "end": 1715.24,
+      "text": "diversi quindi questo è quello che i ragazzi hanno hanno fatto quindi hanno hanno creato logix"
+    },
+    {
+      "start": 1715.24,
+      "end": 1721.18,
+      "text": "riguardiamo l'insieme andare indietro farmacotone per per lo vatta hanno creato cotoneve e hanno"
+    },
+    {
+      "start": 1721.18,
+      "end": 1727.42,
+      "text": "creato samurai questo è quello che hanno fatto queste persone quindi maniere per sinteti ragazzi questa"
+    },
+    {
+      "start": 1727.42,
+      "end": 1737.0,
+      "text": "è un'azienda italiana che ha capito come si fanno le cose cioè tu ti chiami sisma va bene sul nome del"
+    },
+    {
+      "start": 1737.0,
+      "end": 1743.9,
+      "text": "capannone mettici quel cazzo che vuoi quando vai sul mercato farci un prodotto c'è un brand punto non"
+    },
+    {
+      "start": 1743.9,
+      "end": 1748.52,
+      "text": "avrebbe funzionato sisma stuzzicade non avrebbe funzionato sisma recchia non avrebbe funzionato"
+    },
+    {
+      "start": 1748.52,
+      "end": 1754.76,
+      "text": "sisma spugna che hanno cominciato a fare le cose quando hanno lanciato che hanno sono arrivati al massi"
+    },
+    {
+      "start": 1754.76,
+      "end": 1759.32,
+      "text": "l'apice massimo loro successo e quando erano estremamente focalizzati un prodotto un brand per ogni"
+    },
+    {
+      "start": 1759.32,
+      "end": 1766.12,
+      "text": "categoria questo è quindi questo è per dimostrarvi che se voi conoscete la storia conoscete veramente i prodotti"
+    },
+    {
+      "start": 1766.12,
+      "end": 1771.1,
+      "text": "voi potete trovare il brand positioning ovunque intorno a voi solo che normalmente non ci fate caso"
+    },
+    {
+      "start": 1771.1,
+      "end": 1775.5,
+      "text": "tante volte sono piccole è un'azienda che fa un 50 milioni a se ne che sia questa non è una"
+    },
+    {
+      "start": 1775.5,
+      "end": 1781.84,
+      "text": "multinazionale è un'azienda italiana che è nata a mantova fa una media 50 52 milioni ha fatto nel"
+    },
+    {
+      "start": 1781.84,
+      "end": 1788.24,
+      "text": "2048 50 cioè balla intorno ai 50 milioni di foto è una bella aziendina no c'è senso è per me è un"
+    },
+    {
+      "start": 1788.24,
+      "end": 1794.18,
+      "text": "orgoglio italiano sapere che i samurai io quando ho visto che mi trovo il samurai cazzo al tavolo è bello non è una"
+    },
+    {
+      "start": 1794.18,
+      "end": 1798.5,
+      "text": "multinazionale è diventata la ferrari per l'amore di dio è diventata la barilla è diventata la ferrero però"
+    },
+    {
+      "start": 1798.5,
+      "end": 1803.3,
+      "text": "se volete che parliamo principi di posizionamento di marca ne possiamo parlare con una pmi tranquillissima"
+    },
+    {
+      "start": 1803.3,
+      "end": 1807.84,
+      "text": "fa 50 milioni come possiamo parlare analizzando la barilla noi possiamo analizzare parlando la"
+    },
+    {
+      "start": 1807.84,
+      "end": 1813.24,
+      "text": "ferrero così come possiamo analizzarla parlando delle aziende americane delle big companies delle"
+    },
+    {
+      "start": 1813.24,
+      "end": 1817.78,
+      "text": "multinazionali delle aziende giapponesi tutti il posizionamento di marca ragazzi la legge è tutta"
+    },
+    {
+      "start": 1817.78,
+      "end": 1822.82,
+      "text": "intorno a voi che com'era quello di agnodori sono la banca e tutto e faceva lo zeppone al cerchio e"
+    },
+    {
+      "start": 1822.82,
+      "end": 1830.44,
+      "text": "tutto intorno a te ok il posizionamento il è tutto intorno a voi quindi vi basta semplicemente"
+    },
+    {
+      "start": 1830.44,
+      "end": 1835.3,
+      "text": "imparare a guardarlo tutto qua ok quindi questo a me piace tantissimo io non nemmeno di solito mi"
+    },
+    {
+      "start": 1835.3,
+      "end": 1839.74,
+      "text": "incazzo durante qui non ho molto da incazzarmi perché sono molto contento perché loro sono veramente"
+    },
+    {
+      "start": 1839.74,
+      "end": 1844.82,
+      "text": "bravi c'è solo la dimostrazione di un'azienda che fa quattro prodotti diversi con quattro brand"
+    },
+    {
+      "start": 1844.82,
+      "end": 1852.08,
+      "text": "completamente diversi entrata in quattro segmenti centrata con con quattro voi guardatemi negli"
+    },
+    {
+      "start": 1852.08,
+      "end": 1857.18,
+      "text": "occhi per voi sarebbe normale ci chiamiamo sisma sisma e garanzia di qualità e lo mettiamo su tutto"
+    },
+    {
+      "start": 1857.18,
+      "end": 1863.26,
+      "text": "quello che facciamo o peggio abbiamo lanciato un brand che è samurai va bene visto che funziona ma"
+    },
+    {
+      "start": 1863.26,
+      "end": 1870.14,
+      "text": "perché mi devo rimettere a fare da zero tu uso il samurai il 99 per cento di voi avrebbe usato sisma"
+    },
+    {
+      "start": 1870.14,
+      "end": 1874.38,
+      "text": "o se si fosse sbagliato a lanciare un brand di successo se lo sarebbe portato a rimorchio e la"
+    },
+    {
+      "start": 1874.38,
+      "end": 1879.12,
+      "text": "gente vi dire a scuola vi direbbero di fare quella roba lì certi casi studio veri come questi non vengono"
+    },
+    {
+      "start": 1879.12,
+      "end": 1885.6,
+      "text": "analizzate scuola non la imparate la roba a scuola ok quindi grazie spero che non voglio menarvi il"
+    },
+    {
+      "start": 1885.6,
+      "end": 1890.22,
+      "text": "torrone più di tanto mi sembra che l'insegnamento sia più che chiaro ricordatevi vi ho messo il link"
+    },
+    {
+      "start": 1890.22,
+      "end": 1898.02,
+      "text": "etto ok eccola qua ve lo rimetto le sette leggi del marketing enrico dice come la perfetti anche la"
+    },
+    {
+      "start": 1898.02,
+      "end": 1903.94,
+      "text": "perfetta un altro bellissimo esempio di posizionamento di marca ne parleremo ok eccetera eccetera e"
+    },
+    {
+      "start": 1903.94,
+      "end": 1908.5,
+      "text": "e quindi vito scuola che non leggo bene vito cosa dice che brand samurai spettacolare spettacolare"
+    },
+    {
+      "start": 1908.5,
+      "end": 1915.58,
+      "text": "si è veramente bellissimo ok e quindi eccolo qua il vostro massaggiatore non vogliamo sapere"
+    },
+    {
+      "start": 1915.58,
+      "end": 1919.72,
+      "text": "niente se ci massagli il posizionamento delle marche più che di marca si assolutamente è il"
+    },
+    {
+      "start": 1919.72,
+      "end": 1924.68,
+      "text": "posizionamento delle marche quindi ricordatevi ragazzi di finanziare il vostro canale preferito"
+    },
+    {
+      "start": 1924.68,
+      "end": 1931.22,
+      "text": "ok sul marketing in italiano le sette leggi del marketing per l'eventunesimo secolo serve per"
+    },
+    {
+      "start": 1931.22,
+      "end": 1934.76,
+      "text": "darci da mangiare non è vero ragazzi prendetelo perché un bel manuale non ci guadagniamo niente"
+    },
+    {
+      "start": 1934.76,
+      "end": 1940.04,
+      "text": "però è veramente veramente stupendo fa anche luce di riflesso sul bordino quindi ce l'avete lì e"
+    },
+    {
+      "start": 1940.04,
+      "end": 1946.46,
+      "text": "prendete gli insegnamenti sul posizionamento di marca cercate di continuare a crescere se vi"
+    },
+    {
+      "start": 1946.46,
+      "end": 1951.62,
+      "text": "siete per andate sul canale ragazzi rimanete sul canale cliccate la campanella degli avvisi mettete like"
+    },
+    {
+      "start": 1951.62,
+      "end": 1956.9,
+      "text": "cortesemente ok mettete che vi piace pollicino in su al video che ci aiutate fate le domande sotto al"
+    },
+    {
+      "start": 1956.9,
+      "end": 1963.06,
+      "text": "video commentate è importante condividete video e soprattutto andate a ritroso a vedervi tutti i"
+    },
+    {
+      "start": 1963.06,
+      "end": 1967.1,
+      "text": "video che abbiamo cominciato a fare da qualche giorno a questa parte il primo è stato in ordine"
+    },
+    {
+      "start": 1967.1,
+      "end": 1971.36,
+      "text": "cronologico andate nella sezione live ve le recuperate la sezione live del canale dall'estate"
+    },
+    {
+      "start": 1971.36,
+      "end": 1975.26,
+      "text": "a venire in su quindi a quello dove parlavo dall'estate a venire in su sono praticamente tutti i"
+    },
+    {
+      "start": 1975.26,
+      "end": 1983.26,
+      "text": "video dove parlò di tutti gli aspetti del del posizionamento di marca dei problemi dell'estensione"
+    },
+    {
+      "start": 1983.26,
+      "end": 1987.86,
+      "text": "linea eccetera eccetera se volete un riassunto a me farebbe piacere a parte gli scherzi sapete che"
+    },
+    {
+      "start": 1987.86,
+      "end": 1991.22,
+      "text": "vi dico solo a dettaglio bisogno di un cazzo che è la roba avete visto i libri di regalo quando"
+    },
+    {
+      "start": 1991.22,
+      "end": 1996.62,
+      "text": "possono non ce l'ho il link per regalarlo siate carini prendetelo ok a me farebbe piacere che voi"
+    },
+    {
+      "start": 1996.62,
+      "end": 2001.72,
+      "text": "riguarda ste anche le dirette se le avete già viste dopo che avete studiato con questo sottomano se"
+    },
+    {
+      "start": 2001.72,
+      "end": 2005.92,
+      "text": "voi avete questo sottomano quando qualcuno vi parla del posizionamento mavi e dubbi cosa del"
+    },
+    {
+      "start": 2005.92,
+      "end": 2011.62,
+      "text": "genere voi avete tutte le risposte che vi servono tutte poi se avete voglia avete tempo e sapete"
+    },
+    {
+      "start": 2011.62,
+      "end": 2015.64,
+      "text": "leggere in inglese existe focus in italiano altri libri di orris e di jack trot in italiano studiatevi"
+    },
+    {
+      "start": 2015.64,
+      "end": 2019.66,
+      "text": "di tutti quelli che non ci sono andate a recuperare in inglese per l'amore di dio ma partite da questo"
+    },
+    {
+      "start": 2019.66,
+      "end": 2024.46,
+      "text": "questo manuale che vi dà tutte le risposte concrete con gli esempi più aggiornati possibili e tutte le"
+    },
+    {
+      "start": 2024.46,
+      "end": 2029.32,
+      "text": "analisi storiche quindi riguardatevi grazie alla luce che questo è il vostro questa deve essere la"
+    },
+    {
+      "start": 2029.32,
+      "end": 2035.44,
+      "text": "vostra bibbia del posizionamento se avete questa va bene ok ma non per ragazzi fare a voi non deve"
+    },
+    {
+      "start": 2035.44,
+      "end": 2040.42,
+      "text": "interessare diventare gli spiegatori del marketing ci penso io mi sono cercate di diventare dei"
+    },
+    {
+      "start": 2040.42,
+      "end": 2045.1,
+      "text": "conoscitori come vi ho detto il vostro settore voi dovete essere un esperto di marketing il vostro"
+    },
+    {
+      "start": 2045.1,
+      "end": 2050.1,
+      "text": "settore e quindi saper fare queste cose è complesso ragazzi voi non dovete seguire la gente che vi"
+    },
+    {
+      "start": 2050.1,
+      "end": 2056.98,
+      "text": "racconta le cazzate come ho fatto i soldi 200 mila euro facendo il lancio con i brufoli da naso come mi"
+    },
+    {
+      "start": 2056.98,
+      "end": 2062.98,
+      "text": "sono scaccolato online durante un webinar sono diventato multimilionario smettetela di di seguire"
+    },
+    {
+      "start": 2062.98,
+      "end": 2068.86,
+      "text": "quelle stronzate lì voi dovete studiare il marketing vero e dovete studiare la storia studiatelo a livello"
+    },
+    {
+      "start": 2068.86,
+      "end": 2072.7,
+      "text": "ma non perché volete fare gli spiegatori smettetevele che non è il vostro compito il vostro compito è"
+    },
+    {
+      "start": 2072.7,
+      "end": 2077.74,
+      "text": "studiare con questo atteggiamento in questo vi serve per capire e poi gli insegnamenti che"
+    },
+    {
+      "start": 2077.74,
+      "end": 2083.6,
+      "text": "cogliete dal canale ok dal libro eccetera eccetera li riportate nel vostro settore per prendere le"
+    },
+    {
+      "start": 2083.6,
+      "end": 2087.86,
+      "text": "decisioni giuste dovete diventare esperti di marketing del vostro settore perché la reti"
+    },
+    {
+      "start": 2087.86,
+      "end": 2093.74,
+      "text": "la gente viene a fare anche le consulente con le consulenze come nove di studenti storici che vengono"
+    },
+    {
+      "start": 2093.74,
+      "end": 2097.64,
+      "text": "a tanti anni ma perché hanno capito nel senso non è che voi ci dovete venire ma è proprio il contrario"
+    },
+    {
+      "start": 2097.64,
+      "end": 2103.1,
+      "text": "però dico viene perché perché lui si concentra su un certo metodo di anche andare a lavorare e quindi"
+    },
+    {
+      "start": 2103.1,
+      "end": 2107.6,
+      "text": "quando c'è da da fare da prendere decisioni strategiche compro un capannone in romania freg non"
+    },
+    {
+      "start": 2107.6,
+      "end": 2112.58,
+      "text": "lo compro faccio questo lancio questo prodotto come lo chiamo lo faccio rosa lo faccio me lo vengono"
+    },
+    {
+      "start": 2112.58,
+      "end": 2117.56,
+      "text": "a chiedere perché fanno prima è così possono andare a lavorare e solo quello ragazzi però è gente che"
+    },
+    {
+      "start": 2117.56,
+      "end": 2121.76,
+      "text": "non è che lo fa dall'ignoranza dobbiamo stare lì a litigare gente che mi segue da tanti anni studia"
+    },
+    {
+      "start": 2121.76,
+      "end": 2127.58,
+      "text": "e come faccio io ok cioè io per confronto quando devo fare una cosa prima lo fa prima lo facevo con"
+    },
+    {
+      "start": 2127.58,
+      "end": 2134.0,
+      "text": "alle laura adesso che non c'è più mi confronto con laura ma non perché lei necessariamente sappia delle"
+    },
+    {
+      "start": 2134.0,
+      "end": 2138.56,
+      "text": "cose più di me o io sapere cosa dire perché due persone intelligenti che sono sullo stesso sulla"
+    },
+    {
+      "start": 2138.56,
+      "end": 2144.14,
+      "text": "stessa frequenza tirano fuori dei ragionamenti anche insieme io mi sono fissato su una cosa se"
+    },
+    {
+      "start": 2144.14,
+      "end": 2148.58,
+      "text": "uno da fuori non me la fa notare non ci arrivo quindi io chiedo consulenze per me con i miei"
+    },
+    {
+      "start": 2148.58,
+      "end": 2152.6,
+      "text": "insegnanti ora si continua a studiare ma non è perché non so le cose perché poi quando le devo"
+    },
+    {
+      "start": 2152.6,
+      "end": 2157.46,
+      "text": "fare per me io magari ho dei bias cognitivi mi sono impippato su una cosa che aspetta magari io"
+    },
+    {
+      "start": 2157.46,
+      "end": 2162.32,
+      "text": "questa cosa ci credo perché è mia la voglio fare perché nello scemo dentro di me mi dice di"
+    },
+    {
+      "start": 2162.32,
+      "end": 2167.9,
+      "text": "farla ma mi selettivamente un bias cognitivo che mi sta facendo rimuovere una delle leggi del"
+    },
+    {
+      "start": 2167.9,
+      "end": 2173.42,
+      "text": "marketing invece dovrei rispettare ok quindi signore buongiorno esiste auto lì audio libero no mi"
+    },
+    {
+      "start": 2173.42,
+      "end": 2179.12,
+      "text": "dispiace purtroppo te lo trovi leggere che andrea dice uno dei più belli come il bra assolutamente per"
+    },
+    {
+      "start": 2179.12,
+      "end": 2183.56,
+      "text": "me sono orgogliosi averne fatto parte ma sono molto contento perché ci sono tutti gli insegnamenti"
+    },
+    {
+      "start": 2183.56,
+      "end": 2191.06,
+      "text": "quindi ragazzi bacione vi bacio vi abbraccio ok quindi iscrivetevi al canale invitate persone"
+    },
+    {
+      "start": 2191.06,
+      "end": 2196.88,
+      "text": "iscrivetevi al canale commentate cliccate la campanella degli avvisi ok ma portate tante"
+    },
+    {
+      "start": 2196.88,
+      "end": 2200.9,
+      "text": "persone iscriversi al canale io continuerò a fare video fatemi le domande sotto i video che vedete io"
+    },
+    {
+      "start": 2200.9,
+      "end": 2206.06,
+      "text": "continuo a prepararvi le lezioni che possono esservi utili ok quindi sarete apprezzato mettete like"
+    },
+    {
+      "start": 2206.06,
+      "end": 2213.56,
+      "text": "ragazzi che serve veramente tanto e ci vediamo alla prossima ciao fermo dove credi di andare te ne"
+    },
+    {
+      "start": 2213.56,
+      "end": 2218.78,
+      "text": "stavi andando senza iscriverti al canale vero vedi di non farmi arrabbiare iscriviti subito e"
+    },
+    {
+      "start": 2218.78,
+      "end": 2223.08,
+      "text": "attiva la campanellina non vorrei mica perderti la prossima diretta con tutte le strategie utili"
+    },
+    {
+      "start": 2223.08,
+      "end": 2224.72,
+      "text": "per raggiungere il successo, giusto?"
+    },
+    {
+      "start": 2226.86,
+      "end": 2227.64,
+      "text": "Allora, fai bene."
+    }
+  ]
+}
