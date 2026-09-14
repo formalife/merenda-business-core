@@ -16,6 +16,37 @@ L'azienda deve quindi conoscere:
 
 Senza questa aspettativa non esiste un trigger oggettivo di riattivazione.
 
+## Segmentare il portafoglio con RFM e storico acquisti
+
+Una fonte del 18 marzo 2025 aggiunge un livello operativo al monitoraggio dei clienti: leggere il portafoglio almeno con tre variabili note come **RFM**.
+
+- **Recency / recenza** — quanto tempo è passato dall'ultimo acquisto;
+- **Frequency / frequenza** — quanto spesso la persona compra;
+- **Monetary value / valore monetario** — quanto valore economico genera nel periodo osservato.
+
+La finestra temporale non è universale: settimana, mese, trimestre, semestre o anno dipendono dal normale ciclo d'acquisto.
+
+RFM va affiancato, quando possibile, allo **storico di che cosa il cliente compra**. In questo modo il CRM non serve soltanto a individuare chi si sta fermando, ma anche a costruire opportunità coerenti di:
+
+- riacquisto;
+- upsell verso una versione superiore;
+- cross-sell verso bisogni adiacenti;
+- riattivazione quando recenza/frequenza deviano dal comportamento atteso.
+
+Il modello non autorizza offerte indiscriminate: il prodotto successivo deve essere appropriato al cliente e alla relazione.
+
+### Usare la deviazione come trigger
+
+Il valore di RFM è relativo al comportamento normale.
+
+Un cliente che compra ogni settimana e manca tre cicli richiede una lettura diversa da uno che compra una volta l'anno. Per questo il trigger di riattivazione va costruito confrontando:
+
+**comportamento atteso ↔ comportamento osservato.**
+
+Questo rafforza la definizione già presente in questo documento: “cliente fermo” significa cliente che ha superato la finestra di ritorno ragionevole per quel modello, non semplicemente qualcuno che non compra da un numero arbitrario di giorni.
+
+Fonte: [Come Far Esplodere Le Vendite Senza Acquisire Nuovi Clienti](https://www.youtube.com/watch?v=t-rvhD0P5Iw), 18 marzo 2025. [Revisione](../../sources/transcripts/t-rvhD0P5Iw.review.md).
+
 ## Il CRM deve segnalare l'assenza prima che diventi abbandono
 
 Il CRM o, in una fase iniziale, un controllo manuale deve individuare chi sta uscendo dalla frequenza attesa.
