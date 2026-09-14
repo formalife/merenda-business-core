@@ -198,3 +198,29 @@ Quindi bisogna chiedere sempre **chi incassa, chi sostiene il costo e chi soppor
 Questo vale anche nel franchising: la convenienza del franchisor e quella del singolo affiliato non sono automaticamente identiche.
 
 Fonte: [CHI Guadagna DAVVERO dalle Estensioni di Linea?](https://www.youtube.com/watch?v=b9iVR8qJn-A), 8 dicembre 2023.
+
+## Quattro leve economiche per far crescere il sistema
+
+Nel materiale del 28 gennaio 2025 Merenda propone una mappa semplice per capire dove intervenire quando si vuole far crescere il risultato economico:
+
+1. **traffico** — più persone appropriate entrano nel sistema;
+2. **conversione** — una quota maggiore compie il passo desiderato;
+3. **prezzo / valore medio** — aumenta il valore economico di ciò che viene comprato;
+4. **retention** — diminuisce l'abbandono e aumenta la durata della relazione.
+
+La mappa serve come filtro: un'attività di marketing dovrebbe poter essere collegata almeno a una di queste leve e poi misurata sul risultato prodotto.
+
+### Scalare il traffico finché regge l'economia marginale
+
+Una campagna che funziona non va mantenuta artificialmente allo stesso budget per paura di spendere di più. Merenda suggerisce di aumentare progressivamente l'investimento sulle campagne che producono risultati, continuando a misurare.
+
+Allargando il pubblico o aumentando il traffico è normale che il costo marginale di acquisizione possa peggiorare. La domanda non è quindi “il costo è salito?”, ma:
+
+**il nuovo costo di acquisizione resta sostenibile rispetto a margine, LTV, payback e capacità dell'azienda?**
+
+Quando la risposta è sì, l'aumento di costo può essere compatibile con una crescita profittevole. Quando l'economia non regge più, budget e targeting vanno corretti o spostati su altri test.
+
+Le proporzioni numeriche citate nel video fra CAC e LTV non vengono consolidate come soglia universale.
+
+Fonte: [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s), 28 gennaio 2025. [Revisione](../../sources/transcripts/PLIAmuNzx_s.review.md).
+

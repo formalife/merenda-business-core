@@ -200,7 +200,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 190 | H_dkTYpFb8I | da acquisire | [Email Marketing: The Campaign No One Ever Taught You](https://www.youtube.com/watch?v=H_dkTYpFb8I) | 3629.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 191 | mDBoBf6qugE | 20250313 | [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www.youtube.com/watch?v=mDBoBf6qugE) | 3618.0 | 03_offerta | 2 | STUDIATO | videos |
 | 192 | yu6t8pXgzMA | 20250130 | [Landing Page Imbattibili: 7 Metodi Testati Per Migliorare Le Conversioni [In Ogni Settore]](https://www.youtube.com/watch?v=yu6t8pXgzMA) | 1064.0 | 05_acquisizione | 2 | STUDIATO | videos |
-| 193 | PLIAmuNzx_s | 20250128 | [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s) | 1238.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 193 | PLIAmuNzx_s | 20250128 | [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s) | 1238.0 | 09_business | 2 | STUDIATO | videos |
 | 194 | GEWf_KjMfhI | 20240809 | [La CAMPAGNA GOOGLE ADS Che La Tua Web Agency NON Sa Fare](https://www.youtube.com/watch?v=GEWf_KjMfhI) | 474.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 195 | SK338MdNIy0 | 20240627 | [The Easiest Way to Market and Get Clients [Now]](https://www.youtube.com/watch?v=SK338MdNIy0) | 529.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 196 | TF9UGPSLxSw | 20230629 | [Come fare campagne online per trovare clienti - La creazione della promessa](https://www.youtube.com/watch?v=TF9UGPSLxSw) | 867.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
