@@ -17,6 +17,20 @@ Criteri (vedi checkpoint per motivazione estesa):
   -> default C.
 - Shorts -> default C (coerente con 0/9 incrementali osservato nel batch 176-184),
   MAI saltati: restano da studiare con revisione rapida.
+
+Checkpoint 225 — valutazione di un segnale di recenza automatico (non applicato):
+Il video 225 (WCP26HC6wd0) era classe C perché short, ma ha introdotto la
+formulazione 2025 prevalente sul front-end. È stata verificata la possibilità di
+usare `upload_date` da sources/catalog.json per promuovere automaticamente gli
+short/stream recenti da C a B. Verificato che il dato non è utilizzabile:
+`upload_date` è assente per la maggioranza degli short residui (solo 27/109 shorts
+nell'intero catalogo hanno una data, 0/46 negli short ancora DA STUDIARE al
+checkpoint 225) ed è assente anche nella riga dello stesso WCP26HC6wd0. Anche un
+euristica sul titolo (titoli in inglese come proxy di contenuto 2024+) è stata
+verificata e scartata: produce troppi falsi positivi (titoli inglesi esistono già
+dal 2016). Nessuna modifica automatica è stata applicata alla funzione `classify`.
+La correzione operativa resta la regola di promozione manuale durante la FAST
+REVIEW, esplicitata nell'artefatto generato (vedi funzione `main`).
 """
 import json
 import re
@@ -124,6 +138,16 @@ def main():
     lines.append('Artefatto prodotto al checkpoint 200 (FASE 14 + FASE 15).')
     lines.append('')
     lines.append('**Non modifica lo stato di alcun contenuto.** Tutti i 268 contenuti restano `DA STUDIARE` e dovranno comunque ricevere transcript, revisione, categoria finale e stato (`STUDIATO` o `ESCLUSO` motivato) quando processati da ChatGPT/Codex nei batch successivi. La classificazione stabilisce solo la **profondità iniziale suggerita** della revisione semantica, secondo le regole descritte in `scripts/classify_residual.py` e nel checkpoint.')
+    lines.append('')
+    lines.append('## Regola di promozione per recenza (aggiornata al checkpoint 225)')
+    lines.append('')
+    lines.append('Il video 225 (`WCP26HC6wd0`) era classe **C** perché short, ma ha introdotto una formulazione del 17 novembre 2025 prevalente sul front-end rispetto a fonti 2022. Questo conferma che **C significa FAST REVIEW, mai SKIP**.')
+    lines.append('')
+    lines.append('`upload_date` in `sources/catalog.json` non è un segnale automatizzabile per promuovere C -> B prima della revisione: è assente per la maggioranza degli short residui (compreso lo stesso 225 prima di essere studiato). La promozione per recenza resta quindi una **verifica manuale durante la FAST REVIEW**, non una regola del classificatore:')
+    lines.append('')
+    lines.append('- durante la lettura veloce di un contenuto C, controllare la data di pubblicazione reale sulla pagina YouTube (non solo il catalogo);')
+    lines.append('- se il contenuto tratta un nodo già presente in KB con una data successiva alla fonte canonica più recente già integrata, promuovere immediatamente a B (o A se introduce anche cifre/framework/procedure non ancora documentati);')
+    lines.append('- questa regola si aggiunge, senza sostituirle, alle promozioni già previste (cifra/soglia operativa nuova, framework con nome proprio nuovo, formulazione che sembra contraddire un principio consolidato).')
     lines.append('')
     lines.append('## Riepilogo')
     lines.append('')

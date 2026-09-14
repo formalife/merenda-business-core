@@ -1,12 +1,10 @@
-# Checkpoint 225 — pre-handoff FASE 14
+# Checkpoint 225 — FASE 14 — report definitivo
 
-Stato raggiunto dopo completamento tecnico e semantico del batch **201–225**.
+Eseguito da Claude Code sullo stato canonico `main` allo SHA `153f9d3af848851405a1323c0510e2885477a4e9` ("Prepare checkpoint 225 handoff for Claude").
 
-Branch semantico: `semantic-201-225`  
-Base tecnica del batch: `557132457a3616a7040101d09abb03624f26f212`  
-Ultimo commit semantico prima del checkpoint: `3a1b8ad5239e10a798d25e0cf2107312c6776a3d`
+Nessun contenuto 226+ è stato processato semanticamente durante questo checkpoint. Nessuna acquisizione tecnica è stata eseguita. Nessun file frozen è stato modificato. Formalife non è stata introdotta nella KB (verificato con ricerca case-insensitive su `merenda/`: nessuna corrispondenza).
 
-## Stato corpus
+## Stato al raggiungimento della soglia (invariato rispetto al pre-handoff)
 
 - Video individuati: **468**
 - Contenuti processati semanticamente: **225**
@@ -14,163 +12,170 @@ Ultimo commit semantico prima del checkpoint: `3a1b8ad5239e10a798d25e0cf2107312c
 - `ESCLUSO`: **6**
 - `DA STUDIARE`: **243**
 - Corpus completo: **NO**
-- Batch tecnico 201–225: **25/25 utilizzabili**
-- Batch semantico 201–225: **25/25 completato**
-- Review create nel batch: **25**
-- Nuovi `ESCLUSO` nel batch: **0**
-- Nessun contenuto 226+ processato semanticamente.
 
-## Novelty yield 201–225
+## FASE 14 — Refactor KB
 
-**6/25 = 24%** di contenuti incrementali.
+### Metodo
 
-Contenuti che hanno modificato la KB:
+Rilettura mirata dell'intera `merenda/` (42 file: 11 README + INDEX + 30 documenti di contenuto):
 
-1. **201 — `vD7zMl6YXzs`** — granularità economica per sorgente di acquisizione e, quando confrontabile, per venditore.
-2. **211 — `WtyLO1gMqVI`** — concentrare risorse limitate su una coorte finita di prospect ad alta priorità.
-3. **212 — `TrY_mDjr7I4`** — scala coerente di offerte nella prima relazione: ingresso → add-on → riduzione del rischio → ponte → continuità.
-4. **216 — `of0ppir9sq4`** — evitare calendari promozionali prevedibili che insegnano al mercato ad aspettare lo sconto.
-5. **220 — `HwlqYf73Ctk`** — ridurre il rischio reputazionale di chi presenta un referral e selezionare/promuovere referrer appropriati.
-6. **225 — `WCP26HC6wd0`** — formulazione più recente del front-end: ridurre la barriera con una porzione d'ingresso oppure con forte risk reversal sul prodotto pieno, senza rendere obbligatorio lo sconto del core offer.
+1. lettura integrale dei **cinque file KB modificati dal batch 201–225** (`appropriatezza-clienti.md`, `front-end-e-back-end.md`, `prezzo-premium-e-percezione-del-valore.md`, `referral-e-soddisfazione.md`, `numeri-cassa-e-crescita.md`);
+2. lettura integrale dei documenti di confine indicati dalla governance per il punto A (`offerta-a-risposta-diretta.md`, `funnel-e-conversione.md`) per verificare sovrapposizioni con la nuova formulazione 2025 sul front-end;
+3. lettura di tutti gli 11 README di sezione e dell'INDEX per verificare routing e sintesi;
+4. lettura integrale di un campione trasversale di documenti di contenuto non toccati dal batch, distribuito su più categorie (`clienti-identificabili-e-target.md`, `clienti-altospendenti.md`, `quattro-domande-prima-di-lanciare.md`, `database-email-e-sequenze.md`), per verificare che l'assenza di intervento strutturale non fosse un artefatto di aver guardato solo i file toccati;
+5. verifica automatizzata e sistematica, su tutti i 30 documenti di contenuto e gli 11 README, di: link interni rotti, file orfani (non referenziati da alcun README o da altri documenti), copertura README → documento.
 
-Gli altri **19/25** sono stati letti e deduplicati senza gonfiare la KB.
+### Esito
 
-## File KB modificati
+**Nessuna modifica strutturale alla KB è stata necessaria.** Decisione documentata di NON intervenire, con motivazione:
 
-1. `merenda/01_mercato/appropriatezza-clienti.md`
-2. `merenda/03_offerta/front-end-e-back-end.md`
-3. `merenda/03_offerta/prezzo-premium-e-percezione-del-valore.md`
-4. `merenda/05_acquisizione/referral-e-soddisfazione.md`
-5. `merenda/09_business/numeri-cassa-e-crescita.md`
+1. **I cinque file modificati dal batch sono già ben integrati, senza duplicazioni.** Ogni integrazione (201, 211, 212, 216, 220, 225) è collocata nella sezione pertinente, con fonte, data e — quando esiste una fonte precedente incompatibile — marcatura esplicita "fonte precedente" / "fonte più recente" e spiegazione della prevalenza. Nessun paragrafo ripete un principio già presente altrove nello stesso file o in un file di confine.
+2. **Nessuna sovrapposizione nuova tra `front-end-e-back-end.md`, `offerta-a-risposta-diretta.md`, `prezzo-premium-e-percezione-del-valore.md` e `funnel-e-conversione.md`.** Il confine resta quello già confermato al checkpoint 200: front-end/back-end tratta la sequenza economica degli acquisti nel tempo e la barriera d'ingresso; offerta a risposta diretta tratta le caratteristiche strutturali dell'offerta (compresa la garanzia come trasferimento generale del rischio, non specifica al front-end); pricing tratta le leve di presentazione/percezione del prezzo; funnel tratta le tappe diagnostiche del percorso. La nuova sezione "Ridurre la barriera senza svalutare il prodotto principale" (225, 17 novembre 2025) resta l'unica sede della formulazione 2025 sul front-end; non è stata duplicata né in `offerta-a-risposta-diretta.md` (che già tratta la garanzia come principio generale, coerente e non ridondante) né in `prezzo-premium-e-percezione-del-valore.md`.
+3. **Il calendario promozionale prevedibile (216) è collocato correttamente.** La sezione "Non trasformare lo sconto in un calendario prevedibile" in `prezzo-premium-e-percezione-del-valore.md` è l'unica sede del principio, correttamente vicina alle altre sezioni su sconto/pricing dello stesso file, e non duplica `front-end-e-back-end.md`.
+4. **Il referral (220) è collocato correttamente in `referral-e-soddisfazione.md`**, come sezione distinta ("Proteggere la reputazione di chi presenta") dalla procedura di sistematizzazione del 2024, con nota esplicita che le percentuali del video non diventano benchmark e che il materiale 2024 resta prevalente sulla procedura generale.
+5. **La concentrazione su coorte prioritaria (211) è collocata correttamente in `appropriatezza-clienti.md`**, come applicazione operativa del principio di appropriatezza già presente nel file, senza necessità di spostamento verso `05_acquisizione`.
+6. **La granularità per sorgente/venditore (201) è collocata correttamente in `numeri-cassa-e-crescita.md`.** Il file resta un nodo coeso (286 righe, +23 rispetto al checkpoint 200): tutte le sezioni restano dentro il perimetro "economia del sistema di acquisizione/crescita". Non è stato individuato un confine concettuale che giustifichi uno split: la nuova sezione "Leggere acquisizione e valore per sorgente e per venditore" è un affinamento dello stesso tema CAC/payback già trattato subito sopra, non un argomento distinto.
+7. **Nessun file orfano.** Verifica automatizzata: tutti i 30 documenti di contenuto sono referenziati da almeno un altro documento della KB o dal proprio README di sezione; ogni README referenzia tutti i file di contenuto della propria cartella.
+8. **Nessun collegamento rotto.** Verifica automatizzata su tutti i link Markdown interni a `merenda/`: 0 broken link.
+9. **Nessuna contaminazione Formalife.** Verifica automatizzata (ricerca case-insensitive): 0 corrispondenze in `merenda/`.
+10. **Prevalenza delle fonti recenti rispettata ovunque controllato.** In tutti e cinque i file del batch, e nei file di confine letti, le formulazioni più recenti sono esplicitamente marcate come prevalenti quando esiste una fonte precedente incompatibile; nessuna regola concorrente attiva è stata trovata.
 
-Nessun nuovo file KB è stato creato nel batch.
+Non sono stati eseguiti interventi cosmetici (nessuna modifica al solo scopo di ridurre righe, rinominare file o riorganizzare senza beneficio semantico concreto), in linea con l'indicazione esplicita della governance.
 
-## Routing finale 201–225
+## Focus specifici richiesti dalla governance (§8 dell'istruzione)
 
-| Pos. | ID | Categoria finale | Novelty |
-|---:|---|---|---|
-| 201 | `vD7zMl6YXzs` | `09_business` | SÌ |
-| 202 | `QJUjdX0zglA` | `05_acquisizione` | no |
-| 203 | `uayjrQ6GWQc` | `05_acquisizione` | no |
-| 204 | `nAqH9enAM1U` | `05_acquisizione` | no |
-| 205 | `R22IWnVNYus` | `09_business` | no |
-| 206 | `zfmFg5L7VDU` | `06_vendita` | no |
-| 207 | `saBj3DmgsCg` | `05_acquisizione` | no |
-| 208 | `-lqseFTfCzk` | `09_business` | no |
-| 209 | `C4IfIcOkwdE` | `05_acquisizione` | no |
-| 210 | `aEv9F66CZqA` | `09_business` | no |
-| 211 | `WtyLO1gMqVI` | `01_mercato` | SÌ |
-| 212 | `TrY_mDjr7I4` | `03_offerta` | SÌ |
-| 213 | `_CPcSMMzIY0` | `06_vendita` | no |
-| 214 | `I-YCFdXNSO0` | `02_posizionamento` | no |
-| 215 | `bLmGe86nDAA` | `05_acquisizione` | no |
-| 216 | `of0ppir9sq4` | `03_offerta` | SÌ |
-| 217 | `bY6Lb0Dld88` | `05_acquisizione` | no |
-| 218 | `JQXoKKwneBQ` | `05_acquisizione` | no |
-| 219 | `ji8rHHO_KHY` | `05_acquisizione` | no |
-| 220 | `HwlqYf73Ctk` | `05_acquisizione` | SÌ |
-| 221 | `G0fxszrL9_M` | `06_vendita` | no |
-| 222 | `0rM-F7msbkA` | `04_marketing` | no |
-| 223 | `sUkGSSqTq3c` | `05_acquisizione` | no |
-| 224 | `pJZSih3Lguw` | `03_offerta` | no |
-| 225 | `WCP26HC6wd0` | `03_offerta` | SÌ |
+### A. Front-end e back-end
 
-Distribuzione finale del batch:
+Confermato: la formulazione 2025 (225) prevale esplicitamente su quella storica (212, 2022) tramite frase esplicita nel documento ("Questa fonte descrive un'architettura storica del sistema. Per la progettazione attuale del front-end prevale anche il materiale più recente del 2025..."). Il confine con `offerta-a-risposta-diretta.md` e `prezzo-premium-e-percezione-del-valore.md` resta pulito (vedi punto 2 sopra). Nessuna modifica necessaria.
 
-- `01_mercato`: 1
-- `02_posizionamento`: 1
-- `03_offerta`: 4
-- `04_marketing`: 1
-- `05_acquisizione`: 11
-- `06_vendita`: 3
-- `09_business`: 4
+### B. Pricing e promozioni
 
-Tutti i 25 erano preliminarmente instradati in `05_acquisizione`. La dispersione finale conferma che il routing preliminare di coda non deve sostituire la classificazione semantica.
+Confermato: il principio "non educare il mercato ad aspettare lo sconto" (216) è collocato in `prezzo-premium-e-percezione-del-valore.md`, correttamente qualificato come cautela di frequenza/prevedibilità e non come divieto assoluto, con nota esplicita sulla precedenza temporale rispetto al materiale 2024–2025 sul pricing. Nessuna duplicazione con altre sezioni sullo sconto nello stesso file.
 
-## A/B/C — verifica empirica sul primo batch classificato
+### C. Referral
 
-Classificazione pre-batch prodotta al checkpoint 200:
+Confermato: l'elemento del rischio reputazionale (220) è distinto e ben separato dalla procedura di sistematizzazione (2024) in `referral-e-soddisfazione.md`. Nessuna sovrapposizione con `appropriatezza-clienti.md` (qualità dei clienti) oltre ai link incrociati già presenti.
 
-- **A:** 2 contenuti (206, 208) → **0/2 incrementali**
-- **B:** 19 contenuti → **5/19 incrementali**
-- **C:** 4 contenuti (218, 219, 224, 225) → **1/4 incrementale**
+### D. Appropriatezza e concentrazione
 
-Il dato più importante è **225**: era classe C perché short, ma ha introdotto una formulazione del **17 novembre 2025** più recente e prevalente sul front-end.
+Confermato: il principio di concentrazione su coorte finita (211) è collocato in `appropriatezza-clienti.md` come applicazione del principio di appropriatezza, con nota esplicita che il "Top 100" è un esempio e non un numero universale. Nessuno spostamento necessario verso acquisizione/target.
 
-Conclusione operativa:
+### E. Numeri e acquisizione
 
-- la classe C ha funzionato correttamente solo perché è rimasta **FAST REVIEW, non SKIP**;
-- la regola di promozione C → B/A quando emerge novità resta obbligatoria;
-- la recenza dovrebbe essere rivalutata come possibile segnale che può impedire a uno short di essere classificato automaticamente C;
-- il singolo batch non basta per riscrivere la governance, ma è evidenza concreta da esaminare in FASE 14 e nei checkpoint successivi.
+Confermato: la granularità per sorgente/venditore (201) è integrata in `numeri-cassa-e-crescita.md` senza necessità di split. Il file (286 righe) non è stato diviso: non esiste ora un confine concettuale migliore di quello già presente (i temi restano tutti dentro "economia del sistema di acquisizione/crescita" — ROI, CAC, cassa, LTV, leve di crescita).
 
-## Limite tecnico video 218
+## Routing finale del batch 201–225 (confermato)
 
-Per `JQXoKKwneBQ` il JSON3 termina **125,61 s oltre** la durata metadata.
+| Categoria | N |
+|---|---:|
+| 01_mercato | 1 |
+| 02_posizionamento | 1 |
+| 03_offerta | 4 |
+| 04_marketing | 1 |
+| 05_acquisizione | 11 |
+| 06_vendita | 3 |
+| 09_business | 4 |
 
-La review semantica:
+Confermato che il routing preliminare di coda (tutti e 25 in `05_acquisizione`) non ha sostituito la classificazione semantica finale.
 
-- ha usato il testo come fonte utilizzabile;
-- non ha inventato offset o correzioni;
-- non ha usato timestamp/keyframe della porzione problematica come evidenza precisa.
+## A/B/C — verifica empirica e decisione sul classifier
 
-Il limite resta documentato in `sources/queue/acquisition-progress.md` e nella review del video.
+Risultato osservato nel batch 201–225:
 
-## Verifiche remote eseguite
+- **A:** 2 contenuti classificati → **0/2 incrementali**
+- **B:** 19 contenuti classificati → **5/19 incrementali**
+- **C:** 4 contenuti classificati (218, 219, 224, 225) → **1/4 incrementale**
 
-Confronto `557132457a3616a7040101d09abb03624f26f212...semantic-201-225`:
+Il caso rilevante resta **225 (`WCP26HC6wd0`)**: classe C perché short, ma ha introdotto la formulazione 2025 prevalente sul front-end. Conferma che **C significa FAST REVIEW, mai SKIP**.
 
-- branch semantico avanti di **25 commit**, indietro di **0**;
-- esattamente **25 nuovi file `.review.md`**;
-- modifiche semantiche limitate a catalogo/indice/queue + i 5 file KB sopra;
-- **nessun file frozen modificato**;
-- nessun asset/review 226+ introdotto semanticamente.
+### Indagine sul segnale di recenza
 
-Confronto `main...semantic-201-225` prima del checkpoint:
+È stata valutata la proposta della governance: usare la data di pubblicazione per contrastare il segnale "short = alto rischio duplicazione" nel classificatore `scripts/classify_residual.py`.
 
-- `main`: `6304bdc7d3ae4d3fb6d2a22e94f87082eb727bc3`
-- branch semantico avanti di **51 commit**, indietro di **0**
-- composizione attesa: **26 commit tecnici + 25 commit semantici**.
+**Verificato e documentato (non applicato come regola automatica):**
 
-## Validator
+- il campo `upload_date` di `sources/catalog.json` è **assente per la maggioranza degli short**: solo 27/109 short nell'intero catalogo hanno una data, **0/46 negli short ancora `DA STUDIARE`** al checkpoint 225;
+- è assente **anche nella riga dello stesso `WCP26HC6wd0`** (il caso che ha motivato la richiesta), sia prima sia dopo essere stato processato — quindi un ipotetico filtro automatico su questo campo non avrebbe comunque intercettato il caso che lo ha ispirato;
+- è stata verificata anche un'euristica alternativa (titolo in inglese come proxy di contenuto 2024+, osservato empiricamente in molte fonti recenti incluso il 225): scartata perché produce troppi falsi positivi — titoli in inglese esistono nel catalogo già dal 2016 (es. `44NmOABcDCc`, 8 settembre 2016).
 
-Ultima validazione locale certa, eseguita nel batch tecnico prima della semantica:
+**Conclusione:** nessuna modifica automatica alla funzione `classify()` in `scripts/classify_residual.py`, perché non esiste nel dato strutturato attuale un segnale sufficientemente affidabile da giustificare una promozione automatica C→B senza aumentare i falsi positivi o mancare comunque il caso reale che ha motivato la richiesta.
+
+**Modifica applicata (documentazione, non logica):** è stata aggiunta al file generato `reviews/RESIDUAL_CLASSIFICATION_201-468.md` — e al docstring dello script che lo produce — una sezione esplicita "Regola di promozione per recenza", che istruisce chi esegue la FAST REVIEW a:
+
+1. controllare la data di pubblicazione reale sulla pagina YouTube del video (non solo il catalogo, spesso privo del dato per gli short);
+2. promuovere immediatamente C→B (o C/B→A se compaiono anche cifre/framework/procedure nuove) quando il contenuto tratta un nodo già presente in KB con data successiva alla fonte canonica più recente già integrata;
+3. questa regola si aggiunge, senza sostituirle, alle promozioni già previste dal checkpoint 200 (cifra/soglia operativa nuova, framework con nome proprio nuovo, formulazione che sembra contraddire un principio consolidato).
+
+L'artefatto `reviews/RESIDUAL_CLASSIFICATION_201-468.md` è stato **rigenerato** eseguendo `python3 scripts/classify_residual.py`. La rigenerazione riflette anche l'avanzamento naturale del corpus (residuo sceso da 268 a 243 contenuti, poiché 201–225 non sono più `DA STUDIARE`): A=44 (18%), B=140 (58%), C=59 (24%). **Nessuna riga non appartenente al blocco 201–225 è stata rimossa o riclassificata**: verificato che tutte le 25 righe scomparse dall'artefatto corrispondono esattamente ai 25 contenuti ora `STUDIATO`/`ESCLUSO` del batch appena processato; nessuna altra riga del residuo 226–468 ha cambiato classe o motivazione.
+
+Nessuna modifica ai file frozen.
+
+## Limite tecnico video 218 (confermato, non toccato)
+
+`JQXoKKwneBQ`: il JSON3 termina 125,61 s oltre la durata metadata. Non è stata tentata alcuna correzione del transcript durante questo checkpoint, come richiesto. Il limite resta documentato in `sources/queue/acquisition-progress.md` e in `sources/transcripts/JQXoKKwneBQ.review.md`.
+
+## Nessun 226+ processato
+
+Confermato tramite verifica diretta: nessun contenuto con posizione ≥ 226 è stato letto, acquisito, revisionato o integrato nella KB durante questo checkpoint. Il primo contenuto non processato resta `226 — m53_BsS_x8U`.
+
+## Stato degli asset tecnici 226–250
+
+Verificato: **nessun transcript per i contenuti 226–250 è presente in `sources/transcripts/`** (il primo, `m53_BsS_x8U`, posizione 226, non ha asset tecnici su `main`).
+
+## Validazione
+
+### Prima del refactor
 
 ```
-python3 scripts/validate_project.py → 841 warning, identici alla baseline
-git diff --check → OK
+python3 scripts/validate_project.py → 841 warning (SystemExit)
+git diff --check                    → nessun output
+git status --short                  → working tree pulito
 ```
 
-Le 841 segnalazioni sono la baseline storica già documentata nel checkpoint 200 e nel report tecnico.
+Composizione (identica alla baseline del checkpoint 200, verificata riga per riga):
 
-Il connettore GitHub usato per la revisione semantica non può eseguire il validator sul working tree locale. **Claude Code deve quindi rieseguire localmente il validator prima di qualunque refactor FASE 14 e dopo le proprie modifiche**, confrontando l'output con la baseline 841 e separando warning storici da eventuali nuove anomalie.
+| Tipo | N | Natura |
+|---|---:|---|
+| `Ordine/stato incoerente: sources/queue/QUEUE.md <id>` | 836 | Storico/baseline, non corretto per indicazione esplicita della governance |
+| `File congelato modificato: ...` | 3 | Storico/baseline (mismatch v1.0 vs v1.1 documentato, nessun file frozen realmente modificato) |
+| `Contatore STATUS errato: Video completati` / `Video rimanenti` | 2 | Storico/baseline, drift di nomenclatura già documentato al checkpoint 200 |
 
-## FASE 14 dovuta a 225
+### Dopo le modifiche di questo checkpoint
 
-Il prossimo agente deve essere **CLAUDE CODE**.
+```
+python3 scripts/validate_project.py → 841 warning (identici, diff vuoto contro la baseline)
+git diff --check                    → nessun output
+git status --short                  → solo i file di questo checkpoint, prima del commit
+```
 
-Obiettivi:
+**Nessuna nuova anomalia introdotta.** Le modifiche di questo checkpoint (`scripts/classify_residual.py`, `reviews/RESIDUAL_CLASSIFICATION_201-468.md`, questo documento, `STATUS.md`) non toccano nessuno dei tre gruppi di warning sopra e non modificano `merenda/`.
 
-1. rileggere l'intera KB `merenda/` dopo le integrazioni 201–225;
-2. applicare MERGE, NOT APPEND;
-3. cercare duplicazioni, sovrapposizioni, file divenuti troppo estesi, confini da chiarire, link/orfani e gerarchia principio → procedura → esempio;
-4. controllare in particolare:
-   - crescita di `front-end-e-back-end.md` dopo le due integrazioni 212 e 225;
-   - coerenza fra front-end, offerta a risposta diretta, pricing e funnel;
-   - crescita di `numeri-cassa-e-crescita.md` dopo il 201;
-   - relazione fra `appropriatezza-clienti.md` e concentrazione su coorti prioritarie;
-   - relazione fra referral, garanzia/risk reversal e qualità dei clienti;
-   - prevalenza delle fonti più recenti, soprattutto la fonte 225 del 2025 rispetto alle formulazioni 2022;
-5. esaminare il falso negativo A/B/C del 225 e decidere se aggiornare `scripts/classify_residual.py` e/o l'artefatto di classificazione residua. Nessuna modifica ai file frozen senza autorizzazione;
-6. non eseguire FASE 15: il prossimo audit tassonomia è dovuto a 250;
-7. non processare semanticamente contenuti 226+ durante il checkpoint.
+### Controlli aggiuntivi eseguiti
+
+- File frozen (`MASTER_PLAN.md`, `system/RULES.md`, `system/PHASES.md`, `system/HANDOFFS.md`, `system/FROZEN_FILES.md`): **non modificati** (confermato da `git status --short` e dal validator, che segnala esattamente gli stessi 3 warning storici).
+- Assenza di Formalife in `merenda/`: confermata (ricerca automatizzata case-insensitive, 0 corrispondenze).
+- Link interni e file orfani: confermati assenti su tutti i 30 documenti di contenuto e gli 11 README (verifica automatizzata, non campionaria).
+- Working tree: pulito prima del checkpoint; alla fine contiene solo le modifiche descritte in questo documento, da committare.
+
+## File modificati in questo checkpoint
+
+- **Modificato**: `scripts/classify_residual.py` — aggiunta la regola documentata di promozione per recenza (nessuna modifica alla logica di classificazione `classify()`).
+- **Modificato**: `reviews/RESIDUAL_CLASSIFICATION_201-468.md` — rigenerato dallo script aggiornato; riflette anche l'avanzamento naturale del residuo (268→243) dopo il batch 201–225.
+- **Modificato**: `reviews/CHECKPOINT_225.md` — questo documento (da pre-handoff a report definitivo).
+- **Modificato**: `STATUS.md` — stato aggiornato post-checkpoint.
+- **Nessuna modifica** a `merenda/` (FASE 14 ha concluso che non serviva alcun intervento strutturale).
+- **Nessuna modifica** ai file frozen.
+- **FASE 15 non eseguita**, come richiesto: l'audit tassonomia resta dovuto al checkpoint 250.
 
 ## Handoff
 
 - **Corpus completo:** NO
-- **Agente richiesto:** CLAUDE CODE
-- **Checkpoint:** 225 — **FASE 14**
-- **Audit tassonomia:** non dovuto fino a 250
-- **Contenuti semantici completati:** 225
-- **Primo contenuto non processato:** posizione 226 della queue
-- **Nessun 226+ da processare prima della chiusura della FASE 14.**
+- **Agente richiesto:** CODEX
+- **Motivo:** gli asset tecnici (transcript) per la prossima porzione della coda (226–250) non sono presenti nel repository. ChatGPT non può eseguire le fasi 8–13 senza transcript.
+- **Prossima azione per Codex:** acquisizione tecnica del batch 226–250 (fase 7: transcript, eventuale fallback ASR, keyframe candidati dove segnalato), poi restituire il controllo a ChatGPT via `STATUS.md` secondo la procedura standard in `system/HANDOFFS.md`.
+- **Primo contenuto non completato:** `226 — m53_BsS_x8U` — *Video animati per Landing page - Strategia di marketing corretta? #shorts*.
+- **Prossimo checkpoint Claude:** dovuto a 250 (FASE 14 + FASE 15).
+
+## Conferma finale
+
+Nessun contenuto con posizione ≥ 226 è stato processato semanticamente, acquisito tecnicamente, o ha ricevuto una review `.review.md` durante questo checkpoint. FASE 15 non è stata eseguita. Nessun file frozen è stato toccato. `merenda/` non contiene riferimenti a Formalife.

@@ -4,18 +4,28 @@ Artefatto prodotto al checkpoint 200 (FASE 14 + FASE 15).
 
 **Non modifica lo stato di alcun contenuto.** Tutti i 268 contenuti restano `DA STUDIARE` e dovranno comunque ricevere transcript, revisione, categoria finale e stato (`STUDIATO` o `ESCLUSO` motivato) quando processati da ChatGPT/Codex nei batch successivi. La classificazione stabilisce solo la **profondità iniziale suggerita** della revisione semantica, secondo le regole descritte in `scripts/classify_residual.py` e nel checkpoint.
 
+## Regola di promozione per recenza (aggiornata al checkpoint 225)
+
+Il video 225 (`WCP26HC6wd0`) era classe **C** perché short, ma ha introdotto una formulazione del 17 novembre 2025 prevalente sul front-end rispetto a fonti 2022. Questo conferma che **C significa FAST REVIEW, mai SKIP**.
+
+`upload_date` in `sources/catalog.json` non è un segnale automatizzabile per promuovere C -> B prima della revisione: è assente per la maggioranza degli short residui (compreso lo stesso 225 prima di essere studiato). La promozione per recenza resta quindi una **verifica manuale durante la FAST REVIEW**, non una regola del classificatore:
+
+- durante la lettura veloce di un contenuto C, controllare la data di pubblicazione reale sulla pagina YouTube (non solo il catalogo);
+- se il contenuto tratta un nodo già presente in KB con una data successiva alla fonte canonica più recente già integrata, promuovere immediatamente a B (o A se introduce anche cifre/framework/procedure non ancora documentati);
+- questa regola si aggiunge, senza sostituirle, alle promozioni già previste (cifra/soglia operativa nuova, framework con nome proprio nuovo, formulazione che sembra contraddire un principio consolidato).
+
 ## Riepilogo
 
-- Totale residuo: 268
-- A: 46 (17%)
-- B: 159 (59%)
-- C: 63 (24%)
+- Totale residuo: 243
+- A: 44 (18%)
+- B: 140 (58%)
+- C: 59 (24%)
 
 ## Per categoria
 
 | Categoria | A | B | C | Totale |
 |---|---:|---:|---:|---:|
-| 05_acquisizione | 2 | 19 | 10 | 31 |
+| 05_acquisizione | 0 | 0 | 6 | 6 |
 | 06_vendita | 19 | 55 | 15 | 89 |
 | 07_copy_comunicazione | 5 | 0 | 0 | 5 |
 | 08_brand | 5 | 0 | 3 | 8 |
@@ -26,31 +36,6 @@ Artefatto prodotto al checkpoint 200 (FASE 14 + FASE 15).
 
 | ID | Categoria | Formato | Classe | Titolo | Motivazione |
 |---|---|---|:---:|---|---|
-| vD7zMl6YXzs | 05_acquisizione | videos | B | Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest) | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| QJUjdX0zglA | 05_acquisizione | videos | B | LEAD GENERATION \| Come Trovare il Cliente ideale [Non adatto alle Web Agency] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| uayjrQ6GWQc | 05_acquisizione | videos | B | How to Acquire Profiled Contacts with Lead Generation [Done Right] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| nAqH9enAM1U | 05_acquisizione | videos | B | Lead Generation: What It Means and How to Do It [Which Tools to Use] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| R22IWnVNYus | 05_acquisizione | videos | B | Come trovare nuovi clienti con campagne di Lead Generation | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| zfmFg5L7VDU | 05_acquisizione | videos | A | How to Do Lead Generation in Your Business \| Key Concepts | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| saBj3DmgsCg | 05_acquisizione | videos | B | Lead Generation: How to Create a Winning Sales Funnel | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| -lqseFTfCzk | 05_acquisizione | videos | A | How to Create a Funnel [Complete Guide to Lead Generation] | titolo con struttura numerata/framework/checklist: alta probabilità di procedura riutilizzabile |
-| C4IfIcOkwdE | 05_acquisizione | videos | B | Funnel Marketing \| How to Build a Funnel from Scratch [that actually sells] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| aEv9F66CZqA | 05_acquisizione | videos | B | Il VERO SEGRETO di un imprenditore per acquisire clienti | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| WtyLO1gMqVI | 05_acquisizione | videos | B | HOW TO FIND CUSTOMERS thanks to new acquisition channels | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| TrY_mDjr7I4 | 05_acquisizione | videos | B | Come creare un FUNNEL di FRONT END che converte [in 4 Step] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| _CPcSMMzIY0 | 05_acquisizione | videos | B | L'arma del VENDITORE per le Aziende che acquisiscono contatti online | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| I-YCFdXNSO0 | 05_acquisizione | videos | B | Cos'è il MARKETING, a cosa serve e perchè non è pubblicità | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| bLmGe86nDAA | 05_acquisizione | videos | B | FUNNEL \| Translation and Meaning - What is a Marketing Funnel [Explained Simply] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| of0ppir9sq4 | 05_acquisizione | videos | B | FUNNEL DI VENDITA \| Progettare Lanci di prodotto a TEMPO | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| bY6Lb0Dld88 | 05_acquisizione | videos | B | Strategie di Acquisizione Clienti: Invadere l’ambiente | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| JQXoKKwneBQ | 05_acquisizione | streams | C | E Commerce: Il futuro è nei Funnel | live/stream generico: alta probabilità di Q&A o commento estemporaneo a bassa densità dottrinale nuova |
-| ji8rHHO_KHY | 05_acquisizione | streams | C | Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | live/stream generico: alta probabilità di Q&A o commento estemporaneo a bassa densità dottrinale nuova |
-| HwlqYf73Ctk | 05_acquisizione | videos | B | Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| G0fxszrL9_M | 05_acquisizione | videos | B | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| 0rM-F7msbkA | 05_acquisizione | videos | B | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| sUkGSSqTq3c | 05_acquisizione | videos | B | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | video lungo in area operativa senza segnali forti né di alta né di bassa densità |
-| pJZSih3Lguw | 05_acquisizione | shorts | C | Come si crea un Front End? #shorts | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
-| WCP26HC6wd0 | 05_acquisizione | shorts | C | Marketing Strategies \| Two Ways to Create a Perfect Front-End Website | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
 | m53_BsS_x8U | 05_acquisizione | shorts | C | Video animati per Landing page - Strategia di marketing corretta? #shorts | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
 | n_5xPjN-NZY | 05_acquisizione | shorts | C | 50% of Customers Go to the Leader. What Are You Doing? | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
 | W90bBHzfPMI | 05_acquisizione | shorts | C | ❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have! | formato short: alta probabilità di derivare da un video già in coda/già studiato (0/9 incrementali nel campione 176-184) |
