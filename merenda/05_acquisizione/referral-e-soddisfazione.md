@@ -31,3 +31,27 @@ Può occuparsene il titolare, personale interno o un'azienda di telemarketing ad
 La soddisfazione non genera automaticamente un passaparola attivo. Bisogna dire esplicitamente che si cercano segnalazioni, aiutare i clienti e fornire strumenti: non sono venditori addestrati. L'esempio è consegnare più copie di un libro da regalare a persone che potrebbero avere bisogno dell'offerta. Il materiale porta il nuovo contatto dentro la comunicazione dell'azienda, superando la difficoltà del semplice «chiama questo numero». Il relatore cita anche incentivi, senza definirne qui un piano. [Parte 2, 19:40–24:58](https://www.youtube.com/watch?v=GesepBOY5E8&t=1180s)
 
 Collegamenti: [prequalifica e follow-up](../06_vendita/prequalifica-follow-up-decisori.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md), [appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md).
+
+## Trasformare il referral da evento spontaneo a sistema
+
+Nel materiale del 27 giugno 2024 Merenda rende più operativa la richiesta di referral. Il passaparola non viene trattato come qualcosa da aspettare, ma come un comportamento che l'impresa può facilitare in più momenti della relazione.
+
+Le leve proposte includono:
+
+1. **chiedere dopo una vendita** chi altro potrebbe beneficiare dello stesso prodotto o servizio;
+2. quando il cliente chiede uno sconto, valutare uno **scambio esplicito di valore** — per esempio referral in cambio dello sconto — invece di concederlo automaticamente;
+3. preferire, quando economicamente più conveniente, un **upgrade o servizio aggiuntivo** in cambio della presentazione;
+4. costruire un incentivo per il cliente che presenta e, quando appropriato, un vantaggio anche per il nuovo contatto;
+5. chiedere nel **momento di massimo successo/soddisfazione**, quando il risultato è visibile e raccontabile;
+6. usare eventi o occasioni dedicate nelle quali il cliente può portare persone della propria rete;
+7. quando il servizio ha una naturale dimensione di coppia, famiglia o impresa, invitare il cliente a coinvolgere il **decisore/partecipante pertinente**;
+8. ricordare la possibilità di “portare qualcuno” anche nelle comunicazioni ordinarie, non soltanto una volta.
+
+Il principio comune è:
+
+**soddisfazione reale → momento appropriato → richiesta esplicita → introduzione facilitata → eventuale incentivo sostenibile.**
+
+Gli incentivi vanno dimensionati su margine e valore atteso del nuovo cliente e devono rispettare le regole applicabili al settore. Le cifre e il numero di persone citati nel video sono esempi, non standard.
+
+Fonte: [Il Modo Più Facile Per FARE MARKETING e Trovare CLIENTI [Subito]](https://www.youtube.com/watch?v=SK338MdNIy0), 27 giugno 2024. [Revisione](../../sources/transcripts/SK338MdNIy0.review.md).
+
