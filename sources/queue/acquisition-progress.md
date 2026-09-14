@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:17:08.767876+00:00
+Ultimo aggiornamento: 2026-09-14T07:17:21.423518+00:00
 
 Batch: 25 video
-Completati tecnicamente: 17/25
+Completati tecnicamente: 18/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -24,7 +24,7 @@ Completati tecnicamente: 17/25
 | 15 | AjvfyImTiPI | All’Antico Vinaio: il “segreto” del suo successo #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | qIG_0TMol8s | Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | fpao23ulhkQ | Why You Shouldn't Spend on Marketing (Unless You Do This First) | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | 9zvNhQOpRI4 | Is Marketing Important? This Is the Definitive Answer | PENDING |  |
+| 18 | 9zvNhQOpRI4 | Is Marketing Important? This Is the Definitive Answer | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | oQXsQzrIv2M | Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market | PENDING |  |
 | 20 | PKgWYVvme2s | Customer Experience: The Marketing Secret No One Tells You | PENDING |  |
 | 21 | degAX4kvT-0 | Digital Marketing for Typical Products: The Formula for Winning Bundles | PENDING |  |
