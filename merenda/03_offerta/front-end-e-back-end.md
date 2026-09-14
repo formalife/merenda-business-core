@@ -46,6 +46,26 @@ Il principio è coerente con il resto del sistema: il front-end serve a far entr
 
 Fonte precedente: [Il Marketing non è un’azione singola ma un metodo](https://www.youtube.com/watch?v=0qipJSkZxmg), 26 settembre 2022. [Revisione](../../sources/transcripts/0qipJSkZxmg.review.md).
 
+## Monetizzare la prima relazione come sequenza coerente
+
+Nel materiale del 5 ottobre 2022 Merenda scompone la prima relazione commerciale in una possibile **scala di offerte ravvicinate**, da adattare al business invece di trattare il front-end come una sola transazione isolata.
+
+La struttura riusabile è:
+
+1. un'offerta d'ingresso che ottiene il primo sì;
+2. un'aggiunta immediata e congruente che aumenta il valore dell'acquisto;
+3. un'offerta a frizione più bassa o con maggiore inversione del rischio;
+4. un'offerta-ponte di valore superiore dopo che la relazione ha già prodotto più sì;
+5. quando esiste una ricorrenza reale, una proposta di continuità.
+
+Non tutti i passaggi sono obbligatori. Le percentuali, i moltiplicatori e le sequenze numeriche del corso sono esempi didattici, non benchmark.
+
+Una cautela importante riguarda l'add-on immediato: deve completare o ampliare l'acquisto in modo naturale, **senza far percepire che l'offerta iniziale fosse stata deliberatamente resa incompleta**. Se il cliente si ferma a uno stadio, il follow-up può ripartire da quel punto invece di ricominciare ogni volta dall'inizio.
+
+Questa fonte descrive un'architettura storica del sistema. Per la progettazione attuale del front-end prevale anche il materiale più recente del 2025, che chiarisce come ridurre la barriera senza svalutare necessariamente il prodotto principale.
+
+Fonte precedente: [Come creare un FUNNEL di FRONT END che converte [in 4 Step]](https://www.youtube.com/watch?v=TrY_mDjr7I4), 5 ottobre 2022. [Revisione](../../sources/transcripts/TrY_mDjr7I4.review.md).
+
 ## Il front-end può funzionare come degustazione del portafoglio
 
 Nel materiale del 19 gennaio 2023 Merenda usa il caso editoriale Disney per mostrare una funzione ulteriore del front-end: non solo far entrare il cliente a bassa barriera, ma **fargli assaggiare più parti dell'offerta complessiva**.
