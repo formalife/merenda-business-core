@@ -192,7 +192,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 178 | [fm3RYkxRXCk](https://www.youtube.com/watch?v=fm3RYkxRXCk) — Tecniche di Marketing per Espandere il Tuo Studio Dentistico #shorts | 10_casi_studio | STUDIATO |
 | 179 | [6tgz9aFzyNE](https://www.youtube.com/watch?v=6tgz9aFzyNE) — Come TROVARE più CLIENTI grazie al Marketing #shorts | 02_posizionamento | STUDIATO |
 | 180 | [G7Jiu-Ig9vI](https://www.youtube.com/watch?v=G7Jiu-Ig9vI) — Woke marketing e Cancel Culture? #shorts @disneyplus @Netflix | 04_marketing | STUDIATO |
-| 181 | [Revqwijd6P0](https://www.youtube.com/watch?v=Revqwijd6P0) — Marketing o location? #shorts | 04_marketing | DA STUDIARE |
+| 181 | [Revqwijd6P0](https://www.youtube.com/watch?v=Revqwijd6P0) — Marketing o location? #shorts | 09_business | STUDIATO |
 | 182 | [R9fhEHLn8ww](https://www.youtube.com/watch?v=R9fhEHLn8ww) — La campagna marketing di maggior successo [Parte 2] #shorts | 04_marketing | DA STUDIARE |
 | 183 | [Gy82YE1iul4](https://www.youtube.com/watch?v=Gy82YE1iul4) — La campagna marketing di maggior successo di Metodo Merenda [Parte 1] #shorts | 04_marketing | DA STUDIARE |
 | 184 | [Qt4lGjC-NdY](https://www.youtube.com/watch?v=Qt4lGjC-NdY) — Guerrilla Marketing: Funziona? #shorts | 04_marketing | DA STUDIARE |
