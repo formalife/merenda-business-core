@@ -171,7 +171,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 157 | [G6j8xbargKY](https://www.youtube.com/watch?v=G6j8xbargKY) — Coaches and Trainers for Companies - Be Careful Who You Follow | 08_brand | STUDIATO |
 | 158 | [LMzKVDWrGlk](https://www.youtube.com/watch?v=LMzKVDWrGlk) — The Placement Rule That Brought Skechers to Success #shorts | 10_casi_studio | STUDIATO |
 | 159 | [-6L9gCbicjk](https://www.youtube.com/watch?v=-6L9gCbicjk) — Come Capire il Dialogo Mentale di un Cliente? Ecco la soluzione! #shorts | 07_copy_comunicazione | STUDIATO |
-| 160 | [I2RBYMESAsk](https://www.youtube.com/watch?v=I2RBYMESAsk) — HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | 04_marketing | DA STUDIARE |
+| 160 | [I2RBYMESAsk](https://www.youtube.com/watch?v=I2RBYMESAsk) — HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts | 02_posizionamento | STUDIATO |
 | 161 | [mkhp-EGSORA](https://www.youtube.com/watch?v=mkhp-EGSORA) — L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts | 10_casi_studio | DA STUDIARE |
 | 162 | [NTy1ZHQ8NYs](https://www.youtube.com/watch?v=NTy1ZHQ8NYs) — Il più grande FLOP di FERRERO #Shorts | 10_casi_studio | DA STUDIARE |
 | 163 | [5XW0s6NizEE](https://www.youtube.com/watch?v=5XW0s6NizEE) — Il SUCCESSO della URUS [O forse no?] #Shorts | 10_casi_studio | DA STUDIARE |
