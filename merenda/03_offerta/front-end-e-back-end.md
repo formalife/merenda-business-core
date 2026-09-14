@@ -10,6 +10,18 @@ Questo spiega la relazione con il principio del prezzo superiore alla concorrenz
 
 Il profitto complessivo e i tempi di recupero vanno verificati insieme. Il valore futuro del cliente non elimina il fabbisogno di capitale presente; vedi [cassa e costo per vendita](../09_business/numeri-cassa-e-crescita.md).
 
+Nel materiale del 23 dicembre 2025 Merenda aggiunge una regola operativa su upsell e cross-sell: **il fatto che la maggioranza dei clienti rifiuti una versione più completa non è, da solo, una ragione per smettere di proporla**.
+
+Se l'opzione superiore offre davvero più utilità, comodità, assistenza o valore a una parte del target, il compito dell'azienda è renderla disponibile in modo sistematico, lasciando poi al cliente la scelta. Non proporla affatto può togliere valore proprio ai clienti che sarebbero disposti a pagare di più per una soluzione migliore.
+
+Il criterio è:
+
+**proporre sistematicamente l'opzione pertinente → lasciare libertà di scelta → misurare il tasso di accettazione → mantenere l'upsell se crea valore e regge economicamente.**
+
+Le percentuali di accettazione citate nel video sono esempi, non benchmark universali.
+
+Fonte: [Come Aumentare Il Fatturato Con Una Sola Domanda](https://www.youtube.com/watch?v=Z7FhdrG-fOw), 23 dicembre 2025. [Revisione](../../sources/transcripts/Z7FhdrG-fOw.review.md).
+
 ## La prima vendita apre il marketing di secondo livello
 
 Nel materiale del 26 settembre 2022 Merenda collega il front-end ai diversi livelli di consapevolezza del prospect. La tassonomia dei livelli è trattata in modo più recente nel documento sulla [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md); qui resta utile soprattutto una conseguenza operativa.
