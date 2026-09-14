@@ -6,21 +6,21 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 20/25 completati; prossimo contenuto canonico: 146 `VRXyHpVBvAo`.**
+**Elaborazione semantica del batch 126–150 — 21/25 completati; prossimo contenuto canonico: 147 `W9IOyR3fsEo`.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 145
-- STUDIATO / integrati nella KB: 139
+- Contenuti processati semanticamente: 146
+- STUDIATO / integrati nella KB: 140
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 323
+- Da processare: 322
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
 - Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 20/25 completati
+- Elaborazione semantica 126–150: 21/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -66,7 +66,7 @@ I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il conte
 
 Proseguire con CHATGPT in ordine canonico dal contenuto 144:
 
-- `VRXyHpVBvAo` — *STRATEGIE DI MARKETING | Risposte di Frank Merenda, esperto di Marketing #1* — posizione 146.
+- `W9IOyR3fsEo` — *Mental Manipulation | Dan Kennedy and Unfair Marketing Techniques* — posizione 147.
 
 Transcript italiano disponibile; pronto per revisione semantica.
 

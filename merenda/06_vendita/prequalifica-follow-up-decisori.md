@@ -64,6 +64,22 @@ Il valore “70–80% già convinto” citato nel video resta un modo espressivo
 
 Fonte: [I 4 Pilastri di una Campagna Marketing di successo](https://www.youtube.com/watch?v=AsD7LxX-n2I), 20 aprile 2023. [Revisione](../../sources/transcripts/AsD7LxX-n2I.review.md).
 
+## Tre leve per aumentare la produttività commerciale
+
+Nel Q&A del 3 luglio 2022 Merenda separa tre variabili che un'azienda può migliorare prima di concludere che serva semplicemente “un venditore più bravo”:
+
+1. **quantità di opportunità** — mantenere una pipeline sufficiente a riempire l'agenda commerciale;
+2. **qualità delle opportunità** — migliorare marketing, materiali e prequalifica prima dell'appuntamento;
+3. **capacità di chiusura** — addestrare e misurare il venditore perché migliori la percentuale di trattative concluse.
+
+Sono leve diverse: aumentare i lead non corregge lead scadenti, una buona prequalifica non sostituisce la capacità di vendere, e una grande capacità di chiusura non compensa un'agenda vuota.
+
+La capacità del reparto va ampliata quando il venditore è realmente vicino alla saturazione degli slot disponibili e la lead generation continua a produrre opportunità. Questo evita sia di assumere troppo presto sia di perdere domanda perché la struttura commerciale non riesce più a prenderla in carico.
+
+Le percentuali di chiusura citate come esempio nella lezione non sono benchmark universali. Il principio operativo è misurare il proprio tasso e cercarne un miglioramento nel tempo.
+
+Fonte precedente: [STRATEGIE DI MARKETING — Risposte di Frank Merenda](https://www.youtube.com/watch?v=VRXyHpVBvAo), 3 luglio 2022. [Revisione](../../sources/transcripts/VRXyHpVBvAo.review.md).
+
 ## Una lead inbound va presa in carico rapidamente
 
 Nel materiale dell'8 luglio 2024 Merenda tratta la velocità di risposta come parte del processo di vendita, non come dettaglio amministrativo.
