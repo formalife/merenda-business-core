@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:28:46.941381+00:00
+Ultimo aggiornamento: 2026-09-14T16:28:52.359424+00:00
 
 Batch: 25 video
-Completati tecnicamente: 22/25
+Completati tecnicamente: 23/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -29,6 +29,6 @@ Completati tecnicamente: 22/25
 | 20 | Zzh6PXGTmD0 | Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | bWNr-tHknvw | Frank Merenda's Formula for Selling Any Product | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | V8CVwcH5rwA | 🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | r649dAXopLM | Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | PENDING |  |
+| 23 | r649dAXopLM | Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | Q3SCQG-aZSM | #4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi" | PENDING |  |
 | 25 | uOu65O88jrU | The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less) | PENDING |  |
