@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:11:47.158961+00:00
+Ultimo aggiornamento: 2026-09-14T13:11:53.381672+00:00
 
 Batch: 25 video
-Completati tecnicamente: 21/25
+Completati tecnicamente: 22/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -28,7 +28,7 @@ Completati tecnicamente: 21/25
 | 19 | ji8rHHO_KHY | Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | HwlqYf73Ctk | Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | G0fxszrL9_M | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | 0rM-F7msbkA | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | PENDING |  |
+| 22 | 0rM-F7msbkA | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | sUkGSSqTq3c | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | PENDING |  |
 | 24 | pJZSih3Lguw | Come si crea un Front End? #shorts | PENDING |  |
 | 25 | WCP26HC6wd0 | Marketing Strategies \| Two Ways to Create a Perfect Front-End Website | PENDING |  |
