@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:10:08.284567+00:00
+Ultimo aggiornamento: 2026-09-14T13:10:14.106475+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | -lqseFTfCzk | How to Create a Funnel [Complete Guide to Lead Generation] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | C4IfIcOkwdE | Funnel Marketing \| How to Build a Funnel from Scratch [that actually sells] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | aEv9F66CZqA | Il VERO SEGRETO di un imprenditore per acquisire clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | WtyLO1gMqVI | HOW TO FIND CUSTOMERS thanks to new acquisition channels | PENDING |  |
+| 11 | WtyLO1gMqVI | HOW TO FIND CUSTOMERS thanks to new acquisition channels | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | TrY_mDjr7I4 | Come creare un FUNNEL di FRONT END che converte [in 4 Step] | PENDING |  |
 | 13 | _CPcSMMzIY0 | L'arma del VENDITORE per le Aziende che acquisiscono contatti online | PENDING |  |
 | 14 | I-YCFdXNSO0 | Cos'è il MARKETING, a cosa serve e perchè non è pubblicità | PENDING |  |
