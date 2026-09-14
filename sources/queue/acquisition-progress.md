@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T07:17:27.040744+00:00
+Ultimo aggiornamento: 2026-09-14T07:17:29.800017+00:00
 
 Batch: 25 video
-Completati tecnicamente: 20/25
+Completati tecnicamente: 21/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -27,7 +27,7 @@ Completati tecnicamente: 20/25
 | 18 | 9zvNhQOpRI4 | Is Marketing Important? This Is the Definitive Answer | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | oQXsQzrIv2M | Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | PKgWYVvme2s | Customer Experience: The Marketing Secret No One Tells You | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 21 | degAX4kvT-0 | Digital Marketing for Typical Products: The Formula for Winning Bundles | PENDING |  |
+| 21 | degAX4kvT-0 | Digital Marketing for Typical Products: The Formula for Winning Bundles | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | YvfN2NUwXtY | Marketing per il tuo CENTRO ESTETICO #shorts | PENDING |  |
 | 23 | aw3Fu_LTH34 | What does Marketing #shorts mean? | PENDING |  |
 | 24 | znVPLom4j70 | Marketing for Dentists \| Here's What Happens When a Dentist Does Marketing #shots | PENDING |  |
