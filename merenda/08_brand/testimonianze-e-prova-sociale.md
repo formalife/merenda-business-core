@@ -144,6 +144,44 @@ Non è necessario che il testimone sia demograficamente identico al prospect. Co
 
 **“questa prova vale anche per una situazione come la mia?”**
 
+## Testimonianze contro la procrastinazione: “avrei voluto farlo prima”
+
+Una fonte precedente, del 18 dicembre 2024, approfondisce uno scopo specifico della prova sociale: aiutare i prospect già quasi convinti ma bloccati dal rinvio.
+
+In questo caso la testimonianza più utile non è soltanto:
+
+- “ha funzionato”;
+- “mi sono trovato bene”;
+- “ho ottenuto un risultato”.
+
+Può documentare, quando è vero, **il costo reale dell'attesa**:
+
+- tempo sprecato;
+- opportunità perse;
+- problemi peggiorati;
+- denaro speso in alternative inadeguate;
+- benefici rimandati;
+- conseguenze che avrebbero potuto essere evitate.
+
+La struttura è:
+
+**ho aspettato → l'attesa ha avuto un costo concreto → ho agito → oggi avrei preferito decidere prima.**
+
+Questa testimonianza non crea urgenza artificiale. Funziona solo se l'esperienza è reale e il costo del ritardo è effettivamente attribuibile alla situazione raccontata.
+
+Durante la raccolta si può chiedere al cliente di spiegare:
+
+- quanto ha aspettato;
+- che cosa è successo nel frattempo;
+- che cosa avrebbe evitato agendo prima;
+- perché oggi consiglierebbe di non ripetere lo stesso errore.
+
+Non vanno suggerite conseguenze mai avvenute né trasformati risultati eccezionali in norma.
+
+La fonte 2024 precede la procedura più completa del 16 aprile 2025 sulle sette dimensioni delle testimonianze. Resta valida come **applicazione specializzata** dello scopo “ridurre procrastinazione/inerzia”.
+
+Fonte precedente: [Testimonianze Che Fanno Esplodere Le Vendite: La Guida Inedita di Frank Merenda](https://www.youtube.com/watch?v=r649dAXopLM), 18 dicembre 2024. [Revisione](../../sources/transcripts/r649dAXopLM.review.md).
+
 ## La testimonianza è parte del copy
 
 Un testimonial può dire in modo più credibile ciò che l'azienda avrebbe altrimenti detto di sé.

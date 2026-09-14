@@ -261,7 +261,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 251 | Zzh6PXGTmD0 | acquisito | [Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato](https://www.youtube.com/watch?v=Zzh6PXGTmD0) | 1227.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 252 | bWNr-tHknvw | acquisito | [Frank Merenda's Formula for Selling Any Product](https://www.youtube.com/watch?v=bWNr-tHknvw) | 1148.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 253 | V8CVwcH5rwA | acquisito | [🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi](https://www.youtube.com/watch?v=V8CVwcH5rwA) | 1363.0 | 06_vendita | 2 | DA STUDIARE | videos |
-| 254 | r649dAXopLM | da acquisire | [Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide](https://www.youtube.com/watch?v=r649dAXopLM) | 903.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 254 | r649dAXopLM | acquisito | [Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide](https://www.youtube.com/watch?v=r649dAXopLM) | 903.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 255 | Q3SCQG-aZSM | da acquisire | [#4 TECNICHE DI VENDITA Micidiali Per Vendere Agli "Indecisi"](https://www.youtube.com/watch?v=Q3SCQG-aZSM) | 962.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 256 | uOu65O88jrU | da acquisire | [The Mistake That's Keeping You From Selling 10 Times More (And Spending 10 Times Less)](https://www.youtube.com/watch?v=uOu65O88jrU) | 395.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 257 | hoVoLLL3eZk | da acquisire | [From 0 to 464 Orders Thanks to the Sales Techniques of Tana Delle Tigri](https://www.youtube.com/watch?v=hoVoLLL3eZk) | 227.0 | 06_vendita | 2 | DA STUDIARE | videos |
