@@ -195,7 +195,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 181 | [Revqwijd6P0](https://www.youtube.com/watch?v=Revqwijd6P0) — Marketing o location? #shorts | 09_business | STUDIATO |
 | 182 | [R9fhEHLn8ww](https://www.youtube.com/watch?v=R9fhEHLn8ww) — La campagna marketing di maggior successo [Parte 2] #shorts | 05_acquisizione | STUDIATO |
 | 183 | [Gy82YE1iul4](https://www.youtube.com/watch?v=Gy82YE1iul4) — La campagna marketing di maggior successo di Metodo Merenda [Parte 1] #shorts | 05_acquisizione | STUDIATO |
-| 184 | [Qt4lGjC-NdY](https://www.youtube.com/watch?v=Qt4lGjC-NdY) — Guerrilla Marketing: Funziona? #shorts | 04_marketing | DA STUDIARE |
+| 184 | [Qt4lGjC-NdY](https://www.youtube.com/watch?v=Qt4lGjC-NdY) — Guerrilla Marketing: Funziona? #shorts | 04_marketing | STUDIATO |
 | 185 | [H_dkTYpFb8I](https://www.youtube.com/watch?v=H_dkTYpFb8I) — Email Marketing: The Campaign No One Ever Taught You | 05_acquisizione | DA STUDIARE |
 | 186 | [mDBoBf6qugE](https://www.youtube.com/watch?v=mDBoBf6qugE) — How to Get Clients on Tap: The Power of a Perfect Front-End | 05_acquisizione | DA STUDIARE |
 | 187 | [yu6t8pXgzMA](https://www.youtube.com/watch?v=yu6t8pXgzMA) — Landing Page Imbattibili: 7 Metodi Testati Per Migliorare Le Conversioni [In Ogni Settore] | 05_acquisizione | DA STUDIARE |
