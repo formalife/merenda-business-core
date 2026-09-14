@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:27:12.529047+00:00
+Ultimo aggiornamento: 2026-09-14T16:27:17.794523+00:00
 
 Batch: 25 video
-Completati tecnicamente: 4/25
+Completati tecnicamente: 5/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -11,7 +11,7 @@ Completati tecnicamente: 4/25
 | 2 | n_5xPjN-NZY | 50% of Customers Go to the Leader. What Are You Doing? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | W90bBHzfPMI | ❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have! | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | 7zRyOC3Z0lM | Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | Qg8Z2Oh5z3s | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | PENDING |  |
+| 5 | Qg8Z2Oh5z3s | SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | xBM5PST7ZKs | Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | PENDING |  |
 | 7 | MwNCMJE8sRk | 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | PENDING |  |
 | 8 | g-VOlvqnL_8 | Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | PENDING |  |
