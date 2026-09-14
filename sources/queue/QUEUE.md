@@ -220,7 +220,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 206 | [zfmFg5L7VDU](https://www.youtube.com/watch?v=zfmFg5L7VDU) — How to Do Lead Generation in Your Business &#124; Key Concepts | 06_vendita | STUDIATO |
 | 207 | [saBj3DmgsCg](https://www.youtube.com/watch?v=saBj3DmgsCg) — Lead Generation: How to Create a Winning Sales Funnel | 05_acquisizione | STUDIATO |
 | 208 | [-lqseFTfCzk](https://www.youtube.com/watch?v=-lqseFTfCzk) — How to Create a Funnel [Complete Guide to Lead Generation] | 09_business | STUDIATO |
-| 209 | [C4IfIcOkwdE](https://www.youtube.com/watch?v=C4IfIcOkwdE) — Funnel Marketing &#124; How to Build a Funnel from Scratch [that actually sells] | 05_acquisizione | DA STUDIARE |
+| 209 | [C4IfIcOkwdE](https://www.youtube.com/watch?v=C4IfIcOkwdE) — Funnel Marketing &#124; How to Build a Funnel from Scratch [that actually sells] | 05_acquisizione | STUDIATO |
 | 210 | [aEv9F66CZqA](https://www.youtube.com/watch?v=aEv9F66CZqA) — Il VERO SEGRETO di un imprenditore per acquisire clienti | 05_acquisizione | DA STUDIARE |
 | 211 | [WtyLO1gMqVI](https://www.youtube.com/watch?v=WtyLO1gMqVI) — HOW TO FIND CUSTOMERS thanks to new acquisition channels | 05_acquisizione | DA STUDIARE |
 | 212 | [TrY_mDjr7I4](https://www.youtube.com/watch?v=TrY_mDjr7I4) — Come creare un FUNNEL di FRONT END che converte [in 4 Step] | 05_acquisizione | DA STUDIARE |
