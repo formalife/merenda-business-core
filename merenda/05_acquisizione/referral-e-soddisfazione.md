@@ -32,6 +32,25 @@ La soddisfazione non genera automaticamente un passaparola attivo. Bisogna dire 
 
 Collegamenti: [prequalifica e follow-up](../06_vendita/prequalifica-follow-up-decisori.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md), [appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md).
 
+## Proteggere la reputazione di chi presenta
+
+Nel materiale dell'8 agosto 2022 Merenda esplicita un attrito che precede la richiesta di referral: chi presenta l'azienda a un amico, collega o cliente **mette in gioco la propria reputazione**. Una persona può essere soddisfatta e tuttavia evitare di segnalare qualcuno se teme che un problema successivo ricada socialmente su di lei.
+
+Per ridurre questo rischio propone di progettare il referral in modo che il promotore abbia strumenti e protezioni sufficienti:
+
+- partire da clienti realmente soddisfatti e appropriati, privilegiando all'inizio chi ha credibilità nel gruppo che si vuole raggiungere;
+- fornire materiali o modalità di introduzione che rendano semplice spiegare perché la segnalazione è pertinente;
+- quando l'economia lo permette, offrire al contatto presentato una **inversione del rischio o garanzia particolarmente forte**, così che chi presenta non debba chiedere all'altra persona un salto di fiducia non protetto;
+- curare l'erogazione del cliente referenziato anche perché l'esito rafforza o danneggia la disponibilità futura del promotore a presentare altre persone.
+
+La logica è:
+
+**promotore appropriato → introduzione facilitata → rischio reputazionale ridotto → esperienza coerente → nuove presentazioni più facili.**
+
+Il video propone anche obiettivi percentuali molto elevati di vendite da referral e attribuisce al referral effetti forti sulla retention. Queste percentuali e formulazioni assolute non diventano benchmark universali nella KB. Il materiale più recente del 2024 resta prevalente sulla procedura generale di richiesta e incentivazione.
+
+Fonte precedente: [Referral - Come moltiplicare le vendite grazie ai tuoi Clienti](https://www.youtube.com/watch?v=HwlqYf73Ctk), 8 agosto 2022. [Revisione](../../sources/transcripts/HwlqYf73Ctk.review.md).
+
 ## Trasformare il referral da evento spontaneo a sistema
 
 Nel materiale del 27 giugno 2024 Merenda rende più operativa la richiesta di referral. Il passaparola non viene trattato come qualcosa da aspettare, ma come un comportamento che l'impresa può facilitare in più momenti della relazione.
