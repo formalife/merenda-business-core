@@ -171,7 +171,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 161 | I2RBYMESAsk | da acquisire | [HOW TO FIND CUSTOMERS by giving them a dream shopping experience #shorts](https://www.youtube.com/watch?v=I2RBYMESAsk) | n.d. | 02_posizionamento | 3 | STUDIATO | shorts |
 | 162 | mkhp-EGSORA | da acquisire | [L'Impero del Miele di Mike's Hot Honey [Direttamente dalla Florida] #shorts](https://www.youtube.com/watch?v=mkhp-EGSORA) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 163 | NTy1ZHQ8NYs | da acquisire | [Il più grande FLOP di FERRERO #Shorts](https://www.youtube.com/watch?v=NTy1ZHQ8NYs) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
-| 164 | 5XW0s6NizEE | da acquisire | [Il SUCCESSO della URUS [O forse no?] #Shorts](https://www.youtube.com/watch?v=5XW0s6NizEE) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
+| 164 | 5XW0s6NizEE | da acquisire | [Il SUCCESSO della URUS [O forse no?] #Shorts](https://www.youtube.com/watch?v=5XW0s6NizEE) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 165 | NCQ1lX3S5wk | da acquisire | [Il Segreto del Gommista di Successo #Shorts](https://www.youtube.com/watch?v=NCQ1lX3S5wk) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
 | 166 | AjvfyImTiPI | da acquisire | [All’Antico Vinaio: il “segreto” del suo successo #shorts](https://www.youtube.com/watch?v=AjvfyImTiPI) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
 | 167 | qIG_0TMol8s | da acquisire | [Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts](https://www.youtube.com/watch?v=qIG_0TMol8s) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |

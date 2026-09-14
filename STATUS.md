@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–162 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–163 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–162/175. `NTy1ZHQ8NYs` studiato come caso Gran Soleil già coperto, senza duplicazioni. Prossima azione: fasi 8–13 su `5XW0s6NizEE` (posizione canonica 163). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–163/175. `5XW0s6NizEE` studiato come caso Urus già coperto, senza duplicazioni. Prossima azione: fasi 8–13 su `NCQ1lX3S5wk` (posizione canonica 164). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 162
-- STUDIATO / integrati nella KB: 156
+- Contenuti processati semanticamente: 163
+- STUDIATO / integrati nella KB: 157
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 306
+- Da processare: 305
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `5XW0s6NizEE` — *Il SUCCESSO della URUS #Shorts* — posizione canonica 163 della queue. I video 151–162 sono completati semanticamente.
+Continuare il batch **151–175** con `NCQ1lX3S5wk` — *Il Segreto del Gommista di Successo #Shorts* — posizione canonica 164 della queue. I video 151–163 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **12/25** contenuti del batch completati. Ultimo: `NTy1ZHQ8NYs` → `10_casi_studio`, `STUDIATO`; nessuna nuova dottrina perché il caso Gran Soleil era già coperto in modo più completo. Contenuti semanticamente processati: **162**.
+- Revisione semantica in corso: **13/25** contenuti del batch completati. Ultimo: `5XW0s6NizEE` → `10_casi_studio`, `STUDIATO`; nessuna nuova dottrina. Contenuti semanticamente processati: **163**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 
