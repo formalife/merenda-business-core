@@ -277,7 +277,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 263 | [HJBySYV6HjA](https://www.youtube.com/watch?v=HJBySYV6HjA) — Close the SALES NEGOTIATIONS thanks to the Authority | 08_brand | STUDIATO |
 | 264 | [9FpKpV15B_4](https://www.youtube.com/watch?v=9FpKpV15B_4) — COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | 07_copy_comunicazione | STUDIATO |
 | 265 | [imdxn91jLik](https://www.youtube.com/watch?v=imdxn91jLik) — How to create a high-performance sales network | 09_business | STUDIATO |
-| 266 | [NB9g-DhSj-4](https://www.youtube.com/watch?v=NB9g-DhSj-4) — Come vendere di più creando affinità e fiducia con i clienti | 06_vendita | DA STUDIARE |
+| 266 | [NB9g-DhSj-4](https://www.youtube.com/watch?v=NB9g-DhSj-4) — Come vendere di più creando affinità e fiducia con i clienti | 06_vendita | STUDIATO |
 | 267 | [Vqn55dABlHQ](https://www.youtube.com/watch?v=Vqn55dABlHQ) — How to SELL more to your active customers | 06_vendita | DA STUDIARE |
 | 268 | [IGR6IPPvY3Q](https://www.youtube.com/watch?v=IGR6IPPvY3Q) — How to Sell More to the Right Target &#124; The 7 Types of Customers [Part 2] | 06_vendita | DA STUDIARE |
 | 269 | [9YoGG3UT1Yc](https://www.youtube.com/watch?v=9YoGG3UT1Yc) — How to Sell More to the Right Target &#124; The 7 Types of Customers [Part 1] | 06_vendita | DA STUDIARE |

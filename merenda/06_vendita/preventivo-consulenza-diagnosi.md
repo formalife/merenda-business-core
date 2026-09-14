@@ -86,6 +86,45 @@ a:
 
 Il vantaggio non deriva dal nascondere il prezzo, ma dal rendere comprensibili le differenze che influenzano il risultato prima che il prezzo venga giudicato isolatamente.
 
+## Prima di prescrivere, approfondire e validare l'esperienza
+
+Nel materiale del 2 aprile 2023 Merenda aggiunge una regola conversazionale alla fase diagnostica: quando il prospect racconta un problema, un fallimento precedente o diffidenza verso la categoria, il venditore non dovrebbe saltare immediatamente alla propria soluzione né difendersi.
+
+La sequenza proposta è:
+
+**racconto del cliente → domanda di approfondimento → conseguenze pratiche/emotive → validazione dell'esperienza → diagnosi → prescrizione.**
+
+Domande come:
+
+- “dimmi di più”;
+- “puoi essere più specifico?”;
+- “da quanto tempo succede?”;
+- “che cosa hai già provato?”;
+- “che cosa è successo?”;
+- “quanto ti è costato?”;
+- “come ti ha fatto sentire?”;
+
+non sono formule obbligatorie. Servono a impedire una diagnosi superficiale.
+
+### Validare non significa confermare ogni conclusione
+
+Se il cliente è frustrato o scettico, una risposta empatica può riconoscere che, **dato ciò che ha vissuto**, la sua cautela è comprensibile.
+
+Questo è diverso dal:
+
+- affermare che ogni sua interpretazione sia corretta;
+- denigrare automaticamente concorrenti o professionisti;
+- fingere empatia;
+- promettere che la nuova soluzione non possa fallire.
+
+Il principio è:
+
+**riconoscere l'esperienza → ridurre la necessità del cliente di difendersi → continuare a raccogliere evidenze → solo dopo guidare verso una conclusione diversa, se i fatti la sostengono.**
+
+La fonte è precedente ai materiali 2024–2026 sulla diagnosi e prescrizione; questi restano prevalenti sul metodo complessivo. Qui viene conservato soltanto il contributo specifico sulla qualità dell'ascolto e sulla gestione della diffidenza.
+
+Fonte precedente: [Come vendere di più creando affinità e fiducia con i clienti](https://www.youtube.com/watch?v=NB9g-DhSj-4), 2 aprile 2023. [Revisione](../../sources/transcripts/NB9g-DhSj-4.review.md).
+
 ## Standardizzare la diagnosi, personalizzare la prescrizione
 
 Nel materiale del 7 gennaio 2025 Merenda chiarisce un passaggio organizzativo della vendita consulenziale: il fatto che ogni cliente sia diverso **non giustifica una trattativa improvvisata**.
