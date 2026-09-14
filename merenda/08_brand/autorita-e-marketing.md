@@ -216,6 +216,43 @@ Resta invece valido il principio non contraddetto:
 
 **quando possibile, costruire autorità prima di chiedere alla lead generation e alla vendita di fare tutto il lavoro.**
 
+## Fiducia nell'azienda e fiducia nella propria decisione
+
+Nel materiale del 17 gennaio 2025 Merenda distingue due forme di rischio che diventano particolarmente importanti quando la scelta è costosa, complessa o difficile da invertire:
+
+1. **fiducia nel fornitore** — “questa azienda/persona manterrà ciò che promette?”;
+2. **fiducia del cliente nella propria capacità di scegliere** — “sono sicuro di non stare facendo una scelta che poi mi farà pentire?”
+
+Un brand noto riduce spesso entrambe le frizioni perché offre una scelta socialmente più difendibile. Il vantaggio non dimostra automaticamente qualità tecnica superiore: riduce il rischio percepito di essere accusati — dagli altri o da sé stessi — di aver scelto male.
+
+Per una PMI sconosciuta il marketing deve quindi rispondere non soltanto a:
+
+**“perché dovresti scegliere me?”**
+
+ma anche a:
+
+**“perché dovresti credere a ciò che sto dicendo, e quali elementi ti permettono di sentirti ragionevolmente sicuro della decisione?”**
+
+### La prova non va relegata alla fine
+
+Quando il prospect è freddo e il rischio percepito è alto, la costruzione della fiducia non dovrebbe comparire soltanto in una clausola finale o in poche righe “chi siamo”.
+
+Può essere distribuita fin dall'inizio mediante:
+
+- prove specifiche;
+- testimonianze pertinenti;
+- casi;
+- garanzie/risk reversal sostenibili;
+- spiegazione del processo;
+- criteri verificabili;
+- autorità costruita prima del contatto.
+
+Più la relazione è già calda — cliente, lista proprietaria, referral qualificato — meno lavoro iniziale può essere necessario. Più il pubblico è freddo e diffidente, più la prova deve essere esplicita prima di chiedere una decisione.
+
+La fonte del 2025 precede gli insegnamenti 2026 già presenti in questo documento sulla quantità competitiva di prova e sul vantaggio storico del leader. Resta valida come chiarimento del **meccanismo psicologico**: la prova aiuta sia a fidarsi del fornitore sia a sentirsi capaci di prendere una decisione difendibile.
+
+Fonte precedente: [Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato](https://www.youtube.com/watch?v=Zzh6PXGTmD0), 17 gennaio 2025. [Revisione](../../sources/transcripts/Zzh6PXGTmD0.review.md).
+
 ## Recensioni e testimonianze come PR della PMI
 
 Nel materiale del 2025 Merenda descrive recensioni, testimonianze, storie di successo e passaparola come le PR più immediatamente disponibili a una PMI che non possiede ancora notorietà mediatica.

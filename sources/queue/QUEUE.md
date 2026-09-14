@@ -256,7 +256,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 242 | [rcVXvepx-l8](https://www.youtube.com/watch?v=rcVXvepx-l8) — Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | 01_mercato | STUDIATO |
 | 243 | [gcQKKrbZW28](https://www.youtube.com/watch?v=gcQKKrbZW28) — Live Events: How to Generate Extraordinary Sales Without Wasting Budget | 04_marketing | STUDIATO |
 | 244 | [sa45UbN4sMI](https://www.youtube.com/watch?v=sa45UbN4sMI) — 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | 06_vendita | STUDIATO |
-| 245 | [Zzh6PXGTmD0](https://www.youtube.com/watch?v=Zzh6PXGTmD0) — Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | 06_vendita | DA STUDIARE |
+| 245 | [Zzh6PXGTmD0](https://www.youtube.com/watch?v=Zzh6PXGTmD0) — Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | 08_brand | STUDIATO |
 | 246 | [bWNr-tHknvw](https://www.youtube.com/watch?v=bWNr-tHknvw) — Frank Merenda's Formula for Selling Any Product | 06_vendita | DA STUDIARE |
 | 247 | [V8CVwcH5rwA](https://www.youtube.com/watch?v=V8CVwcH5rwA) — 🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi | 06_vendita | DA STUDIARE |
 | 248 | [r649dAXopLM](https://www.youtube.com/watch?v=r649dAXopLM) — Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | 06_vendita | DA STUDIARE |
