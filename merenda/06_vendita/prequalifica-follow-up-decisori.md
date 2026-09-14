@@ -158,6 +158,22 @@ Merenda distingue le motivazioni dell'imprenditore, orientato al risultato azien
 Il venditore deve adattare la trattativa all'interlocutore. Quando passa dal manager al decisore superiore, riparte dalle motivazioni di quest'ultimo; ripetere identiche caratteristiche, vantaggi e benefici a ogni livello rischia di perdere la vendita. Il video annuncia una successiva «mappa decisionale», senza insegnarne qui la procedura completa. [37:18–38:18](https://www.youtube.com/watch?v=ePxhx94vW7g&t=2238s)
 
 
+### Materiali diversi per decisori diversi
+
+Nel materiale del 30 giugno 2022 Merenda applica la stessa logica anche alle vendite B2B con più decisori.
+
+Quando una decisione coinvolge, per esempio, ufficio acquisti, responsabile tecnico e imprenditore/CDA, il materiale di pre-vendita non dovrebbe essere necessariamente identico per tutti. Il nucleo può restare comune, ma una parte va adattata alle motivazioni e alle obiezioni specifiche del ruolo.
+
+Il principio è lo stesso della trattativa one-to-one:
+
+**stessa offerta, interlocutori diversi → dialoghi mentali e criteri di decisione diversi.**
+
+Nelle organizzazioni con più livelli, il materiale può quindi essere preparato “a strati” o in versioni successive, così che chi sponsorizza internamente la proposta disponga di argomenti adatti al livello decisionale seguente.
+
+La percentuale di personalizzazione citata nella lezione è un esempio, non una soglia. Ciò che resta è la necessità di mappare gli stakeholder e non delegare a un solo interlocutore il compito di tradurre una proposta generica per tutti gli altri decisori.
+
+Fonte precedente: [Strategie di Marketing per trovare clienti — Dan Kennedy e il Paccone](https://www.youtube.com/watch?v=joY6sigynis), 30 giugno 2022. [Revisione](../../sources/transcripts/joY6sigynis.review.md).
+
 ## Vendita consulenziale: diagnosi, fatti e prescrizione
 
 Nel materiale del 7 giugno 2024 Merenda descrive una forma di vendita consulenziale nella quale il professionista non si limita a essere gentile o tecnicamente preparato.

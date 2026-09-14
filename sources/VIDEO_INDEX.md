@@ -156,7 +156,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 146 | F1seup0MuLk | da acquisire | [Come fare una campagna marketing di successo &#124; La piramide del Marketing](https://www.youtube.com/watch?v=F1seup0MuLk) | 4003.0 | 04_marketing | 2 | STUDIATO | streams |
 | 147 | VRXyHpVBvAo | da acquisire | [STRATEGIE DI MARKETING &#124; Risposte di Frank Merenda, esperto di Marketing #1](https://www.youtube.com/watch?v=VRXyHpVBvAo) | 4970.0 | 04_marketing | 2 | STUDIATO | streams |
 | 148 | W9IOyR3fsEo | da acquisire | [Mental Manipulation &#124; Dan Kennedy and Unfair Marketing Techniques](https://www.youtube.com/watch?v=W9IOyR3fsEo) | 5606.0 | 08_brand | 2 | STUDIATO | streams |
-| 149 | joY6sigynis | da acquisire | [Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE](https://www.youtube.com/watch?v=joY6sigynis) | 5287.0 | 04_marketing | 2 | DA STUDIARE | streams |
+| 149 | joY6sigynis | da acquisire | [Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE](https://www.youtube.com/watch?v=joY6sigynis) | 5287.0 | 05_acquisizione | 2 | STUDIATO | streams |
 | 150 | ijVoIMF_gn8 | da acquisire | [DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta](https://www.youtube.com/watch?v=ijVoIMF_gn8) | 5549.0 | 04_marketing | 2 | DA STUDIARE | streams |
 | 151 | VN1d2qBc0U0 | da acquisire | [Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing]](https://www.youtube.com/watch?v=VN1d2qBc0U0) | 3419.0 | 04_marketing | 2 | DA STUDIARE | streams |
 | 152 | 8R8NR6nqhJY | da acquisire | ["I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue](https://www.youtube.com/watch?v=8R8NR6nqhJY) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |

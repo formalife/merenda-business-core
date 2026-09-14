@@ -235,6 +235,25 @@ Un pacchetto costoso inviato indiscriminatamente può trasformare uno strumento 
 
 Fonte precedente: [Marketing a Risposta Diretta — Cos'è il paccone nel Direct Marketing](https://www.youtube.com/watch?v=2LVrzGFBcmg), 24 agosto 2022. [Revisione](../../sources/transcripts/2LVrzGFBcmg.review.md).
 
+## Information marketing lungo il ciclo cliente
+
+La lezione completa del 30 giugno 2022 sul “paccone” mostra che lo stesso principio — **preparare informazioni prima di allocare tempo commerciale costoso** — può svolgere funzioni diverse a seconda dello stato della relazione.
+
+Merenda presenta sette configurazioni del pacchetto fisico e poi le riduce operativamente a poche funzioni ricorrenti:
+
+- **acquisizione** — educare e premotivare nuovi prospect prima della vendita;
+- **referral** — dare a clienti soddisfatti un modo strutturato per presentare l'azienda ad altri;
+- **riattivazione** — ricontattare clienti che, rispetto alla normale frequenza d'acquisto, risultano fermi;
+- **filtro / difesa** — nei business in cui il pubblico può arrivare direttamente al professionista o venditore, far consumare prima materiali che spiegano metodo, aspettative e condizioni.
+
+Il mezzo fisico è l'implementazione discussa nella lezione, non la regola universale. La logica riusabile è progettare **materiali diversi per funzioni diverse** invece di usare lo stesso contenuto indistinto con sconosciuti, clienti fermi, referral e richieste inbound.
+
+L'ordine di priorità del 2022 — che in questa lezione mette molto presto referral e riattivazione — non viene trattato come gerarchia definitiva: per l'ordine interno prevalgono le formulazioni più recenti del 2025 sulla [riattivazione dei clienti](../04_marketing/riattivazione-clienti.md). Resta valido il principio che acquisire nuova domanda mentre si stanno perdendo clienti o ignorando relazioni già costruite può amplificare inefficienze invece di risolverle.
+
+La lezione insiste inoltre sul follow-up dopo l'invio: il materiale non sostituisce l'azione successiva. Il funnel deve prevedere ricontatto e passaggio alla persona competente quando il prospect ha consumato abbastanza informazione.
+
+Fonte precedente: [Strategie di Marketing per trovare clienti — Dan Kennedy e il Paccone](https://www.youtube.com/watch?v=joY6sigynis), 30 giugno 2022. [Revisione](../../sources/transcripts/joY6sigynis.review.md).
+
 ## Compressione della piramide
 
 Con target piccoli, identificabili e ad alto valore, alcuni gradini possono essere compressi.

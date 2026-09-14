@@ -157,7 +157,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 145 | [F1seup0MuLk](https://www.youtube.com/watch?v=F1seup0MuLk) — Come fare una campagna marketing di successo &#124; La piramide del Marketing | 04_marketing | STUDIATO |
 | 146 | [VRXyHpVBvAo](https://www.youtube.com/watch?v=VRXyHpVBvAo) — STRATEGIE DI MARKETING &#124; Risposte di Frank Merenda, esperto di Marketing #1 | 04_marketing | STUDIATO |
 | 147 | [W9IOyR3fsEo](https://www.youtube.com/watch?v=W9IOyR3fsEo) — Mental Manipulation &#124; Dan Kennedy and Unfair Marketing Techniques | 08_brand | STUDIATO |
-| 148 | [joY6sigynis](https://www.youtube.com/watch?v=joY6sigynis) — Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE | 04_marketing | DA STUDIARE |
+| 148 | [joY6sigynis](https://www.youtube.com/watch?v=joY6sigynis) — Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE | 05_acquisizione | STUDIATO |
 | 149 | [ijVoIMF_gn8](https://www.youtube.com/watch?v=ijVoIMF_gn8) — DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | 04_marketing | DA STUDIARE |
 | 150 | [VN1d2qBc0U0](https://www.youtube.com/watch?v=VN1d2qBc0U0) — Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | 04_marketing | DA STUDIARE |
 | 151 | [8R8NR6nqhJY](https://www.youtube.com/watch?v=8R8NR6nqhJY) — "I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue | 04_marketing | DA STUDIARE |
