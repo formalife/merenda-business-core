@@ -35,6 +35,8 @@ ACTIVE — fasi 1–6 complete; contenuti 1–150 processati semanticamente; che
 - Checkpoint Claude richiesto ora: YES
 - Dopo il checkpoint 150: prossimo refactor 175; prossimo audit tassonomia 200.
 
+Documento checkpoint corrente: `reviews/CHECKPOINT_150.md`.
+
 Documento precedente: `reviews/CHECKPOINT_125.md`.
 
 ## Batch 126–150
