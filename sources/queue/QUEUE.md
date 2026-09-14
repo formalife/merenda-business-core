@@ -273,7 +273,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 06_vendita | STUDIATO |
 | 260 | [XDnktZGk-ZM](https://www.youtube.com/watch?v=XDnktZGk-ZM) — How to Sell More? Learn from the Money-Grabbing Method of American Churches | 01_mercato | STUDIATO |
 | 261 | [A4I-A5hldQw](https://www.youtube.com/watch?v=A4I-A5hldQw) — VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | 06_vendita | STUDIATO |
-| 262 | [RExoYxfxFWQ](https://www.youtube.com/watch?v=RExoYxfxFWQ) — TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA | 06_vendita | DA STUDIARE |
+| 262 | [RExoYxfxFWQ](https://www.youtube.com/watch?v=RExoYxfxFWQ) — TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA | 06_vendita | STUDIATO |
 | 263 | [HJBySYV6HjA](https://www.youtube.com/watch?v=HJBySYV6HjA) — Close the SALES NEGOTIATIONS thanks to the Authority | 06_vendita | DA STUDIARE |
 | 264 | [9FpKpV15B_4](https://www.youtube.com/watch?v=9FpKpV15B_4) — COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | 06_vendita | DA STUDIARE |
 | 265 | [imdxn91jLik](https://www.youtube.com/watch?v=imdxn91jLik) — How to create a high-performance sales network | 06_vendita | DA STUDIARE |
