@@ -184,7 +184,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 174 | y17XqNh4nww | da acquisire | [The Mortadella Shop Marketing Lesson in Bologna](https://www.youtube.com/watch?v=y17XqNh4nww) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 175 | i_nXlRCdgPA | da acquisire | [Medical Clinic's Turnover Doubled Thanks to Merenda Method Marketing](https://www.youtube.com/watch?v=i_nXlRCdgPA) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 176 | YvfN2NUwXtY | da acquisire | [Marketing per il tuo CENTRO ESTETICO #shorts](https://www.youtube.com/watch?v=YvfN2NUwXtY) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
-| 177 | aw3Fu_LTH34 | da acquisire | [What does Marketing #shorts mean?](https://www.youtube.com/watch?v=aw3Fu_LTH34) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 177 | aw3Fu_LTH34 | da acquisire | [What does Marketing #shorts mean?](https://www.youtube.com/watch?v=aw3Fu_LTH34) | n.d. | 00_fondamenti | 3 | STUDIATO | shorts |
 | 178 | znVPLom4j70 | da acquisire | [Marketing for Dentists &#124; Here's What Happens When a Dentist Does Marketing #shots](https://www.youtube.com/watch?v=znVPLom4j70) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 179 | Qk41565Wvqk | da acquisire | [Strategic Marketing for Restaurants - Guapo Argentine Restaurant #shorts](https://www.youtube.com/watch?v=Qk41565Wvqk) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 180 | y-8LBcQsS9M | da acquisire | [RESTAURANT MARKETING &#124; Launching a Successful Restaurant](https://www.youtube.com/watch?v=y-8LBcQsS9M) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |

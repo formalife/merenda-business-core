@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–172 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–173 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–172/175. `YvfN2NUwXtY` studiato come caso applicativo e riclassificato in `10_casi_studio`. Prossima azione: fasi 8–13 su `aw3Fu_LTH34` (posizione canonica 173). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–173/175. `aw3Fu_LTH34` studiato e riclassificato in `00_fondamenti`, senza duplicazioni. Prossima azione: fasi 8–13 su `znVPLom4j70` (posizione canonica 174). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 172
-- STUDIATO / integrati nella KB: 166
+- Contenuti processati semanticamente: 173
+- STUDIATO / integrati nella KB: 167
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 296
+- Da processare: 295
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `aw3Fu_LTH34` — *Cosa significa Marketing #shorts* — posizione canonica 173 della queue. I video 151–172 sono completati semanticamente.
+Continuare il batch **151–175** con `znVPLom4j70` — *MARKETING per DENTISTI | Ecco Cosa Succede quando un Dentista fa Marketing #shots* — posizione canonica 174 della queue. I video 151–173 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **22/25** contenuti del batch completati. Ultimo: `YvfN2NUwXtY` → `10_casi_studio`, `STUDIATO`; nessuna nuova dottrina. Contenuti semanticamente processati: **172**.
+- Revisione semantica in corso: **23/25** contenuti del batch completati. Ultimo: `aw3Fu_LTH34` → `00_fondamenti`, `STUDIATO`; nessuna nuova dottrina. Contenuti semanticamente processati: **173**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 
