@@ -194,7 +194,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 184 | 6tgz9aFzyNE | da acquisire | [Come TROVARE più CLIENTI grazie al Marketing #shorts](https://www.youtube.com/watch?v=6tgz9aFzyNE) | n.d. | 02_posizionamento | 3 | STUDIATO | shorts |
 | 185 | G7Jiu-Ig9vI | da acquisire | [Woke marketing e Cancel Culture? #shorts @disneyplus @Netflix](https://www.youtube.com/watch?v=G7Jiu-Ig9vI) | n.d. | 04_marketing | 3 | STUDIATO | shorts |
 | 186 | Revqwijd6P0 | da acquisire | [Marketing o location? #shorts](https://www.youtube.com/watch?v=Revqwijd6P0) | n.d. | 09_business | 3 | STUDIATO | shorts |
-| 187 | R9fhEHLn8ww | da acquisire | [La campagna marketing di maggior successo [Parte 2] #shorts](https://www.youtube.com/watch?v=R9fhEHLn8ww) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 187 | R9fhEHLn8ww | da acquisire | [La campagna marketing di maggior successo [Parte 2] #shorts](https://www.youtube.com/watch?v=R9fhEHLn8ww) | n.d. | 05_acquisizione | 3 | STUDIATO | shorts |
 | 188 | Gy82YE1iul4 | da acquisire | [La campagna marketing di maggior successo di Metodo Merenda [Parte 1] #shorts](https://www.youtube.com/watch?v=Gy82YE1iul4) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 189 | Qt4lGjC-NdY | da acquisire | [Guerrilla Marketing: Funziona? #shorts](https://www.youtube.com/watch?v=Qt4lGjC-NdY) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 190 | H_dkTYpFb8I | da acquisire | [Email Marketing: The Campaign No One Ever Taught You](https://www.youtube.com/watch?v=H_dkTYpFb8I) | 3629.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
