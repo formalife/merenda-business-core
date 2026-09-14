@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:52:43.610177+00:00
+Ultimo aggiornamento: 2026-09-14T19:52:59.092751+00:00
 
 Batch: 25 video
-Completati tecnicamente: 17/25
+Completati tecnicamente: 18/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -24,7 +24,7 @@ Completati tecnicamente: 17/25
 | 15 | imdxn91jLik | How to create a high-performance sales network | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | NB9g-DhSj-4 | Come vendere di più creando affinità e fiducia con i clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | Vqn55dABlHQ | How to SELL more to your active customers | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 18 | IGR6IPPvY3Q | How to Sell More to the Right Target \| The 7 Types of Customers [Part 2] | PENDING |  |
+| 18 | IGR6IPPvY3Q | How to Sell More to the Right Target \| The 7 Types of Customers [Part 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | 9YoGG3UT1Yc | How to Sell More to the Right Target \| The 7 Types of Customers [Part 1] | PENDING |  |
 | 20 | 21iVqc13KoE | Come vendere di più utilizzando gli script di vendita | PENDING |  |
 | 21 | D96IKTeUfK4 | How to sell more thanks to mental dialogue | PENDING |  |
