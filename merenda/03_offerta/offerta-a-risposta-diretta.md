@@ -77,6 +77,25 @@ Questo può accadere attraverso:
 
 La progettazione deve sempre considerare conversione, margine e costo di acquisizione.
 
+### Costruire il bundle attorno al risultato d'uso
+
+Nel materiale del 23 settembre 2025 Merenda mostra un modo concreto per progettare bundle meno arbitrari: partire da **ciò che il cliente vuole fare**, non dall'esigenza interna di vendere più SKU.
+
+Nel caso dei prodotti tipici, una ricetta:
+
+1. rende visibile un risultato concreto;
+2. riduce l'attrito spiegando come ottenerlo rapidamente;
+3. identifica i componenti necessari;
+4. collega quei componenti a un bundle acquistabile.
+
+Il modello è:
+
+**risultato desiderato → contenuto che mostra come ottenerlo → insieme dei componenti necessari → bundle semplice da acquistare.**
+
+Il contenuto diventa quindi parte dell'offerta. Un bundle non è forte perché contiene più prodotti o perché è scontato: deve rendere più semplice ottenere un risultato che il target desidera.
+
+Fonte: [Digital Marketing Per Prodotti Tipici: La Formula Dei Bundle Vincenti](https://www.youtube.com/watch?v=degAX4kvT-0), 23 settembre 2025. [Revisione](../../sources/transcripts/degAX4kvT-0.review.md).
+
 ### Coerente col posizionamento
 
 Un brand premium non dovrebbe attirare clienti con un'esperienza che contraddice il proprio significato.
