@@ -82,6 +82,39 @@ Va riesaminata e testata sui punti che incidono sulla risposta:
 
 Il criterio non è il gusto del designer o del titolare ma la conversione e, a valle, la qualità economica delle vendite generate.
 
+## Il funnel minimo è una catena diagnostica
+
+Nel materiale del 1 dicembre 2025 Merenda esplicita una struttura minima utile per diagnosticare una campagna prima di concludere genericamente che “il canale non funziona”.
+
+La catena comprende, in forma semplificata:
+
+**traffico/ads → lead magnet e raccolta dati → credibilità e contenuto → follow-up multicanale → offerta di front-end → esperienza/erogazione → back-end → cross-sell, upsell, downsell e continuità quando appropriati.**
+
+Il lead magnet è una proposta di valore sufficientemente interessante da ottenere dati di contatto utilizzabili con le autorizzazioni necessarie. Può esistere online o offline: il principio è identificare il prospect e aprire una relazione, non il formato specifico.
+
+Ogni passaggio ha due dimensioni distinte:
+
+- **esistenza** — il passaggio è stato realmente progettato;
+- **qualità di esecuzione** — messaggio, prova, offerta, follow-up e vendita sono abbastanza forti da convertire.
+
+Avere semplicemente “fatto Facebook”, “fatto Google”, “messo una landing” o “creato un front-end” non dimostra che il sistema sia stato testato correttamente.
+
+La diagnosi deve quindi procedere lungo la catena:
+
+1. il traffico è appropriato?
+2. il primo scambio di valore porta contatti utilizzabili?
+3. il prospect riceve abbastanza prova e credibilità?
+4. il follow-up porta realmente verso il primo passo?
+5. il front-end riduce rischio e attrito?
+6. l'erogazione conferma la promessa?
+7. il back-end e le vendite successive sono progettati?
+
+Il principio è **diagnosticare il sistema per stadi prima di attribuire il fallimento a un singolo canale**.
+
+Le forme specifiche citate nel video — pacco fisico, VSL, libro, telefono, membership — sono esempi di implementazione e non componenti obbligatori di ogni funnel.
+
+Fonte più recente: [How to Create a Marketing Funnel That Works (Even on a Limited Budget)](https://www.youtube.com/watch?v=0_dyJ0ZJMEE), 1 dicembre 2025. [Revisione](../../sources/transcripts/0_dyJ0ZJMEE.review.md).
+
 ## Collegamenti
 
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)

@@ -208,7 +208,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 194 | [k2H4428Uj00](https://www.youtube.com/watch?v=k2H4428Uj00) — FACEBOOK ADS vs. GOOGLE ADS - Which is better to use? | 04_marketing | STUDIATO |
 | 195 | [MOrs4uWtXO0](https://www.youtube.com/watch?v=MOrs4uWtXO0) — STRATEGIE DI MARKETING per NUTRIZIONISTI: come si crea un Front-end efficace? | 02_posizionamento | STUDIATO |
 | 196 | [JXQkNx5YyX8](https://www.youtube.com/watch?v=JXQkNx5YyX8) — Marketing &#124; How to Create a Front End That Converts | 05_acquisizione | STUDIATO |
-| 197 | [0_dyJ0ZJMEE](https://www.youtube.com/watch?v=0_dyJ0ZJMEE) — How to Create a Marketing Funnel That Works (Even on a Limited Budget) - A Guide for SMBs | 05_acquisizione | DA STUDIARE |
+| 197 | [0_dyJ0ZJMEE](https://www.youtube.com/watch?v=0_dyJ0ZJMEE) — How to Create a Marketing Funnel That Works (Even on a Limited Budget) - A Guide for SMBs | 05_acquisizione | STUDIATO |
 | 198 | [j171O4uv45I](https://www.youtube.com/watch?v=j171O4uv45I) — Direct Response Marketing: 12 Strategies to Triple Your Customers (Without Spending on Advertising) | 05_acquisizione | DA STUDIARE |
 | 199 | [8xBneQflDhY](https://www.youtube.com/watch?v=8xBneQflDhY) — Quali Sono I Costi Di Una Campagna Di Lead Generation? Scopri I Dettagli | 05_acquisizione | DA STUDIARE |
 | 200 | [bW_LBSe6s5U](https://www.youtube.com/watch?v=bW_LBSe6s5U) — 🔴 Creare Un Funnel Da Zero: Il Sistema Usato Dalle Aziende Che Guadagnano Milioni | 05_acquisizione | DA STUDIARE |
