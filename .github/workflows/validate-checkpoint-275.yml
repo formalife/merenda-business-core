@@ -19,13 +19,16 @@ jobs:
           fetch-depth: 0
       - name: Git diff check
         run: git diff --check e75aeca6b76f2e94678608dd90a2e550d7d486db..HEAD
-      - name: Project validator
+      - name: Project validator counts
         shell: bash
         run: |
           set +e
           python3 scripts/validate_project.py > /tmp/validator.txt 2>&1
           code=$?
-          cat /tmp/validator.txt
           echo "VALIDATOR_EXIT_CODE=$code"
-          echo "VALIDATOR_WARNING_LINES=$(grep -c '^WARNING\|warning\|Warning' /tmp/validator.txt || true)"
+          echo "VALIDATOR_TOTAL_LINES=$(wc -l < /tmp/validator.txt)"
+          echo "VALIDATOR_ORDER_STATE=$(grep -c '^Ordine/stato incoerente:' /tmp/validator.txt || true)"
+          echo "VALIDATOR_FROZEN=$(grep -c '^File congelato modificato:' /tmp/validator.txt || true)"
+          echo "VALIDATOR_STATUS=$(grep -c '^Contatore STATUS errato:' /tmp/validator.txt || true)"
+          tail -n 12 /tmp/validator.txt
           exit 0
