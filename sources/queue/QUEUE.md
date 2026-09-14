@@ -266,13 +266,13 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 252 | [rI00A_jHqz8](https://www.youtube.com/watch?v=rI00A_jHqz8) — Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo | 10_casi_studio | STUDIATO |
 | 253 | [-_oOcTQgkcY](https://www.youtube.com/watch?v=-_oOcTQgkcY) — The Best SALES TECHNIQUES on the Internet | 06_vendita | STUDIATO |
 | 254 | [P_LavmWySLs](https://www.youtube.com/watch?v=P_LavmWySLs) — How to Sell Anything With Frank Merenda's "Secret Word" | 02_posizionamento | STUDIATO |
-| 255 | [an5eXiIyyiA](https://www.youtube.com/watch?v=an5eXiIyyiA) — How to Create High-Converting Ads [That Sell] | 06_vendita | STUDIATO |
+| 255 | [an5eXiIyyiA](https://www.youtube.com/watch?v=an5eXiIyyiA) — How to Create High-Converting Ads [That Sell] | 04_marketing | STUDIATO |
 | 256 | [wDPyGhkY_CA](https://www.youtube.com/watch?v=wDPyGhkY_CA) — The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients | 03_offerta | STUDIATO |
 | 257 | [oefQwsBIUc0](https://www.youtube.com/watch?v=oefQwsBIUc0) — RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati] | 06_vendita | STUDIATO |
 | 258 | [jzQcezkw8_o](https://www.youtube.com/watch?v=jzQcezkw8_o) — How to Manage a Top-Rated Sales Network | 06_vendita | STUDIATO |
-| 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 06_vendita | STUDIATO |
+| 259 | [5-UeSJzSvos](https://www.youtube.com/watch?v=5-UeSJzSvos) — Da Estetista a Imprenditrice: Le Tecniche di Vendita che portano al Successo | 10_casi_studio | STUDIATO |
 | 260 | [XDnktZGk-ZM](https://www.youtube.com/watch?v=XDnktZGk-ZM) — How to Sell More? Learn from the Money-Grabbing Method of American Churches | 01_mercato | STUDIATO |
-| 261 | [A4I-A5hldQw](https://www.youtube.com/watch?v=A4I-A5hldQw) — VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | 06_vendita | STUDIATO |
+| 261 | [A4I-A5hldQw](https://www.youtube.com/watch?v=A4I-A5hldQw) — VENDERE di più grazie alle PR - [ Live Fabio e Riccardo Biancolini] | 08_brand | STUDIATO |
 | 262 | [RExoYxfxFWQ](https://www.youtube.com/watch?v=RExoYxfxFWQ) — TECNICHE DI VENDITA &#124; Script e Processi per diventare un VENDITORE PROFESSIONISTA | 06_vendita | STUDIATO |
 | 263 | [HJBySYV6HjA](https://www.youtube.com/watch?v=HJBySYV6HjA) — Close the SALES NEGOTIATIONS thanks to the Authority | 08_brand | STUDIATO |
 | 264 | [9FpKpV15B_4](https://www.youtube.com/watch?v=9FpKpV15B_4) — COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | 07_copy_comunicazione | STUDIATO |
