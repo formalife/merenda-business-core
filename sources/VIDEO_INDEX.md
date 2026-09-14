@@ -239,7 +239,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 229 | pJZSih3Lguw | da acquisire | [Come si crea un Front End? #shorts](https://www.youtube.com/watch?v=pJZSih3Lguw) | n.d. | 03_offerta | 3 | STUDIATO | shorts |
 | 230 | WCP26HC6wd0 | da acquisire | [Marketing Strategies &#124; Two Ways to Create a Perfect Front-End Website](https://www.youtube.com/watch?v=WCP26HC6wd0) | n.d. | 03_offerta | 3 | STUDIATO | shorts |
 | 231 | m53_BsS_x8U | acquisito | [Video animati per Landing page - Strategia di marketing corretta? #shorts](https://www.youtube.com/watch?v=m53_BsS_x8U) | n.d. | 05_acquisizione | 3 | STUDIATO | shorts |
-| 232 | n_5xPjN-NZY | da acquisire | [50% of Customers Go to the Leader. What Are You Doing?](https://www.youtube.com/watch?v=n_5xPjN-NZY) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
+| 232 | n_5xPjN-NZY | acquisito | [50% of Customers Go to the Leader. What Are You Doing?](https://www.youtube.com/watch?v=n_5xPjN-NZY) | n.d. | 08_brand | 3 | STUDIATO | shorts |
 | 233 | W90bBHzfPMI | da acquisire | [❌ Stop Wasting Money on Advertising: ✅ Work on the Customers You Already Have!](https://www.youtube.com/watch?v=W90bBHzfPMI) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 234 | 7zRyOC3Z0lM | da acquisire | [Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer](https://www.youtube.com/watch?v=7zRyOC3Z0lM) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 235 | Qg8Z2Oh5z3s | da acquisire | [SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder](https://www.youtube.com/watch?v=Qg8Z2Oh5z3s) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
