@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:09:07.359052+00:00
+Ultimo aggiornamento: 2026-09-14T13:09:25.231783+00:00
 
 Batch: 25 video
-Completati tecnicamente: 4/25
+Completati tecnicamente: 5/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -11,7 +11,7 @@ Completati tecnicamente: 4/25
 | 2 | QJUjdX0zglA | LEAD GENERATION \| Come Trovare il Cliente ideale [Non adatto alle Web Agency] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 3 | uayjrQ6GWQc | How to Acquire Profiled Contacts with Lead Generation [Done Right] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | nAqH9enAM1U | Lead Generation: What It Means and How to Do It [Which Tools to Use] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 5 | R22IWnVNYus | Come trovare nuovi clienti con campagne di Lead Generation | PENDING |  |
+| 5 | R22IWnVNYus | Come trovare nuovi clienti con campagne di Lead Generation | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | zfmFg5L7VDU | How to Do Lead Generation in Your Business \| Key Concepts | PENDING |  |
 | 7 | saBj3DmgsCg | Lead Generation: How to Create a Winning Sales Funnel | PENDING |  |
 | 8 | -lqseFTfCzk | How to Create a Funnel [Complete Guide to Lead Generation] | PENDING |  |
