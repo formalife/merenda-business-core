@@ -174,6 +174,48 @@ La percentuale di personalizzazione citata nella lezione è un esempio, non una 
 
 Fonte precedente: [Strategie di Marketing per trovare clienti — Dan Kennedy e il Paccone](https://www.youtube.com/watch?v=joY6sigynis), 30 giugno 2022. [Revisione](../../sources/transcripts/joY6sigynis.review.md).
 
+## Standardizzare la diagnosi, personalizzare la prescrizione
+
+Nel materiale del 7 gennaio 2025 Merenda chiarisce un passaggio organizzativo della vendita consulenziale: il fatto che ogni cliente sia diverso **non giustifica una trattativa improvvisata**.
+
+La distinzione proposta è:
+
+- **diagnosi standardizzata** — una sequenza comune di domande, controlli e passaggi che permette di capire la situazione;
+- **prescrizione personalizzata** — la soluzione finale cambia in funzione di ciò che la diagnosi ha fatto emergere.
+
+In forma sintetica:
+
+**stesso metodo di analisi → evidenze diverse → prescrizione diversa.**
+
+Questo riduce la dipendenza dallo stile individuale del singolo venditore e rende più semplice:
+
+- formare la rete;
+- confrontare trattative;
+- individuare dove il processo si rompe;
+- trasferire le pratiche migliori;
+- mantenere coerenza con posizionamento, copy e materiali di pre-vendita.
+
+Uno script non deve trasformare il venditore in un lettore meccanico. È una **coreografia diagnostica minima**: definisce ciò che non può essere dimenticato, lasciando adattabile linguaggio, approfondimento e prescrizione.
+
+### Marketing e vendita devono coprirsi a vicenda senza scaricarsi la colpa
+
+La fonte descrive quattro strati che cooperano prima e durante la trattativa:
+
+1. posizionamento;
+2. copy/materiali;
+3. automazioni e pre-vendita;
+4. venditore preparato.
+
+Se i primi tre sono deboli, il venditore deve fare più lavoro; se la vendita è improvvisata, anche lead ben generati possono essere sprecati.
+
+Le proporzioni “10/10/80” e l'“80%” attribuito al venditore sono esempi retorici del video, non benchmark.
+
+Il principio attivo è:
+
+**non diagnosticare automaticamente “lead scadenti” quando il sistema commerciale non segue un processo ripetibile.**
+
+Fonte precedente: [TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi](https://www.youtube.com/watch?v=V8CVwcH5rwA), 7 gennaio 2025. [Revisione](../../sources/transcripts/V8CVwcH5rwA.review.md).
+
 ## Vendita consulenziale: diagnosi, fatti e prescrizione
 
 Nel materiale del 7 giugno 2024 Merenda descrive una forma di vendita consulenziale nella quale il professionista non si limita a essere gentile o tecnicamente preparato.
