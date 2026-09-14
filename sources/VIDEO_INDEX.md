@@ -177,7 +177,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 167 | qIG_0TMol8s | da acquisire | [Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts](https://www.youtube.com/watch?v=qIG_0TMol8s) | n.d. | 00_fondamenti | 3 | STUDIATO | shorts |
 | 168 | fpao23ulhkQ | da acquisire | [Why You Shouldn't Spend on Marketing (Unless You Do This First)](https://www.youtube.com/watch?v=fpao23ulhkQ) | n.d. | 02_posizionamento | 3 | STUDIATO | shorts |
 | 169 | 9zvNhQOpRI4 | da acquisire | [Is Marketing Important? This Is the Definitive Answer](https://www.youtube.com/watch?v=9zvNhQOpRI4) | n.d. | 00_fondamenti | 3 | STUDIATO | shorts |
-| 170 | oQXsQzrIv2M | da acquisire | [Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market](https://www.youtube.com/watch?v=oQXsQzrIv2M) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 170 | oQXsQzrIv2M | da acquisire | [Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market](https://www.youtube.com/watch?v=oQXsQzrIv2M) | n.d. | 04_marketing | 3 | STUDIATO | shorts |
 | 171 | PKgWYVvme2s | da acquisire | [Customer Experience: The Marketing Secret No One Tells You](https://www.youtube.com/watch?v=PKgWYVvme2s) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 172 | degAX4kvT-0 | da acquisire | [Digital Marketing for Typical Products: The Formula for Winning Bundles](https://www.youtube.com/watch?v=degAX4kvT-0) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 173 | sJ-PgDVRmwY | da acquisire | [Luciano Pavarotti's Restaurant in Modena: When Authority Surpasses Marketing](https://www.youtube.com/watch?v=sJ-PgDVRmwY) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |

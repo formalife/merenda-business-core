@@ -21,6 +21,27 @@ Questo collega la scelta dei canali al [follow-up commerciale](../06_vendita/pre
 
 Fonte precedente: [Come fare una campagna marketing di successo — La piramide del Marketing](https://www.youtube.com/watch?v=F1seup0MuLk), 24 gennaio 2023. [Revisione](../../sources/transcripts/F1seup0MuLk.review.md).
 
+## Quando i vincoli restringono l'acquisizione, aumenta il peso della relazione
+
+Nel materiale del 2 febbraio 2026 Merenda usa il caso delle cliniche per mostrare un principio più generale: **quando regole di settore, piattaforme o altri vincoli riducono le leve promozionali utilizzabili, l'economia non può essere progettata come se l'acquisizione fosse libera e a basso attrito**.
+
+La risposta descritta nel video sposta più peso su:
+
+- referral;
+- presa in carico commerciale;
+- retention;
+- cross-sell coerente;
+- lifetime value;
+- controllo del costo di acquisizione rispetto al margine nel tempo.
+
+Il modello diventa:
+
+**vincoli sull'acquisizione → meno leve disponibili → maggiore importanza di referral, conversione, retention e LTV.**
+
+Le affermazioni normative del caso non vengono trasformate in regole giuridiche generali della KB. Il principio attivo è adattare il mix economico e commerciale ai vincoli realmente applicabili al settore.
+
+Fonte: [Marketing Per Cliniche Mediche: Come Sopravvivere Alle Normative Italiane E Vincere Sul Mercato](https://www.youtube.com/watch?v=oQXsQzrIv2M), 2 febbraio 2026. [Revisione](../../sources/transcripts/oQXsQzrIv2M.review.md).
+
 ## Prima capire il tipo di domanda, poi scegliere il media
 
 Merenda distingue due macro-situazioni:
