@@ -181,7 +181,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 167 | [fpao23ulhkQ](https://www.youtube.com/watch?v=fpao23ulhkQ) — Why You Shouldn't Spend on Marketing (Unless You Do This First) | 02_posizionamento | STUDIATO |
 | 168 | [9zvNhQOpRI4](https://www.youtube.com/watch?v=9zvNhQOpRI4) — Is Marketing Important? This Is the Definitive Answer | 00_fondamenti | STUDIATO |
 | 169 | [oQXsQzrIv2M](https://www.youtube.com/watch?v=oQXsQzrIv2M) — Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market | 04_marketing | STUDIATO |
-| 170 | [PKgWYVvme2s](https://www.youtube.com/watch?v=PKgWYVvme2s) — Customer Experience: The Marketing Secret No One Tells You | 04_marketing | DA STUDIARE |
+| 170 | [PKgWYVvme2s](https://www.youtube.com/watch?v=PKgWYVvme2s) — Customer Experience: The Marketing Secret No One Tells You | 00_fondamenti | STUDIATO |
 | 171 | [degAX4kvT-0](https://www.youtube.com/watch?v=degAX4kvT-0) — Digital Marketing for Typical Products: The Formula for Winning Bundles | 04_marketing | DA STUDIARE |
 | 172 | [YvfN2NUwXtY](https://www.youtube.com/watch?v=YvfN2NUwXtY) — Marketing per il tuo CENTRO ESTETICO #shorts | 04_marketing | DA STUDIARE |
 | 173 | [aw3Fu_LTH34](https://www.youtube.com/watch?v=aw3Fu_LTH34) — What does Marketing #shorts mean? | 04_marketing | DA STUDIARE |

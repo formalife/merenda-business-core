@@ -8,6 +8,28 @@ Un'azienda orientata al prodotto arriva al marketing chiedendo di vendere di pi�
 
 La metafora del videogioco distingue chi affronta indefinitamente difficoltà imposte da altri da chi progetta il mondo e le sue regole. Serve a invitare l'imprenditore a modificare il modello di business, anziché limitarsi a diventare più efficiente nel modello abituale. [05:39–10:48](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=339s)
 
+## L'esperienza del cliente è marketing operativo
+
+Nel materiale del 27 novembre 2025 Merenda rende esplicita una conseguenza del marketing-first: il marketing non termina quando una campagna genera il contatto.
+
+Advertising, contenuti, sales letter e lead generation servono ad avvicinare il cliente. Poi ogni punto di contatto operativo conferma o smentisce la promessa:
+
+- telefono;
+- email e chat;
+- vendita;
+- assistenza;
+- erogazione;
+- condizioni commerciali;
+- esperienza complessiva.
+
+Il modello diventa:
+
+**promessa/acquisizione → esperienza reale → soddisfazione e prova → retention/referral/reputazione.**
+
+Per questo il marketing-first richiede interventi anche su persone e processi. Una base clienti che resta soltanto per abitudine, sconti o assenza di alternative non dimostra automaticamente una posizione forte: bisogna capire **perché** il cliente continua a comprare.
+
+Fonte: [Customer Experience: Il Segreto del Marketing che Nessuno ti Dice](https://www.youtube.com/watch?v=PKgWYVvme2s), 27 novembre 2025. [Revisione](../../sources/transcripts/PKgWYVvme2s.review.md).
+
 ## Sette criteri da applicare insieme
 
 Merenda presenta questi principi come criteri con cui supervisiona ogni campagna; le condizioni spiegate durante il corso sono parte dell'insegnamento. [38:29–58:16](https://www.youtube.com/watch?v=iR0e4AgmAGE&t=2309s)

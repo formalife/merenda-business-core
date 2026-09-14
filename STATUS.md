@@ -2,19 +2,19 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–169 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
+ACTIVE — fasi 1–6 complete; contenuti 1–170 processati semanticamente; checkpoint 150 (FASE 14 + FASE 15) completato da Claude Code; corpus ancora incompleto; batch tecnico 151–175 acquisito (25/25 transcript italiani utilizzabili), pronto per CHATGPT.
 
 ## Fase corrente
 
-**Revisione semantica 151–175 in corso.** Completati 151–169/175. `oQXsQzrIv2M` integrato in `04_marketing`. Prossima azione: fasi 8–13 su `PKgWYVvme2s` (posizione canonica 170). Il checkpoint 150 resta concluso.
+**Revisione semantica 151–175 in corso.** Completati 151–170/175. `PKgWYVvme2s` integrato in `00_fondamenti`. Prossima azione: fasi 8–13 su `degAX4kvT-0` (posizione canonica 171). Il checkpoint 150 resta concluso.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 169
-- STUDIATO / integrati nella KB: 163
+- Contenuti processati semanticamente: 170
+- STUDIATO / integrati nella KB: 164
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 299
+- Da processare: 298
 - Corpus completo: NO
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
 - Elaborazione semantica 126–150: 25/25 completati
@@ -53,13 +53,13 @@ FASE 15: tassonomia a 11 categorie confermata adeguata, nessuna categoria unita/
 
 ## Next Action
 
-Continuare il batch **151–175** con `PKgWYVvme2s` — *Customer Experience: Il Segreto del Marketing che Nessuno ti Dice* — posizione canonica 170 della queue. I video 151–169 sono completati semanticamente.
+Continuare il batch **151–175** con `degAX4kvT-0` — *Digital Marketing Per Prodotti Tipici: La Formula Dei Bundle Vincenti* — posizione canonica 171 della queue. I video 151–170 sono completati semanticamente.
 
 - Asset acquisiti/tentati: **25/25**; `ACQUIRED`: **25**.
 - Transcript italiani immediatamente utilizzabili: **25**; fallback ASR richiesti: **0**; errori: **0**; pending: **0**.
 - Metadata del canale ufficiale verificati, JSON3 grezzi e Markdown normalizzati disponibili in `sources/transcripts/`.
 - Nessun keyframe candidato emerso dalla ricerca meccanica di riferimenti visuali espliciti; valutazione visuale selettiva rimessa alla revisione ChatGPT.
-- Revisione semantica in corso: **19/25** contenuti del batch completati. Ultimo: `oQXsQzrIv2M` → `04_marketing`, `STUDIATO`, con integrazione su vincoli di acquisizione e peso di referral/LTV. Contenuti semanticamente processati: **169**.
+- Revisione semantica in corso: **20/25** contenuti del batch completati. Ultimo: `PKgWYVvme2s` → `00_fondamenti`, `STUDIATO`, con integrazione sulla customer experience come marketing operativo. Contenuti semanticamente processati: **170**.
 - `sources/queue/acquisition-progress.md` rappresenta il batch corrente; `sources/queue/next-batch.txt` contiene esattamente i suoi 25 URL. I campi data «da acquisire» di VIDEO_INDEX non sono un inventario degli asset: i metadata aggiornati sono nei rispettivi `.info.json`.
 - Branch tecnico: `acquisition-151-175`, base `7f0c20c03f7d069d46447c81c76c7ad2a0f537d9`; un commit separato per video. Nessuna acquisizione del contenuto 176 o successivi.
 
