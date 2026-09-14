@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:53:41.333887+00:00
+Ultimo aggiornamento: 2026-09-14T19:53:46.745114+00:00
 
 Batch: 25 video
-Completati tecnicamente: 22/25
+Completati tecnicamente: 23/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -29,6 +29,6 @@ Completati tecnicamente: 22/25
 | 20 | 21iVqc13KoE | Come vendere di più utilizzando gli script di vendita | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | D96IKTeUfK4 | How to sell more thanks to mental dialogue | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | NyH30NE16_0 | How to Sell More with the 5 Levels of Clarity | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 23 | 0QpK3scgm4c | Come Vendere di più e con maggior frequenza [Parte 3] | PENDING |  |
+| 23 | 0QpK3scgm4c | Come Vendere di più e con maggior frequenza [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | G4j1zImJq8I | Come Vendere di più e con maggior frequenza [Parte 2] | PENDING |  |
 | 25 | jIVCaEJe9RU | Come Vendere di più e con maggior frequenza [Parte 1] | PENDING |  |
