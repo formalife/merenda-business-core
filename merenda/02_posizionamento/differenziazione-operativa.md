@@ -28,6 +28,34 @@ Come euristica comunicativa Merenda suggerisce anche di chiarire per contrasto *
 Fonte: [Campagne Di Marketing — 3 Azioni Infallibili Per Generare Profitto Immediato](https://www.youtube.com/watch?v=kmtvBlfL25I), 6 novembre 2024. [Revisione](../../sources/transcripts/kmtvBlfL25I.review.md).
 
 
+## Dichiarare un trade-off reale può aumentare credibilità e selezione
+
+Nel materiale del 2 luglio 2024 Merenda propone quella che chiama **“ammissione dannosa”**: dichiarare apertamente uno o più limiti reali della propria proposta prima di ribadire la differenza per cui il cliente giusto dovrebbe comunque scegliere l'azienda.
+
+Esempi di trade-off possono essere:
+
+- non essere il fornitore più economico;
+- richiedere più impegno o partecipazione del cliente;
+- avere capacità limitata;
+- essere meno rapido su un aspetto perché il processo è più personalizzato;
+- avere uno stile di consulenza diretto;
+- non offrire una caratteristica che per altri segmenti è importante.
+
+Il meccanismo non dipende dalla parola **“ma”** come formula magica. Il valore deriva da tre passaggi:
+
+**limite vero e rilevante → maggiore credibilità della promessa positiva → auto-selezione del target compatibile.**
+
+Una dichiarazione di questo tipo può fare due lavori contemporaneamente:
+
+1. rende meno sospetta una comunicazione che altrimenti presenta soltanto vantaggi;
+2. allontana persone per cui quel limite sarebbe realmente incompatibile, riducendo il rischio di acquisire clienti inappropriati.
+
+Il trade-off deve essere vero. Non va inventato un difetto per sembrare autentici e non va usata la tecnica per minimizzare limiti materiali che il cliente deve conoscere. Se il problema può e deve essere corretto operativamente, dichiararlo non sostituisce la correzione.
+
+Questo principio completa l'[appropriatezza dei clienti](../01_mercato/appropriatezza-clienti.md): un buon posizionamento non deve risultare ottimale per chiunque, ma chiarire per chi la combinazione di vantaggi e compromessi è appropriata.
+
+Fonte precedente: [Come Vendere Qualsiasi Cosa Con La "Parola Segreta" Di Frank Merenda](https://www.youtube.com/watch?v=P_LavmWySLs), 2 luglio 2024. [Revisione](../../sources/transcripts/P_LavmWySLs.review.md).
+
 ## Cercare differenze fuori dal proprio settore
 
 Nel materiale del 7 luglio 2022 Merenda propone di non limitare la ricerca di idee ai concorrenti diretti.

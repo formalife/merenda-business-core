@@ -268,7 +268,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 258 | ellOvKnIOqk | da acquisire | [The #1 Sales Technique for a Record-Breaking Sales Team](https://www.youtube.com/watch?v=ellOvKnIOqk) | 421.0 | 06_vendita | 2 | STUDIATO | videos |
 | 259 | rI00A_jHqz8 | da acquisire | [Il Potere Del Marketing: +50% di Vendite Per Un'Azienda Farmaceutica di Successo](https://www.youtube.com/watch?v=rI00A_jHqz8) | 278.0 | 10_casi_studio | 2 | STUDIATO | videos |
 | 260 | -_oOcTQgkcY | da acquisire | [The Best SALES TECHNIQUES on the Internet](https://www.youtube.com/watch?v=-_oOcTQgkcY) | 5521.0 | 06_vendita | 2 | STUDIATO | videos |
-| 261 | P_LavmWySLs | da acquisire | [How to Sell Anything With Frank Merenda's "Secret Word"](https://www.youtube.com/watch?v=P_LavmWySLs) | 426.0 | 06_vendita | 2 | DA STUDIARE | videos |
+| 261 | P_LavmWySLs | da acquisire | [How to Sell Anything With Frank Merenda's "Secret Word"](https://www.youtube.com/watch?v=P_LavmWySLs) | 426.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 262 | an5eXiIyyiA | da acquisire | [How to Create High-Converting Ads [That Sell]](https://www.youtube.com/watch?v=an5eXiIyyiA) | 901.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 263 | wDPyGhkY_CA | da acquisire | [The 3 UPSELLING Options to Explode Your Revenue Without Finding New Clients](https://www.youtube.com/watch?v=wDPyGhkY_CA) | 1000.0 | 06_vendita | 2 | DA STUDIARE | videos |
 | 264 | oefQwsBIUc0 | da acquisire | [RETE VENDITA: Come Raddoppiare le Vendite in 5 Step [Mai svelati]](https://www.youtube.com/watch?v=oefQwsBIUc0) | 1531.0 | 06_vendita | 2 | DA STUDIARE | videos |
