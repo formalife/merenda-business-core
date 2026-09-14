@@ -228,7 +228,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 214 | [I-YCFdXNSO0](https://www.youtube.com/watch?v=I-YCFdXNSO0) — Cos'è il MARKETING, a cosa serve e perchè non è pubblicità | 02_posizionamento | STUDIATO |
 | 215 | [bLmGe86nDAA](https://www.youtube.com/watch?v=bLmGe86nDAA) — FUNNEL &#124; Translation and Meaning - What is a Marketing Funnel [Explained Simply] | 05_acquisizione | STUDIATO |
 | 216 | [of0ppir9sq4](https://www.youtube.com/watch?v=of0ppir9sq4) — FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO | 03_offerta | STUDIATO |
-| 217 | [bY6Lb0Dld88](https://www.youtube.com/watch?v=bY6Lb0Dld88) — Strategie di Acquisizione Clienti: Invadere l’ambiente | 05_acquisizione | DA STUDIARE |
+| 217 | [bY6Lb0Dld88](https://www.youtube.com/watch?v=bY6Lb0Dld88) — Strategie di Acquisizione Clienti: Invadere l’ambiente | 05_acquisizione | STUDIATO |
 | 218 | [JQXoKKwneBQ](https://www.youtube.com/watch?v=JQXoKKwneBQ) — E Commerce: Il futuro è nei Funnel | 05_acquisizione | DA STUDIARE |
 | 219 | [ji8rHHO_KHY](https://www.youtube.com/watch?v=ji8rHHO_KHY) — Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | 05_acquisizione | DA STUDIARE |
 | 220 | [HwlqYf73Ctk](https://www.youtube.com/watch?v=HwlqYf73Ctk) — Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | 05_acquisizione | DA STUDIARE |

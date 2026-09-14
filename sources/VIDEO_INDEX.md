@@ -229,7 +229,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 219 | I-YCFdXNSO0 | da acquisire | [Cos'è il MARKETING, a cosa serve e perchè non è pubblicità](https://www.youtube.com/watch?v=I-YCFdXNSO0) | 479.0 | 02_posizionamento | 2 | STUDIATO | videos |
 | 220 | bLmGe86nDAA | da acquisire | [FUNNEL &#124; Translation and Meaning - What is a Marketing Funnel [Explained Simply]](https://www.youtube.com/watch?v=bLmGe86nDAA) | 471.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 221 | of0ppir9sq4 | da acquisire | [FUNNEL DI VENDITA &#124; Progettare Lanci di prodotto a TEMPO](https://www.youtube.com/watch?v=of0ppir9sq4) | 236.0 | 03_offerta | 2 | STUDIATO | videos |
-| 222 | bY6Lb0Dld88 | da acquisire | [Strategie di Acquisizione Clienti: Invadere l’ambiente](https://www.youtube.com/watch?v=bY6Lb0Dld88) | 318.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 222 | bY6Lb0Dld88 | da acquisire | [Strategie di Acquisizione Clienti: Invadere l’ambiente](https://www.youtube.com/watch?v=bY6Lb0Dld88) | 318.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 223 | JQXoKKwneBQ | da acquisire | [E Commerce: Il futuro è nei Funnel](https://www.youtube.com/watch?v=JQXoKKwneBQ) | 4259.0 | 05_acquisizione | 2 | DA STUDIARE | streams |
 | 224 | ji8rHHO_KHY | da acquisire | [Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo]](https://www.youtube.com/watch?v=ji8rHHO_KHY) | 4484.0 | 05_acquisizione | 2 | DA STUDIARE | streams |
 | 225 | HwlqYf73Ctk | da acquisire | [Referral - Come moltiplicare le vendite grazie ai tuoi Clienti](https://www.youtube.com/watch?v=HwlqYf73Ctk) | 6443.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
