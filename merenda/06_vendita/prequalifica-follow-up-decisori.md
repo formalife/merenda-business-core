@@ -198,6 +198,20 @@ Merenda distingue le motivazioni dell'imprenditore, orientato al risultato azien
 Il venditore deve adattare la trattativa all'interlocutore. Quando passa dal manager al decisore superiore, riparte dalle motivazioni di quest'ultimo; ripetere identiche caratteristiche, vantaggi e benefici a ogni livello rischia di perdere la vendita. Il video annuncia una successiva «mappa decisionale», senza insegnarne qui la procedura completa. [37:18–38:18](https://www.youtube.com/watch?v=ePxhx94vW7g&t=2238s)
 
 
+### Nelle decisioni stratificate, vendere anche il passo successivo
+
+Quando una decisione richiede più livelli o stakeholder, il primo incontro non deve necessariamente chiudere l'intera vendita.
+
+La fonte del 24 luglio 2024 formula il problema come una sequenza di avanzamenti:
+
+**interlocutore iniziale → prossimo appuntamento → decisore/stakeholder successivo → decisione finale.**
+
+Il venditore deve quindi capire quale sia il **prossimo passo decisionale utile** e ottenere accesso alle persone che devono realmente partecipare, invece di tentare di far concludere tutto a un interlocutore privo di potere o informazioni sufficienti.
+
+Questo completa la mappatura dei decisori già presente nel documento: non basta sapere chi decide, bisogna progettare il percorso con cui raggiungerlo.
+
+Fonte precedente: [Le Migliori TECNICHE DI VENDITA su Internet](https://www.youtube.com/watch?v=-_oOcTQgkcY), 24 luglio 2024. [Revisione](../../sources/transcripts/-_oOcTQgkcY.review.md).
+
 ### Materiali diversi per decisori diversi
 
 Nel materiale del 30 giugno 2022 Merenda applica la stessa logica anche alle vendite B2B con più decisori.

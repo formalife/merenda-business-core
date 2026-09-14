@@ -67,6 +67,22 @@ Un'offerta entry level o un downsell può essere confrontato con un servizio pi�
 
 Il cliente non vede più soltanto il prezzo assoluto, ma la distanza da un riferimento già stabilito.
 
+## Presentare dall'alto per creare un riferimento completo
+
+Nel materiale del 24 luglio 2024 Merenda propone, quando esistono più livelli reali dell'offerta, di mostrare prima la versione più completa come **standard di riferimento** e poi togliere ciò che il cliente non considera necessario.
+
+La sequenza è:
+
+**soluzione completa → rendere visibili componenti e valore → rimuovere ciò che non serve → arrivare alla configurazione appropriata.**
+
+Il vantaggio rispetto a partire dalla versione minima e aggiungere optional è che il cliente vede fin dall'inizio che cosa significhi il livello massimo di servizio e può comprendere meglio che cosa viene perso quando si riduce il prezzo.
+
+Questa tecnica non autorizza a spingere sistematicamente il pacchetto più costoso a prescindere dal bisogno. La prescrizione finale deve restare coerente con diagnosi, capacità e appropriatezza del cliente.
+
+Il principio integra l'ancoraggio interno già presente in questo documento: l'ancora può essere anche la **versione completa realmente acquistabile**, usata come riferimento prima di costruire la configurazione finale.
+
+Fonte precedente: [Le Migliori TECNICHE DI VENDITA su Internet](https://www.youtube.com/watch?v=-_oOcTQgkcY), 24 luglio 2024. [Revisione](../../sources/transcripts/-_oOcTQgkcY.review.md).
+
 ## Frazionare il pagamento
 
 Quando economicamente e finanziariamente sostenibile, il pagamento può essere:
