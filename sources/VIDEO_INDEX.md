@@ -235,7 +235,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 225 | HwlqYf73Ctk | da acquisire | [Referral - Come moltiplicare le vendite grazie ai tuoi Clienti](https://www.youtube.com/watch?v=HwlqYf73Ctk) | 6443.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 226 | G0fxszrL9_M | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3]](https://www.youtube.com/watch?v=G0fxszrL9_M) | 823.0 | 06_vendita | 2 | STUDIATO | videos |
 | 227 | 0rM-F7msbkA | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2]](https://www.youtube.com/watch?v=0rM-F7msbkA) | 1232.0 | 04_marketing | 2 | STUDIATO | videos |
-| 228 | sUkGSSqTq3c | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1]](https://www.youtube.com/watch?v=sUkGSSqTq3c) | 1575.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 228 | sUkGSSqTq3c | da acquisire | [Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1]](https://www.youtube.com/watch?v=sUkGSSqTq3c) | 1575.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 229 | pJZSih3Lguw | da acquisire | [Come si crea un Front End? #shorts](https://www.youtube.com/watch?v=pJZSih3Lguw) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 230 | WCP26HC6wd0 | da acquisire | [Marketing Strategies &#124; Two Ways to Create a Perfect Front-End Website](https://www.youtube.com/watch?v=WCP26HC6wd0) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |
 | 231 | m53_BsS_x8U | da acquisire | [Video animati per Landing page - Strategia di marketing corretta? #shorts](https://www.youtube.com/watch?v=m53_BsS_x8U) | n.d. | 05_acquisizione | 3 | DA STUDIARE | shorts |

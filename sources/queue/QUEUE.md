@@ -234,7 +234,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 220 | [HwlqYf73Ctk](https://www.youtube.com/watch?v=HwlqYf73Ctk) — Referral - Come moltiplicare le vendite grazie ai tuoi Clienti | 05_acquisizione | STUDIATO |
 | 221 | [G0fxszrL9_M](https://www.youtube.com/watch?v=G0fxszrL9_M) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | 06_vendita | STUDIATO |
 | 222 | [0rM-F7msbkA](https://www.youtube.com/watch?v=0rM-F7msbkA) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | 04_marketing | STUDIATO |
-| 223 | [sUkGSSqTq3c](https://www.youtube.com/watch?v=sUkGSSqTq3c) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | 05_acquisizione | DA STUDIARE |
+| 223 | [sUkGSSqTq3c](https://www.youtube.com/watch?v=sUkGSSqTq3c) — Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | 05_acquisizione | STUDIATO |
 | 224 | [pJZSih3Lguw](https://www.youtube.com/watch?v=pJZSih3Lguw) — Come si crea un Front End? #shorts | 05_acquisizione | DA STUDIARE |
 | 225 | [WCP26HC6wd0](https://www.youtube.com/watch?v=WCP26HC6wd0) — Marketing Strategies &#124; Two Ways to Create a Perfect Front-End Website | 05_acquisizione | DA STUDIARE |
 | 226 | [m53_BsS_x8U](https://www.youtube.com/watch?v=m53_BsS_x8U) — Video animati per Landing page - Strategia di marketing corretta? #shorts | 05_acquisizione | DA STUDIARE |
