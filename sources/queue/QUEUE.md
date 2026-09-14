@@ -246,7 +246,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 232 | [MwNCMJE8sRk](https://www.youtube.com/watch?v=MwNCMJE8sRk) — 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | 06_vendita | STUDIATO |
 | 233 | [g-VOlvqnL_8](https://www.youtube.com/watch?v=g-VOlvqnL_8) — Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | 06_vendita | STUDIATO |
 | 234 | [ggJnCJCXIO4](https://www.youtube.com/watch?v=ggJnCJCXIO4) — Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | 09_business | STUDIATO |
-| 235 | [KZ78VhszH_o](https://www.youtube.com/watch?v=KZ78VhszH_o) — How to SELL More and Generate Extraordinary PROFITS for Your Business | 06_vendita | DA STUDIARE |
+| 235 | [KZ78VhszH_o](https://www.youtube.com/watch?v=KZ78VhszH_o) — How to SELL More and Generate Extraordinary PROFITS for Your Business | 09_business | STUDIATO |
 | 236 | [3ZNE75sPen8](https://www.youtube.com/watch?v=3ZNE75sPen8) — Come Aumentare Le Conversioni: La Checklist Segreta Che Fa Impazzire I Venditori | 06_vendita | DA STUDIARE |
 | 237 | [lwuJ6MYETUw](https://www.youtube.com/watch?v=lwuJ6MYETUw) — Testimonials That Sell: How to Make Them Perfect in 7 Steps | 06_vendita | DA STUDIARE |
 | 238 | [T5ccJyQqX9c](https://www.youtube.com/watch?v=T5ccJyQqX9c) — How to Sell More: The 4 Crucial Phases of Follow-Up Marketing | 06_vendita | DA STUDIARE |

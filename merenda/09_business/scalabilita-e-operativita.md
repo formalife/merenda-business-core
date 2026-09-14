@@ -12,6 +12,31 @@ La crescita utile non è:
 
 ma una crescita in cui fatturato, margine e capacità migliorano senza espandere in modo incontrollato il punto di pareggio.
 
+## “Uno” come punto singolo di fallimento
+
+Nel materiale del 21 maggio 2025 Merenda estende il problema della persona chiave a una regola più ampia di resilienza: una funzione vitale che dipende da **un solo elemento** crea fragilità.
+
+Gli esempi citati includono:
+
+- una sola fonte di marketing/acquisizione;
+- un solo venditore decisivo;
+- un solo dipendente o tecnico insostituibile;
+- una sola sede o punto operativo dal quale dipende tutto il business.
+
+Il principio non è duplicare indiscriminatamente ogni costo. È individuare i **single point of failure**: dove la perdita temporanea o definitiva di una sola risorsa può interrompere vendite, acquisizione o operatività, l'azienda non è ancora realmente scalabile.
+
+La risposta dipende dalla funzione e può essere:
+
+- una seconda sorgente di domanda sufficientemente indipendente;
+- documentazione e formazione che rendano sostituibile una persona;
+- più capacità commerciale;
+- sistemi/processi replicabili;
+- ridondanza o piano di continuità per sedi e infrastrutture critiche.
+
+La diversificazione va introdotta quando è economicamente sostenibile. Non contraddice il principio di focus: **un brand può restare focalizzato mentre il sistema operativo elimina dipendenze critiche**.
+
+Fonte: [Come VENDERE Di Più e Generare PROFITTI Straordinari Per La Tua Azienda](https://www.youtube.com/watch?v=KZ78VhszH_o), 21 maggio 2025. [Revisione](../../sources/transcripts/KZ78VhszH_o.review.md).
+
 ## Il fondatore operativo è un collo di bottiglia
 
 Se una funzione critica dipende sempre dalle ore personali del titolare, quella funzione non è ancora scalata.
