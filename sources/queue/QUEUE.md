@@ -179,7 +179,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 165 | [AjvfyImTiPI](https://www.youtube.com/watch?v=AjvfyImTiPI) — All’Antico Vinaio: il “segreto” del suo successo #shorts | 10_casi_studio | STUDIATO |
 | 166 | [qIG_0TMol8s](https://www.youtube.com/watch?v=qIG_0TMol8s) — Chat GPT: Intelligenza Artificiale come opportunità o minaccia? #shorts | 00_fondamenti | STUDIATO |
 | 167 | [fpao23ulhkQ](https://www.youtube.com/watch?v=fpao23ulhkQ) — Why You Shouldn't Spend on Marketing (Unless You Do This First) | 02_posizionamento | STUDIATO |
-| 168 | [9zvNhQOpRI4](https://www.youtube.com/watch?v=9zvNhQOpRI4) — Is Marketing Important? This Is the Definitive Answer | 04_marketing | DA STUDIARE |
+| 168 | [9zvNhQOpRI4](https://www.youtube.com/watch?v=9zvNhQOpRI4) — Is Marketing Important? This Is the Definitive Answer | 00_fondamenti | STUDIATO |
 | 169 | [oQXsQzrIv2M](https://www.youtube.com/watch?v=oQXsQzrIv2M) — Marketing for Medical Clinics: How to Survive Italian Regulations and Win in the Market | 04_marketing | DA STUDIARE |
 | 170 | [PKgWYVvme2s](https://www.youtube.com/watch?v=PKgWYVvme2s) — Customer Experience: The Marketing Secret No One Tells You | 04_marketing | DA STUDIARE |
 | 171 | [degAX4kvT-0](https://www.youtube.com/watch?v=degAX4kvT-0) — Digital Marketing for Typical Products: The Formula for Winning Bundles | 04_marketing | DA STUDIARE |
