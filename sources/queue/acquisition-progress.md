@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:11:59.192593+00:00
+Ultimo aggiornamento: 2026-09-14T13:12:04.226790+00:00
 
 Batch: 25 video
-Completati tecnicamente: 23/25
+Completati tecnicamente: 24/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -30,5 +30,5 @@ Completati tecnicamente: 23/25
 | 21 | G0fxszrL9_M | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 3] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 22 | 0rM-F7msbkA | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | sUkGSSqTq3c | Come trovare nuovi clienti per la tua Azienda con le Campagne Online [Parte 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 24 | pJZSih3Lguw | Come si crea un Front End? #shorts | PENDING |  |
+| 24 | pJZSih3Lguw | Come si crea un Front End? #shorts | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 25 | WCP26HC6wd0 | Marketing Strategies \| Two Ways to Create a Perfect Front-End Website | PENDING |  |
