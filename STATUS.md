@@ -2,58 +2,78 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti 1–200 processati semanticamente; checkpoint 200 (FASE 14 + FASE 15) completato. Corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti **1–225 processati semanticamente**. Batch 201–225 completato; checkpoint **225 raggiunto**. Corpus ancora incompleto.
 
 ## Fase corrente
 
-FASE 7 — batch tecnico **201–225 completato**, 25/25 acquisiti e utilizzabili. Revisione semantica del batch non iniziata. Branch `acquisition-201-225`, base `6304bdc7d3ae4d3fb6d2a22e94f87082eb727bc3`.
+Checkpoint **225 — FASE 14 dovuta**. Revisione semantica 201–225 completata su branch `semantic-201-225`.
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 200
-- STUDIATO / integrati o deduplicati: 194
-- ESCLUSO dalla dottrina attiva: 6
-- Da processare: 268
+- Contenuti processati semanticamente: **225**
+- STUDIATO / integrati o deduplicati: **219**
+- ESCLUSO dalla dottrina attiva: **6**
+- Da processare: **243**
 - Corpus completo: NO
-- Batch tecnico 201–225: 25/25 utilizzabili
-- Elaborazione semantica 201–225: 0/25
+- Batch tecnico 201–225: **25/25 utilizzabili**
+- Elaborazione semantica 201–225: **25/25**
+- Review 201–225: **25**
 - Transcript mancanti nel batch: 0
 - Fallback ASR nel batch: 0
 - Errori finali tecnici: 0
 - Pending tecnici: 0
+
+## Novelty 201–225
+
+- Incrementali: **6/25 = 24%**
+- Incrementali: 201 `vD7zMl6YXzs`, 211 `WtyLO1gMqVI`, 212 `TrY_mDjr7I4`, 216 `of0ppir9sq4`, 220 `HwlqYf73Ctk`, 225 `WCP26HC6wd0`
+- Deduplicati senza modifica KB: **19/25**
+- Nessun nuovo ESCLUSO
+
+Nota workflow: il 225 era classificato C/FAST perché short ma ha prodotto novità prevalente del 2025. C resta fast review, mai skip; la recenza va rivalutata nel classifier.
 
 ## Workflow attivo — v1.1
 
 - CODEX: acquisizione tecnica e supporto meccanico.
 - CHATGPT: revisione semantica e fasi 8–13.
 - CLAUDE CODE: FASE 14 ogni 25; FASE 14 + 15 ogni 50.
-- Nessuna modifica al workflow frozen; classificazione A/B/C non applicata all’acquisizione.
+- Classificazione A/B/C: strumento di priorità/profondità, non sostituisce la revisione completa di ogni contenuto.
+- Nessuna modifica al workflow frozen.
 
 ## Checkpoint
 
 - Ultimo refactor KB completato: **200**
 - Ultimo audit tassonomia completato: **200**
-- Refactor KB dovuto dopo completamento semantico: **225 — FASE 14**
+- Refactor KB dovuto: **225 — FASE 14**
 - Audit tassonomia dovuto: **250 — FASE 14 + FASE 15**
-- Checkpoint Claude richiesto ora: **NO**
-- Report checkpoint corrente: `reviews/CHECKPOINT_200.md`
+- Checkpoint Claude richiesto ora: **SÌ**
+- Report checkpoint corrente: `reviews/CHECKPOINT_225.md`
 
 ## Agente richiesto
 
-**CHATGPT**
+**CLAUDE CODE**
 
 ## Next Action
 
-Revisione semantica dei contenuti **201–225** sugli asset acquisiti. Primo contenuto: **201 — `vD7zMl6YXzs`** — *Marketing Campaigns: Why Cost Per Lead Is Not Enough (And Where You Should Really Invest)*, categoria preliminare `05_acquisizione`.
+Eseguire **FASE 14 al checkpoint 225** sulla KB completa, partendo da `reviews/CHECKPOINT_225.md`.
 
-Report tecnico completo: `sources/queue/acquisition-progress.md`. 24 tracce automatiche italiane originali, 1 manuale italiana, 12 keyframe candidati per sei video. Acquisizione persistita in 25 commit individuali più handoff globale. Nessun merge su main, nessun contenuto 226+ acquisito.
+Claude deve:
+
+1. eseguire validator e `git diff --check` localmente prima del refactor;
+2. rileggere tutta `merenda/`;
+3. verificare merge/split/overlap/link/orfani/gerarchia con particolare attenzione ai cinque file KB modificati nel batch;
+4. controllare la prevalenza della fonte recente 225 sul front-end;
+5. valutare il falso negativo A/B/C del 225 e l'eventuale aggiornamento del classifier non-frozen;
+6. non eseguire FASE 15;
+7. non processare contenuti 226+;
+8. rieseguire validator e `git diff --check` dopo le modifiche;
+9. aggiornare questo STATUS e `reviews/CHECKPOINT_225.md` da pre-handoff a report definitivo.
 
 ## Validazione e limiti
 
-- Validator: **841 warning**, identici alla baseline; zero nuove anomalie. I 836 disallineamenti storici riguardano VIDEO_INDEX e QUEUE; gli altri sono 3 divergenze frozen rispetto a v1.0 e 2 warning di nomenclatura contatori STATUS.
-- Frozen, KB, catalogo, VIDEO_INDEX e QUEUE invariati. Nessun `.review.md` creato. Semantica ancora 200.
-- Metadata/canale e corrispondenza JSON3–Markdown verificati per tutti i 25; copertura intervallo almeno 95,94%.
-- **218 — `JQXoKKwneBQ`:** transcript termina a 4.384,610 s, durata metadata 4.259 s. Testo disponibile e coerente col JSON3; possibile disallineamento con il montaggio corrente. ChatGPT deve verificare timestamp/visuali prima di usarli come evidenza precisa. Nessuna correzione temporale inventata.
-- Blocchi iniziali del sandbox risolti con esecuzione autorizzata; nessun asset o commit prodotto su main. Dettaglio nel report tecnico.
-- `git diff --check` superato.
+- Baseline validator certa pre-semantica: **841 warning storici**, identici al checkpoint 200.
+- Il connettore GitHub usato da ChatGPT non esegue il validator sul working tree locale: Claude deve verificare baseline e post-refactor.
+- Diff semantico puro dal commit tecnico: **25 commit**, **25 review**, 5 file KB modificati, nessun frozen.
+- **218 — `JQXoKKwneBQ`**: testo semanticamente utilizzabile; timestamp/visuali nella parte disallineata non usati come evidenza precisa.
+- Nessun contenuto 226+ processato semanticamente.
