@@ -187,7 +187,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 177 | aw3Fu_LTH34 | da acquisire | [What does Marketing #shorts mean?](https://www.youtube.com/watch?v=aw3Fu_LTH34) | n.d. | 00_fondamenti | 3 | STUDIATO | shorts |
 | 178 | znVPLom4j70 | da acquisire | [Marketing for Dentists &#124; Here's What Happens When a Dentist Does Marketing #shots](https://www.youtube.com/watch?v=znVPLom4j70) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 179 | Qk41565Wvqk | da acquisire | [Strategic Marketing for Restaurants - Guapo Argentine Restaurant #shorts](https://www.youtube.com/watch?v=Qk41565Wvqk) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
-| 180 | y-8LBcQsS9M | da acquisire | [RESTAURANT MARKETING &#124; Launching a Successful Restaurant](https://www.youtube.com/watch?v=y-8LBcQsS9M) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
+| 180 | y-8LBcQsS9M | da acquisire | [RESTAURANT MARKETING &#124; Launching a Successful Restaurant](https://www.youtube.com/watch?v=y-8LBcQsS9M) | n.d. | 10_casi_studio | 3 | STUDIATO | shorts |
 | 181 | aQ5V7845jX4 | da acquisire | [Il più Grande Errore di Marketing di Coca Cola #shorts](https://www.youtube.com/watch?v=aQ5V7845jX4) | n.d. | 10_casi_studio | 3 | DA STUDIARE | shorts |
 | 182 | 4FNdTMDCC6g | da acquisire | [Impresa edile e Marketing Automation: Successo Assicurato #shorts](https://www.youtube.com/watch?v=4FNdTMDCC6g) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
 | 183 | fm3RYkxRXCk | da acquisire | [Tecniche di Marketing per Espandere il Tuo Studio Dentistico #shorts](https://www.youtube.com/watch?v=fm3RYkxRXCk) | n.d. | 04_marketing | 3 | DA STUDIARE | shorts |
