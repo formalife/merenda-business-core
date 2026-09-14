@@ -243,7 +243,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 229 | [7zRyOC3Z0lM](https://www.youtube.com/watch?v=7zRyOC3Z0lM) — Stop Losing Money With Front-End and Funnel Marketing: Why Your "Customer" Isn't a Customer | 03_offerta | STUDIATO |
 | 230 | [Qg8Z2Oh5z3s](https://www.youtube.com/watch?v=Qg8Z2Oh5z3s) — SALES FUNNEL: Marketing that ELIMINATES Salespeople's Cannon Fodder | 06_vendita | STUDIATO |
 | 231 | [xBM5PST7ZKs](https://www.youtube.com/watch?v=xBM5PST7ZKs) — Il concetto di Lead Generation, esca e Funnel spiegato semplice #shorts | 05_acquisizione | STUDIATO |
-| 232 | [MwNCMJE8sRk](https://www.youtube.com/watch?v=MwNCMJE8sRk) — 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | 06_vendita | DA STUDIARE |
+| 232 | [MwNCMJE8sRk](https://www.youtube.com/watch?v=MwNCMJE8sRk) — 7 Tecniche Invincibili Per Riportare Soldi In Cassa Dai Clienti Non Convertiti | 06_vendita | STUDIATO |
 | 233 | [g-VOlvqnL_8](https://www.youtube.com/watch?v=g-VOlvqnL_8) — Come Trasformare Il Preventivo In Un’arma Letale Per Chiudere Contratti | 06_vendita | DA STUDIARE |
 | 234 | [ggJnCJCXIO4](https://www.youtube.com/watch?v=ggJnCJCXIO4) — Strategia Marketing Per PMI: 8 Passi Per Vendere di Più [Senza Sprecare Budget] | 06_vendita | DA STUDIARE |
 | 235 | [KZ78VhszH_o](https://www.youtube.com/watch?v=KZ78VhszH_o) — How to SELL More and Generate Extraordinary PROFITS for Your Business | 06_vendita | DA STUDIARE |
