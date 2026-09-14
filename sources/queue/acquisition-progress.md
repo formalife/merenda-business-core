@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T19:52:26.607796+00:00
+Ultimo aggiornamento: 2026-09-14T19:52:32.175903+00:00
 
 Batch: 25 video
-Completati tecnicamente: 14/25
+Completati tecnicamente: 15/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -21,7 +21,7 @@ Completati tecnicamente: 14/25
 | 12 | RExoYxfxFWQ | TECNICHE DI VENDITA \| Script e Processi per diventare un VENDITORE PROFESSIONISTA | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | HJBySYV6HjA | Close the SALES NEGOTIATIONS thanks to the Authority | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | 9FpKpV15B_4 | COME VENDERE DI PIÙ - Cattura l’attenzione dei tuoi clienti | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 15 | imdxn91jLik | How to create a high-performance sales network | PENDING |  |
+| 15 | imdxn91jLik | How to create a high-performance sales network | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 16 | NB9g-DhSj-4 | Come vendere di più creando affinità e fiducia con i clienti | PENDING |  |
 | 17 | Vqn55dABlHQ | How to SELL more to your active customers | PENDING |  |
 | 18 | IGR6IPPvY3Q | How to Sell More to the Right Target \| The 7 Types of Customers [Part 2] | PENDING |  |
