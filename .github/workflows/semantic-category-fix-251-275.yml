@@ -1,0 +1,73 @@
+name: semantic-category-fix-251-275
+
+on:
+  push:
+    branches: [semantic-251-275]
+    paths:
+      - .github/workflows/semantic-category-fix-251-275.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: semantic-251-275
+          fetch-depth: 0
+      - name: Fix final semantic categories
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          mapping = {
+              'an5eXiIyyiA': '04_marketing',
+              '5-UeSJzSvos': '10_casi_studio',
+              'A4I-A5hldQw': '08_brand',
+          }
+
+          p = Path('sources/catalog.json')
+          data = json.loads(p.read_text())
+          seen = set()
+          for row in data:
+              vid = row.get('id')
+              if vid in mapping:
+                  row['status'] = 'STUDIATO'
+                  row['category'] = mapping[vid]
+                  seen.add(vid)
+          if seen != set(mapping):
+              raise SystemExit(f'catalog mismatch: {set(mapping)-seen}')
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
+
+          for filename, cat_idx, status_idx in [
+              ('sources/VIDEO_INDEX.md', 6, 8),
+              ('sources/queue/QUEUE.md', 3, 4),
+          ]:
+              path = Path(filename)
+              lines = path.read_text().splitlines()
+              found = set()
+              out = []
+              for line in lines:
+                  hit = next((vid for vid in mapping if vid in line and line.startswith('|')), None)
+                  if hit:
+                      parts = line.split('|')
+                      parts[cat_idx] = f' {mapping[hit]} '
+                      parts[status_idx] = ' STUDIATO '
+                      line = '|'.join(parts)
+                      found.add(hit)
+                  out.append(line)
+              if found != set(mapping):
+                  raise SystemExit(f'{filename} mismatch: {set(mapping)-found}')
+              path.write_text('\n'.join(out) + '\n')
+          PY
+          git diff --check
+      - name: Commit category fixes
+        run: |
+          git config user.name "formalife-semantic-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add sources/catalog.json sources/VIDEO_INDEX.md sources/queue/QUEUE.md
+          git commit -m "Fix final categories for videos 255 259 261"
+          git push origin HEAD:semantic-251-275
