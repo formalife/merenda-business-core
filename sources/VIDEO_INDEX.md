@@ -205,7 +205,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 195 | SK338MdNIy0 | 20240627 | [The Easiest Way to Market and Get Clients [Now]](https://www.youtube.com/watch?v=SK338MdNIy0) | 529.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 196 | TF9UGPSLxSw | 20230629 | [Come fare campagne online per trovare clienti - La creazione della promessa](https://www.youtube.com/watch?v=TF9UGPSLxSw) | 867.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 197 | wF8Dqa_VtW8 | 20230425 | [Come trovare i clienti migliori (e capire quali lasciar perdere)](https://www.youtube.com/watch?v=wF8Dqa_VtW8) | 1093.0 | 01_mercato | 2 | STUDIATO | videos |
-| 198 | MORFqQB8xGg | 20230411 | [How to Find Clients with the Referral System](https://www.youtube.com/watch?v=MORFqQB8xGg) | 540.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
+| 198 | MORFqQB8xGg | 20230411 | [How to Find Clients with the Referral System](https://www.youtube.com/watch?v=MORFqQB8xGg) | 540.0 | 05_acquisizione | 2 | STUDIATO | videos |
 | 199 | k2H4428Uj00 | da acquisire | [FACEBOOK ADS vs. GOOGLE ADS - Which is better to use?](https://www.youtube.com/watch?v=k2H4428Uj00) | 340.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 200 | MOrs4uWtXO0 | da acquisire | [STRATEGIE DI MARKETING per NUTRIZIONISTI: come si crea un Front-end efficace?](https://www.youtube.com/watch?v=MOrs4uWtXO0) | 129.0 | 05_acquisizione | 2 | DA STUDIARE | videos |
 | 201 | JXQkNx5YyX8 | da acquisire | [Marketing &#124; How to Create a Front End That Converts](https://www.youtube.com/watch?v=JXQkNx5YyX8) | 556.0 | 05_acquisizione | 2 | DA STUDIARE | videos |

@@ -204,7 +204,7 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 190 | [SK338MdNIy0](https://www.youtube.com/watch?v=SK338MdNIy0) — The Easiest Way to Market and Get Clients [Now] | 05_acquisizione | STUDIATO |
 | 191 | [TF9UGPSLxSw](https://www.youtube.com/watch?v=TF9UGPSLxSw) — Come fare campagne online per trovare clienti - La creazione della promessa | 05_acquisizione | STUDIATO |
 | 192 | [wF8Dqa_VtW8](https://www.youtube.com/watch?v=wF8Dqa_VtW8) — Come trovare i clienti migliori (e capire quali lasciar perdere) | 01_mercato | STUDIATO |
-| 193 | [MORFqQB8xGg](https://www.youtube.com/watch?v=MORFqQB8xGg) — How to Find Clients with the Referral System | 05_acquisizione | DA STUDIARE |
+| 193 | [MORFqQB8xGg](https://www.youtube.com/watch?v=MORFqQB8xGg) — How to Find Clients with the Referral System | 05_acquisizione | STUDIATO |
 | 194 | [k2H4428Uj00](https://www.youtube.com/watch?v=k2H4428Uj00) — FACEBOOK ADS vs. GOOGLE ADS - Which is better to use? | 05_acquisizione | DA STUDIARE |
 | 195 | [MOrs4uWtXO0](https://www.youtube.com/watch?v=MOrs4uWtXO0) — STRATEGIE DI MARKETING per NUTRIZIONISTI: come si crea un Front-end efficace? | 05_acquisizione | DA STUDIARE |
 | 196 | [JXQkNx5YyX8](https://www.youtube.com/watch?v=JXQkNx5YyX8) — Marketing &#124; How to Create a Front End That Converts | 05_acquisizione | DA STUDIARE |
