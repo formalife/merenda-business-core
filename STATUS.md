@@ -2,25 +2,24 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; checkpoint 125 e FASE 14 completati; asset tecnici del batch 126–150 integrati su main.
+ACTIVE — fasi 1–6 complete; contenuti 1–150 processati semanticamente; checkpoint 125 e FASE 14 completati; batch 126–150 completato; checkpoint 150 pronto per FASE 14 + FASE 15.
 
 ## Fase corrente
 
-**Elaborazione semantica del batch 126–150 — 24/25 completati; prossimo contenuto canonico: 150 `VN1d2qBc0U0`.**
+**Checkpoint 150 — elaborazione semantica 126–150 completata 25/25. In attesa di CLAUDE CODE per FASE 14 + FASE 15.**
 
 ## Corpus
 
 - Video individuati: 468
-- Contenuti processati semanticamente: 149
-- STUDIATO / integrati nella KB: 143
+- Contenuti processati semanticamente: 150
+- STUDIATO / integrati nella KB: 144
 - ESCLUSO dalla dottrina attiva: 6
-- Da processare: 319
+- Da processare: 318
 - Corpus completo: NO
 - Asset tecnici 101–125: ACQUISITI 25/25
 - Elaborazione semantica 101–125: 25/25 completati
-- Batch tecnico 126–150: 25/25 tentati
 - Asset 126–150 utilizzabili: 25/25 — 22 acquisiti da YouTube + 3 fallback ASR locali
-- Elaborazione semantica 126–150: 24/25 completati
+- Elaborazione semantica 126–150: 25/25 completati
 
 ## Workflow attivo — v1.1
 
@@ -33,45 +32,54 @@ ACTIVE — fasi 1–6 complete; primi 125 contenuti processati semanticamente; c
 - Ultimo refactor KB completato: 125
 - Ultimo audit tassonomia completato: 100
 - Prossimo checkpoint: 150 (FASE 14 + FASE 15)
-- Checkpoint Claude richiesto ora: NO
+- Checkpoint Claude richiesto ora: YES
+- Dopo il checkpoint 150: prossimo refactor 175; prossimo audit tassonomia 200.
 
 Documento precedente: `reviews/CHECKPOINT_125.md`.
 
-## Acquisizione tecnica 126–150
+## Batch 126–150
 
-Branch tecnico integrato su main: `acquisition-126-150`.
+Acquisizione tecnica completata 25/25.
 
-- base: `0ee98de07664c9cf2a74c9dc90facea795293de2`
-- head tecnico: `751003eb318f2d15b4a64238cfe9d175de4580d9`
-- 25/25 tentati
-- 22 ACQUIRED
-- 3 NO_IT_TRANSCRIPT
-- 0 ERROR
-- 0 PENDING
-- nessun video marcato STUDIATO/ESCLUSO durante l'acquisizione
-- KB, queue canonica, catalogo, VIDEO_INDEX, reviews, file congelati e script invariati nel branch tecnico
+- 22 transcript acquisiti da YouTube
+- 3 transcript recuperati con fallback ASR locale: `jcVKVKvy78k`, `joY6sigynis`, `ijVoIMF_gn8`
+- 0 contenuti semanticamente pendenti nel batch
+- nessun blocco tecnico residuo per 126–150
 
-Fallback ASR locale completato e integrato su `main` per i tre contenuti privi di sottotitoli italiani:
-- `jcVKVKvy78k` — posizione 143
-- `joY6sigynis` — posizione 148
-- `ijVoIMF_gn8` — posizione 149
-
-I file `.md` e `.asr.json` sono disponibili per la revisione semantica. Il contenuto 143 è stato revisionato e marcato STUDIATO.
-
-## Agente richiesto
-
-**CHATGPT**
-
-## Next Action
-
-Proseguire con CHATGPT in ordine canonico dal contenuto 150:
+La revisione semantica è stata completata in ordine canonico fino a:
 
 - `VN1d2qBc0U0` — *Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing]* — posizione 150.
 
-Transcript italiano disponibile; pronto per revisione semantica.
+## Agente richiesto
+
+**CLAUDE CODE**
+
+## Next Action
+
+Eseguire **FASE 14 + FASE 15 al checkpoint 150**.
+
+FASE 14:
+- audit/refactor globale della KB per duplicazioni, frammentazione, gerarchia, dimensione dei file, routing e collegamenti;
+- preservare il significato e la precedenza delle fonti più recenti;
+- non introdurre conoscenza esterna;
+- non introdurre Formalife.
+
+FASE 15:
+- audit globale della tassonomia;
+- verificare categorie, routing e ordine futuro della queue;
+- aggiornare coerentemente queue canonica, catalogo e VIDEO_INDEX se necessario;
+- determinare il corretto prossimo batch tecnico soltanto dopo l'audit.
+
+**BLOCCO OPERATIVO:** non acquisire i contenuti 151–175 prima della conclusione della FASE 15, perché l'audit tassonomico può modificarne ordine e routing.
+
+## Primo pendente pre-audit
+
+Nella queue corrente il primo `DA STUDIARE` successivo al batch è `8R8NR6nqhJY` — *"I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue*.
+
+Questo riferimento è soltanto il primo pendente **prima** della FASE 15. Non avviarne l'acquisizione finché Claude non ha completato l'audit tassonomico del checkpoint 150.
 
 ## Validazione e blocchi
 
-Le anomalie note di `scripts/validate_project.py` restano quelle preesistenti già documentate: confronto file congelati vs tag v1.0 e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue. Nessuna nuova anomalia tecnica è stata rilevata nell'integrazione del batch.
+Le anomalie note di `scripts/validate_project.py` restano quelle preesistenti già documentate: confronto file congelati vs tag v1.0 e disallineamenti d'ordine tra catalogo, VIDEO_INDEX e queue.
 
-Il blocco alla posizione 143 è risolto tramite fallback ASR locale. Restano soltanto le anomalie preesistenti già documentate.
+Il blocco sui transcript 143/148/149 è risolto. Nessun nuovo blocco introdotto dal batch 126–150.

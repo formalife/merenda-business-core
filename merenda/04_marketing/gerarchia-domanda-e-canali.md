@@ -172,6 +172,29 @@ Le prescrizioni tattiche del 2023 su specifiche piattaforme, liste e superiorit�
 
 Fonte: [Campagne Marketing ONLINE oppure OFFLINE?](https://www.youtube.com/watch?v=5q1QvjuXX_w), 27 aprile 2023. [Revisione](../../sources/transcripts/5q1QvjuXX_w.review.md).
 
+## Con intermediari servono sell-in e sell-through
+
+Nel corso del 27 giugno 2022 Merenda distingue due lavori quando il prodotto arriva al mercato attraverso negozianti, rivenditori o distributori.
+
+Il primo è **conquistare il canale**: convincere l'intermediario a inserire, proporre o tenere il prodotto.
+
+Il secondo è **far girare il prodotto nel canale**: creare domanda e materiali rivolti al cliente finale, così che l'intermediario non debba inventare da zero posizionamento, argomentazioni e motivi di acquisto.
+
+La sequenza è quindi:
+
+**sell-in al distributore → supporto marketing al cliente finale → sell-through → riordino**
+
+Se l'azienda si ferma al sell-in, il rischio è trasferire al rivenditore tutto il peso della vendita. Il prodotto può entrare nel punto vendita ma non ruotare abbastanza da giustificare nuovi ordini.
+
+Per questo un'impresa che vende tramite intermediari può avere due pubblici di marketing distinti:
+
+- il **partner commerciale**, a cui deve rendere interessante e sostenibile distribuire il prodotto;
+- il **cliente finale**, a cui deve rendere comprensibile e desiderabile il prodotto stesso.
+
+I materiali, l'offerta e il percorso non devono essere identici: rispondono a obiettivi diversi. Il principio non implica che ogni produttore debba fare pubblicità di massa al consumatore finale; implica che la domanda a valle non può essere lasciata interamente alla buona volontà del canale.
+
+Fonte precedente: [Cos'è il MARKETING e perchè NON è La Mucca Viola](https://www.youtube.com/watch?v=VN1d2qBc0U0), 27 giugno 2022. [Revisione](../../sources/transcripts/VN1d2qBc0U0.review.md).
+
 ## Social media: strumento, non punto di partenza automatico
 
 Il materiale 2022 sul social media management distingue due casi:

@@ -159,7 +159,7 @@ Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (o
 | 147 | [W9IOyR3fsEo](https://www.youtube.com/watch?v=W9IOyR3fsEo) — Mental Manipulation &#124; Dan Kennedy and Unfair Marketing Techniques | 08_brand | STUDIATO |
 | 148 | [joY6sigynis](https://www.youtube.com/watch?v=joY6sigynis) — Strategie di Marketing per trovare clienti &#124;DAN KENNEDY e il PACCONE | 05_acquisizione | STUDIATO |
 | 149 | [ijVoIMF_gn8](https://www.youtube.com/watch?v=ijVoIMF_gn8) — DAN KENNEDY - I 10 Comandamenti del Marketing a Risposta Diretta | 00_fondamenti | STUDIATO |
-| 150 | [VN1d2qBc0U0](https://www.youtube.com/watch?v=VN1d2qBc0U0) — Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | 04_marketing | DA STUDIARE |
+| 150 | [VN1d2qBc0U0](https://www.youtube.com/watch?v=VN1d2qBc0U0) — Cos'è il MARKETING e perchè NON è La Mucca Viola [Corso Completo di Marketing] | 00_fondamenti | STUDIATO |
 | 151 | [8R8NR6nqhJY](https://www.youtube.com/watch?v=8R8NR6nqhJY) — "I Already Tried It and It Didn't Work" — The Excuse That Kills Your Revenue | 04_marketing | DA STUDIARE |
 | 152 | [-oYSpJrj024](https://www.youtube.com/watch?v=-oYSpJrj024) — The Customer Doesn't Understand Your Quality. And They Never Will: Here's What to Do | 04_marketing | DA STUDIARE |
 | 153 | [v6WWqNpNSpE](https://www.youtube.com/watch?v=v6WWqNpNSpE) — The Unfair Advantage You Can Create From Scratch Today | 04_marketing | DA STUDIARE |
