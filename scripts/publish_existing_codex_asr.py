@@ -65,14 +65,45 @@ def parse_segment(seg):
 
     start = seg.get("start")
     end = seg.get("end")
+
     if start is None:
         start = seg.get("start_time")
     if end is None:
         end = seg.get("end_time")
 
+    # Formato raw prodotto da Whisper/MLX usato da Codex:
+    # {"timestamps":{"from":"00:00:00,000","to":"00:00:05,820"},
+    #  "offsets":{"from":0,"to":5820}, ...}
+    # Gli offsets sono millisecondi e sono la fonte preferita.
+    offsets = seg.get("offsets")
+    if (start is None or end is None) and isinstance(offsets, dict):
+        off_from = offsets.get("from")
+        off_to = offsets.get("to")
+        if off_from is not None and off_to is not None:
+            start = float(off_from) / 1000.0
+            end = float(off_to) / 1000.0
+
     ts = seg.get("timestamp")
     if (start is None or end is None) and isinstance(ts, (list, tuple)) and len(ts) >= 2:
         start, end = ts[0], ts[1]
+
+    timestamps = seg.get("timestamps")
+    if (start is None or end is None) and isinstance(timestamps, dict):
+        def parse_clock(value):
+            if isinstance(value, (int, float)):
+                return float(value)
+            value = str(value).strip().replace(",", ".")
+            parts = value.split(":")
+            if len(parts) != 3:
+                raise ValueError(f"Timestamp non riconosciuto: {value!r}")
+            h, m, s = parts
+            return int(h) * 3600 + int(m) * 60 + float(s)
+
+        ts_from = timestamps.get("from")
+        ts_to = timestamps.get("to")
+        if ts_from is not None and ts_to is not None:
+            start = parse_clock(ts_from)
+            end = parse_clock(ts_to)
 
     if start is None:
         start = seg.get("offset")
