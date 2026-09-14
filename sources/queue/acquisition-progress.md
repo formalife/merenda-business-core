@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T13:10:36.633813+00:00
+Ultimo aggiornamento: 2026-09-14T13:10:42.090560+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | _CPcSMMzIY0 | L'arma del VENDITORE per le Aziende che acquisiscono contatti online | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | I-YCFdXNSO0 | Cos'è il MARKETING, a cosa serve e perchè non è pubblicità | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | bLmGe86nDAA | FUNNEL \| Translation and Meaning - What is a Marketing Funnel [Explained Simply] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | of0ppir9sq4 | FUNNEL DI VENDITA \| Progettare Lanci di prodotto a TEMPO | PENDING |  |
+| 16 | of0ppir9sq4 | FUNNEL DI VENDITA \| Progettare Lanci di prodotto a TEMPO | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | bY6Lb0Dld88 | Strategie di Acquisizione Clienti: Invadere l’ambiente | PENDING |  |
 | 18 | JQXoKKwneBQ | E Commerce: Il futuro è nei Funnel | PENDING |  |
 | 19 | ji8rHHO_KHY | Come costruire un FUNNEL da ZERO per Trovare Clienti [Corso Completo] | PENDING |  |
