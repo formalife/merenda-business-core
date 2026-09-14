@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-14T16:28:30.062393+00:00
+Ultimo aggiornamento: 2026-09-14T16:28:36.457306+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | rcVXvepx-l8 | Le 6 Personalità Di Acquisto Che Ti Faranno Vendere Di Più [Senza Inseguire I Ricchi!] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | gcQKKrbZW28 | Live Events: How to Generate Extraordinary Sales Without Wasting Budget | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | sa45UbN4sMI | 🔴 How to Sell More: The Only Proven Method to Eliminate Buying Resistance | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | Zzh6PXGTmD0 | Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | PENDING |  |
+| 20 | Zzh6PXGTmD0 | Come Vendere di Più (E Battere I Colossi): La Fiducia Che Genera Profitto Immediato | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | bWNr-tHknvw | Frank Merenda's Formula for Selling Any Product | PENDING |  |
 | 22 | V8CVwcH5rwA | 🔴 TECNICHE DI VENDITA: Prepara La Tua Rete Vendita Per Sconfiggere I Brand Famosi | PENDING |  |
 | 23 | r649dAXopLM | Testimonials That Skyrocket Sales: Frank Merenda’s Untold Guide | PENDING |  |
