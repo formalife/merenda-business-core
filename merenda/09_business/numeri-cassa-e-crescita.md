@@ -468,3 +468,64 @@ Il principio è:
 Questo collega crescita, pricing, retention e acquisizione in un unico modello numerico.
 
 Fonte assimilata: Jay Abraham, Michael Simmons, Max Bernstein, “The 3 Numbers That Generated $2.5 Million Without a New Product”, 15 maggio 2026. Review: ../../sources/merenda-sources/FM-SRC-0018/review.md.
+
+
+## Ricavi “da spinta” e costi fissi automatici devono essere letti separatamente
+
+Nel materiale del 23 agosto 2026 Merenda introduce una distinzione utile prima di aggiungere struttura.
+
+Alcuni ricavi arrivano con elevata regolarità anche quando il fondatore o il team commerciale riducono temporaneamente la pressione.
+
+Altri ricavi sono **da spinta**: dipendono in misura rilevante da:
+
+- lanci;
+- promozioni;
+- presenza personale;
+- campagne;
+- eventi;
+- attività commerciale continua.
+
+Questi modelli possono essere molto profittevoli. Il problema nasce quando vengono caricati di costi che invece arrivano automaticamente ogni mese:
+
+- affitti;
+- personale;
+- sedi;
+- magazzino;
+- debito;
+- altri costi fissi.
+
+La domanda prima di firmare nuova struttura è:
+
+**se la spinta commerciale rallenta per un periodo realistico, il margine generato dal modello regge ancora i costi fissi aggiunti?**
+
+Il test non deve usare il miglior mese o la crescita più recente come se fossero permanenti.
+
+La sequenza è:
+
+**natura dei ricavi → variabilità della spinta → costo fisso aggiunto → stress test → decisione di scala.**
+
+Questo completa il principio già presente sul break-even: non conta soltanto quanto cresce il costo fisso, ma quanto è autonomo e resiliente il flusso di ricavi che dovrà sostenerlo.
+
+### La leva amplifica il sottostante, non lo sostituisce
+
+Nel materiale del 27 luglio 2026 sul caso Dainese Merenda applica lo stesso principio a debito e capitale esterno.
+
+Una leva finanziaria o un investimento possono accelerare un sistema che possiede:
+
+- potere di prezzo;
+- margini;
+- domanda;
+- focus;
+- economics replicabili.
+
+Non creano però automaticamente queste caratteristiche.
+
+La formulazione canonica è:
+
+**leva/capitale → amplificazione del modello esistente.**
+
+Se il modello è forte, l'acceleratore può aumentare la capacità di crescita. Se il margine o il potere di prezzo sono già fragili, la stessa leva aumenta il costo dell'errore.
+
+Il punto non è “debito cattivo” o “fondi cattivi”. È evitare di usare capitale come sostituto di una posizione economica non ancora dimostrata.
+
+Fonte: Frank Merenda, “Dainese è risorta. E i becchini hanno letto me e Al Ries meglio dei manager”, 27 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0028/review.md.

@@ -218,3 +218,78 @@ Per la distinzione tra variante, nuovo brand e family brand, vedi [estensioni di
 - [Complessità del sistema e riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md)
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)
 - [Front-end e monetizzazione successiva](../03_offerta/front-end-e-back-end.md)
+
+
+## Ogni nuova geografia o categoria riapre il problema della posizione
+
+Nel materiale del 10 agosto 2026 Merenda precisa che una posizione forte in un mercato non si trasferisce automaticamente per copia in un altro.
+
+Quando cambia:
+
+- Paese;
+- categoria;
+- target;
+- contesto competitivo;
+
+cambiano anche le scale mentali già occupate e i concorrenti che possiedono i relativi pioli.
+
+La procedura diventa:
+
+**mercato nuovo → mappa delle alternative e delle posizioni già occupate → spazio realmente libero → proposta/brand coerente → test.**
+
+Quindi l'espansione non è:
+
+**formula vincente nel mercato A → traduzione → mercato B.**
+
+È:
+
+**asset e competenze del mercato A → nuova diagnosi nel mercato B → strategia specifica.**
+
+La conclusione può anche essere **non entrare** quando il capitale richiesto e la probabilità di conquistare una posizione non giustificano l'operazione.
+
+### Un co-branding può prestare un piolo, non regalarlo
+
+La stessa fonte distingue collaborazione e proprietà della posizione.
+
+Un partner già credibile in una categoria può:
+
+- ridurre diffidenza;
+- prestare distribuzione;
+- prestare legittimità;
+- facilitare il primo acquisto.
+
+Ma dopo la collaborazione il nuovo brand deve ancora rispondere alla domanda:
+
+**perché dovrei comprare te quando il partner non è più presente?**
+
+Quindi:
+
+**co-branding → credito preso in prestito → prova autonoma → posizione propria.**
+
+Se l'unica ragione per comprare resta il nome del partner, la collaborazione ha prodotto vendite ma non necessariamente un asset di brand trasferibile.
+
+Fonte: Frank Merenda, “L’Estetista Cinica ha vinto la prima partita. Adesso rischia di perderne sette contemporaneamente”, 10 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0025/review.md.
+
+## Prima la categoria, poi il brand da monetizzare
+
+Nel materiale del 14 agosto 2026 Merenda applica il principio di focus alla monetizzazione di un nome già famoso.
+
+Notorietà, storia personale o proprietà intellettuale non definiscono da sole **che cosa il cliente dovrebbe comprare**.
+
+L'ordine operativo è:
+
+1. scegliere una categoria concreta nella quale il nome abbia credibilità e una possibilità reale di essere primo;
+2. costruire un prodotto/offerta coerente con quella categoria;
+3. fissare prezzo, distribuzione e prove coerenti;
+4. ripetere abbastanza a lungo da creare l'associazione;
+5. soltanto dopo valutare categorie ulteriori o nuovi brand.
+
+Creare contemporaneamente più linee o più brand prima che la prima associazione esista può moltiplicare nomi senza costruire significato.
+
+Questo vale anche nel licensing:
+
+**fama disponibile ≠ licenza a entrare in qualsiasi categoria.**
+
+L'asset famoso accelera attenzione e distribuzione, ma deve comunque essere collegato a una categoria comprensibile e specifica.
+
+Fonte: Frank Merenda, “Maradona in saldo…”, 14 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0024/review.md.

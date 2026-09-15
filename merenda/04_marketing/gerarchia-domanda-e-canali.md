@@ -253,3 +253,36 @@ Questo collega la scelta del canale al documento su [appropriatezza e qualità e
 - [Quattro modalità e ritmo](quattro-modalita-e-ritmo.md)
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
 - [Appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md)
+
+
+## Il canale è un tubo, non la posizione
+
+Nel materiale del 29 luglio 2026 Merenda formula un test semplice contro la confusione fra distribuzione e posizionamento.
+
+Una rete agenti, un marketplace, un e-commerce, una piattaforma, una catena di negozi o un altro canale possono essere asset molto importanti.
+
+Ma rispondono alla domanda:
+
+**come arriva l'offerta al cliente?**
+
+non necessariamente:
+
+**perché il cliente sceglie proprio questa offerta?**
+
+Il canale può cambiare, perdere efficacia o essere sostituito.
+
+Per questo una diagnosi utile è:
+
+**se domani il canale principale sparisse, che cosa rimarrebbe nella mente del cliente come ragione specifica per cercare proprio noi?**
+
+Se la risposta è nulla, il sistema possiede distribuzione ma potrebbe non possedere una posizione.
+
+La formula è:
+
+**posizione → ragione di scelta**
+
+**canale → mezzo con cui la domanda viene intercettata o servita.**
+
+Il principio non svaluta il canale. Impedisce soltanto di trattare un vantaggio distributivo contingente come se fosse un significato di brand permanente.
+
+Fonte: Frank Merenda, “Le 43 aziende perfette (e perché la tua bravura non ti salverà)”, 29 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0027/review.md.

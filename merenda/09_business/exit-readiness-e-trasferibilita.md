@@ -98,3 +98,42 @@ La stessa fonte distingue inoltre due logiche:
 La KB non trasforma questa distinzione in formule di valutazione o multipli universali. Resta il principio: **il valore di trasferibilità non è completamente indipendente da chi può utilizzare gli asset e da come può combinarli**.
 
 Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.
+
+
+## Prima di togliere il fondatore, sostituire il ruolo economico che svolge
+
+Nel materiale del 23 agosto 2026 Merenda distingue due problemi che possono sembrare identici ma non lo sono:
+
+- **dipendenza operativa dal fondatore** — decisioni, procedure o attività che nessun altro sa ancora gestire;
+- **dipendenza commerciale/percettiva dal fondatore** — una parte della domanda esiste perché il fondatore è personalmente la voce, la relazione o il significato che il cliente compra.
+
+Nel secondo caso non basta assumere manager e togliere il fondatore dal flusso.
+
+Prima bisogna identificare **che funzione economica sta svolgendo la persona**.
+
+Può essere, per esempio:
+
+- generazione quotidiana di attenzione;
+- fiducia;
+- spiegazione del prodotto;
+- attivazione della community;
+- lancio e vendita;
+- associazione mentale del brand.
+
+La sequenza corretta diventa:
+
+**ruolo personale che genera domanda → renderlo esplicito → costruire un sostituto di sistema → testare → solo dopo ridurre la dipendenza dalla persona.**
+
+Il sostituto non deve necessariamente essere un'altra persona. Può essere una posizione di prodotto più forte, un sistema commerciale replicabile, una categoria più chiara, una community che funziona senza intervento continuo del fondatore o una combinazione di questi elementi.
+
+Ridurre la dipendenza senza sostituire ciò che la produce può rendere l'azienda più ordinata ma meno capace di generare ricavi.
+
+Quindi la trasferibilità non è soltanto:
+
+**fondatore assente → procedure presenti**
+
+ma anche:
+
+**fondatore assente → il motivo per cui il mercato comprava continua a esistere.**
+
+Fonte: Frank Merenda, “La Waterloo dell'Estetista Cinica”, 23 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0023/review.md.
