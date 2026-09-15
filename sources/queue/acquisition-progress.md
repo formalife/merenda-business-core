@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T10:09:41.933196+00:00
+Ultimo aggiornamento: 2026-09-15T10:09:43.910549+00:00
 
 Batch: 10 video
-Completati tecnicamente: 9/10
+Completati tecnicamente: 10/10
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -16,4 +16,4 @@ Completati tecnicamente: 9/10
 | 7 | eGt2WUGelbU | INCASSI STELLARI di una Clinica Medica grazie al MARKETING di Metodo Merenda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | LtFeqet7OFc | GELATERIA WALLY MILAN \| The Brutal Truth About the Ice Cream You Eat Every Day | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | dftLQTuK0cY | CAMMI GOMME PIACENZA: The Tire Dealer That Doesn't Look Like a Tire Dealer | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 10 | wDRHWHNHP5c | EUROPA 92 a Modena: Il Ristorante Di Pavarotti Dove I Food Blogger Non Entrano | PENDING |  |
+| 10 | wDRHWHNHP5c | EUROPA 92 a Modena: Il Ristorante Di Pavarotti Dove I Food Blogger Non Entrano | ACQUIRED | Metadata + transcript Markdown disponibili. |
