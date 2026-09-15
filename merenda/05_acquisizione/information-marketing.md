@@ -314,3 +314,66 @@ Fonte: [LIVE Domande e Risposte](https://www.youtube.com/watch?v=WLNsk8EVUjQ), 1
 - [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
+
+
+## Il contenuto può essere un filtro di deal-flow, non soltanto un prodotto o un funnel di vendita
+
+Nel materiale del 4 febbraio 2026 Merenda descrive un modello nel quale contenuti gratuiti, audience e formazione pubblica non vengono monetizzati principalmente vendendo corsi alla massa.
+
+Possono svolgere una funzione diversa:
+
+**attirare un bacino molto ampio → osservare chi dimostra caratteristiche rilevanti → qualificare una minoranza ad alto valore → proporre una relazione economica molto più profonda.**
+
+La relazione finale può essere, a seconda del modello:
+
+- advisory;
+- partnership;
+- revenue share;
+- investimento;
+- acquisizione di una quota;
+- altro accordo ad alto valore.
+
+In questo schema il pubblico generale non è necessariamente il cliente finale economicamente più importante.
+
+È anche un **pool di osservazione e qualificazione**.
+
+La sequenza è:
+
+**contenuto utile → audience → segnali osservabili → criteri di qualificazione → shortlist → due diligence commerciale/operativa → offerta ad alto valore.**
+
+### La qualifica deve usare criteri economici, non notorietà
+
+Per evitare che il modello diventi semplice “personal branding”, i criteri devono essere espliciti.
+
+Possono includere:
+
+- fatturato/margine;
+- capacità del team;
+- domanda esistente;
+- economics dell'acquisizione;
+- possibilità concreta di scalare;
+- compatibilità con le competenze del partner/investitore.
+
+Il contenuto serve ad aumentare il volume del deal-flow e a ridurre il costo di scoperta; non rende automaticamente buona l'azienda selezionata.
+
+### Non copiare il volume visibile senza la leva nascosta
+
+La stessa fonte sottolinea che numeri enormi di contenuti, lead o attività possono essere sostenuti da:
+
+- team;
+- automazioni;
+- capitale;
+- sistemi;
+- processi delegati.
+
+Per una PMI il benchmark corretto non è il **volume esterno** prodotto da una macchina più grande.
+
+È il rapporto:
+
+**risorse disponibili → capacità operativa → output sostenibile → risultato economico.**
+
+Copiare soltanto la frequenza visibile può trasformare una strategia di scala in sovraccarico del fondatore.
+
+Le ricostruzioni biografiche e finanziarie relative ad Alex Hormozi restano parte dell'analisi della fonte e non vengono consolidate come fatti autonomi della KB.
+
+Fonte: Frank Merenda, “IL MANUALE DI ALEX HORMOZI…”, 4 febbraio 2026. Review: ../../sources/merenda-sources/FM-SRC-0036/review.md.

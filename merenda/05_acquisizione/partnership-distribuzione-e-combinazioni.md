@@ -92,3 +92,47 @@ I casi e i numeri della fonte sono esempi. La KB non assume come verificati auto
 - [Funnel e conversione](funnel-e-conversione.md)
 - [Gerarchia della domanda e canali](../04_marketing/gerarchia-domanda-e-canali.md)
 - [Scalabilità e uscita dall'operatività](../09_business/scalabilita-e-operativita.md)
+
+
+## Partnership a revenue share: separare chi porta l'offerta da chi finanzia l'acquisizione
+
+Nel materiale del 26 gennaio 2026 Merenda descrive una variante delle partnership nella quale le parti non scambiano soltanto audience o asset complementari.
+
+Una parte può contribuire:
+
+- prodotto/offerta;
+- volto o autorità;
+- capacità di erogazione.
+
+L'altra può contribuire:
+
+- capitale per comprare media;
+- competenza di media buying;
+- distribuzione;
+- infrastruttura commerciale.
+
+Il rischio di acquisizione viene quindi condiviso e i ricavi vengono ripartiti secondo l'accordo.
+
+Il principio è:
+
+**asset commerciale + capitale/distribuzione → test unit economics → revenue share.**
+
+Questa struttura può permettere a un'offerta valida di accedere a una scala di acquisizione che non potrebbe autofinanziare subito.
+
+Ma non è “capitale gratis”.
+
+Prima di accettarla vanno resi espliciti almeno:
+
+- chi anticipa il capitale;
+- chi sopporta la perdita se il test fallisce;
+- quali costi vengono recuperati prima della divisione dei ricavi;
+- come viene attribuita la vendita;
+- chi controlla dati e customer relationship;
+- quali diritti restano dopo la fine dell'accordo;
+- quando ciascuna parte può uscire.
+
+Questo è un caso transazionale del principio più generale di partnership: il partner rende disponibile una capacità che sarebbe costosa da costruire internamente, ma l'economia e il controllo devono restare leggibili.
+
+Le ricostruzioni biografiche relative a Tony Robbins, Guthy-Renker e altri soggetti restano esempi della fonte.
+
+Fonte: Frank Merenda, “Tony Robbins: L’ingegneria occulta dietro l’impero”, 26 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0037/review.md.

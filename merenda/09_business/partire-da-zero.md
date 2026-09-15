@@ -166,3 +166,38 @@ Questo aggiorna il principio già presente “prima il prototipo economico, poi 
 Le percentuali, le forme societarie e gli strumenti finanziari citati nella fonte restano esempi contingenti e non diventano regole universali.
 
 Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.
+
+
+## Separare capacità trasferibili da vantaggi di contesto
+
+Nel materiale del 10 marzo 2026 Merenda mette in guardia da un errore di benchmarking storico: osservare un imprenditore o un'azienda del passato e attribuire tutto il risultato alle competenze che raccontano oggi.
+
+Una traiettoria può essere stata favorita anche da condizioni non replicabili, per esempio:
+
+- scarsità locale di concorrenza;
+- domanda in forte espansione;
+- costo del capitale differente;
+- accesso relazionale a credito, fornitori o immobili;
+- vantaggi valutari;
+- struttura del lavoro o della distribuzione tipica di quell'epoca;
+- altre condizioni istituzionali o macroeconomiche.
+
+La procedura utile è:
+
+1. descrivere il risultato osservato;
+2. separare le **capacità dell'impresa** dai **vantaggi di contesto**;
+3. chiedere quali vantaggi esistono ancora oggi;
+4. sostituire quelli scomparsi con capacità moderne reali;
+5. copiare soltanto ciò che resta trasferibile.
+
+Quindi:
+
+**successo storico = capacità + contesto + timing.**
+
+Non tutto ciò che ha funzionato in una traiettoria passata è una procedura da replicare.
+
+Questo completa il principio “comprare esperienza prima di comprare struttura”: anche l'esperienza va interpretata alla luce del contesto che l'ha resa economicamente valida.
+
+La fonte contiene affermazioni storiche, fiscali, creditizie e macroeconomiche specifiche sull'Italia. La KB non le consolida come regole economiche autonome; conserva il metodo di separazione fra tailwind contingente e capacità trasferibile.
+
+Fonte: Frank Merenda, “9 sporchi trucchi che i tuoi genitori usavano per fare impresa…”, 10 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0035/review.md.

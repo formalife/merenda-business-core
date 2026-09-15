@@ -7,8 +7,8 @@
     "treatment": "MERENDA_PRIMARY",
     "priority": 1,
     "temporal_scope": "2024–2026+",
-    "status": "ACTIVE",
-    "notes": "Fonte diretta prioritaria. Processare newest-first per prevalenza temporale e poi gap-driven."
+    "status": "ACTIVE_GAP_DRIVEN",
+    "notes": "Fonte diretta prioritaria. Audit newest-first 2026 completato fino a saturazione semantica operativa: proseguire soltanto per gap nominabili o nuovi post successivi al 2026-09-15."
   },
   {
     "id": "FM-COL-002",
