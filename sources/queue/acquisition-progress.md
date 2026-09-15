@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:48:00.705857+00:00
+Ultimo aggiornamento: 2026-09-15T08:48:16.729104+00:00
 
 Batch: 25 video
-Completati tecnicamente: 15/25
+Completati tecnicamente: 16/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -22,7 +22,7 @@ Completati tecnicamente: 15/25
 | 13 | qX8bJHUIDjI | Marketing Strategies \| Dan Kennedy's 3 Steps to Increase Sales | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 14 | fpX3evEGoHY | [Tecniche di Vendita] Come vendere fornendo la prova | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | kGEOki4orFg | [Tecniche di Vendita] Perchè utilizzare il sistema Plug and Play | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 16 | Ldy_Av2G1SA | 🔴 Business Growth: How to Take Your SMB from Zero to Success (Complete 2025 Strategy) | PENDING |  |
+| 16 | Ldy_Av2G1SA | 🔴 Business Growth: How to Take Your SMB from Zero to Success (Complete 2025 Strategy) | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 17 | GUolZGprkP8 | BUDGET per MARKETING \| Come capire quanto investire per il Paccone? | PENDING |  |
 | 18 | GdSf3-b_aIQ | 🔴 Why Delegating Strategic Marketing Is Your Most Costly MISTAKE | PENDING |  |
 | 19 | oqoMqLQl9G4 | How to Make Your Seasonal Business a Steady Source of Income | PENDING |  |
