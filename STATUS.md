@@ -2,15 +2,13 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**. Checkpoint **275 chiuso**: FASE 14 Claude Code eseguita. La coda residua **276–468 è stata riprogettata per information gain**; nessun contenuto 276+ è stato ancora acquisito o processato semanticamente. Corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**. Checkpoint **275 chiuso**. **Batch tecnico ottimizzato 276–300 completato** sul branch `acquisition-276-300`, dalla base canonica `81b0829bf99427ae5c46db8f33346fdab3d6c8ef`. Nessun merge su main. Corpus ancora incompleto.
 
 ## Fase corrente
 
-Revisione semantica **251–275 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO. FASE 14 Claude Code eseguita e checkpoint 275 definitivamente chiuso.
+**FASE 7 — acquisizione tecnica 276–300 completata.** 25/25 ACQUIRED, 25 transcript utilizzabili: **2 italiani manuali e 23 automatici it-orig**, nessun fallback ASR, NO_IT_TRANSCRIPT, ERROR finale o PENDING. Metadata del canale ufficiale verificati; confronto integrale JSON3↔Markdown e copertura temporale verificati; keyframe selettivi e limiti nel report tecnico.
 
-Dopo il checkpoint è stata eseguita una riprioritizzazione strategica dei **193 residui**, separando la vecchia classe A/B/C (profondità di review) dalla nuova **Information Priority** (ordine di acquisizione): **15 MUST STUDY / 76 TARGETED / 102 LOW-DEFER**.
-
-Report: `reviews/RESIDUAL_REPRIORITIZATION_276-468.md`.
+Report: `sources/queue/acquisition-progress.md`. `sources/queue/next-batch.txt` contiene esattamente i 25 URL 276–300 nel nuovo ordine.
 
 ## Corpus
 
@@ -20,45 +18,28 @@ Report: `reviews/RESIDUAL_REPRIORITIZATION_276-468.md`.
 - ESCLUSO dalla dottrina attiva: **6**
 - Da processare: **193**
 - Corpus completo: NO
-- Nessun contenuto del nuovo batch 276–300 ancora acquisito
-- Nessuna variazione dei contatori semantici dovuta alla riprioritizzazione
+- Batch 276–300 tecnicamente pronto: **25**, ancora tutti **DA STUDIARE**
+- **Nessun contenuto marcato STUDIATO o ESCLUSO in questa task. Semantica ferma a 275.**
 
-## Novelty recente
+## Ordine operativo e limite
 
-- Batch 226–250: **16/25 incrementali = 64%**
-- Batch 251–275: **11/25 incrementali = 44%**
-- Il calo del valore marginale ha motivato il passaggio da coda sequenziale a coda adattiva basata su information gain.
-
-## Priorità informativa residua
-
-- MUST STUDY: **15**
-- TARGETED: **76**
-- LOW / DEFER: **102**
-- Totale residuo: **193**
-
-Il nuovo batch 276–300 contiene tutti i 15 MUST STUDY più 10 TARGETED scelti per coprire gap e diversificare l'informazione: **5 copy, 5 brand, 5 vendita, 10 business**.
-
-La vecchia classificazione `reviews/RESIDUAL_CLASSIFICATION_201-468.md` resta storica. La nuova fonte operativa è `reviews/RESIDUAL_REPRIORITIZATION_276-468.md`.
+Fonte operativa: `reviews/RESIDUAL_REPRIORITIZATION_276-468.md`.
+Nuovo batch: 15 MUST STUDY + 10 TARGETED, selezione verificata programmaticamente 25/25.
+La vecchia `reviews/RESIDUAL_CLASSIFICATION_201-468.md` resta storica.
+STOP tecnico a **300**; nessuna acquisizione del nuovo 301 o successivi.
 
 ## Validazione
 
-Baseline strutturale precedente al riordino: **842 warning storici**:
+Validator prima/dopo: **842 warning storici**, output identico:
+836 `Ordine/stato incoerente`, 3 `File congelato modificato`, 3 `Contatore STATUS errato`.
+Nessun riallineamento di catalogo o VIDEO_INDEX. Frozen, KB, review esistenti, queue, riprioritizzazione e script invariati. Nessuna nuova `.review.md`.
 
-- 836 `Ordine/stato incoerente`;
-- 3 `File congelato modificato` dovuti al mismatch storico del validator;
-- 3 `Contatore STATUS errato` storici.
-
-Il riordino modifica intenzionalmente soltanto l'ordine dei residui in `QUEUE.md`; 1–275, stati semantici, KB, frozen, catalogo e VIDEO_INDEX restano invariati. Poiché le posizioni residue erano già comprese nel mismatch storico catalogo/queue, il riordino non deve essere “corretto” riallineando fuori scope il catalogo.
-
-## Workflow attivo — v1.1
+## Workflow attivo
 
 - CODEX: acquisizione tecnica e supporto meccanico.
 - CHATGPT: revisione semantica e fasi 8–13.
 - CLAUDE CODE: FASE 14 ogni 25; FASE 14 + 15 ogni 50.
-- Classificazione A/B/C: priorità/profondità di revisione, mai esenzione.
-- Information Priority: ordine adattivo di acquisizione basato sul valore marginale atteso.
-- C = FAST REVIEW, mai SKIP.
-- Nessuna modifica ai file frozen.
+- L’acquisizione non equivale a completamento semantico.
 
 ## Checkpoint
 
@@ -69,16 +50,13 @@ Il riordino modifica intenzionalmente soltanto l'ordine dei residui in `QUEUE.md
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Acquisizione tecnica del **nuovo batch ottimizzato 276–300**, a partire da:
+**Revisione semantica 276–300, fasi 8–13 + Weighted Novelty.**
+Iniziare da **276 — `KipX0tAAWr4`**, terminare con **300 — `Fo8PB_7fE60`**.
 
-**276 — `KipX0tAAWr4` — "Why COPYWRITING starts with your positioning [Full Course]"**
+La semantica è ancora ferma a **275**. Dopo la revisione, passare a Claude per il checkpoint **300 — FASE 14 + FASE 15**.
 
-Il batch termina con:
-
-**300 — `Fo8PB_7fE60` — "HOW TO DO BUSINESS | The organizational chart of a modern company"**
-
-Dopo l'acquisizione tecnica, restituire il controllo a ChatGPT per la revisione semantica 276–300 (fasi 8–13) e misurare anche la **Weighted Novelty**. Solo dopo il checkpoint 300 si deciderà se continuare con altri TARGETED, passare a gap specifici o considerare sufficientemente satura la KB Merenda.
+Non decidere automaticamente il batch successivo: la decisione dopo 300 dipenderà dalla **Weighted Novelty** misurata nella fase semantica, secondo il report di riprioritizzazione. Nessuna novelty analysis eseguita da Codex.
