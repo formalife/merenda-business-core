@@ -106,6 +106,21 @@ La fonte del 13 ottobre 2025 resta più recente per la fase successiva: osservar
 
 Fonte precedente: [Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo](https://www.youtube.com/watch?v=2tWslHOkxIc), 15 novembre 2024. [Revisione](../../sources/transcripts/2tWslHOkxIc.review.md).
 
+## Separare gap di competenza e problemi di comportamento
+
+Nel materiale dell'8 luglio 2022 Merenda distingue:
+
+1. **competenza mancante ma allenabile** → formazione, affiancamento, sviluppo;
+2. **comportamento incompatibile con standard e collaborazione** → feedback esplicito, verifica e, se il problema persiste, decisione organizzativa.
+
+La performance tecnica non rende automaticamente accettabili comportamenti che danneggiano clienti, colleghi o capacità di gestione.
+
+Il video usa toni aggressivi e soglie informali: la KB non conserva quei toni né trasforma il numero di richiami in procedura universale o giuridica.
+
+Il principio si collega ai [single point of failure](scalabilita-e-operativita.md): quando un collaboratore diventa così insostituibile da poter imporre condizioni al sistema, il problema è anche organizzativo.
+
+Fonte precedente: [COLLABORATORE DANNOSO — Eliminare le mele marce in Azienda](https://www.youtube.com/watch?v=8uQMbmRHUmk), 8 luglio 2022. [Revisione](../../sources/transcripts/8uQMbmRHUmk.review.md).
+
 ## Collegamenti
 
 - [Scalabilità e uscita dall'operatività](scalabilita-e-operativita.md)

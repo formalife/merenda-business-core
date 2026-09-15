@@ -2,49 +2,45 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Checkpoint **300 — FASE 14 + FASE 15 chiuso**. Decisione attiva: **B — continuare Merenda solo su gap mirati**.
+ACTIVE — contenuti **1–310 processati semanticamente**. Checkpoint 300 chiuso. Decisione attiva: **B — continuare Merenda solo su gap mirati**.
 
-## Fase corrente
+## Micro-batch 301–310
 
-**FASE 7 micro-batch mirato 301–310 completata tecnicamente.**
+Revisione semantica completata:
+- 10/10 STUDIATO
+- 0 nuovi ESCLUSO
+- novelty binaria: **7/10 = 70%**
+- Weighted Novelty: **9/20 = 45%**
+- prior atteso: 13/20
 
-Codex ha completato i 10 commit di acquisizione prima dell'esaurimento del credito; ChatGPT ha verificato sul remoto la presenza degli asset e chiuso l'handoff tecnico.
+Nuovi nodi:
+- `merenda/09_business/exit-readiness-e-trasferibilita.md`
+- `merenda/09_business/controlli-interni-e-rischio-operativo.md`
 
-Semantica ancora ferma a **300**.
+Report: `reviews/TARGETED_GAP_RESULT_301-310.md`.
 
 ## Corpus
 
 - Video individuati: **468**
-- Processati semanticamente: **300**
-- STUDIATO: **294**
+- Processati semanticamente: **310**
+- STUDIATO: **304**
 - ESCLUSO: **6**
-- DA STUDIARE: **168**
-- Acquisiti tecnicamente nel micro-batch 301–310: **10/10**
-- Nessun 311+ acquisito in questo batch
+- DA STUDIARE: **158**
+- Primo residuo: `asMedYJtd4I`
 
-## Micro-batch acquisito
+## Decisione adattiva
 
-1. `GFrT89AGv50`
-2. `rEtbwMHdJcM`
-3. `phMz5WxmXRo`
-4. `49CpCqYaXFA`
-5. `RM9YvT6K9IQ`
-6. `8uQMbmRHUmk`
-7. `eGt2WUGelbU`
-8. `LtFeqet7OFc`
-9. `dftLQTuK0cY`
-10. `wDRHWHNHP5c`
+Non acquisire automaticamente 311+.
 
-## Integrità tecnica
+Prima di qualsiasi nuova acquisizione, rivalutare i **12 RESERVE** di `reviews/TARGETED_GAP_SELECTION_301-310.md` contro la KB aggiornata.
 
-- 10/10 transcript Markdown presenti e non vuoti
-- 10/10 info metadata presenti
-- 10/10 tracce italiane JSON3 presenti
-- channel_id ufficiale verificato: `UCaAzr7bvYcZRfGR8EyBynOA`
-- nessun ASR / NO_IT / ERROR / PENDING finale
-- nessun asset 311+ introdotto
-- KB, review, queue canonica, catalogo, VIDEO_INDEX e frozen invariati dal batch tecnico
-- validator finale locale non rieseguito dopo l'esaurimento del credito Codex; baseline strutturale attesa invariata a 842
+Il rendimento resta utile ma concentrato: 70% dei contenuti ha aggiunto qualcosa, ma il peso reale è 45%.
+
+## Checkpoint
+
+- ultimo FASE 14 + 15: **300**
+- nessun checkpoint Claude richiesto a 310
+- nessun nuovo batch autorizzato
 
 ## Agente richiesto
 
@@ -52,8 +48,6 @@ Semantica ancora ferma a **300**.
 
 ## Next Action
 
-Eseguire revisione semantica **301–310**, fasi 8–13, assegnare Weighted Novelty reale e confrontarla con il prior **13/20**.
+Rivalutare i 12 RESERVE post-310 e selezionare soltanto eventuali gap ancora aperti.
 
-Dopo il contenuto 310: **STOP e decisione adattiva**. Non aprire automaticamente 311+.
-
-Nessun checkpoint Claude richiesto a 310.
+**STOP acquisizione finché questa rivalutazione non è completata.**

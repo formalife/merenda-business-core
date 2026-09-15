@@ -399,6 +399,20 @@ Prima di ridurre il prezzo per compensare una vendita debole, Merenda propone di
 - condizioni di pagamento;
 - argomentazione del prezzo.
 
+## Se il cliente non sa distinguere la qualità, il premium richiede educazione
+
+Nel caso Gelateria Wally del 3 settembre 2025 Merenda osserva che una differenza tecnica reale può essere enorme per il produttore ma quasi invisibile a un cliente che non possiede criteri per valutarla.
+
+Il percorso è:
+
+**differenza reale → rendere visibili i criteri di qualità → educare il confronto → costruire esperienza coerente → testare la disponibilità a pagare.**
+
+L'educazione non inventa il valore; rende leggibile una differenza che esiste già.
+
+Il confronto con l'evoluzione della pizza "gourmet" resta un esempio, non una prova causale o un benchmark di prezzo universale.
+
+Fonte: [GELATERIA WALLY MILANO](https://www.youtube.com/watch?v=LtFeqet7OFc), 3 settembre 2025. [Revisione](../../sources/transcripts/LtFeqet7OFc.review.md).
+
 ## Collegamenti
 
 - [Front-end e monetizzazione successiva](front-end-e-back-end.md)

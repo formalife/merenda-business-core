@@ -247,6 +247,24 @@ Una comunicazione del tipo “facciamo tutto” favorisce indirettamente i brand
 
 Fonte: [La Legge del Posizionamento che Ti Fa Dominare il Mercato](https://www.youtube.com/watch?v=YKh5jNVu3rE), 25 febbraio 2026. [Revisione](../../sources/transcripts/YKh5jNVu3rE.review.md).
 
+## Una convenzione di settore può essere comodità del fornitore scaricata sul cliente
+
+Nel caso Cammi Gomme del 20 agosto 2025 Merenda rende più concreto l'esercizio sulle convenzioni.
+
+Alcune regole considerate "normali" — attese lunghe, stagionalità rigida, scarsa disponibilità, procedure comode per l'operatore — possono esistere perché riducono complessità e costi interni, non perché producano la migliore esperienza per il cliente.
+
+La domanda diventa:
+
+**quale attrito il settore scarica sul cliente perché sarebbe più difficile o costoso assorbirlo internamente?**
+
+La differenziazione può nascere dal fare il contrario:
+
+**più organizzazione/capacità interna → meno attesa o frizione per il cliente → differenza percepibile.**
+
+Questo non significa assorbire qualsiasi costo: il servizio aggiuntivo deve essere economicamente sostenibile e, quando appropriato, può essere prezzato come livello premium.
+
+Fonte applicativa: [CAMMI GOMME PIACENZA](https://www.youtube.com/watch?v=dftLQTuK0cY), 20 agosto 2025. [Revisione](../../sources/transcripts/dftLQTuK0cY.review.md).
+
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.

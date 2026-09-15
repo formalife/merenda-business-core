@@ -79,6 +79,18 @@ Non diventa una tattica universale. Prima di scegliere deliberatamente il confli
 - capacità di sostenere la reazione;
 - coerenza con ciò che l'azienda vuole rappresentare.
 
+## Prevenzione interna e risposta pubblica sono due sistemi distinti
+
+Il materiale del 9 aprile 2025 aggiunge un confine importante: una crisi reputazionale può nascere da un errore o abuso interno che il vertice non conosce ancora. La comunicazione non sostituisce quindi i [controlli interni](../09_business/controlli-interni-e-rischio-operativo.md).
+
+Quando il problema diventa pubblico, la fonte conferma:
+
+**non comunicare in stato di alterazione → verificare i fatti → coordinare parte legale e comunicazione → progettare la risposta per stakeholder diversi.**
+
+Una risposta che funziona sulla fanbase esistente può peggiorare la percezione presso pubblico neutrale, media o altri stakeholder.
+
+Fonte più recente: [Le Iene e il Caso Roberto Re](https://www.youtube.com/watch?v=rEtbwMHdJcM), 9 aprile 2025. [Revisione](../../sources/transcripts/rEtbwMHdJcM.review.md).
+
 ## Collegamenti
 
 - [Autorità e marketing](autorita-e-marketing.md)

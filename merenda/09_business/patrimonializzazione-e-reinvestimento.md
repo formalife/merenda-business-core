@@ -76,6 +76,20 @@ Un'azienda che ogni anno riparte quasi da zero perché tutto il surplus viene es
 
 La regola non è “non distribuire mai”. È **non confondere il diritto a prelevare con la scelta economicamente migliore per la fase aziendale**.
 
+## Capitale esterno significa anche governance
+
+Nel materiale dell'11 luglio 2022 Merenda esprime una posizione fortemente contraria all'ingresso stabile di fondi nel capitale di un'impresa guidata dal fondatore.
+
+La KB non canonizza le percentuali o l'affermazione assoluta secondo cui i fondi facciano quasi sempre peggiorare l'azienda.
+
+Conserva il trade-off strutturale:
+
+**equity esterno → più capitale disponibile + nuovi diritti di governance/controllo.**
+
+Prima di accettare capitale diluitivo bisogna capire almeno quali decisioni restano al fondatore, quali richiedono consenso dell'investitore, quale ruolo operativo rimane al fondatore, quale orizzonte di liquidità/exit viene perseguito e se l'obiettivo è crescita con controllo condiviso oppure transizione verso la cessione.
+
+Fonte precedente: [FONDI DI INVESTIMENTO — Perchè NON devono entrare in azienda](https://www.youtube.com/watch?v=49CpCqYaXFA), 11 luglio 2022. [Revisione](../../sources/transcripts/49CpCqYaXFA.review.md).
+
 ## Collegamenti
 
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)

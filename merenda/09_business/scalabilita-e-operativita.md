@@ -133,6 +133,20 @@ Le percentuali e gli scenari del video sono esempi; ogni azienda deve scegliere 
 
 Fonte: [Come Affrontare Una Crisi Aziendale E Trasformarla In Opportunità In 5 Semplici Passi](https://www.youtube.com/watch?v=5FEOsDJ5HAU), 11 dicembre 2024. [Revisione](../../sources/transcripts/5FEOsDJ5HAU.review.md).
 
+## Responsabilità senza mandato non è vera delega
+
+Nel materiale del 12 luglio 2022 Merenda usa l'azienda familiare per rendere visibile un problema più generale di governance.
+
+Inserire una persona con l'obiettivo di cambiare marketing, organizzazione o sviluppo non funziona se chi detiene il potere continua a trattenere il veto su tutte le decisioni e non riconosce realmente il nuovo ruolo.
+
+**responsabilità assegnata → mandato esplicito → perimetro decisionale → risultati misurabili.**
+
+Senza mandato, la persona riceve responsabilità senza autorità e il conflitto viene incorporato nel sistema.
+
+Il caso familiare è un esempio, non una regola secondo cui le aziende familiari siano necessariamente inefficaci.
+
+Fonte precedente: [MARKETING — Come gestire il Marketing nell'azienda di Famiglia](https://www.youtube.com/watch?v=phMz5WxmXRo), 12 luglio 2022. [Revisione](../../sources/transcripts/phMz5WxmXRo.review.md).
+
 ## Collegamenti
 
 - [Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md)

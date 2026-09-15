@@ -380,7 +380,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 370 | JyGh1R6O3hg | da acquisire | [I 3 Investimenti Top Dei Ricchi Per Far Crescere Il Tuo Business](https://www.youtube.com/watch?v=JyGh1R6O3hg) | 1453.0 | 09_business | 2 | DA STUDIARE | videos |
 | 371 | JFb67cV2HfE | da acquisire | [Perché La Tua Azienda Non Cresce? Scopri L’errore Che Ti Costa Milioni!](https://www.youtube.com/watch?v=JFb67cV2HfE) | 1059.0 | 09_business | 2 | DA STUDIARE | videos |
 | 372 | 5FEOsDJ5HAU | da acquisire | [How to Tackle a Business Crisis and Turn It Into an Opportunity in 5 Simple Steps](https://www.youtube.com/watch?v=5FEOsDJ5HAU) | 1333.0 | 09_business | 2 | STUDIATO | videos |
-| 373 | GFrT89AGv50 | da acquisire | [A Practical Guide to Exiting: How to Prepare Your Business and Turn It Into a Gold Mine](https://www.youtube.com/watch?v=GFrT89AGv50) | 1075.0 | 09_business | 2 | DA STUDIARE | videos |
+| 373 | GFrT89AGv50 | da acquisire | [A Practical Guide to Exiting: How to Prepare Your Business and Turn It Into a Gold Mine](https://www.youtube.com/watch?v=GFrT89AGv50) | 1075.0 | 09_business | 2 | STUDIATO | videos |
 | 374 | yZsBzaiH_Ic | da acquisire | [Franchising: Opportunità o Trappola? Come Espandere La Tua Azienda Senza Farti Male](https://www.youtube.com/watch?v=yZsBzaiH_Ic) | 1479.0 | 09_business | 2 | STUDIATO | videos |
 | 375 | 9UxJuYEpf30 | da acquisire | [Making Money with Your Business? Discover 2 Skills That Make a Difference](https://www.youtube.com/watch?v=9UxJuYEpf30) | 939.0 | 09_business | 2 | DA STUDIARE | videos |
 | 376 | -6TU0HZ8cQo | da acquisire | [Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti](https://www.youtube.com/watch?v=-6TU0HZ8cQo) | 1250.0 | 09_business | 2 | DA STUDIARE | videos |
@@ -396,7 +396,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 386 | jI___z2yDMM | da acquisire | [How to Market Your Business Even If You Have Little Money](https://www.youtube.com/watch?v=jI___z2yDMM) | 1055.0 | 09_business | 2 | DA STUDIARE | videos |
 | 387 | 2QG4EBTT0Jk | da acquisire | [Trasforma La Tua AZIENDA in Una Macchina STAMPA SOLDI [Con 3 Numeri]](https://www.youtube.com/watch?v=2QG4EBTT0Jk) | 302.0 | 09_business | 2 | DA STUDIARE | videos |
 | 388 | lV-ZZx5T5L4 | da acquisire | [3 Mistakes to Avoid to Build a Successful Business](https://www.youtube.com/watch?v=lV-ZZx5T5L4) | 263.0 | 09_business | 2 | DA STUDIARE | videos |
-| 389 | RM9YvT6K9IQ | da acquisire | [How to Choose the Right EMPLOYEES to Grow Your Business](https://www.youtube.com/watch?v=RM9YvT6K9IQ) | 264.0 | 09_business | 2 | DA STUDIARE | videos |
+| 389 | RM9YvT6K9IQ | da acquisire | [How to Choose the Right EMPLOYEES to Grow Your Business](https://www.youtube.com/watch?v=RM9YvT6K9IQ) | 264.0 | 09_business | 2 | STUDIATO | videos |
 | 390 | e0dqAD4ySaA | da acquisire | [How to build a successful business with MARKETING](https://www.youtube.com/watch?v=e0dqAD4ySaA) | 712.0 | 09_business | 2 | DA STUDIARE | videos |
 | 391 | jm6CRgEbWpE | da acquisire | [Quali abilità servono per diventare un imprenditore di successo?](https://www.youtube.com/watch?v=jm6CRgEbWpE) | 199.0 | 09_business | 2 | DA STUDIARE | videos |
 | 392 | UNsFL0TyO5Q | da acquisire | [Come investire i soldi della liquidità aziendale](https://www.youtube.com/watch?v=UNsFL0TyO5Q) | 163.0 | 09_business | 2 | DA STUDIARE | videos |
@@ -411,11 +411,11 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 401 | 3vfZIcsrilc | da acquisire | [MARKETING &#124; 3 Azioni fondamentali per la tua Azienda](https://www.youtube.com/watch?v=3vfZIcsrilc) | 1925.0 | 09_business | 2 | DA STUDIARE | videos |
 | 402 | pjrMVek56EU | da acquisire | [WHERE TO INVEST TODAY to make your business successful](https://www.youtube.com/watch?v=pjrMVek56EU) | 1454.0 | 09_business | 2 | DA STUDIARE | videos |
 | 403 | zDEL2i541CA | da acquisire | [INFLAZIONE &#124; Dove deve INVESTIRE un imprenditore per proteggere l'azienda](https://www.youtube.com/watch?v=zDEL2i541CA) | 113.0 | 09_business | 2 | DA STUDIARE | videos |
-| 404 | phMz5WxmXRo | da acquisire | [MARKETING &#124; Come gestire il Marketing nell'azienda di Famiglia](https://www.youtube.com/watch?v=phMz5WxmXRo) | 187.0 | 09_business | 2 | DA STUDIARE | videos |
+| 404 | phMz5WxmXRo | da acquisire | [MARKETING &#124; Come gestire il Marketing nell'azienda di Famiglia](https://www.youtube.com/watch?v=phMz5WxmXRo) | 187.0 | 09_business | 2 | STUDIATO | videos |
 | 405 | uw7ESoevavQ | da acquisire | [MARKETING&#124; Come creare un'Azienda Marketing First](https://www.youtube.com/watch?v=uw7ESoevavQ) | 3384.0 | 09_business | 2 | DA STUDIARE | videos |
-| 406 | 49CpCqYaXFA | da acquisire | [FONDI DI INVESTIMENTO &#124; Perchè NON devono entrare in azienda](https://www.youtube.com/watch?v=49CpCqYaXFA) | 116.0 | 09_business | 2 | DA STUDIARE | videos |
+| 406 | 49CpCqYaXFA | da acquisire | [FONDI DI INVESTIMENTO &#124; Perchè NON devono entrare in azienda](https://www.youtube.com/watch?v=49CpCqYaXFA) | 116.0 | 09_business | 2 | STUDIATO | videos |
 | 407 | KPzMmscoyro | da acquisire | [MARKETING &#124; La Bacchetta Magica per Creare Un’Azienda di Successo](https://www.youtube.com/watch?v=KPzMmscoyro) | 5410.0 | 09_business | 2 | DA STUDIARE | videos |
-| 408 | 8uQMbmRHUmk | da acquisire | [COLLABORATORE DANNOSO &#124; Eliminare le mele marce in Azienda](https://www.youtube.com/watch?v=8uQMbmRHUmk) | 210.0 | 09_business | 2 | DA STUDIARE | videos |
+| 408 | 8uQMbmRHUmk | da acquisire | [COLLABORATORE DANNOSO &#124; Eliminare le mele marce in Azienda](https://www.youtube.com/watch?v=8uQMbmRHUmk) | 210.0 | 09_business | 2 | STUDIATO | videos |
 | 409 | Cc5IllVUUy4 | da acquisire | [AGENZIA DI MARKETING &#124; Perchè NON puoi delegare il Marketing](https://www.youtube.com/watch?v=Cc5IllVUUy4) | 167.0 | 09_business | 2 | DA STUDIARE | videos |
 | 410 | IabwR13dZK0 | da acquisire | [HOW TO DO BUSINESS IN ITALY - [Italian-Style Business]](https://www.youtube.com/watch?v=IabwR13dZK0) | 3282.0 | 09_business | 2 | DA STUDIARE | streams |
 | 411 | mygv4grg_XA | da acquisire | [MINDSET &#124; I Segreti della Mente degli Imprenditori di Successo](https://www.youtube.com/watch?v=mygv4grg_XA) | 3510.0 | 09_business | 2 | DA STUDIARE | streams |
@@ -448,7 +448,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 438 | d1xejlyQVWM | da acquisire | [La Battaglia del Thé](https://www.youtube.com/watch?v=d1xejlyQVWM) | 1634.0 | 10_casi_studio | 2 | DA STUDIARE | streams |
 | 439 | 60Nu2UhFAJ8 | da acquisire | [MORTADELLA SHOP - The Marketing Lesson from the Kings of Bologna Station](https://www.youtube.com/watch?v=60Nu2UhFAJ8) | 1545.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 440 | GFPwnUHLQm8 | da acquisire | [ALL'ANTICO VINAIO: 5 Key Marketing Strategies for Global Success](https://www.youtube.com/watch?v=GFPwnUHLQm8) | 850.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
-| 441 | eGt2WUGelbU | da acquisire | [INCASSI STELLARI di una Clinica Medica grazie al MARKETING di Metodo Merenda](https://www.youtube.com/watch?v=eGt2WUGelbU) | 169.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
+| 441 | eGt2WUGelbU | da acquisire | [INCASSI STELLARI di una Clinica Medica grazie al MARKETING di Metodo Merenda](https://www.youtube.com/watch?v=eGt2WUGelbU) | 169.0 | 10_casi_studio | 2 | STUDIATO | videos |
 | 442 | UkzQe2Rpl8Y | da acquisire | [The Secret to a Successful Tire Shop: How Marketing Changed the Game](https://www.youtube.com/watch?v=UkzQe2Rpl8Y) | 222.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 443 | KvkF605zLxo | da acquisire | [BURGEZ MARKETING: Com'è dal vivo?](https://www.youtube.com/watch?v=KvkF605zLxo) | 2424.0 | 10_casi_studio | 2 | DA STUDIARE | streams |
 | 444 | 9NraLPMJkpQ | da acquisire | [Burgez Marketing: La creatività che funziona?](https://www.youtube.com/watch?v=9NraLPMJkpQ) | 3833.0 | 10_casi_studio | 2 | DA STUDIARE | streams |
@@ -464,10 +464,10 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 454 | GWpaBmY-h8c | da acquisire | [AMAZON SELLER CENTRAL &#124; Vendere su Amazon conviene alle Aziende Italiane?](https://www.youtube.com/watch?v=GWpaBmY-h8c) | 4395.0 | 10_casi_studio | 2 | DA STUDIARE | streams |
 | 455 | jVnCaENbxus | da acquisire | [How to Market with a Wonder Package: The Secret to Successful Businesses](https://www.youtube.com/watch?v=jVnCaENbxus) | 655.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 456 | nn33VweEdB0 | da acquisire | [Come Trasformare Una Clinica Estetica In Un Business Milionario Grazie Al Marketing](https://www.youtube.com/watch?v=nn33VweEdB0) | 4053.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
-| 457 | LtFeqet7OFc | 20250903 | [GELATERIA WALLY MILAN &#124; The Brutal Truth About the Ice Cream You Eat Every Day](https://www.youtube.com/watch?v=LtFeqet7OFc) | 1406.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
-| 458 | dftLQTuK0cY | 20250820 | [CAMMI GOMME PIACENZA: The Tire Dealer That Doesn't Look Like a Tire Dealer](https://www.youtube.com/watch?v=dftLQTuK0cY) | 1521.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
-| 459 | wDRHWHNHP5c | 20250806 | [EUROPA 92 a Modena: Il Ristorante Di Pavarotti Dove I Food Blogger Non Entrano](https://www.youtube.com/watch?v=wDRHWHNHP5c) | 1139.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
-| 460 | rEtbwMHdJcM | 20250409 | [Le Iene and the Roberto Re Case: How to Protect Yourself and Your Company?](https://www.youtube.com/watch?v=rEtbwMHdJcM) | 3761.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
+| 457 | LtFeqet7OFc | 20250903 | [GELATERIA WALLY MILAN &#124; The Brutal Truth About the Ice Cream You Eat Every Day](https://www.youtube.com/watch?v=LtFeqet7OFc) | 1406.0 | 10_casi_studio | 2 | STUDIATO | videos |
+| 458 | dftLQTuK0cY | 20250820 | [CAMMI GOMME PIACENZA: The Tire Dealer That Doesn't Look Like a Tire Dealer](https://www.youtube.com/watch?v=dftLQTuK0cY) | 1521.0 | 10_casi_studio | 2 | STUDIATO | videos |
+| 459 | wDRHWHNHP5c | 20250806 | [EUROPA 92 a Modena: Il Ristorante Di Pavarotti Dove I Food Blogger Non Entrano](https://www.youtube.com/watch?v=wDRHWHNHP5c) | 1139.0 | 10_casi_studio | 2 | STUDIATO | videos |
+| 460 | rEtbwMHdJcM | 20250409 | [Le Iene and the Roberto Re Case: How to Protect Yourself and Your Company?](https://www.youtube.com/watch?v=rEtbwMHdJcM) | 3761.0 | 10_casi_studio | 2 | STUDIATO | videos |
 | 461 | H23lJVsXUjo | 20231014 | [FRANCHISING &#124; Svelati TUTTI i retroscena di Posta Power dal CDA Metodo Merenda](https://www.youtube.com/watch?v=H23lJVsXUjo) | 5988.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 462 | QoWTlWZnyIQ | da acquisire | [How Brand Positioning Makes You UNIQUE in the Market (and Rich) &#124; VLOG](https://www.youtube.com/watch?v=QoWTlWZnyIQ) | 1170.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
 | 463 | A9aD8P9W6BM | da acquisire | [I SEGRETI DEL BRAND POSITIONING &#124; Creare Campagne Online di Successo [Case History]](https://www.youtube.com/watch?v=A9aD8P9W6BM) | 163.0 | 10_casi_studio | 2 | DA STUDIARE | videos |
