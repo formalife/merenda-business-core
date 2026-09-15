@@ -258,3 +258,44 @@ Nei business basati su retention, referral e reputazione locale, Merenda conside
 Le ricostruzioni storiche, le percentuali e le affermazioni sui protagonisti del dossier non vengono trasformate in conoscenza autonoma della KB; viene canonizzato soltanto il modello che Frank estrae dalla fonte.
 
 Fonte: Frank Merenda, “Il Dossier Jordan Belfort: Autopsia forense del metodo di vendita più copiato (e meno capito) del mondo”, 6 febbraio 2026. Review: ../../sources/merenda-sources/FM-SRC-0007/review.md.
+
+
+## Micro-sequenza per scoprire i criteri decisionali: criterio → motivo → significato
+
+Nel materiale storico del 27 agosto 2016 Merenda propone una sequenza di tre livelli che resta utile dentro il framework consulenziale più recente.
+
+La sequenza non serve a “manipolare” il cliente verso una soluzione prefissata. Serve a capire **con quali criteri il cliente giudicherà una soluzione** prima di prescrivere.
+
+### 1. Identificare il criterio
+
+Chiedere che cosa conta maggiormente quando il cliente valuta quella categoria di prodotto, servizio o fornitore.
+
+Quando il contesto lo consente, si possono raccogliere più criteri invece di fermarsi al primo.
+
+L'obiettivo è evitare di decidere in anticipo quali benefici siano importanti per il cliente.
+
+### 2. Capire perché quel criterio conta
+
+Per ciascun criterio rilevante, approfondire la ragione.
+
+Questo aiuta a distinguere:
+
+- una risposta superficiale o convenzionale;
+- una priorità legata a un'esperienza precedente;
+- una conseguenza economica, operativa o personale realmente importante.
+
+### 3. Chiarire che cosa significherebbe ottenere quel risultato
+
+Il terzo livello porta dalla caratteristica desiderata alla conseguenza finale per il cliente.
+
+La catena diventa:
+
+**criterio dichiarato → motivo → significato/conseguenza.**
+
+Soltanto dopo il venditore dovrebbe collegare l'offerta ai benefici che il cliente ha realmente identificato.
+
+Questo aggiorna una vecchia regola della vendita “parla dei benefici”: il beneficio utile non è quello scritto genericamente nella brochure, ma quello che emerge dalla diagnosi del caso specifico.
+
+Il caveat attivo della KB moderna resta invariato: se la soluzione non soddisfa in modo appropriato i criteri emersi, il compito della vendita consulenziale è riconoscerlo, non forzare la chiusura.
+
+Fonte storica: Frank Merenda, “Corsi di formazione vendita lampo: Le Tre Domande Fondamentali”, 27 agosto 2016. Review: ../../sources/merenda-sources/FM-SRC-0057/review.md.

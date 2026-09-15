@@ -269,3 +269,34 @@ Il principio è:
 L'AI può preparare e ordinare il contesto; diagnosi, promessa e proposta restano responsabilità della persona e del processo commerciale.
 
 Fonte assimilata: Moreno Bonechi, “Come Uccidere una Vendita con Quattro Parole: «Di Cosa Ha Bisogno?»”, 8 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0011/review.md.
+
+
+## Richiesta di informazioni ≠ opportunità commerciale già qualificata
+
+Un articolo storico del 17 aprile 2012 introduce una distinzione terminologica ancora utile, purché subordinata alla qualifica più recente del 2023.
+
+Una persona che:
+
+- chiede informazioni;
+- vuole un preventivo;
+- accetta di parlare con un venditore;
+
+ha manifestato interesse, ma **non è automaticamente una vera opportunità commerciale**.
+
+Nel modello storico, una soglia minima viene superata quando il venditore è arrivato almeno a:
+
+1. un interlocutore con potere decisionale rilevante;
+2. un obiettivo/problema specifico che la trattativa dovrebbe aiutare a risolvere.
+
+Questa definizione non sostituisce i quattro requisiti più recenti già presenti in questo documento — premotivazione, compatibilità economica, processo decisionale e timeframe.
+
+Va letta come un passaggio precedente:
+
+**contatto/inquiry → decisore + obiettivo specifico → opportunità minima → qualifica completa.**
+
+La distinzione serve soprattutto a evitare due errori:
+
+- preparare un preventivo troppo presto;
+- spendere lo stesso tempo su qualunque richiesta senza capire se esiste una decisione reale da accompagnare.
+
+Fonte storica: Frank Merenda, “Come si definisce un cliente potenziale?”, 17 aprile 2012. Review: ../../sources/merenda-sources/FM-SRC-0056/review.md.
