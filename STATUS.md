@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — jAI Premium 2025–2026 è completamente auditato sui sitemap correnti; continuare esclusivamente con Marketing Automation Facile, partendo dal 2026 gap-driven e poi dal 2025 solo per gap reali. jAI resta in watch per nuovi post.**
+**CHATGPT — jAI 2025–2026 completo; Marketing Automation Facile 2026 completo (47/47). Continuare esclusivamente con MAF 2025 in modalità gap-driven, integrando solo concetti assenti; jAI resta in watch per nuovi post.**
 
 Non acquisire video residui 314+.
 

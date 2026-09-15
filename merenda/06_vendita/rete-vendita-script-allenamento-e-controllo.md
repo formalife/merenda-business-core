@@ -303,3 +303,36 @@ La prova sociale diventa così anche materiale di onboarding e formazione intern
 - [Follow-up dei lead non convertiti](follow-up-lead-non-convertiti.md)
 - [Testimonianze e prova sociale](../08_brand/testimonianze-e-prova-sociale.md)
 - [Scalabilità e uscita dall'operatività](../09_business/scalabilita-e-operativita.md)
+
+
+## La sales review deve partire dalla pipeline, non dalla memoria dei venditori
+
+Nel materiale MAF del 28 aprile 2026, la riunione commerciale viene trattata come momento decisionale, non come raccolta di racconti.
+
+Una review breve deve poter partire da dati già strutturati:
+
+- opportunità aperte;
+- valore;
+- fase;
+- età/ultima attività;
+- decisori coinvolti;
+- prossimo passo;
+- data del prossimo passo;
+- owner;
+- eccezioni o blocchi.
+
+La riunione serve quindi a:
+
+1. individuare opportunità senza next action;
+2. verificare gli scostamenti;
+3. decidere priorità ed escalation;
+4. assegnare responsabilità;
+5. aggiornare il forecast con prudenza.
+
+Il principio è:
+
+**dati preparati prima → riunione per decidere → azioni assegnate → verifica successiva.**
+
+Se la riunione viene usata per ricostruire oralmente ciò che è successo, il sistema informativo non sta facendo il proprio lavoro.
+
+Fonte assimilata: Moreno Bonechi, “La Riunione del Lunedì Mattina Non È Inutile…”, 28 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0123/review.md.

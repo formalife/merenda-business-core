@@ -211,3 +211,25 @@ Una testimonianza guidata resta una testimonianza autentica.
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
 - [Checklist di risposta diretta](../07_copy_comunicazione/checklist-risposta-diretta.md)
 - [Riattivazione clienti](../04_marketing/riattivazione-clienti.md)
+
+
+## Chiedere la recensione quando esiste un successo verificato
+
+Nel materiale MAF del 7 gennaio 2026, la richiesta di recensione viene legata a un trigger post-erogazione.
+
+La sequenza più solida è:
+
+**risultato/esperienza positiva verificata → richiesta semplice e tempestiva → link diretto → eventuale reminder non invasivo.**
+
+Il timing conta perché:
+
+- l'esperienza è ancora fresca;
+- il cliente ricorda dettagli concreti;
+- la prova tende a essere più specifica;
+- la richiesta non arriva mesi dopo senza contesto.
+
+La richiesta può essere automatizzata, ma non deve manipolare il contenuto della recensione né trasformare il sistema in una selezione artificiale delle sole opinioni positive.
+
+Quando emerge insoddisfazione, il compito prioritario è risolvere il problema; la reputazione pubblica è una conseguenza dell'erogazione, non un sostituto.
+
+Fonte assimilata: Moreno Bonechi, “Smetti di Fare la Segretaria…”, 7 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0130/review.md.

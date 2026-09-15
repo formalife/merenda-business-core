@@ -7,8 +7,8 @@
     "treatment": "ASSIMILATED_AS_MERENDA_BY_USER",
     "priority": 1,
     "temporal_scope": "2026+",
-    "status": "ACTIVE_EXCLUSIVE",
-    "notes": "Fonte operativa esclusiva insieme a jAI Premium. Autore reale preservato per provenienza; per istruzione esplicita dell'utente, il contenuto viene assimilato semanticamente alla KB Merenda."
+    "status": "AUDITED_2026_COMPLETE_2025_GAP_DRIVEN",
+    "notes": "Sitemap 2026 completamente auditato (47/47) al 2026-09-15. Il 2026 ha raggiunto saturazione semantica operativa; proseguire sul 2025 solo gap-driven e riaprire il 2026 per nuovi post."
   },
   {
     "id": "FM-COL-007",

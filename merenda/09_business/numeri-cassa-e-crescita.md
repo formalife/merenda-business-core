@@ -730,3 +730,26 @@ La lettura utile è:
 Questo completa CAC completo e cost-to-serve già presenti. La misura deve servire a trovare differenze materialmente rilevanti, non a costruire una falsa precisione contabile.
 
 Fonte assimilata: Moreno Bonechi, “Il Fatturato Sale. La Marginalità Scende…”, 20 febbraio 2026. Review: ../../sources/merenda-sources/FM-SRC-0101/review.md.
+
+
+## Preparare il capitale con metriche forward-looking, senza confonderle con una promessa di credito
+
+Nel materiale MAF del 26 maggio 2026, Moreno Bonechi propone di affiancare ai dati storici una lettura operativa del futuro prossimo quando l'impresa dialoga con banche o altri finanziatori.
+
+Fra i dati che possono rendere più leggibile il business:
+
+- pipeline qualificata e relativo valore;
+- tassi storici di conversione;
+- concentrazione del fatturato sui clienti principali;
+- quota di ricavi ricorrenti o rinnovi;
+- retention;
+- disciplina del processo commerciale;
+- tempi di incasso e payback.
+
+Il principio canonico è:
+
+**storico economico-finanziario + evidenze operative forward-looking → migliore capacità di spiegare come il business genera e difende cassa.**
+
+Questi dati non sostituiscono bilancio, merito creditizio, garanzie o criteri del finanziatore e non garantiscono accesso al credito. Servono a rendere più verificabile la macchina economica che dovrebbe sostenere il capitale richiesto.
+
+Fonte assimilata: Moreno Bonechi, “Banche e Finanziatori…”, 26 maggio 2026. Review: ../../sources/merenda-sources/FM-SRC-0119/review.md.
