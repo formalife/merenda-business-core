@@ -315,3 +315,67 @@ Questo completa il principio Lock-and-Key senza sostituirlo: qui l'oggetto princ
 L'accesso esterno introduce rischi di qualità, dipendenza, disponibilità, responsabilità e reputazione che vanno progettati prima della scala.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “Billion Dollar Mind…”, 20 novembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0091/review.md.
+
+
+## Automatizzare il normale, escalare l'eccezione
+
+Nel materiale MAF del 1 aprile 2026, la riduzione del collo di bottiglia del fondatore viene tradotta in una regola operativa: molte decisioni che sembrano richiedere il titolare sono in realtà decisioni ripetitive con criteri riconoscibili.
+
+La sequenza è:
+
+1. elencare le decisioni che tornano ogni settimana;
+2. distinguere quelle che seguono criteri stabili da quelle realmente eccezionali;
+3. trasformare i criteri stabili in priorità, sequenze o regole;
+4. automatizzare o delegare il caso normale;
+5. definire soglie esplicite che fanno risalire l'eccezione a una persona responsabile.
+
+Il principio è:
+
+**regola nota → esecuzione automatica/delegata; eccezione → escalation.**
+
+L'obiettivo non è sostituire il giudizio umano. È evitare che il giudizio umano venga consumato da casi identici già risolti cento volte.
+
+Fonte assimilata: Moreno Bonechi, “Da Collo di Bottiglia a Macchina…”, 1 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0108/review.md.
+
+## Process-first: progettare il lavoro prima di configurare il software
+
+Nel materiale MAF del 20 marzo 2026 viene resa esplicita una sequenza di implementazione utile quando si introduce CRM, automazione o altra infrastruttura operativa.
+
+L'ordine è:
+
+**realtà attuale → processo desiderato → configurazione dello strumento → adozione/change management → misura.**
+
+### 1. Mappare la realtà
+
+Osservare come opportunità, informazioni e decisioni passano davvero fra persone e strumenti, inclusi workaround e canali informali.
+
+### 2. Progettare il processo
+
+Definire stati, responsabilità, dati minimi, next step e regole prima di scegliere i click del software.
+
+### 3. Configurare lo strumento sul processo
+
+Il CRM deve rendere più facile eseguire il lavoro corretto, non obbligare il team ad adattarsi a un workflow arbitrario progettato dal fornitore.
+
+### 4. Gestire l'adozione
+
+Chi usa il sistema deve vedere un beneficio operativo: meno memoria necessaria, meno attività duplicate, migliori priorità e meno lavoro amministrativo.
+
+L'adozione non si ottiene soltanto imponendo la compilazione.
+
+### 5. Misurare il risultato
+
+Il test non è “quante funzioni usiamo”, ma se migliorano:
+
+- completezza delle informazioni;
+- follow-up;
+- tempi;
+- conversioni;
+- continuità;
+- dipendenza dalle singole persone.
+
+Il principio canonico è:
+
+**processo prima dello strumento; utilità per l'utente prima della disciplina formale; risultato prima del numero di feature.**
+
+Fonte assimilata: Moreno Bonechi, “Hai Speso €30.000 tra Campagne Marketing e CRM…”, 20 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0109/review.md.
