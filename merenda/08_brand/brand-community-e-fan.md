@@ -142,3 +142,45 @@ La community accelera memoria e fedeltà; non crea da sola una ragione valida pe
 - [Testimonianze e prova sociale](testimonianze-e-prova-sociale.md)
 - [Differenziazione operativa](../02_posizionamento/differenziazione-operativa.md)
 - [Referral e soddisfazione](../05_acquisizione/referral-e-soddisfazione.md)
+
+
+## Audience, views e customer base sono asset differenti
+
+Nel materiale del 5 maggio 2026 Merenda separa l'economia dell'attenzione dall'economia del cliente.
+
+Una persona può:
+
+- vedere;
+- seguire;
+- commentare;
+- condividere;
+- persino guardare per critica o curiosità;
+
+senza diventare un cliente economicamente utile.
+
+Quando un creator o personal brand apre un business operativo, le metriche cambiano.
+
+Per un'attività fisica o locale contano almeno:
+
+- quota dell'audience realmente raggiungibile geograficamente;
+- conversione in primo acquisto;
+- qualità dell'esperienza;
+- frequenza di ritorno;
+- margine;
+- referral locale.
+
+La curiosità iniziale è un capitale finito.
+
+Può riempire le prime settimane, ma non sostituisce il motivo per tornare.
+
+Quindi:
+
+**audience → attenzione disponibile**
+
+**primo acquisto → conversione dell'attenzione**
+
+**riacquisto → prova che il business produce valore oltre la curiosità.**
+
+Il principio completa il nodo sulla community: una community può aumentare il costo di acquisizione evitato e il lancio, ma non va contabilizzata come se fosse già una base clienti ricorrente.
+
+Fonte: Frank Merenda, “Franchino er Criminale: il brand è morto…”, 5 maggio 2026. Review: ../../sources/merenda-sources/FM-SRC-0033/review.md.

@@ -352,3 +352,37 @@ La stessa fonte conferma, senza modificarla, la regola più ampia:
 I casi Toyota, Prius, Lexus, Kodak e Honda restano esempi della fonte; la KB non assume come verificati autonomamente i dettagli storici o causali del racconto.
 
 Fonte: Frank Merenda, “Toyota lancia l’allarme…”, 3 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0022/review.md.
+
+
+## Una categoria può essere diversa anche per il formato/contratto d'uso
+
+Nel materiale del 26 luglio 2026 Merenda applica il posizionamento non soltanto a **che cosa** viene venduto, ma anche a **come il cliente lo usa o lo consuma**.
+
+Due offerte con contenuto simile possono appartenere a categorie percepite diverse se propongono contratti d'uso differenti.
+
+Esempio astratto:
+
+- manuale completo ma faticoso;
+- contenuto-esca che promette molto e rimanda al prodotto vero;
+- racconto leggero ma poco operativo;
+- percorso che combina rigore e apprendimento attraverso un formato diverso.
+
+La regola non è “mescolare tutto”.
+
+Una via di mezzo indistinta può ereditare le obiezioni di entrambe le categorie senza possederne i vantaggi.
+
+Il lavoro di posizionamento può quindi partire da:
+
+1. quali categorie/formati il cliente riconosce già;
+2. quale promessa implicita fa ciascun formato;
+3. quali obiezioni porta con sé;
+4. quale nuovo contratto d'uso può essere realmente sostenuto dal prodotto;
+5. che cosa bisogna sacrificare per renderlo netto.
+
+Il principio è:
+
+**contenuto/prodotto + formato di utilizzo → categoria percepita.**
+
+Questo estende “essere diversi prima di raccontarlo”: anche il modo in cui l'offerta viene fruita può essere parte reale della differenza.
+
+Fonte: Frank Merenda, “TRUCCO: Come ho posizionato un Bestseller Amazon…”, 26 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0029/review.md.

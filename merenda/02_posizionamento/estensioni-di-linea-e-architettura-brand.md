@@ -328,3 +328,59 @@ Questo collega estensione e trasferibilità:
 La community resta un asset importante. Il rischio è usarne la fedeltà come sostituto del feedback di mercato.
 
 Fonte: Frank Merenda, “Come ha fatto davvero i soldi l’Estetista Cinica…”, 31 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0020/review.md.
+
+
+## Estensione di canale: lo stesso prodotto può cambiare significato cambiando contesto
+
+Nel materiale del 1 maggio 2026 Merenda introduce esplicitamente il concetto di **estensione di canale**.
+
+Il problema non è soltanto aggiungere un prodotto incoerente.
+
+Anche lo stesso prodotto può essere percepito diversamente quando cambia:
+
+- luogo di acquisto;
+- prodotti accanto ai quali viene confrontato;
+- gesto d'acquisto;
+- servizio;
+- prezzo relativo;
+- momento della giornata;
+- aspettativa creata dal canale.
+
+Quindi il brand non vive soltanto nel prodotto.
+
+Vive anche nel contesto in cui il cliente lo incontra.
+
+La domanda prima di aprire un nuovo canale è:
+
+**questo contesto rafforza la promessa oppure la contraddice?**
+
+Un prodotto premium/artigianale, per esempio, può perdere parte del significato se entra in un contesto che lo rende immediatamente confrontabile con alternative industriali di massa, anche se ricetta e confezione non cambiano.
+
+La sequenza è:
+
+**posizione → canale coerente → esperienza coerente → confronto coerente.**
+
+Non significa che GDO, marketplace, franchising o e-commerce siano in sé incompatibili con il premium. Significa che ogni canale deve essere valutato anche per l'effetto semantico sulla posizione, non soltanto per il volume aggiuntivo.
+
+### Densità prima della dispersione geografica
+
+La stessa fonte contrappone la crescita per numero di punti vendita alla costruzione di forza in un territorio limitato.
+
+Prima di espandere lontano, una rete può valutare se esiste ancora spazio per aumentare:
+
+- densità;
+- notorietà locale;
+- efficienza operativa;
+- qualità delle location;
+- frequenza;
+- margine per unità;
+
+nel territorio dove il brand è già più forte.
+
+Il principio è:
+
+**forza replicabile in un territorio → nuova geografia**, non **nuova geografia → speranza di creare forza.**
+
+La scelta tra proprietà, franchising e partner non è universale: va letta sugli economics e sull'effetto che produce sulla posizione.
+
+Fonte: Frank Merenda, “67 negozi nel mondo. 7 in Sicilia. Indovina chi vince.”, 1 maggio 2026. Review: ../../sources/merenda-sources/FM-SRC-0034/review.md.

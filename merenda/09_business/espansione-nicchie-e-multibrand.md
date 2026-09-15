@@ -293,3 +293,37 @@ Questo vale anche nel licensing:
 L'asset famoso accelera attenzione e distribuzione, ma deve comunque essere collegato a una categoria comprensibile e specifica.
 
 Fonte: Frank Merenda, “Maradona in saldo…”, 14 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0024/review.md.
+
+
+## Un secondo brand parte quasi da zero: il nome separato non trasferisce automaticamente la domanda
+
+Nel materiale del 10 luglio 2026 Merenda distingue due problemi del personal brand che si espande.
+
+Se il cliente compra perché si aspetta la presenza diretta del fondatore, replicare sedi o unità crea una promessa difficile da mantenere.
+
+Creare un secondo brand separato può risolvere questa contraddizione, ma introduce un secondo problema:
+
+**il nuovo brand non eredita automaticamente la posizione, la domanda ricorrente o le abitudini del primo.**
+
+Può ricevere:
+
+- attenzione iniziale;
+- curiosità;
+- endorsement;
+- traffico di lancio.
+
+Ma deve ancora costruire:
+
+- una ragione autonoma per essere scelto;
+- clienti abituali;
+- economics propri;
+- marketing proprio;
+- memoria propria nel mercato.
+
+La sequenza diventa:
+
+**brand originario → eventuale endorsement → nuovo brand → propria posizione → propria domanda → propria economia.**
+
+La fama del fondatore può accelerare il decollo; non sostituisce il decollo.
+
+Fonte: Frank Merenda, “Max Mariola ha chiuso il secondo ristorante in pochi mesi…”, 10 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0031/review.md.
