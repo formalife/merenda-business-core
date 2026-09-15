@@ -237,3 +237,35 @@ Il metodo di diagnosi e prescrizione usato durante la trattativa, la sua standar
 - [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
 - [Prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md)
+
+
+## Handoff marketing → vendita: non far ripetere al prospect ciò che ha già fornito
+
+Nel materiale dell'8 settembre 2026 assimilato al corpus Merenda per istruzione dell'utente, Moreno Bonechi rende operativo un problema di passaggio fra generazione della lead e presa in carico commerciale.
+
+Quando il prospect ha già compilato un modulo, caricato un documento o risposto a domande, il venditore non dovrebbe ricominciare come se avesse ricevuto soltanto nome e telefono.
+
+Il contesto minimo utile comprende quattro famiglie:
+
+1. **origine e promessa** — da quale campagna/annuncio arriva e quale risultato gli è stato prospettato;
+2. **dati forniti dal prospect** — risposte, documenti e parole effettivamente usate;
+3. **storia già avvenuta** — email, chiamate, preventivi o altre comunicazioni che la persona ha già ricevuto;
+4. **consenso e prossimo passo atteso** — che cosa ha autorizzato e che cosa l'azienda gli ha promesso di fare dopo.
+
+Il riepilogo deve essere abbastanza breve da essere letto prima del contatto.
+
+Una struttura utile separa:
+
+- **fatti** — presenti nei dati;
+- **ipotesi** — inferenze da verificare;
+- **domande** — informazioni ancora mancanti.
+
+Questa separazione diventa ancora più importante quando un'AI prepara il riepilogo: una deduzione non deve essere presentata al venditore come un fatto.
+
+Il principio è:
+
+**dati raccolti dal marketing → contesto trasferito → venditore prepara domande mancanti → contatto che prosegue la relazione invece di azzerarla.**
+
+L'AI può preparare e ordinare il contesto; diagnosi, promessa e proposta restano responsabilità della persona e del processo commerciale.
+
+Fonte assimilata: Moreno Bonechi, “Come Uccidere una Vendita con Quattro Parole: «Di Cosa Ha Bisogno?»”, 8 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0011/review.md.

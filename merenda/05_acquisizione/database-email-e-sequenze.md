@@ -106,3 +106,54 @@ La sequenza può essere estesa con ulteriori email, telefono, carta o altri mezz
 - [Riattivazione clienti](../04_marketing/riattivazione-clienti.md)
 - [Referral e soddisfazione](referral-e-soddisfazione.md)
 - [Offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md)
+
+
+## Memoria commerciale: l'AI è utile solo quanto il contesto cliente che può usare
+
+Nel materiale del 21 luglio 2026 assimilato al corpus Merenda per istruzione dell'utente, Moreno Bonechi estende il ruolo del database a un uso operativo con l'intelligenza artificiale.
+
+La **memoria commerciale** comprende, quando pertinenti e lecitamente utilizzabili:
+
+- acquisti e relative date;
+- richieste e conversazioni;
+- assistenza e reclami;
+- condizioni commerciali concordate;
+- trattative e stato della relazione;
+- recenza e segnali di inattività;
+- linguaggio e domande ricorrenti dei clienti.
+
+A questa memoria cliente va aggiunto il contesto dell'impresa:
+
+- posizionamento;
+- promessa;
+- modo di comunicare;
+- regole e obiettivi che devono guidare l'azione.
+
+Senza questi dati un'AI può produrre contenuti formalmente corretti ma generici, proporre una promozione a chi ha un problema aperto o preparare una risposta incompatibile con condizioni già concordate.
+
+Il principio non è “usare più AI”, ma:
+
+**dati cliente coerenti + memoria dell'impresa → contesto operativo → AI che prepara azioni specifiche → verifica/regole → esecuzione.**
+
+### La segmentazione deve poter cambiare con il comportamento
+
+Lo stato del cliente non è permanente.
+
+Una stessa persona può passare da:
+
+- appena acquistato;
+- attivo;
+- in assistenza;
+- inattivo;
+- a rischio;
+- riattivato.
+
+Perciò la segmentazione utile non è soltanto una lista statica costruita una volta. Quando il sistema dispone dei dati necessari, deve poter aggiornare lo stato in base a ciò che è realmente accaduto.
+
+Questo completa il principio già presente **stato della relazione → prossima azione coerente** aggiungendo:
+
+**nuovo comportamento → stato aggiornato → nuova prossima azione.**
+
+Le percentuali di incremento e gli esempi economici riportati dalla fonte restano esperienza dell'autore, non benchmark canonici.
+
+Fonte assimilata: Moreno Bonechi, “Usi l'AI Più Potente della Storia da un Anno, Ma il Fatturato È Rimasto Uguale”, 21 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0014/review.md.

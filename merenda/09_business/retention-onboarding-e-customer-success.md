@@ -91,3 +91,34 @@ Questo collega customer success, marketing e operatività senza trasformarli nel
 - [Riattivazione clienti](../04_marketing/riattivazione-clienti.md)
 - [Referral e soddisfazione](../05_acquisizione/referral-e-soddisfazione.md)
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)
+
+
+## Dal segnale operativo all'opportunità: routing senza trasformare ogni tecnico in venditore
+
+Nel materiale del 1 settembre 2026 assimilato al corpus Merenda per istruzione dell'utente, Moreno Bonechi distingue tre oggetti che spesso finiscono nello stesso documento di assistenza:
+
+1. **segnale tecnico** — un fatto osservato durante l'erogazione o l'intervento;
+2. **comunicazione di servizio** — ciò che deve essere spiegato al cliente per assisterlo correttamente;
+3. **opportunità commerciale** — un bisogno futuro plausibile che può richiedere una trattativa separata.
+
+La distinzione evita due errori:
+
+- chiedere al tecnico di trasformare automaticamente l'assistenza in vendita;
+- archiviare il segnale soltanto per fini amministrativi, facendolo sparire dalla memoria commerciale.
+
+Il flusso riusabile è:
+
+**segnale osservabile → registrazione strutturata → regola di attivazione → verifica umana → task/opportunità commerciale separata.**
+
+Le regole di attivazione devono essere poche e comprensibili. Sono utili anche **esclusioni**: per esempio non avviare una proposta automatica quando esiste già un'offerta aperta, un reclamo irrisolto o una condizione che rende inappropriato il contatto.
+
+Quando un'AI traduce il linguaggio tecnico in un riepilogo commerciale, deve restare esplicita la distinzione fra:
+
+- fatto registrato dal tecnico;
+- inferenza generata dal sistema.
+
+Il principio completa il ciclo già presente **assistenza → causa → correzione** aggiungendo un secondo percorso possibile:
+
+**assistenza → segnale di bisogno reale → verifica → vendita**, senza confondere servizio e pressione commerciale.
+
+Fonte assimilata: Moreno Bonechi, “Nel «Rapportino» di Intervento C'è Quasi Sempre una Vendita Nascosta”, 1 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0012/review.md.

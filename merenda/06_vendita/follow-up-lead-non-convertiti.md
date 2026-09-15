@@ -105,3 +105,47 @@ La domanda non è soltanto **“quanti ho recuperato?”**, ma **“che valore h
 - [Database, email e sequenze](../05_acquisizione/database-email-e-sequenze.md)
 - [Front-end e back-end](../03_offerta/front-end-e-back-end.md)
 - [Numeri, cassa e crescita](../09_business/numeri-cassa-e-crescita.md)
+
+
+## La pipeline si legge anche per età e ultima attività, non soltanto per valore
+
+Nel materiale del 25 agosto 2026 assimilato al corpus Merenda per istruzione dell'utente, Moreno Bonechi propone di trattare la pipeline anche come **referto del lavoro commerciale**, non soltanto come previsione di fatturato.
+
+Una trattativa può restare formalmente in una fase “attiva” anche quando nessuno la sta più lavorando.
+
+Per questo servono almeno due tempi:
+
+- **età nella fase**;
+- **tempo dall'ultima attività registrata**.
+
+Le soglie dipendono dal ciclo di vendita. Una trattativa complessa può durare mesi senza essere ferma, purché esistano ragione documentata e **prossimo passo con data**. Una trattativa semplice immobile per settimane senza note segnala invece che lo stato visualizzato può non rappresentare più la realtà.
+
+### Valore segnaposto e valore qualificato non sono la stessa cosa
+
+Un importo può essere:
+
+- copiato automaticamente da un listino/pagina al momento della creazione;
+- oppure stimato dal venditore dopo aver capito quantità, mix, condizioni e bisogno.
+
+Visualizzati nello stesso campo sembrano equivalenti; semanticamente non lo sono.
+
+Se il valore resta identico al listino dopo una presunta qualifica, la domanda non è automaticamente “il venditore ha sbagliato”, ma:
+
+**la qualifica è avvenuta? dove sono state registrate le evidenze che l'hanno modificata o confermata?**
+
+### Uno stesso stato può nascondere cause diverse
+
+La categoria “non risponde” può contenere almeno:
+
+- prospect qualificato che successivamente è diventato silenzioso;
+- prospect mai raggiunto e quindi mai qualificato.
+
+Richiedono follow-up e diagnosi diversi.
+
+Il principio è:
+
+**stato pipeline → età + ultima attività + qualità della qualificazione + prossimo passo → realtà della trattativa.**
+
+Questo completa il follow-up: non basta avere una sequenza; l'azienda deve poter distinguere ciò che è vivo, in pausa, mai iniziato o sostanzialmente perso.
+
+Fonte assimilata: Moreno Bonechi, “Il Tuo Commerciale Ha 3 Trattative «In Ballo»…”, 25 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0013/review.md.
