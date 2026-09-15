@@ -167,3 +167,34 @@ Questo evita due estremi:
 La fonte propone cinque casi specifici; la KB conserva il framework generale dei trigger, non una checklist obbligatoria uguale per ogni business.
 
 Fonte assimilata: Moreno Bonechi, “Le 5 Automazioni Invisibili per Non Perdere Mai Più un Cliente”, 14 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0071/review.md.
+
+
+## Fare l'offerta successiva quando il valore appena consegnato è ancora evidente
+
+Nel materiale jAI del 2 marzo 2026 assimilato al corpus, la continuità viene collegata a un momento preciso della relazione: **subito dopo un risultato reale e riconosciuto dal cliente**.
+
+Quando il cliente ha appena verificato che la promessa è stata mantenuta:
+
+- il rischio percepito è più basso;
+- il valore dell'impresa è concreto, non teorico;
+- eventuali problemi successivi emersi durante il lavoro sono più facili da discutere;
+- il passaggio a una relazione continuativa può apparire come prosecuzione naturale del risultato, non come riapertura a freddo della vendita.
+
+La sequenza è:
+
+**risultato verificato → conferma del valore → problema/obiettivo successivo pertinente → offerta coerente → continuità.**
+
+Questo non significa vendere automaticamente qualcos'altro a ogni cliente soddisfatto.
+
+L'offerta successiva deve:
+
+- risolvere un bisogno reale emerso;
+- essere coerente con ciò che è stato appena consegnato;
+- non trasformare la soddisfazione in pressione commerciale;
+- rispettare capacità, appropriatezza e interesse del cliente.
+
+Il principio completa onboarding e retention con una regola di **timing**: non lasciare che la relazione torni completamente fredda prima di discutere il passo successivo quando quel passo è realmente utile.
+
+Le percentuali, le finestre temporali numeriche e i casi della fonte sono esempi.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “How Monetizing Trust Could Reveal $50,000+ Hiding In A Place No One Thought To Look”, 2 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0081/review.md.

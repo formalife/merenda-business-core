@@ -635,3 +635,36 @@ Questo collega capitale circolante e marketing: liquidare stock non significa au
 I benchmark di costo di magazzino e i casi numerici della fonte restano esempi.
 
 Fonte assimilata: Moreno Bonechi, “La Merce Ferma in Magazzino Ha Due Colpevoli…”, 28 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0070/review.md.
+
+
+## Non tagliare o scalare una spesa prima di sapere che rendimento produce
+
+Nel materiale jAI del 14 gennaio 2026 assimilato al corpus, una voce di costo viene letta anche come **capitale o capacità impiegati per produrre un risultato**.
+
+Per le spese discrezionali o di crescita — marketing, software, personale aggiuntivo, incentivi, consulenze, capacità — la domanda non dovrebbe essere soltanto:
+
+**“quanto costa?”**
+
+ma anche:
+
+**“che cosa genera, in quale finestra temporale e con quale rendimento incrementale?”**
+
+La procedura è:
+
+1. identificare la spesa/risorsa;
+2. definire il risultato che dovrebbe produrre;
+3. attribuire, quando possibile, ricavi, margine, capacità liberata o rischio ridotto;
+4. considerare il tempo necessario perché il ritorno emerga;
+5. confrontare il rendimento con alternative e costo opportunità;
+6. decidere se proteggere, aumentare, correggere o eliminare la spesa.
+
+Questo evita due errori opposti:
+
+- tagliare una voce profittevole perché appare grande nel conto economico;
+- mantenere una voce inefficiente perché viene chiamata “investimento”.
+
+Il principio resta subordinato a causalità e misurabilità: **non ogni costo produce un ritorno direttamente attribuibile**, e una correlazione non va trasformata automaticamente in ROI.
+
+La fonte riprende CAC/LTV e Yield Gap già canonici; l'estensione è applicare la stessa domanda di rendimento alle principali risorse discrezionali dell'impresa.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “You're Not Overspending. You're Mis-Measuring.”, 14 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0086/review.md.
