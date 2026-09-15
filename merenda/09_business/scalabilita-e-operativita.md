@@ -240,3 +240,78 @@ Il principio completa la regola già presente **proteggere il tempo ad alto valo
 Le classi monetarie orarie, i moltiplicatori e i risultati dei casi della fonte sono esempi e non diventano benchmark.
 
 Fonte assimilata: Jay Abraham, Michael Simmons, Max Bernstein, “Your Hours Could Be Your Biggest Underperforming Asset”, 9 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0016/review.md.
+
+
+## Process-to-Product: un processo interno può diventare un prodotto soltanto dopo essere diventato trasferibile
+
+Nel materiale jAI del 3 dicembre 2025 assimilato al corpus viene introdotto il framework **Process-to-Product**.
+
+Un processo interno può essere candidato alla monetizzazione esterna quando produce in modo ripetibile un risultato rilevante, per esempio:
+
+- maggiore velocità;
+- margine superiore;
+- retention;
+- qualità;
+- resilienza;
+- differenziazione;
+- riduzione di errori.
+
+La sequenza è:
+
+1. **identificare** il processo che produce un risultato sproporzionato;
+2. **documentare** le decisioni, gli input, le fasi e i controlli;
+3. **rendere installabile** il sistema senza dipendenza dalla persona che l'ha inventato;
+4. **provare** con numeri o evidenze che il processo produce davvero l'effetto;
+5. **scegliere la forma di monetizzazione** — licensing, training, implementazione, partnership o altra forma appropriata;
+6. **proteggere il core** — evitare che la monetizzazione esterna degradi il vantaggio, l'erogazione o la proprietà intellettuale dell'impresa.
+
+Il principio è:
+
+**know-how tacito → processo trasferibile → prova → prodotto/licenza.**
+
+Questo è diverso dal rendere visibile il processo per vendere meglio il prodotto esistente: qui **il processo stesso diventa ciò che viene venduto**.
+
+Non ogni procedura interna merita un prodotto. Deve esistere un compratore con un problema abbastanza costoso da voler acquistare una scorciatoia verificabile.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “Your Internal Processes Are a Product—Here’s How to Sell Them”, 3 dicembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0090/review.md.
+
+## Capacity Access: prima di comprare capacità, verificare se può essere controllata senza possederla
+
+Nel materiale jAI del 20 novembre 2025 assimilato al corpus, un vincolo di capacità viene scomposto in tre livelli.
+
+### 1. Consume
+
+Usare infrastrutture, piattaforme o servizi già disponibili invece di costruire internamente l'asset.
+
+### 2. Create
+
+Quando non esiste un mercato o una piattaforma pronta, creare un accordo che dia accesso a capacità esterna inutilizzata.
+
+Il partner può possedere:
+
+- personale;
+- macchine;
+- mezzi;
+- spazio;
+- distribuzione;
+- infrastruttura.
+
+L'impresa porta domanda o utilizzo che quella capacità altrimenti non avrebbe.
+
+### 3. Leverage
+
+Se l'accordo di accesso diventa un sistema replicabile, può diventare esso stesso un asset: l'impresa può offrire ad altri accesso alla rete, al processo o alla capacità aggregata che ha imparato a orchestrare.
+
+La domanda prima del capex è quindi:
+
+**devo possedere questa capacità, oppure devo poterla controllare in modo affidabile quando mi serve?**
+
+La sequenza è:
+
+**vincolo → capacità richiesta → costo di ownership → opzioni di accesso → struttura dell'accordo → controllo qualità/rischio → eventuale monetizzazione dell'accesso.**
+
+Questo completa il principio Lock-and-Key senza sostituirlo: qui l'oggetto principale è la capacità operativa e la decisione **build/buy/access**, non soltanto la distribuzione commerciale.
+
+L'accesso esterno introduce rischi di qualità, dipendenza, disponibilità, responsabilità e reputazione che vanno progettati prima della scala.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “Billion Dollar Mind…”, 20 novembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0091/review.md.

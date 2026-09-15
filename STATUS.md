@@ -20,8 +20,8 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — nuove fonti Merenda
 
-- Nuove fonti Merenda registrate: 87
-- Nuove fonti Merenda studiate: 87
+- Nuove fonti Merenda registrate: 96
+- Nuove fonti Merenda studiate: 96
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 
@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — lavorare esclusivamente su Marketing Automation Facile e jAI Premium; nessun altro archivio o corpus è nella roadmap operativa. Integrare soltanto contenuti realmente nuovi, preservando autore e provenienza.**
+**CHATGPT — jAI Premium 2025–2026 è completamente auditato sui sitemap correnti; continuare esclusivamente con Marketing Automation Facile, partendo dal 2026 gap-driven e poi dal 2025 solo per gap reali. jAI resta in watch per nuovi post.**
 
 Non acquisire video residui 314+.
 

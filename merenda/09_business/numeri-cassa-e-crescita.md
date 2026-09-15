@@ -668,3 +668,40 @@ Il principio resta subordinato a causalità e misurabilità: **non ogni costo pr
 La fonte riprende CAC/LTV e Yield Gap già canonici; l'estensione è applicare la stessa domanda di rendimento alle principali risorse discrezionali dell'impresa.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “You're Not Overspending. You're Mis-Measuring.”, 14 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0086/review.md.
+
+
+## Capitale operativo nascosto: prima di chiedere nuovo denaro, mappare ciò che il business può anticipare, scambiare o liberare
+
+Nel materiale jAI del 19 dicembre 2025 assimilato al corpus, il capitale circolante viene letto anche attraverso strumenti che l'impresa può già avere senza chiamarli “finanza”.
+
+Le famiglie trasferibili sono:
+
+1. **prepagamento di domanda futura reale** — clienti che anticipano oggi un acquisto futuro in cambio di una ragione concreta, come continuità, prenotazione o protezione del prezzo;
+2. **termini di pagamento** — capire quando l'impresa sta finanziando gratuitamente il cliente e se quella scelta è intenzionale;
+3. **capacità o stock inutilizzati** — beni, slot o servizi che possono avere valore per una controparte anche quando non generano cassa nel mercato originario;
+4. **barter/scambio** — usare valore percepito alto e costo marginale basso per ottenere media, distribuzione, asset o servizi utili.
+
+La domanda diventa:
+
+**quale risorsa futura o inutilizzata posso trasformare in capitale, accesso o capacità senza compromettere margine e servizio?**
+
+Questo non sostituisce il Cash Conversion Cycle: lo estende.
+
+La sequenza è:
+
+**domanda prevedibile + termini + asset inattivi → valore mobilizzabile → costo reale di adempimento → rischio → uso del capitale liberato.**
+
+### Valore nominale e costo marginale non sono la stessa cosa
+
+Un asset può avere:
+
+- elevato valore per la controparte;
+- basso costo marginale per l'impresa.
+
+Questa differenza può creare potere di scambio.
+
+Ma il valore non è “gratis”: vanno considerati capacità futura, obblighi di erogazione, breakage, imposte, diritto applicabile e rischio di cannibalizzazione.
+
+La KB conserva quindi il principio economico, non le tattiche finanziarie come prescrizioni universali.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “The Credit Line You Don't Need Permission For”, 19 dicembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0088/review.md.

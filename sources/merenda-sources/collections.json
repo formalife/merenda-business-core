@@ -18,7 +18,7 @@
     "treatment": "ASSIMILATED_AS_MERENDA_BY_USER",
     "priority": 2,
     "temporal_scope": "2025–2026+",
-    "status": "ACTIVE_EXCLUSIVE",
-    "notes": "Fonte operativa esclusiva insieme a Marketing Automation Facile. Autori reali preservati per provenienza; per istruzione esplicita dell'utente, il contenuto viene assimilato semanticamente alla KB Merenda."
+    "status": "AUDITED_COMPLETE_CURRENT_SITEMAP",
+    "notes": "Corpus jAI 2025–2026 completamente auditato rispetto ai sitemap correnti al 2026-09-15. Riaprire solo per nuovi post. Provenance reale preservata; contenuti assimilati semanticamente per istruzione utente."
   }
 ]
