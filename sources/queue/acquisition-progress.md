@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:47:33.914128+00:00
+Ultimo aggiornamento: 2026-09-15T08:47:39.390363+00:00
 
 Batch: 25 video
-Completati tecnicamente: 10/25
+Completati tecnicamente: 11/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -17,7 +17,7 @@ Completati tecnicamente: 10/25
 | 8 | DcnlHK3p9u8 | Come Tenere I Clienti Incollati Al Tuo Brand (E Proteggerti dai Competitor) | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 9 | DgbZMAqw4NY | REPUTAZIONE DEL BRAND \| Come EVITARE ERRORI e gestire la crisi | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | N547HVgrQmk | Proteggere il BRAND da Joint Venture nocive | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 11 | Hs8y1wNyamo | THE ideal SALES PROCESS for generating TARGETED clients | PENDING |  |
+| 11 | Hs8y1wNyamo | THE ideal SALES PROCESS for generating TARGETED clients | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | 7tWAsKiB0-Q | MARKETING \| The Sales Letter in an Envelope Structure | PENDING |  |
 | 13 | qX8bJHUIDjI | Marketing Strategies \| Dan Kennedy's 3 Steps to Increase Sales | PENDING |  |
 | 14 | fpX3evEGoHY | [Tecniche di Vendita] Come vendere fornendo la prova | PENDING |  |
