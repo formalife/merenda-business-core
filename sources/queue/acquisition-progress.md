@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T10:09:24.610728+00:00
+Ultimo aggiornamento: 2026-09-15T10:09:31.356667+00:00
 
 Batch: 10 video
-Completati tecnicamente: 5/10
+Completati tecnicamente: 6/10
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -12,7 +12,7 @@ Completati tecnicamente: 5/10
 | 3 | phMz5WxmXRo | MARKETING \| Come gestire il Marketing nell'azienda di Famiglia | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | 49CpCqYaXFA | FONDI DI INVESTIMENTO \| Perchè NON devono entrare in azienda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | RM9YvT6K9IQ | How to Choose the Right EMPLOYEES to Grow Your Business | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 6 | 8uQMbmRHUmk | COLLABORATORE DANNOSO \| Eliminare le mele marce in Azienda | PENDING |  |
+| 6 | 8uQMbmRHUmk | COLLABORATORE DANNOSO \| Eliminare le mele marce in Azienda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | eGt2WUGelbU | INCASSI STELLARI di una Clinica Medica grazie al MARKETING di Metodo Merenda | PENDING |  |
 | 8 | LtFeqet7OFc | GELATERIA WALLY MILAN \| The Brutal Truth About the Ice Cream You Eat Every Day | PENDING |  |
 | 9 | dftLQTuK0cY | CAMMI GOMME PIACENZA: The Tire Dealer That Doesn't Look Like a Tire Dealer | PENDING |  |
