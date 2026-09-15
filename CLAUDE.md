@@ -2,6 +2,10 @@
 
 Leggi `00_START_HERE.md` prima di fare qualsiasi cosa.
 
+## Stato corrente
+
+La fase video Merenda è chiusa per saturazione a 313. I 155 residui non equivalgono a un corpus da completare automaticamente. Se `sources/queue/ACQUISITION_CLOSED.md` esiste, non richiedere nuovi batch e non interpretare `DA STUDIARE` come autorizzazione a proseguire.
+
 ## Ruolo durante l'ingestione
 
 - Ogni 25 video completati: esegui fase 14.

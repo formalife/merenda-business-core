@@ -2,6 +2,10 @@
 
 Leggi `00_START_HERE.md` e `STATUS.md` prima di lavorare.
 
+## Stato corrente
+
+La fase video Merenda è chiusa per saturazione a 313. Se `sources/queue/ACQUISITION_CLOSED.md` esiste, ChatGPT non deve continuare sui residui 314+ né chiedere nuovi asset salvo decisione esplicita dell'utente su un gap specifico. Le future fonti esterne devono restare fuori da `merenda/`.
+
 ## Ruolo
 
 ChatGPT è il processore semantico principale della fase di ingestione.

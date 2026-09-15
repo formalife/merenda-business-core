@@ -11,6 +11,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 TRANSCRIPTS = ROOT / 'sources' / 'transcripts'
 PROGRESS = ROOT / 'sources' / 'queue' / 'acquisition-progress.md'
+ACQUISITION_LOCK = ROOT / 'sources' / 'queue' / 'ACQUISITION_CLOSED.md'
 OFFICIAL_CHANNEL_ID = 'UCaAzr7bvYcZRfGR8EyBynOA'
 
 
@@ -127,6 +128,13 @@ def main():
     p.add_argument('--push-each', action='store_true', help='Push sul branch Git corrente dopo ogni singolo video; implica --commit-each')
     p.add_argument('--continue-on-error', action='store_true', help='Continua il batch se un video fallisce')
     args = p.parse_args()
+
+    if ACQUISITION_LOCK.exists():
+        raise SystemExit(
+            'Acquisizione Merenda chiusa per saturazione. '
+            'Vedi sources/queue/ACQUISITION_CLOSED.md e STATUS.md. '
+            'Non rimuovere il lock senza una decisione esplicita sul gap da riaprire.'
+        )
 
     if args.count < 1 or args.count > 25:
         p.error('--count deve essere tra 1 e 25')

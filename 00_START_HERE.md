@@ -4,6 +4,14 @@ Questo repository serve a costruire una Knowledge Base viva e gerarchica del pen
 
 Formalife non deve entrare nella Knowledge Base Merenda e non deve influenzarla. Formalife viene introdotta soltanto dalla fase 21.
 
+## Stato operativo corrente
+
+La fase video Merenda è **chiusa per saturazione al contenuto 313**. La presenza di righe `DA STUDIARE` 314–468 non autorizza una ripresa automatica dell'acquisizione: sono residui intenzionali.
+
+Se esiste `sources/queue/ACQUISITION_CLOSED.md`, **non avviare fase 7, non eseguire `ingest_video.py` e non prendere il primo pendente della queue**. Una riapertura richiede una decisione esplicita dell'utente su un gap concreto e nominabile.
+
+`STATUS.md` è la fonte operativa corrente dopo la decisione di saturazione; i documenti frozen restano invariati come governance storica del progetto.
+
 ## Prima di fare qualsiasi lavoro
 
 Leggi, nell'ordine:
