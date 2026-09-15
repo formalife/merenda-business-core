@@ -4,11 +4,13 @@ Questa è la porta di ingresso della Knowledge Base Merenda.
 
 ## Stato
 
-La KB è **sufficientemente satura** dopo la revisione semantica dei contenuti 1–313.
+La fase video generalista è sufficientemente satura dopo la revisione semantica dei contenuti 1–313.
 
-La tassonomia a 11 sezioni è stabile per il doctrine layer corrente. I contenuti residui del corpus non devono essere acquisiti automaticamente: una riapertura è ammessa solo per colmare un gap concreto e nominabile.
+La tassonomia a 11 sezioni resta stabile come doctrine layer. I contenuti residui del corpus YouTube non devono essere acquisiti automaticamente: una riapertura è ammessa solo per colmare un gap concreto e nominabile.
 
-Fonti ed evidenze esterne devono restare in uno strato separato e non essere fuse retroattivamente in questa KB.
+La KB può continuare a evolvere tramite nuove fonti direttamente attribuibili a Frank Merenda, indipendentemente dal formato. Queste fonti vengono registrate nel layer source-agnostic e integrate solo quando aggiungono conoscenza canonica.
+
+Fonti ed evidenze non-Merenda devono restare in uno strato separato e non essere fuse retroattivamente in questa KB.
 
 ## Routing
 
@@ -28,4 +30,4 @@ Fonti ed evidenze esterne devono restare in uno strato separato e non essere fus
 
 Aprire prima il README della sezione pertinente e poi soltanto i file specifici necessari.
 
-La struttura può essere modificata in futuro solo quando un nuovo gap reale lo richiede; non va riorganizzata per inseguire completezza numerica del corpus.
+La struttura può essere modificata in futuro solo quando un nuovo gap reale lo richiede; non va riorganizzata per inseguire completezza numerica o quantità di fonti.

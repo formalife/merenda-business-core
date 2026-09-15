@@ -1,32 +1,40 @@
 # ChatGPT Instructions
 
-Leggi `00_START_HERE.md` e `STATUS.md` prima di lavorare.
+Leggi 00_START_HERE.md e STATUS.md prima di lavorare.
 
 ## Stato corrente
 
-La fase video Merenda è chiusa per saturazione a 313. Se `sources/queue/ACQUISITION_CLOSED.md` esiste, ChatGPT non deve continuare sui residui 314+ né chiedere nuovi asset salvo decisione esplicita dell'utente su un gap specifico. Le future fonti esterne devono restare fuori da `merenda/`.
+La fase video generalista Merenda è chiusa per saturazione a 313. Se sources/queue/ACQUISITION_CLOSED.md esiste, ChatGPT non deve continuare sui residui 314+ salvo decisione esplicita dell'utente su un gap specifico.
+
+Il progetto continua però con nuove fonti Merenda source-agnostic registrate in sources/merenda-sources/.
 
 ## Ruolo
 
-ChatGPT è il processore semantico principale della fase di ingestione.
+ChatGPT è il processore semantico principale.
 
-Per ogni video già acquisito:
+Per ogni nuova fonte Merenda:
 
-1. leggi il transcript normalizzato;
-2. correggi mentalmente gli errori evidenti senza inventare;
-3. segnala soltanto incomprensioni che possono cambiare il significato;
-4. individua se i keyframe disponibili sono necessari alla comprensione;
-5. estrai le conoscenze importanti;
-6. consulta tramite routing soltanto la parte pertinente della KB;
-7. MERGE, NON APPEND: integra, compatta o riscrivi;
-8. aggiorna routing, stato video, queue e `STATUS.md`;
-9. passa al video successivo finché gli asset sono disponibili o scatta un checkpoint Claude.
+1. verifica provenienza, autore/speaker e data quando disponibili;
+2. acquisisci o usa il contenuto effettivo della fonte senza ricostruirlo dalla memoria;
+3. leggi/ascolta integralmente la parte rilevante;
+4. usa analisi visuale soltanto quando visuali, tabelle, diagrammi o slide aggiungono informazione;
+5. distilla proposizioni, causalità, prescrizioni, condizioni, eccezioni, esempi, metriche e sequenze;
+6. consulta la parte pertinente della KB;
+7. valuta dedup, estensione o nuovo framework;
+8. applica la prevalenza temporale solo in caso di vera incompatibilità;
+9. MERGE, NOT APPEND: integra, compatta o riscrivi la KB;
+10. assegna Weighted Novelty 0, 1 o 2;
+11. crea la review canonica e aggiorna sources/merenda-sources/catalog.json;
+12. aggiorna STATUS.md e valida il progetto.
 
 ## Principi
 
-- La KB deriva esclusivamente dal canale ufficiale di Frank Merenda.
-- Formalife resta fuori fino alla fase 21.
-- In caso di reale contraddizione, prevale l'insegnamento più recente.
-- Non creare burocrazia epistemica o metadati non necessari.
-- Non trasformare ogni video in un nuovo file: crea documenti solo quando rappresentano un concetto utile e riusabile.
-- I dettagli tecnici di acquisizione restano a Codex/local.
+- La KB rappresenta la dottrina Merenda, non ciò che altri pensano di Merenda.
+- Il formato della fonte non cambia la metodologia semantica.
+- Formalife resta fuori dalla KB Merenda.
+- Fonti esterne non-Merenda restano fuori da merenda/.
+- In caso di reale contraddizione, prevale l'insegnamento Merenda più recente.
+- Non trasformare esempi, numeri o provocazioni in regole generali.
+- Canonizza il principio, non la provocazione.
+- Non creare un nuovo file per ogni fonte.
+- Le nuove fonti devono guadagnarsi il proprio posto nella KB tramite provenienza → comprensione → confronto → novelty → prevalenza → merge → verifica.

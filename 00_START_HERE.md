@@ -1,52 +1,62 @@
 # START HERE
 
-Questo repository serve a costruire una Knowledge Base viva e gerarchica del pensiero di Frank Merenda usando esclusivamente i contenuti del canale YouTube ufficiale `@FrankMerendaTV`.
+Questo repository serve a costruire una Knowledge Base viva e gerarchica della dottrina di Frank Merenda.
 
-Formalife non deve entrare nella Knowledge Base Merenda e non deve influenzarla. Formalife viene introdotta soltanto dalla fase 21.
+La fase storica basata sul canale YouTube ufficiale è chiusa per saturazione al contenuto 313. Da questo checkpoint il progetto continua in modalità source-agnostic: possono entrare nuove fonti Merenda indipendentemente dal formato, purché la provenienza e l'attribuzione siano verificabili.
+
+Formalife non deve entrare nella Knowledge Base Merenda e non deve influenzarne l'interpretazione.
 
 ## Stato operativo corrente
 
-La fase video Merenda è **chiusa per saturazione al contenuto 313**. La presenza di righe `DA STUDIARE` 314–468 non autorizza una ripresa automatica dell'acquisizione: sono residui intenzionali.
+Il corpus YouTube storico resta congelato nei suoi invarianti:
 
-Se esiste `sources/queue/ACQUISITION_CLOSED.md`, **non avviare fase 7, non eseguire `ingest_video.py` e non prendere il primo pendente della queue**. Una riapertura richiede una decisione esplicita dell'utente su un gap concreto e nominabile.
+- 468 video catalogati;
+- 313 processati semanticamente;
+- 307 STUDIATO;
+- 6 ESCLUSO;
+- 155 residui intenzionali.
 
-`STATUS.md` è la fonte operativa corrente dopo la decisione di saturazione; i documenti frozen restano invariati come governance storica del progetto.
+Se esiste sources/queue/ACQUISITION_CLOSED.md, non avviare la vecchia acquisizione generalista, non eseguire ingest_video.py e non prendere il primo pendente della queue. Il lock riguarda il corpus YouTube storico e non blocca nuove fonti Merenda source-agnostic.
+
+Le nuove fonti Merenda sono registrate separatamente in sources/merenda-sources/catalog.json. Gli asset tecnici, quando conservati, vivono sotto sources/merenda-sources/<SOURCE_ID>/; la dottrina consolidata continua invece a vivere unicamente in merenda/.
 
 ## Prima di fare qualsiasi lavoro
 
 Leggi, nell'ordine:
 
-1. `MASTER_PLAN.md`
-2. `system/RULES.md`
-3. `STATUS.md`
+1. MASTER_PLAN.md
+2. system/RULES.md
+3. STATUS.md
+4. sources/merenda-sources/README.md quando il task riguarda una nuova fonte Merenda
 
-Poi esegui esclusivamente la prossima azione indicata in `STATUS.md`, rispettando il ruolo assegnato.
+STATUS.md è la fonte operativa corrente. I documenti frozen restano governance storica e non vanno modificati senza autorizzazione esplicita.
 
 ## Ruoli
 
 ### Codex / strumenti locali
 
-- Setup iniziale: fasi 1–6.
-- Acquisizione tecnica a batch: fase 7 e supporto meccanico alle fasi 8 e 10.
-- Recupera metadata, transcript, file normalizzati e keyframe candidati.
+- Gestisce acquisizione tecnica, normalizzazione, trascrizione, estrazione selettiva di visuali e verifiche meccaniche.
+- Non riapre i 155 video residui salvo autorizzazione esplicita su un gap nominabile.
+- Per le nuove fonti usa il formato tecnico più semplice adatto alla fonte.
 - Non esegue il merge semantico nella KB salvo istruzione esplicita.
-- Quando gli asset del batch sono pronti, restituisce il controllo a ChatGPT tramite `STATUS.md`.
 
 ### ChatGPT
 
-- È il processore semantico principale durante l'ingestione.
-- Per ogni video già acquisito esegue la revisione semantica e le fasi 8–13.
-- Individua incomprensioni sostanziali, decide quando l'analisi visuale è necessaria, distilla la conoscenza e aggiorna/riscrive la KB.
-- Continua sui video già acquisiti fino al checkpoint Claude o fino a quando servono nuovi asset locali.
+- È il processore semantico principale.
+- Verifica provenienza e attribuzione.
+- Legge o ascolta integralmente la parte rilevante della fonte.
+- Distingue principi, esempi, tattiche, numeri e linguaggio provocatorio.
+- Confronta la fonte con la KB pertinente.
+- Applica MERGE, NOT APPEND.
+- Risolve eventuali conflitti temporali privilegiando l'insegnamento Merenda più recente quando esiste una vera incompatibilità.
+- Aggiorna review, registry, KB e STATUS.
 
 ### Claude Code
 
-- Fase 14 ogni 25 video completati.
-- Fasi 14 + 15 ogni 50 video completati.
-- Dopo il completamento dell'intero corpus: fasi 16–22.
+Resta disponibile per revisioni strutturali e checkpoint quando richiesto esplicitamente. Non esiste più una cadenza automatica legata al numero di video.
 
 ## Regola fondamentale
 
-I file elencati in `system/FROZEN_FILES.md` definiscono il sistema operativo del progetto e non devono essere modificati senza autorizzazione esplicita dell'utente.
+I file elencati in system/FROZEN_FILES.md non devono essere modificati senza autorizzazione esplicita dell'utente.
 
-Prima di terminare qualsiasi task, aggiorna sempre `STATUS.md`.
+Il progetto non ottimizza più per completezza numerica del corpus YouTube. Ottimizza per conoscenza utile, minima ridondanza, tracciabilità, corretta prevalenza temporale e semplicità strutturale.

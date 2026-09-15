@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Controlli offline finali: frozen, corpus, routing, queue/index, lock, link e contatori."""
+"""Controlli offline finali: frozen, corpus video storico, nuove fonti Merenda, routing, lock, link e contatori."""
 import json
 from pathlib import Path
 import re
@@ -19,6 +19,15 @@ FROZEN = [
 ]
 LOCK = ROOT / 'sources' / 'queue' / 'ACQUISITION_CLOSED.md'
 NEXT_BATCH = ROOT / 'sources' / 'queue' / 'next-batch.txt'
+NEW_SOURCE_ROOT = ROOT / 'sources' / 'merenda-sources'
+NEW_SOURCE_CATALOG = NEW_SOURCE_ROOT / 'catalog.json'
+
+SOURCE_TYPES = {
+    'video', 'audio', 'podcast', 'interview', 'article', 'blog',
+    'newsletter', 'webpage', 'pdf', 'document', 'transcript',
+    'webinar', 'course', 'post', 'other',
+}
+SOURCE_STATUSES = {'DA STUDIARE', 'STUDIATO', 'ESCLUSO'}
 
 
 def parse_table(path, kind):
@@ -54,6 +63,90 @@ def parse_table(path, kind):
     return lines, records, positions
 
 
+def validate_new_sources(errors):
+    if not NEW_SOURCE_CATALOG.exists():
+        errors.append('Catalogo nuove fonti mancante: sources/merenda-sources/catalog.json')
+        return []
+
+    try:
+        rows = json.loads(NEW_SOURCE_CATALOG.read_text())
+    except json.JSONDecodeError as exc:
+        errors.append('Catalogo nuove fonti non valido: ' + str(exc))
+        return []
+
+    if not isinstance(rows, list):
+        errors.append('Catalogo nuove fonti deve essere una lista JSON')
+        return []
+
+    ids = []
+    required = {
+        'id', 'type', 'title', 'author_or_speaker', 'source_ref',
+        'published_date', 'acquired_date', 'origin', 'status',
+        'normalized_path', 'review_path', 'category',
+        'weighted_novelty', 'notes',
+    }
+
+    for row in rows:
+        if not isinstance(row, dict):
+            errors.append('Record nuova fonte non è un oggetto JSON')
+            continue
+
+        missing = sorted(required - set(row))
+        ident = str(row.get('id', '<senza-id>'))
+        if missing:
+            errors.append(f'Campi mancanti nuova fonte {ident}: ' + ','.join(missing))
+            continue
+
+        ids.append(row['id'])
+
+        if not re.fullmatch(r'FM-SRC-\d{4}', row['id']):
+            errors.append('ID nuova fonte non valido: ' + row['id'])
+        if row['type'] not in SOURCE_TYPES:
+            errors.append('Tipo nuova fonte sconosciuto: ' + row['id'])
+        if row['status'] not in SOURCE_STATUSES:
+            errors.append('Stato nuova fonte sconosciuto: ' + row['id'])
+        if not str(row['title']).strip():
+            errors.append('Titolo nuova fonte mancante: ' + row['id'])
+        if not str(row['author_or_speaker']).strip():
+            errors.append('Attribuzione nuova fonte mancante: ' + row['id'])
+        if not str(row['source_ref']).strip():
+            errors.append('Riferimento nuova fonte mancante: ' + row['id'])
+        if not str(row['acquired_date']).strip():
+            errors.append('Data acquisizione nuova fonte mancante: ' + row['id'])
+        if not str(row['origin']).strip():
+            errors.append('Origine nuova fonte mancante: ' + row['id'])
+
+        source_ref = row['source_ref']
+        if isinstance(source_ref, str) and source_ref.startswith('sources/'):
+            if not (ROOT / source_ref).exists():
+                errors.append('File sorgente nuova fonte mancante: ' + row['id'])
+
+        if row['status'] in {'STUDIATO', 'ESCLUSO'}:
+            review_path = row['review_path']
+            if not review_path or not (ROOT / review_path).exists():
+                errors.append('Review nuova fonte mancante: ' + row['id'])
+
+        if row['status'] == 'STUDIATO':
+            normalized_path = row['normalized_path']
+            if not normalized_path or not (ROOT / normalized_path).exists():
+                errors.append('Contenuto normalizzato nuova fonte mancante: ' + row['id'])
+
+            category = row['category']
+            if not category or not (ROOT / 'merenda' / category / 'README.md').exists():
+                errors.append('Categoria nuova fonte inesistente: ' + row['id'])
+
+            if row['weighted_novelty'] not in [0, 1, 2]:
+                errors.append('Weighted Novelty nuova fonte errata: ' + row['id'])
+
+        if row['status'] == 'ESCLUSO' and (row['notes'] is None or not str(row['notes']).strip()):
+            errors.append('Esclusione nuova fonte senza motivo: ' + row['id'])
+
+    if len(ids) != len(set(ids)):
+        errors.append('ID duplicati nel catalogo nuove fonti')
+
+    return rows
+
+
 def main():
     errors = []
 
@@ -65,6 +158,7 @@ def main():
         if original != (ROOT / name).read_bytes():
             errors.append('File congelato modificato: ' + name)
 
+    # Corpus video storico: invarianti legacy.
     rows = json.loads((ROOT / 'sources/catalog.json').read_text())
     ids = [r['id'] for r in rows]
     by_id = {r['id']: r for r in rows}
@@ -150,7 +244,7 @@ def main():
     if not LOCK.exists():
         errors.append('Lock acquisizione mancante: sources/queue/ACQUISITION_CLOSED.md')
     if NEXT_BATCH.read_text().strip():
-        errors.append('next-batch.txt non vuoto nonostante acquisizione chiusa')
+        errors.append('next-batch.txt non vuoto nonostante acquisizione video chiusa')
 
     queue_records = parsed.get('queue', {})
     if queue_records:
@@ -161,7 +255,9 @@ def main():
             if pos >= 314 and item['status'] != 'DA STUDIARE':
                 errors.append(f'Residuo {pos} non è DA STUDIARE: {ident}')
 
-    for folder in ['merenda', 'sources/transcripts']:
+    new_sources = validate_new_sources(errors)
+
+    for folder in ['merenda', 'sources/transcripts', 'sources/merenda-sources']:
         for path in (ROOT / folder).rglob('*.md'):
             content = path.read_text()
             if folder == 'merenda' and re.search('formalife', content, re.I):
@@ -176,6 +272,11 @@ def main():
     excluded = sum(r['status'] == 'ESCLUSO' for r in rows)
     remaining = sum(r['status'] not in ['STUDIATO', 'ESCLUSO'] for r in rows)
     processed_count = done + excluded
+
+    new_done = sum(r.get('status') == 'STUDIATO' for r in new_sources if isinstance(r, dict))
+    new_excluded = sum(r.get('status') == 'ESCLUSO' for r in new_sources if isinstance(r, dict))
+    new_pending = sum(r.get('status') == 'DA STUDIARE' for r in new_sources if isinstance(r, dict))
+
     status_text = (ROOT / 'STATUS.md').read_text()
 
     counters = [
@@ -184,6 +285,10 @@ def main():
         ('Video esclusi', excluded),
         ('Video rimanenti', remaining),
         ('Processati semanticamente', processed_count),
+        ('Nuove fonti Merenda registrate', len(new_sources)),
+        ('Nuove fonti Merenda studiate', new_done),
+        ('Nuove fonti Merenda escluse', new_excluded),
+        ('Nuove fonti Merenda da processare', new_pending),
     ]
     for label, count in counters:
         if f'- {label}: {count}\n' not in status_text:
@@ -196,7 +301,11 @@ def main():
         f'OK: {len(rows)} video; {processed_count} processati '
         f'({done} STUDIATO + {excluded} ESCLUSO), {remaining} residui intenzionali.'
     )
-    print('Acquisizione Merenda LOCKED; queue/index/catalog/review/frozen/link coerenti.')
+    print('Acquisizione YouTube Merenda LOCKED; queue/index/catalog/review/frozen/link coerenti.')
+    print(
+        f'Nuove fonti Merenda: {len(new_sources)} registrate '
+        f'({new_done} STUDIATO + {new_excluded} ESCLUSO, {new_pending} da processare).'
+    )
     print('Il controllo strutturale non certifica il merito della revisione semantica.')
 
 

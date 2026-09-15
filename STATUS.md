@@ -2,11 +2,13 @@
 
 ## Stato generale
 
-**MERENDA VIDEO PHASE CLOSED — KB SUFFICIENTEMENTE SATURA.**
+**MERENDA SOURCE-AGNOSTIC PHASE READY — VIDEO PHASE LOCKED.**
 
-La fase di acquisizione e revisione video è chiusa al contenuto **313**. Il lock operativo è attivo in `sources/queue/ACQUISITION_CLOSED.md`.
+La fase video generalista è chiusa per saturazione al contenuto 313. Il lock operativo resta attivo in sources/queue/ACQUISITION_CLOSED.md e continua a impedire l'acquisizione automatica dei residui 314–468.
 
-## Contatori canonici
+La Knowledge Base Merenda può ora essere ampliata con nuove fonti di Frank Merenda indipendentemente dal formato, usando il nuovo layer sources/merenda-sources/.
+
+## Contatori canonici — corpus YouTube storico
 
 - Video individuati: 468
 - Video completati: 307
@@ -14,64 +16,66 @@ La fase di acquisizione e revisione video è chiusa al contenuto **313**. Il loc
 - Video rimanenti: 155
 - Processati semanticamente: 313
 
-I 155 residui (posizioni 314–468) sono **intenzionalmente non processati**. Non costituiscono un backlog da completare.
+I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
-## Final probe 311–313
+## Contatori canonici — nuove fonti Merenda
 
-- 3/3 STUDIATO
-- peso 2: **0**
-- peso 1: **2**
-- peso 0: **1**
-- Weighted Novelty: **2/6 = 33,3%**
-- nuovi framework: **0**
+- Nuove fonti Merenda registrate: 0
+- Nuove fonti Merenda studiate: 0
+- Nuove fonti Merenda escluse: 0
+- Nuove fonti Merenda da processare: 0
 
-Report canonico: `reviews/MERENDA_SATURATION_313.md`.
+Questi contatori sono separati dal corpus YouTube storico.
 
-## Chiusura acquisizione
+## Source layer
 
-**STOP acquisizione Merenda.**
+Registry canonico nuove fonti:
 
-Garanzie operative:
+sources/merenda-sources/catalog.json
 
-- `sources/queue/ACQUISITION_CLOSED.md` presente;
-- `sources/queue/next-batch.txt` vuoto;
-- `scripts/ingest_video.py` termina se il lock è presente;
-- nessun 314+ deve essere acquisito per completezza;
-- una riapertura richiede decisione esplicita dell'utente su un gap concreto e nominabile.
+Convenzione per-source:
 
-Primo residuo archiviato: posizione **314**, `asMedYJtd4I`.
+sources/merenda-sources/FM-SRC-0001/
 
-## Integrità finale
+Ogni fonte può conservare, quando appropriato:
 
-- 313 contenuti processati = 313 file `.review.md`;
-- nessuna review semantica 314+;
-- nessun `STUDIATO` senza transcript Markdown;
-- queue coerente con catalogo per ID, categoria e stato;
-- VIDEO_INDEX riallineato al catalogo per ID, categoria e stato;
-- file frozen non modificati dalla finalizzazione;
-- Merenda KB resta separata da qualsiasi futura evidence base esterna.
+- originale o riferimento stabile;
+- contenuto normalizzato analizzabile;
+- review canonica;
+- metadata e limiti di provenienza.
 
-Audit di chiusura: `reviews/VIDEO_PHASE_CLOSURE_AUDIT_313.md`.
+Non è obbligatorio archiviare integralmente materiale protetto quando basta un riferimento stabile più il contenuto necessario alla verifica.
 
-## Source of Truth
+## Invarianti
 
-La Merenda KB è ora il **doctrine layer stabile**.
+- merenda/ resta l'unica KB canonica della dottrina Merenda;
+- le nuove fonti non vengono aggiunte automaticamente come nuovi nodi: MERGE, NOT APPEND;
+- il lock YouTube resta attivo;
+- sources/catalog.json, VIDEO_INDEX.md e queue storica non vengono riconvertiti;
+- i cinque file frozen restano invariati;
+- nessuna Evidence / External KB viene mescolata dentro merenda/;
+- Formalife resta fuori dalla fase di costruzione della dottrina.
 
-Architettura successiva:
+## Provenienza e review
 
-1. **Merenda KB** — dottrina sorgente;
-2. **Evidence / External KB** — evidenze indipendenti;
-3. **Strategy layer** — decisioni applicative dopo confronto e critica.
+Ogni nuova fonte processata deve avere provenance sufficiente, contenuto analizzabile, review, Weighted Novelty e routing finale.
 
-Nessuna fonte esterna deve essere inserita retroattivamente dentro `merenda/`.
+In caso di reale incompatibilità fra fonti Merenda, prevale l'insegnamento più recente dopo aver distinto contraddizione, evoluzione, restringimento, ampliamento e differenza di contesto.
 
-## Checkpoint
+## Validator
 
-- ultimo FASE 14 + 15: **300**
-- final probe di saturazione: **313**
-- chiusura video hardenizzata: **313**
-- nessun checkpoint video ulteriore richiesto
+Comando canonico:
+
+python3 scripts/validate_project.py
+
+Il validator continua a certificare gli invarianti del corpus video storico e, in aggiunta, controlla il nuovo registry source-agnostic.
 
 ## Next Action
 
-**CHATGPT — solo dopo conferma del validator locale, progettare lo strato Evidence / External KB.**
+**CHATGPT — ricevere la prima nuova fonte di Frank Merenda e processarla end-to-end con la metodologia source-agnostic.**
+
+Non acquisire video residui 314+.
+
+Non creare ancora Evidence / External KB.
+
+Non applicare ancora la dottrina a Formalife.
