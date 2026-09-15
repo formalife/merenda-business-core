@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — Marketing Rodeo mappato 54/54 e posto in gap-driven review; passare agli archivi testuali Venditore Vincente / Marketing Merenda, poi tornare ai soli podcast gap-candidate se il corpus storico non li risolve.**
+**CHATGPT — lavorare esclusivamente su Marketing Automation Facile e jAI Premium; nessun altro archivio o corpus è nella roadmap operativa. Integrare soltanto contenuti realmente nuovi, preservando autore e provenienza.**
 
 Non acquisire video residui 314+.
 
