@@ -18,8 +18,8 @@
     "treatment": "MERENDA_PRIMARY",
     "priority": 3,
     "temporal_scope": "2025+",
-    "status": "ACTIVE",
-    "notes": "Probabili traduzioni/adattamenti cross-language del corpus italiano. Deduplicare semanticamente prima di integrare."
+    "status": "AUDITED_DEDUP_COMPLETE",
+    "notes": "Intero corpus 2025 auditato semanticamente (15 articoli). Weighted Novelty complessiva 0: case study ufficiali di Frank su focus, category, line extension, multibrand, pricing e distribuzione già canonizzati, spesso con formulazioni italiane 2026 più recenti. Riaprire solo se compaiono nuovi post."
   },
   {
     "id": "FM-COL-003",

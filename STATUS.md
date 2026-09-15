@@ -20,8 +20,8 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — nuove fonti Merenda
 
-- Nuove fonti Merenda registrate: 40
-- Nuove fonti Merenda studiate: 40
+- Nuove fonti Merenda registrate: 55
+- Nuove fonti Merenda studiate: 55
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 
@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — fase newest-first del Substack ufficiale 2026 sostanzialmente saturata; passare a gap-driven audit di fmerenda 2025, Marketing Rodeo e archivi storici, integrando solo concetti assenti o formulazioni temporalmente rilevanti.**
+**CHATGPT — fmerenda 2025 auditato e chiuso per dedup; passare a Marketing Rodeo (54 episodi) con mappatura titoli/date e gap-driven review, poi archivi storici Venditore Vincente / Marketing Merenda.**
 
 Non acquisire video residui 314+.
 
