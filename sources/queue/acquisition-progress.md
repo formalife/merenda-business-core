@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:49:24.002613+00:00
+Ultimo aggiornamento: 2026-09-15T08:49:32.558282+00:00
 
 Batch: 25 video
-Completati tecnicamente: 24/25
+Completati tecnicamente: 25/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -31,4 +31,4 @@ Completati tecnicamente: 24/25
 | 22 | 2tWslHOkxIc | Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | v2LEVo40O_w | Come Generare Flusso di Cassa In Anticipo Nella Tua Azienda | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 24 | dt5NN20BeOY | 7 Numbers You Must Know to Make Your Business Take Off | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 25 | Fo8PB_7fE60 | HOW TO DO BUSINESS \| The organizational chart of a modern company | PENDING |  |
+| 25 | Fo8PB_7fE60 | HOW TO DO BUSINESS \| The organizational chart of a modern company | ACQUIRED | Metadata + transcript Markdown disponibili. |
