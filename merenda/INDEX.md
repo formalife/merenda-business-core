@@ -1,10 +1,16 @@
 # Merenda Knowledge Base — Index
 
-Questa è la porta di ingresso della Knowledge Base.
+Questa è la porta di ingresso della Knowledge Base Merenda.
 
-La tassonomia iniziale è provvisoria. Deve evolvere con il corpus.
+## Stato
 
-## Routing iniziale
+La KB è **sufficientemente satura** dopo la revisione semantica dei contenuti 1–313.
+
+La tassonomia a 11 sezioni è stabile per il doctrine layer corrente. I contenuti residui del corpus non devono essere acquisiti automaticamente: una riapertura è ammessa solo per colmare un gap concreto e nominabile.
+
+Fonti ed evidenze esterne devono restare in uno strato separato e non essere fuse retroattivamente in questa KB.
+
+## Routing
 
 - [00 — Fondamenti](00_fondamenti/README.md)
 - [01 — Mercato](01_mercato/README.md)
@@ -22,4 +28,4 @@ La tassonomia iniziale è provvisoria. Deve evolvere con il corpus.
 
 Aprire prima il README della sezione pertinente e poi soltanto i file specifici necessari.
 
-Non usare questo indice come tassonomia immutabile: i checkpoint Claude possono riorganizzarlo.
+La struttura può essere modificata in futuro solo quando un nuovo gap reale lo richiede; non va riorganizzata per inseguire completezza numerica del corpus.

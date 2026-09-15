@@ -1,16 +1,25 @@
 # LEARNING QUEUE
 
-Prendere il primo video non completato. Fermarsi ogni 25 completati per checkpoint Claude (anche audit ogni 50).
+## Stato operativo finale
 
-Ordine: corso sui sette principi, fondamenti, poi mercato → posizionamento → offerta → marketing → acquisizione → vendita → comunicazione → brand → business → casi studio; entro ciascuna categoria gli Shorts restano in coda rispetto ai video lunghi. Entro categoria/tipo si mantiene l'ordine restituito dalla scheda. Il titolo non costituisce conoscenza acquisita.
+**ACQUISIZIONE MERENDA CHIUSA PER SATURAZIONE AL CONTENUTO 313.**
 
-Audit tassonomico (checkpoint 50, fase 15): la classificazione preliminare dei contenuti non ancora studiati (ordine 51+) è stata raffinata dove il titolo indicava con sufficiente sicurezza una categoria più specifica del generico `04_marketing`, e la coda è stata riordinata secondo la sequenza sopra. Restano in `04_marketing` i contenuti il cui titolo non permette una classificazione più precisa senza vedere il video: la conferma avviene al momento dell'ingestione (fase 8+).
+Non prendere automaticamente il primo video non completato.
 
-Audit tassonomico (checkpoint 100, fase 15): 11 contenuti non ancora studiati (ordine 101+), il cui titolo nomina con sufficiente sicurezza un'azienda/caso specifico (es. Mortadella Shop, Guapo, Tana Delle Tigri, Tesla, una clinica, un'agenzia immobiliare, un centro estetico, un ristorante nominato) invece di un principio generale, sono stati riclassificati da `04_marketing`/`06_vendita`/`08_brand`/`09_business` a `10_casi_studio` e spostati in coda alla sezione, prima dei casi già presenti. La coda è stata rinumerata di conseguenza (101→468); i primi 100 contenuti STUDIATO/ESCLUSO non sono stati toccati. Il primo pendente resta `zZFg2oM208w`. Nessun contenuto 101+ è stato marcato STUDIATO né visionato: la riclassificazione si basa solo sul titolo, da confermare in fase di ingestione.
+Le posizioni **314–468** restano `DA STUDIARE` come archivio residuale intenzionale. Possono essere riaperte soltanto se una futura analisi identifica un gap concreto e nominabile che la KB corrente non risolve.
 
-Operational override post-checkpoint 300 (decisione B): il prossimo batch tecnico è un **micro-batch mirato di 10 contenuti**, posizioni logiche 301–310, selezionati in `reviews/TARGETED_GAP_SELECTION_301-310.md`. Dopo la revisione semantica 301–310, STOP e nuova misura di Weighted Novelty prima di qualunque 311+.
+Il lock operativo è `sources/queue/ACQUISITION_CLOSED.md`. Finché esiste:
 
-Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta adeguata al corpus studiato (1–150); nessuna categoria è stata unita, divisa o rinominata. Sono stati corretti soltanto 9 contenuti non ancora studiati il cui titolo nomina con sufficiente sicurezza un caso/azienda specifico o un tema più preciso del generico `04_marketing`/`06_vendita`: `5awWbxibHIE` (04_marketing → 09_business, errori di assunzione), `LMzKVDWrGlk`, `mkhp-EGSORA`, `NTy1ZHQ8NYs`, `5XW0s6NizEE`, `NCQ1lX3S5wk`, `AjvfyImTiPI`, `aQ5V7845jX4` (04_marketing → 10_casi_studio: Skechers, Mike's Hot Honey, Ferrero, Lamborghini Urus, gommista, All'Antico Vinaio, Coca-Cola — versioni brevi di casi il cui equivalente lungo è già in `10_casi_studio`) e `rI00A_jHqz8` (06_vendita → 10_casi_studio: azienda farmaceutica con risultato numerico specifico, coerente con gli altri casi già presenti). A differenza del checkpoint 100, questi 9 contenuti non sono stati spostati in fondo alla sezione né la coda è stata rinumerata: restano nella loro posizione d'ordine originale, per non aggravare i disallineamenti d'ordine preesistenti fra `catalog.json`, `VIDEO_INDEX.md` e `QUEUE.md` già documentati come anomalia nota. Il resto della coda (309 contenuti) è stato riletto ma non presenta altri casi di riclassificazione ad alta confidenza basata solo sul titolo. Nessun contenuto 151+ è stato marcato STUDIATO né visionato: la riclassificazione si basa solo sul titolo, da confermare in fase di ingestione. Prossimo batch tecnico 151–175 confermato nell'ordine attuale (vedi `reviews/CHECKPOINT_150.md`).
+- nessun batch 314+;
+- `next-batch.txt` deve restare vuoto;
+- `ingest_video.py` deve rifiutare l'acquisizione;
+- il numero 468 non è un obiettivo di completamento.
+
+L'ordine della tabella conserva la storia delle reprioritizzazioni effettuate durante i checkpoint. Per stato e categoria, la Source of Truth strutturata resta `sources/catalog.json`; questa queue deve essere coerente per ID, categoria e stato ma **non deve avere lo stesso ordine fisico del catalogo**.
+
+Per la decisione finale vedere:
+- `reviews/MERENDA_SATURATION_313.md`
+- `reviews/VIDEO_PHASE_CLOSURE_AUDIT_313.md`
 
 | Ordine | Video | Categoria preliminare | Stato |
 |---:|---|---|---|
