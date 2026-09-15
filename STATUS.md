@@ -2,7 +2,7 @@
 
 ## Stato generale
 
-**MERENDA SOURCE-AGNOSTIC PHASE READY — VIDEO PHASE LOCKED.**
+**MERENDA SOURCE-AGNOSTIC PHASE ACTIVE — BATCH 001 STUDIED; VIDEO PHASE LOCKED.**
 
 La fase video generalista è chiusa per saturazione al contenuto 313. Il lock operativo resta attivo in sources/queue/ACQUISITION_CLOSED.md e continua a impedire l'acquisizione automatica dei residui 314–468.
 
@@ -20,8 +20,8 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — nuove fonti Merenda
 
-- Nuove fonti Merenda registrate: 0
-- Nuove fonti Merenda studiate: 0
+- Nuove fonti Merenda registrate: 6
+- Nuove fonti Merenda studiate: 6
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 
@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — ricevere la prima nuova fonte di Frank Merenda e processarla end-to-end con la metodologia source-agnostic.**
+**CHATGPT — continuare il corpus source-agnostic newest-first: completare i candidati ad alta novelty del Substack italiano 2026, quindi Marketing Automation Facile e jAI; usare fmerenda, podcast e archivi storici in modalità gap/dedup.**
 
 Non acquisire video residui 314+.
 

@@ -268,3 +268,33 @@ Fonte applicativa: [CAMMI GOMME PIACENZA](https://www.youtube.com/watch?v=dftLQT
 ## Vedi anche
 
 Gli esempi aziendali che illustrano questi principi (Biraghi, Guapo, Burgez, Mike's Hot Honey, Il Toro, McDonald's) sono raccolti in [esempi di differenziazione applicata](esempi-di-differenziazione.md), per mantenere questo documento sui principi generali.
+
+
+## Nell'era dell'AI il posizionamento decide che cosa viene amplificato
+
+Nel materiale del 13 aprile 2026 Merenda applica il principio di focus alla diffusione degli strumenti di intelligenza artificiale.
+
+Quando strumenti di produzione, copy, analisi e automazione diventano più accessibili, una parte dell'esecuzione generica diventa più facile da imitare. Per un'impresa indistinta questo può aumentare la comparabilità invece di ridurla.
+
+Una posizione già specifica può invece usare l'AI come moltiplicatore di:
+
+- velocità;
+- capacità produttiva;
+- personalizzazione;
+- follow-up;
+- analisi;
+- distribuzione della comunicazione.
+
+La distinzione è:
+
+**AI applicata a una posizione chiara → amplifica una differenza già comprensibile**
+
+vs
+
+**AI usata come nuova etichetta generica → aggiunge una linea facilmente copiabile e può diluire il focus.**
+
+Merenda collega la difendibilità soprattutto a ciò che richiede tempo per essere accumulato: risultati specifici, casi, reputazione, comprensione profonda di una nicchia e coerenza fra promessa ed esperienza.
+
+Il principio non è che la tecnologia non conti. È che **la tecnologia accessibile a tutti non sostituisce automaticamente una ragione specifica per scegliere un'impresa**.
+
+Fonte: Frank Merenda, “Il Positioning è ancora rilevante nell'epoca dell'AI?”, 13 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0006/review.md.

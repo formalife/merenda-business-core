@@ -147,3 +147,22 @@ Il principio è sviluppato in [Patrimonializzazione e reinvestimento](patrimonia
 - [Quattro domande prima di lanciare](../01_mercato/quattro-domande-prima-di-lanciare.md)
 - [Marketing first](../00_fondamenti/marketing-first.md)
 - [Scalabilità e uscita dall'operatività](scalabilita-e-operativita.md)
+
+
+## Bootstrap 2026: vendere il risultato prima di costruire la macchina
+
+Nel materiale del 17 gennaio 2026 Merenda rende più precisa la sequenza per chi parte con capitale limitato.
+
+Quando il prodotto o il sistema finale richiederebbero investimenti che l'impresa non può ancora sostenere, una prima versione può essere erogata in modo più manuale, personalizzato o “concierge”, purché venda **lo stesso risultato essenziale** che si vuole poi rendere scalabile.
+
+La sequenza riusabile è:
+
+**risultato desiderato → vendita/prevendita di una versione manuale → apprendimento sul cliente reale → margine e cassa → standardizzazione/prodotto → scala.**
+
+Il punto non è fingere che un prototipo sia già un prodotto maturo. È evitare di costruire struttura prima di aver dimostrato che qualcuno è disposto a pagare per il risultato.
+
+Questo aggiorna il principio già presente “prima il prototipo economico, poi il capitale”: il mercato può finanziare una parte dell'apprendimento se l'impresa riesce a farsi pagare prima di sostenere tutti i costi della versione definitiva.
+
+Le percentuali, le forme societarie e gli strumenti finanziari citati nella fonte restano esempi contingenti e non diventano regole universali.
+
+Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.

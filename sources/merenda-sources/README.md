@@ -82,3 +82,18 @@ merenda/ contiene soltanto la dottrina consolidata.
 sources/merenda-sources/ contiene provenienza, materiale tecnico e review delle nuove fonti Merenda.
 
 Fonti non-Merenda, ricerca esterna ed Evidence KB non entrano in questa cartella come se fossero dottrina Merenda.
+
+
+## Collezioni di fonti
+
+Quando l'utente fornisce un archivio, un sito o una serie, l'archivio non viene trattato come una singola fonte semantica.
+
+Le collezioni sono registrate separatamente in `collections.json`; ogni articolo, episodio o documento che viene realmente studiato riceve invece il proprio ID `FM-SRC-NNNN` in `catalog.json`.
+
+Il campo `treatment` di una collezione distingue:
+
+- `MERENDA_PRIMARY` — materiale direttamente attribuibile a Frank Merenda;
+- `ASSIMILATED_AS_MERENDA_BY_USER` — autore reale preservato nella provenance, ma contenuto trattato come corpus Merenda per esplicita istruzione dell'utente;
+- `DEFERRED_EXTERNAL_GENERAL_UPDATE` — materiale tenuto fuori dalla Merenda KB e rimandato a una fase successiva.
+
+La provenance reale non viene mai falsificata anche quando l'utente autorizza l'assimilazione semantica.

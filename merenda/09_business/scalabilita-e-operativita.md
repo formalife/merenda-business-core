@@ -152,3 +152,33 @@ Fonte precedente: [MARKETING — Come gestire il Marketing nell'azienda di Famig
 - [Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md)
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)
 - [Complessità e riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md)
+
+
+## Stress test del fondatore: assenza programmata e KPI
+
+Nel materiale del 17 gennaio 2026 Merenda propone un test pratico della dipendenza dal fondatore: allontanarlo deliberatamente dall'operatività per un periodo definito e osservare che cosa smette di funzionare.
+
+La durata citata nella fonte è un esempio, non una soglia universale.
+
+Perché il test sia informativo occorre prima rendere chiari:
+
+- responsabilità;
+- autorità decisionale;
+- budget o limiti entro cui i responsabili possono agire;
+- procedure disponibili;
+- KPI da osservare;
+- casi che richiedono escalation.
+
+Durante l'assenza vanno registrati:
+
+- decisioni che nessuno riesce a prendere;
+- informazioni accessibili soltanto al fondatore;
+- clienti o fornitori che dipendono dalla relazione personale;
+- processi che rallentano;
+- KPI che peggiorano.
+
+Il risultato non è “il fondatore deve sparire”, ma una mappa empirica dei punti nei quali la delega è ancora nominale.
+
+**assenza programmata → rotture visibili → documentazione/delega → nuovo test → minore dipendenza personale.**
+
+Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.

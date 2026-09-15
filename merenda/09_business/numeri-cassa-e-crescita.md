@@ -374,3 +374,53 @@ Le proporzioni numeriche citate nel video fra CAC e LTV non vengono consolidate 
 
 Fonte: [How to Increase Campaign Traffic Without Burning Your Budget](https://www.youtube.com/watch?v=PLIAmuNzx_s), 28 gennaio 2025. [Revisione](../../sources/transcripts/PLIAmuNzx_s.review.md).
 
+
+
+## Cash Conversion Cycle: il tempo fra incasso e pagamento è una leva finanziaria
+
+Nel materiale del 24 gennaio 2026 Merenda rende esplicita la dimensione temporale del capitale circolante.
+
+Non basta che un'operazione sia profittevole “sulla carta”. Conta anche **quando** entra il denaro rispetto a quando l'impresa deve pagare fornitori, personale, magazzino e altri costi.
+
+La domanda operativa diventa:
+
+**quanti giorni di cassa devo finanziare tra l'uscita necessaria a servire il cliente e l'incasso effettivo?**
+
+Quando il modello lo consente, ridurre questo intervallo — o arrivare a incassare prima di sostenere parte dei costi — diminuisce il capitale necessario per crescere. La fonte descrive questa condizione come **negative working capital**.
+
+Le leve possono riguardare:
+
+- anticipi o pagamento iniziale del cliente;
+- tempi di incasso più brevi;
+- tempi di pagamento ai fornitori negoziati in modo sostenibile;
+- minore capitale immobilizzato in scorte;
+- approvvigionamento più vicino alla vendita;
+- strumenti finanziari coerenti con crediti già generati.
+
+Queste leve non sono equivalenti e non vanno applicate automaticamente. Sconti per pagamento anticipato, factoring, leasing, conto vendita e altre soluzioni citate nella fonte sono tattiche da valutare sui numeri e sui vincoli del business.
+
+Il principio canonico è:
+
+**margine economico + sequenza temporale dei flussi → fabbisogno di capitale → capacità reale di crescita.**
+
+Fonte: Frank Merenda, “FATTURI, FAI UTILI E FALLISCI LO STESSO.”, 24 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0002/review.md.
+
+## Numero di sopravvivenza: separare rimpiazzo, stabilità e crescita
+
+Nel materiale del 12 marzo 2026 Merenda propone una metrica diagnostica semplice per evitare di confondere “nuovi clienti” con crescita reale.
+
+Una prima approssimazione del numero minimo di clienti necessari a coprire la struttura è:
+
+**costi operativi fissi del periodo / margine medio prodotto da un cliente nello stesso periodo.**
+
+La formula non sostituisce conto economico, cash flow, segmentazione per cliente o analisi di capacità. Serve come cruscotto rapido per rendere visibile quanta domanda minima deve essere mantenuta.
+
+Da qui vanno separati tre lavori diversi dell'acquisizione:
+
+1. **rimpiazzo del churn** — sostituire i clienti persi;
+2. **stabilità** — mantenere il livello economico necessario alla struttura;
+3. **crescita** — acquisire valore aggiuntivo oltre rimpiazzo e soglia minima.
+
+Perciò “abbiamo acquisito X clienti” non prova crescita se nello stesso periodo ne sono usciti altrettanti o se il margine medio è insufficiente.
+
+Fonte: Frank Merenda, “Il passaparola non è una strategia. È una preghiera. E Dio non risponde ai preventivi.”, 12 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0004/review.md.

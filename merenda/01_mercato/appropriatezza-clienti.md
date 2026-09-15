@@ -139,3 +139,22 @@ Fonte: [COME TROVARE CLIENTI grazie a nuovi canali di acquisizione](https://www.
 - [Clienti alto-spendenti](clienti-altospendenti.md)
 - [Numeri, cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md)
 - [Referral, soddisfazione e qualità dei clienti](../05_acquisizione/referral-e-soddisfazione.md)
+
+
+## Whale curve: individuare la coda di clienti che erode il profitto
+
+Nel materiale dell'8 marzo 2026 Merenda aggiunge una procedura concreta al principio di appropriatezza economica.
+
+Il metodo è:
+
+1. stimare il **profitto reale per cliente**, includendo per quanto possibile assistenza, rilavorazioni, tempo, condizioni di pagamento e altri costi della relazione;
+2. ordinare i clienti dal più al meno profittevole;
+3. calcolare il profitto cumulativo procedendo lungo la lista;
+4. individuare il punto in cui la curva smette di crescere e comincia a essere erosa dalla coda dei clienti peggiori;
+5. intervenire sulla coda con una delle leve disponibili: **riposizionare il prezzo, ridurre il livello di servizio non remunerato, cambiare condizioni oppure interrompere la relazione**.
+
+Questa lettura evita che fatturato e numero di clienti nascondano un portafoglio nel quale una parte della base consuma il profitto generato dai clienti migliori.
+
+Le percentuali riportate negli esempi della fonte non vengono assunte come benchmark universali. Il valore del metodo è la lettura cumulativa del contributo economico.
+
+Fonte: Frank Merenda, “Il primo problema della tua PMI non è il fisco: è che stai servendo i clienti sbagliati”, 8 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0003/review.md.

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "FM-COL-001",
+    "name": "Frank Merenda — Substack italiano",
+    "url": "https://frankmerenda.substack.com/archive",
+    "real_author": "Frank Merenda",
+    "treatment": "MERENDA_PRIMARY",
+    "priority": 1,
+    "temporal_scope": "2024–2026+",
+    "status": "ACTIVE",
+    "notes": "Fonte diretta prioritaria. Processare newest-first per prevalenza temporale e poi gap-driven."
+  },
+  {
+    "id": "FM-COL-002",
+    "name": "Marketing Matters — Substack inglese",
+    "url": "https://fmerenda.substack.com/archive",
+    "real_author": "Frank Merenda",
+    "treatment": "MERENDA_PRIMARY",
+    "priority": 3,
+    "temporal_scope": "2025+",
+    "status": "ACTIVE",
+    "notes": "Probabili traduzioni/adattamenti cross-language del corpus italiano. Deduplicare semanticamente prima di integrare."
+  },
+  {
+    "id": "FM-COL-003",
+    "name": "Venditore Vincente",
+    "url": "https://venditorevincente.com/",
+    "real_author": "Frank Merenda / archivio editoriale",
+    "treatment": "MERENDA_PRIMARY",
+    "priority": 5,
+    "temporal_scope": "circa 2010–2018",
+    "status": "ACTIVE",
+    "notes": "Archivio storico ampio. Usare per origini dei framework, formulazioni precedenti e gap specifici; non prevale su fonti recenti."
+  },
+  {
+    "id": "FM-COL-004",
+    "name": "Frank Merenda's Marketing Rodeo",
+    "url": "https://open.spotify.com/show/00wIwsNHV2IcZYtUlbjVhD",
+    "real_author": "Frank Merenda",
+    "treatment": "MERENDA_PRIMARY",
+    "priority": 4,
+    "temporal_scope": "fino al 2024",
+    "status": "ACTIVE",
+    "notes": "Podcast ufficiale. Almeno 54 episodi individuati; probabile forte sovrapposizione con il corpus video storico, quindi processare per gap/dedup."
+  },
+  {
+    "id": "FM-COL-005",
+    "name": "Marketing Merenda",
+    "url": "https://marketingmerenda.com/",
+    "real_author": "Frank Merenda / archivio editoriale",
+    "treatment": "MERENDA_PRIMARY",
+    "priority": 5,
+    "temporal_scope": "circa 2016–2018",
+    "status": "ACTIVE",
+    "notes": "Archivio storico più piccolo. Usare dopo le fonti recenti, salvo gap nominabile."
+  },
+  {
+    "id": "FM-COL-006",
+    "name": "Marketing Automation Facile",
+    "url": "https://www.marketingautomationfacile.com/archive",
+    "real_author": "Moreno Bonechi",
+    "treatment": "ASSIMILATED_AS_MERENDA_BY_USER",
+    "priority": 2,
+    "temporal_scope": "2026+",
+    "status": "ACTIVE",
+    "notes": "Autore reale preservato per provenienza. Per esplicita istruzione dell'utente, il contenuto viene trattato semanticamente come parte del corpus Merenda."
+  },
+  {
+    "id": "FM-COL-007",
+    "name": "jAI Premium",
+    "url": "https://jaipremium.substack.com/archive",
+    "real_author": "Jay Abraham / Max Bernstein / Michael Simmons",
+    "treatment": "ASSIMILATED_AS_MERENDA_BY_USER",
+    "priority": 2,
+    "temporal_scope": "2025–2026+",
+    "status": "ACTIVE",
+    "notes": "Autori reali preservati per provenienza. Per esplicita istruzione dell'utente, il contenuto viene trattato semanticamente come parte del corpus Merenda."
+  },
+  {
+    "id": "FM-COL-008",
+    "name": "Luca Cazzaniga — Substack",
+    "url": "https://lucacazzaniga.substack.com/archive",
+    "real_author": "Luca Cazzaniga",
+    "treatment": "DEFERRED_EXTERNAL_GENERAL_UPDATE",
+    "priority": 9,
+    "temporal_scope": "2026+",
+    "status": "DEFERRED",
+    "notes": "Non entra nella Merenda KB. Da usare come aggiornamento generale soltanto dopo la chiusura del nuovo corpus Merenda."
+  }
+]

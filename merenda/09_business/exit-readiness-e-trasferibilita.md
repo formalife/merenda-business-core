@@ -67,3 +67,34 @@ Questo nodo non contiene formule di valutazione aziendale, consulenza M&A, regol
 - [Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md)
 - [Marketing del personale](marketing-del-personale.md)
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)
+
+
+## Gli asset devono appartenere al sistema che verrà trasferito
+
+Nel materiale del 17 gennaio 2026 Merenda aggiunge un criterio pratico alla trasferibilità: un asset importante per vendite, marketing o continuità produce valore in un'eventuale cessione solo se il compratore può **effettivamente prenderne il controllo**.
+
+Questo riguarda in particolare:
+
+- dati e storico dei clienti;
+- CRM e database;
+- proprietà intellettuale utilizzata nell'erogazione;
+- procedure e documentazione;
+- accessi, account e sistemi critici;
+- relazioni operative che non devono esistere soltanto nella memoria personale di una singola persona.
+
+Se informazioni e relazioni fondamentali restano disperse nei telefoni, account o strumenti personali di venditori, freelance o fondatore, il business appare meno trasferibile anche se sta producendo fatturato.
+
+Il principio è:
+
+**asset operativo utile → titolarità/controllo dell'impresa → documentazione/accessibilità → continuità dopo il cambio di persona.**
+
+### Il valore dipende anche dal tipo di compratore
+
+La stessa fonte distingue inoltre due logiche:
+
+- un compratore principalmente **finanziario** tende a leggere soprattutto capacità autonoma di produrre risultato e rischio;
+- un compratore **strategico** può attribuire valore aggiuntivo a sinergie, distribuzione, clienti, tecnologia o capacità che possiede già e che può combinare con l'azienda acquisita.
+
+La KB non trasforma questa distinzione in formule di valutazione o multipli universali. Resta il principio: **il valore di trasferibilità non è completamente indipendente da chi può utilizzare gli asset e da come può combinarli**.
+
+Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.
