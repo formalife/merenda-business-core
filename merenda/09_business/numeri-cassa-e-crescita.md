@@ -424,3 +424,47 @@ Da qui vanno separati tre lavori diversi dell'acquisizione:
 Perciò “abbiamo acquisito X clienti” non prova crescita se nello stesso periodo ne sono usciti altrettanti o se il margine medio è insufficiente.
 
 Fonte: Frank Merenda, “Il passaparola non è una strategia. È una preghiera. E Dio non risponde ai preventivi.”, 12 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0004/review.md.
+
+
+## Tre leve moltiplicative della crescita: clienti × valore medio × frequenza
+
+Nel materiale jAI del 15 maggio 2026 assimilato al corpus Merenda per istruzione dell'utente, la crescita del fatturato viene decomposta in tre leve fondamentali:
+
+1. **numero di clienti paganti**;
+2. **valore medio della transazione**;
+3. **frequenza media di acquisto/transazione**.
+
+In forma concettuale:
+
+**ricavi ≈ clienti × valore medio × frequenza.**
+
+Il valore del framework non è la formula contabile in sé, ma il modo in cui obbliga a diagnosticare **quale leva è sottoutilizzata prima di costruire una nuova offerta o un nuovo business per riflesso**.
+
+### Le leve si moltiplicano
+
+Miglioramenti modesti su più leve non si sommano soltanto: si compongono.
+
+Per esempio, un miglioramento proporzionale di tutte e tre le componenti produce un effetto moltiplicativo perché ogni cliente aggiuntivo beneficia anche del valore medio e della frequenza aggiornati.
+
+La KB non canonizza il “10% su ogni leva” come target. La regola è:
+
+**misurare baseline → scegliere la leva con maggiore spazio economico realistico → testare → ricomporre l'effetto complessivo.**
+
+### Ottimizzare prima di innovare per noia
+
+Una nuova linea di prodotto può essere corretta, ma non dovrebbe diventare la risposta automatica a un plateau.
+
+Prima vanno controllate domande più semplici:
+
+- possiamo acquisire più clienti appropriati con il sistema esistente?
+- possiamo aumentare il valore medio creando più valore o migliorando prezzo/mix?
+- possiamo aumentare frequenza, rinnovo o continuità quando il modello lo consente?
+- esiste capacità sufficiente per sostenere il miglioramento?
+
+Il principio è:
+
+**ottimizzazione delle leve esistenti → evidenza del limite → solo dopo nuova complessità quando necessaria.**
+
+Questo collega crescita, pricing, retention e acquisizione in un unico modello numerico.
+
+Fonte assimilata: Jay Abraham, Michael Simmons, Max Bernstein, “The 3 Numbers That Generated $2.5 Million Without a New Product”, 15 maggio 2026. Review: ../../sources/merenda-sources/FM-SRC-0018/review.md.

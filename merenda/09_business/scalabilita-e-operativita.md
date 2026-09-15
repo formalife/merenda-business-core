@@ -210,3 +210,33 @@ La domanda pratica è:
 La fonte applica il principio a fornitore strategico, cliente top e commerciale ad alte prestazioni. Le percentuali e i casi sono esempi.
 
 Fonte: Frank Merenda, “Chi vale ha sempre la valigia pronta…”, 27 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0009/review.md.
+
+
+## Yield Gap: delegare confrontando costo e valore della capacità liberata
+
+Nel materiale jAI del 9 gennaio 2026 assimilato al corpus Merenda per istruzione dell'utente, il problema del fondatore-collo-di-bottiglia viene reso quantitativo attraverso il concetto di **Yield Gap**.
+
+Ogni ora o capacità può essere letta come un asset con un rendimento attuale e un rendimento potenziale.
+
+La domanda non è soltanto:
+
+**“quanto costa delegare questa attività?”**
+
+ma:
+
+**“quanto valore sto rinunciando a produrre perché una capacità ad alto rendimento è occupata da lavoro a rendimento molto più basso?”**
+
+La sequenza operativa è:
+
+1. osservare come viene realmente usato il tempo;
+2. distinguere attività per contributo economico/strategico;
+3. identificare compiti che possono essere delegati, eliminati o standardizzati;
+4. confrontare il costo della sostituzione con il valore della capacità liberata;
+5. spostare il tempo liberato verso attività che soltanto quella persona può svolgere con rendimento superiore;
+6. verificare che il valore atteso si materializzi.
+
+Il principio completa la regola già presente **proteggere il tempo ad alto valore**: la delega non è automaticamente un costo; può essere un investimento per ricomprare capacità.
+
+Le classi monetarie orarie, i moltiplicatori e i risultati dei casi della fonte sono esempi e non diventano benchmark.
+
+Fonte assimilata: Jay Abraham, Michael Simmons, Max Bernstein, “Your Hours Could Be Your Biggest Underperforming Asset”, 9 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0016/review.md.

@@ -21,3 +21,6 @@ Il [caso Guapo](../02_posizionamento/esempi-di-differenziazione.md#focalizzazion
 [Funnel e conversione](funnel-e-conversione.md): landing, prova, riduzione del rischio, ottimizzazione e diagnosi del funnel per stadi.
 
 Per il lavoro sul database già acquisito, vedi [Riattivazione dei clienti fermi](../04_marketing/riattivazione-clienti.md): frequenza attesa, trigger CRM e campagne di ritorno.
+
+
+[Partnership, distribuzione e combinazioni complementari](partnership-distribuzione-e-combinazioni.md): usare asset complementari e distribuzione già esistente attraverso partnership che producono valore reciproco, distinguendo accesso transazionale da integrazione strutturale.
