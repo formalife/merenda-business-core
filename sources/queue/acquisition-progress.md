@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:48:40.279973+00:00
+Ultimo aggiornamento: 2026-09-15T08:48:51.659643+00:00
 
 Batch: 25 video
-Completati tecnicamente: 19/25
+Completati tecnicamente: 20/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -26,7 +26,7 @@ Completati tecnicamente: 19/25
 | 17 | GUolZGprkP8 | BUDGET per MARKETING \| Come capire quanto investire per il Paccone? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 18 | GdSf3-b_aIQ | 🔴 Why Delegating Strategic Marketing Is Your Most Costly MISTAKE | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 19 | oqoMqLQl9G4 | How to Make Your Seasonal Business a Steady Source of Income | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 20 | 5FEOsDJ5HAU | How to Tackle a Business Crisis and Turn It Into an Opportunity in 5 Simple Steps | PENDING |  |
+| 20 | 5FEOsDJ5HAU | How to Tackle a Business Crisis and Turn It Into an Opportunity in 5 Simple Steps | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | yZsBzaiH_Ic | Franchising: Opportunità o Trappola? Come Espandere La Tua Azienda Senza Farti Male | PENDING |  |
 | 22 | 2tWslHOkxIc | Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo | PENDING |  |
 | 23 | v2LEVo40O_w | Come Generare Flusso di Cassa In Anticipo Nella Tua Azienda | PENDING |  |
