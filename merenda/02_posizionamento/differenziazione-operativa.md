@@ -298,3 +298,30 @@ Merenda collega la difendibilità soprattutto a ciò che richiede tempo per esse
 Il principio non è che la tecnologia non conti. È che **la tecnologia accessibile a tutti non sostituisce automaticamente una ragione specifica per scegliere un'impresa**.
 
 Fonte: Frank Merenda, “Il Positioning è ancora rilevante nell'epoca dell'AI?”, 13 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0006/review.md.
+
+
+## I canali sono megafoni: il posizionamento determina l'economia di ciò che amplificano
+
+Nella “Lezione zero” del 16 luglio 2026 Merenda formula il rapporto fra posizionamento e canali in modo più netto: pubblicità, social, video, influencer, ricerca, fiere, referral e risposta diretta **amplificano o trasmettono ciò che l'impresa è già riuscita a rendere distinguibile**; non creano da soli una ragione per essere scelta.
+
+La conseguenza economica più importante riguarda il marketing a risposta diretta.
+
+Un sistema di direct response ben eseguito può inizialmente produrre risultati anche senza una posizione forte, perché offerta, follow-up e meccanica superano concorrenti meno organizzati. Ma la fonte descrive tre fragilità nel tempo:
+
+1. la meccanica è copiabile più rapidamente di una posizione costruita;
+2. in asta l'acquisizione tende a diventare più costosa se l'impresa converte e monetizza come un concorrente generico;
+3. il cliente conquistato soprattutto dall'offerta può non avere una ragione specifica per preferire la stessa azienda al riacquisto.
+
+La distinzione canonica diventa:
+
+**posizionamento → decide che cosa deve restare nella mente e perché scegliere**
+
+**canale/direct response → distribuisce, misura e converte quella ragione**
+
+**vendita → conferma e personalizza la ragione nella trattativa.**
+
+Nessuno dei tre livelli sostituisce gli altri.
+
+La fonte aggiunge anche un test semplice del posizionamento percepito: chiedere a clienti reali **perché hanno comprato dall'azienda e non da un'alternativa**, senza suggerire la risposta. Risposte convergenti e specifiche indicano un'associazione più chiara; risposte vaghe o completamente disperse segnalano una posizione debole o non condivisa.
+
+Fonte: Frank Merenda, “Il Posizionamento: Lezione zero”, 16 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0010/review.md.

@@ -223,3 +223,38 @@ Fonte precedente: [Come vendere fornendo la prova](https://www.youtube.com/watch
 - [Differenziazione operativa](../02_posizionamento/differenziazione-operativa.md)
 - [Prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md)
 - [Autorità e marketing](../08_brand/autorita-e-marketing.md)
+
+
+## Tre certezze: prodotto, venditore e azienda
+
+Nel dossier del 6 febbraio 2026 Merenda recupera dal metodo Straight Line una struttura diagnostica che considera riusabile anche fuori dal contesto originario, purché venga separata da menzogna, coercizione e falsa certezza.
+
+Prima della decisione il prospect deve avere un livello sufficiente di fiducia in tre oggetti distinti:
+
+1. **prodotto/soluzione** — deve credere che la proposta sia adatta al problema;
+2. **venditore/professionista** — deve fidarsi della competenza, intenzione e capacità di guidarlo;
+3. **azienda** — deve credere che l'organizzazione manterrà promessa, erogazione e assistenza.
+
+Un'obiezione vaga come “ci devo pensare” non viene quindi trattata automaticamente come un'obiezione sul prezzo. Può indicare che uno dei tre pilastri è ancora debole.
+
+La sequenza diagnostica diventa:
+
+**obiezione → isolare ciò che il cliente considera già valido → individuare il pilastro di certezza insufficiente → tornare alle prove pertinenti → nuova verifica.**
+
+Merenda descrive questo ritorno come **looping**. La KB non conserva l'idea di ripetere pressione finché il cliente cede. Il loop utile serve a riaprire la diagnosi e completare informazioni/prove mancanti.
+
+### Certezza reale, non recitata
+
+La fonte insiste su un confine: tono, script e struttura possono amplificare la fiducia soltanto quando poggiano su competenza e promessa sostenibile.
+
+**struttura di vendita + valore reale → chiarezza e fiducia**
+
+non:
+
+**struttura di vendita → capacità di rendere vera una promessa falsa.**
+
+Nei business basati su retention, referral e reputazione locale, Merenda considera più robusta la vendita consulenziale: capire il cliente, diagnosticare e guidare una decisione lucida invece di massimizzare la singola chiusura attraverso pressione.
+
+Le ricostruzioni storiche, le percentuali e le affermazioni sui protagonisti del dossier non vengono trasformate in conoscenza autonoma della KB; viene canonizzato soltanto il modello che Frank estrae dalla fonte.
+
+Fonte: Frank Merenda, “Il Dossier Jordan Belfort: Autopsia forense del metodo di vendita più copiato (e meno capito) del mondo”, 6 febbraio 2026. Review: ../../sources/merenda-sources/FM-SRC-0007/review.md.

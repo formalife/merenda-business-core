@@ -182,3 +182,31 @@ Il risultato non è “il fondatore deve sparire”, ma una mappa empirica dei p
 **assenza programmata → rotture visibili → documentazione/delega → nuovo test → minore dipendenza personale.**
 
 Fonte: Frank Merenda, “Manuale non autorizzato per imprenditori che partono DAVVERO da Zero”, 17 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0001/review.md.
+
+
+## Un nodo critico va anche trattenuto, non soltanto sostituito
+
+Nel materiale del 27 aprile 2026 Merenda estende la logica dei single point of failure a clienti, fornitori e persone chiave che possiedono **alternative reali**.
+
+La dipendenza va gestita su due fronti:
+
+1. **resilienza** — ridurre la possibilità che la perdita del nodo paralizzi l'impresa;
+2. **retention economica** — evitare di distruggere una relazione di alto valore per ottenere un vantaggio locale molto più piccolo del costo di sostituzione.
+
+Prima di ottimizzare una singola trattativa è quindi utile stimare:
+
+- contributo economico del nodo;
+- unicità della capacità o relazione;
+- tempo/costo realistico di sostituzione;
+- alternative disponibili alla controparte;
+- concentrazione del rischio.
+
+Questo non significa concedere condizioni illimitate a chi è importante. Significa non trattare automaticamente come intercambiabile ciò che, nei fatti, non lo è.
+
+La domanda pratica è:
+
+**quanto sto risparmiando nella trattativa rispetto a quanto mi costerebbe perdere e ricostruire questa capacità?**
+
+La fonte applica il principio a fornitore strategico, cliente top e commerciale ad alte prestazioni. Le percentuali e i casi sono esempi.
+
+Fonte: Frank Merenda, “Chi vale ha sempre la valigia pronta…”, 27 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0009/review.md.

@@ -121,3 +121,26 @@ Fonte più recente: [How to Create a Marketing Funnel That Works (Even on a Limi
 - [Information marketing](information-marketing.md)
 - [Database, email e sequenze di relazione](database-email-e-sequenze.md)
 - [Numeri, cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md)
+
+
+## Prima di comprare altro traffico, correggere il collo di bottiglia
+
+Nel materiale del 31 marzo 2026 Merenda rende esplicita una regola di allocazione già implicita nella diagnosi per stadi del funnel.
+
+Quando il sistema genera opportunità ma una quota rilevante si perde in un passaggio successivo, aumentare il traffico a monte può semplicemente **moltiplicare lo spreco**.
+
+La sequenza è:
+
+1. misurare quanti prospect entrano in ogni passaggio;
+2. individuare dove si concentra il drop-off;
+3. capire se l'attrito deriva da complessità, tempi, mancata presa in carico, vendita, processo o altra causa;
+4. correggere e misurare di nuovo;
+5. aumentare il traffico soltanto quando il passaggio limitante ha capacità sufficiente.
+
+Una leva particolarmente importante è la conversione commerciale: a parità di lead, aumentare il tasso di chiusura può produrre più clienti senza aumentare la spesa di acquisizione. Ma la stessa logica vale per gli altri passaggi: il collo di bottiglia va identificato, non presunto.
+
+La fonte usa Starbucks come caso e riporta percentuali specifiche. Questi numeri restano esempio; il principio canonico è:
+
+**prima migliorare la resa della domanda già generata → poi scalare la domanda a monte.**
+
+Fonte: Frank Merenda, “Il 15% che ti sta uccidendo (e non è dove pensi)”, 31 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0008/review.md.
