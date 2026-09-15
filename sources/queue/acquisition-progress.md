@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:47:39.390363+00:00
+Ultimo aggiornamento: 2026-09-15T08:47:44.938966+00:00
 
 Batch: 25 video
-Completati tecnicamente: 11/25
+Completati tecnicamente: 12/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -18,7 +18,7 @@ Completati tecnicamente: 11/25
 | 9 | DgbZMAqw4NY | REPUTAZIONE DEL BRAND \| Come EVITARE ERRORI e gestire la crisi | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | N547HVgrQmk | Proteggere il BRAND da Joint Venture nocive | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 11 | Hs8y1wNyamo | THE ideal SALES PROCESS for generating TARGETED clients | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 12 | 7tWAsKiB0-Q | MARKETING \| The Sales Letter in an Envelope Structure | PENDING |  |
+| 12 | 7tWAsKiB0-Q | MARKETING \| The Sales Letter in an Envelope Structure | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | qX8bJHUIDjI | Marketing Strategies \| Dan Kennedy's 3 Steps to Increase Sales | PENDING |  |
 | 14 | fpX3evEGoHY | [Tecniche di Vendita] Come vendere fornendo la prova | PENDING |  |
 | 15 | kGEOki4orFg | [Tecniche di Vendita] Perchè utilizzare il sistema Plug and Play | PENDING |  |
