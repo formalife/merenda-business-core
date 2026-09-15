@@ -203,6 +203,20 @@ Fonte più recente: [Ho Già Provato e Non Ha Funzionato — La Scusa che Distru
 
 Fonte: [Una PMI può vincere sul mercato?](https://www.youtube.com/watch?v=bHxjwGQQoUw), 7 giugno 2024. [Revisione](../../sources/transcripts/bHxjwGQQoUw.review.md).
 
+## La diagnosi può appoggiarsi a misure indipendenti
+
+Nel materiale del 1 dicembre 2017 Merenda mostra un caso in cui un test o uno strumento di misura rende visibile il problema prima della prescrizione.
+
+Il principio riusabile è:
+
+**misura/evidenza → interpretazione → diagnosi → prescrizione.**
+
+Quando esiste una misura pertinente, questa può ridurre il peso della sola opinione del venditore e rendere più comprensibile perché la proposta segue dalla diagnosi.
+
+La fonte usa anche una formulazione sull'apparire “scientifici” che la KB non conserva. Test, strumenti, certificazioni e dati devono essere **validi, pertinenti e rappresentati onestamente**. Creare una falsa apparenza scientifica non è prova.
+
+Fonte precedente: [Come vendere fornendo la prova](https://www.youtube.com/watch?v=fpX3evEGoHY), 1 dicembre 2017. [Revisione](../../sources/transcripts/fpX3evEGoHY.review.md).
+
 ## Collegamenti
 
 - [Prequalifica, follow-up e decisori](prequalifica-follow-up-decisori.md)

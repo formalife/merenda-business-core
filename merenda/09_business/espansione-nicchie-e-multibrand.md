@@ -173,6 +173,29 @@ La crescita avviene quando il titolare smette progressivamente di misurare il pr
 
 Il lavoro imprenditoriale è costruire sistemi e offerte che risolvano problemi del mercato in modo vendibile e ripetibile.
 
+## Prima di replicare una sede, rendere replicabile il sistema
+
+Nel materiale del 27 novembre 2024 Merenda usa il franchising come test estremo di replicabilità: l'affiliato non dovrebbe comprare soltanto un'insegna, ma un sistema che riduce il numero di decisioni da reinventare.
+
+Prima di aprire o affidare una nuova unità servono quindi, in misura coerente con il modello:
+
+- economics del core già dimostrati;
+- procedure operative trasferibili;
+- criteri per scegliere territorio e posizione;
+- un piano di lancio locale;
+- attività di marketing ricorrente e relativo livello minimo di investimento;
+- formazione commerciale;
+- un mix di marketing testato abbastanza da poter essere insegnato e controllato;
+- meccanismi di raccolta dati, front-end e monetizzazione già compresi.
+
+Il principio vale anche fuori dal franchising:
+
+**prima rendere il modello leggibile e ripetibile → poi replicare la struttura.**
+
+Un brand forte può aiutare il lancio, ma non sostituisce location, marketing locale, vendita e procedure. Allo stesso modo una nuova unità non deve diventare l'esperimento con cui si scopre se il primo modello funziona.
+
+Fonte: [Franchising: Opportunità o Trappola? Come Espandere La Tua Azienda Senza Farti Male](https://www.youtube.com/watch?v=yZsBzaiH_Ic), 27 novembre 2024. [Revisione](../../sources/transcripts/yZsBzaiH_Ic.review.md).
+
 ## Ordine operativo
 
 1. Scegliere una nicchia iniziale profittevole.

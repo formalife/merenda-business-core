@@ -86,6 +86,26 @@ La durata temporale citata nel video è un esempio della sua pratica, non una so
 
 Fonte: [Errori di Assunzione? Frank Merenda Ti Dice La VERITÀ Brutale](https://www.youtube.com/watch?v=5awWbxibHIE), 13 ottobre 2025. [Revisione](../../sources/transcripts/5awWbxibHIE.review.md).
 
+## Progettare il ruolo prima di cercare il candidato
+
+Nel materiale del 15 novembre 2024 Merenda distingue la scarsità reale di candidati da un problema creato internamente: cercare una persona che dovrebbe ricoprire contemporaneamente più mestieri.
+
+Prima della campagna di recruiting bisogna quindi:
+
+1. elencare le responsabilità realmente necessarie;
+2. separare ruoli che richiedono competenze diverse;
+3. decidere quale singolo risultato principale la persona deve produrre;
+4. cercare attitudine e capacità di apprendere coerenti con quel ruolo;
+5. formare la persona nel processo specifico dell'azienda.
+
+Nelle piccole aziende un collaboratore storico può aver accumulato negli anni funzioni eterogenee. Quando esce, cercare sul mercato un clone identico può essere impossibile perché quel “ruolo” non esiste realmente come mestiere unitario.
+
+La risposta è riprogettare l'organigramma e specializzare progressivamente le responsabilità, compatibilmente con economics e volume.
+
+La fonte del 13 ottobre 2025 resta più recente per la fase successiva: osservare la persona sul lavoro reale e confermare o interrompere l'inserimento in base a risultati e comportamenti.
+
+Fonte precedente: [Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo](https://www.youtube.com/watch?v=2tWslHOkxIc), 15 novembre 2024. [Revisione](../../sources/transcripts/2tWslHOkxIc.review.md).
+
 ## Collegamenti
 
 - [Scalabilità e uscita dall'operatività](scalabilita-e-operativita.md)

@@ -17,3 +17,5 @@ Nel [caso CosMc's](../02_posizionamento/esempi-di-differenziazione.md#cosmcs-ste
 [Partire da zero: competenze prima del capitale](partire-da-zero.md): immersione nel settore, vendita, skill imprenditoriali e verifica del modello prima di cercare finanziamenti.
 
 [Marketing del personale](marketing-del-personale.md): trattare recruiting e proposta di lavoro come target, offerta, campagna e conversione, poi sostenere la retention con struttura e condizioni credibili.
+
+[Retention, onboarding e customer success](retention-onboarding-e-customer-success.md): progettare onboarding, uso, supporto, feedback e correzione continua per ridurre churn evitabile e aumentare il valore reale della relazione.

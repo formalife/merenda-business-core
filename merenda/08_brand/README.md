@@ -11,3 +11,5 @@
 La sezione crescerà con i successivi contenuti su brand e posizionamento. Il concetto di autorità è collegato al brand ma non viene trattato come sinonimo perfetto.
 
 Il documento sull'[autorità e marketing](autorita-e-marketing.md#come-il-cliente-costruisce-una-decisione) include anche il modello decisionale: forza del brand, reputazione online e reputazione/passaparola reale.
+
+[Reputazione e crisis management](reputazione-e-crisis-management.md): mappare stakeholder e rischi, evitare risposte impulsive e trasformare responsabilità e rimedio in correzione sistemica.

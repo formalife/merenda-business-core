@@ -376,6 +376,22 @@ Per il nuovo entrante la conseguenza è doppia:
 
 Fonte: [Perché i Clienti Non Comprano da Te](https://www.youtube.com/watch?v=h-ngxN8kYPc), 21 aprile 2026. [Revisione](../../sources/transcripts/h-ngxN8kYPc.review.md).
 
+## Le associazioni trasferiscono anche rischio reputazionale
+
+Nel materiale del 4 dicembre 2022 Merenda richiama il lato negativo dell'associazione di autorità: partner, joint venture, eventi e persone con cui il brand si lega non trasferiscono soltanto credibilità; possono trasferire anche incoerenza o rischio reputazionale.
+
+Prima di associare pubblicamente il brand a un soggetto o progetto conviene quindi valutare:
+
+- coerenza con il posizionamento;
+- reputazione e comportamenti osservabili del partner;
+- effetto probabile sui clienti e stakeholder rilevanti;
+- dipendenza che la collaborazione crea;
+- rapporto fra ricavo immediato e possibile erosione di fiducia nel tempo.
+
+Il principio non è rifiutare le joint venture. È evitare che un'opportunità economicamente attraente nel breve periodo compri fatturato al prezzo di indebolire il brand.
+
+Fonte precedente: [Proteggere il BRAND da Joint Venture nocive](https://www.youtube.com/watch?v=N547HVgrQmk), 4 dicembre 2022. [Revisione](../../sources/transcripts/N547HVgrQmk.review.md).
+
 ## Collegamenti
 
 - [Marketing first e principi di progettazione](../00_fondamenti/marketing-first.md)

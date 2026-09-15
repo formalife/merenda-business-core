@@ -260,6 +260,22 @@ Prima dell'acquisto il prospect può avere soltanto **segnali di fiducia**:
 
 La comunicazione deve quindi rendere visibili questi segnali abbastanza da permettere il primo atto di fiducia.
 
+## Mappare le conseguenze reali prima di scrivere
+
+Nel materiale del 22 agosto 2019 Merenda propone un esercizio per evitare che il copy resti fermo alla descrizione tecnica del problema.
+
+Si parte da un problema reale del target e si mappano le conseguenze che può produrre nelle aree effettivamente collegate: lavoro, tempo, denaro, relazioni, rischio o altri effetti pertinenti al mercato concreto.
+
+La sequenza utile è:
+
+**problema reale → conseguenze a valle → selezione delle conseguenze rilevanti e supportabili → stato desiderato → soluzione → CTA.**
+
+Nella vendita individuale il venditore può chiedere quale conseguenza pesa davvero su quella persona. Nel copy one-to-many bisogna invece anticipare più conseguenze plausibili senza fingere che valgano tutte per tutti.
+
+La fonte usa anche un linguaggio di “drammatizzazione”. La KB non lo trasforma in licenza ad amplificare artificialmente paura o danno: si comunicano soltanto conseguenze reali, proporzionate e sostenibili.
+
+Fonte precedente: [Ghiaccio agli Eschimesi — Copywriting a Risposta Diretta, parte 2](https://www.youtube.com/watch?v=DTIhYJnLyGs), 22 agosto 2019. [Revisione](../../sources/transcripts/DTIhYJnLyGs.review.md).
+
 ## Collegamenti
 
 - [Autorità prima di acquisizione e vendita](../08_brand/autorita-e-marketing.md)

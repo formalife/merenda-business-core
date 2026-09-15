@@ -2,61 +2,79 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**. Checkpoint **275 chiuso**. **Batch tecnico ottimizzato 276–300 completato** sul branch `acquisition-276-300`, dalla base canonica `81b0829bf99427ae5c46db8f33346fdab3d6c8ef`. Nessun merge su main. Corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Il batch ottimizzato **276–300 è chiuso semanticamente** sul branch `semantic-276-300`. Il checkpoint **300 richiede ora CLAUDE CODE — FASE 14 + FASE 15**. Corpus Merenda ancora non dichiarato completo.
 
 ## Fase corrente
 
-**FASE 7 — acquisizione tecnica 276–300 completata.** 25/25 ACQUIRED, 25 transcript utilizzabili: **2 italiani manuali e 23 automatici it-orig**, nessun fallback ASR, NO_IT_TRANSCRIPT, ERROR finale o PENDING. Metadata del canale ufficiale verificati; confronto integrale JSON3↔Markdown e copertura temporale verificati; keyframe selettivi e limiti nel report tecnico.
+Revisione semantica **276–300 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO.
 
-Report: `sources/queue/acquisition-progress.md`. `sources/queue/next-batch.txt` contiene esattamente i 25 URL 276–300 nel nuovo ordine.
+Weighted Novelty del batch:
+
+- peso 2: **4**
+- peso 1: **9**
+- peso 0: **12**
+- totale pesato: **17/50**
+- contenuti realmente incrementali: **13/25 = 52%**
+
+Il batch conferma che la riprioritizzazione per information gain ha ancora rendimento sufficiente, ma non autorizza a processare automaticamente tutti i residui: la decisione successiva spetta al checkpoint 300 dopo FASE 14 + FASE 15.
 
 ## Corpus
 
 - Video individuati: **468**
-- Contenuti processati semanticamente: **275**
-- STUDIATO / integrati o deduplicati: **269**
+- Contenuti processati semanticamente: **300**
+- STUDIATO / integrati o deduplicati: **294**
 - ESCLUSO dalla dottrina attiva: **6**
-- Da processare: **193**
+- Da processare: **168**
 - Corpus completo: NO
-- Batch 276–300 tecnicamente pronto: **25**, ancora tutti **DA STUDIARE**
-- **Nessun contenuto marcato STUDIATO o ESCLUSO in questa task. Semantica ferma a 275.**
+- 301 — `asMedYJtd4I` resta **DA STUDIARE**
+- Nessun contenuto 301+ processato semanticamente in questo batch
 
-## Ordine operativo e limite
+## Nuovi nodi canonici
 
-Fonte operativa: `reviews/RESIDUAL_REPRIORITIZATION_276-468.md`.
-Nuovo batch: 15 MUST STUDY + 10 TARGETED, selezione verificata programmaticamente 25/25.
-La vecchia `reviews/RESIDUAL_CLASSIFICATION_201-468.md` resta storica.
-STOP tecnico a **300**; nessuna acquisizione del nuovo 301 o successivi.
+1. `merenda/07_copy_comunicazione/copy-posizionamento-e-temperatura-traffico.md`
+2. `merenda/08_brand/reputazione-e-crisis-management.md`
+3. `merenda/09_business/retention-onboarding-e-customer-success.md`
 
-## Validazione
+Altri contenuti incrementali sono stati fusi nei nodi esistenti secondo MERGE, NOT APPEND.
 
-Validator prima/dopo: **842 warning storici**, output identico:
-836 `Ordine/stato incoerente`, 3 `File congelato modificato`, 3 `Contatore STATUS errato`.
-Nessun riallineamento di catalogo o VIDEO_INDEX. Frozen, KB, review esistenti, queue, riprioritizzazione e script invariati. Nessuna nuova `.review.md`.
+## Novelty recente
+
+- Batch 226–250: **16/25 = 64%**
+- Batch 251–275: **11/25 = 44%**
+- Batch ottimizzato 276–300: **13/25 = 52%**, Weighted Novelty **17/50**
+
+L'information gain è risalito rispetto al batch precedente, ma una parte rilevante del materiale selezionato resta già assorbita da fonti più recenti. Il prossimo passo non è ancora un nuovo batch: prima va eseguito l'audit globale del checkpoint 300.
+
+## Validazione attesa
+
+La baseline tecnica era **842 warning storici**: 836 `Ordine/stato incoerente`, 3 `File congelato modificato`, 3 `Contatore STATUS errato`.
+
+La revisione semantica aggiorna stato/categoria per ID senza riallineare fuori scope l'ordine storico di catalogo/VIDEO_INDEX/queue. I file frozen non vengono modificati.
 
 ## Workflow attivo
 
-- CODEX: acquisizione tecnica e supporto meccanico.
+- CODEX: acquisizione tecnica.
 - CHATGPT: revisione semantica e fasi 8–13.
-- CLAUDE CODE: FASE 14 ogni 25; FASE 14 + 15 ogni 50.
-- L’acquisizione non equivale a completamento semantico.
+- CLAUDE CODE: FASE 14 ogni 25; FASE 14 + FASE 15 ogni 50.
+- A/B/C = profondità di review.
+- Information Priority = ordine adattivo di acquisizione.
+- C = FAST REVIEW, mai SKIP.
 
 ## Checkpoint
 
 - Ultimo refactor KB completato: **275 — FASE 14**
 - Ultimo audit tassonomia completato: **250 — FASE 15**
-- Prossimo checkpoint Claude: **300 — FASE 14 + FASE 15**
-- Checkpoint Claude richiesto ora: **NO**
+- Soglia semantica raggiunta: **300**
+- Checkpoint richiesto ora: **CLAUDE CODE — FASE 14 + FASE 15**
 
 ## Agente richiesto
 
-**CHATGPT**
+**CLAUDE CODE**
 
 ## Next Action
 
-**Revisione semantica 276–300, fasi 8–13 + Weighted Novelty.**
-Iniziare da **276 — `KipX0tAAWr4`**, terminare con **300 — `Fo8PB_7fE60`**.
+Eseguire il checkpoint **300 — FASE 14 + FASE 15**.
 
-La semantica è ancora ferma a **275**. Dopo la revisione, passare a Claude per il checkpoint **300 — FASE 14 + FASE 15**.
+Claude deve refactorare la KB con MERGE, NOT APPEND, auditare tassonomia e saturazione residua, verificare in particolare i tre nuovi nodi del batch e stabilire se il rendimento **13/25 = 52%, Weighted 17/50** giustifica un altro batch TARGETED o se conviene restringere ulteriormente ai gap.
 
-Non decidere automaticamente il batch successivo: la decisione dopo 300 dipenderà dalla **Weighted Novelty** misurata nella fase semantica, secondo il report di riprioritizzazione. Nessuna novelty analysis eseguita da Codex.
+**Non acquisire né processare semanticamente 301+ durante il checkpoint.**

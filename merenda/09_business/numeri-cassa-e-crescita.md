@@ -180,6 +180,46 @@ L'esempio dell'estetica è settoriale; il principio trasferibile riguarda la ges
 
 Fonte precedente: [Marketing nei Centri Estetici — Puoi eliminare l'estetica di Base?](https://www.youtube.com/watch?v=qQBDw9iCsyU), 11 agosto 2022. [Revisione](../../sources/transcripts/qQBDw9iCsyU.review.md).
 
+## Mappare picchi e valli della capacità
+
+Nel materiale dell'11 marzo 2025 Merenda rende sistematico il problema già presente nella distinzione fra margine e capacità inutilizzata.
+
+La domanda non è soltanto quanta capacità abbia l'azienda in media. Bisogna osservare **quando** resta vuota.
+
+La mappa può essere costruita su più scale:
+
+- stagioni;
+- mesi;
+- giorni della settimana;
+- fasce della giornata.
+
+Il passaggio operativo è:
+
+**capacità disponibile → picchi naturali → valli → costo della capacità inattiva → campagna/offerta per la valle → nuova misura dell'utilizzo.**
+
+Il marketing non deve necessariamente spingere altra domanda proprio quando il business è già naturalmente saturo. Può essere più utile progettare motivi d'acquisto, offerte e segmenti adatti ai periodi sottoutilizzati.
+
+Non ogni valle può o deve essere eliminata. Restano vincoli margine incrementale, costo opportunità, personale, qualità dell'erogazione e domanda realisticamente attivabile.
+
+Fonte: [Come Rendere Il Tuo Business Stagionale Una Fonte Di Reddito Costante](https://www.youtube.com/watch?v=oqoMqLQl9G4), 11 marzo 2025. [Revisione](../../sources/transcripts/oqoMqLQl9G4.review.md).
+
+## Anticipare e stabilizzare il cash flow
+
+Nel materiale del 14 agosto 2024 Merenda riunisce quattro famiglie di leve che possono migliorare la velocità e la continuità degli incassi:
+
+1. **aumentare il valore per cliente** con prodotti aggiuntivi pertinenti;
+2. **aggiungere servizi** che completano l'offerta e possono estendere la relazione;
+3. **anticipare l'incasso**, per esempio con pagamento anticipato incentivato o, quando appropriato, finanziamento di terzi che separa la rateizzazione del cliente dal momento in cui l'impresa incassa;
+4. **costruire continuità/ricorrenza** quando prodotto o servizio hanno una ragione reale per essere acquistati periodicamente.
+
+Il principio economico è:
+
+**più valore utile per relazione + incasso più rapido + quota ricorrente sostenibile → minore pressione di cassa e maggiore capacità di reinvestimento.**
+
+Non è una prescrizione di scontare sempre, finanziare sempre o trasformare ogni acquisto in abbonamento. Ogni leva deve reggere su margine, rischio, diritto applicabile, cancellabilità e reale utilità per il cliente.
+
+Fonte: [Come Generare Flusso di Cassa In Anticipo Nella Tua Azienda](https://www.youtube.com/watch?v=v2LEVo40O_w), 14 agosto 2024. [Revisione](../../sources/transcripts/v2LEVo40O_w.review.md).
+
 ## Acquisizione B2B, lifetime value e finestra temporale
 
 Nel caso Il Toro, Merenda richiama la necessità di giudicare una campagna B2B non soltanto dal fatturato immediato dei primi ordini, ma dal valore economico prodotto dai clienti acquisiti nel tempo.

@@ -117,6 +117,22 @@ La KB conserva il principio organizzativo e di trasparenza; non trasforma il vid
 
 Fonte: [Movimento FIRE — Come Smettere di Lavorare?](https://www.youtube.com/watch?v=Cv2pCRKIMx4), 25 giugno 2022. [Revisione](../../sources/transcripts/Cv2pCRKIMx4.review.md).
 
+## Stress-testare i punti fragili prima della crisi
+
+Il principio del single point of failure può essere usato anche in modo preventivo.
+
+Nel materiale dell'11 dicembre 2024 Merenda suggerisce di simulare la perdita di un elemento importante — un cliente, una linea di ricavo, un fornitore, una persona o altra risorsa critica — e chiedere come l'azienda ricomporrebbe operatività e fatturato.
+
+Il ciclo è:
+
+**dipendenza critica → scenario di perdita → piano B → risorse/sostituzioni necessarie → azioni preventive → nuova verifica.**
+
+Lo stress test serve a far emergere fragilità quando c'è ancora tempo per correggerle. Non richiede creare artificialmente danni né duplicare ogni costo.
+
+Le percentuali e gli scenari del video sono esempi; ogni azienda deve scegliere shock coerenti con le proprie concentrazioni reali.
+
+Fonte: [Come Affrontare Una Crisi Aziendale E Trasformarla In Opportunità In 5 Semplici Passi](https://www.youtube.com/watch?v=5FEOsDJ5HAU), 11 dicembre 2024. [Revisione](../../sources/transcripts/5FEOsDJ5HAU.review.md).
+
 ## Collegamenti
 
 - [Patrimonializzazione e reinvestimento](patrimonializzazione-e-reinvestimento.md)
