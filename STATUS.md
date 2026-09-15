@@ -2,15 +2,15 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Checkpoint **300 — FASE 14 + FASE 15 chiuso** e verificato. Decisione attiva: **B — continuare Merenda solo su gap mirati**.
+ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Checkpoint **300 — FASE 14 + FASE 15 chiuso**. Decisione attiva: **B — continuare Merenda solo su gap mirati**.
 
 ## Fase corrente
 
-Selezione post-checkpoint dei 59 TARGETED completata. È stato definito un **micro-batch mirato 301–310 di 10 contenuti**, senza acquisizione o revisione semantica.
+**FASE 7 micro-batch mirato 301–310 completata tecnicamente.**
 
-Report operativo: `reviews/TARGETED_GAP_SELECTION_301-310.md`.
+Codex ha completato i 10 commit di acquisizione prima dell'esaurimento del credito; ChatGPT ha verificato sul remoto la presenza degli asset e chiuso l'handoff tecnico.
 
-La queue riordina soltanto i 168 residui per portare i 10 selezionati in testa; righe 1–300 e tutti gli stati restano invariati.
+Semantica ancora ferma a **300**.
 
 ## Corpus
 
@@ -19,56 +19,41 @@ La queue riordina soltanto i 168 residui per portare i 10 selezionati in testa; 
 - STUDIATO: **294**
 - ESCLUSO: **6**
 - DA STUDIARE: **168**
-- Corpus completo: NO
-- Nessun contenuto 301+ ancora acquisito o studiato dopo il checkpoint 300
+- Acquisiti tecnicamente nel micro-batch 301–310: **10/10**
+- Nessun 311+ acquisito in questo batch
 
-## Micro-batch 301–310
+## Micro-batch acquisito
 
-1. `GFrT89AGv50` — exit/readiness e trasferibilità dell'impresa
-2. `rEtbwMHdJcM` — crisis/reputation case 2025, test di prevalenza
-3. `phMz5WxmXRo` — marketing/governance nell'azienda familiare
-4. `49CpCqYaXFA` — fondi/investitori e governance del capitale
-5. `RM9YvT6K9IQ` — selezione dei collaboratori
-6. `8uQMbmRHUmk` — collaboratore dannoso/performance
-7. `eGt2WUGelbU` — caso clinica medica
-8. `LtFeqet7OFc` — Gelateria Wally, 3 settembre 2025
-9. `dftLQTuK0cY` — Cammi Gomme, 20 agosto 2025
-10. `wDRHWHNHP5c` — Europa 92/Pavarotti, 6 agosto 2025
+1. `GFrT89AGv50`
+2. `rEtbwMHdJcM`
+3. `phMz5WxmXRo`
+4. `49CpCqYaXFA`
+5. `RM9YvT6K9IQ`
+6. `8uQMbmRHUmk`
+7. `eGt2WUGelbU`
+8. `LtFeqet7OFc`
+9. `dftLQTuK0cY`
+10. `wDRHWHNHP5c`
 
-Prior Weighted Novelty attesa: **13/20**; non è un risultato, ma un'ipotesi di selezione da validare semanticamente.
+## Integrità tecnica
 
-## Residui TARGETED
-
-- SELECTED ora: **10**
-- RESERVE: **12**
-- HOLD all'interno dei TARGETED: **37**
-- TARGETED totali FASE15: **59**
-- LOW/DEFER: **109**
-
-La Information Priority FASE15 non cambia: questa è soltanto una selezione operativa interna ai TARGETED.
-
-## Workflow attivo
-
-- CODEX: acquisizione tecnica.
-- CHATGPT: revisione semantica e Weighted Novelty.
-- CLAUDE CODE: checkpoint governance secondo soglie canoniche.
-- Non usare più batch sequenziali da 25 per inerzia.
-
-## Checkpoint
-
-- Ultimo refactor KB: **300 — FASE 14**
-- Ultimo audit tassonomia: **300 — FASE 15**
-- Nessun checkpoint Claude richiesto a 310
-- Se il progetto arriva a 325 semanticamente, FASE 14 resta dovuta salvo nuova decisione di saturazione prima di quella soglia
+- 10/10 transcript Markdown presenti e non vuoti
+- 10/10 info metadata presenti
+- 10/10 tracce italiane JSON3 presenti
+- channel_id ufficiale verificato: `UCaAzr7bvYcZRfGR8EyBynOA`
+- nessun ASR / NO_IT / ERROR / PENDING finale
+- nessun asset 311+ introdotto
+- KB, review, queue canonica, catalogo, VIDEO_INDEX e frozen invariati dal batch tecnico
+- validator finale locale non rieseguito dopo l'esaurimento del credito Codex; baseline strutturale attesa invariata a 842
 
 ## Agente richiesto
 
-**CODEX**
+**CHATGPT**
 
 ## Next Action
 
-Acquisire tecnicamente **solo i 10 ID del micro-batch 301–310**, nell'ordine fissato in `sources/queue/QUEUE.md` e `sources/queue/next-batch.txt`.
+Eseguire revisione semantica **301–310**, fasi 8–13, assegnare Weighted Novelty reale e confrontarla con il prior **13/20**.
 
-Dopo la FASE 7, restituire il controllo a ChatGPT per la revisione semantica 301–310 e la nuova Weighted Novelty.
+Dopo il contenuto 310: **STOP e decisione adattiva**. Non aprire automaticamente 311+.
 
-**STOP assoluto dopo il decimo contenuto. Non acquisire 311+.**
+Nessun checkpoint Claude richiesto a 310.
