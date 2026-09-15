@@ -122,3 +122,48 @@ Il principio completa il ciclo già presente **assistenza → causa → correzio
 **assistenza → segnale di bisogno reale → verifica → vendita**, senza confondere servizio e pressione commerciale.
 
 Fonte assimilata: Moreno Bonechi, “Nel «Rapportino» di Intervento C'è Quasi Sempre una Vendita Nascosta”, 1 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0012/review.md.
+
+
+## Retention a trigger: trasformare date e inattività in azioni prima che il cliente scompaia
+
+Nel materiale del 14 luglio 2026 assimilato al corpus, Moreno Bonechi rende più operativo il monitoraggio già presente in questo nodo.
+
+Quando la relazione contiene eventi prevedibili — rinnovi, manutenzioni, scadenze, verifiche, fine garanzia o cicli di ricontatto — il sistema non dovrebbe dipendere dal fatto che qualcuno apra un foglio al momento giusto.
+
+La sequenza è:
+
+**evento/data/stato → trigger → comunicazione automatica → task/opportunità umana → escalation finché esiste una decisione utile da prendere.**
+
+Esempi di trigger trasferibili:
+
+- rinnovo che si avvicina;
+- manutenzione prevista;
+- cliente che non viene contattato da troppo tempo;
+- garanzia/scadenza che crea un momento utile per aiutare il cliente;
+- inattività anomala rispetto al normale ciclo di acquisto;
+- controllo post-vendita previsto dal processo.
+
+### L'automazione non sostituisce la responsabilità
+
+Un reminder inviato una volta non equivale a un sistema di retention.
+
+Se il cliente non risponde, può servire:
+
+- una nuova azione;
+- l'assegnazione a una persona;
+- una telefonata;
+- una verifica dello stato reale;
+- la chiusura consapevole del task quando non è più pertinente.
+
+Il principio è:
+
+**automazione per non dimenticare + persona per interpretare e decidere.**
+
+Questo evita due estremi:
+
+- relazione affidata interamente alla memoria individuale;
+- sequenza automatica che continua a inviare messaggi senza capire se il cliente è ancora attivo, soddisfatto o appropriato.
+
+La fonte propone cinque casi specifici; la KB conserva il framework generale dei trigger, non una checklist obbligatoria uguale per ogni business.
+
+Fonte assimilata: Moreno Bonechi, “Le 5 Automazioni Invisibili per Non Perdere Mai Più un Cliente”, 14 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0071/review.md.

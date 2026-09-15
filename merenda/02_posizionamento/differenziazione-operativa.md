@@ -386,3 +386,41 @@ Il principio è:
 Questo estende “essere diversi prima di raccontarlo”: anche il modo in cui l'offerta viene fruita può essere parte reale della differenza.
 
 Fonte: Frank Merenda, “TRUCCO: Come ho posizionato un Bestseller Amazon…”, 26 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0029/review.md.
+
+
+## Rendere visibile un processo reale può rendere visibile il valore
+
+Nel materiale jAI del 25 aprile 2026 assimilato al corpus, un problema di differenziazione viene formulato in modo operativo:
+
+un'impresa può possedere esperienza e processi realmente superiori ma presentarli al cliente soltanto come parole astratte — “qualità”, “esperienza”, “cura”.
+
+Il cliente non vede automaticamente il lavoro invisibile che produce il risultato.
+
+La procedura utile è:
+
+1. ricostruire il processo realmente usato dall'inizio al risultato;
+2. separarlo in fasi comprensibili;
+3. spiegare per ciascuna fase **che cosa viene fatto, perché e quale rischio/beneficio influenza**;
+4. quando aiuta la comprensione, dare al processo o alle fasi nomi stabili e descrittivi;
+5. usare questa mappa in vendita, proposta, onboarding e formazione.
+
+La sequenza è:
+
+**competenza tacita → processo osservabile → criteri comprensibili → valore percepibile.**
+
+### Non inventare un “meccanismo proprietario” che non esiste
+
+Questo principio è compatibile con la regola Merenda già attiva: non si crea posizionamento appiccicando un nome creativo a una caratteristica banale.
+
+Il processo deve essere:
+
+- realmente eseguito;
+- rilevante per il risultato;
+- spiegabile;
+- verificabile almeno nelle sue conseguenze.
+
+Dare un nome a una sequenza vera può renderla memorizzabile. Dare un nome a una sequenza standard per fingere unicità non crea una differenza reale.
+
+Il valore canonico della fonte è quindi **articolare ciò che esiste**, non fabbricare un'esclusività nominale.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “The $500 Stiletto Rule: Why Your Process Is Worth More Than Your Product”, 25 aprile 2026. Review: ../../sources/merenda-sources/FM-SRC-0077/review.md.

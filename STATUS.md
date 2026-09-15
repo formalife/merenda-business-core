@@ -20,8 +20,8 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — nuove fonti Merenda
 
-- Nuove fonti Merenda registrate: 68
-- Nuove fonti Merenda studiate: 68
+- Nuove fonti Merenda registrate: 77
+- Nuove fonti Merenda studiate: 77
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 

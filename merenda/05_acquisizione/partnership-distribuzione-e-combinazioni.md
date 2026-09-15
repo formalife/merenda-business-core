@@ -136,3 +136,51 @@ Questo è un caso transazionale del principio più generale di partnership: il p
 Le ricostruzioni biografiche relative a Tony Robbins, Guthy-Renker e altri soggetti restano esempi della fonte.
 
 Fonte: Frank Merenda, “Tony Robbins: L’ingegneria occulta dietro l’impero”, 26 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0037/review.md.
+
+
+## Endorsement economics: prendere in prestito fiducia senza costruire da zero tutta l'audience
+
+Nel materiale jAI dell'8 giugno 2026 assimilato al corpus viene resa più operativa la forma **transazionale** di partnership distinta dal Lock-and-Key strutturale.
+
+Un soggetto possiede già:
+
+- audience;
+- relazione;
+- fiducia;
+- accesso ai buyer che l'impresa vorrebbe raggiungere.
+
+Invece di costruire tutto da zero, può essere economicamente sensato pagare o incentivare un'introduzione/endorsement quando i numeri reggono.
+
+La partnership deve però funzionare da entrambi i lati.
+
+Tre strati sono particolarmente utili:
+
+1. **trust transfer** — l'introduzione arriva da qualcuno che il pubblico già ascolta;
+2. **host economics** — il partner deve vedere una convenienza chiara rispetto alle alternative che possiede;
+3. **performance alignment** — quando appropriato, parte della compensazione può dipendere dal risultato prodotto.
+
+La proposta non dovrebbe quindi essere:
+
+**“fammi pubblicità.”**
+
+Ma:
+
+**“questa introduzione crea valore per il tuo pubblico e ha un'economia che rende razionale farla.”**
+
+### Proteggere la reputazione dell'host
+
+Il denaro non è l'unico incentivo.
+
+Un partner può rifiutare una proposta profittevole se teme che l'endorsement lo faccia apparire opportunista o danneggi la relazione col proprio pubblico.
+
+Per questo la combinazione deve rispondere anche a:
+
+**perché presentare questa offerta fa fare bella figura al partner davanti alle persone di cui protegge la fiducia?**
+
+Questo completa la partnership transazionale già prevista nel nodo:
+
+**audience esistente → proposta coerente → economics dell'host → trasferimento di fiducia → misura del risultato.**
+
+I casi e i numeri di PayPal, Tupperware, Amazon e altri esempi della fonte non vengono assunti come evidenze autonome.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “The Most Expensive Lie In Business: ‘You Have to Build Your Audience First’”, 8 giugno 2026. Review: ../../sources/merenda-sources/FM-SRC-0075/review.md.

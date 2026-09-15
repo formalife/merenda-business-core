@@ -565,3 +565,73 @@ Questo evita due errori opposti:
 La fonte parla di “future funding”; la KB conserva il principio economico, subordinandolo alle regole già presenti su payback e liquidità.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “You Don’t Need More Cash. You Need What That Cash Buys.”, 3 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0067/review.md.
+
+
+## Registrare anche la domanda non servita: il gestionale vede ciò che hai venduto, non ciò che il cliente voleva e non trovava
+
+Nel materiale del 28 luglio 2026 assimilato al corpus, Moreno Bonechi collega magazzino, CRM e memoria commerciale in un unico problema.
+
+I dati storici di vendita mostrano:
+
+**che cosa è stato comprato.**
+
+Non mostrano necessariamente:
+
+**che cosa è stato chiesto ma non era disponibile.**
+
+Questa seconda informazione può essere decisiva per acquistare meglio.
+
+Prima di introdurre o riordinare una referenza, il controllo può usare almeno tre segnali:
+
+1. quanti clienti comprano già quella categoria o categorie strettamente correlate;
+2. quante richieste sono rimaste non servite perché il prodotto/servizio non era disponibile;
+3. come si muove il prodotto più simile già presente a catalogo o a stock.
+
+La sequenza è:
+
+**venduto + domanda non servita + comportamento delle alternative → decisione di acquisto/assortimento.**
+
+### La domanda non servita deve diventare un dato
+
+Se un cliente chiede qualcosa che l'azienda non ha, la conversazione non dovrebbe scomparire perché non genera una riga di vendita.
+
+Può essere registrata come:
+
+- categoria richiesta;
+- cliente/segmento;
+- data;
+- quantità o contesto, quando utile;
+- esito.
+
+Nel tempo questa memoria permette di distinguere:
+
+- domanda reale ricorrente;
+- richieste isolate;
+- entusiasmo interno o pressione del fornitore senza domanda osservabile.
+
+Il principio è particolarmente importante perché **un gestionale costruito sul venduto è strutturalmente cieco rispetto alle vendite perse prima che esistessero**.
+
+### Smaltire stock con segmentazione, non con sconto indiscriminato
+
+Per merce o capacità già acquistata e poco utilizzata, la prima domanda non è soltanto “quanto devo scontarla?”
+
+È:
+
+**chi fra i clienti esistenti ha segnali concreti di compatibilità con questa offerta?**
+
+La lista può partire da:
+
+- acquisti della stessa categoria;
+- prodotti complementari;
+- richieste precedenti;
+- utilizzo compatibile.
+
+Quindi:
+
+**stock/capacità ferma → clienti compatibili → proposta specifica → misura → eventuale sconto solo quando economicamente necessario.**
+
+Questo collega capitale circolante e marketing: liquidare stock non significa automaticamente comunicare a tutta la lista che il prodotto è invenduto.
+
+I benchmark di costo di magazzino e i casi numerici della fonte restano esempi.
+
+Fonte assimilata: Moreno Bonechi, “La Merce Ferma in Magazzino Ha Due Colpevoli…”, 28 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0070/review.md.
