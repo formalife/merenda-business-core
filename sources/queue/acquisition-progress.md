@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:47:23.149586+00:00
+Ultimo aggiornamento: 2026-09-15T08:47:28.567430+00:00
 
 Batch: 25 video
-Completati tecnicamente: 8/25
+Completati tecnicamente: 9/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -15,7 +15,7 @@ Completati tecnicamente: 8/25
 | 6 | eBvEH3TPqSA | Direct Response Marketing \| What's the Difference Between a Brand and a Category? | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 7 | 9lPjA4n3UB4 | How to Find Clients Without a Strong Brand | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | DcnlHK3p9u8 | Come Tenere I Clienti Incollati Al Tuo Brand (E Proteggerti dai Competitor) | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 9 | DgbZMAqw4NY | REPUTAZIONE DEL BRAND \| Come EVITARE ERRORI e gestire la crisi | PENDING |  |
+| 9 | DgbZMAqw4NY | REPUTAZIONE DEL BRAND \| Come EVITARE ERRORI e gestire la crisi | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 10 | N547HVgrQmk | Proteggere il BRAND da Joint Venture nocive | PENDING |  |
 | 11 | Hs8y1wNyamo | THE ideal SALES PROCESS for generating TARGETED clients | PENDING |  |
 | 12 | 7tWAsKiB0-Q | MARKETING \| The Sales Letter in an Envelope Structure | PENDING |  |
