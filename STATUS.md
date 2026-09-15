@@ -2,89 +2,73 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Checkpoint **300 — FASE 14 + FASE 15 eseguite da Claude Code** sul branch `checkpoint-300`. Corpus Merenda ancora non dichiarato completo.
+ACTIVE — fasi 1–6 complete; contenuti **1–300 processati semanticamente**. Checkpoint **300 — FASE 14 + FASE 15 chiuso** e verificato. Decisione attiva: **B — continuare Merenda solo su gap mirati**.
 
 ## Fase corrente
 
-Checkpoint 300 chiuso: FASE 14 (refactor KB) e FASE 15 (audit tassonomico + riclassificazione residui) eseguite. Nessuna duplicazione sostanziale trovata nel batch 276–300: i tre nuovi nodi e gli altri inserimenti reggono ai confini richiesti senza necessità di merge/split. Nessun file di `merenda/` modificato in questo checkpoint.
+Selezione post-checkpoint dei 59 TARGETED completata. È stato definito un **micro-batch mirato 301–310 di 10 contenuti**, senza acquisizione o revisione semantica.
 
-Weighted Novelty del batch 276–300 (invariata, per riferimento):
+Report operativo: `reviews/TARGETED_GAP_SELECTION_301-310.md`.
 
-- peso 2: **4**
-- peso 1: **9**
-- peso 0: **12**
-- totale pesato: **17/50 = 34%**
-- contenuti realmente incrementali: **13/25 = 52%**
+La queue riordina soltanto i 168 residui per portare i 10 selezionati in testa; righe 1–300 e tutti gli stati restano invariati.
 
 ## Corpus
 
 - Video individuati: **468**
-- Contenuti processati semanticamente: **300**
-- STUDIATO / integrati o deduplicati: **294**
-- ESCLUSO dalla dottrina attiva: **6**
-- Da processare: **168**
+- Processati semanticamente: **300**
+- STUDIATO: **294**
+- ESCLUSO: **6**
+- DA STUDIARE: **168**
 - Corpus completo: NO
-- 301 — `asMedYJtd4I` resta **DA STUDIARE**
-- Nessun contenuto 301+ processato semanticamente né acquisito in questo checkpoint
+- Nessun contenuto 301+ ancora acquisito o studiato dopo il checkpoint 300
 
-## Nuovi nodi canonici (batch 276–300, verificati in FASE 14)
+## Micro-batch 301–310
 
-1. `merenda/07_copy_comunicazione/copy-posizionamento-e-temperatura-traffico.md`
-2. `merenda/08_brand/reputazione-e-crisis-management.md`
-3. `merenda/09_business/retention-onboarding-e-customer-success.md`
+1. `GFrT89AGv50` — exit/readiness e trasferibilità dell'impresa
+2. `rEtbwMHdJcM` — crisis/reputation case 2025, test di prevalenza
+3. `phMz5WxmXRo` — marketing/governance nell'azienda familiare
+4. `49CpCqYaXFA` — fondi/investitori e governance del capitale
+5. `RM9YvT6K9IQ` — selezione dei collaboratori
+6. `8uQMbmRHUmk` — collaboratore dannoso/performance
+7. `eGt2WUGelbU` — caso clinica medica
+8. `LtFeqet7OFc` — Gelateria Wally, 3 settembre 2025
+9. `dftLQTuK0cY` — Cammi Gomme, 20 agosto 2025
+10. `wDRHWHNHP5c` — Europa 92/Pavarotti, 6 agosto 2025
 
-Tutti confermati privi di duplicazione sostanziale con i nodi confinanti dopo lettura integrale.
+Prior Weighted Novelty attesa: **13/20**; non è un risultato, ma un'ipotesi di selezione da validare semanticamente.
 
-## Novelty recente
+## Residui TARGETED
 
-- Batch 226–250: **16/25 = 64%**
-- Batch 251–275: **11/25 = 44%**
-- Batch ottimizzato 276–300: **13/25 = 52%**, Weighted Novelty **17/50 = 34%**
+- SELECTED ora: **10**
+- RESERVE: **12**
+- HOLD all'interno dei TARGETED: **37**
+- TARGETED totali FASE15: **59**
+- LOW/DEFER: **109**
 
-## Audit residui post-300 (FASE 15)
-
-Nuovo artefatto: `reviews/RESIDUAL_REPRIORITIZATION_301-468.md` (non sovrascrive il documento storico 276–468).
-
-- MUST STUDY residuo: **0/168** (i 15 MUST STUDY del checkpoint 275 erano tutti nel batch 276–300, ora chiuso).
-- TARGETED: **59/168**.
-- LOW / DEFER: **109/168**.
-- 7 downgrade TARGETED → LOW/DEFER applicati (framework numerici/KPI, delega strategica, CRM/LTV isolato: temi oggi ampiamente coperti in `numeri-cassa-e-crescita.md`, `marketing-first.md`, `scalabilita-e-operativita.md`).
-
-## Decisione strategica del checkpoint 300
-
-**B — CONTINUARE MERENDA SOLO SU GAP MIRATI.**
-
-Motivazione sintetica: Weighted Novelty 34% ricade nella fascia intermedia della regola adattiva ("20–40% → niente avanzamento sequenziale; acquisire solo gap specifici"); il livello MUST STUDY dei residui è esaurito; i 168 residui sono concentrati per l'82% in aree già dense (`06_vendita`, `09_business`, `10_casi_studio`). La KB non è dichiarata satura: non si raccomanda ancora l'apertura dello strato esterno/evidence. Dettaglio completo in `reviews/CHECKPOINT_300.md`.
-
-Un eventuale prossimo batch tecnico dovrebbe limitarsi a 8–12 ID scelti tra i 59 TARGETED con dedup "Media" in `RESIDUAL_REPRIORITIZATION_301-468.md`, non a un batch generico da 25 in ordine di coda.
-
-## Validazione
-
-Baseline **842 warning** (836 `Ordine/stato incoerente`, 3 `File congelato modificato`, 3 `Contatore STATUS errato`) confermata identica prima e dopo il checkpoint 300 (diff riga per riga vuoto). `git diff --check` pulito. File frozen byte-identici a `816090ef7f7998edc5571f1529a8192b72c7190f`. 0 link/ancore rotti, 0 file orfani, 0 contaminazione Formalife in `merenda/`.
+La Information Priority FASE15 non cambia: questa è soltanto una selezione operativa interna ai TARGETED.
 
 ## Workflow attivo
 
 - CODEX: acquisizione tecnica.
-- CHATGPT: revisione semantica e fasi 8–13.
-- CLAUDE CODE: FASE 14 ogni 25; FASE 14 + FASE 15 ogni 50.
-- A/B/C = profondità di review.
-- Information Priority = ordine adattivo di acquisizione.
-- C = FAST REVIEW, mai SKIP.
+- CHATGPT: revisione semantica e Weighted Novelty.
+- CLAUDE CODE: checkpoint governance secondo soglie canoniche.
+- Non usare più batch sequenziali da 25 per inerzia.
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: **300 — FASE 14**
-- Ultimo audit tassonomia completato: **300 — FASE 15**
-- Soglia semantica raggiunta: **300**
-- Prossimo checkpoint Claude: **325 — FASE 14**
-- Prossimo audit tassonomia: **350 — FASE 14 + FASE 15**
+- Ultimo refactor KB: **300 — FASE 14**
+- Ultimo audit tassonomia: **300 — FASE 15**
+- Nessun checkpoint Claude richiesto a 310
+- Se il progetto arriva a 325 semanticamente, FASE 14 resta dovuta salvo nuova decisione di saturazione prima di quella soglia
 
 ## Agente richiesto
 
-**CODEX**, soltanto previa conferma dell'utente sulla dimensione/selezione di un batch tecnico mirato (8–12 ID tra i TARGETED indicati in `reviews/RESIDUAL_REPRIORITIZATION_301-468.md`). In assenza di conferma, nessuna azione tecnica 301+ va avviata.
+**CODEX**
 
 ## Next Action
 
-Attendere decisione dell'utente su un eventuale batch tecnico mirato (opzione B del checkpoint 300). Non avviare acquisizione 301+ senza conferma esplicita e senza una selezione precisa di ID.
+Acquisire tecnicamente **solo i 10 ID del micro-batch 301–310**, nell'ordine fissato in `sources/queue/QUEUE.md` e `sources/queue/next-batch.txt`.
 
-**Non acquisire né processare semanticamente 301+ finché non arriva tale conferma.**
+Dopo la FASE 7, restituire il controllo a ChatGPT per la revisione semantica 301–310 e la nuova Weighted Novelty.
+
+**STOP assoluto dopo il decimo contenuto. Non acquisire 311+.**
