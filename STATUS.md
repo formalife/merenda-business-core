@@ -2,13 +2,13 @@
 
 ## Stato generale
 
-ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**. Checkpoint **275 raggiunto**; FASE 14 Claude Code ancora da eseguire. Corpus ancora incompleto.
+ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**. Checkpoint **275 chiuso**: FASE 14 Claude Code eseguita. Corpus ancora incompleto.
 
 ## Fase corrente
 
-Revisione semantica **251–275 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO.
+Revisione semantica **251–275 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO. FASE 14 Claude Code eseguita: audit strutturale dell'intera KB, focus rete vendita/creative testing/PR-earned media/target-consapevolezza verificati, 1 duplicazione reale corretta (scala di consapevolezza), 2 collegamenti reciproci mancanti aggiunti. Nessuna regressione nel validator.
 
-Report pre-handoff: `reviews/CHECKPOINT_275.md`.
+Report definitivo: `reviews/CHECKPOINT_275.md`.
 
 ## Corpus
 
@@ -60,23 +60,20 @@ Frozen effettivamente non modificati nel batch. Nessuna contaminazione Formalife
 
 ## Checkpoint
 
-- Ultimo refactor KB completato: **250 — FASE 14**
+- Ultimo refactor KB completato: **275 — FASE 14**
 - Ultimo audit tassonomia completato: **250 — FASE 15**
-- Refactor KB richiesto ora: **275 — FASE 14**
-- Prossimo audit tassonomia: **300 — FASE 14 + FASE 15**
-- Checkpoint Claude richiesto ora: **SÌ**
-- Report corrente: `reviews/CHECKPOINT_275.md` (pre-handoff)
+- Prossimo checkpoint Claude: **300 — FASE 14 + FASE 15**
+- Checkpoint Claude richiesto ora: **NO**
+- Report corrente: `reviews/CHECKPOINT_275.md` (definitivo)
 
 ## Agente richiesto
 
-**CLAUDE CODE**
+**CODEX**
 
 ## Next Action
 
-Eseguire **CHECKPOINT 275 — FASE 14** sulla KB completa.
+Acquisizione tecnica batch **276–300**, a partire da:
 
-Focus richiesti: nuovo nodo rete vendita e confini con diagnosi/prequalifica; creative testing; PR/earned media; nuova segmentazione per consapevolezza e storia d'acquisto. Applicare MERGE, NOT APPEND, preservare la prevalenza temporale, non processare 276+, non modificare frozen.
+**276 — `Hs8y1wNyamo` — "THE ideal SALES PROCESS for generating TARGETED clients"**
 
-Rieseguire validator prima/dopo contro baseline **842** e `git diff --check`.
-
-Dopo la chiusura Claude, il prossimo contenuto da acquisire/processare sarà **276 — `Hs8y1wNyamo`**. Nessuna acquisizione 276+ prima della chiusura del checkpoint 275.
+Dopo l'acquisizione tecnica, restituire il controllo a ChatGPT per la revisione semantica 276–300 (fasi 8–13). Nessun contenuto 276+ è stato acquisito o processato semanticamente durante il checkpoint 275.

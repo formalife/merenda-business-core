@@ -1,4 +1,4 @@
-# Checkpoint 275 — pre-handoff Claude — FASE 14 richiesta
+# Checkpoint 275 — report definitivo — FASE 14 eseguita
 
 Stato raggiunto da ChatGPT sul branch `semantic-251-275`, costruito dalla HEAD tecnica `d4f1e9ee6271d5a1f7b6849c4e1b8d78635c5bc5` del branch `acquisition-251-275`.
 
@@ -287,3 +287,88 @@ Claude deve:
 12. aggiornare `reviews/CHECKPOINT_275.md` da pre-handoff a report definitivo e `STATUS.md` al termine.
 
 **FASE 15 non è dovuta a 275.** Il prossimo checkpoint con FASE 14 + FASE 15 è **300**.
+
+---
+
+## Sezione Claude Code — FASE 14 eseguita (chiusura checkpoint 275)
+
+### Verifica iniziale
+
+- SHA iniziale locale, `origin/main` e `origin/semantic-251-275`: **3917379cee54068c9c3f0f94ea9f422864b19d9a** (identiche, `main...semantic-251-275` ahead 0 / behind 0).
+- `git status --short --branch`: working tree pulita.
+- Contatori reali riverificati da `sources/catalog.json` (468 record): **STUDIATO 269, ESCLUSO 6, DA STUDIARE 193**, totale 468 — identici allo stato atteso.
+- `sources/queue/QUEUE.md`: riga 290, video 276 `Hs8y1wNyamo` risulta `DA STUDIARE`. Nessun file `sources/transcripts/Hs8y1wNyamo.*` presente: nessuna acquisizione o revisione 276+ eseguita.
+
+### Baseline di validazione
+
+- `python3 scripts/validate_project.py` prima delle modifiche: **842 warning** — 836 `Ordine/stato incoerente`, 3 `File congelato modificato`, 3 `Contatore STATUS errato`. Identico alla baseline dichiarata.
+- `git diff --check` iniziale: pulito.
+
+### Metodologia FASE 14
+
+Lettura reale di `00_START_HERE.md`, `MASTER_PLAN.md`, `system/RULES.md`, `system/PHASES.md`, `system/HANDOFFS.md`, `system/FROZEN_FILES.md`, `STATUS.md`, questo report, `merenda/INDEX.md` e degli 11 README di sezione. Lettura integrale dei quattro nodi dei focus prioritari e dei rispettivi nodi di confine indicati nell'handoff. Controllo dimensione file (`wc -l` su tutta `merenda/`, 7.308 righe totali, nessun file fuori scala: max 419 righe, min 5 righe di README). Scansione mirata per parole chiave (`diagnosi`, `script`, `prequalifica`, `consapevolezza`, `trade-off`, `winner`, `testimonianz`) sull'intera KB per individuare framework concorrenti non limitati al diff 251–275. Verifica automatica di link interni, ancore e file orfani con script Python temporaneo (rimosso prima del commit). Verifica `grep -Rni formalife merenda/`.
+
+### Esito dei quattro focus prioritari
+
+**A. Rete vendita** (`06_vendita/rete-vendita-script-allenamento-e-controllo.md`) — **NO CHANGE strutturale**. I quattro concetti richiesti sono già correttamente separati e cross-linkati: (1) processo della singola vendita → `preventivo-consulenza-diagnosi.md`; (2) prequalifica/decisori/follow-up → `prequalifica-follow-up-decisori.md`; (3)+(4) gestione rete vendita e training/performance management → un unico nodo, perché script, role-play, registrazione/review, ciclo feedback, preparazione pre-incontro, selezione, incentivi, struttura organizzativa e performance review formano un unico sistema operativo coerente nella fonte (script di allenamento e controllo del reparto commerciale sono la stessa filiera di responsabilità manageriale). Nessuno split giustificato: dividerli avrebbe separato osservazione/feedback dalla causa che li genera. Nessuna duplicazione reale trovata con gli altri due nodi; il cross-link in apertura ("Questo completa il principio della diagnosi standardizzata...") e in chiusura ("Collegamenti") è già corretto e reciproco.
+
+**B. Creative testing** (`04_marketing/test-creativita-annunci.md`) — **NO CHANGE**. Il nodo resta focalizzato sul sistema di iterazione/test delle creatività (winner → variazioni → test → selezione → sfruttamento + quota di sperimentazione). Verificata l'assenza di sovrapposizione con `complessita-e-riduzione-variabili.md` (un solo uso generico della parola "test", contesto diverso: fossato competitivo) e con `gerarchia-domanda-e-canali.md` (nessuna sovrapposizione, cross-link già presente per la misurazione fino al valore cliente). L'80/20 e i formati restano esempi non canonizzati.
+
+**C. PR / earned media** (`08_brand/pr-earned-media-e-notiziabilita.md` vs `autorita-e-marketing.md`) — **boundary confermato, 1 fix applicato**. La distinzione tiene: autorità = asset/posizione/reputazione/fiducia/prova (incluse recensioni e passaparola come segnali organici); PR/earned media = costruzione attiva di un angolo notiziabile e outreach verso i media per ottenere copertura esterna. Le sezioni "Recensioni e testimonianze come PR della PMI" e "Reputazione e PR online" in `autorita-e-marketing.md` usano "PR" nel senso di reputazione organica, un concetto realmente distinto dall'earned media attivo: non fuse. **Modifica applicata**: `autorita-e-marketing.md` non collegava reciprocamente il nuovo nodo PR nella sezione Collegamenti nonostante `pr-earned-media-e-notiziabilita.md` lo referenzi due volte; aggiunto il link mancante.
+
+**D. Target, consapevolezza e storia d'acquisto** (`01_mercato/clienti-identificabili-e-target.md`) — **1 duplicazione reale corretta**. La nuova matrice di maturità decisionale (fonte 9 marzo 2023) duplicava, con etichette diverse ma progressione identica a 5 livelli, la scala di consapevolezza già presente in `04_marketing/gerarchia-domanda-e-canali.md` (fonte 6 maggio 2025, più recente). Per prevalenza temporale la formulazione 2025 (inconsapevole → consapevole del problema → della soluzione → del prodotto → del brand) resta la sede canonica della tassonomia grezza, usata lì per calibrare funnel/canale. `clienti-identificabili-e-target.md` ora rimanda a quella tassonomia canonica e mantiene la propria estensione originale non duplicata altrove: storia di acquisto (mai comprato / provato e smesso / usa ancora con livello di soddisfazione) e priorità commerciale conseguente. Aggiunti link reciproci mancanti verso `gerarchia-domanda-e-canali.md`, `prequalifica-follow-up-decisori.md` e `riattivazione-clienti.md`. Verificato che `riattivazione-clienti.md` e `database-email-e-sequenze.md` usano un meccanismo distinto (trigger RFM comportamento atteso/osservato) e non duplicano la matrice. Il linguaggio sul "creare terrore" resta non canonizzato, come già impostato dal batch 251–275.
+
+### Altri punti cross-check (sezione 12 dell'handoff)
+
+- Trade-off dichiarato (`02_posizionamento/differenziazione-operativa.md`): **NO CHANGE**. "Ma" non è trattato come formula magica, nessun difetto inventato, caveat esplicito già presente.
+- Upsell (`03_offerta/front-end-e-back-end.md`): **NO CHANGE**. Tassonomia quantità/qualità/completezza correttamente subordinata alla regola generale 2025 più recente, prevalenza temporale esplicita nel testo.
+- Attenzione e inerzia (`07_copy_comunicazione/priorita-azione-e-inerzia.md`): **NO CHANGE**. Nessuna duplicazione con `checklist-risposta-diretta.md` (quest'ultima esplicitamente rimanda alla prima ed è organizzata come diagnostica, non come ripetizione dei principi).
+- Diagnosi (`06_vendita/preventivo-consulenza-diagnosi.md`): **NO CHANGE**. La sequenza narrazione→approfondimento→conseguenze→validazione→diagnosi→prescrizione resta nel nodo corretto; "validare" è esplicitamente distinto da falsa empatia/conferma artificiale; confine con il nodo rete vendita resta netto (metodo della singola trattativa vs. standardizzazione/allenamento di rete).
+
+### Deduplicazioni 251–275 già decise — verificate non reintrodotte
+
+Verificato per lettura diretta che nessuno dei punti della sezione "13" dell'handoff (251/262 diagnosi-processo, 263 autorità-non-negozia, 265 prima-sistema-poi-venditori, 267 funnel information marketing, 269 piramide early adopter, 271 journey mentale, 272 cinque livelli di chiarezza, 273–275 lifecycle/freddo) è stato reintrodotto come framework parallelo: nessuna nuova occorrenza di queste formulazioni è stata aggiunta nella KB durante questo checkpoint.
+
+### Modifiche effettuate
+
+Tre file modificati, 8 righe aggiunte, 0 righe rimosse, nessuna riscrittura di sostanza:
+
+1. `merenda/01_mercato/clienti-identificabili-e-target.md` — sostituita la duplicazione della scala di consapevolezza con un rimando alla sede canonica più recente; aggiunti 3 collegamenti reciproci mancanti (Collegamenti).
+2. `merenda/04_marketing/gerarchia-domanda-e-canali.md` — aggiunta una frase di rimando esplicito verso `clienti-identificabili-e-target.md` per rendere visibile che le due sezioni trattano la stessa progressione con applicazioni diverse (funnel/canale vs. priorità commerciale/storia di acquisto).
+3. `merenda/08_brand/autorita-e-marketing.md` — aggiunto il collegamento reciproco mancante verso `pr-earned-media-e-notiziabilita.md`.
+
+Nessun merge/split di file, nessuno spostamento di contenuto tra documenti, nessuna perdita di informazione: tutte le modifiche sono collegamenti e un rimando che preserva sia il contenuto rimosso (spostato per riferimento, non eliminato) sia il contenuto originale della sede canonica.
+
+### Decisioni NO CHANGE principali
+
+Rete vendita (nodo unico confermato), creative testing (confini confermati), boundary autorità/PR (confermato, solo link mancante), trade-off dichiarato, tassonomia upsell, attenzione/inerzia, sequenza diagnosi/validazione. Nessuna modifica cosmetica priva di beneficio è stata applicata; dove il confine reggeva è stato lasciato invariato.
+
+### Integrità
+
+- **Link/ancore interne**: script di verifica temporaneo (rimosso prima del commit) su tutta `merenda/` (43 file `.md`). Prima delle modifiche: 0 link rotti, 0 ancore rotte, 0 file orfani. Dopo le modifiche: 0 link rotti, 0 ancore rotte, 0 file orfani (incluse le nuove ancore aggiunte, verificate esplicitamente).
+- **Contaminazione Formalife**: `grep -Rni "formalife" merenda/` → nessuna corrispondenza, prima e dopo.
+- **Validator**: prima e dopo delle modifiche **842 warning**, composizione identica (836/3/3); output byte-per-byte identico (`diff` tra le due esecuzioni: nessuna differenza).
+- **`git diff --check`**: pulito prima e dopo.
+- **File frozen**: `git diff -- MASTER_PLAN.md system/RULES.md system/PHASES.md system/HANDOFFS.md system/FROZEN_FILES.md` vuoto — invariati.
+- **File modificati in totale**: 3 (elencati sopra), più questo report e `STATUS.md` in chiusura.
+- **Nessun contenuto 276+ processato**: confermato da catalogo, queue e assenza di transcript/review per `Hs8y1wNyamo`.
+
+### Stato finale del corpus
+
+- Video individuati: **468**
+- Processati semanticamente: **275**
+- STUDIATO: **269**
+- ESCLUSO: **6**
+- DA STUDIARE: **193**
+- Corpus completo: **NO**
+- Primo contenuto non processato: **276 — `Hs8y1wNyamo` — "THE ideal SALES PROCESS for generating TARGETED clients"**
+
+### Handoff successivo
+
+**Checkpoint 275 chiuso.**
+
+**Prossimo agente: CODEX**
+
+**Prossimo batch tecnico: 276–300**
+
+**Prossimo Claude: checkpoint 300 — FASE 14 + FASE 15**

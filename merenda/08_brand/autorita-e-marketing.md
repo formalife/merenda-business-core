@@ -382,3 +382,4 @@ Fonte: [Perché i Clienti Non Comprano da Te](https://www.youtube.com/watch?v=h-
 - [Quattro modalità e continuità del marketing](../04_marketing/quattro-modalita-e-ritmo.md)
 - [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
+- [PR, earned media e notiziabilità](pr-earned-media-e-notiziabilita.md)

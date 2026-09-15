@@ -74,6 +74,8 @@ Il prospect può trovarsi, in forma semplificata, lungo una progressione come:
 4. ha scelto la famiglia di soluzione / approccio;
 5. sta scegliendo fra fornitori che adottano quell'approccio.
 
+È la stessa scala trattata in forma più recente (6 maggio 2025) come **inconsapevole → consapevole del problema → consapevole della soluzione → consapevole del prodotto → consapevole del brand** in [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md#ogni-livello-di-consapevolezza-richiede-un-percorso-coerente), dove viene usata per calibrare funnel e canale. Qui il livello di consapevolezza viene invece collegato alla priorità commerciale e alla storia di acquisto.
+
 Il marketing non dovrebbe parlare a tutti come se fossero già al quinto livello. Se una persona non crede ancora che il problema sia risolvibile, una comparazione dettagliata fra fornitori arriva troppo presto.
 
 ### Storia di acquisto e soluzione attuale
@@ -109,3 +111,6 @@ Fonte precedente: [Come vendere di più al giusto Target | I 7 tipi di clienti �
 
 - [Appropriatezza e qualità economica dei clienti](appropriatezza-clienti.md)
 - [Clienti alto-spendenti](clienti-altospendenti.md)
+- [Gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md)
+- [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
+- [Riattivazione dei clienti fermi](../04_marketing/riattivazione-clienti.md)
