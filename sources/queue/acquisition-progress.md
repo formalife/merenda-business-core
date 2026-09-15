@@ -1,15 +1,15 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:46:49.065219+00:00
+Ultimo aggiornamento: 2026-09-15T08:46:55.900835+00:00
 
 Batch: 25 video
-Completati tecnicamente: 2/25
+Completati tecnicamente: 3/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
 | 1 | KipX0tAAWr4 | Why COPYWRITING starts with your positioning [Full Course] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 2 | iuly2QEl9no | Ice for the Eskimos - Direct Response Copywriting [Part 1] | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 3 | DTIhYJnLyGs | Ice for the Eskimos - Direct Response Copywriting [Part 2] | PENDING |  |
+| 3 | DTIhYJnLyGs | Ice for the Eskimos - Direct Response Copywriting [Part 2] | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 4 | 6sNjbCGzd2A | How to Create an Effective Call to Action | PENDING |  |
 | 5 | nKOvJg4lq6k | COPYWRITING: Cos'é Oggi il Copy a Risposta Diretta | PENDING |  |
 | 6 | eBvEH3TPqSA | Direct Response Marketing \| What's the Difference Between a Brand and a Category? | PENDING |  |
