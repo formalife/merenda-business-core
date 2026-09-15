@@ -74,3 +74,38 @@ Gli incentivi vanno dimensionati su margine e valore atteso del nuovo cliente e 
 
 Fonte: [Il Modo Più Facile Per FARE MARKETING e Trovare CLIENTI [Subito]](https://www.youtube.com/watch?v=SK338MdNIy0), 27 giugno 2024. [Revisione](../../sources/transcripts/SK338MdNIy0.review.md).
 
+
+
+## Attribuire il referral: sapere chi genera clienti, quanto valore produce e quando si ferma
+
+Nel materiale dell'11 agosto 2026 assimilato al corpus, Moreno Bonechi aggiunge lo strato di **misurazione** al sistema di referral già presente nella KB.
+
+Non basta registrare “passaparola” come sorgente generica.
+
+Quando una segnalazione è pertinente e lecitamente tracciabile, il sistema dovrebbe collegare:
+
+**segnalatore → cliente segnalato → vendite/margine generati → stato della relazione nel tempo.**
+
+Questo permette di rispondere a domande operative che altrimenti restano affidate alla memoria:
+
+- chi ha generato più clienti;
+- quanto valore ha prodotto ciascun segnalatore;
+- chi segnalava in passato e ha smesso;
+- quali professionisti o clienti meritano attenzione e ringraziamento;
+- quanto può essere sostenibile investire per coltivare quel canale.
+
+Il referral diventa quindi anche una **coorte di acquisizione**, leggibile con la stessa disciplina usata per campagne e sorgenti.
+
+Una struttura minima richiede:
+
+1. fonte di acquisizione registrata;
+2. identità del segnalatore quando rilevante e consentito;
+3. relazione fra le due anagrafiche;
+4. valore economico attribuito alla relazione;
+5. possibilità di rilevare inattività/decadimento del flusso.
+
+Il principio non è premiare automaticamente chiunque segnali. È rendere osservabile un asset relazionale che altrimenti può spegnersi senza che l'impresa se ne accorga.
+
+I rapporti di conversione e gli studi citati nella fonte non diventano benchmark universali.
+
+Fonte assimilata: Moreno Bonechi, “Stai Facendo ai Tuoi Clienti Quello che Sky Ha Fatto ai Suoi per Dodici Anni?”, 11 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0062/review.md.

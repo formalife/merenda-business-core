@@ -158,3 +158,43 @@ Questa lettura evita che fatturato e numero di clienti nascondano un portafoglio
 Le percentuali riportate negli esempi della fonte non vengono assunte come benchmark universali. Il valore del metodo è la lettura cumulativa del contributo economico.
 
 Fonte: Frank Merenda, “Il primo problema della tua PMI non è il fisco: è che stai servendo i clienti sbagliati”, 8 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0003/review.md.
+
+
+## Proof by Refusal: uno standard diventa più credibile quando costa davvero sostenerlo
+
+Nel materiale del 28 agosto 2026 assimilato al corpus, jAI formula la **Proof by Refusal**.
+
+Molte imprese possono dichiarare:
+
+- “mettiamo il cliente al primo posto”;
+- “non scendiamo a compromessi”;
+- “lavoriamo solo quando possiamo creare valore”;
+- “questo è il nostro standard”.
+
+La dichiarazione da sola costa poco e quindi prova poco.
+
+Diventa più credibile quando l'impresa è disposta, in modo coerente e non teatrale, a **rinunciare a ricavo reale** pur di rispettare quello standard.
+
+Esempi astratti:
+
+- rifiutare clienti economicamente o operativamente incompatibili;
+- non raccomandare un servizio che non serve;
+- rinunciare a una commissione o categoria di ricavo che crea conflitto;
+- non abbassare uno standard soltanto per chiudere la vendita.
+
+La logica è:
+
+**standard dichiarato → sacrificio osservabile coerente → costo reale per l'impresa → maggiore credibilità dello standard.**
+
+Questo non significa rifiutare clienti per costruire artificiosamente esclusività.
+
+La rinuncia ha valore soltanto quando:
+
+- protegge davvero l'interesse del cliente o il posizionamento;
+- è economicamente sostenibile;
+- è coerente nel tempo;
+- non viene usata come manipolazione fittizia.
+
+Il principio completa l'appropriatezza: **dire no può essere contemporaneamente una decisione economica corretta e una prova credibile di ciò che l'impresa sostiene di essere**.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “The Dentist Who Fired His Own Patients, Then Built a Waiting List”, 28 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0065/review.md.

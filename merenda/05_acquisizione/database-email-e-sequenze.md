@@ -157,3 +157,52 @@ Questo completa il principio già presente **stato della relazione → prossima 
 Le percentuali di incremento e gli esempi economici riportati dalla fonte restano esperienza dell'autore, non benchmark canonici.
 
 Fonte assimilata: Moreno Bonechi, “Usi l'AI Più Potente della Storia da un Anno, Ma il Fatturato È Rimasto Uguale”, 21 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0014/review.md.
+
+
+## AI customer-facing: prima il sistema di conoscenza, poi il modello
+
+Nel materiale del 4 agosto 2026 assimilato al corpus, Moreno Bonechi estende la “memoria commerciale” dal lavoro interno alle risposte rivolte direttamente a prospect e clienti.
+
+Un assistente che parla a nome dell'azienda non dovrebbe essere progettato partendo dalla domanda:
+
+**“qual è il modello AI più potente?”**
+
+La sequenza proposta è invece:
+
+1. **domande reali** — estrarre da CRM, email, chat e conversazioni i quesiti che i clienti fanno davvero, usando il loro linguaggio;
+2. **posizione e prove** — rendere disponibili problemi risolti, differenza, target/non-target e testimonianze che l'azienda può realmente sostenere;
+3. **dati collegati** — usare la memoria commerciale rilevante, inclusi storico della relazione e dati operativi autorizzati, invece di affidarsi soltanto a una FAQ statica;
+4. **regole di risposta** — definire che cosa l'AI può dire, stimare, promettere o deve passare a una persona.
+
+La distinzione utile è:
+
+**AI che recita informazioni generiche** vs **AI che riconosce il contesto e sa quando fermarsi**.
+
+La seconda non richiede necessariamente un modello più sofisticato: richiede un sistema informativo più affidabile.
+
+### Le risposte customer-facing devono essere governate come un nuovo venditore
+
+Un assistente pubblico può influire su:
+
+- aspettative di prezzo;
+- tempi;
+- condizioni;
+- qualificazione;
+- reputazione;
+- promesse che l'organizzazione dovrà poi mantenere.
+
+Perciò va trattato come un ruolo commerciale/di assistenza con:
+
+- fonti autorizzate e aggiornate;
+- confini espliciti;
+- escalation umana;
+- revisione delle conversazioni;
+- correzione continua quando emergono domande o errori nuovi.
+
+Il principio canonico è:
+
+**conoscenza verificabile + contesto cliente + policy di risposta → assistente → osservazione → correzione.**
+
+Le affermazioni normative e i riferimenti a specifiche piattaforme della fonte non diventano regole legali della KB.
+
+Fonte assimilata: Moreno Bonechi, “L'Assistente da Incubo…”, 4 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0063/review.md.

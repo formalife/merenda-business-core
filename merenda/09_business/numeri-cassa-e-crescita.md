@@ -529,3 +529,39 @@ Se il modello è forte, l'acceleratore può aumentare la capacità di crescita. 
 Il punto non è “debito cattivo” o “fondi cattivi”. È evitare di usare capitale come sostituto di una posizione economica non ancora dimostrata.
 
 Fonte: Frank Merenda, “Dainese è risorta. E i becchini hanno letto me e Al Ries meglio dei manager”, 27 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0028/review.md.
+
+
+## Allowable Acquisition Cost: il primo ordine non definisce quanto vale acquisire un cliente
+
+Nel materiale del 3 luglio 2026 assimilato al corpus, jAI rende esplicita una conseguenza del rapporto CAC/LTV già presente nella KB.
+
+Un nuovo cliente può generare poco margine sul **primo ordine** ma molto valore nel rapporto successivo.
+
+Se incentivi e budget di acquisizione vengono calcolati soltanto sul margine iniziale, l'impresa può sotto-investire sistematicamente nell'acquisizione.
+
+La domanda utile diventa:
+
+**quanto posso investire per acquisire un cliente appropriato mantenendo il rendimento e la cassa entro soglie sostenibili?**
+
+Una forma prudente del ragionamento usa almeno:
+
+- margine di contribuzione atteso lungo una finestra realistica;
+- probabilità/frequenza di riacquisto;
+- costi di servizio e retention;
+- tempo necessario a recuperare l'investimento;
+- rischio che il valore futuro non si realizzi.
+
+Da qui deriva un **Allowable Acquisition Cost**: non “spendere tutto l'LTV”, ma stabilire un tetto economico massimo coerente con margine, rischio e payback.
+
+La sequenza è:
+
+**valore economico atteso del cliente → riserva per erogazione/rischio/profitto → CAC massimo sostenibile → investimento di acquisizione/incentivo.**
+
+Questo evita due errori opposti:
+
+1. limitare l'acquisizione perché il primo ordine remunera poco;
+2. spendere aggressivamente usando un LTV teorico senza rispettare la cassa e il rischio.
+
+La fonte parla di “future funding”; la KB conserva il principio economico, subordinandolo alle regole già presenti su payback e liquidità.
+
+Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “You Don’t Need More Cash. You Need What That Cash Buys.”, 3 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0067/review.md.

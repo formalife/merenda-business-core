@@ -300,3 +300,36 @@ La distinzione serve soprattutto a evitare due errori:
 - spendere lo stesso tempo su qualunque richiesta senza capire se esiste una decisione reale da accompagnare.
 
 Fonte storica: Frank Merenda, “Come si definisce un cliente potenziale?”, 17 aprile 2012. Review: ../../sources/merenda-sources/FM-SRC-0056/review.md.
+
+
+## Una trattativa persa deve chiudersi con una diagnosi riutilizzabile, non con un'etichetta
+
+Nel materiale del 15 settembre 2026 assimilato al corpus, Moreno Bonechi rende operativo un problema già implicito nella prequalifica: **il motivo di perdita registrato nel CRM non deve trasformare una frase del prospect in un fatto permanente**.
+
+“Non ha budget”, per esempio, può coprire situazioni differenti:
+
+- il prospect non è in target;
+- è in target ma non è interessato alla proposta;
+- non può investire **adesso**;
+- non era presente chi poteva decidere;
+- altra causa da specificare.
+
+Queste situazioni producono azioni successive diverse.
+
+Per questo, quando una trattativa viene chiusa persa, il record dovrebbe contenere almeno:
+
+1. **motivo strutturato** — categoria breve e confrontabile;
+2. **interpretazione/evidenza** — che cosa sappiamo davvero e che cosa è una deduzione del venditore;
+3. **ultimo perimetro economico proposto** — prezzo/condizioni sufficienti a capire che cosa è stato rifiutato;
+4. **condizione di rientro** — che cosa dovrebbe cambiare per rendere sensato riaprire la trattativa;
+5. **data/prossimo controllo**, quando esiste una condizione temporale.
+
+La sequenza è:
+
+**trattativa persa → classificazione → evidenza → condizione di rientro → follow-up oppure esclusione consapevole.**
+
+Questo completa il principio già presente “mancato acquisto ≠ assenza d'interesse”: il CRM deve conservare abbastanza contesto perché il futuro follow-up non erediti una diagnosi non verificata come se fosse verità.
+
+Le indicazioni su fonti dati, privacy e configurazione software della fonte restano esempi operativi e richiedono verifica nel contesto applicabile.
+
+Fonte assimilata: Moreno Bonechi, “Il Tuo Venditore Dice «Non Ha Budget»…”, 15 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0061/review.md.
