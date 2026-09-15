@@ -206,3 +206,32 @@ Il principio canonico è:
 Le affermazioni normative e i riferimenti a specifiche piattaforme della fonte non diventano regole legali della KB.
 
 Fonte assimilata: Moreno Bonechi, “L'Assistente da Incubo…”, 4 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0063/review.md.
+
+
+## Next-best-offer dai pattern reali della base clienti
+
+Nel materiale MAF del 23 giugno 2026, lo storico acquisti viene usato non solo per segmentare, ma per cercare sequenze ricorrenti.
+
+Il modello è:
+
+**storico acquisti → pattern ricorrente → prodotto/servizio successivo plausibile → timing → azione → misura del margine incrementale.**
+
+Per esempio, se una quota significativa dei clienti che compra A e B tende poi a comprare C entro una certa finestra, il sistema può creare un'opportunità o un reminder quando un cliente entra nello stesso pattern.
+
+La regola non è “la correlazione predice con certezza il singolo cliente”. È usare i dati della propria base come ipotesi verificabile, correggendola quando i risultati cambiano.
+
+Fonte assimilata: Moreno Bonechi, “Il Tesoro Nascosto nei Tuoi Cassetti…”, 23 giugno 2026. Review: ../../sources/merenda-sources/FM-SRC-0097/review.md.
+
+## Contesto d'uso come trigger, con minimizzazione del dato
+
+Nel materiale MAF del 27 gennaio 2026, la scheda cliente viene estesa oltre identità e storico acquisti.
+
+Quando è pertinente e lecito, può essere utile registrare il **contesto che genera il bisogno**: occasione d'uso, momento ricorrente, ruolo o evento che rende la domanda più prevedibile.
+
+La sequenza è:
+
+**contesto rilevante → bisogno prevedibile → proposta utile nel momento appropriato.**
+
+Il principio non autorizza raccolta indiscriminata di informazioni personali. Va conservato soltanto il minimo dato che migliora realmente servizio o pertinenza dell'offerta.
+
+Fonte assimilata: Moreno Bonechi, “I Soldi Non Stanno nell'Elenco dei Tuoi Contatti…”, 27 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0106/review.md.

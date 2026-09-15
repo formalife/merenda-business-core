@@ -705,3 +705,28 @@ Ma il valore non è “gratis”: vanno considerati capacità futura, obblighi d
 La KB conserva quindi il principio economico, non le tattiche finanziarie come prescrizioni universali.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “The Credit Line You Don't Need Permission For”, 19 dicembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0088/review.md.
+
+
+## Margin leakage: misurare ciò che viene regalato prima della fattura
+
+Nel materiale MAF del 20 febbraio 2026, il margine viene letto anche prima della fattura.
+
+Possono eroderlo:
+
+- extra non fatturati;
+- urgenze assorbite senza prezzo;
+- concessioni informali;
+- revisioni e personalizzazioni gratuite;
+- tempo commerciale sproporzionato rispetto al valore della vendita.
+
+La domanda diventa:
+
+**quanto lavoro, capacità e concessioni sono stati realmente consumati per ottenere e servire questa vendita?**
+
+La lettura utile è:
+
+**vendita → costo commerciale → extra/concessioni → cost-to-serve → margine di contribuzione reale.**
+
+Questo completa CAC completo e cost-to-serve già presenti. La misura deve servire a trovare differenze materialmente rilevanti, non a costruire una falsa precisione contabile.
+
+Fonte assimilata: Moreno Bonechi, “Il Fatturato Sale. La Marginalità Scende…”, 20 febbraio 2026. Review: ../../sources/merenda-sources/FM-SRC-0101/review.md.

@@ -198,3 +198,32 @@ Il principio completa onboarding e retention con una regola di **timing**: non l
 Le percentuali, le finestre temporali numeriche e i casi della fonte sono esempi.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “How Monetizing Trust Could Reveal $50,000+ Hiding In A Place No One Thought To Look”, 2 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0081/review.md.
+
+
+## Customer effort: il cliente non deve integrare i reparti al posto dell'azienda
+
+Nel materiale MAF del 3 marzo 2026 viene reso esplicito un costo spesso invisibile: il lavoro che l'organizzazione trasferisce al cliente quando i propri sistemi non condividono la stessa versione dei fatti.
+
+Il customer effort aumenta quando il cliente deve:
+
+- ripetere informazioni;
+- inseguire aggiornamenti;
+- capire chi è responsabile;
+- riconciliare promesse discordanti;
+- fare da ponte fra commerciale, amministrazione, operatività e assistenza.
+
+Il principio è:
+
+**la complessità interna non deve diventare lavoro esterno del cliente.**
+
+Una base operativa condivisa dovrebbe rendere disponibili, a chi ne ha bisogno:
+
+- stato della relazione;
+- promesse e accordi;
+- stato economico rilevante;
+- stato dell'erogazione;
+- prossimo responsabile e passo successivo.
+
+Segnali utili da osservare sono ripetizioni, passaggi di mano, tempi end-to-end, reclami da disallineamento e concessioni usate per riparare errori di coordinamento.
+
+Fonte assimilata: Moreno Bonechi, “Il Vero Spreco Non È il Tempo dei Venditori. È il Tempo dei Clienti.”, 3 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0103/review.md.
