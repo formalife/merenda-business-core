@@ -1,0 +1,27 @@
+name: Validate Formalife Zero
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches:
+      - main
+      - merenda-source-corpus-001
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate repository invariants
+        run: python3 scripts/validate_project.py
+
+      - name: Verify clean working tree
+        run: git status --porcelain=v1
