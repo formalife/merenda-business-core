@@ -379,3 +379,28 @@ Il principio canonico è:
 **processo prima dello strumento; utilità per l'utente prima della disciplina formale; risultato prima del numero di feature.**
 
 Fonte assimilata: Moreno Bonechi, “Hai Speso €30.000 tra Campagne Marketing e CRM…”, 20 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0109/review.md.
+
+
+## Owner, handoff e checkpoint: rendere esplicita la responsabilità del flusso
+
+Nel materiale MAF del 24 aprile 2025 assimilato al corpus, viene isolato un problema organizzativo che può sopravvivere anche quando le persone sono competenti: **la responsabilità diffusa**.
+
+Se un'attività attraversa più ruoli ma nessuno possiede esplicitamente il prossimo passo, ogni persona può ragionevolmente assumere che tocchi a un'altra.
+
+Per ogni workflow ricorrente dovrebbero quindi essere leggibili almeno:
+
+1. **owner del passo corrente** — chi deve far avanzare il lavoro;
+2. **condizione di completamento** — che cosa significa “fatto”;
+3. **handoff** — a chi passa e con quali informazioni minime;
+4. **checkpoint** — come il sistema verifica che il passaggio sia avvenuto;
+5. **escalation** — che cosa succede quando il flusso si blocca o supera una soglia.
+
+La sequenza è:
+
+**evento → owner → azione → handoff → checkpoint → eccezione/escalation.**
+
+Questo completa “automatizzare il normale, escalare l'eccezione”: prima ancora dell'automazione bisogna sapere **chi possiede cosa**.
+
+L'obiettivo non è moltiplicare burocrazia e approvazioni. È eliminare il vuoto nel quale un'attività importante resta ferma perché tutti pensavano fosse responsabilità di qualcun altro.
+
+Fonte assimilata: Moreno Bonechi, “Dipendenti che Fanno Solo il Compitino?…”, 24 aprile 2025. Review: ../../sources/merenda-sources/FM-SRC-0144/review.md.
