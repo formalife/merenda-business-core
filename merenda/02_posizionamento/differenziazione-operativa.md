@@ -325,3 +325,30 @@ Nessuno dei tre livelli sostituisce gli altri.
 La fonte aggiunge anche un test semplice del posizionamento percepito: chiedere a clienti reali **perché hanno comprato dall'azienda e non da un'alternativa**, senza suggerire la risposta. Risposte convergenti e specifiche indicano un'associazione più chiara; risposte vaghe o completamente disperse segnalano una posizione debole o non condivisa.
 
 Fonte: Frank Merenda, “Il Posizionamento: Lezione zero”, 16 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0010/review.md.
+
+
+## La nuova categoria deve essere percepibile, non soltanto tecnicamente diversa
+
+Nel materiale del 3 agosto 2026 Merenda ribadisce che l'efficienza su elementi invisibili al cliente può migliorare il sistema economico, ma non crea automaticamente una nuova posizione nella mente del mercato.
+
+La parte incrementale riguarda la **forma percepibile** della differenza.
+
+Quando una nuova categoria possiede anche un segnale visivo immediatamente riconoscibile, il prodotto può comunicare la propria appartenenza senza richiedere ogni volta una spiegazione verbale.
+
+La fonte usa il concetto di **visual hammer**: una caratteristica visiva coerente può rendere concreta e memorizzabile una posizione che altrimenti resterebbe astratta.
+
+Il principio non è “rendere strano il prodotto”.
+
+È:
+
+**differenza strategica reale → segnale visibile coerente → riconoscimento più rapido della categoria/posizione.**
+
+Una differenza visiva senza differenza sostanziale è decorazione. Una differenza sostanziale completamente invisibile può invece richiedere più comunicazione per essere riconosciuta.
+
+La stessa fonte conferma, senza modificarla, la regola più ampia:
+
+**quando cambia realmente la categoria, efficienza e forza nella vecchia scala non sostituiscono la necessità di una posizione adatta alla nuova.**
+
+I casi Toyota, Prius, Lexus, Kodak e Honda restano esempi della fonte; la KB non assume come verificati autonomamente i dettagli storici o causali del racconto.
+
+Fonte: Frank Merenda, “Toyota lancia l’allarme…”, 3 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0022/review.md.

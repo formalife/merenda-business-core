@@ -96,3 +96,43 @@ Fonte più recente: [Le Iene e il Caso Roberto Re](https://www.youtube.com/watch
 - [Autorità e marketing](autorita-e-marketing.md)
 - [PR, earned media e notiziabilità](pr-earned-media-e-notiziabilita.md)
 - [Brand community e fan](brand-community-e-fan.md)
+
+
+## Dopo una crisi, la prova esterna deve sostenere una posizione — non sostituirla
+
+Nel materiale del 4 agosto 2026 Merenda descrive una sequenza utile quando la credibilità dell'azienda è stata indebolita.
+
+Dopo una crisi, ripetere più forte “siamo di qualità” può avere meno valore proprio perché l'affermazione proviene dalla parte interessata.
+
+Una prova indipendente può essere più utile quando è:
+
+- verificabile dal cliente;
+- prodotta con metodo comprensibile;
+- pertinente al punto che deve essere dimostrato;
+- abbastanza indipendente da non apparire come autocelebrazione mascherata.
+
+Ma la prova non crea da sola il posizionamento.
+
+La sequenza proposta è:
+
+**categoria/differenza specifica → prova terza pertinente → comunicazione della prova.**
+
+Un test, una certificazione, un dato pubblico o un riconoscimento hanno quindi ruoli diversi.
+
+Va distinto, per esempio:
+
+- ciò che misura il prodotto con parametri osservabili;
+- ciò che misura preferenza o gradimento;
+- ciò che è semplicemente un premio promozionale.
+
+Fonderli tutti sotto “abbiamo vinto un premio” riduce il valore informativo della prova.
+
+Il principio canonico è:
+
+**prima rendere specifica la ragione per scegliere → poi farla verificare, quando possibile, da una fonte credibile e controllabile.**
+
+Nel contesto di una crisi questo può aiutare a ricostruire fiducia con fatti nuovi invece di prolungare una disputa pubblica.
+
+Le ricostruzioni giudiziarie, quote di mercato e punteggi specifici del caso Petti restano elementi narrativi della fonte e non vengono consolidati come fatti autonomi della KB.
+
+Fonte: Frank Merenda, “La guerra delle passate: come Petti ha aggirato Mutti senza sparare un colpo sul prezzo”, 4 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0021/review.md.

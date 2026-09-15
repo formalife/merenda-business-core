@@ -260,3 +260,71 @@ Fonte: [Kinder Ferrero e il Marketing: Tempo di Focus](https://www.youtube.com/w
 - [Esempi di differenziazione](esempi-di-differenziazione.md)
 - [Espansione per nicchie e multibrand](../09_business/espansione-nicchie-e-multibrand.md)
 - [Complessità e riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md)
+
+
+## Una community forte può ritardare il verdetto del mercato
+
+Nel materiale del 31 agosto 2026 Merenda aggiunge un rischio specifico dei personal brand e delle aziende con una community molto fedele.
+
+Una nuova linea può vendere inizialmente non perché abbia conquistato una posizione autonoma, ma perché il pubblico trasferisce sulla novità **credito accumulato verso la persona o il brand originario**.
+
+Il primo lancio può quindi misurare due cose molto diverse:
+
+- domanda reale per la nuova proposta;
+- fiducia preesistente in chi la presenta.
+
+Confonderle rende il fatturato iniziale una misura potenzialmente ingannevole.
+
+### Prima vendita e seconda vendita rispondono a domande diverse
+
+La fonte propone implicitamente questa distinzione:
+
+**prima vendita → il credito del brand può ridurre il bisogno di confronto**
+
+**riacquisto → il prodotto deve reggere maggiormente il confronto nella propria categoria.**
+
+Per valutare un'estensione non basta quindi chiedere se “ha venduto”.
+
+Servono segnali come:
+
+- riacquisto;
+- margine/contributo economico per referenza;
+- linguaggio delle recensioni;
+- presenza di confronti spontanei con specialisti della nuova categoria;
+- necessità crescente di sconti o promozioni;
+- performance fuori dal nucleo più fedele della community.
+
+### “Capitolo successivo” vs “altra roba”
+
+Merenda distingue inoltre l'estensione che il cliente percepisce come **sviluppo coerente della stessa prescrizione/promessa** da quella che appare come semplice ampliamento di catalogo.
+
+La domanda diventa:
+
+**il nuovo prodotto approfondisce la stessa competenza per cui il cliente ci riconosce, oppure ci obbliga a chiedere credibilità su una scala diversa?**
+
+Questa formulazione rende più operativo il principio già presente sulla coerenza dell'estensione.
+
+### Whale curve anche sulle referenze
+
+La logica della whale curve non riguarda soltanto i clienti.
+
+Applicata al catalogo:
+
+1. stimare contributo reale per SKU/linea;
+2. ordinare le referenze dalla più alla meno profittevole;
+3. osservare il contributo cumulativo;
+4. identificare la coda che assorbe profitto attraverso sviluppo, stock, promozioni, resi e complessità.
+
+Un catalogo può quindi aumentare il fatturato mentre una parte crescente delle referenze vive del margine prodotto dal core.
+
+### Il credito personale può ridurre la trasferibilità
+
+Se la domanda per una linea esiste soprattutto perché **quella persona** la propone alla propria community, una parte del fatturato dipende da un asset personale e non ancora da una posizione autonoma del prodotto.
+
+Questo collega estensione e trasferibilità:
+
+**vendita sostenuta dal fondatore ≠ automaticamente brand trasferibile.**
+
+La community resta un asset importante. Il rischio è usarne la fedeltà come sostituto del feedback di mercato.
+
+Fonte: Frank Merenda, “Come ha fatto davvero i soldi l’Estetista Cinica…”, 31 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0020/review.md.

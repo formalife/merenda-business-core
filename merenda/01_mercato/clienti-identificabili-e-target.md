@@ -106,3 +106,76 @@ Fonte precedente: [Come vendere di più al giusto Target | I 7 tipi di clienti �
 - [Gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
 - [Riattivazione dei clienti fermi](../04_marketing/riattivazione-clienti.md)
+
+
+## Clienti a scadenza: la relazione può avere una durata naturale
+
+Nel materiale del 7 settembre 2026 Merenda distingue i business nei quali il cliente può abbandonare non per insoddisfazione ma perché **esce naturalmente dalla situazione per cui l'offerta esiste**.
+
+Esempi concettuali sono servizi legati a:
+
+- età;
+- fase familiare;
+- percorso educativo;
+- evento una tantum;
+- problema che, una volta risolto, cambia il bisogno.
+
+In questi casi la retention non può essere letta con la stessa logica di un servizio potenzialmente continuativo.
+
+La prima misura utile è:
+
+**quanto dura davvero, in media, una relazione appropriata con questo cliente?**
+
+La durata reale entra direttamente nella lettura di CAC, LTV e capacità di sostituzione della base.
+
+### Consumare non significa comprare
+
+La fonte aggiunge una separazione importante quando chi usa il prodotto e chi paga non coincidono.
+
+Occorre distinguere almeno:
+
+- **utilizzatore/consumatore** — vive direttamente l'esperienza;
+- **pagatore/decisore economico** — decide se il valore giustifica la spesa.
+
+La progettazione deve funzionare per entrambi, ma la promessa commerciale deve rispondere alle motivazioni di chi prende la decisione economica.
+
+Quindi:
+
+**esperienza per chi usa + ragione per chi paga → acquisto sostenibile.**
+
+Parlare soltanto all'utilizzatore può lasciare senza risposta il vero decisore; parlare soltanto al pagatore può produrre un'esperienza debole per chi usa.
+
+### Non inseguire automaticamente il cliente nella fase successiva
+
+Quando il cliente supera la fase per cui il brand è significativo, seguirlo con lo stesso nome in una categoria diversa può trasformare il brand nell'ultimo arrivato su una nuova scala.
+
+Il principio è:
+
+**target stabile → coorti che entrano ed escono → posizione che resta riconoscibile.**
+
+Un business può quindi mantenere la stessa posizione mentre i singoli clienti ruotano.
+
+Se esiste una vera opportunità nella fase successiva, va valutato se servano:
+
+- un'offerta distinta;
+- un contesto distinto;
+- oppure un brand distinto,
+
+invece di allungare automaticamente il significato del nome originario.
+
+Questo è coerente con la regola già presente sulle estensioni: seguire il cliente non è una giustificazione sufficiente per seguire anche la sua nuova categoria.
+
+### Monetizzare i picchi senza confondere il picco con la relazione
+
+Nei rapporti naturalmente brevi possono esistere momenti ad alto valore emotivo o pratico.
+
+Una buona esperienza in quei momenti può:
+
+- aumentare valore percepito;
+- generare ricordo;
+- produrre referral e reputazione;
+- aiutare l'ingresso della coorte successiva.
+
+Il principio non è “far pagare qualsiasi momento emotivo”. È progettare i momenti decisivi affinché rafforzino il risultato e la reputazione del brand.
+
+Fonte: Frank Merenda, “I Me contro Te non sono ‘Wanna Marchi per bambini.’…”, 7 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0019/review.md.
