@@ -6,7 +6,7 @@ ACTIVE — fasi 1–6 complete; contenuti **1–275 processati semanticamente**.
 
 ## Fase corrente
 
-Revisione semantica **251–275 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO. FASE 14 Claude Code eseguita: audit strutturale dell'intera KB, focus rete vendita/creative testing/PR-earned media/target-consapevolezza verificati, 1 duplicazione reale corretta (scala di consapevolezza), 2 collegamenti reciproci mancanti aggiunti. Nessuna regressione nel validator.
+Revisione semantica **251–275 completata da ChatGPT**: 25/25 review, 25/25 STUDIATO, nessun nuovo ESCLUSO. FASE 14 Claude Code eseguita: audit strutturale dell'intera KB, focus rete vendita/creative testing/PR-earned media/target-consapevolezza verificati. Corretta realmente la duplicazione della scala di consapevolezza (rimossa la seconda enumerazione, mantenuto solo il rimando alla sede canonica in `04_marketing/gerarchia-domanda-e-canali.md`) dopo una verifica indipendente che aveva individuato un fix incompleto nel primo commit. Aggiunti collegamenti mancanti fra i nodi coinvolti. Nessuna regressione nel validator.
 
 Report definitivo: `reviews/CHECKPOINT_275.md`.
 

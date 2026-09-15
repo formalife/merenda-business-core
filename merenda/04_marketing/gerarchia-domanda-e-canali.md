@@ -103,7 +103,7 @@ Almeno i principali livelli devono avere:
 
 Una persona che cerca già un prodotto specifico non deve ricevere la stessa educazione di chi ha appena riconosciuto il problema.
 
-Questa scala di consapevolezza è la stessa progressione trattata come **maturità decisionale** in [clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md#livello-di-consapevolezza), dove si aggiunge anche la dimensione della storia di acquisto e la priorità commerciale conseguente. Qui resta l'implicazione specifica per la scelta del funnel/canale.
+Questa scala è la sede canonica del livello di consapevolezza. [Clienti identificabili e target](../01_mercato/clienti-identificabili-e-target.md#livello-di-consapevolezza) applica la stessa dimensione alla segmentazione commerciale, combinandola con storia di acquisto e soddisfazione per determinare priorità e sforzo di vendita, senza ripetere qui la progressione.
 
 
 ## La domanda ha anche una dimensione temporale

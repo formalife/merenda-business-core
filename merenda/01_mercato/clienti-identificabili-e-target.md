@@ -66,17 +66,9 @@ Nel materiale del 9 marzo 2023 Merenda aggiunge una seconda segmentazione: due p
 
 ### Livello di consapevolezza
 
-Il prospect può trovarsi, in forma semplificata, lungo una progressione come:
+Per la progressione dei livelli — da chi non percepisce ancora il problema a chi sta scegliendo fra fornitori — vale la tassonomia canonica più recente (6 maggio 2025) in [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md#ogni-livello-di-consapevolezza-richiede-un-percorso-coerente): **inconsapevole → consapevole del problema → consapevole della soluzione → consapevole del prodotto → consapevole del brand**. Lì la scala serve a calibrare funnel e canale.
 
-1. non percepisce ancora il problema o non lo considera prioritario;
-2. riconosce il problema ma non crede che esista una soluzione praticabile;
-3. sa che esistono più modi per risolverlo e sta confrontando gli approcci;
-4. ha scelto la famiglia di soluzione / approccio;
-5. sta scegliendo fra fornitori che adottano quell'approccio.
-
-È la stessa scala trattata in forma più recente (6 maggio 2025) come **inconsapevole → consapevole del problema → consapevole della soluzione → consapevole del prodotto → consapevole del brand** in [gerarchia della domanda e scelta dei canali](../04_marketing/gerarchia-domanda-e-canali.md#ogni-livello-di-consapevolezza-richiede-un-percorso-coerente), dove viene usata per calibrare funnel e canale. Qui il livello di consapevolezza viene invece collegato alla priorità commerciale e alla storia di acquisto.
-
-Il marketing non dovrebbe parlare a tutti come se fossero già al quinto livello. Se una persona non crede ancora che il problema sia risolvibile, una comparazione dettagliata fra fornitori arriva troppo presto.
+Qui la stessa dimensione viene applicata in modo diverso: combinata con la storia di acquisto e la soddisfazione (sotto) per determinare priorità e sforzo commerciale. Il marketing non dovrebbe parlare a tutti come se fossero già al livello più alto: se una persona non crede ancora che il problema sia risolvibile, una comparazione dettagliata fra fornitori arriva troppo presto.
 
 ### Storia di acquisto e soluzione attuale
 

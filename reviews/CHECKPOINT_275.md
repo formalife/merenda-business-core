@@ -2,7 +2,9 @@
 
 Stato raggiunto da ChatGPT sul branch `semantic-251-275`, costruito dalla HEAD tecnica `d4f1e9ee6271d5a1f7b6849c4e1b8d78635c5bc5` del branch `acquisition-251-275`.
 
-Questo documento è il **pre-handoff del checkpoint 275**. La revisione semantica 251–275 è completa; il checkpoint Claude deve ancora eseguire **FASE 14**. FASE 15 non è dovuta a 275: il prossimo audit tassonomia è a 300.
+Questo documento è il **report definitivo del checkpoint 275**. La revisione semantica 251–275 è completa e Claude Code ha eseguito **FASE 14**; il checkpoint è chiuso. FASE 15 non era dovuta a 275. Il prossimo checkpoint Claude è **300 — FASE 14 + FASE 15**.
+
+Le sezioni immediatamente seguenti riportano lo stato del pre-handoff così come consegnato da ChatGPT prima dell'intervento di Claude Code; il lavoro effettivamente eseguito da Claude Code è documentato più sotto, nella sezione "Sezione Claude Code — FASE 14 eseguita".
 
 ## Stato al raggiungimento della soglia 275
 
@@ -316,7 +318,9 @@ Lettura reale di `00_START_HERE.md`, `MASTER_PLAN.md`, `system/RULES.md`, `syste
 
 **C. PR / earned media** (`08_brand/pr-earned-media-e-notiziabilita.md` vs `autorita-e-marketing.md`) — **boundary confermato, 1 fix applicato**. La distinzione tiene: autorità = asset/posizione/reputazione/fiducia/prova (incluse recensioni e passaparola come segnali organici); PR/earned media = costruzione attiva di un angolo notiziabile e outreach verso i media per ottenere copertura esterna. Le sezioni "Recensioni e testimonianze come PR della PMI" e "Reputazione e PR online" in `autorita-e-marketing.md` usano "PR" nel senso di reputazione organica, un concetto realmente distinto dall'earned media attivo: non fuse. **Modifica applicata**: `autorita-e-marketing.md` non collegava reciprocamente il nuovo nodo PR nella sezione Collegamenti nonostante `pr-earned-media-e-notiziabilita.md` lo referenzi due volte; aggiunto il link mancante.
 
-**D. Target, consapevolezza e storia d'acquisto** (`01_mercato/clienti-identificabili-e-target.md`) — **1 duplicazione reale corretta**. La nuova matrice di maturità decisionale (fonte 9 marzo 2023) duplicava, con etichette diverse ma progressione identica a 5 livelli, la scala di consapevolezza già presente in `04_marketing/gerarchia-domanda-e-canali.md` (fonte 6 maggio 2025, più recente). Per prevalenza temporale la formulazione 2025 (inconsapevole → consapevole del problema → della soluzione → del prodotto → del brand) resta la sede canonica della tassonomia grezza, usata lì per calibrare funnel/canale. `clienti-identificabili-e-target.md` ora rimanda a quella tassonomia canonica e mantiene la propria estensione originale non duplicata altrove: storia di acquisto (mai comprato / provato e smesso / usa ancora con livello di soddisfazione) e priorità commerciale conseguente. Aggiunti link reciproci mancanti verso `gerarchia-domanda-e-canali.md`, `prequalifica-follow-up-decisori.md` e `riattivazione-clienti.md`. Verificato che `riattivazione-clienti.md` e `database-email-e-sequenze.md` usano un meccanismo distinto (trigger RFM comportamento atteso/osservato) e non duplicano la matrice. Il linguaggio sul "creare terrore" resta non canonizzato, come già impostato dal batch 251–275.
+**D. Target, consapevolezza e storia d'acquisto** (`01_mercato/clienti-identificabili-e-target.md`) — **1 duplicazione reale, corretta in due tempi**. La nuova matrice di maturità decisionale (fonte 9 marzo 2023) duplicava, con etichette diverse ma progressione identica a 5 livelli, la scala di consapevolezza già presente in `04_marketing/gerarchia-domanda-e-canali.md` (fonte 6 maggio 2025, più recente). Per prevalenza temporale la formulazione 2025 (inconsapevole → consapevole del problema → della soluzione → del prodotto → del brand) resta la sede canonica della tassonomia grezza, usata lì per calibrare funnel/canale.
+
+Il commit iniziale di FASE 14 (`607e284`) aveva aggiunto una frase di rimando alla sede canonica **senza rimuovere** la vecchia enumerazione completa a 5 livelli: la duplicazione restava di fatto presente, nonostante il report la descrivesse come corretta. Una verifica indipendente del repository remoto ha individuato l'incoerenza. Un **commit correttivo** ha quindi rimosso realmente la lista a 5 livelli del 2023 da `clienti-identificabili-e-target.md`, sostituendola con un riferimento conciso alla tassonomia canonica in `gerarchia-domanda-e-canali.md`, e ha preservato solo l'estensione originale non duplicata altrove: storia di acquisto (mai comprato / provato e smesso / usa ancora con livello di soddisfazione) e priorità commerciale conseguente. Il cross-link nella sede canonica è stato riformulato per non lasciar intendere che l'altro documento ospiti ancora una seconda tassonomia completa. Aggiunti anche link reciproci mancanti verso `gerarchia-domanda-e-canali.md`, `prequalifica-follow-up-decisori.md` e `riattivazione-clienti.md`. Verificato che `riattivazione-clienti.md` e `database-email-e-sequenze.md` usano un meccanismo distinto (trigger RFM comportamento atteso/osservato) e non duplicano la matrice. Il linguaggio sul "creare terrore" resta non canonizzato, come già impostato dal batch 251–275.
 
 ### Altri punti cross-check (sezione 12 dell'handoff)
 
@@ -331,13 +335,18 @@ Verificato per lettura diretta che nessuno dei punti della sezione "13" dell'han
 
 ### Modifiche effettuate
 
-Tre file modificati, 8 righe aggiunte, 0 righe rimosse, nessuna riscrittura di sostanza:
+Il lavoro FASE 14 è stato eseguito in due commit sul checkpoint 275.
 
-1. `merenda/01_mercato/clienti-identificabili-e-target.md` — sostituita la duplicazione della scala di consapevolezza con un rimando alla sede canonica più recente; aggiunti 3 collegamenti reciproci mancanti (Collegamenti).
-2. `merenda/04_marketing/gerarchia-domanda-e-canali.md` — aggiunta una frase di rimando esplicito verso `clienti-identificabili-e-target.md` per rendere visibile che le due sezioni trattano la stessa progressione con applicazioni diverse (funnel/canale vs. priorità commerciale/storia di acquisto).
-3. `merenda/08_brand/autorita-e-marketing.md` — aggiunto il collegamento reciproco mancante verso `pr-earned-media-e-notiziabilita.md`.
+**Commit iniziale (`607e284`)** — 5 file, 105 inserimenti, 15 cancellazioni (inclusi `STATUS.md` e questo report). Sui tre file di contenuto: `clienti-identificabili-e-target.md` +5/−0, `gerarchia-domanda-e-canali.md` +2/−0, `autorita-e-marketing.md` +1/−0. Aggiunse il collegamento mancante verso il nodo PR (fix reale) e link reciproci verso `gerarchia-domanda-e-canali.md`, `prequalifica-follow-up-decisori.md`, `riattivazione-clienti.md` (fix reali), ma sulla scala di consapevolezza **aggiunse solo una frase di rimando senza rimuovere la vecchia enumerazione a 5 livelli** (0 cancellazioni su quel file): la duplicazione restava di fatto presente nonostante il report dichiarasse il contrario.
 
-Nessun merge/split di file, nessuno spostamento di contenuto tra documenti, nessuna perdita di informazione: tutte le modifiche sono collegamenti e un rimando che preserva sia il contenuto rimosso (spostato per riferimento, non eliminato) sia il contenuto originale della sede canonica.
+**Commit correttivo (questo commit)** — individuato dalla verifica indipendente del repository remoto, corregge realmente il problema:
+
+1. `merenda/01_mercato/clienti-identificabili-e-target.md` — rimossa per intero la vecchia enumerazione 2023 a 5 livelli (lista puntata + frase di rimando ridondante); sostituita con un riferimento conciso alla tassonomia canonica in `gerarchia-domanda-e-canali.md`, preservando solo l'estensione originale (storia di acquisto, soddisfazione, priorità commerciale).
+2. `merenda/04_marketing/gerarchia-domanda-e-canali.md` — riformulato il cross-link per dichiarare esplicitamente che quella è la sede canonica e che `clienti-identificabili-e-target.md` applica la dimensione senza ripetere la progressione.
+3. `reviews/CHECKPOINT_275.md` — corretto il paragrafo introduttivo (non più "pre-handoff... deve ancora eseguire FASE 14") e questa sezione, per riflettere esattamente ciò che è avvenuto nei due commit.
+4. `STATUS.md` — descrizione sintetica della correzione, senza conteggi di collegamenti non necessari al report.
+
+Nessun merge/split di file, nessuno spostamento di contenuto tra sezioni diverse dalla coppia già interessata, nessuna perdita di informazione sostanziale: la sola vera cancellazione di contenuto è la lista duplicata, il cui contenuto resta interamente disponibile nella sede canonica di `gerarchia-domanda-e-canali.md` (identica nella sostanza, con etichette leggermente diverse) e la cui estensione specifica (storia di acquisto/soddisfazione) resta in `clienti-identificabili-e-target.md`.
 
 ### Decisioni NO CHANGE principali
 
@@ -350,7 +359,7 @@ Rete vendita (nodo unico confermato), creative testing (confini confermati), bou
 - **Validator**: prima e dopo delle modifiche **842 warning**, composizione identica (836/3/3); output byte-per-byte identico (`diff` tra le due esecuzioni: nessuna differenza).
 - **`git diff --check`**: pulito prima e dopo.
 - **File frozen**: `git diff -- MASTER_PLAN.md system/RULES.md system/PHASES.md system/HANDOFFS.md system/FROZEN_FILES.md` vuoto — invariati.
-- **File modificati in totale**: 3 (elencati sopra), più questo report e `STATUS.md` in chiusura.
+- **File modificati in totale**: 5 nel commit iniziale (`STATUS.md`, `clienti-identificabili-e-target.md`, `gerarchia-domanda-e-canali.md`, `autorita-e-marketing.md`, questo report) più 4 nel commit correttivo (`clienti-identificabili-e-target.md`, `gerarchia-domanda-e-canali.md`, questo report, `STATUS.md`).
 - **Nessun contenuto 276+ processato**: confermato da catalogo, queue e assenza di transcript/review per `Hs8y1wNyamo`.
 
 ### Stato finale del corpus
