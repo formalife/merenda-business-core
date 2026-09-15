@@ -7,8 +7,8 @@
     "treatment": "ASSIMILATED_AS_MERENDA_BY_USER",
     "priority": 1,
     "temporal_scope": "2026+",
-    "status": "AUDITED_2026_COMPLETE_2025_GAP_DRIVEN",
-    "notes": "Sitemap 2026 completamente auditato (47/47) al 2026-09-15. Il 2026 ha raggiunto saturazione semantica operativa; proseguire sul 2025 solo gap-driven e riaprire il 2026 per nuovi post."
+    "status": "AUDITED_2026_COMPLETE_2025_SATURATED_GAP_DRIVEN",
+    "notes": "MAF 2026 auditato 47/47. MAF 2025: 30 fonti selezionate in tre probe ortogonali, Weighted Novelty cumulativa 4/60 = 6,7%. Le restanti fonti 2025 non sono dichiarate STUDIATO: sono indicizzate come DEFERRED_GAP_DRIVEN e si riaprono solo per gap nominabili. Nuovi post futuri restano prioritari."
   },
   {
     "id": "FM-COL-007",

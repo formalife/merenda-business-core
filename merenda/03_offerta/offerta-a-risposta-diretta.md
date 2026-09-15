@@ -417,3 +417,51 @@ Fonte: [How to Get Clients on Tap: The Power of a Perfect Front-End](https://www
 - [Marketing first](../00_fondamenti/marketing-first.md)
 - [Prequalifica, follow-up e decisori](../06_vendita/prequalifica-follow-up-decisori.md)
 - [Numeri, cassa e crescita](../09_business/numeri-cassa-e-crescita.md)
+
+
+## Ridurre il carico di scelta: il bundle può essere anche una scorciatoia decisionale
+
+Nel materiale MAF del 26 dicembre 2025, il bundle viene usato non soltanto per aumentare il valore della transazione, ma per **ridurre il lavoro di composizione che l'offerta scarica sul cliente**.
+
+Quando il risultato richiede più componenti compatibili, presentare soltanto un lungo catalogo obbliga il cliente a:
+
+- capire che cosa serve;
+- verificare compatibilità e quantità;
+- costruire da solo la soluzione;
+- assumersi il rischio di dimenticare un pezzo.
+
+Una possibile risposta è raggruppare componenti coerenti in poche soluzioni comprensibili.
+
+Il principio è:
+
+**risultato desiderato → componenti necessari → poche configurazioni coerenti → scelta più semplice.**
+
+Non esiste un numero universale di pacchetti. La regola è evitare sia il catalogo caotico sia un bundle rigido che costringe clienti diversi dentro la stessa soluzione.
+
+Questo estende il principio già presente “costruire il bundle attorno al risultato d'uso”: il bundle può creare valore anche **riducendo il costo cognitivo della scelta**.
+
+Fonte assimilata: Moreno Bonechi, “Il Kit Vende. Il Catalogo Confonde.”, 26 dicembre 2025. Review: ../../sources/merenda-sources/FM-SRC-0152/review.md.
+
+## La prova deve durare abbastanza da far sperimentare il valore rilevante
+
+Nel materiale MAF del 5 marzo 2025, il test-drive esteso viene usato per formulare una regola più generale sulla prova.
+
+Una demo breve può mostrare caratteristiche, ma non sempre consente al prospect di capire come il prodotto o servizio si comporta nel **contesto reale d'uso**.
+
+La progettazione della prova dovrebbe chiedere:
+
+- quale valore il prospect deve riuscire a verificare;
+- quale uso reale è necessario per verificarlo;
+- quanto tempo serve ragionevolmente;
+- quale supporto aiuta a usare correttamente la prova;
+- quali segnali raccogliere per il follow-up successivo.
+
+La sequenza è:
+
+**rischio/obiezione → esperienza di prova coerente → uso reale → feedback → proposta successiva.**
+
+“Più lunga” non significa automaticamente “migliore”. Una prova troppo estesa può aumentare costo, abuso o procrastinazione. La durata deve essere sufficiente a rendere osservabile il valore che conta per quella decisione.
+
+Questo completa il front-end e il risk reversal già presenti nella KB.
+
+Fonte assimilata: Moreno Bonechi, “Kia e la Lezione del Test Drive di 24 Ore…”, 5 marzo 2025. Review: ../../sources/merenda-sources/FM-SRC-0159/review.md.

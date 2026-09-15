@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — jAI 2025–2026 completo; Marketing Automation Facile 2026 completo (47/47). Continuare esclusivamente con MAF 2025 in modalità gap-driven, integrando solo concetti assenti; jAI resta in watch per nuovi post.**
+**CHATGPT — jAI 2025–2026 completo; MAF 2026 completo 47/47; MAF 2025 ha raggiunto saturazione gap-driven (30 fonti campionate, novelty 6,7%). Nessun altro corpus è operativo. Riaprire MAF/jAI solo per nuovi post o gap KB nominabili.**
 
 Non acquisire video residui 314+.
 

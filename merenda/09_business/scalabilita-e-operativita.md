@@ -404,3 +404,36 @@ Questo completa “automatizzare il normale, escalare l'eccezione”: prima anco
 L'obiettivo non è moltiplicare burocrazia e approvazioni. È eliminare il vuoto nel quale un'attività importante resta ferma perché tutti pensavano fosse responsabilità di qualcun altro.
 
 Fonte assimilata: Moreno Bonechi, “Dipendenti che Fanno Solo il Compitino?…”, 24 aprile 2025. Review: ../../sources/merenda-sources/FM-SRC-0144/review.md.
+
+
+## Governare i fornitori esterni come un unico sistema, non come reparti in competizione
+
+Nel materiale MAF del 15 giugno 2025 viene formalizzato un problema di governance quando più fornitori esterni contribuiscono allo stesso percorso commerciale.
+
+Ogni specialista può ottimizzare una metrica locale — traffico, reach, click, lead, ranking — mentre l'impresa ha bisogno di un risultato economico complessivo.
+
+Se mancano regole comuni possono emergere:
+
+- messaggi incompatibili;
+- sovrapposizione di audience e budget;
+- doppia attribuzione degli stessi risultati;
+- rimpallo delle responsabilità;
+- report ottimizzati per difendere il singolo fornitore;
+- assenza di una persona che possieda l'intero customer journey.
+
+La governance utile richiede almeno:
+
+1. **outcome comune** — quale risultato economico/commerciale conta;
+2. **regole di attribuzione leggibili** — evitare di contare lo stesso risultato più volte;
+3. **messaggio/posizionamento comune** — i canali possono avere funzioni diverse senza contraddirsi;
+4. **confini di responsabilità** — che cosa possiede ciascun fornitore;
+5. **owner interno o unico responsabile del sistema** — qualcuno deve poter decidere fra ottimi locali incompatibili;
+6. **review end-to-end** — valutare il percorso completo e non soltanto i report separati.
+
+Il principio è:
+
+**specialisti diversi → strategia unica → metriche compatibili → un owner del risultato finale.**
+
+Questo non richiede necessariamente un unico fornitore. Richiede che l'impresa non abdichi alla regia.
+
+Fonte assimilata: Moreno Bonechi, “La Guerra dei Fornitori…”, 15 giugno 2025. Review: ../../sources/merenda-sources/FM-SRC-0157/review.md.
