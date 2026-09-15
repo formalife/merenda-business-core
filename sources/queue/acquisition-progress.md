@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:49:00.311192+00:00
+Ultimo aggiornamento: 2026-09-15T08:49:06.618991+00:00
 
 Batch: 25 video
-Completati tecnicamente: 21/25
+Completati tecnicamente: 22/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -28,7 +28,7 @@ Completati tecnicamente: 21/25
 | 19 | oqoMqLQl9G4 | How to Make Your Seasonal Business a Steady Source of Income | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 20 | 5FEOsDJ5HAU | How to Tackle a Business Crisis and Turn It Into an Opportunity in 5 Simple Steps | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 21 | yZsBzaiH_Ic | Franchising: Opportunità o Trappola? Come Espandere La Tua Azienda Senza Farti Male | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 22 | 2tWslHOkxIc | Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo | PENDING |  |
+| 22 | 2tWslHOkxIc | Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 23 | v2LEVo40O_w | Come Generare Flusso di Cassa In Anticipo Nella Tua Azienda | PENDING |  |
 | 24 | dt5NN20BeOY | 7 Numbers You Must Know to Make Your Business Take Off | PENDING |  |
 | 25 | Fo8PB_7fE60 | HOW TO DO BUSINESS \| The organizational chart of a modern company | PENDING |  |
