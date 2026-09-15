@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:47:11.013423+00:00
+Ultimo aggiornamento: 2026-09-15T08:47:17.226804+00:00
 
 Batch: 25 video
-Completati tecnicamente: 6/25
+Completati tecnicamente: 7/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -13,7 +13,7 @@ Completati tecnicamente: 6/25
 | 4 | 6sNjbCGzd2A | How to Create an Effective Call to Action | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 5 | nKOvJg4lq6k | COPYWRITING: Cos'é Oggi il Copy a Risposta Diretta | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 6 | eBvEH3TPqSA | Direct Response Marketing \| What's the Difference Between a Brand and a Category? | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 7 | 9lPjA4n3UB4 | How to Find Clients Without a Strong Brand | PENDING |  |
+| 7 | 9lPjA4n3UB4 | How to Find Clients Without a Strong Brand | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 8 | DcnlHK3p9u8 | Come Tenere I Clienti Incollati Al Tuo Brand (E Proteggerti dai Competitor) | PENDING |  |
 | 9 | DgbZMAqw4NY | REPUTAZIONE DEL BRAND \| Come EVITARE ERRORI e gestire la crisi | PENDING |  |
 | 10 | N547HVgrQmk | Proteggere il BRAND da Joint Venture nocive | PENDING |  |
