@@ -40,8 +40,8 @@
     "treatment": "MERENDA_PRIMARY",
     "priority": 4,
     "temporal_scope": "fino al 2024",
-    "status": "ACTIVE",
-    "notes": "Podcast ufficiale. Almeno 54 episodi individuati; probabile forte sovrapposizione con il corpus video storico, quindi processare per gap/dedup."
+    "status": "MAPPED_GAP_DRIVEN",
+    "notes": "Corpus ufficiale Marketing Rodeo mappato 54/54 via API/RSS Spreaker (2022–2024). Metadati/sinossi indicano forte sovrapposizione con KB più recente. Nessun episodio viene marcato STUDIATO senza contenuto sufficiente. Candidati gap conservati nell'indice per review mirata; riaprire con audio/transcript o duplicate source quando necessario."
   },
   {
     "id": "FM-COL-005",

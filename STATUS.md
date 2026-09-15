@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — fmerenda 2025 auditato e chiuso per dedup; passare a Marketing Rodeo (54 episodi) con mappatura titoli/date e gap-driven review, poi archivi storici Venditore Vincente / Marketing Merenda.**
+**CHATGPT — Marketing Rodeo mappato 54/54 e posto in gap-driven review; passare agli archivi testuali Venditore Vincente / Marketing Merenda, poi tornare ai soli podcast gap-candidate se il corpus storico non li risolve.**
 
 Non acquisire video residui 314+.
 
