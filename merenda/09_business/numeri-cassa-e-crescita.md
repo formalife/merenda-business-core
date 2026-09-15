@@ -98,6 +98,33 @@ Il test non rende automaticamente buona una campagna: serve a trasformare una di
 
 Fonte precedente: [Strategie di marketing — Perché devi tracciare tutte le campagne](https://www.youtube.com/watch?v=Rg6q7ynXdrM), 30 agosto 2022. [Revisione](../../sources/transcripts/Rg6q7ynXdrM.review.md).
 
+## Contabilità periodica e KPI operativi hanno velocità diverse
+
+Nel materiale del 18 ottobre 2024, in un intervento con il dott. Catanzaro, viene resa esplicita una distinzione utile fra due livelli di controllo.
+
+La **contabilità periodica** permette di leggere risultati economici, patrimoniali e finanziari con una vista completa ma inevitabilmente ritardata.
+
+I **KPI operativi** servono invece a intercettare prima i problemi che genereranno quei risultati, per esempio:
+
+- lead e opportunità;
+- tassi di presentazione e chiusura;
+- costo di acquisizione;
+- mix di prodotti/servizi;
+- margini;
+- altri indicatori direttamente collegati alle leve che il team può correggere.
+
+Il principio non è sostituire bilancio e contabilità con dashboard veloci. È usare frequenze diverse per domande diverse:
+
+**contabilità periodica → che risultato abbiamo prodotto?**
+
+**KPI operativi frequenti → quale leva sta producendo quel risultato e cosa possiamo correggere prima?**
+
+Nell'esempio vengono citati controlli trimestrali della contabilità e settimanali di diversi KPI. Queste frequenze non sono soglie universali: vanno adattate a velocità del ciclo commerciale, rischio, volume e capacità decisionale.
+
+La fonte insiste inoltre sul confronto temporale: una fotografia isolata è meno utile di una serie che permetta di capire se l'azienda sta migliorando o peggiorando rispetto a periodi comparabili.
+
+Fonte precedente: [L'unico Sistema Valido E Testato Per Guidare Un'Azienda Che Guadagna Davvero](https://www.youtube.com/watch?v=RNsDovlfwK8), 18 ottobre 2024. [Revisione](../../sources/transcripts/RNsDovlfwK8.review.md).
+
 ## Cassa reale, riserve, cash flow e previsionale
 
 Nel materiale sulla gestione dell'impresa in condizioni di forte incertezza Merenda separa nettamente **cassa reale** e valori che non sono ancora disponibili sul conto.

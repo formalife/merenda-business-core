@@ -38,6 +38,22 @@ richiede invece capacità, persone, tempo, denaro e coordinamento.
 
 Per questo Merenda descrive la strategia come un fossato: non impedisce fisicamente al concorrente di vedere ciò che fai, ma rende difficile riprodurre il sistema completo.
 
+## Tre test pratici di difendibilità dal punto di vista del cliente
+
+Nel materiale del 20 novembre 2024 Merenda usa tre domande per rendere più concreta la nozione di fossato competitivo.
+
+Una posizione diventa più difendibile quando l'azienda riesce progressivamente a essere:
+
+1. **fra le ultime cose che il cliente vuole tagliare** quando deve ridurre spese;
+2. **benvenuta nella relazione**, perché il contatto, i materiali e il servizio producono valore invece di essere percepiti come semplice pressione commerciale;
+3. **difficile da comparare direttamente**, perché la proposta, l'esperienza e il sistema non coincidono con una commodity facilmente sostituibile.
+
+Questi tre punti non costituiscono un moat separato dal sistema complesso descritto nella fonte più recente del 2025. Sono un **test lato cliente** dello stesso principio: se la differenza vive soltanto nello slogan, può essere copiata; se vive nell'economia, nei processi, nell'esperienza e nella relazione, diventa più difficile da sostituire.
+
+La fonte usa anche la formula “rendere opzionale → essenziale”. La KB non la interpreta come tentativo di creare dipendenza artificiale: il significato operativo conservato è aumentare il valore reale e percepito fino a ridurre la sostituibilità.
+
+Fonte precedente: [Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti](https://www.youtube.com/watch?v=-6TU0HZ8cQo), 20 novembre 2024. [Revisione](../../sources/transcripts/-6TU0HZ8cQo.review.md).
+
 ## Copiare la superficie non significa copiare il sistema
 
 Il "paccone" è l'esempio più netto.

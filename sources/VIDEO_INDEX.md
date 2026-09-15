@@ -368,7 +368,7 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 358 | 8E8Cj1F0V9M | da acquisire | [Amazon is no longer an e-commerce site: it's now 100% Merenda Method](https://www.youtube.com/watch?v=8E8Cj1F0V9M) | 695.0 | 09_business | 2 | DA STUDIARE | videos |
 | 359 | VW36EYJReRU | da acquisire | [HOW TO BECOME A successful ENTREPRENEUR at 18?](https://www.youtube.com/watch?v=VW36EYJReRU) | 639.0 | 09_business | 2 | DA STUDIARE | videos |
 | 360 | 2DEKsiMb11Y | da acquisire | [How to Become an Entrepreneur &#124; and Succeed Even Without Experience](https://www.youtube.com/watch?v=2DEKsiMb11Y) | 4722.0 | 09_business | 2 | DA STUDIARE | streams |
-| 361 | Nk5BZqfkO-A | da acquisire | [Il Sistema Di Offerte Spilla Soldi Mai Rivelato Dalle Big Company](https://www.youtube.com/watch?v=Nk5BZqfkO-A) | 1540.0 | 09_business | 2 | DA STUDIARE | videos |
+| 361 | Nk5BZqfkO-A | da acquisire | [Il Sistema Di Offerte Spilla Soldi Mai Rivelato Dalle Big Company](https://www.youtube.com/watch?v=Nk5BZqfkO-A) | 1540.0 | 03_offerta | 2 | STUDIATO | videos |
 | 362 | 7EY0X8kMJ0o | da acquisire | [🔴 Direct Response Marketing: The Technique That Made Great Entrepreneurs Rich](https://www.youtube.com/watch?v=7EY0X8kMJ0o) | 4151.0 | 09_business | 2 | DA STUDIARE | videos |
 | 363 | i2_3ygDL148 | da acquisire | [SALES TECHNIQUES &#124; What does it mean to be a Salesperson in a company?](https://www.youtube.com/watch?v=i2_3ygDL148) | 760.0 | 09_business | 2 | DA STUDIARE | videos |
 | 364 | KvISQI3qS5w | da acquisire | [CREATING AN E-COMMERCE &#124; The best way NOT to sell](https://www.youtube.com/watch?v=KvISQI3qS5w) | 166.0 | 09_business | 2 | DA STUDIARE | videos |
@@ -383,10 +383,10 @@ Stati: `DA STUDIARE`, `STUDIATO`, `DA RIVEDERE`, `ESCLUSO` (con motivo).
 | 373 | GFrT89AGv50 | da acquisire | [A Practical Guide to Exiting: How to Prepare Your Business and Turn It Into a Gold Mine](https://www.youtube.com/watch?v=GFrT89AGv50) | 1075.0 | 09_business | 2 | STUDIATO | videos |
 | 374 | yZsBzaiH_Ic | da acquisire | [Franchising: Opportunità o Trappola? Come Espandere La Tua Azienda Senza Farti Male](https://www.youtube.com/watch?v=yZsBzaiH_Ic) | 1479.0 | 09_business | 2 | STUDIATO | videos |
 | 375 | 9UxJuYEpf30 | da acquisire | [Making Money with Your Business? Discover 2 Skills That Make a Difference](https://www.youtube.com/watch?v=9UxJuYEpf30) | 939.0 | 09_business | 2 | DA STUDIARE | videos |
-| 376 | -6TU0HZ8cQo | da acquisire | [Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti](https://www.youtube.com/watch?v=-6TU0HZ8cQo) | 1250.0 | 09_business | 2 | DA STUDIARE | videos |
+| 376 | -6TU0HZ8cQo | da acquisire | [Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti](https://www.youtube.com/watch?v=-6TU0HZ8cQo) | 1250.0 | 04_marketing | 2 | STUDIATO | videos |
 | 377 | 2tWslHOkxIc | da acquisire | [Seleziona i Collaboratori Perfetti: 2 Tecniche Provate per Imprenditori di Successo](https://www.youtube.com/watch?v=2tWslHOkxIc) | 777.0 | 09_business | 2 | STUDIATO | videos |
 | 378 | -HLNTlFhGW8 | da acquisire | [Come Espandere il Tuo Business con 2 Regole Semplici ma Potenti](https://www.youtube.com/watch?v=-HLNTlFhGW8) | 934.0 | 09_business | 2 | DA STUDIARE | videos |
-| 379 | RNsDovlfwK8 | da acquisire | [L'unico Sistema Valido E Testato Per Guidare Un'Azienda Che Guadagna Davvero](https://www.youtube.com/watch?v=RNsDovlfwK8) | 2356.0 | 09_business | 2 | DA STUDIARE | videos |
+| 379 | RNsDovlfwK8 | da acquisire | [L'unico Sistema Valido E Testato Per Guidare Un'Azienda Che Guadagna Davvero](https://www.youtube.com/watch?v=RNsDovlfwK8) | 2356.0 | 09_business | 2 | STUDIATO | videos |
 | 380 | DA_NpLZLn9U | da acquisire | [3 Cose Da Cambiare Subito Per Creare Un’Azienda Che Genera Ricchezza](https://www.youtube.com/watch?v=DA_NpLZLn9U) | 2045.0 | 09_business | 2 | DA STUDIARE | videos |
 | 381 | wg3tWYf6iho | da acquisire | [#11 Controversial Truths to Scale Your Business Fast](https://www.youtube.com/watch?v=wg3tWYf6iho) | 4051.0 | 09_business | 2 | DA STUDIARE | videos |
 | 382 | v2LEVo40O_w | da acquisire | [Come Generare Flusso di Cassa In Anticipo Nella Tua Azienda](https://www.youtube.com/watch?v=v2LEVo40O_w) | 1490.0 | 09_business | 2 | STUDIATO | videos |

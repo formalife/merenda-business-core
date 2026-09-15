@@ -324,9 +324,9 @@ Audit tassonomico (checkpoint 150, fase 15): la tassonomia a 11 categorie resta 
 | 308 | [LtFeqet7OFc](https://www.youtube.com/watch?v=LtFeqet7OFc) — GELATERIA WALLY MILAN &#124; The Brutal Truth About the Ice Cream You Eat Every Day | 10_casi_studio | STUDIATO |
 | 309 | [dftLQTuK0cY](https://www.youtube.com/watch?v=dftLQTuK0cY) — CAMMI GOMME PIACENZA: The Tire Dealer That Doesn't Look Like a Tire Dealer | 10_casi_studio | STUDIATO |
 | 310 | [wDRHWHNHP5c](https://www.youtube.com/watch?v=wDRHWHNHP5c) — EUROPA 92 a Modena: Il Ristorante Di Pavarotti Dove I Food Blogger Non Entrano | 10_casi_studio | STUDIATO |
-| 311 | [-6TU0HZ8cQo](https://www.youtube.com/watch?v=-6TU0HZ8cQo) — Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti | 09_business | DA STUDIARE |
-| 312 | [Nk5BZqfkO-A](https://www.youtube.com/watch?v=Nk5BZqfkO-A) — Il Sistema Di Offerte Spilla Soldi Mai Rivelato Dalle Big Company | 09_business | DA STUDIARE |
-| 313 | [RNsDovlfwK8](https://www.youtube.com/watch?v=RNsDovlfwK8) — L'unico Sistema Valido E Testato Per Guidare Un'Azienda Che Guadagna Davvero | 09_business | DA STUDIARE |
+| 311 | [-6TU0HZ8cQo](https://www.youtube.com/watch?v=-6TU0HZ8cQo) — Come Rendere La Tua Azienda Ricca e Inattaccabile Dai Concorrenti | 04_marketing | STUDIATO |
+| 312 | [Nk5BZqfkO-A](https://www.youtube.com/watch?v=Nk5BZqfkO-A) — Il Sistema Di Offerte Spilla Soldi Mai Rivelato Dalle Big Company | 03_offerta | STUDIATO |
+| 313 | [RNsDovlfwK8](https://www.youtube.com/watch?v=RNsDovlfwK8) — L'unico Sistema Valido E Testato Per Guidare Un'Azienda Che Guadagna Davvero | 09_business | STUDIATO |
 | 314 | [asMedYJtd4I](https://www.youtube.com/watch?v=asMedYJtd4I) — CONCORRENZA SLEALE dei dipendenti? | 09_business | DA STUDIARE |
 | 315 | [7khsng5QpSs](https://www.youtube.com/watch?v=7khsng5QpSs) — How to Double Your Company's Results in Just 6 Months | 09_business | DA STUDIARE |
 | 316 | [wqo0CMzCsYY](https://www.youtube.com/watch?v=wqo0CMzCsYY) — The ONE RULE to apply to become a MILLIONAIRE ENTREPRENEUR | 09_business | DA STUDIARE |

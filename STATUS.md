@@ -2,58 +2,64 @@
 
 ## Stato generale
 
-ACTIVE — contenuti **1–310 processati semanticamente**. La KB Merenda è in **fase finale di saturazione**.
+**MERENDA KB SUFFICIENTEMENTE SATURA — ACQUISIZIONE GENERALISTA CHIUSA.**
 
-## Risultato 301–310
+Contenuti **1–313 processati semanticamente**.
 
-- novelty binaria: **7/10 = 70%**
-- Weighted Novelty: **9/20 = 45%**
-- nuovi framework peso 2: exit readiness; controlli interni/rischio operativo
+La regola di stop del final probe è stata soddisfatta.
 
-## Rivalutazione RESERVE post-310
+## Final probe 311–313
 
-I 12 RESERVE sono stati rivalutati contro la KB aggiornata.
+- 3/3 STUDIATO
+- peso 2: **0**
+- peso 1: **2**
+- peso 0: **1**
+- Weighted Novelty: **2/6 = 33,3%**
+- nuovi framework: **0**
 
-Esito:
-- **3 FINAL PROBE**
-- **9 DEFER**
-
-Final probe:
-1. `-6TU0HZ8cQo` — difendibilità/moat
-2. `Nk5BZqfkO-A` — architettura offerte
-3. `RNsDovlfwK8` — sistema integrato di governo
-
-Report: `reviews/RESERVE_REASSESSMENT_POST_310.md`.
+Report canonico: `reviews/MERENDA_SATURATION_313.md`.
 
 ## Corpus
 
-- totale: **468**
-- STUDIATO: **304**
+- Video individuati: **468**
+- Processati semanticamente: **313**
+- STUDIATO: **307**
 - ESCLUSO: **6**
-- DA STUDIARE: **158**
-- semanticamente processati: **310**
+- DA STUDIARE intenzionali: **155**
+- Primo residuo in queue: posizione **314**, `asMedYJtd4I`
 
-## Acquisizione tecnica 311–313 (fase 7, final probe)
+I 155 residui **non sono un backlog da completare**. Restano chiusi finché non emerge un gap specifico e nominabile.
 
-Branch: `acquisition-final-probe-311-313` (pushato, non mergiato su `main`).
+## Decisione
 
-- 3 tentati, 3 ACQUIRED: `-6TU0HZ8cQo`, `Nk5BZqfkO-A`, `RNsDovlfwK8`.
-- Channel ID verificato `UCaAzr7bvYcZRfGR8EyBynOA` per tutti e tre.
-- Sottotitoli: nessuna traccia manuale disponibile per nessuno dei tre; usata `it-orig` (automatic caption lingua originale) come da fallback. Nessuna ASR necessaria.
-- Nessun errore, nessun NO_IT_TRANSCRIPT.
-- Coverage/delta: timestamp finale del Markdown entro pochi secondi dalla durata dichiarata in `info.json` per tutti e tre (outro musicale), nessun gap rilevante.
-- Keyframe: nessuno estratto — decisione riservata alla revisione semantica (fase 8–13).
-- Validator: baseline pre-acquisizione 841 righe (atteso 842, scostamento preesistente di 1 riga non causato da questa fase); nessuna nuova voce di errore rilevante introdotta dall'acquisizione (dettaglio nel diff conservato in `/tmp/validator-before-311-313.txt` / `/tmp/validator-after-311-313.txt`).
-- Invarianti rispettati: 1–310 invariati, nessuna modifica a `merenda/`, `.review.md`, `sources/catalog.json`, `sources/VIDEO_INDEX.md`, `sources/queue/QUEUE.md`, `reviews/RESERVE_REASSESSMENT_POST_310.md` o file frozen; nessuna analisi semantica eseguita; nessun video marcato STUDIATO/ESCLUSO; nessun contenuto 314+ toccato.
+**STOP acquisizione Merenda.**
+
+Non:
+- acquisire 314+;
+- riaprire batch sequenziali;
+- inseguire 468/468;
+- usare i residui solo perché disponibili.
+
+Una fonte residua può essere riaperta soltanto se una futura analisi identifica un gap concreto non coperto dalla KB.
+
+## Stato Source of Truth
+
+La Merenda KB diventa il **doctrine layer** stabile.
+
+Le fonti esterne non devono essere fuse dentro `merenda/`.
+
+Architettura successiva:
+
+1. **Merenda KB** — dottrina sorgente;
+2. **Evidence / External KB** — evidenze indipendenti, ricerca, piattaforme, CRO, behavioral science, pricing, sales, retention;
+3. **Formalife Strategy** — decisioni applicative dopo confronto e critica.
+
+## Checkpoint
+
+- ultimo FASE 14 + 15: **300**
+- final probe di saturazione: **313**
+- nessun checkpoint Claude aggiuntivo richiesto
 
 ## Next Action
 
-**Agente richiesto: CHATGPT.**
-
-**Prossima azione: revisione semantica 311–313 + Weighted Novelty finale.**
-
-Dopo la review dei tre:
-- se nessun peso 2 e Weighted Novelty ≤2/6 → dichiarare KB Merenda sufficientemente satura e aprire lo strato esterno/evidence;
-- se emerge un nuovo framework peso 2 → seguire solo il gap specifico.
-
-**Non acquisire 314+. Non tornare a batch sequenziali.**
+**CHATGPT — progettare e avviare lo strato Evidence / External KB senza contaminare la Merenda KB.**
