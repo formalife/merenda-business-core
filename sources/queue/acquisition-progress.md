@@ -1,9 +1,9 @@
 # Acquisition Progress
 
-Ultimo aggiornamento: 2026-09-15T08:47:51.717322+00:00
+Ultimo aggiornamento: 2026-09-15T08:47:56.188177+00:00
 
 Batch: 25 video
-Completati tecnicamente: 13/25
+Completati tecnicamente: 14/25
 
 | # | Video ID | Titolo | Stato | Nota |
 |---:|---|---|---|---|
@@ -20,7 +20,7 @@ Completati tecnicamente: 13/25
 | 11 | Hs8y1wNyamo | THE ideal SALES PROCESS for generating TARGETED clients | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 12 | 7tWAsKiB0-Q | MARKETING \| The Sales Letter in an Envelope Structure | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 13 | qX8bJHUIDjI | Marketing Strategies \| Dan Kennedy's 3 Steps to Increase Sales | ACQUIRED | Metadata + transcript Markdown disponibili. |
-| 14 | fpX3evEGoHY | [Tecniche di Vendita] Come vendere fornendo la prova | PENDING |  |
+| 14 | fpX3evEGoHY | [Tecniche di Vendita] Come vendere fornendo la prova | ACQUIRED | Metadata + transcript Markdown disponibili. |
 | 15 | kGEOki4orFg | [Tecniche di Vendita] Perchè utilizzare il sistema Plug and Play | PENDING |  |
 | 16 | Ldy_Av2G1SA | 🔴 Business Growth: How to Take Your SMB from Zero to Success (Complete 2025 Strategy) | PENDING |  |
 | 17 | GUolZGprkP8 | BUDGET per MARKETING \| Come capire quanto investire per il Paccone? | PENDING |  |
