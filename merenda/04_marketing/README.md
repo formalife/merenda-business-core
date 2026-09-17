@@ -17,3 +17,5 @@ Rimandi alle fonti e alle eventuali incertezze locali nei documenti.
 [Eventi proprietari e VIP experience](eventi-proprietari-vip-experience.md): usare incontri dal vivo progettati come asset di relazione, vendita, riattivazione e referral quando l'economia del cliente li sostiene.
 
 [Riattivazione dei clienti fermi](riattivazione-clienti.md): definire la frequenza attesa, usare trigger CRM e campagne specifiche per riportare clienti inattivi nel ciclo di acquisto.
+
+[Monetizzazione CRM e campagne sulla base già acquisita](monetizzazione-crm-e-campagne-clienti.md): orchestrare stato della relazione, segmentazione, offerta, contatto commerciale e aggiornamento CRM in un sistema continuo; comprende sedici famiglie di campagne per sviluppare, recuperare e monetizzare relazioni già costruite.
