@@ -333,3 +333,36 @@ Questo completa il principio già presente “mancato acquisto ≠ assenza d'int
 Le indicazioni su fonti dati, privacy e configurazione software della fonte restano esempi operativi e richiedono verifica nel contesto applicabile.
 
 Fonte assimilata: Moreno Bonechi, “Il Tuo Venditore Dice «Non Ha Budget»…”, 15 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0061/review.md.
+
+## Preparare più stakeholder con una base comune
+
+Nel corso storico **Il Paccone delle Meraviglie**, Merenda rende concreta la regola “raggiungere chi decide” nei cicli B2B con più persone coinvolte.
+
+Quando acquisti, tecnico, direzione o altri ruoli partecipano alla stessa decisione, il materiale di pre-selling può mantenere una **base comune** ma cambiare l'apertura e l'argomentazione in funzione del ruolo:
+
+- acquisti → condizioni, affidabilità, costo totale pertinente;
+- tecnico → compatibilità, prestazioni, rischio operativo;
+- direzione → impatto economico, continuità e conseguenze strategiche.
+
+La logica è:
+
+**stessa offerta → stakeholder diversi → criteri decisionali diversi → introduzione/prova/enfasi coerenti.**
+
+Questo non richiede necessariamente invii fisici separati: il paccone è l'implementazione della fonte. Il principio canonico è preparare i diversi decisori senza costringerli a estrarre da soli, dallo stesso materiale generico, ciò che conta per il loro ruolo.
+
+### Ridurre il rischio percepito dell'appuntamento
+
+La fonte propone inoltre una scheda che renda prevedibile il primo incontro, chiarendo quando utile:
+
+- durata e modalità;
+- scopo;
+- cosa verrà chiesto e perché;
+- cosa preparare;
+- eventuali passaggi successivi;
+- ordine di grandezza economico quando serve a evitare aspettative incompatibili.
+
+Questa è un'estensione pratica della prequalifica già canonizzata: il prospect non deve arrivare alla conversazione senza sapere che tipo di impegno sta accettando.
+
+Un eventuale questionario pre-incontro può inoltre raccogliere situazione, alternative già provate, vincoli e priorità affinché il venditore usi il tempo sincrono per diagnosi e decisione, non per ricostruire informazioni standardizzabili.
+
+Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.

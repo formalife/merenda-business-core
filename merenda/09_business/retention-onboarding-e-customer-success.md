@@ -227,3 +227,23 @@ Una base operativa condivisa dovrebbe rendere disponibili, a chi ne ha bisogno:
 Segnali utili da osservare sono ripetizioni, passaggi di mano, tempi end-to-end, reclami da disallineamento e concessioni usate per riparare errori di coordinamento.
 
 Fonte assimilata: Moreno Bonechi, “Il Vero Spreco Non È il Tempo dei Venditori. È il Tempo dei Clienti.”, 3 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0103/review.md.
+
+## Il pacchetto post-acquisto come onboarding fisico
+
+Nel corso storico **Il Paccone delle Meraviglie**, Merenda applica lo stesso formato fisico anche subito dopo la vendita, chiamandolo in alcuni passaggi **WOW box**.
+
+Il valore canonico non è la scatola in sé. È il principio di usare il momento immediatamente successivo all'acquisto per:
+
+- confermare che il cliente ha compiuto la scelta prevista;
+- spiegare con chiarezza i prossimi passi;
+- ridurre incertezza e buyer's remorse;
+- far partire correttamente l'utilizzo/erogazione;
+- rafforzare la relazione prima di future proposte coerenti.
+
+La sequenza è:
+
+**acquisto → conferma e orientamento → istruzioni / primi passi → esperienza reale → continuità.**
+
+Questo si integra nel framework più recente di onboarding di questo nodo: il supporto fisico è una possibile implementazione quando migliora davvero comprensione, fiducia o avvio del cliente. Non è un requisito universale e non sostituisce qualità dell'erogazione e customer success.
+
+Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.
