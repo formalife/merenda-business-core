@@ -1,0 +1,91 @@
+name: Temporary integrate Paccone v2
+
+on:
+  push:
+    branches: [source-paccone-meraviglie]
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: source-paccone-meraviglie
+
+      - name: Apply canonical merges and registry
+        run: |
+          python3 - <<'PY'
+          import base64, json
+          from pathlib import Path
+
+          def dec(s):
+              return base64.b64decode(s).decode('utf-8')
+
+          def append_once(path_str, marker, block_b64):
+              path = Path(path_str)
+              text = path.read_text()
+              if marker not in text:
+                  if not text.endswith('\n'):
+                      text += '\n'
+                  text += '\n' + dec(block_b64).strip() + '\n'
+                  path.write_text(text)
+
+          append_once('merenda/05_acquisizione/information-marketing.md', '## Paccone come sales letter fisica modulare', 'IyMgUGFjY29uZSBjb21lIHNhbGVzIGxldHRlciBmaXNpY2EgbW9kdWxhcmUKCk5lbCBjb3JzbyBzdG9yaWNvICoqSWwgUGFjY29uZSBkZWxsZSBNZXJhdmlnbGllKiosIGRpIGRhdGEgbm9uIHZlcmlmaWNhdGEsIE1lcmVuZGEgc3ZpbHVwcGEgbCdhcmNoaXRldHR1cmEgaW50ZXJuYSBkZWwgcGFjY2hldHRvIGZpc2ljbyBnacOgIHByZXNlbnRlIGluIHF1ZXN0byBub2RvLgoKSWwgcGFjY29uZSBub24gw6ggdW5hIHNjYXRvbGEgZGkgbWF0ZXJpYWxpIHByb21vemlvbmFsaS4gUHXDsiBlc3NlcmUgcHJvZ2V0dGF0byBjb21lIHVuYSAqKnNhbGVzIGxldHRlciBzY29tcG9zdGEgaW4gbW9kdWxpIGZpc2ljaSoqLCBkb3ZlIG9nbmkgY29tcG9uZW50ZSBzdm9sZ2UgdW5hIGZ1bnppb25lIHByZWNpc2EgZGVsbCdhcmdvbWVudGF6aW9uZToKCi0gaW50cm9kdXppb25lIGUgcG9zaXppb25hbWVudG8g4oaSIGxldHRlcmEgcGVyc29uYWxlIC8gbWF0ZXJpYWxlIGRpIHByZXNlbnRhemlvbmU7Ci0gZWR1Y2F6aW9uZSDihpIgbGlicm8sIGd1aWRhLCByZXBvcnQgbyBhbHRybyBjb250ZW51dG8gdXRpbGU7Ci0gcHJvdmEg4oaSIHRlc3RpbW9uaWFuemUsIGNhc2kgZSBkaW1vc3RyYXppb25pOwotIGF1dG9yaXTDoCDihpIgcHViYmxpY2F6aW9uaSwgaW50ZXJ2aXN0ZSBvIGFsdHJpIGFzc2V0IHZlcmlmaWNhYmlsaTsKLSByaWR1emlvbmUgZGVsIHJpc2NoaW8g4oaSIGdhcmFuemlhIG8gc3BpZWdhemlvbmUgZGVsIHByb2Nlc3NvOwotIHByZXBhcmF6aW9uZSBjb21tZXJjaWFsZSDihpIgc2NoZWRhIGRlbGwnYXBwdW50YW1lbnRvIC8gcXVlc3Rpb25hcmlvOwotIGF6aW9uZSDihpIgQ1RBIGVzcGxpY2l0YS4KCkxhIHJlZ29sYSBub24gw6ggaW5zZXJpcmUgb2JibGlnYXRvcmlhbWVudGUgdHV0dGkgZ2xpIGVsZW1lbnRpLiDDiDoKCioqZnVuemlvbmUgcGVyc3Vhc2l2YSBuZWNlc3NhcmlhIOKGkiBjb21wb25lbnRlIGFwcHJvcHJpYXRvIOKGkiBwcm9zc2ltbyBwYXNzbyBjaGlhcm8uKioKClF1ZXN0byBjb21wbGV0YSBpbCBjb25jZXR0byBnacOgIGNhbm9uaWNvIGRpIOKAnHZlbmRpdG9yZSBpbiBzY2F0b2xh4oCdOiBpbCB2YWxvcmUgbm9uIGRpcGVuZGUgZGFsbGEgcXVhbnRpdMOgIGRpIGNhcnRhIG8gb2dnZXR0aSwgbWEgZGEgcXVhbnRvIGlsIHBhY2NoZXR0byBhbnRpY2lwYSBpbiBtb2RvIG9yZGluYXRvIGlsIGxhdm9ybyBjaGUgYWx0cmltZW50aSBpbCB2ZW5kaXRvcmUgZG92cmViYmUgcmlwZXRlcmUgZGEgemVyby4KCiMjIyBHdWlkYXJlIGlsIGNvbnN1bW8sIG5vbiBzb2x0YW50byBjb25zZWduYXJlIG1hdGVyaWFsaQoKUXVhbmRvIGlsIHBhY2NvbmUgY29udGllbmUgcGnDuSBlbGVtZW50aSwgbGEgZm9udGUgc3VnZ2VyaXNjZSBkaSBwcm9nZXR0YXJlIGFuY2hlIGwnZXNwZXJpZW56YSBkJ3VzbzoKCi0gb3JkaW5lIGRpIGFwZXJ0dXJhOwotIGlzdHJ1emlvbmkgc2VtcGxpY2k7Ci0gZGlmZmVyZW56aWF6aW9uZSB2aXNpdmEgbyBmaXNpY2EgZnJhIGkgY29tcG9uZW50aTsKLSBzZXF1ZW56YSBkaSBzY29wZXJ0YSBjb2VyZW50ZSBjb24gbCdhcmdvbWVudGF6aW9uZS4KCklsIHByaW5jaXBpbyBkdXJldm9sZSDDqDoKCioqcGnDuSBjb21wbGVzc28gw6ggbCdhc3NldCDihpIgcGnDuSBzZW1wbGljZSBkZXZlIGVzc2VyZSBpbCBtb2RvIGRpIGNvbnN1bWFybG8uKioKClBhY2thZ2luZyBlIHVuYm94aW5nIGRpdmVudGFubyBxdWluZGkgcGFydGUgZGVsbGEgY29tdW5pY2F6aW9uZSBzb2x0YW50byBuZWxsYSBtaXN1cmEgaW4gY3VpIGF1bWVudGFubyBhdHRlbnppb25lLCBjb21wcmVuc2lvbmUgZSBwZXJjZXppb25lIGRpIGN1cmEuIEZpb2NjaGksIHNpZ2lsbGksIG1hdGVyaWFsaSBvIGFsdHJpIGRldHRhZ2xpIHNwZWNpZmljaSByZXN0YW5vIHRhdHRpY2hlIGRhIHRlc3RhcmUsIG5vbiByZXF1aXNpdGkgdW5pdmVyc2FsaS4KCiMjIyBMYSBjb25zZWduYSBwdcOyIGRpdmVudGFyZSB1biB0cmlnZ2VyIGRpIGZvbGxvdy11cAoKSWwgY29yc28gcmVuZGUgcGFydGljb2xhcm1lbnRlIG9wZXJhdGl2byBpbCBwYXNzYWdnaW8gZnJhIG1hdGVyaWFsZSBmaXNpY28gZSB2ZW5kaXRhOgoKKipjb25zZWduYSB2ZXJpZmljYXRhIOKGkiBmaW5lc3RyYSBtaW5pbWEgcGVyIGFwZXJ0dXJhIOKGkiByaWNvbnRhdHRvIOKGkiB2ZXJpZmljYSByaWNlemlvbmUg4oaSIGFwcHVudGFtZW50byBvIHJvdXRpbmcgYWx0ZXJuYXRpdm8uKioKCklsIHRyYWNraW5nIG5vbiBzZXJ2ZSBzb2xvIGFsbGEgbG9naXN0aWNhOiBwdcOyIGRpdmVudGFyZSB1biBzZWduYWxlIHBlciBhc3NlZ25hcmUgaWwgcHJvc3NpbW8gdGFzay4gU2UgaWwgZGVzdGluYXRhcmlvIG5vbiDDqCBwcm9udG8sIGlsIHBlcmNvcnNvIHByb3NlZ3VlIGNvbiBudXJ0dXJpbmcvZm9sbG93LXVwIGludmVjZSBkaSBjb25zaWRlcmFyZSBsJ2ludmlvIOKAnGZhbGxpdG/igJ0uCgpRdWVzdG8gcHJpbmNpcGlvIMOoIGNvZXJlbnRlIGNvbiBpIGZyYW1ld29yayBwacO5IHJlY2VudGkgZGVsbGEgS0Igc3Ugcm91dGluZywgdHJpZ2dlciBlIHNwZWVkLXRvLWxlYWQ6IGxhIGZvbnRlIHN0b3JpY2EgYWdnaXVuZ2UgdW5hIGFwcGxpY2F6aW9uZSBzcGVjaWZpY2EgYWwgbWF0ZXJpYWxlIGZpc2ljby4KCiMjIyBCYXNlIHN0YW5kYXJkICsgcXVvdGEgcGVyc29uYWxpenphdGEKCklsIHBhY2NvbmUgbm9uIGRldmUgZXNzZXJlIHJpY29zdHJ1aXRvIGludGVncmFsbWVudGUgcGVyIG9nbmkgZGVzdGluYXRhcmlvLgoKTGEgZm9udGUgcHJvcG9uZSBpbXBsaWNpdGFtZW50ZSB1biBtb2RlbGxvIHNjYWxhYmlsZToKCioqYmFzZSBjb211bmUgcml1dGlsaXp6YWJpbGUgKyBwYXJ0ZSBwZXJzb25hbGl6emF0YSBkb3ZlIGNhbWJpYSBkYXZ2ZXJvIGxhIHBlcnN1YXNpb25lLioqCgpQb3Nzb25vIGNhbWJpYXJlLCBwZXIgZXNlbXBpbzoKCi0gbGV0dGVyYTsKLSBydW9sbyBkZWwgZGVzdGluYXRhcmlvOwotIHByb2JsZW1hIHByaW9yaXRhcmlvOwotIHNldHRvcmU7Ci0gcmVmZXJyYWwvb3JpZ2luZSBkZWxsYSByZWxhemlvbmU7Ci0gbW90aXZhemlvbmUgZCdhY3F1aXN0by4KCklsIGdyYWRvIGRpIHBlcnNvbmFsaXp6YXppb25lIGRldmUgZXNzZXJlIGNvbXBhdGliaWxlIGNvbiBlY29ub21pY3MgZSB2YWxvcmUgZGVsIGNsaWVudGUuCgojIyMgTGltaXRpIHRlbXBvcmFsaQoKTGEgZm9udGUgY2l0YSBEVkQvQ0QsIGJhdGNoIGUgcGVyY2VudHVhbGkgc3BlY2lmaWNoZS4gUXVlc3RpIGVsZW1lbnRpIHJlc3Rhbm8gZXNlbXBpIHN0b3JpY2kuIE5vbiBkaXZlbnRhbm8gcmVnb2xlIHN1bGxhIHN1cGVyaW9yaXTDoCBkZWwgZmlzaWNvIHJpc3BldHRvIGFsIGRpZ2l0YWxlLgoKUmVzdGEgY2Fub25pY28gc29sdGFudG8gaWwgcHJpbmNpcGlvOgoKKipzY2VnbGllcmUgZSB0ZXN0YXJlIGlsIGZvcm1hdG8gY2hlIGF1bWVudGEgZGF2dmVybyBjb25zdW1vLCBmaWR1Y2lhIGUgYXZhbnphbWVudG8gbmVsIGZ1bm5lbCByaXNwZXR0byBhbCBzdW8gY29zdG8uKioKCkZvbnRlIHN0b3JpY2E6IEZyYW5rIE1lcmVuZGEsIOKAnElsIFBhY2NvbmUgZGVsbGUgTWVyYXZpZ2xpZeKAnS4gUmV2aWV3OiAuLi8uLi9zb3VyY2VzL21lcmVuZGEtc291cmNlcy9GTS1TUkMtMDE2NS9yZXZpZXcubWQuCg==')
+          append_once('merenda/06_vendita/prequalifica-follow-up-decisori.md', '## Preparare più stakeholder con una base comune', 'IyMgUHJlcGFyYXJlIHBpw7kgc3Rha2Vob2xkZXIgY29uIHVuYSBiYXNlIGNvbXVuZQoKTmVsIGNvcnNvIHN0b3JpY28gKipJbCBQYWNjb25lIGRlbGxlIE1lcmF2aWdsaWUqKiwgTWVyZW5kYSByZW5kZSBjb25jcmV0YSBsYSByZWdvbGEg4oCccmFnZ2l1bmdlcmUgY2hpIGRlY2lkZeKAnSBuZWkgY2ljbGkgQjJCIGNvbiBwacO5IHBlcnNvbmUgY29pbnZvbHRlLgoKUXVhbmRvIGFjcXVpc3RpLCB0ZWNuaWNvLCBkaXJlemlvbmUgbyBhbHRyaSBydW9saSBwYXJ0ZWNpcGFubyBhbGxhIHN0ZXNzYSBkZWNpc2lvbmUsIGlsIG1hdGVyaWFsZSBkaSBwcmUtc2VsbGluZyBwdcOyIG1hbnRlbmVyZSB1bmEgKipiYXNlIGNvbXVuZSoqIG1hIGNhbWJpYXJlIGwnYXBlcnR1cmEgZSBsJ2FyZ29tZW50YXppb25lIGluIGZ1bnppb25lIGRlbCBydW9sbzoKCi0gYWNxdWlzdGkg4oaSIGNvbmRpemlvbmksIGFmZmlkYWJpbGl0w6AsIGNvc3RvIHRvdGFsZSBwZXJ0aW5lbnRlOwotIHRlY25pY28g4oaSIGNvbXBhdGliaWxpdMOgLCBwcmVzdGF6aW9uaSwgcmlzY2hpbyBvcGVyYXRpdm87Ci0gZGlyZXppb25lIOKGkiBpbXBhdHRvIGVjb25vbWljbywgY29udGludWl0w6AgZSBjb25zZWd1ZW56ZSBzdHJhdGVnaWNoZS4KCkxhIGxvZ2ljYSDDqDoKCioqc3Rlc3NhIG9mZmVydGEg4oaSIHN0YWtlaG9sZGVyIGRpdmVyc2kg4oaSIGNyaXRlcmkgZGVjaXNpb25hbGkgZGl2ZXJzaSDihpIgaW50cm9kdXppb25lL3Byb3ZhL2VuZmFzaSBjb2VyZW50aS4qKgoKUXVlc3RvIG5vbiByaWNoaWVkZSBuZWNlc3NhcmlhbWVudGUgaW52aWkgZmlzaWNpIHNlcGFyYXRpOiBpbCBwYWNjb25lIMOoIGwnaW1wbGVtZW50YXppb25lIGRlbGxhIGZvbnRlLiBJbCBwcmluY2lwaW8gY2Fub25pY28gw6ggcHJlcGFyYXJlIGkgZGl2ZXJzaSBkZWNpc29yaSBzZW56YSBjb3N0cmluZ2VybGkgYSBlc3RyYXJyZSBkYSBzb2xpLCBkYWxsbyBzdGVzc28gbWF0ZXJpYWxlIGdlbmVyaWNvLCBjacOyIGNoZSBjb250YSBwZXIgaWwgbG9ybyBydW9sby4KCiMjIyBSaWR1cnJlIGlsIHJpc2NoaW8gcGVyY2VwaXRvIGRlbGwnYXBwdW50YW1lbnRvCgpMYSBmb250ZSBwcm9wb25lIGlub2x0cmUgdW5hIHNjaGVkYSBjaGUgcmVuZGEgcHJldmVkaWJpbGUgaWwgcHJpbW8gaW5jb250cm8sIGNoaWFyZW5kbyBxdWFuZG8gdXRpbGU6CgotIGR1cmF0YSBlIG1vZGFsaXTDoDsKLSBzY29wbzsKLSBjb3NhIHZlcnLDoCBjaGllc3RvIGUgcGVyY2jDqTsKLSBjb3NhIHByZXBhcmFyZTsKLSBldmVudHVhbGkgcGFzc2FnZ2kgc3VjY2Vzc2l2aTsKLSBvcmRpbmUgZGkgZ3JhbmRlenphIGVjb25vbWljbyBxdWFuZG8gc2VydmUgYSBldml0YXJlIGFzcGV0dGF0aXZlIGluY29tcGF0aWJpbGkuCgpRdWVzdGEgw6ggdW4nZXN0ZW5zaW9uZSBwcmF0aWNhIGRlbGxhIHByZXF1YWxpZmljYSBnacOgIGNhbm9uaXp6YXRhOiBpbCBwcm9zcGVjdCBub24gZGV2ZSBhcnJpdmFyZSBhbGxhIGNvbnZlcnNhemlvbmUgc2VuemEgc2FwZXJlIGNoZSB0aXBvIGRpIGltcGVnbm8gc3RhIGFjY2V0dGFuZG8uCgpVbiBldmVudHVhbGUgcXVlc3Rpb25hcmlvIHByZS1pbmNvbnRybyBwdcOyIGlub2x0cmUgcmFjY29nbGllcmUgc2l0dWF6aW9uZSwgYWx0ZXJuYXRpdmUgZ2nDoCBwcm92YXRlLCB2aW5jb2xpIGUgcHJpb3JpdMOgIGFmZmluY2jDqSBpbCB2ZW5kaXRvcmUgdXNpIGlsIHRlbXBvIHNpbmNyb25vIHBlciBkaWFnbm9zaSBlIGRlY2lzaW9uZSwgbm9uIHBlciByaWNvc3RydWlyZSBpbmZvcm1hemlvbmkgc3RhbmRhcmRpenphYmlsaS4KCkZvbnRlIHN0b3JpY2E6IEZyYW5rIE1lcmVuZGEsIOKAnElsIFBhY2NvbmUgZGVsbGUgTWVyYXZpZ2xpZeKAnS4gUmV2aWV3OiAuLi8uLi9zb3VyY2VzL21lcmVuZGEtc291cmNlcy9GTS1TUkMtMDE2NS9yZXZpZXcubWQuCg==')
+          append_once('merenda/09_business/retention-onboarding-e-customer-success.md', '## Il pacchetto post-acquisto come onboarding fisico', 'IyMgSWwgcGFjY2hldHRvIHBvc3QtYWNxdWlzdG8gY29tZSBvbmJvYXJkaW5nIGZpc2ljbwoKTmVsIGNvcnNvIHN0b3JpY28gKipJbCBQYWNjb25lIGRlbGxlIE1lcmF2aWdsaWUqKiwgTWVyZW5kYSBhcHBsaWNhIGxvIHN0ZXNzbyBmb3JtYXRvIGZpc2ljbyBhbmNoZSBzdWJpdG8gZG9wbyBsYSB2ZW5kaXRhLCBjaGlhbWFuZG9sbyBpbiBhbGN1bmkgcGFzc2FnZ2kgKipXT1cgYm94KiouCgpJbCB2YWxvcmUgY2Fub25pY28gbm9uIMOoIGxhIHNjYXRvbGEgaW4gc8OpLiDDiCBpbCBwcmluY2lwaW8gZGkgdXNhcmUgaWwgbW9tZW50byBpbW1lZGlhdGFtZW50ZSBzdWNjZXNzaXZvIGFsbCdhY3F1aXN0byBwZXI6CgotIGNvbmZlcm1hcmUgY2hlIGlsIGNsaWVudGUgaGEgY29tcGl1dG8gbGEgc2NlbHRhIHByZXZpc3RhOwotIHNwaWVnYXJlIGNvbiBjaGlhcmV6emEgaSBwcm9zc2ltaSBwYXNzaTsKLSByaWR1cnJlIGluY2VydGV6emEgZSBidXllcidzIHJlbW9yc2U7Ci0gZmFyIHBhcnRpcmUgY29ycmV0dGFtZW50ZSBsJ3V0aWxpenpvL2Vyb2dhemlvbmU7Ci0gcmFmZm9yemFyZSBsYSByZWxhemlvbmUgcHJpbWEgZGkgZnV0dXJlIHByb3Bvc3RlIGNvZXJlbnRpLgoKTGEgc2VxdWVuemEgw6g6CgoqKmFjcXVpc3RvIOKGkiBjb25mZXJtYSBlIG9yaWVudGFtZW50byDihpIgaXN0cnV6aW9uaSAvIHByaW1pIHBhc3NpIOKGkiBlc3BlcmllbnphIHJlYWxlIOKGkiBjb250aW51aXTDoC4qKgoKUXVlc3RvIHNpIGludGVncmEgbmVsIGZyYW1ld29yayBwacO5IHJlY2VudGUgZGkgb25ib2FyZGluZyBkaSBxdWVzdG8gbm9kbzogaWwgc3VwcG9ydG8gZmlzaWNvIMOoIHVuYSBwb3NzaWJpbGUgaW1wbGVtZW50YXppb25lIHF1YW5kbyBtaWdsaW9yYSBkYXZ2ZXJvIGNvbXByZW5zaW9uZSwgZmlkdWNpYSBvIGF2dmlvIGRlbCBjbGllbnRlLiBOb24gw6ggdW4gcmVxdWlzaXRvIHVuaXZlcnNhbGUgZSBub24gc29zdGl0dWlzY2UgcXVhbGl0w6AgZGVsbCdlcm9nYXppb25lIGUgY3VzdG9tZXIgc3VjY2Vzcy4KCkZvbnRlIHN0b3JpY2E6IEZyYW5rIE1lcmVuZGEsIOKAnElsIFBhY2NvbmUgZGVsbGUgTWVyYXZpZ2xpZeKAnS4gUmV2aWV3OiAuLi8uLi9zb3VyY2VzL21lcmVuZGEtc291cmNlcy9GTS1TUkMtMDE2NS9yZXZpZXcubWQuCg==')
+
+          catalog_path = Path('sources/merenda-sources/catalog.json')
+          rows = json.loads(catalog_path.read_text())
+          ident = 'FM-SRC-0165'
+          if not any(r.get('id') == ident for r in rows):
+              rows.append({
+                  'id': ident,
+                  'type': 'course',
+                  'title': 'Il Paccone delle Meraviglie',
+                  'author_or_speaker': 'Frank Merenda',
+                  'source_ref': 'https://my.metodomerenda.com/pacco-delle-meraviglie/',
+                  'published_date': None,
+                  'acquired_date': '2026-09-17',
+                  'origin': 'official',
+                  'status': 'STUDIATO',
+                  'normalized_path': 'sources/merenda-sources/FM-SRC-0165/content.md',
+                  'review_path': 'sources/merenda-sources/FM-SRC-0165/review.md',
+                  'category': '05_acquisizione',
+                  'weighted_novelty': 1,
+                  'notes': 'Estende il paccone già canonico con architettura modulare, consumo guidato, follow-up attivato dalla consegna, personalizzazione per ruolo e applicazione post-acquisto.'
+              })
+          catalog_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + '\n')
+
+          status = Path('STATUS.md')
+          text = status.read_text()
+          text = text.replace('- Nuove fonti Merenda registrate: 164', '- Nuove fonti Merenda registrate: 165')
+          text = text.replace('- Nuove fonti Merenda studiate: 164', '- Nuove fonti Merenda studiate: 165')
+          old = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Clientikit” è registrato come FM-SRC-0164, STUDIATO e mergiato nei nodi canonici target, gerarchia della domanda/consapevolezza e funnel.**'
+          new = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Il Paccone delle Meraviglie” è registrato come FM-SRC-0165, STUDIATO e mergiato nei nodi canonici information marketing, prequalifica/decisori e onboarding/retention.**'
+          if old not in text:
+              raise SystemExit('Next Action atteso non trovato in STATUS.md')
+          status.write_text(text.replace(old, new))
+          PY
+
+      - name: Validate
+        run: python3 scripts/validate_project.py
+
+      - name: Commit integration
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add merenda/05_acquisizione/information-marketing.md \
+                  merenda/06_vendita/prequalifica-follow-up-decisori.md \
+                  merenda/09_business/retention-onboarding-e-customer-success.md \
+                  sources/merenda-sources/catalog.json STATUS.md
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+          else
+            git commit -m 'Integrate Paccone delle Meraviglie'
+            git push origin HEAD:source-paccone-meraviglie
+          fi
