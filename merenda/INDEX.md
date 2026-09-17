@@ -1,16 +1,30 @@
 # Merenda Knowledge Base — Index
 
-Questa è la porta di ingresso della Knowledge Base Merenda.
+Questa è la porta di ingresso della Knowledge Base canonica centrata sulla dottrina di Frank Merenda.
 
 ## Stato
 
 La fase video generalista è sufficientemente satura dopo la revisione semantica dei contenuti 1–313.
 
-La tassonomia a 11 sezioni resta stabile come doctrine layer. I contenuti residui del corpus YouTube non devono essere acquisiti automaticamente: una riapertura è ammessa solo per colmare un gap concreto e nominabile.
+Il corpus source-agnostic attualmente disponibile è stato processato fino a `FM-SRC-0166`; non esistono fonti pending nel registry corrente.
 
-La KB può continuare a evolvere tramite nuove fonti direttamente attribuibili a Frank Merenda, indipendentemente dal formato. Queste fonti vengono registrate nel layer source-agnostic e integrate solo quando aggiungono conoscenza canonica.
+La tassonomia a 11 sezioni resta stabile come doctrine layer. I contenuti residui del corpus YouTube non devono essere acquisiti automaticamente: una riapertura è ammessa solo per una nuova fonte realmente disponibile o per colmare un gap concreto e nominabile.
 
-Fonti ed evidenze non-Merenda devono restare in uno strato separato e non essere fuse retroattivamente in questa KB.
+## Confine della provenance
+
+La KB è **Merenda-centered**, ma il corpus corrente comprende anche estensioni assimilate semanticamente per istruzione esplicita dell'utente.
+
+Il layer `sources/merenda-sources/collections.json` distingue almeno:
+
+- `MERENDA_PRIMARY` — fonte direttamente attribuibile a Frank Merenda;
+- `ASSIMILATED_AS_MERENDA_BY_USER` — autore reale preservato nella provenance, contenuto autorizzato dall'utente a entrare nel doctrine layer;
+- `DEFERRED_EXTERNAL_GENERAL_UPDATE` — materiale esterno che non entra automaticamente nella KB.
+
+Marketing Automation Facile / Moreno Bonechi e jAI Premium / Jay Abraham, Max Bernstein, Michael Simmons sono esempi di fonti assimilate già presenti nel corpus corrente.
+
+**Regola obbligatoria:** una fonte assimilata non deve essere descritta o citata come se Frank Merenda avesse formulato direttamente quel principio. La provenance reale resta parte della conoscenza.
+
+Nuova conoscenza esterna non viene fusa automaticamente nel doctrine layer. Richiede una decisione esplicita di scope o resta fuori dalla KB canonica.
 
 ## Ingresso operativo per l’AI
 
@@ -46,4 +60,8 @@ Per una diagnosi, una strategia o una richiesta operativa, passare prima dal [De
 
 Quando un documento di sintesi semplifica un principio, prevale sempre il nodo specialistico più preciso, contestuale o temporalmente aggiornato.
 
+Quando un principio deriva da una fonte assimilata, prevale inoltre la **provenance reale**: compatibilità con la KB non equivale ad attribuzione a Frank.
+
 La struttura può essere modificata in futuro solo quando un nuovo gap reale lo richiede; non va riorganizzata per inseguire completezza numerica o quantità di fonti.
+
+Per lo stato di maturità corrente e i gap residui, vedere [FINAL SEMANTIC AUDIT](../reviews/FINAL_SEMANTIC_AUDIT.md).
