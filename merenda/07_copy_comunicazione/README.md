@@ -1,5 +1,7 @@
 # Copy comunicazione
 
+[Scrittura della sales letter e costruzione dell'argomentazione](scrittura-sales-letter-e-argomentazione.md): nodo operativo principale sul **come scrivere** — preparazione, headline, primo paragrafo, progressione delle convinzioni, meccanismo, reason why, prova, obiezioni, garanzia, prezzo, CTA ed editing della sales letter.
+
 [Priorità, azione e inerzia del cliente](priorita-azione-e-inerzia.md): trasformare comprensione tecnica in priorità e spingere ogni comunicazione verso un passo successivo.
 
 [Checklist di risposta diretta](checklist-risposta-diretta.md): controllare che ogni materiale renda beneficio, offerta e risposta immediatamente comprensibili e facili da attivare.
