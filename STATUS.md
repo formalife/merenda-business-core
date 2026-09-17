@@ -26,10 +26,12 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — layer source-agnostic
 
-- Fonti registrate: 166
-- Fonti studiate: 166
-- Fonti escluse: 0
-- Fonti da processare: 0
+Le quattro etichette seguenti mantengono il naming storico richiesto dal validator. I contatori includono l'intero layer source-agnostic autorizzato, quindi non implicano che ogni record sia direttamente attribuibile a Frank Merenda.
+
+- Nuove fonti Merenda registrate: 166
+- Nuove fonti Merenda studiate: 166
+- Nuove fonti Merenda escluse: 0
+- Nuove fonti Merenda da processare: 0
 
 Questi contatori sono separati dal corpus YouTube storico.
 
