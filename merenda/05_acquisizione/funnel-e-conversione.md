@@ -144,3 +144,101 @@ La fonte usa Starbucks come caso e riporta percentuali specifiche. Questi numeri
 **prima migliorare la resa della domanda già generata → poi scalare la domanda a monte.**
 
 Fonte: Frank Merenda, “Il 15% che ti sta uccidendo (e non è dove pensi)”, 31 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0008/review.md.
+
+## Funnel adattivo: stato e comportamento decidono il prossimo passo
+
+Nel corso **Prendili per il Funnel**, di data non verificata, Merenda descrive una forma di marketing automation più ampia della sequenza lineare di email. Il valore canonico non è nei software citati, ma nell'architettura:
+
+**segnale/comportamento → interpretazione dello stato → routing → nuovo ritmo/contenuto/canale → eventuale task umano → misura.**
+
+Il funnel diventa quindi una **macchina a stati**. Una persona può avanzare, rallentare, cambiare percorso o uscire verso vendita/post-vendita in base a ciò che fa realmente.
+
+### Sequenza lineare vs percorso adattivo
+
+Una sequenza lineare usa prevalentemente il calendario:
+
+**giorno 1 → messaggio A → giorno 2 → messaggio B → giorno 3 → messaggio C.**
+
+Un percorso adattivo osserva anche il comportamento:
+
+- consuma abbastanza un contenuto → rende disponibile il passo successivo;
+- mostra interesse forte → accelera;
+- chiede informazioni → crea/assegna un task commerciale;
+- non reagisce entro la finestra progettata → passa a un percorso più adatto invece di ricevere indefinitamente lo stesso messaggio;
+- compra → esce dall'acquisizione di quel prodotto ed entra nel percorso post-vendita pertinente.
+
+Il principio non richiede sofisticazione tecnica in ogni caso. Richiede che il sistema sappia **che cosa deve accadere quando lo stato cambia**.
+
+### Non confondere evento tecnico e intenzione
+
+Click, apertura, download, visita o avvio di un video sono segnali, ma non equivalgono automaticamente a interesse profondo o volontà di acquisto.
+
+Quando i dati disponibili lo consentono, è utile distinguere la forza del comportamento, per esempio:
+
+- visita breve;
+- consumo sostanziale del contenuto;
+- completamento;
+- richiesta esplicita;
+- acquisto.
+
+La regola è **usare il comportamento come evidenza graduata**, senza attribuire a un singolo evento più intenzione di quella che dimostra.
+
+### Accelerare chi è pronto, non farlo aspettare per rispettare il funnel
+
+Un prospect che manifesta intenzione forte non dovrebbe essere costretto ad attendere timer artificiali soltanto perché il funnel era stato programmato così.
+
+Il percorso può:
+
+- anticipare il contenuto successivo;
+- rendere visibile una CTA;
+- passare rapidamente alla presa in carico commerciale;
+- continuare parallelamente l'educazione quando utile.
+
+Questo completa il principio di speed-to-lead già sviluppato nella KB: non si riduce solo il tempo fra richiesta e risposta umana, ma anche il **tempo artificiale fra uno stato di interesse e il passo coerente successivo**.
+
+### Origine del lead e stato del lead sono variabili diverse
+
+Il canale di ingresso non determina da solo il percorso.
+
+**origine ≠ stato**.
+
+Due persone arrivate da Google possono trovarsi a livelli di consapevolezza differenti; due persone provenienti da canali differenti possono invece essere pronte per lo stesso passo. Il routing deve quindi considerare ciò che il prospect sa, fa e ha già comprato, non soltanto la sorgente.
+
+### Progressive profiling: chiedere dati quando cambiano il percorso
+
+La fonte suggerisce di raccogliere informazioni progressivamente quando è utile, invece di pretendere ogni dato al primo contatto.
+
+Il criterio non è massimizzare i campi del CRM. Una domanda di profilazione ha valore quando la risposta permette di:
+
+- qualificare;
+- cambiare contenuto;
+- cambiare percorso;
+- assegnare una persona;
+- rendere più pertinente la prossima azione.
+
+Dati che non cambiano nessuna decisione aggiungono attrito senza produrre necessariamente valore operativo.
+
+### Progettare anche i fallback
+
+Per rendere il funnel eseguibile, ogni passaggio dovrebbe chiarire almeno:
+
+- **obiettivo**;
+- **ingresso** — quale stato/evento attiva il passaggio;
+- **azione/contenuto**;
+- **owner** quando esiste un intervento umano;
+- **tempo o finestra**;
+- **outcome atteso**;
+- **fallback** — che cosa succede se l'outcome non avviene;
+- **uscita/routing successivo**.
+
+La conversione attesa e gli altri KPI possono essere aggiunti quando l'impresa dispone di una base numerica sensata.
+
+Questa checklist evita che il funnel esista soltanto come diagramma ideale: deve essere chiaro anche dove vanno i non convertiti e chi interviene quando l'automazione genera una opportunità.
+
+### Temporalità e limiti della fonte
+
+La data del corso non è verificata. Perciò i dettagli su Infusionsoft, PlusThis, Facebook, Google, soglie di visione, dimensioni di campione o timer specifici restano **esempi storici** e non superano materiale datato più recente.
+
+Il framework integrato è soltanto quello compatibile con la KB attuale: **routing adattivo per stato/comportamento, accelerazione dell'interesse forte, fallback espliciti e transizioni coerenti fra acquisizione, vendita e post-vendita**.
+
+Fonte: Frank Merenda, “Prendili per il Funnel”. Review: ../../sources/merenda-sources/FM-SRC-0163/review.md.
