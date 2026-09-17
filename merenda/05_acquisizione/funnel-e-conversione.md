@@ -242,3 +242,41 @@ La data del corso non è verificata. Perciò i dettagli su Infusionsoft, PlusThi
 Il framework integrato è soltanto quello compatibile con la KB attuale: **routing adattivo per stato/comportamento, accelerazione dell'interesse forte, fallback espliciti e transizioni coerenti fra acquisizione, vendita e post-vendita**.
 
 Fonte: Frank Merenda, “Prendili per il Funnel”. Review: ../../sources/merenda-sources/FM-SRC-0163/review.md.
+
+## Backtracking: se il messaggio è troppo avanzato, risegmentare prima di ripetere
+
+Il corso storico **Clientikit** aggiunge una procedura alla macchina a stati già canonizzata con *Prendili per il Funnel*.
+
+Una persona possiede almeno due coordinate differenti:
+
+- **stato della relazione** — per esempio prospect, acquirente, cliente, perso;
+- **stato di consapevolezza** — problema, categoria di soluzione, prodotto/brand.
+
+Le due dimensioni non coincidono. Un prospect già nel database può essere ancora poco maturo rispetto alla soluzione; il fatto di avere lasciato i dati non prova che sia pronto per un'offerta diretta.
+
+### Procedura di backtracking
+
+Quando una campagna molto avanzata non converte, una delle ipotesi da testare è che il percorso presuma troppa consapevolezza.
+
+Il ciclo diventa:
+
+1. **offerta/product-aware** — prova, garanzia, obiezioni, CTA;
+2. se non converte, verificare se manca la scelta della **categoria/meccanismo**;
+3. se ancora non reagisce, verificare se il **problema** è abbastanza compreso, rilevante e prioritario;
+4. se anche il percorso precedente non produce segnali, valutare fit, timing, risorse, bisogno reale o non-target.
+
+Formula:
+
+**mancata conversione → verificare lo stato presunto → eventuale retrocessione di un livello → nuovo percorso → nuova misura.**
+
+Questa non è una regola per arretrare automaticamente ogni non-convertito. Prezzo, offerta, fiducia, timing, esperienza, presa in carico o semplice non-fit possono essere la vera causa. Il backtracking è una **ipotesi diagnostica testabile**.
+
+### Collegamento con il funnel adattivo
+
+Il framework precedente usava comportamento e segnali per scegliere routing, accelerazione e fallback. Clientikit aggiunge una dimensione semantica:
+
+**comportamento + stato della relazione + consapevolezza presunta → prossimo percorso.**
+
+Il funnel può quindi non soltanto accelerare chi è pronto, ma anche **ridurre la directness** quando i dati suggeriscono che il prospect è stato trattato troppo avanti nel processo decisionale.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.

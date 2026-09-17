@@ -286,3 +286,39 @@ La formula è:
 Il principio non svaluta il canale. Impedisce soltanto di trattare un vantaggio distributivo contingente come se fosse un significato di brand permanente.
 
 Fonte: Frank Merenda, “Le 43 aziende perfette (e perché la tua bravura non ti salverà)”, 29 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0027/review.md.
+
+## La directness segue la consapevolezza
+
+Il corso storico **Clientikit** aggiunge una regola di esecuzione alla scala canonica della consapevolezza già presente in questo nodo.
+
+In termini generali:
+
+**più il prospect conosce problema, categoria, prodotto e brand → più la comunicazione può essere diretta; meno conosce → più il percorso deve costruire contesto, rilevanza, credibilità ed educazione prima dell'offerta.**
+
+Questo non crea una corrispondenza meccanica fra un livello e una lunghezza di copy. La directness dipende anche da:
+
+- notorietà e fiducia nel brand;
+- semplicità o novità della categoria;
+- credibilità della promessa;
+- forza della prova e della garanzia;
+- complessità della decisione.
+
+### Se conosce il risultato ma non la categoria, ci sono due vendite
+
+Quando la persona è **consapevole della soluzione** nel senso che desidera un risultato ma non ha ancora scelto *come* ottenerlo, Clientikit rende esplicita una sequenza utile:
+
+**prima categoria/meccanismo → poi prodotto/fornitore specifico.**
+
+Per esempio, confrontare direttamente due fornitori è prematuro se il prospect non ha ancora deciso se quella classe di soluzione sia preferebile alle alternative.
+
+### Più innovazione può richiedere più educazione
+
+La novità del prodotto non rende automaticamente la vendita più semplice. Quando brand e categoria sono poco noti, il prospect possiede meno riferimenti per capire e valutare la promessa.
+
+Quindi:
+
+**categoria nuova / brand poco noto → maggiore bisogno di educazione e prova prima della richiesta diretta.**
+
+La fonte contiene formulazioni storiche più assolute; la KB conserva soltanto questa relazione condizionale. Per la tassonomia dei livelli continua a prevalere il materiale più recente del 6 maggio 2025 già canonizzato sopra.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.

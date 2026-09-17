@@ -179,3 +179,48 @@ Una buona esperienza in quei momenti può:
 Il principio non è “far pagare qualsiasi momento emotivo”. È progettare i momenti decisivi affinché rafforzino il risultato e la reputazione del brand.
 
 Fonte: Frank Merenda, “I Me contro Te non sono ‘Wanna Marchi per bambini.’…”, 7 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0019/review.md.
+
+## Progettare la campagna su più assi: relazione, consapevolezza, profilo, directness
+
+Nel corso storico **Clientikit**, di data editoriale non verificata, Merenda combina dimensioni che la KB tratta già singolarmente e le usa come un unico modello di progettazione.
+
+La stessa etichetta commerciale non basta a stabilire il messaggio. Un prospect, per esempio, può conoscere già il prodotto oppure essere ancora soltanto consapevole del problema; due persone nello stesso target possono quindi richiedere campagne diverse.
+
+Il modello integrato è:
+
+**stato della relazione × livello di consapevolezza × profilo rilevante × grado di directness → campagna → transizione desiderata.**
+
+La campagna dovrebbe quindi dichiarare almeno:
+
+- **chi è la persona rispetto all'azienda** — sconosciuto/potenziale, prospect, cliente acquisito, perso, relazione ad alta fiducia o altra categoria operativa pertinente;
+- **che cosa sa già** — problema, categoria di soluzione, prodotto/brand;
+- **quali caratteristiche del profilo cambiano davvero la decisione** — linguaggio, ruolo, contesto, alternativa attuale, capacità di implementazione o altre variabili utili;
+- **quanto può essere diretta la comunicazione**;
+- **quale passaggio deve produrre**.
+
+Il valore del modello non sta nel creare una matrice burocratica con ogni combinazione possibile. Sta nell'evitare l'assunzione **“stesso segmento = stesso messaggio”**.
+
+### Profilare solo ciò che cambia una decisione
+
+Clientikit elenca molte variabili demografiche, culturali, comportamentali ed emotive. La KB non conserva le generalizzazioni storiche della fonte come stereotipi. Conserva invece una regola più robusta:
+
+**un dato di profilo merita peso soltanto se cambia messaggio, offerta, prova, canale, timing o percorso.**
+
+Età, territorio, istruzione, ruolo o riferimenti culturali non sono quindi automaticamente segmenti utili. Diventano utili quando spiegano differenze osservabili nel modo di capire, comprare, usare o valutare la soluzione.
+
+### Cliente ideale: comportamento e fit, non soltanto dichiarazioni
+
+La fonte propone inoltre di osservare i clienti migliori in base a ciò che fanno realmente:
+
+- comprano;
+- pagano correttamente;
+- usano o applicano ciò che hanno acquistato;
+- ottengono risultati;
+- restano;
+- generano casi di successo.
+
+Questo completa, ma non sostituisce, il modello più recente di [appropriatezza economica](appropriatezza-clienti.md): margine, LTV, RFM e costi occulti restano i criteri economici canonici più maturi.
+
+Il contributo storico di Clientikit è aggiungere il **fit problema → soluzione → aspettative → capacità di implementazione → comportamento osservato**.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.
