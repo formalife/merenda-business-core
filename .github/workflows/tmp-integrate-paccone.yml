@@ -1,0 +1,227 @@
+name: Temporary integrate Paccone
+
+"on":
+  push:
+    branches:
+      - source-paccone-meraviglie
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: ${{ github.actor != 'github-actions[bot]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: source-paccone-meraviglie
+
+      - name: Apply canonical merges and registry
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          def append_once(path_str, marker, block):
+              path = Path(path_str)
+              text = path.read_text()
+              if marker not in text:
+                  if not text.endswith('\n'):
+                      text += '\n'
+                  text += '\n' + block.strip() + '\n'
+                  path.write_text(text)
+
+          append_once(
+              'merenda/05_acquisizione/information-marketing.md',
+              '## Paccone come sales letter fisica modulare',
+              '''
+## Paccone come sales letter fisica modulare
+
+Nel corso storico **Il Paccone delle Meraviglie**, di data non verificata, Merenda sviluppa l'architettura interna del pacchetto fisico già presente in questo nodo.
+
+Il paccone non è una scatola di materiali promozionali. Può essere progettato come una **sales letter scomposta in moduli fisici**, dove ogni componente svolge una funzione precisa dell'argomentazione:
+
+- introduzione e posizionamento → lettera personale / materiale di presentazione;
+- educazione → libro, guida, report o altro contenuto utile;
+- prova → testimonianze, casi e dimostrazioni;
+- autorità → pubblicazioni, interviste o altri asset verificabili;
+- riduzione del rischio → garanzia o spiegazione del processo;
+- preparazione commerciale → scheda dell'appuntamento / questionario;
+- azione → CTA esplicita.
+
+La regola non è inserire obbligatoriamente tutti gli elementi. È:
+
+**funzione persuasiva necessaria → componente appropriato → prossimo passo chiaro.**
+
+Questo completa il concetto già canonico di “venditore in scatola”: il valore non dipende dalla quantità di carta o oggetti, ma da quanto il pacchetto anticipa in modo ordinato il lavoro che altrimenti il venditore dovrebbe ripetere da zero.
+
+### Guidare il consumo, non soltanto consegnare materiali
+
+Quando il paccone contiene più elementi, la fonte suggerisce di progettare anche l'esperienza d'uso:
+
+- ordine di apertura;
+- istruzioni semplici;
+- differenziazione visiva o fisica fra i componenti;
+- sequenza di scoperta coerente con l'argomentazione.
+
+Il principio durevole è:
+
+**più complesso è l'asset → più semplice deve essere il modo di consumarlo.**
+
+Packaging e unboxing diventano quindi parte della comunicazione soltanto nella misura in cui aumentano attenzione, comprensione e percezione di cura. Fiocchi, sigilli, materiali o altri dettagli specifici restano tattiche da testare, non requisiti universali.
+
+### La consegna può diventare un trigger di follow-up
+
+Il corso rende particolarmente operativo il passaggio fra materiale fisico e vendita:
+
+**consegna verificata → finestra minima per apertura → ricontatto → verifica ricezione → appuntamento o routing alternativo.**
+
+Il tracking non serve solo alla logistica: può diventare un segnale per assegnare il prossimo task. Se il destinatario non è pronto, il percorso prosegue con nurturing/follow-up invece di considerare l'invio “fallito”.
+
+Questo principio è coerente con i framework più recenti della KB su routing, trigger e speed-to-lead: la fonte storica aggiunge una applicazione specifica al materiale fisico.
+
+### Base standard + quota personalizzata
+
+Il paccone non deve essere ricostruito integralmente per ogni destinatario.
+
+La fonte propone implicitamente un modello scalabile:
+
+**base comune riutilizzabile + parte personalizzata dove cambia davvero la persuasione.**
+
+Possono cambiare, per esempio:
+
+- lettera;
+- ruolo del destinatario;
+- problema prioritario;
+- settore;
+- referral/origine della relazione;
+- motivazione d'acquisto.
+
+Il grado di personalizzazione deve essere compatibile con economics e valore del cliente.
+
+### Limiti temporali
+
+La fonte cita DVD/CD, batch e percentuali specifiche. Questi elementi restano esempi storici. Non diventano regole sulla superiorità del fisico rispetto al digitale.
+
+Resta canonico soltanto il principio:
+
+**scegliere e testare il formato che aumenta davvero consumo, fiducia e avanzamento nel funnel rispetto al suo costo.**
+
+Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.
+''')
+
+          append_once(
+              'merenda/06_vendita/prequalifica-follow-up-decisori.md',
+              '## Preparare più stakeholder con una base comune',
+              '''
+## Preparare più stakeholder con una base comune
+
+Nel corso storico **Il Paccone delle Meraviglie**, Merenda rende concreta la regola “raggiungere chi decide” nei cicli B2B con più persone coinvolte.
+
+Quando acquisti, tecnico, direzione o altri ruoli partecipano alla stessa decisione, il materiale di pre-selling può mantenere una **base comune** ma cambiare l'apertura e l'argomentazione in funzione del ruolo:
+
+- acquisti → condizioni, affidabilità, costo totale pertinente;
+- tecnico → compatibilità, prestazioni, rischio operativo;
+- direzione → impatto economico, continuità e conseguenze strategiche.
+
+La logica è:
+
+**stessa offerta → stakeholder diversi → criteri decisionali diversi → introduzione/prova/enfasi coerenti.**
+
+Questo non richiede necessariamente invii fisici separati: il paccone è l'implementazione della fonte. Il principio canonico è preparare i diversi decisori senza costringerli a estrarre da soli, dallo stesso materiale generico, ciò che conta per il loro ruolo.
+
+### Ridurre il rischio percepito dell'appuntamento
+
+La fonte propone inoltre una scheda che renda prevedibile il primo incontro, chiarendo quando utile:
+
+- durata e modalità;
+- scopo;
+- cosa verrà chiesto e perché;
+- cosa preparare;
+- eventuali passaggi successivi;
+- ordine di grandezza economico quando serve a evitare aspettative incompatibili.
+
+Questa è un'estensione pratica della prequalifica già canonizzata: il prospect non deve arrivare alla conversazione senza sapere che tipo di impegno sta accettando.
+
+Un eventuale questionario pre-incontro può inoltre raccogliere situazione, alternative già provate, vincoli e priorità affinché il venditore usi il tempo sincrono per diagnosi e decisione, non per ricostruire informazioni standardizzabili.
+
+Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.
+''')
+
+          append_once(
+              'merenda/09_business/retention-onboarding-e-customer-success.md',
+              '## Il pacchetto post-acquisto come onboarding fisico',
+              '''
+## Il pacchetto post-acquisto come onboarding fisico
+
+Nel corso storico **Il Paccone delle Meraviglie**, Merenda applica lo stesso formato fisico anche subito dopo la vendita, chiamandolo in alcuni passaggi **WOW box**.
+
+Il valore canonico non è la scatola in sé. È il principio di usare il momento immediatamente successivo all'acquisto per:
+
+- confermare che il cliente ha compiuto la scelta prevista;
+- spiegare con chiarezza i prossimi passi;
+- ridurre incertezza e buyer's remorse;
+- far partire correttamente l'utilizzo/erogazione;
+- rafforzare la relazione prima di future proposte coerenti.
+
+La sequenza è:
+
+**acquisto → conferma e orientamento → istruzioni / primi passi → esperienza reale → continuità.**
+
+Questo si integra nel framework più recente di onboarding di questo nodo: il supporto fisico è una possibile implementazione quando migliora davvero comprensione, fiducia o avvio del cliente. Non è un requisito universale e non sostituisce qualità dell'erogazione e customer success.
+
+Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.
+''')
+
+          catalog_path = Path('sources/merenda-sources/catalog.json')
+          rows = json.loads(catalog_path.read_text())
+          ident = 'FM-SRC-0165'
+          if not any(r.get('id') == ident for r in rows):
+              rows.append({
+                  'id': ident,
+                  'type': 'course',
+                  'title': 'Il Paccone delle Meraviglie',
+                  'author_or_speaker': 'Frank Merenda',
+                  'source_ref': 'https://my.metodomerenda.com/pacco-delle-meraviglie/',
+                  'published_date': None,
+                  'acquired_date': '2026-09-17',
+                  'origin': 'official',
+                  'status': 'STUDIATO',
+                  'normalized_path': 'sources/merenda-sources/FM-SRC-0165/content.md',
+                  'review_path': 'sources/merenda-sources/FM-SRC-0165/review.md',
+                  'category': '05_acquisizione',
+                  'weighted_novelty': 1,
+                  'notes': 'Estende il paccone già canonico con architettura modulare, consumo guidato, follow-up attivato dalla consegna, personalizzazione per ruolo e applicazione post-acquisto.'
+              })
+          catalog_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + '\n')
+
+          status = Path('STATUS.md')
+          text = status.read_text()
+          text = text.replace('- Nuove fonti Merenda registrate: 164', '- Nuove fonti Merenda registrate: 165')
+          text = text.replace('- Nuove fonti Merenda studiate: 164', '- Nuove fonti Merenda studiate: 165')
+          old = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Clientikit” è registrato come FM-SRC-0164, STUDIATO e mergiato nei nodi canonici target, gerarchia della domanda/consapevolezza e funnel.**'
+          new = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Il Paccone delle Meraviglie” è registrato come FM-SRC-0165, STUDIATO e mergiato nei nodi canonici information marketing, prequalifica/decisori e onboarding/retention.**'
+          if old not in text:
+              raise SystemExit('Next Action atteso non trovato in STATUS.md')
+          status.write_text(text.replace(old, new))
+          PY
+
+      - name: Validate
+        run: python3 scripts/validate_project.py
+
+      - name: Commit integration
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add merenda/05_acquisizione/information-marketing.md \
+                  merenda/06_vendita/prequalifica-follow-up-decisori.md \
+                  merenda/09_business/retention-onboarding-e-customer-success.md \
+                  sources/merenda-sources/catalog.json STATUS.md
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+          else
+            git commit -m 'Integrate Paccone delle Meraviglie'
+            git push origin HEAD:source-paccone-meraviglie
+          fi
