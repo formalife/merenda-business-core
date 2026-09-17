@@ -2590,5 +2590,21 @@
     "category": "05_acquisizione",
     "weighted_novelty": 1,
     "notes": "Estensione significativa: trasforma gli stati del CRM in un portafoglio operativo di campagne di monetizzazione; singole tattiche ampiamente dedup con materiale 2024–2026."
+  },
+  {
+    "id": "FM-SRC-0163",
+    "type": "course",
+    "title": "Prendili per il Funnel",
+    "author_or_speaker": "Frank Merenda",
+    "source_ref": "https://my.metodomerenda.com/prendili-per-il-funnel/",
+    "published_date": null,
+    "acquired_date": "2026-09-17",
+    "origin": "official",
+    "status": "STUDIATO",
+    "normalized_path": "sources/merenda-sources/FM-SRC-0163/content.md",
+    "review_path": "sources/merenda-sources/FM-SRC-0163/review.md",
+    "category": "05_acquisizione",
+    "weighted_novelty": 2,
+    "notes": "Nuovo framework canonico: funnel come macchina a stati adattiva con routing comportamentale, accelerazione, fallback e transizioni verso vendita/post-vendita; ingredienti singoli ampiamente dedup."
   }
 ]

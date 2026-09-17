@@ -20,8 +20,8 @@ I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
 
 ## Contatori canonici — nuove fonti Merenda
 
-- Nuove fonti Merenda registrate: 162
-- Nuove fonti Merenda studiate: 162
+- Nuove fonti Merenda registrate: 163
+- Nuove fonti Merenda studiate: 163
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 
@@ -72,7 +72,7 @@ Il validator continua a certificare gli invarianti del corpus video storico e, i
 
 ## Next Action
 
-**CHATGPT — continuare l'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall'utente. “Operazione Incassi Record” è registrato come FM-SRC-0162, STUDIATO e mergiato nei nodi canonici pertinenti.**
+**CHATGPT — continuare l'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall'utente. “Prendili per il Funnel” è registrato come FM-SRC-0163, STUDIATO e mergiato nel nodo canonico `funnel-e-conversione.md`.**
 
 jAI 2025–2026 completo; MAF 2026 completo 47/47; MAF 2025 ha raggiunto saturazione gap-driven (30 fonti campionate, novelty 6,7%). Riaprire MAF/jAI solo per nuovi post o gap KB nominabili.
 
