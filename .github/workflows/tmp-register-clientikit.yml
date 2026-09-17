@@ -1,0 +1,218 @@
+name: Temporary integrate Clientikit
+
+on:
+  push:
+    branches: [source-clientikit]
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: source-clientikit
+
+      - name: Apply canonical merges and registry
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          def append_once(path_str, marker, block):
+              path = Path(path_str)
+              text = path.read_text()
+              if marker not in text:
+                  if not text.endswith('\n'):
+                      text += '\n'
+                  text += '\n' + block.strip() + '\n'
+                  path.write_text(text)
+
+          append_once(
+              'merenda/01_mercato/clienti-identificabili-e-target.md',
+              '## Progettare la campagna su più assi',
+              '''
+## Progettare la campagna su più assi: relazione, consapevolezza, profilo, directness
+
+Nel corso storico **Clientikit**, di data editoriale non verificata, Merenda combina dimensioni che la KB tratta già singolarmente e le usa come un unico modello di progettazione.
+
+La stessa etichetta commerciale non basta a stabilire il messaggio. Un prospect, per esempio, può conoscere già il prodotto oppure essere ancora soltanto consapevole del problema; due persone nello stesso target possono quindi richiedere campagne diverse.
+
+Il modello integrato è:
+
+**stato della relazione × livello di consapevolezza × profilo rilevante × grado di directness → campagna → transizione desiderata.**
+
+La campagna dovrebbe quindi dichiarare almeno:
+
+- **chi è la persona rispetto all'azienda** — sconosciuto/potenziale, prospect, cliente acquisito, perso, relazione ad alta fiducia o altra categoria operativa pertinente;
+- **che cosa sa già** — problema, categoria di soluzione, prodotto/brand;
+- **quali caratteristiche del profilo cambiano davvero la decisione** — linguaggio, ruolo, contesto, alternativa attuale, capacità di implementazione o altre variabili utili;
+- **quanto può essere diretta la comunicazione**;
+- **quale passaggio deve produrre**.
+
+Il valore del modello non sta nel creare una matrice burocratica con ogni combinazione possibile. Sta nell'evitare l'assunzione **“stesso segmento = stesso messaggio”**.
+
+### Profilare solo ciò che cambia una decisione
+
+Clientikit elenca molte variabili demografiche, culturali, comportamentali ed emotive. La KB non conserva le generalizzazioni storiche della fonte come stereotipi. Conserva invece una regola più robusta:
+
+**un dato di profilo merita peso soltanto se cambia messaggio, offerta, prova, canale, timing o percorso.**
+
+Età, territorio, istruzione, ruolo o riferimenti culturali non sono quindi automaticamente segmenti utili. Diventano utili quando spiegano differenze osservabili nel modo di capire, comprare, usare o valutare la soluzione.
+
+### Cliente ideale: comportamento e fit, non soltanto dichiarazioni
+
+La fonte propone inoltre di osservare i clienti migliori in base a ciò che fanno realmente:
+
+- comprano;
+- pagano correttamente;
+- usano o applicano ciò che hanno acquistato;
+- ottengono risultati;
+- restano;
+- generano casi di successo.
+
+Questo completa, ma non sostituisce, il modello più recente di [appropriatezza economica](appropriatezza-clienti.md): margine, LTV, RFM e costi occulti restano i criteri economici canonici più maturi.
+
+Il contributo storico di Clientikit è aggiungere il **fit problema → soluzione → aspettative → capacità di implementazione → comportamento osservato**.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.
+''')
+
+          append_once(
+              'merenda/04_marketing/gerarchia-domanda-e-canali.md',
+              '## La directness segue la consapevolezza',
+              '''
+## La directness segue la consapevolezza
+
+Il corso storico **Clientikit** aggiunge una regola di esecuzione alla scala canonica della consapevolezza già presente in questo nodo.
+
+In termini generali:
+
+**più il prospect conosce problema, categoria, prodotto e brand → più la comunicazione può essere diretta; meno conosce → più il percorso deve costruire contesto, rilevanza, credibilità ed educazione prima dell'offerta.**
+
+Questo non crea una corrispondenza meccanica fra un livello e una lunghezza di copy. La directness dipende anche da:
+
+- notorietà e fiducia nel brand;
+- semplicità o novità della categoria;
+- credibilità della promessa;
+- forza della prova e della garanzia;
+- complessità della decisione.
+
+### Se conosce il risultato ma non la categoria, ci sono due vendite
+
+Quando la persona è **consapevole della soluzione** nel senso che desidera un risultato ma non ha ancora scelto *come* ottenerlo, Clientikit rende esplicita una sequenza utile:
+
+**prima categoria/meccanismo → poi prodotto/fornitore specifico.**
+
+Per esempio, confrontare direttamente due fornitori è prematuro se il prospect non ha ancora deciso se quella classe di soluzione sia preferibile alle alternative.
+
+### Più innovazione può richiedere più educazione
+
+La novità del prodotto non rende automaticamente la vendita più semplice. Quando brand e categoria sono poco noti, il prospect possiede meno riferimenti per capire e valutare la promessa.
+
+Quindi:
+
+**categoria nuova / brand poco noto → maggiore bisogno di educazione e prova prima della richiesta diretta.**
+
+La fonte contiene formulazioni storiche più assolute; la KB conserva soltanto questa relazione condizionale. Per la tassonomia dei livelli continua a prevalere il materiale più recente del 6 maggio 2025 già canonizzato sopra.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.
+''')
+
+          append_once(
+              'merenda/05_acquisizione/funnel-e-conversione.md',
+              '## Backtracking: se il messaggio è troppo avanzato',
+              '''
+## Backtracking: se il messaggio è troppo avanzato, risegmentare prima di ripetere
+
+Il corso storico **Clientikit** aggiunge una procedura alla macchina a stati già canonizzata con *Prendili per il Funnel*.
+
+Una persona possiede almeno due coordinate differenti:
+
+- **stato della relazione** — per esempio prospect, acquirente, cliente, perso;
+- **stato di consapevolezza** — problema, categoria di soluzione, prodotto/brand.
+
+Le due dimensioni non coincidono. Un prospect già nel database può essere ancora poco maturo rispetto alla soluzione; il fatto di avere lasciato i dati non prova che sia pronto per un'offerta diretta.
+
+### Procedura di backtracking
+
+Quando una campagna molto avanzata non converte, una delle ipotesi da testare è che il percorso presuma troppa consapevolezza.
+
+Il ciclo diventa:
+
+1. **offerta/product-aware** — prova, garanzia, obiezioni, CTA;
+2. se non converte, verificare se manca la scelta della **categoria/meccanismo**;
+3. se ancora non reagisce, verificare se il **problema** è abbastanza compreso, rilevante e prioritario;
+4. se anche il percorso precedente non produce segnali, valutare fit, timing, risorse, bisogno reale o non-target.
+
+Formula:
+
+**mancata conversione → verificare lo stato presunto → eventuale retrocessione di un livello → nuovo percorso → nuova misura.**
+
+Questa non è una regola per arretrare automaticamente ogni non-convertito. Prezzo, offerta, fiducia, timing, esperienza, presa in carico o semplice non-fit possono essere la vera causa. Il backtracking è una **ipotesi diagnostica testabile**.
+
+### Collegamento con il funnel adattivo
+
+Il framework precedente usava comportamento e segnali per scegliere routing, accelerazione e fallback. Clientikit aggiunge una dimensione semantica:
+
+**comportamento + stato della relazione + consapevolezza presunta → prossimo percorso.**
+
+Il funnel può quindi non soltanto accelerare chi è pronto, ma anche **ridurre la directness** quando i dati suggeriscono che il prospect è stato trattato troppo avanti nel processo decisionale.
+
+Fonte storica: Frank Merenda, “Clientikit”. Review: ../../sources/merenda-sources/FM-SRC-0164/review.md.
+''')
+
+          catalog_path = Path('sources/merenda-sources/catalog.json')
+          rows = json.loads(catalog_path.read_text())
+          ident = 'FM-SRC-0164'
+          if not any(r.get('id') == ident for r in rows):
+              rows.append({
+                  'id': ident,
+                  'type': 'course',
+                  'title': 'Clientikit',
+                  'author_or_speaker': 'Frank Merenda',
+                  'source_ref': 'https://my.metodomerenda.com/clientikit/',
+                  'published_date': None,
+                  'acquired_date': '2026-09-17',
+                  'origin': 'official',
+                  'status': 'STUDIATO',
+                  'normalized_path': 'sources/merenda-sources/FM-SRC-0164/content.md',
+                  'review_path': 'sources/merenda-sources/FM-SRC-0164/review.md',
+                  'category': '01_mercato',
+                  'weighted_novelty': 2,
+                  'notes': 'Nuovo framework integrato: relazione × consapevolezza × profilo × directness → campagna → transizione; aggiunge backtracking dei non convertiti. Singoli assi in larga parte dedup con fonti 2023–2026.'
+              })
+          catalog_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + '\n')
+
+          status = Path('STATUS.md')
+          text = status.read_text()
+          text = text.replace('- Nuove fonti Merenda registrate: 163', '- Nuove fonti Merenda registrate: 164')
+          text = text.replace('- Nuove fonti Merenda studiate: 163', '- Nuove fonti Merenda studiate: 164')
+          old = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Prendili per il Funnel” è registrato come FM-SRC-0163, STUDIATO e mergiato nel nodo canonico `funnel-e-conversione.md`.**'
+          new = '**CHATGPT — continuare l\'integrazione source-agnostic una fonte alla volta sui contenuti forniti dall\'utente. “Clientikit” è registrato come FM-SRC-0164, STUDIATO e mergiato nei nodi canonici target, gerarchia della domanda/consapevolezza e funnel.**'
+          if old not in text:
+              raise SystemExit('Next Action atteso non trovato in STATUS.md')
+          status.write_text(text.replace(old, new))
+          PY
+
+      - name: Validate
+        run: python3 scripts/validate_project.py
+
+      - name: Commit integration
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add merenda/01_mercato/clienti-identificabili-e-target.md \
+                  merenda/04_marketing/gerarchia-domanda-e-canali.md \
+                  merenda/05_acquisizione/funnel-e-conversione.md \
+                  sources/merenda-sources/catalog.json STATUS.md
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+          else
+            git commit -m 'Integrate Clientikit framework'
+            git push origin HEAD:source-clientikit
+          fi
