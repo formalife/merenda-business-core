@@ -2638,5 +2638,21 @@
     "category": "05_acquisizione",
     "weighted_novelty": 1,
     "notes": "Estende il paccone già canonico con architettura modulare, consumo guidato, follow-up attivato dalla consegna, personalizzazione per ruolo e applicazione post-acquisto."
+  },
+  {
+    "id": "FM-SRC-0166",
+    "type": "course",
+    "title": "Ghiaccio agli Eschimesi",
+    "author_or_speaker": "Frank Merenda",
+    "source_ref": "https://my.metodomerenda.com/ghiaccio-agli-eschimesi/",
+    "published_date": null,
+    "acquired_date": "2026-09-17",
+    "origin": "official",
+    "status": "STUDIATO",
+    "normalized_path": "sources/merenda-sources/FM-SRC-0166/content.md",
+    "review_path": "sources/merenda-sources/FM-SRC-0166/review.md",
+    "category": "07_copy_comunicazione",
+    "weighted_novelty": 2,
+    "notes": "Nuovo nodo canonico sul come scrivere: sales letter come progressione di convinzioni, headline, reason why, unique mechanism, prova, obiezioni, garanzia, prezzo, CTA ed editing."
   }
 ]
