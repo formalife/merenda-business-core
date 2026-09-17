@@ -235,3 +235,55 @@ La sequenza è:
 Il principio non autorizza raccolta indiscriminata di informazioni personali. Va conservato soltanto il minimo dato che migliora realmente servizio o pertinenza dell'offerta.
 
 Fonte assimilata: Moreno Bonechi, “I Soldi Non Stanno nell'Elenco dei Tuoi Contatti…”, 27 gennaio 2026. Review: ../../sources/merenda-sources/FM-SRC-0106/review.md.
+
+
+## Il database come inventory di campagne, non come lista unica
+
+Nel corso **Operazione Incassi Record**, Merenda organizza in modo operativo un principio già presente nella KB: lo stato della relazione deve determinare la prossima azione.
+
+L'estensione utile è trattare il CRM come un **inventory continuo di campagne di monetizzazione**. Non basta sapere che una persona è “nel database”: bisogna sapere **perché può essere ricontattata adesso** e quale proposta è coerente con la sua storia.
+
+L'unità di lavoro diventa:
+
+**segmento preciso → ragione precisa → offerta precisa → comunicazione → follow-up commerciale → outcome misurato.**
+
+Questo evita l'istruzione generica “chiama i clienti” e trasforma marketing e rete vendita in un processo più osservabile, allenabile e ripetibile.
+
+### Sedici campagne come checklist operativa
+
+La fonte elenca sedici categorie. Molte sono già sviluppate altrove nella KB; qui vengono conservate come **mappa di copertura** per verificare se il database viene realmente monetizzato:
+
+1. **upsell** sui clienti attivi;
+2. **cross-sell** sui clienti attivi;
+3. riattivazione di **lead acquisiti ma mai attivati**;
+4. recupero dei **Lead No Sale** — persone che hanno fatto una vera trattativa/appuntamento ma non hanno acquistato;
+5. conversione di chi ha acquistato il **front-end ma non il back-end**;
+6. riattivazione dei **clienti fermi**;
+7. campagne di **referral**;
+8. **riconquista** di clienti che hanno cancellato, chiesto rimborso o interrotto esplicitamente la relazione;
+9. campagne di **aggiornamento prodotto/versione**;
+10. **rinnovi e upgrade prima della scadenza**;
+11. programmi di **fedeltà/continuità** quando coerenti con il modello;
+12. **offerte stagionali** o legate a finestre temporali reali;
+13. **revisione personalizzata della situazione** quando il bisogno del cliente può cambiare nel tempo;
+14. **recupero carrello abbandonato**, includendo intervento umano quando il valore e il contesto lo giustificano;
+15. offerte legate a **compleanni, anniversari o altre ricorrenze pertinenti**, se i dati sono disponibili e utilizzabili;
+16. **lancio** di nuovi prodotti o servizi, invece di limitarne l'inserimento passivo nel catalogo.
+
+La lista non sostituisce i framework più recenti e specifici su riattivazione, follow-up, referral, retention o next-best-offer. Serve come controllo operativo per chiedersi quali stati commerciali esistono nel CRM e quali non hanno ancora un percorso progettato.
+
+### Distinguere stati che sembrano simili
+
+La fonte rende utile una distinzione che evita campagne troppo generiche:
+
+- **lead inattivo** — ha lasciato dati ma non è arrivato a una vera trattativa;
+- **Lead No Sale** — ha già sostenuto appuntamento/trattativa ma non ha comprato;
+- **front-end senza back-end** — ha già effettuato una prima transazione ma non è avanzato;
+- **cliente fermo** — comprava e ha smesso senza una rottura esplicita;
+- **cliente da riconquistare** — ha cancellato, chiesto rimborso/storno o interrotto esplicitamente il rapporto.
+
+Questi stati hanno storia, livello di fiducia e ostacoli diversi; non dovrebbero quindi ricevere automaticamente la stessa offerta o lo stesso follow-up.
+
+La data originaria del corso non è verificata. Di conseguenza questa fonte non supera i materiali 2024–2026 già canonizzati: ne integra soltanto la tassonomia operativa compatibile.
+
+Fonte: Frank Merenda, **Operazione Incassi Record**, corso su Metodo Merenda, data di pubblicazione non determinata. [Review source-agnostic](../../sources/merenda-sources/FM-SRC-0162/review.md).
