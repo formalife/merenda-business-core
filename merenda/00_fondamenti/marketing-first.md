@@ -39,8 +39,8 @@ Merenda presenta questi principi come criteri con cui supervisiona ogni campagna
 3. **Risposta diretta.** Ogni comunicazione contiene una chiamata all'azione e permette di tracciare i risultati, anche quando è cartacea. Merenda critica le sequenze che rimandano la richiesta d'azione alla trentesima email.
 4. **Complessità e sofisticazione.** Marketing, produzione e processi devono evolvere e diventare difficili da copiare. La complessità riguarda la capacità del sistema di funzionare e monetizzare, non una sola campagna isolata. Vedi l'[approfondimento sulla complessità del sistema e riduzione delle variabili](../04_marketing/complessita-e-riduzione-variabili.md).
 5. **Visione di lungo periodo.** La direzione precede gli strumenti e si realizza gradualmente. La gestione delle urgenze di cassa non deve sostituire la progettazione.
-6. **Mantenere l'analogico.** Materiali fisici, libri, lettere e pacchi occupano l'ambiente del cliente e rendono tangibile l'offerta. Il digitale è previsto come supporto: il principio è non sostituire integralmente il fisico con il digitale.
-7. **Prezzo superiore alla concorrenza.** Presuppone un'offerta realmente differente, percepita dal target come più importante. Alzare il prezzo di un prodotto indistinguibile non basta. Le condizioni delle offerte iniziali sono trattate nel [sistema di monetizzazione](../03_offerta/front-end-e-back-end.md).
+6. **Valorizzare anche l'analogico quando svolge un lavoro economico utile.** Nel 2022 Merenda formula il criterio come “mantenere l'analogico”: materiali fisici, libri, lettere e pacchi possono occupare l'ambiente del cliente e rendere tangibile l'offerta. Il materiale successivo sulla [gerarchia della domanda e dei canali](../04_marketing/gerarchia-domanda-e-canali.md) rende però la scelta del mezzo subordinata a domanda, intento, target, funzione ed economics. La regola attiva non è quindi “ogni funnel deve contenere carta” né “digitale sempre”: l'analogico resta un asset importante quando aumenta attenzione, credibilità, risposta o memorabilità in modo economicamente sensato.
+7. **Costruire la capacità di sostenere un prezzo premium, senza trasformare il prezzo in un dogma.** Nel 2022 Merenda formula il principio come prezzo superiore alla concorrenza e lo subordina già a un'offerta realmente differente. Il materiale più recente sul [prezzo premium e percezione del valore](../03_offerta/prezzo-premium-e-percezione-del-valore.md) precisa che il livello concreto di prezzo va testato su conversione, margine, target, fase aziendale e domanda. La regola attiva è uscire dalla commodity e dalla guerra di prezzo attraverso differenza, valore, prova e autorità; non essere meccanicamente più cari di ogni concorrente in ogni transazione. Le condizioni delle offerte iniziali restano trattate nel [sistema di monetizzazione](../03_offerta/front-end-e-back-end.md).
 
 ## Strategia e responsabilità dell'imprenditore
 
@@ -125,8 +125,6 @@ L'assenza di esempi già esistenti nel proprio settore non dimostra che il metod
 
 Fonte: [Perchè per un Infomercial il settore non fa differenza?](https://www.youtube.com/watch?v=zWVDQEuw_yI), 10 agosto 2022. [Revisione](../../sources/transcripts/zWVDQEuw_yI.review.md).
 
-
-
 ## Creatività al servizio del posizionamento
 
 Nel materiale del 30 novembre 2023 Merenda propone una griglia semplice per giudicare una pubblicità non a risposta diretta, come uno spot:
@@ -171,7 +169,6 @@ La sequenza non sostituisce i framework più specifici emersi successivamente. L
 Nello stesso intervento Merenda ribadisce che la struttura di fondo del marketing resta trasferibile tra B2B e B2C: cambiano soprattutto durata del ciclo, numero di decisori, necessità di progetto/consulenza e profondità della trattativa. Questo è coerente con la distinzione tra marketing e vendita già consolidata nell'[offerta a risposta diretta](../03_offerta/offerta-a-risposta-diretta.md).
 
 Fonte: [Come Fare Marketing: 3 Passi Chiave Per Trovare Clienti Top](https://www.youtube.com/watch?v=zZFg2oM208w), 21 gennaio 2025. [Revisione](../../sources/transcripts/zZFg2oM208w.review.md).
-
 
 ## Misurare la promessa prima di amplificarla
 
