@@ -2,7 +2,7 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. CURRENT KNOWN CORPUS EXHAUSTED; FINAL SEMANTIC AUDIT COMPLETED.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; CURRENT KNOWN CORPUS EXHAUSTED.**
 
 Il progetto è ora il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
 
@@ -18,12 +18,49 @@ Il checkpoint semantico di maturità è documentato in:
 
 `reviews/FINAL_SEMANTIC_AUDIT.md`
 
-La priorità non è più accumulare fonti. Il Layer 1 viene ora usato operativamente per costruire il **Layer 2 Formalife** tramite una ricostruzione zero-based.
+La priorità corrente è una **Architecture Review di routing, retrieval e fidelity** prima di riprendere l'uso operativo intensivo del Layer 1 su Formalife. La review non riapre il corpus e non modifica automaticamente la dottrina.
+
+Roadmap corrente:
+
+`reviews/ARCHITECTURE_REVIEW_ROADMAP.md`
+
+Branch di lavoro:
+
+`architecture-review-routing-v2`
 
 Contratto e protocollo:
 
 - `LAYER1_CONTRACT.md`
 - `FORMALIFE_REBUILD_PROTOCOL.md`
+
+## Architecture Review — stato corrente
+
+Obiettivo: aumentare in modo misurabile la probabilità che un agente recuperi la conoscenza canonica giusta, controlli le dipendenze a monte e distingua correttamente provenance, fatti e ipotesi prima di formulare una decisione.
+
+Decisione metodologica corrente:
+
+**eval prima del refactor.**
+
+Non modificare ancora `merenda/DECISION_ROUTER.md` soltanto per renderlo più completo. Prima costruire una baseline che misuri routing recall, upstream recall, retrieval precision, doctrine fidelity, unsupported inference, premature tactics e provenance accuracy.
+
+Asset creati sul branch di review:
+
+- `evals/routing/README.md`
+- `evals/routing/cases.jsonl`
+- `scripts/validate_routing_evals.py`
+
+Stato baseline iniziale:
+
+- 15 casi gold creati;
+- inclusi casi su domanda posseduta, conversione, user-vs-payer, pricing, nuovi prodotti, cassa, founder dependency, retention naturale, canali, vendita, economics, provenance, sunk cost, lead quality e automazione;
+- il caso user-vs-payer è incluso specificamente per testare concetti importanti presenti in sezioni non evidenti dal nome del file.
+
+Prossimo gate:
+
+1. validare meccanicamente la suite;
+2. estenderla verso 30–50 casi;
+3. produrre l'Architecture Inventory file/heading/link/concept;
+4. solo dopo progettare Doctrine/Retrieval Map v1 e Router v2.
 
 ## Contatori canonici — corpus YouTube storico
 
@@ -126,36 +163,41 @@ Per fonti assimilate di altri autori, la compatibilità semantica con la KB non 
 
 ## Validator
 
-Comando canonico:
+Comandi correnti:
 
 `python3 scripts/validate_project.py`
 
-Il validator certifica gli invarianti strutturali del corpus storico e del registry source-agnostic. **Non certifica da solo il merito semantico.** Il checkpoint finale in `reviews/FINAL_SEMANTIC_AUDIT.md` documenta la review semantica dell'attuale doctrine layer.
+`python3 scripts/validate_routing_evals.py`
+
+Il validator principale certifica gli invarianti strutturali del corpus storico e del registry source-agnostic. **Non certifica da solo il merito semantico.** Il checkpoint finale in `reviews/FINAL_SEMANTIC_AUDIT.md` documenta la review semantica dell'attuale doctrine layer. Il nuovo validator degli eval controlla schema, ID e path della baseline ma non sostituisce la review semantica dei gold case.
 
 ## Gap di consolidamento ancora aperti
 
-I gap individuati dal checkpoint restano validi, ma non bloccano l'uso operativo della versione corrente:
+I gap individuati dal checkpoint restano validi, ma vengono ora ordinati rispetto alla Architecture Review:
 
-1. **P1 — Vendita end-to-end**
-2. **P1 — Casi studio**
-3. **P1 — Doctrine/provenance map**
-4. **P2 — Sintesi brand**
-5. **P2 — Voice of Customer / ricerca mercato**
-6. **P2 — Hardening Git**
+1. **P0 — Routing / retrieval fidelity ed eval harness**
+2. **P1 — Doctrine/provenance/retrieval map**
+3. **P1 — Vendita end-to-end**
+4. **P1 — Casi studio**
+5. **P2 — Sintesi brand**
+6. **P2 — Voice of Customer / ricerca mercato**
+7. **P2 — Hardening Git**
 
-Non riaprire questi lavori soltanto per completezza. Possono essere affrontati quando diventano rilevanti durante l'uso reale del Layer 1 o quando saranno disponibili nuove fonti adeguate.
+Non riaprire i gap dottrinali soltanto per completezza. La review deve prima stabilire quali gap degradano realmente le decisioni operative.
 
 ## Next Action
 
-**Costruire il Layer 2 Formalife come ricostruzione zero-based guidata dal Layer 1.**
+**Completare la baseline e l'Architecture Inventory prima di modificare il Router.**
 
 Sequenza:
 
-1. creare repository separata per Formalife Layer 2;
-2. iniziare dalla Fase 0 di `FORMALIFE_REBUILD_PROTOCOL.md`;
-3. condurre il founder interview per blocchi decisionali;
-4. salvare nel Layer 2 fatti, decisioni, ipotesi, esperimenti e observed reality;
-5. interrogare il Layer 1 a ogni gate sostanziale.
+1. eseguire `scripts/validate_routing_evals.py` in un checkout locale/Codex;
+2. revisionare semanticamente i primi 15 gold case;
+3. estendere la suite a 30–50 casi, includendo blind/adversarial case;
+4. usare Codex per inventario completo di file, heading, link e candidati concettuali;
+5. identificare concetti ad alta leva presenti nella KB ma invisibili o debolmente raggiungibili dal routing corrente;
+6. progettare `Doctrine/Retrieval Map v1`;
+7. misurare baseline vs nuova architettura prima di adottare Router v2.
 
 Riaprire l'acquisizione Layer 1 soltanto se:
 
