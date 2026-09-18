@@ -107,24 +107,13 @@ Shard sperimentali:
 - `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE3.json`
 - `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE4.json`
 
-La mappa usa entry semantiche con:
-
-- path + anchor canonico;
-- `upstream`;
-- `must_read_with` condizionale;
-- `evidence_required`;
-- `not_sufficient_for`;
-- provenance a livello di entry;
-- supersession;
-- collegamento agli eval.
-
-Questo permette di rappresentare correttamente file con provenance mista e concetti nascosti nel nome del nodo.
+La mappa usa entry semantiche con path + anchor canonico, `upstream`, `must_read_with`, `evidence_required`, `not_sufficient_for`, provenance a livello di entry, supersession ed eval linkage.
 
 Validator:
 
 `python3 scripts/validate_retrieval_map.py`
 
-Ultimo checkpoint CI completo prima dello shard Phase 4:
+Checkpoint CI verificato prima dello shard Phase 4:
 
 - repository invariants: PASS;
 - routing eval suite: PASS — 30 casi;
@@ -132,7 +121,7 @@ Ultimo checkpoint CI completo prima dello shard Phase 4:
 - eval coverage della map: 26/30 = 86,7%;
 - Architecture Inventory: PASS.
 
-I quattro gap di coverage R007/R014/R015/R021 sono stati successivamente trasformati in entry semantiche Phase 4; la relativa CI deve confermare il nuovo stato.
+I quattro gap R007/R014/R015/R021 sono stati trasformati in entry Phase 4. Il successivo checkpoint CI deve confermare coverage e validità.
 
 ### Run protocol e scoring
 
@@ -140,14 +129,11 @@ Creati:
 
 - `evals/routing/RUN_PROTOCOL.md`
 - `scripts/score_routing_run.py`
+- `scripts/score_static_routing_coverage.py`
 
-Il protocollo separa:
+Il protocollo separa gold case, agent trace effettivo e judgment.
 
-1. gold case;
-2. agent trace effettivo;
-3. judgment.
-
-Metriche deterministiche supportate:
+Metriche deterministiche:
 
 - required-node recall;
 - relevant retrieval precision;
@@ -162,9 +148,7 @@ Metriche judgment-ready:
 - premature tactic;
 - founder accommodation failure.
 
-Questo rende possibile il prossimo confronto reale:
-
-**`current` vs `current_plus_map`.**
+`score_static_routing_coverage.py` misura solo **static addressability** Router vs Map e non viene confuso con performance comportamentale.
 
 ---
 
@@ -172,12 +156,12 @@ Questo rende possibile il prossimo confronto reale:
 
 1. **Non serve una nuova tassonomia completa.** La struttura è collegata e non mostra orphan nodes o link rotti.
 2. **Il Router corrente svolge troppe funzioni.** È manuale, lungo e inevitabilmente incompleto rispetto ai nodi specialistici.
-3. **File-level routing non basta.** Concetti decisivi come user-vs-payer, customer expiry, search intent, sell-in/sell-through e whale curve vivono come sezioni di nodi più ampi.
+3. **File-level routing non basta.** Concetti decisivi vivono come sezioni di nodi più ampi.
 4. **I nodi-hub sono grandi.** Caricarli sempre interamente aumenterebbe recall ma peggiorerebbe precisione e token efficiency.
-5. **Serve retrieval causale, non solo similarity.** Le relazioni `upstream`, `must_read_with` ed evidence sufficiency sono parte della decisione.
+5. **Serve retrieval causale, non solo similarity.** `upstream`, `must_read_with` ed evidence sufficiency sono parte della decisione.
 6. **La provenance deve vivere a livello di entry.** Alcuni file contengono insieme materiale MERENDA_PRIMARY e ASSIMILATED.
 7. **La governance storica contiene istruzioni incompatibili con lo stato corrente.** Il conflitto frozen/current va risolto esplicitamente prima di chiudere la review.
-8. **Non assumere full-text search perfetta come rete di sicurezza.** Il control plane deve funzionare anche quando il search connector non recupera termini presenti nella KB.
+8. **Non assumere full-text search perfetta come rete di sicurezza.**
 
 ---
 
@@ -191,10 +175,10 @@ Questo rende possibile il prossimo confronto reale:
 
 ## Contatori canonici — layer source-agnostic
 
-- Fonti registrate: 166
-- STUDIATO: 166
-- ESCLUSO: 0
-- pending: 0
+- Nuove fonti Merenda registrate: 166
+- Nuove fonti Merenda studiate: 166
+- Nuove fonti Merenda escluse: 0
+- Nuove fonti Merenda da processare: 0
 
 Categorie operative rilevanti:
 
@@ -238,7 +222,7 @@ La provenance reale non viene mai falsificata.
 
 Sequenza:
 
-1. confermare CI su Phase 4 e coverage corrente della Retrieval Map;
+1. confermare CI su Phase 4 e static addressability;
 2. eseguire i 30 casi in contesto isolato con architettura `current`;
 3. catturare trace reali dei nodi letti;
 4. eseguire gli stessi casi con `current_plus_map` senza esporre il gold al modello;
