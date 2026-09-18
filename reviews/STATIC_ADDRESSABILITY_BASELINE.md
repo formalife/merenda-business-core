@@ -1,7 +1,7 @@
 # Static Routing Addressability Baseline
 
 Data: 2026-09-18
-Stato: MECHANICAL BASELINE — NOT BEHAVIORAL PERFORMANCE
+Stato: COMPLETE MECHANICAL BASELINE — NOT BEHAVIORAL PERFORMANCE
 
 ## Scopo
 
@@ -13,71 +13,104 @@ Script:
 
 `scripts/score_static_routing_coverage.py`
 
-## Checkpoint CI — prima di Phase 5
+---
+
+## Baseline Router corrente
 
 Su 30 casi:
 
 - explicit node references nel Router corrente: **35**;
 - mean current Router direct recall: **82,8%**;
-- mean Map direct recall isolata: **49,4%**;
+- casi con full direct recall dal Router corrente: **19/30**.
+
+Questo mostra che il Router corrente è già utile e copre bene molti sintomi frequenti, ma lascia una coda di casi in cui almeno un nodo gold decisivo non è esplicitamente indirizzato.
+
+---
+
+## Checkpoint Router + Map — Phase 4
+
+Prima delle ultime tre entry:
+
 - mean combined Router + Map direct recall: **96,1%**;
-- casi con full direct recall dal Router corrente: **19/30**;
-- casi con full direct recall Router + Map: **27/30**.
+- casi con full direct recall: **27/30**.
 
-La Map non è progettata per sostituire il Router o duplicare tutti i path necessari. Per questo il suo recall isolato non è una metrica obiettivo. Il confronto rilevante è `current` vs `current + map`.
+I tre gap residui erano:
 
-## Blind spot resi indirizzabili dalla Map
+- **R013** — `FORMALIFE_REBUILD_PROTOCOL.md`;
+- **R016** — `05_acquisizione/partnership-distribuzione-e-combinazioni.md`;
+- **R023** — `07_copy_comunicazione/checklist-risposta-diretta.md`.
 
-Fra i casi in cui il Router corrente non nominava direttamente un nodo gold ma la Map lo rende esplicito:
+Sono stati chiusi solo dopo review semantica, non per inseguire il numero.
 
-- **R003** — `clienti-identificabili-e-target.md` per user vs payer;
-- **R008** — stesso nodo per customer expiry;
-- **R009** — identificabilità del target nella scelta canale;
-- **R026** — `priorita-azione-e-inerzia.md`;
-- **R027** — `partnership-distribuzione-e-combinazioni.md`;
-- **R028** — `clienti-altospendenti.md`;
-- **R029** — `test-creativita-annunci.md`;
-- **R030** — `eventi-proprietari-vip-experience.md`.
+Entry aggiunte:
+
+- `ZERO_BASED.REBUILD_PROTOCOL`;
+- `DISTRIBUTION.PARTNER_EXECUTION`;
+- `DIRECT_RESPONSE.MEASURABLE_NEXT_ACTION`.
+
+---
+
+## Checkpoint Router + Map — Phase 5
+
+CI run verificato:
+
+- Retrieval Map: **PASS — 30 entry**;
+- eval linkage coverage: **30/30 = 100%**;
+- mean Map direct recall isolata: **53,3%**;
+- mean combined Router + Map direct recall: **100%**;
+- casi con full direct recall Router + Map: **30/30**.
+
+La Map non è progettata per sostituire il Router o duplicare tutti i path necessari. Per questo il recall isolato della Map non è una metrica obiettivo. Il confronto utile è:
+
+**current Router: 82,8% mean direct recall / 19 di 30 casi completi**
+
+vs
+
+**current Router + Map: 100% mean direct recall / 30 di 30 casi completi**.
+
+Di nuovo: **addressability ≠ behavioral retrieval**.
+
+---
+
+## Blind spot resi esplicitamente indirizzabili
+
+Fra i casi in cui il Router corrente non nominava direttamente almeno un nodo gold ma la Map chiude il gap:
+
+- **R003** — user vs payer;
+- **R008** — customer expiry;
+- **R009** — target identifiability nella scelta canale;
+- **R013** — zero-based rebuild protocol;
+- **R016** — partnership/distribution execution;
+- **R023** — measurable next action/direct response;
+- **R026** — trigger/priorità prima del copy;
+- **R027** — partnership economics;
+- **R028** — high spender: capacità vs propensione;
+- **R029** — creative testing da winner;
+- **R030** — event response asset.
 
 Questi casi supportano direttamente la diagnosi di discoverability sub-file / specialist-node.
 
-## Tre gap rimasti dopo Phase 4
+---
 
-Il confronto statico precedente lasciava tre casi senza full combined recall:
+## Decisione architetturale a questo gate
 
-### R013 — zero-based reconstruction
+**Fermare l'espansione della Map guidata dagli eval.**
 
-Mancava l'esplicita addressability di `FORMALIFE_REBUILD_PROTOCOL.md`.
+Il fatto che la static addressability raggiunga 30/30 elimina il motivo di aggiungere altre entry soltanto per coverage della suite corrente.
 
-Intervento semanticamente giustificato:
+Nuove entry da questo punto devono entrare solo se:
 
-`ZERO_BASED.REBUILD_PROTOCOL`.
+- emergono failure comportamentali;
+- un nuovo caso reale rende visibile un gap;
+- una review semantica identifica un principio high-leverage non rappresentato.
 
-### R016 — distribuzione tramite intermediari
+Questo evita overfitting e crescita burocratica della metadata.
 
-La Map copriva il principio sell-in/sell-through in `04_marketing`, ma non il nodo specialistico `05_acquisizione/partnership-distribuzione-e-combinazioni.md` richiesto dal gold.
+---
 
-Intervento semanticamente giustificato:
+## Ipotesi da testare ora
 
-`DISTRIBUTION.PARTNER_EXECUTION`.
-
-### R023 — vanity metrics / direct response
-
-Mancava `07_copy_comunicazione/checklist-risposta-diretta.md`, che governa l'avanzamento osservabile e misurabile.
-
-Intervento semanticamente giustificato:
-
-`DIRECT_RESPONSE.MEASURABLE_NEXT_ACTION`.
-
-Le tre entry sono state aggiunte in `DOCTRINE_RETRIEVAL_MAP_V1_PHASE5.json`. Il prossimo run CI deve verificare se la static addressability combinata raggiunge full coverage dei gold node.
-
-## Perché questa baseline è utile
-
-Il Router corrente non è inutilizzabile: **82,8% di direct recall medio** mostra che copre già bene molti problemi frequenti.
-
-Il problema è la coda di casi nei quali la risposta di alto livello sembra plausibile ma manca un nodo specialistico capace di cambiare la diagnosi.
-
-La Map sembra quindi avere valore soprattutto come:
+La Map sembra avere valore potenziale come:
 
 - rete di sicurezza sui blind spot;
 - routing section-level;
@@ -85,20 +118,39 @@ La Map sembra quindi avere valore soprattutto come:
 - provenance carrier;
 - evidence sufficiency layer.
 
-Questo supporta l'ipotesi che il primo esperimento corretto sia:
+L'ipotesi sperimentale è:
 
-**Router corrente + Retrieval Map**, non una riscrittura immediata del Router.
+> **il Router corrente, senza essere ancora riscritto, migliora materially il retrieval e la diagnosi quando viene affiancato dalla Retrieval Map.**
+
+Questa ipotesi non è ancora dimostrata.
+
+---
 
 ## Gate successivo
 
-Dopo la CI su Phase 5, passare alla **behavioral baseline isolata**.
+Passare alla **behavioral baseline isolata**:
 
-La static addressability non autorizza da sola l'adozione della Map. Serve dimostrare che il modello, usando la Map, migliori realmente:
+1. `current`;
+2. `current_plus_map`.
+
+Il modello sotto test non deve vedere il gold.
+
+Asset pronti:
+
+- `evals/routing/RUN_PROTOCOL.md`;
+- `scripts/export_routing_eval_prompts.py`;
+- `scripts/score_routing_run.py`;
+- `reviews/CODEX_ROUTING_BASELINE_TASK.md`.
+
+Misurare:
 
 - required-node recall osservato;
+- relevant retrieval precision;
+- over-retrieval;
 - upstream/required check recall;
-- retrieval precision;
 - unsupported inference;
 - premature tactic rate;
 - provenance accuracy;
 - founder accommodation failure.
+
+Solo dopo questo confronto si decide se adottare la Map nel control plane e se esiste ancora un problema che giustifica Router v2.
