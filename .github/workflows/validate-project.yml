@@ -26,6 +26,9 @@ jobs:
       - name: Validate routing eval suite
         run: python3 scripts/validate_routing_evals.py
 
+      - name: Validate draft retrieval map
+        run: python3 scripts/validate_retrieval_map.py
+
       - name: Build architecture inventory
         run: >-
           python3 scripts/build_architecture_inventory.py
