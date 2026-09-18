@@ -7,6 +7,7 @@ on:
     branches:
       - main
       - merenda-source-corpus-001
+      - architecture-review-routing-v2
 
 permissions:
   contents: read
@@ -31,6 +32,12 @@ jobs:
 
       - name: Score static routing addressability
         run: python3 scripts/score_static_routing_coverage.py
+
+      - name: Compile architecture review scripts
+        run: >-
+          python3 -m py_compile
+          scripts/build_structural_index.py
+          scripts/build_behavioral_judgment_bundle.py
 
       - name: Build architecture inventory
         run: >-
