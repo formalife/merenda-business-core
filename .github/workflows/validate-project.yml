@@ -7,6 +7,7 @@ on:
     branches:
       - main
       - merenda-source-corpus-001
+      - architecture-review-routing-v2
 
 permissions:
   contents: read
@@ -22,6 +23,84 @@ jobs:
 
       - name: Validate repository invariants
         run: python3 scripts/validate_project.py
+
+      - name: Validate routing eval suite
+        run: python3 scripts/validate_routing_evals.py
+
+      - name: Validate draft retrieval map
+        run: python3 scripts/validate_retrieval_map.py
+
+      - name: Validate semantic gold v2
+        run: python3 scripts/validate_semantic_gold_v2.py
+
+      - name: Score static routing addressability
+        run: python3 scripts/score_static_routing_coverage.py
+
+      - name: Compile architecture review scripts
+        run: >-
+          python3 -m py_compile
+          scripts/build_structural_index.py
+          scripts/build_behavioral_judgment_bundle.py
+          scripts/build_prototype_a_judgment_bundle.py
+          scripts/build_semantic_gold_draft.py
+          scripts/build_compact_semantic_index.py
+          scripts/score_context_reads.py
+          scripts/score_semantic_routing_run.py
+          scripts/run_hierarchical_retriever_prototype_a_host.py
+          scripts/validate_semantic_gold_v2.py
+
+      - name: Build architecture inventory
+        run: >-
+          python3 scripts/build_architecture_inventory.py
+          --json-out /tmp/architecture-inventory.json
+          --md-out /tmp/architecture-inventory.md
+
+      - name: Build structural index
+        run: >-
+          python3 scripts/build_structural_index.py
+          --json-out /tmp/structural-index.json
+          --md-out /tmp/structural-index.md
+
+      - name: Build semantic gold migration draft
+        run: >-
+          python3 scripts/build_semantic_gold_draft.py
+          --out /tmp/semantic-gold-v2-draft.jsonl
+
+      - name: Build compact semantic index
+        run: >-
+          python3 scripts/build_compact_semantic_index.py
+          --json-out /tmp/semantic-index-v2.json
+          --txt-out /tmp/semantic-index-v2.txt
+
+      - name: Upload architecture inventory
+        uses: actions/upload-artifact@v4
+        with:
+          name: architecture-inventory
+          path: |
+            /tmp/architecture-inventory.json
+            /tmp/architecture-inventory.md
+
+      - name: Upload structural index
+        uses: actions/upload-artifact@v4
+        with:
+          name: structural-index
+          path: |
+            /tmp/structural-index.json
+            /tmp/structural-index.md
+
+      - name: Upload semantic gold migration draft
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-gold-v2-draft
+          path: /tmp/semantic-gold-v2-draft.jsonl
+
+      - name: Upload compact semantic index
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-index-v2
+          path: |
+            /tmp/semantic-index-v2.json
+            /tmp/semantic-index-v2.txt
 
       - name: Verify clean working tree
         run: git status --porcelain=v1
