@@ -2,7 +2,7 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; CURRENT KNOWN CORPUS EXHAUSTED.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; STATIC ROUTING BASELINE COMPLETE.**
 
 Il progetto è il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
 
@@ -40,29 +40,13 @@ Draft PR:
 
 ### Baseline gold
 
-La suite contiene **30 casi** distribuiti in:
+La suite contiene **30 casi**:
 
 - `evals/routing/cases.jsonl`
 - `evals/routing/cases_phase2.jsonl`
 - `evals/routing/cases_phase3.jsonl`
 
-Copre fra gli altri:
-
-- domanda posseduta vs nuova acquisizione;
-- user vs payer;
-- clienti a scadenza;
-- search volume vs intent;
-- sell-in/sell-through;
-- partnership;
-- high spender: capacità vs propensione;
-- trigger/priorità prima del copy;
-- creative testing da winner;
-- eventi proprietari;
-- lead source vs stato;
-- founder dependency;
-- automazione/processo;
-- temporal caveat su analogico e premium pricing;
-- provenance assimilata.
+Copertura intenzionale: domanda, mercato/cliente, user-vs-payer, customer expiry, search intent, sell-in/sell-through, partnership, high spender, trigger/priorità, creative testing, eventi, lead state, founder dependency, automazione/processo, pricing, analogico, provenance e zero-based reconstruction.
 
 Validator:
 
@@ -74,7 +58,7 @@ Builder:
 
 `python3 scripts/build_architecture_inventory.py --json-out <path> --md-out <path>`
 
-Risultato meccanico corrente:
+Risultato meccanico:
 
 - 60 Markdown sotto `merenda/`;
 - 47 nodi canonici non-README, esclusi INDEX/Router;
@@ -84,14 +68,14 @@ Risultato meccanico corrente:
 - 0 nodi completamente privi di visibilità se si includono i README di sezione;
 - 12 nodi canonici non nominati direttamente dal Decision Router;
 - 6 nodi scoperti soltanto tramite README di sezione rispetto ai control layer principali;
-- 605 heading candidati meccanici come non esplicitamente visibili nel control plane: upper bound rumoroso, non 605 gap reali.
+- 605 heading candidati meccanici non esplicitamente visibili nel control plane: upper bound rumoroso, non 605 gap reali.
 
 Review:
 
 - `reviews/ARCHITECTURE_INVENTORY_INITIAL_FINDINGS.md`
 - `reviews/ARCHITECTURE_INVENTORY_MECHANICAL_REVIEW.md`
 
-Diagnosi confermata:
+Diagnosi:
 
 > **la KB è strutturalmente ben collegata; il problema prioritario è la discoverability delle unità semantiche dentro nodi già raggiungibili e spesso molto grandi.**
 
@@ -106,49 +90,83 @@ Shard sperimentali:
 - `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_SEED.json`
 - `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE3.json`
 - `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE4.json`
+- `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE5.json`
 
-La mappa usa entry semantiche con path + anchor canonico, `upstream`, `must_read_with`, `evidence_required`, `not_sufficient_for`, provenance a livello di entry, supersession ed eval linkage.
+La mappa usa entry semantiche con:
+
+- path + anchor canonico;
+- `upstream`;
+- `must_read_with` condizionale;
+- `evidence_required`;
+- `not_sufficient_for`;
+- provenance a livello di entry;
+- supersession;
+- eval linkage.
 
 Validator:
 
 `python3 scripts/validate_retrieval_map.py`
 
-Checkpoint CI verificato prima dello shard Phase 4:
+Checkpoint CI Phase 5:
 
 - repository invariants: PASS;
 - routing eval suite: PASS — 30 casi;
-- retrieval map: PASS — 23 entry;
-- eval coverage della map: 26/30 = 86,7%;
+- retrieval map: PASS — **30 entry**;
+- eval linkage coverage: **30/30 = 100%**;
 - Architecture Inventory: PASS.
 
-I quattro gap R007/R014/R015/R021 sono stati trasformati in entry Phase 4. Il successivo checkpoint CI deve confermare coverage e validità.
+### Static addressability baseline
 
-### Run protocol e scoring
+Report:
 
-Creati:
+`reviews/STATIC_ADDRESSABILITY_BASELINE.md`
+
+Script:
+
+`python3 scripts/score_static_routing_coverage.py`
+
+Risultati:
+
+- Router corrente: **82,8% mean direct recall**;
+- Router corrente: **19/30 casi con full direct recall**;
+- Router + Map: **100% mean direct recall**;
+- Router + Map: **30/30 casi con full direct recall**.
+
+Questa è **static addressability, non behavioral performance**.
+
+Decisione a questo gate:
+
+**fermare l'espansione della Map guidata dalla suite corrente.**
+
+Nuove entry entrano solo per failure comportamentali, nuovi casi reali o nuovi gap high-leverage nominabili.
+
+### Behavioral run protocol
+
+Pronti:
 
 - `evals/routing/RUN_PROTOCOL.md`
+- `scripts/export_routing_eval_prompts.py`
 - `scripts/score_routing_run.py`
-- `scripts/score_static_routing_coverage.py`
+- `reviews/CODEX_ROUTING_BASELINE_TASK.md`
 
-Il protocollo separa gold case, agent trace effettivo e judgment.
+Il modello sotto test deve vedere solo prompt sanitizzati, mai required nodes/checks/forbidden shortcuts.
 
-Metriche deterministiche:
+Confronto da eseguire:
 
-- required-node recall;
+1. `current`
+2. `current_plus_map`
+
+Metriche:
+
+- observed required-node recall;
 - relevant retrieval precision;
-- over-retrieval.
-
-Metriche judgment-ready:
-
+- over-retrieval;
 - required/upstream check recall;
 - forbidden shortcut rate;
 - provenance error;
 - unsupported inference;
 - premature tactic;
 - founder accommodation failure.
-
-`score_static_routing_coverage.py` misura solo **static addressability** Router vs Map e non viene confuso con performance comportamentale.
 
 ---
 
@@ -162,6 +180,7 @@ Metriche judgment-ready:
 6. **La provenance deve vivere a livello di entry.** Alcuni file contengono insieme materiale MERENDA_PRIMARY e ASSIMILATED.
 7. **La governance storica contiene istruzioni incompatibili con lo stato corrente.** Il conflitto frozen/current va risolto esplicitamente prima di chiudere la review.
 8. **Non assumere full-text search perfetta come rete di sicurezza.**
+9. **La Map chiude staticamente i blind spot senza richiedere una riscrittura del Router.** Ora deve guadagnarsi il diritto di entrare nel control plane tramite behavioral eval.
 
 ---
 
@@ -205,9 +224,9 @@ La provenance reale non viene mai falsificata.
 
 ## Gap ordinati rispetto alla Architecture Review
 
-1. **P0 — Routing/retrieval fidelity + baseline comportamentale**
+1. **P0 — Behavioral routing/retrieval baseline**
 2. **P0 — Risoluzione esplicita governance historical/current**
-3. **P1 — Doctrine/Retrieval Map**
+3. **P1 — Decisione su adozione Doctrine/Retrieval Map**
 4. **P1 — Vendita end-to-end**
 5. **P1 — Casi studio**
 6. **P2 — Sintesi brand**
@@ -218,17 +237,17 @@ La provenance reale non viene mai falsificata.
 
 ## Next Action
 
-**Eseguire la baseline comportamentale prima di progettare Router v2.**
+**Eseguire la behavioral baseline isolata prima di progettare Router v2.**
 
 Sequenza:
 
-1. confermare CI su Phase 4 e static addressability;
-2. eseguire i 30 casi in contesto isolato con architettura `current`;
-3. catturare trace reali dei nodi letti;
-4. eseguire gli stessi casi con `current_plus_map` senza esporre il gold al modello;
-5. usare `scripts/score_routing_run.py` per il confronto;
+1. esportare prompt sanitizzati con `scripts/export_routing_eval_prompts.py`;
+2. eseguire i 30 casi con architettura `current` in contesti indipendenti;
+3. catturare trace reali dei file/anchor letti;
+4. eseguire gli stessi casi con `current_plus_map`, sempre isolati;
+5. usare `scripts/score_routing_run.py`;
 6. fare judgment semantico sui failure più importanti;
-7. decidere sulla base dei dati se basta `current + map` o se serve davvero Router v2;
-8. solo dopo modificare il Router.
+7. decidere se la Map migliora il comportamento abbastanza da essere adottata;
+8. solo se restano failure strutturali non risolte, progettare Router v2.
 
 Non riaprire automaticamente il corpus YouTube residuo.
