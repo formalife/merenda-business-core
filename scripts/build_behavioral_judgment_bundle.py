@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 from pathlib import Path
 
@@ -42,6 +43,18 @@ def load_trace(baseline: Path, arch: str, case_id: str) -> dict:
     return row
 
 
+def sanitized_trace(trace: dict) -> dict:
+    return {
+        "case_id": trace.get("case_id"),
+        "retrieved_nodes": trace.get("retrieved_nodes", []),
+        "retrieved_sections": trace.get("retrieved_sections", []),
+        "classification": trace.get("classification", []),
+        "decision_level": trace.get("decision_level"),
+        "answer": trace.get("answer"),
+        "trace_notes": trace.get("trace_notes"),
+    }
+
+
 def deterministic_diff(gold: dict, trace: dict) -> dict:
     required = list(gold.get("required_nodes", []))
     optional = list(gold.get("optional_nodes", []))
@@ -56,10 +69,10 @@ def deterministic_diff(gold: dict, trace: dict) -> dict:
     }
 
 
-def blank_judgment(case_id: str, arch: str) -> dict:
+def blank_judgment(case_id: str, blind_label: str) -> dict:
     return {
         "case_id": case_id,
-        "architecture": arch,
+        "architecture": blind_label,
         "satisfied_check_indices": [],
         "triggered_forbidden_shortcut_indices": [],
         "provenance_error": False,
@@ -70,6 +83,11 @@ def blank_judgment(case_id: str, arch: str) -> dict:
         "material_failure": False,
         "notes": "",
     }
+
+
+def blind_order(case_id: str) -> tuple[str, str]:
+    first = hashlib.sha256(case_id.encode("utf-8")).digest()[0]
+    return ARCHS if first % 2 == 0 else tuple(reversed(ARCHS))
 
 
 def main() -> int:
@@ -85,14 +103,26 @@ def main() -> int:
         type=Path,
         default=Path("/tmp/formalife-routing-judgment-bundle.jsonl"),
     )
+    ap.add_argument(
+        "--mapping-out",
+        type=Path,
+        default=Path("/tmp/formalife-routing-judgment-mapping.json"),
+        help="Keep separate from the reviewer until judgments are frozen.",
+    )
     args = ap.parse_args()
 
     baseline = args.baseline_dir.resolve()
     gold = load_gold()
     rows = []
+    mapping: dict[str, dict[str, str]] = {}
+
     for case in gold:
         cid = case["id"]
         traces = {arch: load_trace(baseline, arch, cid) for arch in ARCHS}
+        ordered_archs = blind_order(cid)
+        labels = {"A": ordered_archs[0], "B": ordered_archs[1]}
+        mapping[cid] = labels
+
         rows.append(
             {
                 "case_id": cid,
@@ -109,23 +139,39 @@ def main() -> int:
                     "notes": case.get("notes"),
                 },
                 "architectures": {
-                    arch: {
-                        "trace": traces[arch],
-                        "deterministic_diff": deterministic_diff(case, traces[arch]),
-                        "judgment_template": blank_judgment(cid, arch),
+                    blind_label: {
+                        "trace": sanitized_trace(traces[real_arch]),
+                        "deterministic_diff": deterministic_diff(case, traces[real_arch]),
+                        "judgment_template": blank_judgment(cid, blind_label),
                     }
-                    for arch in ARCHS
+                    for blind_label, real_arch in labels.items()
                 },
                 "allowed_failure_categories": list(FAILURE_CATEGORIES),
             }
         )
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
+    args.mapping_out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(
         "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows),
         encoding="utf-8",
     )
-    print(f"JUDGMENT BUNDLE: PASS cases={len(rows)} out={args.out}")
+    args.mapping_out.write_text(
+        json.dumps(
+            {
+                "warning": "Do not expose this mapping to the reviewer until judgments are frozen.",
+                "mapping": mapping,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    print(
+        f"JUDGMENT BUNDLE: PASS cases={len(rows)} out={args.out} "
+        f"mapping={args.mapping_out}"
+    )
     return 0
 
 
