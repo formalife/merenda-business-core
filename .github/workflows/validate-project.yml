@@ -30,6 +30,9 @@ jobs:
       - name: Validate draft retrieval map
         run: python3 scripts/validate_retrieval_map.py
 
+      - name: Validate semantic gold v2
+        run: python3 scripts/validate_semantic_gold_v2.py
+
       - name: Score static routing addressability
         run: python3 scripts/score_static_routing_coverage.py
 
@@ -39,7 +42,9 @@ jobs:
           scripts/build_structural_index.py
           scripts/build_behavioral_judgment_bundle.py
           scripts/build_semantic_gold_draft.py
+          scripts/build_compact_semantic_index.py
           scripts/score_context_reads.py
+          scripts/validate_semantic_gold_v2.py
 
       - name: Build architecture inventory
         run: >-
@@ -57,6 +62,12 @@ jobs:
         run: >-
           python3 scripts/build_semantic_gold_draft.py
           --out /tmp/semantic-gold-v2-draft.jsonl
+
+      - name: Build compact semantic index
+        run: >-
+          python3 scripts/build_compact_semantic_index.py
+          --json-out /tmp/semantic-index-v2.json
+          --txt-out /tmp/semantic-index-v2.txt
 
       - name: Upload architecture inventory
         uses: actions/upload-artifact@v4
@@ -79,6 +90,14 @@ jobs:
         with:
           name: semantic-gold-v2-draft
           path: /tmp/semantic-gold-v2-draft.jsonl
+
+      - name: Upload compact semantic index
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-index-v2
+          path: |
+            /tmp/semantic-index-v2.json
+            /tmp/semantic-index-v2.txt
 
       - name: Verify clean working tree
         run: git status --porcelain=v1
