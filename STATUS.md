@@ -2,7 +2,7 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; BEHAVIORAL BASELINE COMPLETE; SEMANTIC RETRIEVAL REVIEW STARTED.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; BEHAVIORAL + SEMANTIC + CONTEXT BASELINES COMPLETE.**
 
 Il progetto è il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
 
@@ -14,15 +14,12 @@ Checkpoint semantico:
 
 `reviews/FINAL_SEMANTIC_AUDIT.md`
 
-Priorità corrente: **Architecture Review di semantic retrieval, decision fidelity e context economics** prima di riprendere l'uso operativo intensivo del Layer 1 su Formalife.
+Priorità corrente: **semantic-unit gold v2 → addressable hierarchical retrieval → fidelity/context-cost A/B**, prima dell'uso operativo intensivo del Layer 1 su Formalife.
 
 Roadmap attiva:
 
-`reviews/ARCHITECTURE_IMPLEMENTATION_ROADMAP_V2.md`
-
-Roadmap storica iniziale:
-
-`reviews/ARCHITECTURE_REVIEW_ROADMAP.md`
+- `reviews/ARCHITECTURE_IMPLEMENTATION_ROADMAP_V2.md`
+- `reviews/ARCHITECTURE_IMPLEMENTATION_ROADMAP_V2_UNBLINDED_ADDENDUM.md`
 
 Branch:
 
@@ -34,143 +31,187 @@ Draft PR:
 
 ---
 
-## Architecture Review — stato corrente
-
-### Decisione metodologica
+## Decisione metodologica
 
 **Eval first, refactor second. Fidelity e context cost devono migliorare insieme.**
 
-`merenda/DECISION_ROUTER.md` non è stato modificato.
+`merenda/DECISION_ROUTER.md` non è stato modificato. La doctrine sotto `merenda/` resta canonica e invariata dalla review.
 
-### Baseline gold
+---
 
-La suite contiene **30 casi**:
-
-- `evals/routing/cases.jsonl`
-- `evals/routing/cases_phase2.jsonl`
-- `evals/routing/cases_phase3.jsonl`
-
-Validator:
-
-`python3 scripts/validate_routing_evals.py`
-
-### Architecture Inventory
-
-Builder:
-
-`python3 scripts/build_architecture_inventory.py --json-out <path> --md-out <path>`
-
-Risultato meccanico:
-
-- 60 Markdown sotto `merenda/`;
-- 47 nodi canonici non-README, esclusi INDEX/Router;
-- ~636 KB di doctrine layer;
-- 0 link locali rotti;
-- 0 nodi canonici senza incoming link;
-- 0 nodi completamente privi di visibilità se si includono i README di sezione;
-- 12 nodi canonici non nominati direttamente dal Decision Router;
-- 6 nodi scoperti soltanto tramite README di sezione rispetto ai control layer principali;
-- 605 heading candidati meccanici non esplicitamente visibili nel control plane: upper bound rumoroso, non 605 gap reali.
-
-Diagnosi ancora valida:
-
-> **la KB è strutturalmente ben collegata; il problema prioritario è la discoverability delle unità semantiche dentro nodi già raggiungibili e spesso molto grandi.**
-
-### Doctrine / Retrieval Map v1
-
-Schema draft:
-
-`reviews/DOCTRINE_RETRIEVAL_MAP_SCHEMA_V1.md`
-
-Shard sperimentali:
-
-- `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_SEED.json`
-- `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE3.json`
-- `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE4.json`
-- `reviews/drafts/DOCTRINE_RETRIEVAL_MAP_V1_PHASE5.json`
-
-Staticamente la Map chiudeva i blind spot della suite corrente:
-
-- Router corrente: **82,8% mean direct recall**;
-- Router corrente: **19/30 casi con full direct recall**;
-- Router + Map: **100% mean direct recall**;
-- Router + Map: **30/30 casi con full direct recall**.
-
-Questa evidenza NON si è trasferita al comportamento reale.
-
-### Behavioral baseline — COMPLETE
+## Behavioral baseline — COMPLETE
 
 Commit congelato:
 
 `4506e67e812c4e3270c4446d58f6a3d8c3934e82`
 
-Confronto deterministic sui 30 casi:
+### Deterministic file-level retrieval
 
 | Configurazione | Mean required-node recall | Mean relevant retrieval precision | Over-retrieved nodes |
 |---|---:|---:|---:|
 | `current` | 0.7472 | 0.7644 | 24 |
 | `current_plus_map` | 0.6778 | 0.8000 | 14 |
 
+Il file-level recall faceva apparire la Map peggiore.
+
+### Blind semantic judgment + unblinding — COMPLETE
+
+Report:
+
+- `reviews/behavioral/BLIND_SEMANTIC_JUDGMENT_2026-09-18.jsonl`
+- `reviews/behavioral/BLIND_SEMANTIC_JUDGMENT_SUMMARY_2026-09-18.md`
+- `reviews/behavioral/UNBLIND_MAPPING_2026-09-18.json`
+- `reviews/behavioral/UNBLINDED_SEMANTIC_JUDGMENT_SUMMARY_2026-09-18.md`
+
+| Configurazione | Required-check recall | Discovery misses | Synthesis misses | Material inversions |
+|---|---:|---:|---:|---:|
+| `current` | 93/96 = 96.875% | 2 | 1 | 0 |
+| `current_plus_map` | 95/96 = 98.958% | 0 | 1 | 0 |
+
+Per entrambe: 0 forbidden shortcut, 0 provenance error, 0 unsupported inference, 0 premature tactic, 0 founder-accommodation failure.
+
+`GOLD_TOO_COARSE`:
+
+- `current`: 14/30 case-response;
+- `current_plus_map`: 18/30.
+
 RESULT:
 
-- la Map v1 riduce rumore e over-retrieval;
-- la Map v1 riduce anche il required-node recall;
-- **la Map v1 non viene adottata nel control plane**;
-- non si espande la Map per inseguire la stessa suite;
-- non si costruisce ancora Router v2;
-- semantic judgment e failure decomposition sui trace congelati restano il prossimo gate interpretativo.
+- required-node recall non è una metrica primaria adeguata;
+- il file è un contenitore editoriale, non necessariamente la unità semantica richiesta;
+- l'ipotesi **“Map v1 peggiora il comportamento” è falsificata su questa suite**;
+- Map v1 resta sperimentale ma ha guadagnato il ruolo di **precision / causal-routing signal**;
+- non deve essere un filtro esclusivo;
+- Router v2 resta deferred.
 
-### Nuovo modello architetturale in review
+---
+
+## Context-read baseline — COMPLETE
+
+Report:
+
+`reviews/behavioral/CONTEXT_READ_BASELINE_2026-09-18.md`
+
+Misura: ricostruzione deterministica del testo restituito dai comandi `EVAL_READER` completati nei workspace congelati. Non equivale ai token API billed.
+
+| Metrica media per caso | `current` | `current_plus_map` | Delta plus-map |
+|---|---:|---:|---:|
+| read operations | 15.20 | 15.67 | +0.47 |
+| reconstructed chars | 130,511 | 137,128 | +5.1% |
+| reconstructed words | 17,766 | 17,222 | −3.1% |
+| control-plane chars | 92,751 | 91,985 | −0.8% |
+| routing-metadata chars | 0 | 17,337 | +17,337 |
+| specialist-doctrine chars | 27,136 | 20,589 | **−24.1%** |
+| other chars | 10,625 | 7,217 | **−32.1%** |
+
+RESULT:
+
+- la Map riduce materialmente doctrine specialistica e letture accessorie;
+- il formato/runtime attuale della Map costa troppo: i 17,337 chars/case di routing metadata più che compensano il risparmio, portando il totale a +5.1% chars;
+- Prototype A deve rendere la Map **addressable**, non precaricarla;
+- il bootstrap domina il contesto con ~92k chars/case e verrà testato separatamente solo dopo stabilizzazione del retriever.
+
+---
+
+## Semantic retrieval model — ACTIVE
 
 Documento:
 
 `reviews/SEMANTIC_RETRIEVAL_MODEL_V1.md`
 
-Distinzione:
+Tre livelli distinti:
 
 1. **Canonical Document** — Markdown doctrine canonica;
 2. **Structural Unit — GENERATED** — heading/path/parent-child/range/dimensione;
 3. **Decision Semantic Unit — CURATED** — causalità, gate, evidence, provenance, supersession.
 
-Principio runtime candidato:
+Pattern candidato:
 
-**smallest canonical unit → sufficiency check → local/parent expansion → full node only as fallback.**
+**compact semantic index → candidate semantic IDs → selected routing entries → smallest canonical section → sufficiency check → local/parent expansion → full node fallback.**
 
-La Decision Map futura è un segnale di precisione, non un filtro esclusivo.
+La Decision Map è un segnale di precisione; Structural Index/discovery è la recall safety net.
 
-### Structural Index — STARTED
+---
+
+## Structural Index — IMPLEMENTED / HARDENED
 
 Builder:
 
 `python3 scripts/build_structural_index.py --json-out <path> --md-out <path>`
 
-Il builder genera deterministicamente dalla struttura Markdown:
+Genera deterministicamente:
 
 - `structural_id`;
 - heading/anchor/heading path;
 - parent/children;
 - line range diretto e subtree;
-- dimensioni chars/words;
+- chars/words;
 - metadata documentali.
+
+Ignora heading dentro fenced code block e valida invarianti parent/child/range/ID.
 
 Nessuna interpretazione dottrinale e nessuna modifica a `merenda/`.
 
-La CI ora costruisce e pubblica anche l'artifact `structural-index`.
+---
+
+## Semantic Gold v2 — STARTED
+
+Schema:
+
+`evals/routing/SEMANTIC_GOLD_V2.md`
+
+Migration builder:
+
+`scripts/build_semantic_gold_draft.py`
+
+Regola:
+
+- Map `eval_cases` produce solo **candidate hints**;
+- `required_semantic_units` deve essere revisionato manualmente contro required checks + canonical doctrine;
+- `required_nodes` resta compatibilità/debug, non target primario;
+- serve holdout blind prima dell'adozione finale.
 
 ---
 
-## Principali finding architetturali correnti
+## Context instrumentation — IMPLEMENTED
 
-1. **Static addressability non predice behavioral retrieval.** Il 100% statico della Map non ha prodotto maggiore recall reale.
-2. **La Map v1 sembra migliorare precisione a costo di recall.** Va capita la causa prima di modificarla.
-3. **File-level routing è troppo grossolano come metrica primaria.** I gold futuri devono migrare verso semantic units stabili.
-4. **Retrieval unit e synthesis unit devono essere separate.** Trovare piccolo, espandere solo quando serve.
-5. **Structural discovery e decision routing sono due layer diversi.** Il primo deve essere generato; il secondo curato.
-6. **Serve una recall safety net.** La Decision Map non deve poter chiudere prematuramente lo spazio di discovery.
-7. **Il bootstrap tax va misurato separatamente.** Il runner corrente carica cinque documenti di control plane completi prima del retrieval specialistico.
-8. **Context economics è una metrica primaria.** Più recall ottenuto caricando molta più doctrine non è automaticamente un miglioramento.
-9. **Embeddings/reranking/GraphRAG restano escalation.** Nessuna adozione senza failure residua misurata.
-10. **La governance storica contiene istruzioni incompatibili con lo stato corrente.** Il conflitto frozen/current resta un P0 separato prima della chiusura della review.
+Scorer:
+
+`scripts/score_context_reads.py`
+
+Lo scorer usa i workspace congelati della baseline, non la repo corrente, e conta solo command execution completati con successo.
+
+Nel prossimo harness vanno aggiunti anche input/cached/output token model-reported quando disponibili.
+
+---
+
+## Decisioni correnti
+
+1. **File ≠ unità primaria di retrieval.**
+2. **Map v1 non entra nel current control plane**, ma resta experimental routing metadata.
+3. **Prototype A non deve preloadare la Map.** Deve recuperare solo entry selezionate.
+4. **Structural Index generato + Decision Semantic Units curate** restano layer separati.
+5. **Nessun Router v2 per ora.**
+6. **Context economics è acceptance criterion di primo livello.**
+7. **Full bootstrap resta fisso durante Prototype A** per non confondere effetti retrieval/bootstrap.
+8. **Embeddings/reranking/GraphRAG restano escalation**, non default.
+9. **La governance historical/current resta P0 separato** prima della chiusura finale della review.
+
+---
+
+## Acceptance direction — Prototype A
+
+Con full bootstrap tenuto costante:
+
+- semantic required-check recall ≥ `95/96` sulla suite corrente;
+- 0 material/epistemic regression;
+- retrieval precision almeno comparabile a `current_plus_map`;
+- specialist doctrine ≤ baseline `current_plus_map` dove possibile;
+- routing metadata **materialmente sotto 17,337 chars/case**;
+- total non-bootstrap reconstructed context ≤ `current`, salvo miglioramento materiale di fidelity;
+- nessuna dipendenza esclusiva dalla copertura manuale della Map.
+
+Questi target sono criteri sperimentali, non doctrine contract permanente.
 
 ---
 
@@ -201,27 +242,26 @@ La provenance reale non viene mai falsificata.
 
 ## Invarianti Layer 1
 
-- `merenda/` resta il doctrine layer canonico;
+- `merenda/` resta doctrine layer canonico;
 - Formalife non entra automaticamente nella dottrina;
 - una fonte assimilata non viene attribuita a Frank;
 - `MERGE, NOT APPEND` resta la regola di consolidamento;
 - il lock YouTube resta attivo;
 - i file frozen restano invariati salvo autorizzazione esplicita;
 - risultati Formalife non diventano automaticamente principi generali;
-- la Architecture Review può modificare control plane, eval, validator e draft metadata senza promuovere automaticamente nuova dottrina.
+- Architecture Review può modificare eval, validator, draft metadata e control-plane experiments senza promuovere automaticamente nuova doctrine.
 
 ---
 
 ## Gap ordinati rispetto alla Architecture Review
 
-1. **P0 — Semantic judgment + failure decomposition della behavioral baseline**
-2. **P0 — Semantic-unit gold + Structural Index validation**
-3. **P0 — Context economics instrumentation**
-4. **P1 — Hierarchical Retriever prototype A senza embeddings**
-5. **P1 — Compact Reasoning Kernel experiment**
-6. **P1 — Risoluzione governance historical/current**
-7. **P2 — Eventuale escalation lexical/embeddings/reranking solo se richiesta dagli eval**
-8. **P2 — Vendita end-to-end / casi / brand / VoC / Git hardening dopo chiusura Architecture Review**
+1. **P0 — Manual semantic-unit gold v2 review**
+2. **P0 — Hierarchical Retriever Prototype A, Map addressable**
+3. **P0 — Behavioral A/B: semantic fidelity + context economics**
+4. **P1 — Compact Reasoning Kernel experiment sul bootstrap tax**
+5. **P1 — Risoluzione governance historical/current**
+6. **P2 — Eventuale lexical/BM25 → embeddings → reranking escalation solo su failure misurate**
+7. **P2 — Vendita end-to-end / casi / brand / VoC / Git hardening dopo chiusura Architecture Review**
 
 ---
 
@@ -229,12 +269,11 @@ La provenance reale non viene mai falsificata.
 
 Sequenza attiva:
 
-1. mantenere congelati i trace behavioral prodotti sul commit `4506e67...`;
-2. eseguire semantic judgment sui 60 trace e classificare le failure;
-3. costruire/validare Structural Index;
-4. definire gold `required_semantic_units` senza rimuovere ancora `required_nodes`;
-5. aggiungere token/context instrumentation al prossimo harness;
-6. costruire il primo Hierarchical Retriever solo dopo questi gate;
-7. confrontare fidelity + context cost contro `current` e baseline Map v1.
+1. revisionare i 30 semantic gold contro required checks e doctrine canonica;
+2. costruire un compact semantic index addressable;
+3. implementare Hierarchical Retriever Prototype A senza embeddings;
+4. instrumentare per entry/section/parent/full-node reads;
+5. A/B contro baseline congelate con full bootstrap invariato;
+6. solo dopo testare Compact Reasoning Kernel per ridurre ~92k chars/case di bootstrap.
 
 Non riaprire automaticamente il corpus YouTube residuo.
