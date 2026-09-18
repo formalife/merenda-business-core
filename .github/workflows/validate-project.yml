@@ -23,5 +23,8 @@ jobs:
       - name: Validate repository invariants
         run: python3 scripts/validate_project.py
 
+      - name: Validate routing eval suite
+        run: python3 scripts/validate_routing_evals.py
+
       - name: Verify clean working tree
         run: git status --porcelain=v1
