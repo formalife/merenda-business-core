@@ -38,6 +38,8 @@ jobs:
           python3 -m py_compile
           scripts/build_structural_index.py
           scripts/build_behavioral_judgment_bundle.py
+          scripts/build_semantic_gold_draft.py
+          scripts/score_context_reads.py
 
       - name: Build architecture inventory
         run: >-
@@ -50,6 +52,11 @@ jobs:
           python3 scripts/build_structural_index.py
           --json-out /tmp/structural-index.json
           --md-out /tmp/structural-index.md
+
+      - name: Build semantic gold migration draft
+        run: >-
+          python3 scripts/build_semantic_gold_draft.py
+          --out /tmp/semantic-gold-v2-draft.jsonl
 
       - name: Upload architecture inventory
         uses: actions/upload-artifact@v4
@@ -66,6 +73,12 @@ jobs:
           path: |
             /tmp/structural-index.json
             /tmp/structural-index.md
+
+      - name: Upload semantic gold migration draft
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-gold-v2-draft
+          path: /tmp/semantic-gold-v2-draft.jsonl
 
       - name: Verify clean working tree
         run: git status --porcelain=v1
