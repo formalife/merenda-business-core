@@ -4,12 +4,10 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import shlex
 from collections import defaultdict
 from pathlib import Path
 from statistics import mean
 
-ROOT = Path(__file__).resolve().parents[1]
 CONTROL = {
     "LAYER1_CONTRACT.md",
     "FORMALIFE_REBUILD_PROTOCOL.md",
@@ -23,6 +21,10 @@ READ_RE = re.compile(
     r"(?:\s+(?P<anchor>[^\s\"']+|\"[^\"]+\"|'[^']+'))?"
 )
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
+WORKSPACE_BY_ARCH = {
+    "current": "workspace-current",
+    "current_plus_map": "workspace-current-plus-map",
+}
 
 
 def unq(s: str | None) -> str | None:
@@ -38,10 +40,10 @@ def slug(s: str) -> str:
     return re.sub(r"-+", "-", s).strip("-")
 
 
-def safe(repo: Path, rel: str) -> Path:
-    p = (repo / rel).resolve()
-    if p != repo and repo not in p.parents:
-        raise ValueError(f"path escapes repository: {rel}")
+def safe(root: Path, rel: str) -> Path:
+    p = (root / rel).resolve()
+    if p != root and root not in p.parents:
+        raise ValueError(f"path escapes workspace: {rel}")
     if not p.is_file():
         raise FileNotFoundError(rel)
     return p
@@ -106,20 +108,37 @@ def classify(path: str) -> str:
     return "other"
 
 
-def commands(events: list[dict]) -> list[str]:
+def successful_commands(events: list[dict]) -> list[str]:
+    """Return unique completed command executions that did not fail.
+
+    The baseline event stream can contain both item.started and item.completed
+    records. Counting started commands can accidentally treat a failed file read
+    as consumed context, so context accounting uses completed successful reads
+    only.
+    """
     out = []
     for event in events:
+        if event.get("type") != "item.completed":
+            continue
         item = event.get("item")
-        if event.get("type") in ("item.started", "item.completed") and isinstance(item, dict):
-            if item.get("type") == "command_execution" and isinstance(item.get("command"), str):
-                command = item["command"]
-                if command not in out:
-                    out.append(command)
+        if not isinstance(item, dict) or item.get("type") != "command_execution":
+            continue
+        command = item.get("command")
+        if not isinstance(command, str):
+            continue
+        exit_code = item.get("exit_code")
+        status = item.get("status")
+        if isinstance(exit_code, int) and exit_code != 0:
+            continue
+        if isinstance(status, str) and status.lower() in {"failed", "error", "cancelled"}:
+            continue
+        if command not in out:
+            out.append(command)
     return out
 
 
-def operation_payload(repo: Path, op: str, path: str, anchor: str | None) -> str:
-    text = safe(repo, path).read_text(encoding="utf-8")
+def operation_payload(workspace: Path, op: str, path: str, anchor: str | None) -> str:
+    text = safe(workspace, path).read_text(encoding="utf-8")
     if op == "read":
         return text
     if op == "headings":
@@ -139,21 +158,39 @@ def load_events(path: Path) -> list[dict]:
     return rows
 
 
+def workspace_for(base: Path, arch: str) -> Path:
+    name = WORKSPACE_BY_ARCH.get(arch)
+    if not name:
+        raise SystemExit(f"unknown architecture directory: {arch}")
+    root = (base / name).resolve()
+    if not root.is_dir():
+        raise SystemExit(
+            f"missing frozen workspace for {arch}: {root}. "
+            "Do not reconstruct context cost from the current repository; "
+            "the exact baseline workspace is required."
+        )
+    return root
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--baseline-dir", type=Path, default=Path("/tmp/formalife-routing-baseline"))
-    ap.add_argument("--repo", type=Path, default=Path.cwd())
     ap.add_argument("--json-out", type=Path, default=Path("/tmp/formalife-context-read-summary.json"))
     args = ap.parse_args()
 
-    repo = args.repo.resolve()
     base = args.baseline_dir.resolve()
-    rows = []
+    events_root = base / "events"
+    if not events_root.is_dir():
+        raise SystemExit(f"missing baseline events directory: {events_root}")
 
-    for arch_dir in sorted((base / "events").iterdir()):
+    rows = []
+    skipped_failed_reads = 0
+
+    for arch_dir in sorted(events_root.iterdir()):
         if not arch_dir.is_dir():
             continue
         arch = arch_dir.name
+        workspace = workspace_for(base, arch)
         for event_path in sorted(arch_dir.glob("R*.jsonl")):
             cid = event_path.stem
             events = load_events(event_path)
@@ -164,7 +201,21 @@ def main() -> int:
             unique_chars = 0
             unique_words = 0
 
-            for command in commands(events):
+            all_read_commands = []
+            for event in events:
+                item = event.get("item")
+                if (
+                    event.get("type") in ("item.started", "item.completed")
+                    and isinstance(item, dict)
+                    and item.get("type") == "command_execution"
+                    and isinstance(item.get("command"), str)
+                    and "EVAL_READER.py" in item["command"]
+                ):
+                    all_read_commands.append(item["command"])
+            successful = successful_commands(events)
+            skipped_failed_reads += len(set(all_read_commands) - set(successful))
+
+            for command in successful:
                 m = READ_RE.search(command)
                 if not m:
                     continue
@@ -174,9 +225,12 @@ def main() -> int:
                 if path is None:
                     continue
                 try:
-                    payload = operation_payload(repo, op, path, anchor)
+                    payload = operation_payload(workspace, op, path, anchor)
                 except (FileNotFoundError, ValueError) as exc:
-                    raise SystemExit(f"{arch}/{cid}: cannot reconstruct {op} {path} {anchor or ''}: {exc}")
+                    raise SystemExit(
+                        f"{arch}/{cid}: successful baseline command cannot be reconstructed "
+                        f"from frozen workspace: {op} {path} {anchor or ''}: {exc}"
+                    )
                 chars = len(payload)
                 words = len(payload.split())
                 category = classify(path)
@@ -233,13 +287,18 @@ def main() -> int:
         }
 
     output = {
-        "measurement": "deterministically reconstructed EVAL_READER outputs; repository list output and model/system tokens excluded",
+        "measurement": (
+            "deterministically reconstructed successful EVAL_READER outputs from the exact frozen "
+            "baseline workspaces; repository list output and model/system tokens excluded"
+        ),
+        "skipped_failed_or_incomplete_command_variants": skipped_failed_reads,
         "summary": summary,
         "cases": rows,
     }
     args.json_out.parent.mkdir(parents=True, exist_ok=True)
     args.json_out.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False, indent=2))
+    print(f"Skipped failed/incomplete command variants: {skipped_failed_reads}")
     print(f"CONTEXT READ SCORE: PASS out={args.json_out}")
     return 0
 
