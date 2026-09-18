@@ -38,6 +38,12 @@ jobs:
           --json-out /tmp/architecture-inventory.json
           --md-out /tmp/architecture-inventory.md
 
+      - name: Build structural index
+        run: >-
+          python3 scripts/build_structural_index.py
+          --json-out /tmp/structural-index.json
+          --md-out /tmp/structural-index.md
+
       - name: Upload architecture inventory
         uses: actions/upload-artifact@v4
         with:
@@ -45,6 +51,14 @@ jobs:
           path: |
             /tmp/architecture-inventory.json
             /tmp/architecture-inventory.md
+
+      - name: Upload structural index
+        uses: actions/upload-artifact@v4
+        with:
+          name: structural-index
+          path: |
+            /tmp/structural-index.json
+            /tmp/structural-index.md
 
       - name: Verify clean working tree
         run: git status --porcelain=v1
