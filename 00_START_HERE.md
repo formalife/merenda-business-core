@@ -1,10 +1,24 @@
 # START HERE
 
-Questo repository serve a costruire e mantenere una Knowledge Base viva e gerarchica **centrata sulla dottrina di Frank Merenda**.
+Questo repository è **Merenda Business Core**, il **Layer 1** del sistema operativo aziendale.
+
+Serve a mantenere una Knowledge Base viva, gerarchica e decisionale **centrata sulla dottrina di Frank Merenda**, con le sole estensioni assimilate esplicitamente autorizzate e con provenance reale preservata.
 
 La fase storica basata sul canale YouTube ufficiale è chiusa per saturazione al contenuto 313. Il corpus source-agnostic attualmente disponibile è stato processato fino a `FM-SRC-0166` e il checkpoint semantico finale del corpus corrente è documentato in `reviews/FINAL_SEMANTIC_AUDIT.md`.
 
-Formalife non deve entrare nella Knowledge Base e non deve influenzarne l'interpretazione.
+## Layer 1 vs Layer 2
+
+- **Layer 1 — Merenda Business Core:** dottrina, routing, diagnosi e principi decisionali.
+- **Layer 2 — Formalife:** realtà aziendale, ricostruzione strategica, decisioni, ipotesi, esperimenti, metriche e risultati.
+
+Formalife non deve contaminare la dottrina del Layer 1.
+
+Il Layer 1 deve invece poter interrogare Formalife e guidarne una ricostruzione **zero-based**: ciò che esiste oggi viene trattato come fatto, asset, vincolo, ipotesi o legacy decision, non come struttura da preservare automaticamente.
+
+Per la relazione fra i layer leggere:
+
+- `LAYER1_CONTRACT.md`
+- `FORMALIFE_REBUILD_PROTOCOL.md`
 
 ## Stato operativo corrente
 
@@ -37,14 +51,16 @@ Leggi, nell'ordine:
 1. `MASTER_PLAN.md`
 2. `system/RULES.md`
 3. `STATUS.md`
-4. `reviews/FINAL_SEMANTIC_AUDIT.md` per conoscere lo stato di maturità, le correzioni temporali e i gap residui
-5. `merenda/DECISION_ROUTER.md` quando il task richiede diagnosi, strategia, priorità o una decisione operativa
-6. `merenda/00_fondamenti/sistema-operativo-merenda.md` quando serve comprendere le dipendenze complessive della dottrina
-7. `sources/merenda-sources/README.md` quando il task riguarda provenance o una nuova fonte
+4. `LAYER1_CONTRACT.md`
+5. `reviews/FINAL_SEMANTIC_AUDIT.md`
+6. `merenda/DECISION_ROUTER.md` quando il task richiede diagnosi, strategia, priorità o una decisione operativa
+7. `merenda/00_fondamenti/sistema-operativo-merenda.md` quando serve comprendere le dipendenze complessive della dottrina
+8. `FORMALIFE_REBUILD_PROTOCOL.md` quando il task riguarda il Layer 2 o la ricostruzione di Formalife
+9. `sources/merenda-sources/README.md` quando il task riguarda provenance o una nuova fonte
 
 `STATUS.md` è la fonte operativa corrente. I documenti frozen restano governance storica e non vanno modificati senza autorizzazione esplicita.
 
-## Come usare la KB per problemi reali
+## Come usare il Layer 1 per problemi reali
 
 Per richieste come:
 
@@ -70,6 +86,24 @@ Usare il [Decision Router](merenda/DECISION_ROUTER.md) per:
 
 Il [Sistema operativo Merenda](merenda/00_fondamenti/sistema-operativo-merenda.md) descrive invece l’architettura end-to-end del sistema. I due layer sono complementari: **architettura causale + routing diagnostico**.
 
+## Come usare il Layer 1 per ricostruire Formalife
+
+Quando il task è la costruzione del Layer 2, non partire dal catalogo Formalife chiedendo come venderlo meglio.
+
+Usare la modalità **first meeting / zero-based reconstruction** definita in `FORMALIFE_REBUILD_PROTOCOL.md`.
+
+Principio:
+
+**ripartire da zero nelle decisioni, non da zero nella conoscenza.**
+
+Gli asset e i dati esistenti possono essere conservati. Le decisioni esistenti devono invece essere rivalutate.
+
+La conversazione deve procedere per blocchi decisionali:
+
+**domanda → risposta → classificazione → verifica → diagnosi → decisione provvisoria → domanda successiva.**
+
+Il Layer 1 non deve produrre un piano gigantesco sulla base di poche informazioni e non deve trasformare automaticamente una preferenza del founder in un fatto di mercato.
+
 ## Ruoli
 
 ### Codex / strumenti locali
@@ -83,14 +117,13 @@ Il [Sistema operativo Merenda](merenda/00_fondamenti/sistema-operativo-merenda.m
 
 - È il processore semantico principale.
 - Per richieste operative usa il Decision Router prima di proporre tattiche.
+- Nella ricostruzione Formalife conduce l'intervista zero-based secondo `FORMALIFE_REBUILD_PROTOCOL.md`.
 - Verifica provenienza, autore reale e trattamento della fonte.
-- Legge o ascolta integralmente la parte rilevante della fonte.
 - Distingue principi, esempi, tattiche, numeri e linguaggio provocatorio.
-- Confronta la fonte con la KB pertinente.
-- Applica `MERGE, NOT APPEND`.
+- Applica `MERGE, NOT APPEND` quando aggiorna la dottrina.
 - Risolve eventuali conflitti temporali privilegiando l'insegnamento Merenda più recente quando esiste una vera incompatibilità tra fonti Merenda.
 - Non attribuisce a Frank un principio proveniente da una fonte assimilata di altro autore.
-- Aggiorna review, registry, KB e STATUS quando il task riguarda nuove fonti autorizzate.
+- Non trasferisce automaticamente risultati Formalife nel doctrine layer.
 
 ### Claude Code
 
