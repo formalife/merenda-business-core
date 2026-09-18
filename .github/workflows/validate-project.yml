@@ -29,6 +29,9 @@ jobs:
       - name: Validate draft retrieval map
         run: python3 scripts/validate_retrieval_map.py
 
+      - name: Score static routing addressability
+        run: python3 scripts/score_static_routing_coverage.py
+
       - name: Build architecture inventory
         run: >-
           python3 scripts/build_architecture_inventory.py
