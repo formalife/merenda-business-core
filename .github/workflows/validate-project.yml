@@ -41,6 +41,7 @@ jobs:
           python3 -m py_compile
           scripts/build_structural_index.py
           scripts/build_behavioral_judgment_bundle.py
+          scripts/build_prototype_a_judgment_bundle.py
           scripts/build_semantic_gold_draft.py
           scripts/build_compact_semantic_index.py
           scripts/score_context_reads.py
