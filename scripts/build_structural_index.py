@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Iterable
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
+FENCE_RE = re.compile(r"^\s*(```+|~~~+)")
 
 
 def slug(text: str) -> str:
@@ -42,8 +43,20 @@ def parse_headings(lines: list[str]) -> list[Heading]:
     headings: list[Heading] = []
     occurrence_counts: dict[str, int] = {}
     stack: list[int] = []
+    fence_marker: str | None = None
 
     for i, line in enumerate(lines, start=1):
+        fm = FENCE_RE.match(line)
+        if fm:
+            marker = fm.group(1)[0]
+            if fence_marker is None:
+                fence_marker = marker
+            elif marker == fence_marker:
+                fence_marker = None
+            continue
+        if fence_marker is not None:
+            continue
+
         m = HEADING_RE.match(line)
         if not m:
             continue
@@ -102,6 +115,48 @@ def iter_markdown(root: Path) -> Iterable[Path]:
     yield from sorted(p for p in root.rglob("*.md") if p.is_file())
 
 
+def validate_index(index: dict) -> None:
+    ids: set[str] = set()
+    sections_by_id: dict[str, dict] = {}
+    counted = 0
+
+    for doc in index["documents"]:
+        if not doc["path"].startswith("merenda/"):
+            raise ValueError(f"unexpected document path: {doc['path']}")
+        for section in doc["sections"]:
+            sid = section["structural_id"]
+            if sid in ids:
+                raise ValueError(f"duplicate structural_id: {sid}")
+            ids.add(sid)
+            sections_by_id[sid] = section
+            counted += 1
+            if section["line_start"] > section["line_end_direct"]:
+                raise ValueError(f"invalid direct range: {sid}")
+            if section["line_end_direct"] > section["line_end_subtree"]:
+                raise ValueError(f"direct range exceeds subtree: {sid}")
+            if len(section["heading_path"]) < 1:
+                raise ValueError(f"empty heading path: {sid}")
+
+    if counted != index["section_count"]:
+        raise ValueError("section_count mismatch")
+
+    for sid, section in sections_by_id.items():
+        parent = section["parent_structural_id"]
+        if parent is not None:
+            if parent not in sections_by_id:
+                raise ValueError(f"missing parent for {sid}: {parent}")
+            if sid not in sections_by_id[parent]["children_structural_ids"]:
+                raise ValueError(f"parent/child mismatch: {sid} -> {parent}")
+            p = sections_by_id[parent]
+            if not (p["line_start"] <= section["line_start"] <= section["line_end_subtree"] <= p["line_end_subtree"]):
+                raise ValueError(f"child range outside parent subtree: {sid}")
+        for child in section["children_structural_ids"]:
+            if child not in sections_by_id:
+                raise ValueError(f"missing child for {sid}: {child}")
+            if sections_by_id[child]["parent_structural_id"] != sid:
+                raise ValueError(f"child/parent mismatch: {sid} -> {child}")
+
+
 def build(repo: Path) -> dict:
     merenda = repo / "merenda"
     if not merenda.is_dir():
@@ -155,19 +210,20 @@ def build(repo: Path) -> dict:
             }
         )
 
-    return {
-        "schema_version": "1.0",
+    index = {
+        "schema_version": "1.1",
         "source_root": "merenda/",
         "generation": "deterministic-markdown-structure-only",
         "document_count": len(documents),
         "section_count": total_sections,
         "documents": documents,
     }
+    validate_index(index)
+    return index
 
 
 def render_md(index: dict) -> str:
     docs = index["documents"]
-    section_count = index["section_count"]
     total_bytes = sum(d["bytes"] for d in docs)
     total_words = sum(d["words"] for d in docs)
     largest = sorted(docs, key=lambda d: d["bytes"], reverse=True)[:15]
@@ -183,10 +239,11 @@ def render_md(index: dict) -> str:
     out = [
         "# Structural Index — Mechanical Summary",
         "",
-        "Generated deterministically from Markdown structure. No doctrine interpretation is included.",
+        "Generated deterministically from Markdown structure. Fenced-code headings are ignored. No doctrine interpretation is included.",
         "",
+        f"- Schema: **{index['schema_version']}**",
         f"- Documents: **{len(docs)}**",
-        f"- Structural sections: **{section_count}**",
+        f"- Structural sections: **{index['section_count']}**",
         f"- Total bytes: **{total_bytes}**",
         f"- Total words: **{total_words}**",
         "",
@@ -231,7 +288,7 @@ def main() -> int:
     if not args.json_out and not args.md_out:
         print(json.dumps(index, ensure_ascii=False, indent=2))
     else:
-        print(f"STRUCTURAL INDEX: PASS documents={index['document_count']} sections={index['section_count']}")
+        print(f"STRUCTURAL INDEX: PASS documents={index['document_count']} sections={index['section_count']} schema={index['schema_version']}")
     return 0
 
 
