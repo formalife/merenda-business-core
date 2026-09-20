@@ -27,6 +27,9 @@ jobs:
       - name: Validate routing eval suite
         run: python3 scripts/validate_routing_evals.py
 
+      - name: Validate architecture holdout
+        run: python3 scripts/validate_architecture_holdout.py
+
       - name: Validate draft retrieval map
         run: python3 scripts/validate_retrieval_map.py
 
@@ -48,7 +51,9 @@ jobs:
           scripts/score_semantic_routing_run.py
           scripts/run_hierarchical_retriever_prototype_a_host.py
           scripts/run_hierarchical_retriever_prototype_a3_host.py
+          scripts/run_architecture_holdout_ab_host.py
           scripts/validate_semantic_gold_v2.py
+          scripts/validate_architecture_holdout.py
 
       - name: Build architecture inventory
         run: >-
