@@ -83,6 +83,16 @@ Le sezioni della KB vengono usate come unità di lavorazione, non come indice fi
 - gap iniziali classificati;
 - gate Fase 1 soddisfatto.
 
+### Fase 2 — progress corrente
+
+- `manual/KB_TO_MANUAL_CROSSWALK.md` creato;
+- `00_fondamenti` decomposto: **3/3 file covered**;
+- create **60 unità semantiche FND-001…FND-060**;
+- marcati principi generativi, gate, feedback loop, economics cross-cutting, diagnostica e caveat temporali;
+- confermata la necessità di introdurre la definizione estesa di marketing e una base di economics molto presto nel futuro curriculum.
+
+Coverage Fase 2: **3/60 file; 1/11 sezioni**.
+
 ## Fase attiva
 
 ### Fase 2 — Semantic decomposition e KB-to-Manual Crosswalk
@@ -91,8 +101,8 @@ Obiettivo: estrarre da ogni nodo canonico ciò che il lettore deve imparare e sa
 
 ## Ordine di lavorazione corrente
 
-1. `00_fondamenti`;
-2. `01_mercato`;
+1. `00_fondamenti` — DONE;
+2. `01_mercato` — NEXT;
 3. `02_posizionamento`;
 4. `03_offerta`;
 5. `04_marketing`;
@@ -110,12 +120,17 @@ L'ordine sopra è **ordine di decomposizione**, non curriculum finale.
 
 ## Next Action
 
-1. creare `manual/KB_TO_MANUAL_CROSSWALK.md` come indice master;
-2. decomporre `00_fondamenti` in `manual/crosswalk/00_fondamenti.md`;
-3. assegnare ID stabili alle unità di conoscenza;
-4. marcare tipo, prerequisiti, dipendenze, caveat e futura destinazione editoriale;
-5. aggiornare coverage dei file processati;
-6. proseguire sezione per sezione.
+Decomporre `01_mercato` in `manual/crosswalk/01_mercato.md`, con focus su:
+
+1. mercato, target e identificabilità;
+2. domanda, raggiungibilità e capacità di acquisto;
+3. cliente economicamente desiderabile vs semplice buyer;
+4. appropriatezza, cost-to-serve, probabilità di successo e LTV;
+5. clienti alto-spendenti e comportamento economico;
+6. gate prima del lancio;
+7. segnali di Voice of Customer già presenti ma dispersi;
+8. dipendenze dagli economics fondamentali;
+9. duplicazioni con FND-025, FND-032 e FND-042.
 
 ## Gap aperti prioritari
 
@@ -139,8 +154,8 @@ Chiunque riprenda questo lavoro deve leggere, nell'ordine:
 3. `manual/MANUAL_CONTRACT.md`;
 4. `manual/CORPUS_INVENTORY.md`;
 5. `manual/MANUAL_GAPS.md`;
-6. `manual/KB_TO_MANUAL_CROSSWALK.md` quando esiste;
-7. il file crosswalk della sezione attiva;
+6. `manual/KB_TO_MANUAL_CROSSWALK.md`;
+7. il file crosswalk della sezione attiva e quello precedente quando serve per dedup;
 8. solo dopo i nodi canonici necessari.
 
 Al termine deve aggiornare questo file con fase corrente e prossima azione.
