@@ -31,8 +31,9 @@ Prima di lavorare sul manuale:
 1. leggere `manual/ROADMAP.md`;
 2. leggere `manual/STATUS.md`;
 3. leggere `manual/MANUAL_CONTRACT.md`;
-4. rileggere i file canonici necessari alla fase o al capitolo corrente;
-5. usare la versione live di `main` come fonte corrente, registrando un nuovo baseline quando una fase sostanziale inizia.
+4. se la fase è drafting, leggere `manual/MANUAL_CURRICULUM.md` e la chapter spec della parte attiva;
+5. rileggere i file canonici necessari alla fase o al capitolo corrente;
+6. usare la versione live di `main` come fonte corrente, registrando il checkpoint quando una fase sostanziale viene chiusa.
 
 Prima di terminare un task:
 
@@ -61,6 +62,10 @@ Se il lavoro sul manuale rende visibile un vero gap del doctrine layer:
 2. distinguere gap editoriale da gap dottrinale;
 3. correggere il publishing layer se basta una sintesi editoriale;
 4. trattare un'eventuale modifica di `merenda/` come lavoro canonico separato e verificato.
+
+## Stato operativo corrente
+
+Le Fasi 0–5 sono concluse e auditate. La Fase 6 è il drafting reader-facing dei 39 capitoli definiti in `MANUAL_CURRICULUM.md`, partendo dalla Parte I.
 
 ## Obiettivo operativo
 
