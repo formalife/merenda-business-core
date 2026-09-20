@@ -197,7 +197,7 @@ Puoi però fare domande che lo aiutino a essere specifico.
 
 Una testimonianza autentica e guidata nella struttura è molto diversa da una testimonianza inventata.
 
-## Gli outlier vanno trattati come outlier
+## I casi eccezionali vanno trattati come tali
 
 Un caso eccezionale può essere vero e ancora rappresentare male il risultato normale.
 
@@ -281,7 +281,7 @@ Una impresa meno nota deve offrire più elementi che aiutino il cliente a sentir
 - condizioni trasparenti;
 - riduzione del rischio.
 
-## Libro, media ed eventi: asset, non obblighi
+## Libro, media ed eventi: risorse, non obblighi
 
 Un libro può costruire autorità.
 
@@ -297,7 +297,7 @@ L'errore è copiare la forma senza verificare la funzione.
 
 La domanda è:
 
-> Quale asset può aumentare la credibilità iniziale per questo target a un costo coerente con il business?
+> Quale risorsa può aumentare la credibilità iniziale per questo target a un costo coerente con il business?
 
 Per una impresa può essere un libro.
 
@@ -347,7 +347,7 @@ Non inventare la quarta.
 
 ---
 
-# Capitolo 15 — Domanda, consapevolezza, intento e timing
+# Capitolo 15 — Domanda, consapevolezza, intento e momento
 
 ## Non tutte le persone “nel target” sono ugualmente vicine alla decisione
 
@@ -385,7 +385,7 @@ Il comportamento può emergere da:
 
 - ricerca;
 - richiesta di preventivo;
-- consultazione di directory;
+- consultazione di elenchi o directory;
 - marketplace;
 - richiesta esplicita;
 - altre azioni ad alto intento.
@@ -421,7 +421,7 @@ Significa domanda più costosa da portare verso la decisione.
 
 ## Consapevolezza
 
-La **consapevolezza**, o awareness, descrive che cosa una persona conosce già rispetto alla decisione.
+La **consapevolezza**, spesso indicata con l'inglese *awareness*, descrive che cosa una persona conosce già rispetto alla decisione.
 
 Una progressione utile è:
 
@@ -491,7 +491,7 @@ Le persone possono cercarla per:
 - informazione;
 - acquisto.
 
-Per questo una query va letta con due domande:
+Per questo una ricerca va letta con due domande:
 
 1. quante persone cercano?;
 2. che cosa stanno cercando di ottenere?
@@ -500,9 +500,9 @@ Il volume misura attenzione.
 
 Non automaticamente domanda acquistabile.
 
-## Timing
+## Momento decisionale
 
-Il **timing** è la finestra temporale in cui un bisogno diventa più reattivo.
+Il **momento decisionale** è la finestra temporale in cui un bisogno diventa più reattivo.
 
 Può dipendere da:
 
@@ -517,11 +517,11 @@ Può dipendere da:
 
 Lo stesso cliente può avere valore commerciale radicalmente diverso in due momenti differenti.
 
-Target, consapevolezza e timing sono quindi coordinate separate.
+Target, consapevolezza e momento decisionale sono quindi coordinate separate.
 
-## Maggiore consapevolezza e fiducia, maggiore directness
+## Più consapevolezza e fiducia, più immediatezza commerciale
 
-Useremo **directness** per indicare quanto direttamente possiamo chiedere un passo commerciale senza aggiungere ulteriore contesto.
+Per **immediatezza commerciale** intendiamo quanto direttamente possiamo chiedere un passo senza aggiungere ulteriore contesto.
 
 Una persona che:
 
@@ -537,7 +537,7 @@ Una persona che non riconosce ancora il problema richiede un percorso diverso.
 
 Regola:
 
-**più consapevolezza + più fiducia + più intento → più directness possibile.**
+**più consapevolezza + più fiducia + più intento → più immediatezza commerciale possibile.**
 
 Non è una formula matematica.
 
@@ -587,7 +587,7 @@ Conosce già la nostra proposta?
 
 Quale comportamento recente mostra?
 
-### Timing
+### Momento
 
 Perché potrebbe agire adesso?
 
@@ -695,7 +695,7 @@ Comunicazione verso singole persone o organizzazioni identificate:
 
 Un messaggio raggiunge molte persone contemporaneamente:
 
-- advertising;
+- pubblicità;
 - contenuti;
 - webinar;
 - eventi;
@@ -722,7 +722,7 @@ Per esempio:
 
 - email a clienti esistenti: conosciuto, uno-a-molti;
 - telefonata a un account specifico mai contattato: sconosciuto, uno-a-uno;
-- advertising: spesso sconosciuto, uno-a-molti;
+- pubblicità: spesso sconosciuto, uno-a-molti;
 - chiamata a un cliente inattivo: conosciuto, uno-a-uno.
 
 La griglia aiuta a smettere di pensare “online contro offline”.
@@ -741,7 +741,7 @@ Può essere inefficiente quando il target è enorme, poco identificabile o a bas
 
 Non serve idealizzarlo né vietarlo.
 
-È una scelta di economics e contesto.
+È una scelta di economia e contesto.
 
 ## Online e offline sono implementazioni
 
@@ -837,7 +837,7 @@ Un canale con contatti cari può produrre clienti di valore superiore.
 
 Le medie iniziali non decidono da sole.
 
-## Channel Decision Canvas
+## Scheda di scelta del canale
 
 ### 1. Domanda già posseduta
 
@@ -861,9 +861,9 @@ Che lavoro deve svolgere il mezzo?
 
 ### 6. Costo completo
 
-Non solo media spend.
+Non solo spesa pubblicitaria.
 
-### 7. Misura downstream
+### 7. Misura a valle
 
 Come collegheremo il canale alla vendita e al margine?
 
@@ -989,9 +989,9 @@ Il sistema può suggerire una prossima azione.
 
 Non deve trasformare automaticamente una correlazione in certezza sul singolo cliente.
 
-## Progressive profiling
+## Profilazione progressiva
 
-Il **progressive profiling**, o profilazione progressiva, consiste nel raccogliere informazioni gradualmente quando ogni nuovo dato può migliorare la decisione successiva.
+La **profilazione progressiva**, spesso chiamata *progressive profiling*, consiste nel raccogliere informazioni gradualmente quando ogni nuovo dato può migliorare la decisione successiva.
 
 Non chiedere venti campi al primo contatto solo perché il CRM li prevede.
 
@@ -1005,7 +1005,7 @@ Un dato è utile se può cambiare:
 - percorso;
 - contenuto;
 - offerta;
-- timing;
+- momento;
 - persona responsabile;
 - misura economica.
 
@@ -1042,9 +1042,9 @@ Senza entrambe, persone e strumenti lavorano con pezzi di verità separati.
 Un sistema di intelligenza artificiale può aiutare a:
 
 - riassumere una relazione;
-- proporre un follow-up;
+- proporre un ricontatto;
 - classificare conversazioni;
-- trovare pattern;
+- trovare schemi ricorrenti;
 - preparare una risposta.
 
 Ma se non conosce:
@@ -1052,7 +1052,7 @@ Ma se non conosce:
 - storico;
 - condizioni;
 - problema aperto;
-- policy;
+- regole applicabili;
 - posizione dell'impresa;
 
 può produrre una risposta elegante e sbagliata.
@@ -1070,7 +1070,7 @@ Un database ben strutturato fa emergere lavori differenti.
 Per esempio:
 
 - clienti attivi con bisogno successivo;
-- clienti che possono fare un upgrade;
+- clienti che possono passare a una versione superiore;
 - clienti con prodotto complementare pertinente;
 - trattative perse da riaprire quando cambia una condizione;
 - clienti fermi da diagnosticare;
@@ -1086,22 +1086,22 @@ L'unità di lavoro non è:
 
 **segmento preciso → ragione precisa → offerta precisa → azione → risultato misurato.**
 
-## Next-best-offer come ipotesi
+## Prossima offerta migliore come ipotesi
 
-Se i dati mostrano che molti clienti che comprano A e B tendono poi a comprare C entro sei mesi, puoi usare il pattern per creare una ipotesi.
+Se i dati mostrano che molti clienti che comprano A e B tendono poi a comprare C entro sei mesi, puoi usare lo schema per creare una ipotesi.
 
 Non significa che ogni cliente voglia C.
 
 Significa che hai una ragione per:
 
 - controllare il bisogno;
-- scegliere il timing;
+- scegliere il momento;
 - fare una proposta pertinente;
 - misurare la risposta.
 
-I pattern aiutano la decisione. Non sostituiscono il giudizio.
+Gli schemi ricorrenti aiutano la decisione. Non sostituiscono il giudizio.
 
-## State Card
+## Scheda dello stato
 
 Per ogni stato importante definisci:
 
@@ -1121,7 +1121,7 @@ Che cosa deve accadere?
 
 Chi possiede l'azione?
 
-### Timing
+### Momento
 
 Entro quando?
 
@@ -1176,7 +1176,7 @@ Esempio:
 - il traffico è appropriato?;
 - il primo scambio di valore produce contatti utilizzabili?;
 - il cliente riceve abbastanza contesto e prova?;
-- il follow-up porta a un passo?;
+- il ricontatto porta a un passo?;
 - l'offerta riduce la barriera?;
 - la vendita prende in carico correttamente?;
 
@@ -1193,7 +1193,7 @@ Se 1.000 persone entrano e il sistema ne perde 900 in un passaggio evitabilmente
 Sequenza:
 
 1. misura ingresso e uscita dei passaggi;
-2. trova il drop-off più rilevante;
+2. trova la perdita più rilevante;
 3. diagnostica la causa;
 4. correggi;
 5. misura di nuovo;
@@ -1215,7 +1215,7 @@ Schema:
 
 **stato → segnale → instradamento → azione → nuovo stato.**
 
-L'**instradamento**, o routing, è la regola che decide quale percorso, contenuto o persona deve ricevere il contatto.
+L'**instradamento**, talvolta chiamato *routing*, è la regola che decide quale percorso, contenuto o persona deve ricevere il contatto.
 
 ## Sequenza lineare e percorso adattivo
 
@@ -1266,13 +1266,13 @@ Se il cliente mostra intento forte, il sistema può:
 
 Il percorso deve servire il cliente, non costringerlo a rispettare il diagramma.
 
-## Backtracking: tornare indietro quando il messaggio presume troppo
+## Tornare a un livello precedente quando il messaggio presume troppo
 
 Supponiamo che un contatto non risponda a una offerta molto diretta.
 
 Una ipotesi è che non abbia abbastanza consapevolezza.
 
-Puoi fare **backtracking**, cioè tornare a un livello precedente di spiegazione:
+Puoi tornare a un livello precedente di spiegazione:
 
 - dalla proposta al criterio di scelta;
 - dal criterio alla categoria di soluzione;
@@ -1284,12 +1284,12 @@ La mancata conversione può dipendere anche da:
 
 - prezzo;
 - fiducia;
-- timing;
-- non-fit;
+- momento;
+- cliente non appropriato;
 - cattiva offerta;
 - cattiva presa in carico.
 
-Il backtracking è una ipotesi diagnostica, non un rituale.
+Il ritorno a monte è una ipotesi diagnostica, non un rituale.
 
 ## Pre-educazione
 
@@ -1318,11 +1318,11 @@ Lo strumento non è il principio.
 
 Il principio è trasferire informazione ripetibile a un mezzo meno costoso del tempo umano quando questo migliora il processo.
 
-## Information marketing
+## Marketing informativo
 
-Chiameremo **information marketing** l'uso intenzionale di contenuti e materiali per preparare la decisione e il passo successivo.
+Chiameremo **marketing informativo** l'uso intenzionale di contenuti e materiali per preparare la decisione e il passo successivo.
 
-Non equivale a “fare content marketing” in modo generico.
+Non equivale a “fare contenuti” in modo generico.
 
 Un contenuto ha una funzione se:
 
@@ -1361,9 +1361,9 @@ Se il mercato contiene poche centinaia di account ad alto valore, può essere pi
 
 La tecnologia deve ridurre costo e variabilità, non obbligare ogni business a sembrare un e-commerce.
 
-## Progettare il fallback
+## Progettare il percorso alternativo
 
-Un **fallback** è ciò che accade quando l'outcome atteso non avviene.
+Un **percorso alternativo** è ciò che accade quando il risultato atteso non avviene.
 
 Per ogni passaggio chiedi:
 
@@ -1373,11 +1373,11 @@ Per ogni passaggio chiedi:
 - se mostra intento forte, chi interviene?;
 - se ha un problema aperto, quale percorso blocchiamo?
 
-Un funnel senza fallback descrive soltanto il cliente ideale che fa tutto ciò che vogliamo.
+Un funnel senza percorsi alternativi descrive soltanto il cliente ideale che fa tutto ciò che vogliamo.
 
 Non descrive un sistema reale.
 
-## Funnel Node Card
+## Scheda del nodo del funnel
 
 Per ogni passaggio compila:
 
@@ -1405,11 +1405,11 @@ Automazione o persona?
 
 Quando deve accadere?
 
-### Outcome
+### Risultato
 
 Quale comportamento dimostra avanzamento?
 
-### Fallback
+### Percorso alternativo
 
 Che cosa succede se non accade?
 
@@ -1429,11 +1429,11 @@ Una volta compilate queste schede, il funnel smette di essere un disegno e diven
 
 ## Non costruire automaticamente ciò che qualcun altro possiede già
 
-Finora abbiamo ragionato come se ogni asset dovesse essere creato internamente.
+Finora abbiamo ragionato come se ogni risorsa dovesse essere creata internamente.
 
 Ma un'impresa può essere limitata da qualcosa che un altro soggetto possiede già:
 
-- audience;
+- pubblico;
 - distribuzione;
 - accesso;
 - credibilità;
@@ -1443,7 +1443,7 @@ Ma un'impresa può essere limitata da qualcosa che un altro soggetto possiede gi
 
 La domanda diventa:
 
-> Chi possiede già l'asset che ci manca, e quale asset possediamo noi che potrebbe migliorare il suo sistema?
+> Chi possiede già la risorsa che ci manca, e quale risorsa possediamo noi che potrebbe migliorare il suo sistema?
 
 Questo è il principio delle partnership efficaci.
 
@@ -1461,7 +1461,7 @@ Per esempio:
 - campagna congiunta;
 - introduzione;
 - commissione;
-- accesso temporaneo a una audience;
+- accesso temporaneo a un pubblico;
 - sponsorizzazione;
 - raccomandazione.
 
@@ -1475,7 +1475,7 @@ Una combinazione più profonda nasce quando ciascuna parte possiede qualcosa che
 
 Schema:
 
-**asset A + asset B → soluzione più forte → valore ricorrente per entrambi.**
+**risorsa A + risorsa B → soluzione più forte → valore ricorrente per entrambi.**
 
 Esempio concettuale:
 
@@ -1509,7 +1509,7 @@ Dipende da un incentivo economico e strategico leggibile per entrambe le parti.
 
 Una raccomandazione da parte di un soggetto che il pubblico già ascolta può trasferire una parte della fiducia.
 
-Chiameremo **endorsement** una presentazione o raccomandazione esplicita da parte di un partner.
+Chiameremo **raccomandazione del partner**, o *endorsement*, una presentazione o raccomandazione esplicita da parte di un partner.
 
 Funziona bene quando:
 
@@ -1528,15 +1528,15 @@ Quindi la domanda non è soltanto:
 
 > Perché presentare questa offerta lo fa apparire utile, coerente e affidabile davanti al suo pubblico?
 
-## Revenue share
+## Condivisione dei ricavi
 
-Un accordo di **revenue share** divide i ricavi secondo regole stabilite fra le parti.
+Un accordo di **condivisione dei ricavi**, spesso chiamato *revenue share*, divide i ricavi secondo regole stabilite fra le parti.
 
 Può essere utile quando un partner porta:
 
 - capitale per l'acquisizione;
 - distribuzione;
-- audience;
+- pubblico;
 - infrastruttura commerciale;
 
 mentre l'altro porta:
@@ -1563,7 +1563,7 @@ Prima di firmare devi chiarire:
 
 Un partner famoso può aumentare fiducia iniziale.
 
-Un co-branding può aprire porte.
+Una collaborazione fra brand può aprire porte.
 
 Una distribuzione forte può generare vendite.
 
@@ -1589,7 +1589,7 @@ Più valore resta all'impresa, meno la partnership è pura dipendenza.
 
 A volte il vantaggio non sta solo nel canale ma nel controllo dell'ambiente.
 
-Un evento proprietario, uno showroom, una community o un altro contesto controllato può permettere di progettare:
+Un evento proprietario, uno showroom, una comunità o un altro contesto controllato può permettere di progettare:
 
 - sequenza;
 - esperienza;
@@ -1607,17 +1607,17 @@ Deve reggere su:
 - capacità;
 - valore della relazione successiva.
 
-## Partnership Canvas
+## Scheda della partnership
 
-### 1. Asset mancante
+### 1. Risorsa mancante
 
 Che cosa ci impedisce di crescere o servire meglio?
 
 ### 2. Partner candidato
 
-Chi possiede già quell'asset?
+Chi possiede già quella risorsa?
 
-### 3. Nostro asset
+### 3. Nostra risorsa
 
 Che cosa portiamo che migliora il suo sistema?
 
@@ -1669,11 +1669,11 @@ La relazione deve essere ricordata come storia e stato, non archiviata in una li
 
 ### Funnel
 
-Il percorso fa avanzare stati diversi con azioni, fallback e passaggi umani coerenti.
+Il percorso fa avanzare stati diversi con azioni, percorsi alternativi e passaggi umani coerenti.
 
 ### Partnership
 
-Accesso e distribuzione possono essere combinati con asset esterni quando valore, controllo ed economia sono chiari.
+Accesso e distribuzione possono essere combinati con risorse esterne quando valore, controllo ed economia sono chiari.
 
 A questo punto il sistema può generare e far avanzare domanda.
 
@@ -1682,4 +1682,4 @@ Ma comunicazione e automazione non sostituiscono la vendita.
 Nella prossima parte dovremo trasformare tutta la materia strategica raccolta fin qui in due cose:
 
 1. una argomentazione che porta una persona verso un passo osservabile;
-2. una conversazione commerciale capace di diagnosticare, prescrivere e seguire una decisione senza ridursi a pitch e pressione.
+2. una conversazione commerciale capace di diagnosticare, prescrivere e seguire una decisione senza ridursi a un discorso preconfezionato o a pressione.
