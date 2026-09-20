@@ -47,6 +47,7 @@ jobs:
           scripts/score_context_reads.py
           scripts/score_semantic_routing_run.py
           scripts/run_hierarchical_retriever_prototype_a_host.py
+          scripts/run_hierarchical_retriever_prototype_a3_host.py
           scripts/validate_semantic_gold_v2.py
 
       - name: Build architecture inventory
