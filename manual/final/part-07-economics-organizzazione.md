@@ -1,4 +1,4 @@
-# Parte VII — Economics avanzati, capacità e organizzazione
+# Parte VII — Economia avanzata, capacità e organizzazione
 
 Fino a questo punto abbiamo costruito un sistema commerciale completo.
 
@@ -24,9 +24,9 @@ e trovarsi comunque in difficoltà perché:
 - i costi fissi crescono più velocemente del valore prodotto;
 - troppe decisioni dipendono da una sola persona.
 
-La sequenza di questa parte è:
+La progressione di questa parte è:
 
-**unit economics → cassa → capacità → processi → persone → trasferibilità.**
+**economia per unità → cassa → capacità → processi → persone → trasferibilità.**
 
 Non partiamo dall'organigramma.
 
@@ -34,7 +34,7 @@ Partiamo dall'economia che dovrebbe finanziarlo.
 
 ---
 
-# Capitolo 30 — Unit economics, coorti e leve di crescita
+# Capitolo 30 — Economia per unità, coorti e leve di crescita
 
 ## Una media aziendale può nascondere due business diversi
 
@@ -50,7 +50,7 @@ Un'altra potrebbe acquisirli a 300 euro ma generare clienti con margine superior
 
 La media nasconde la struttura.
 
-Per questo gli economics vanno letti per:
+Per questo l'economia va letta per:
 
 - cliente o segmento;
 - sorgente;
@@ -58,9 +58,9 @@ Per questo gli economics vanno letti per:
 - coorte;
 - quando pertinente, venditore o processo commerciale.
 
-## Unit economics
+## Economia per unità
 
-Per **unit economics** intendiamo l'economia della singola unità economica rilevante del modello: spesso un cliente, una vendita, un ordine, un abbonamento o una sede.
+Per **economia per unità**, spesso chiamata *unit economics*, intendiamo l'economia della singola unità rilevante del modello: spesso un cliente, una vendita, un ordine, un abbonamento o una sede.
 
 La domanda è:
 
@@ -70,25 +70,25 @@ Non sostituisce il conto economico complessivo.
 
 Serve a capire se la crescita moltiplica un motore sano o una perdita.
 
-## CAC fully loaded
+## CAC completo
 
 Il **CAC**, costo di acquisizione cliente, deve includere il costo completo ragionevolmente attribuibile alla trasformazione di attenzione in cliente.
 
 Può comprendere:
 
-- media;
+- mezzi pubblicitari;
 - produzione dei materiali;
 - strumenti;
 - invii;
-- follow-up;
+- ricontatti;
 - tempo commerciale;
 - commissioni;
 - attività pre-vendita;
 - altre risorse necessarie fino all'acquisto.
 
-Il costo per lead non è CAC.
+Il costo per contatto non è CAC.
 
-La spesa pubblicitaria non è necessariamente CAC.
+La sola spesa pubblicitaria non è necessariamente CAC.
 
 Una formula semplificata è:
 
@@ -135,7 +135,7 @@ Una lettura utile considera:
 - margine delle transazioni;
 - frequenza;
 - durata;
-- cost-to-serve;
+- costo di servizio;
 - rimborsi o perdite pertinenti;
 - probabilità che il valore futuro si realizzi.
 
@@ -143,7 +143,7 @@ Un LTV futuro molto ottimistico non paga le fatture di oggi.
 
 ## Payback
 
-Il **payback** è il tempo necessario perché il margine cumulato della relazione recuperi l'investimento iniziale di acquisizione.
+Il **payback**, cioè il tempo di recupero dell'investimento iniziale, indica quanto tempo serve perché il margine cumulato della relazione recuperi il costo di acquisizione.
 
 Due clienti possono avere lo stesso LTV e richiedere quantità di capitale molto diverse.
 
@@ -174,7 +174,7 @@ Una **coorte** è un gruppo di clienti accomunati da una caratteristica utile al
 
 Leggere le coorti consente di confrontare non solo chi costa meno all'ingresso, ma chi produce economia migliore nel tempo.
 
-## Tabella minima di cohort economics
+## Tabella minima dell'economia per coorte
 
 Per ogni coorte osserva:
 
@@ -185,19 +185,19 @@ Per ogni coorte osserva:
 5. margine della prima transazione;
 6. margine successivo;
 7. frequenza;
-8. cost-to-serve;
+8. costo di servizio;
 9. payback;
-10. margine lifetime osservato o stimato con prudenza.
+10. margine lungo la relazione osservato o stimato con prudenza.
 
 Quando le opportunità sono comparabili, puoi aggiungere la conversione per venditore.
 
 Non per creare classifiche decorative.
 
-Per capire se la differenza economica nasce dal canale o dalla presa in carico commerciale.
+Serve a capire se la differenza economica nasce dal canale o dalla presa in carico commerciale.
 
-## Allowable Acquisition Cost
+## Costo massimo sostenibile di acquisizione
 
-L'**allowable acquisition cost** è il CAC massimo che il modello può sostenere rispettando gli obiettivi di margine, rischio e cassa.
+Il **costo massimo sostenibile di acquisizione**, talvolta chiamato *allowable acquisition cost*, è il CAC massimo che il modello può sostenere rispettando gli obiettivi di margine, rischio e cassa.
 
 Non si calcola semplicemente dicendo:
 
@@ -214,9 +214,9 @@ Devi lasciare spazio a:
 
 La funzione è stabilire un tetto economico coerente prima che la competizione per acquisire clienti diventi emotiva.
 
-## Margin leakage
+## Erosione invisibile del margine
 
-Il **margin leakage**, o perdita invisibile di margine, è valore economico eroso da attività che non compaiono chiaramente nel prezzo.
+L'**erosione invisibile del margine**, spesso indicata con *margin leakage*, è valore economico consumato da attività che non compaiono chiaramente nel prezzo.
 
 Esempi:
 
@@ -230,7 +230,7 @@ Esempi:
 
 Un contratto può avere un prezzo alto e produrre poco margine reale.
 
-Il cost-to-serve del Capitolo 6 diventa qui una metrica economica centrale.
+Il costo di servizio del Capitolo 6 diventa qui una metrica economica centrale.
 
 ## Quattro leve di crescita
 
@@ -238,7 +238,7 @@ Una lettura semplice del motore commerciale usa quattro leve:
 
 1. **domanda/traffico** — quante opportunità appropriate entrano;
 2. **conversione** — quante diventano clienti;
-3. **valore** — quanto margine produce ogni transazione/cliente;
+3. **valore** — quanto margine produce ogni transazione o cliente;
 4. **retention/frequenza** — quanto valore continua nel tempo.
 
 Una seconda rappresentazione utile è:
@@ -256,13 +256,13 @@ Se una azienda:
 - perde troppi clienti presto;
 - converte male opportunità già generate;
 - vende con margine insufficiente;
-- lascia inutilizzato il back-end;
+- lascia inutilizzata la monetizzazione successiva;
 
 comprare più traffico può soltanto amplificare il difetto.
 
 Un ordine diagnostico utile è:
 
-1. retention e churn evitabile;
+1. retention e abbandono evitabile;
 2. referral e domanda già posseduta;
 3. posizione e valore percepito;
 4. conversione commerciale;
@@ -276,7 +276,7 @@ Significa non usare volume per nascondere la perdita più costosa.
 
 ## CAC marginale
 
-Quando una campagna scala, il prossimo cliente può costare più del cliente medio storico.
+Quando una campagna cresce di scala, il prossimo cliente può costare più del cliente medio storico.
 
 Il **CAC marginale** è il costo del volume aggiuntivo ottenuto aumentando l'investimento.
 
@@ -286,9 +286,21 @@ La domanda quindi non è:
 
 Ma:
 
-> Il prossimo blocco di spesa continua a produrre clienti con economics sostenibili?
+> Il prossimo blocco di spesa continua a produrre clienti con economia sostenibile?
 
 Scalare significa seguire il margine, non soltanto il volume.
+
+## Spesa e investimento non sono sinonimi
+
+Una risorsa non diventa un investimento solo perché l'impresa la chiama così.
+
+Per trattare una spesa come investimento deve esistere almeno una **tesi causale plausibile**:
+
+**risorsa impiegata → capacità o risultato che dovrebbe cambiare → metrica osservabile → ritorno economico o riduzione di rischio rilevante.**
+
+Se non sappiamo spiegare che cosa dovrebbe produrre la spesa e come lo misureremo, stiamo finanziando attività, non necessariamente creando un asset economico.
+
+Questo principio verrà applicato in modo completo nel Capitolo 37, dedicato all'allocazione del capitale.
 
 ## Domanda non servita come dato
 
@@ -298,18 +310,18 @@ Non registra automaticamente ciò che il cliente avrebbe comprato ma non era dis
 
 Domande non servite, richieste rifiutate o alternative cercate possono segnalare:
 
-- stock insufficiente;
+- scorte insufficienti;
 - capacità insufficiente;
 - offerta mancante;
 - bisogno non coperto.
 
 Questi segnali devono diventare dati prima di decidere nuovi investimenti.
 
-## Cohort Economics Canvas
+## Scheda economica per coorte
 
 Per ogni coorte scrivi:
 
-**Sorgente → costo completo → clienti → margine prima vendita → margine successivo → cost-to-serve → payback → valore lifetime → capacità consumata.**
+**Sorgente → costo completo → clienti → margine prima vendita → margine successivo → costo di servizio → payback → valore lungo la relazione → capacità consumata.**
 
 Poi chiedi:
 
@@ -351,11 +363,11 @@ Questi elementi possono avere valore.
 
 Ma non pagano oggi un fornitore finché non si trasformano in denaro disponibile.
 
-## Riserve e cash flow
+## Riserve e flusso di cassa
 
 Le **riserve di cassa** comprano tempo.
 
-Il **cash flow operativo** indica se l'attività ordinaria sta generando o assorbendo liquidità.
+Il **flusso di cassa operativo**, o *cash flow operativo*, indica se l'attività ordinaria sta generando o assorbendo liquidità.
 
 Una impresa può avere molta cassa oggi e consumarla ogni mese.
 
@@ -363,18 +375,18 @@ Oppure avere riserve modeste e un flusso operativo positivo.
 
 Sono situazioni differenti.
 
-## Burn rate e runway
+## Velocità di consumo e autonomia di cassa
 
-Il **burn rate** è la velocità con cui la cassa viene consumata quando le uscite superano gli incassi.
+Il **burn rate**, cioè la velocità di consumo della cassa, misura quanto denaro viene assorbito quando le uscite superano gli incassi.
 
-Il **runway** è il tempo indicativo per cui la cassa disponibile può sostenere quel ritmo, assumendo che il modello resti simile.
+Il **runway**, o autonomia di cassa, indica per quanto tempo la cassa disponibile può sostenere quel ritmo, assumendo che il modello resti simile.
 
 Esempio:
 
 - cassa disponibile: 120.000 €;
 - consumo netto medio: 20.000 € al mese.
 
-Runway indicativo: 6 mesi.
+Autonomia indicativa: 6 mesi.
 
 È una approssimazione, non una previsione certa.
 
@@ -390,9 +402,9 @@ Il **capitale circolante** rappresenta il capitale assorbito dal ciclo operativo
 
 Una vendita può aumentare fatturato e contemporaneamente aumentare capitale immobilizzato.
 
-## Cash Conversion Cycle
+## Ciclo di conversione della cassa
 
-Il **ciclo di conversione della cassa**, o Cash Conversion Cycle, misura in modo concettuale quanto tempo l'impresa deve finanziare il ciclo fra denaro impegnato e denaro recuperato.
+Il **ciclo di conversione della cassa**, spesso indicato come *Cash Conversion Cycle*, misura in modo concettuale quanto tempo l'impresa deve finanziare il ciclo fra denaro impegnato e denaro recuperato.
 
 Tre componenti tipiche sono:
 
@@ -400,7 +412,7 @@ Tre componenti tipiche sono:
 - tempo necessario a incassare i clienti;
 - tempo concesso dai fornitori prima del pagamento.
 
-Più lungo è il gap, più capitale serve per sostenere la crescita.
+Più lungo è il disallineamento, più capitale serve per sostenere la crescita.
 
 ## Payback e ciclo di cassa sono collegati ma diversi
 
@@ -411,13 +423,13 @@ Il ciclo di cassa guarda quando fisicamente il denaro esce e rientra nel ciclo o
 Puoi avere:
 
 - buon payback ma incassi molto lenti;
-- ciclo di cassa favorevole ma economics del cliente scadenti.
+- ciclo di cassa favorevole ma economia del cliente scadente.
 
 Servono entrambi.
 
-## Leve sul funding gap
+## Leve sul fabbisogno finanziario temporale
 
-Il **funding gap** è il fabbisogno finanziario creato dal tempo fra uscita e recupero del denaro.
+Il **fabbisogno finanziario temporale**, talvolta chiamato *funding gap*, nasce dal tempo fra uscita e recupero del denaro.
 
 Può essere influenzato da:
 
@@ -439,17 +451,17 @@ Un grande ordine di magazzino può abbassare costo unitario e immobilizzare trop
 
 La decisione è economica e temporale insieme.
 
-## Working capital negativo
+## Capitale circolante operativo favorevole
 
 In alcuni modelli il cliente paga prima che l'impresa debba sostenere tutti i costi o pagare i fornitori.
 
-Questo può produrre **capitale circolante netto operativo favorevole**, talvolta descritto come working capital negativo nel ciclo operativo.
+Questo può produrre **capitale circolante netto operativo favorevole**, talvolta descritto come *working capital negativo* nel ciclo operativo.
 
 È un vantaggio quando nasce da un modello sano.
 
 Non è una prescrizione a imporre anticipi a ogni cliente.
 
-## Forecasting sotto incertezza
+## Previsioni sotto incertezza
 
 Una previsione finanziaria non diventa un fatto perché è scritta in un foglio.
 
@@ -462,7 +474,7 @@ Conviene distinguere:
 
 Quando l'incertezza aumenta, aumenta il valore di aggiornare frequentemente la previsione.
 
-## Cash Map
+## Mappa della cassa
 
 ### 1. Cassa oggi
 
@@ -488,7 +500,7 @@ Che cosa deve essere finanziato prima dell'incasso?
 
 Quando pagano clienti e quando paghiamo fornitori?
 
-### 7. Gap
+### 7. Fabbisogno
 
 Quanto tempo e denaro dobbiamo finanziare?
 
@@ -496,17 +508,17 @@ Quanto tempo e denaro dobbiamo finanziare?
 
 Quanto margine di sicurezza esiste?
 
-### 9. Stress test
+### 9. Prova di stress
 
 Che cosa accade se gli incassi slittano o il costo aumenta?
 
 ### 10. Leve
 
-Come riduciamo il gap senza distruggere valore e relazioni?
+Come riduciamo il fabbisogno senza distruggere valore e relazioni?
 
 ---
 
-# Capitolo 32 — Capacity economics e colli di bottiglia operativi
+# Capitolo 32 — Economia della capacità e colli di bottiglia operativi
 
 ## La domanda può diventare un problema
 
@@ -519,7 +531,7 @@ Ma un sistema con capacità insufficiente può trasformare più domanda in:
 - straordinari;
 - rimborsi;
 - recensioni peggiori;
-- churn;
+- abbandono;
 - margine inferiore.
 
 La domanda non è utile se distrugge la promessa.
@@ -542,7 +554,7 @@ Può riguardare:
 
 ## Il collo di bottiglia
 
-Il **collo di bottiglia** è la risorsa o passaggio che limita il throughput complessivo del sistema in quel momento.
+Il **collo di bottiglia** è la risorsa o il passaggio che limita il volume complessivo completabile dal sistema in quel momento.
 
 Aumentare una capacità non limitante può produrre poco valore.
 
@@ -562,7 +574,7 @@ Mappa:
 
 - capacità per periodo;
 - domanda per periodo;
-- backlog;
+- lavoro arretrato;
 - tempi;
 - qualità;
 - valli inutilizzate.
@@ -575,9 +587,9 @@ Esempio:
 
 Un servizio genera 80 euro di margine invece dei 150 euro normali.
 
-Se occupa uno slot che sarebbe rimasto vuoto, gli 80 euro possono creare valore.
+Se occupa uno spazio che sarebbe rimasto vuoto, gli 80 euro possono creare valore.
 
-Se occupa uno slot di picco che avrebbe potuto essere venduto a 150 euro, il costo opportunità cambia la decisione.
+Se occupa uno spazio di picco che avrebbe potuto essere venduto a 150 euro, il costo opportunità cambia la decisione.
 
 ## Costo opportunità
 
@@ -606,33 +618,33 @@ Non serve scontare automaticamente.
 
 Serve valorizzare capacità che altrimenti andrebbe persa.
 
-## Il bottleneck migra
+## Il collo di bottiglia si sposta
 
-Dopo aver aumentato una capacità, il vincolo può spostarsi.
+Dopo aver aumentato una capacità, il vincolo può migrare.
 
-Più vendite possono saturare delivery.
+Più vendite possono saturare l'erogazione.
 
-Più delivery può saturare assistenza.
+Più erogazione può saturare l'assistenza.
 
-Più sedi possono saturare amministrazione.
+Più sedi possono saturare l'amministrazione.
 
 La crescita è quindi una sequenza di colli di bottiglia che cambiano.
 
-## Build, buy, access
+## Costruire, comprare o accedere
 
-Prima di comprare un asset o assumere, considera tre opzioni.
+Prima di comprare una risorsa o assumere, considera tre opzioni.
 
-### Build / ownership
+### Costruire o possedere
 
-Costruire o possedere internamente la capacità.
+Creare o possedere internamente la capacità.
 
-### Buy
+### Comprare
 
 Acquistare la prestazione da un fornitore.
 
-### Access
+### Accedere
 
-Ottenere accesso a capacità esterna attraverso piattaforma, accordo, partnership o rete senza possedere l'asset.
+Ottenere accesso a capacità esterna attraverso piattaforma, accordo, partnership o rete senza possederla.
 
 Il criterio non è ideologico.
 
@@ -657,7 +669,7 @@ Un investimento diventa più credibile quando esiste evidenza che:
 
 Comprare capacità prima del collo di bottiglia può trasformare ottimismo in costo fisso.
 
-## Capacity Map
+## Mappa della capacità
 
 1. qual è il vincolo corrente?;
 2. quanta capacità esiste per periodo?;
@@ -666,13 +678,13 @@ Comprare capacità prima del collo di bottiglia può trasformare ottimismo in co
 5. quale costo opportunità esiste nei picchi?;
 6. il processo può ridurre carico prima di aggiungere risorse?;
 7. possiamo comprare o accedere a capacità esterna?;
-8. quando ownership o assunzione diventano economiche?;
-9. quali rischi di qualità/controllo?;
+8. quando proprietà o assunzione diventano economicamente sensate?;
+9. quali rischi di qualità e controllo?;
 10. quanta domanda è sicuro generare adesso?
 
 ---
 
-# Capitolo 33 — Processi, ownership, automazione e controlli
+# Capitolo 33 — Processi, responsabilità, automazione e controlli
 
 ## Il software non corregge un processo che non esiste
 
@@ -723,15 +735,15 @@ Cerca:
 - passaggi fuori sistema;
 - fogli paralleli;
 - messaggi privati;
-- workaround;
+- scorciatoie operative;
 - approvazioni informali;
 - informazioni che vivono nella testa di una persona.
 
 La differenza fra processo ufficiale e processo reale è una fonte di rischio.
 
-## Owner
+## Responsabile del passaggio
 
-L'**owner** è la persona o funzione responsabile che un passaggio arrivi all'esito previsto.
+Il **responsabile del passaggio**, spesso chiamato *owner*, è la persona o funzione responsabile che un passaggio arrivi all'esito previsto.
 
 Non significa necessariamente che esegua ogni attività.
 
@@ -745,11 +757,11 @@ Ogni passaggio importante dovrebbe avere una risposta a:
 
 Una attività senza condizione di completamento resta facilmente “in corso” per sempre.
 
-## Handoff
+## Passaggio di responsabilità e informazioni
 
-L'**handoff** è il passaggio di responsabilità e informazioni fra due persone, ruoli o fasi.
+Il **passaggio di responsabilità e informazioni**, o *handoff*, avviene fra due persone, ruoli o fasi.
 
-Un handoff utile definisce:
+Un passaggio utile definisce:
 
 - cosa viene trasferito;
 - quali dati minimi;
@@ -757,9 +769,9 @@ Un handoff utile definisce:
 - entro quando;
 - che cosa conferma l'accettazione.
 
-## Checkpoint ed escalation
+## Punto di controllo ed escalation
 
-Un **checkpoint** è un controllo previsto che verifica che il processo stia procedendo correttamente.
+Un **punto di controllo**, spesso chiamato *checkpoint*, è una verifica prevista che controlla se il processo stia procedendo correttamente.
 
 Una **escalation** è il passaggio di una eccezione a un livello di decisione superiore o diverso quando supera il perimetro normale.
 
@@ -795,19 +807,19 @@ Chiedi:
 - riduce errore?;
 - migliora visibilità?;
 - accelera decisione?;
-- riduce lavoro del cliente o del team?;
+- riduce lavoro del cliente o del team?
 
 Se la persona deve mantenere parallelamente foglio, email e software, l'adozione reale può essere bassa anche se il sistema è tecnicamente potente.
 
 ## Intelligenza artificiale con contesto e regole
 
-Un sistema automatico o AI deve conoscere, quando necessario:
+Un sistema automatico o di intelligenza artificiale deve conoscere, quando necessario:
 
 - dati corretti;
 - stato;
-- policy;
+- regole applicabili;
 - limiti;
-- casi da escalare.
+- casi da portare a un livello decisionale superiore.
 
 L'automazione può preparare una decisione.
 
@@ -861,13 +873,13 @@ Serve progettare evidenza.
 
 Un'impresa può usare agenzie o fornitori differenti per:
 
-- advertising;
+- pubblicità;
 - CRM;
 - copy;
 - vendita;
 - tecnologia.
 
-Se ognuno ottimizza la propria metrica senza un owner interno del risultato end-to-end, il sistema può peggiorare.
+Se ognuno ottimizza la propria metrica senza un responsabile interno del risultato complessivo, il sistema può peggiorare.
 
 Servono:
 
@@ -875,21 +887,21 @@ Servono:
 - definizioni comuni;
 - confini;
 - attribuzione;
-- handoff;
+- passaggi di responsabilità e informazioni;
 - responsabile interno;
 - revisione complessiva.
 
-## Workflow Spec
+## Scheda del processo
 
 Per ogni processo rilevante scrivi:
 
-1. trigger/input;
+1. evento di ingresso;
 2. realtà attuale;
 3. passaggio desiderato;
-4. owner;
+4. responsabile;
 5. condizione di completamento;
-6. handoff e dati minimi;
-7. checkpoint;
+6. passaggio di responsabilità e dati minimi;
+7. punto di controllo;
 8. regola normale;
 9. soglia di eccezione;
 10. escalation;
@@ -898,7 +910,7 @@ Per ogni processo rilevante scrivi:
 
 ---
 
-# Capitolo 34 — Persone, ruoli e recruiting
+# Capitolo 34 — Persone, ruoli e selezione
 
 ## Prima il ruolo, poi la persona
 
@@ -918,7 +930,7 @@ Prima di cercare il candidato, ridisegna il lavoro.
 
 Un **ruolo** è un insieme coerente di responsabilità finalizzato a produrre un risultato riconoscibile.
 
-La **accountability**, o responsabilità sul risultato, indica ciò per cui la persona risponde in modo misurabile.
+La **responsabilità sul risultato**, spesso chiamata *accountability*, indica ciò per cui la persona risponde in modo misurabile.
 
 Un ruolo può avere molti compiti.
 
@@ -927,11 +939,11 @@ Ma dovrebbe essere chiaro quale risultato principale giustifica la sua esistenza
 Esempi:
 
 - trasformare opportunità qualificate in contratti appropriati;
-- mantenere un certo throughput produttivo entro standard;
-- ridurre tempo di presa in carico dell'assistenza;
+- mantenere un certo volume produttivo entro standard;
+- ridurre il tempo di presa in carico dell'assistenza;
 - garantire accuratezza amministrativa di un processo.
 
-## Evitare il ruolo-unicorno
+## Evitare il ruolo impossibile
 
 Cercare una persona che sia contemporaneamente:
 
@@ -940,7 +952,7 @@ Cercare una persona che sia contemporaneamente:
 - analista;
 - amministrativo;
 - tecnico;
-- project manager
+- responsabile di progetto
 
 può essere un problema di progettazione del ruolo, non di scarsità del mercato.
 
@@ -960,9 +972,9 @@ Prima di assumere chiedi:
 
 Assumere prima di avere un vincolo reale aggiunge costo fisso e coordinamento.
 
-## Recruiting come marketing
+## Selezione come marketing
 
-Il recruiting segue una struttura simile all'acquisizione cliente:
+La selezione segue una struttura simile all'acquisizione cliente:
 
 **target candidato → offerta di lavoro → messaggio → canale → processo → selezione.**
 
@@ -1007,23 +1019,23 @@ L'assunzione non chiude la selezione.
 Dopo l'ingresso osserva:
 
 - apprendimento;
-- output;
+- risultato prodotto;
 - comportamento;
 - qualità;
 - affidabilità;
 - collaborazione;
-- risposta al feedback.
+- risposta al riscontro.
 
-La fase iniziale deve produrre evidenza sufficiente per confermare che il fit è reale.
+La fase iniziale deve produrre evidenza sufficiente per confermare che la compatibilità sia reale.
 
-## Skill gap e behavior issue
+## Lacuna di competenza e problema comportamentale
 
 Se manca una competenza allenabile, la risposta può essere:
 
 - formazione;
 - affiancamento;
 - pratica;
-- feedback.
+- riscontro.
 
 Se il comportamento resta incompatibile con standard, clienti o collaborazione, il problema è diverso.
 
@@ -1056,7 +1068,7 @@ Premiare solo volume può produrre:
 - cattivi incassi;
 - qualità inferiore.
 
-Il design deve includere, quando pertinente:
+La progettazione deve includere, quando pertinente:
 
 - margine;
 - qualità;
@@ -1064,7 +1076,7 @@ Il design deve includere, quando pertinente:
 - incasso;
 - retention.
 
-## Role Scorecard
+## Scheda del ruolo
 
 Prima di aprire una ricerca definisci:
 
@@ -1077,9 +1089,9 @@ Prima di aprire una ricerca definisci:
 7. competenze allenabili;
 8. comportamento necessario;
 9. costo totale;
-10. valore/capacità che dovrebbe liberare;
-11. onboarding e training;
-12. finestra di conferma della performance.
+10. valore o capacità che dovrebbe liberare;
+11. onboarding e formazione;
+12. finestra di conferma del risultato.
 
 ---
 
@@ -1087,7 +1099,7 @@ Prima di aprire una ricerca definisci:
 
 ## L'obiettivo non è rendere il fondatore inutile
 
-Un fondatore può essere uno degli asset più importanti dell'impresa.
+Un fondatore può essere una delle risorse più importanti dell'impresa.
 
 Può possedere:
 
@@ -1102,9 +1114,9 @@ Il problema nasce quando una funzione critica può esistere solo se quella perso
 
 L'obiettivo è rendere trasferibili le funzioni che devono sopravvivere.
 
-## Single point of failure
+## Punto unico di dipendenza critica
 
-Un **single point of failure** è un elemento singolo la cui perdita può interrompere una funzione critica.
+Un **punto unico di dipendenza critica**, spesso chiamato *single point of failure*, è un elemento singolo la cui perdita può interrompere una funzione critica.
 
 Può essere:
 
@@ -1169,9 +1181,9 @@ Per esempio:
 
 Poi chiedi:
 
-> Quale di queste funzioni può essere sostituita da processo, asset, persone o struttura?
+> Quale di queste funzioni può essere sostituita da processo, risorsa, persone o struttura?
 
-## Responsabilità richiede decision rights
+## Responsabilità richiede diritti decisionali
 
 Delegare non significa assegnare un compito e conservare ogni veto.
 
@@ -1212,11 +1224,11 @@ Durante il test registra:
 - ritardi;
 - KPI deteriorati.
 
-Ogni rottura diventa backlog di trasferibilità.
+Ogni rottura diventa un elenco di lavoro da fare per aumentare la trasferibilità.
 
 ## Documentare decisioni, non solo procedure
 
-Una SOP può spiegare come eseguire un compito normale.
+Una procedura operativa standard può spiegare come eseguire un compito normale.
 
 Ma la vera dipendenza spesso vive nelle decisioni.
 
@@ -1227,11 +1239,11 @@ Documenta:
 - quali dati usa;
 - quali soglie;
 - quali eccezioni;
-- quando escalare.
+- quando fare escalation.
 
 Questa è la differenza fra manuale operativo e sistema decisionale.
 
-## Gli asset devono appartenere all'impresa
+## Le risorse critiche devono appartenere all'impresa
 
 Una relazione può essere economicamente importante e ancora vivere:
 
@@ -1241,7 +1253,7 @@ Una relazione può essere economicamente importante e ancora vivere:
 - nella memoria del venditore;
 - nel file di un freelance.
 
-Per trasferibilità e continuità, gli asset critici devono essere sotto controllo dell'impresa quando legalmente e contrattualmente appropriato:
+Per trasferibilità e continuità, le risorse critiche devono essere sotto controllo dell'impresa quando legalmente e contrattualmente appropriato:
 
 - dati;
 - CRM;
@@ -1251,7 +1263,7 @@ Per trasferibilità e continuità, gli asset critici devono essere sotto control
 - storico;
 - accessi.
 
-## Retention dei nodi critici
+## Proteggere i nodi critici
 
 Ridurre dipendenza non significa trattare ogni persona, cliente o fornitore come sostituibile domani.
 
@@ -1261,11 +1273,11 @@ Prima di ottenere un piccolo vantaggio negoziale chiedi:
 
 > Quanto risparmio oggi e quanto mi costerebbe perdere questa capacità?
 
-Resilienza e retention dei nodi critici sono due lavori complementari.
+Resilienza e protezione dei nodi critici sono due lavori complementari.
 
-## Yield Gap
+## Divario di rendimento
 
-Il **Yield Gap** è la differenza fra il valore prodotto dall'uso attuale di una capacità e il valore che potrebbe produrre se fosse allocata meglio.
+Il **divario di rendimento**, o *Yield Gap*, è la differenza fra il valore prodotto dall'uso attuale di una capacità e il valore che potrebbe produrre se fosse allocata meglio.
 
 Esempio:
 
@@ -1279,7 +1291,7 @@ Se quelle ore liberate vengono realmente usate su attività che generano molto p
 
 Il valore va verificato dopo.
 
-Liberare tempo e poi riempirlo con altre attività a basso rendimento non crea Yield Gap positivo.
+Liberare tempo e poi riempirlo con altre attività a basso rendimento non crea un divario di rendimento positivo.
 
 ## Trasferibilità
 
@@ -1320,12 +1332,12 @@ Si separano:
 
 ### Processo
 
-Per i workflow ricorrenti vengono definiti:
+Per i flussi ricorrenti vengono definiti:
 
 - evento;
-- owner;
+- responsabile;
 - completamento;
-- handoff;
+- passaggio di responsabilità;
 - dati;
 - escalation.
 
@@ -1352,14 +1364,14 @@ Il risultato non è eliminare il fondatore.
 
 È rendere l'impresa meno fragile.
 
-## Dependency Map
+## Mappa delle dipendenze
 
 1. che cosa si ferma se questo elemento scompare?;
 2. è funzione operativa o commerciale/percettiva?;
 3. quali dati, relazioni o decisioni sono privati?;
-4. che cosa deve diventare processo o asset?;
+4. che cosa deve diventare processo o risorsa aziendale?;
 5. quale autorità deve essere trasferita?;
-6. serve sostituzione, ridondanza o retention del nodo?;
+6. serve sostituzione, ridondanza o protezione del nodo?;
 7. qual è il costo di sostituzione?;
 8. quale KPI dimostra il trasferimento?;
 9. quale test di assenza possiamo fare?;
@@ -1369,9 +1381,9 @@ Il risultato non è eliminare il fondatore.
 
 Questa parte ha trasformato il business da insieme di attività a sistema economico-organizzativo.
 
-### Unit economics
+### Economia per unità
 
-Misurano se il cliente crea valore dopo costi di acquisizione e servizio.
+Misura se il cliente crea valore dopo costi di acquisizione e servizio.
 
 ### Cassa
 
@@ -1393,4 +1405,4 @@ Aggiungono capacità quando ruolo ed economia lo giustificano.
 
 Riduce la dipendenza da singoli punti fragili senza distruggere ciò che genera domanda e valore.
 
-Ora possiamo affrontare l'ultimo blocco: come partire da zero, reinvestire, espandere il modello, decidere che cosa scalare e costruire un operating system che sappia diagnosticare il prossimo collo di bottiglia.
+Ora possiamo affrontare l'ultimo blocco: come partire da zero, reinvestire, espandere il modello, decidere che cosa scalare e costruire un sistema operativo capace di diagnosticare il prossimo collo di bottiglia.
