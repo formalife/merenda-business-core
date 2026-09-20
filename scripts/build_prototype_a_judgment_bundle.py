@@ -50,6 +50,12 @@ def main() -> int:
         type=Path,
         default=Path("/tmp/formalife-prototype-a-retrieval-debug-bundle.jsonl"),
     )
+    ap.add_argument(
+        "--case",
+        action="append",
+        dest="cases",
+        help="Expected case ID. Repeat for a focused non-smoke run. Omit for the canonical six-case smoke bundle.",
+    )
     args = ap.parse_args()
 
     trace_path = args.workdir / "prototype-a-trace.jsonl"
@@ -62,27 +68,42 @@ def main() -> int:
         raise SystemExit(f"missing file: {metadata_path}")
     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
 
-    if metadata.get("smoke") is not True:
-        raise SystemExit("workdir metadata does not identify a smoke run")
+    expected_cases = set(args.cases) if args.cases else set(SMOKE_CASES)
+    if not expected_cases:
+        raise SystemExit("expected case set cannot be empty")
+    if not args.cases and metadata.get("smoke") is not True:
+        raise SystemExit("workdir metadata does not identify the canonical smoke run")
     if metadata.get("gold_exposure") is None:
         raise SystemExit("workdir metadata missing gold_exposure")
 
+    metadata_cases = metadata.get("cases")
+    if not isinstance(metadata_cases, list) or set(metadata_cases) != expected_cases:
+        raise SystemExit(
+            f"metadata case mismatch: got={sorted(metadata_cases or [])} expected={sorted(expected_cases)}"
+        )
+
     prompt_by_id = {row.get("case_id"): row for row in prompts}
     trace_by_id = {row.get("case_id"): row for row in traces}
-    if set(trace_by_id) != SMOKE_CASES:
+    if set(trace_by_id) != expected_cases:
         raise SystemExit(
-            f"unexpected trace cases: got={sorted(trace_by_id)} expected={sorted(SMOKE_CASES)}"
+            f"unexpected trace cases: got={sorted(trace_by_id)} expected={sorted(expected_cases)}"
         )
+
+    expected_arch = metadata.get("architecture")
+    if not isinstance(expected_arch, str):
+        raise SystemExit("workdir metadata missing architecture")
 
     answer_rows: list[dict] = []
     debug_rows: list[dict] = []
-    for cid in sorted(SMOKE_CASES):
+    for cid in sorted(expected_cases):
         trace = trace_by_id[cid]
         prompt = prompt_by_id.get(cid)
         if not prompt:
             raise SystemExit(f"missing sanitized prompt for {cid}")
-        if trace.get("architecture") != "prototype_a":
-            raise SystemExit(f"{cid}: unexpected architecture {trace.get('architecture')!r}")
+        if trace.get("architecture") != expected_arch:
+            raise SystemExit(
+                f"{cid}: unexpected architecture {trace.get('architecture')!r}; expected {expected_arch!r}"
+            )
 
         # Answer-only bundle deliberately excludes semantic IDs, retrieval paths,
         # context stats, scores, gold and trace notes. Judge this first.
@@ -116,9 +137,10 @@ def main() -> int:
     write_jsonl(args.answer_out, answer_rows)
     write_jsonl(args.debug_out, debug_rows)
 
-    print("PROTOTYPE A JUDGMENT BUNDLE: PASS")
+    print("PROTOTYPE JUDGMENT BUNDLE: PASS")
     print("tested_commit:", metadata.get("commit_sha"))
-    print("cases:", len(answer_rows))
+    print("architecture:", expected_arch)
+    print("cases:", len(answer_rows), ",".join(sorted(expected_cases)))
     print("answer_bundle:", args.answer_out)
     print("debug_bundle:", args.debug_out)
     print("UPLOAD ONLY THE ANSWER BUNDLE UNTIL JUDGMENT IS FROZEN")
