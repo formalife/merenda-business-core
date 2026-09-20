@@ -1,8 +1,8 @@
 # Parte I — Capire la macchina prima di toccarla
 
-Prima di parlare di campagne, funnel, copy, venditori, automazioni o crescita, serve un cambio di prospettiva.
+Prima di parlare di campagne, percorsi commerciali, testi di vendita, venditori, automazioni o crescita, serve un cambio di prospettiva.
 
-Un'impresa non è una somma di reparti indipendenti. È un sistema in cui mercato, cliente, proposta, acquisizione, vendita, esperienza, numeri e capacità si influenzano a vicenda. Quando una parte è debole, intervenire su quella più visibile non significa necessariamente intervenire sulla causa.
+Un'impresa non è una somma di reparti indipendenti. È un sistema in cui mercato, cliente, proposta, acquisizione, vendita, esperienza, numeri e capacità operative si influenzano a vicenda. Quando una parte è debole, intervenire su quella più visibile non significa necessariamente intervenire sulla causa.
 
 Questa prima parte costruisce quattro strumenti mentali che useremo per tutto il resto del manuale:
 
@@ -33,17 +33,17 @@ Questa è promozione. È una parte del marketing, ma non è il marketing.
 
 Nel senso in cui useremo il termine in questo manuale, **marketing** significa progettare il modo in cui un'impresa crea, rende comprensibile, vende e mantiene valore per un mercato concreto in modo economicamente sostenibile.
 
-Questa definizione ha una conseguenza importante: se il prodotto, il target, il prezzo, il processo commerciale o l'esperienza impediscono all'impresa di essere scelta e monetizzata bene, il marketing deve poter mettere in discussione anche quelli.
+Questa definizione ha una conseguenza importante: se il prodotto, il tipo di cliente scelto, il prezzo, il processo commerciale o l'esperienza impediscono all'impresa di essere scelta e monetizzata bene, il marketing deve poter mettere in discussione anche quelli.
 
 Non esiste una legge per cui il prodotto sia sacro e la comunicazione debba semplicemente “venderlo meglio”.
 
 A volte il problema è davvero la comunicazione. Altre volte no.
 
-Se il mercato non desidera abbastanza ciò che vendi, la soluzione non è una headline più brillante.
+Se il mercato non desidera abbastanza ciò che vendi, la soluzione non è una frase pubblicitaria più brillante.
 
-Se il target che hai scelto compra poco, richiede troppo supporto e paga lentamente, la soluzione non è necessariamente più traffico.
+Se il tipo di cliente che hai scelto compra poco, richiede troppo supporto e paga lentamente, la soluzione non è necessariamente più traffico.
 
-Se l'offerta è indistinguibile da dieci alternative, la soluzione non è chiedere al venditore di essere più aggressivo.
+Se la proposta è indistinguibile da dieci alternative, la soluzione non è chiedere al venditore di essere più aggressivo.
 
 Se l'esperienza del cliente smentisce ciò che hai promesso, aumentare l'acquisizione può solo rendere il problema più grande e più visibile.
 
@@ -57,36 +57,36 @@ Con questo termine indichiamo l'insieme collegato di decisioni attraverso cui l'
 
 - sceglie chi servire;
 - comprende quale problema o desiderio conta;
-- costruisce una differenza;
+- costruisce una ragione concreta per essere scelta;
 - crea una proposta acquistabile;
 - genera o intercetta domanda;
 - porta il cliente a una decisione;
 - eroga ciò che ha promesso;
 - mantiene o sviluppa la relazione;
-- produce margine e cassa sufficienti a continuare.
+- produce un risultato economico sufficiente a continuare.
 
 Se guardi solo una parte del sistema, rischi di migliorare localmente qualcosa che peggiora il risultato complessivo.
 
-Immagina di aumentare del 40% il numero di lead generati da una campagna. Presa da sola, la notizia sembra positiva.
+Immagina di aumentare del 40% il numero di contatti commerciali generati da una campagna. Presa da sola, la notizia sembra positiva.
 
 Ma che cosa succede se:
 
 - il team commerciale non riesce a contattarli in tempo;
-- la maggior parte non appartiene al segmento più profittevole;
+- la maggior parte appartiene a gruppi di clienti poco interessanti economicamente;
 - il tasso di chiusura crolla;
 - il venditore deve lavorare molte più ore per ogni vendita;
 - i nuovi clienti richiedono più supporto;
-- la capacità operativa è già satura;
+- la struttura operativa è già satura;
 - i tempi di consegna peggiorano;
 - aumentano reclami e rimborsi?
 
-Hai aumentato i lead. Non è detto che tu abbia migliorato il business.
+Hai aumentato i contatti. Non è detto che tu abbia migliorato il business.
 
-Il punto non è che più lead siano male. Il punto è che **un output locale non è automaticamente un risultato aziendale**.
+Il punto non è che più contatti siano male. Il punto è che **un output locale non è automaticamente un risultato aziendale**.
 
 ## La promozione è un amplificatore
 
-Pubblicità, contenuti, copy, eventi, social, email, partnership e venditori sono strumenti di amplificazione.
+Pubblicità, contenuti, testi commerciali, eventi, social, email, partnership e venditori sono strumenti di amplificazione.
 
 Possono aumentare la velocità con cui una proposta raggiunge il mercato e la quantità di persone che interagiscono con essa.
 
@@ -95,17 +95,17 @@ Ma un amplificatore rende più grande ciò che riceve in ingresso.
 Se a monte esiste:
 
 - una differenza forte, può renderla più visibile;
-- un'offerta chiara, può farla arrivare a più persone;
-- una buona esperienza, può alimentare più prova e referral;
+- una proposta chiara, può farla arrivare a più persone;
+- una buona esperienza, può alimentare più prova e segnalazioni;
 - un processo di vendita efficace, può moltiplicarne il rendimento.
 
 Se invece esiste:
 
 - una proposta indistinta, può moltiplicare richieste di confronto sul prezzo;
-- un target sbagliato, può generare più clienti economicamente cattivi;
+- un pubblico sbagliato, può generare più clienti economicamente cattivi;
 - un processo commerciale disordinato, può creare più opportunità perse;
-- una delivery fragile, può produrre più insoddisfazione;
-- economics deboli, può accelerare il consumo di cassa.
+- un'erogazione fragile, può produrre più insoddisfazione;
+- un modello economico debole, può accelerare il consumo di denaro.
 
 Questa è una delle regole più importanti dell'intero manuale:
 
@@ -117,7 +117,7 @@ Supponiamo che una piccola impresa di servizi riceva poche richieste.
 
 La reazione immediata è comprare più traffico.
 
-Ma osservando meglio emerge che quasi ogni prospect chiede tre preventivi e sceglie principalmente in base al prezzo. La proposta non comunica una differenza concreta e l'azienda, nella pratica, eroga un servizio molto simile agli altri.
+Ma osservando meglio emerge che quasi ogni potenziale cliente chiede tre preventivi e sceglie principalmente in base al prezzo. La proposta non comunica una differenza concreta e l'azienda, nella pratica, eroga un servizio molto simile agli altri.
 
 Se raddoppi il traffico senza intervenire a monte, potresti ottenere:
 
@@ -126,11 +126,11 @@ Se raddoppi il traffico senza intervenire a monte, potresti ottenere:
 - più confronti;
 - più pressione sul prezzo;
 - forse qualche vendita in più;
-- ma non necessariamente più margine.
+- ma non necessariamente un risultato economico migliore.
 
-Il problema appariva come “pochi lead”. La causa poteva essere invece una debole ragione di scelta.
+Il problema appariva come “poche richieste”. La causa poteva essere invece una debole ragione di scelta.
 
-Non abbiamo ancora gli strumenti per risolvere quel caso. Li costruiremo nei capitoli su mercato, posizionamento, offerta e vendita. Per ora ci interessa solo la disciplina mentale: **la tattica richiesta non è la diagnosi**.
+Non abbiamo ancora gli strumenti per risolvere quel caso. Li costruiremo più avanti. Per ora ci interessa solo la disciplina mentale: **la tattica richiesta non è la diagnosi**.
 
 ## Strategia e tattica
 
@@ -138,13 +138,13 @@ Una **strategia** è un insieme coerente di scelte su dove competere, per chi, c
 
 Una **tattica** è un mezzo utilizzato per eseguire una parte di quella strategia.
 
-Un social network è una tattica o un canale.
+Un social network è un mezzo.
 
 Una lettera è un mezzo.
 
 Un webinar è un formato.
 
-Un CRM è uno strumento.
+Un software per gestire clienti e opportunità è uno strumento.
 
 Un'agenzia è un fornitore di competenze o capacità.
 
@@ -162,7 +162,7 @@ Nessuno di questi elementi dice, da solo:
 
 Per questo una sequenza del tipo:
 
-> Facebook + email + webinar + CRM
+> social + email + webinar + software
 
 non è una strategia. È un elenco di strumenti.
 
@@ -172,7 +172,7 @@ Può diventare parte di una strategia solo quando ciascun elemento riceve una fu
 
 Puoi delegare l'esecuzione tecnica. Spesso è corretto farlo.
 
-Non è necessario che l'imprenditore configuri personalmente campagne pubblicitarie, scriva codice, impagini landing page o conosca ogni funzione del CRM.
+Non è necessario che l'imprenditore configuri personalmente campagne pubblicitarie, scriva codice, impagini pagine web o conosca ogni funzione del software commerciale.
 
 Ma la responsabilità di direzione non può essere delegata completamente a chi esegue.
 
@@ -181,15 +181,15 @@ L'impresa deve sapere almeno:
 - quale risultato sta cercando;
 - per quale cliente;
 - con quale proposta;
-- con quale economia;
+- con quale logica economica;
 - quale funzione deve svolgere lo strumento;
-- quale metrica dimostra che quella funzione viene svolta.
+- quale misura dimostra che quella funzione viene svolta.
 
 Altrimenti succede qualcosa di prevedibile: ogni specialista ottimizza ciò che sa misurare.
 
-L'agenzia pubblicitaria parla di costo per lead.
+L'agenzia pubblicitaria parla di costo per contatto.
 
-Il social media manager parla di reach e interazioni.
+Il social media manager parla di visibilità e interazioni.
 
 Il venditore parla di appuntamenti.
 
@@ -210,7 +210,7 @@ Il cliente vive una sola relazione.
 Vede:
 
 - ciò che gli prometti;
-- quanto è semplice capire l'offerta;
+- quanto è semplice capire la proposta;
 - come viene trattato prima della vendita;
 - cosa accade quando paga;
 - quanto è semplice iniziare;
@@ -220,11 +220,11 @@ Vede:
 
 Per questo l'esperienza del cliente appartiene al sistema di marketing in senso ampio.
 
-Se la pubblicità promette velocità ma l'onboarding è lento, il mercato non riceve due esperienze separate chiamate “marketing” e “operations”. Riceve una promessa smentita.
+Se la pubblicità promette velocità ma l'avvio del cliente è lento, il mercato non riceve due esperienze separate chiamate “marketing” e “operazioni”. Riceve una promessa smentita.
 
-Se la vendita costruisce aspettative che il delivery non conosce, la comunicazione commerciale ha prodotto un debito operativo.
+Se la vendita costruisce aspettative che chi deve erogare non conosce, la comunicazione commerciale ha prodotto un debito operativo.
 
-Se l'assistenza risolve ripetutamente lo stesso errore senza correggerne la causa, il problema continuerà a erodere retention, reputazione e margine.
+Se l'assistenza risolve ripetutamente lo stesso errore senza correggerne la causa, il problema continuerà a erodere continuità della relazione, reputazione e risultato economico.
 
 Lo schema completo è semplice:
 
@@ -238,17 +238,17 @@ Un altro errore nasce dall'idea che ogni problema aziendale debba essere risolto
 
 Più clienti possono essere desiderabili. Ma non se:
 
-- ogni vendita lascia margine insufficiente;
-- il costo di acquisizione è troppo alto;
+- ogni vendita lascia troppo poco valore economico;
+- acquisire un cliente costa troppo;
 - il denaro rientra troppo lentamente;
 - il servizio è saturo;
-- il churn è elevato;
+- troppi clienti abbandonano presto;
 - il fondatore è già il collo di bottiglia;
 - il processo non è ancora stabile.
 
 In queste condizioni, consolidare può essere una decisione più intelligente che crescere.
 
-Ridurre una perdita, migliorare la qualità del cliente, correggere l'onboarding, aumentare il margine o liberare capacità possono creare più valore di una nuova campagna.
+Ridurre una perdita, migliorare la qualità del cliente, correggere l'avvio del servizio, aumentare ciò che resta da ogni vendita o liberare capacità operative possono creare più valore di una nuova campagna.
 
 Non esiste una virtù intrinseca nel fare più cose, raggiungere più persone o generare più fatturato.
 
@@ -258,7 +258,7 @@ La domanda è sempre economica e sistemica:
 
 ## Le quattro domande prima di una tattica
 
-Ogni volta che qualcuno propone una tattica — più ads, un nuovo funnel, TikTok, un evento, un venditore, un software, un'automazione — passa prima da quattro domande.
+Ogni volta che qualcuno propone una tattica — più pubblicità, un nuovo percorso commerciale, un nuovo canale, un evento, un venditore, un software, un'automazione — passa prima da quattro domande.
 
 ### 1. Quale risultato economico manca?
 
@@ -267,21 +267,21 @@ Non “vogliamo fare più marketing”.
 Definisci il risultato:
 
 - più clienti profittevoli;
-- più margine;
-- più cassa;
-- più frequenza;
-- meno churn;
+- più valore economico per vendita;
+- più liquidità;
+- più frequenza d'acquisto;
+- meno abbandono;
 - maggiore conversione;
 - minore dipendenza dal fondatore;
-- più capacità.
+- più capacità di servire domanda.
 
 ### 2. Quale parte del sistema dovrebbe produrre quel risultato?
 
-Se manca margine, non è detto che il problema sia l'acquisizione.
+Se resta troppo poco da ogni vendita, non è detto che il problema sia l'acquisizione.
 
 Se mancano vendite, non è detto che il problema sia il venditore.
 
-Se manca cassa, non è detto che servano più ricavi.
+Se manca liquidità, non è detto che servano più ricavi.
 
 ### 3. La tattica corregge la causa o amplifica soltanto il sistema attuale?
 
@@ -289,13 +289,13 @@ Se aumenta il volume dentro un meccanismo difettoso, stai pagando per rendere il
 
 ### 4. Che cosa deve essere vero prima che questa tattica abbia senso?
 
-Questa è la domanda più potente dell'intero manuale.
+Questa è una delle domande guida dell'intero manuale.
 
-Prima di un funnel deve esistere un percorso che meriti di essere automatizzato.
+Prima di automatizzare un percorso commerciale deve esistere un percorso che meriti di essere automatizzato.
 
-Prima del copy deve esistere una differenza da comunicare.
+Prima di scrivere testi persuasivi deve esistere una differenza reale da rendere comprensibile.
 
-Prima della scala devono reggere economics e capacità.
+Prima di aumentare il volume devono reggere i numeri e la capacità operativa.
 
 Prima di assumere deve essere chiaro il processo o il collo di bottiglia che il nuovo ruolo deve risolvere.
 
@@ -307,10 +307,10 @@ Prendi una frase tipica:
 
 Riscrivila così:
 
-1. **Outcome:** quale risultato deve migliorare?
-2. **Problema osservato:** qual è oggi il valore della metrica?
+1. **Risultato:** quale risultato deve migliorare?
+2. **Problema osservato:** qual è oggi il valore della misura pertinente?
 3. **Ipotesi:** perché pensiamo che il canale sia la leva corretta?
-4. **Prerequisiti:** target, offerta, capacità ed economics reggono?
+4. **Prerequisiti:** cliente, proposta, capacità operativa e numeri reggono?
 5. **Test:** quale esperimento dimostrerebbe che il canale svolge la funzione prevista?
 
 Hai appena trasformato una preferenza in una decisione verificabile.
@@ -323,23 +323,23 @@ Questo sarà il nostro modo di lavorare per tutto il manuale.
 
 ## Perché i numeri arrivano così presto
 
-Molti manuali introducono prima campagne, copy e funnel e lasciano gli economics verso la fine.
+Molti manuali introducono prima campagne, testi commerciali e percorsi di acquisizione e lasciano i numeri economici verso la fine.
 
 È un errore pedagogico.
 
 Non puoi scegliere bene un cliente se non sai che cosa significa “buon cliente” economicamente.
 
-Non puoi giudicare un prezzo senza capire margine e capacità.
+Non puoi giudicare un prezzo senza capire quanto valore resta e quanta capacità consuma.
 
 Non puoi scegliere un canale senza sapere quanto puoi permetterti di spendere.
 
-Non puoi valutare una campagna se confondi lead, vendite, margine e cassa.
+Non puoi valutare una campagna se confondi contatti, vendite, margine e cassa.
 
 Non puoi parlare seriamente di crescita se ignori quanto velocemente rientra il denaro o quanta domanda riesci a servire.
 
 Non serve diventare contabili prima di parlare di marketing. Serve però un vocabolario economico minimo.
 
-In questo capitolo useremo definizioni volutamente semplici. Nei capitoli avanzati torneremo sui numeri con più precisione, segmentazione, coorti, capitale circolante e capacità.
+In questo capitolo useremo definizioni volutamente semplici. Nei capitoli avanzati torneremo sui numeri con più precisione, segmentazione temporale, capitale circolante e capacità.
 
 Per ora dobbiamo impedire gli errori più costosi.
 
@@ -394,17 +394,17 @@ Se il Cliente B richiede inoltre più assistenza, più eccezioni e più tempo de
 
 Questa è la ragione per cui “vendere di più” non è una diagnosi sufficiente.
 
-## Cassa: il denaro realmente disponibile
+## Cassa e cash flow: denaro disponibile e movimento del denaro
 
-La **cassa** è la liquidità effettivamente disponibile o generata dai flussi reali di denaro.
+La **cassa** è la liquidità effettivamente disponibile.
 
-Il **cash flow** è il movimento delle entrate e delle uscite in un periodo.
+Il **cash flow** è il movimento del denaro in entrata e in uscita in un periodo.
 
 Una fattura emessa non è automaticamente cassa.
 
 Un contratto firmato non è automaticamente cassa.
 
-Un cliente che “pagherà fra 90 giorni” non ti permette necessariamente di pagare oggi stipendi, advertising e fornitori.
+Un cliente che “pagherà fra 90 giorni” non ti permette necessariamente di pagare oggi stipendi, pubblicità e fornitori.
 
 Questa distinzione diventerà fondamentale quando parleremo di crescita.
 
@@ -438,21 +438,21 @@ Il **CAC**, Customer Acquisition Cost, è il costo completo necessario per acqui
 
 L'errore più comune è chiamare CAC il costo della pubblicità.
 
-Se spendi 5.000 euro in advertising e ottieni 100 lead, hai un costo medio di 50 euro per lead.
+Se spendi 5.000 euro in pubblicità e ottieni 100 contatti, hai un costo medio di 50 euro per contatto.
 
 Non hai ancora calcolato il costo per cliente.
 
 Per arrivare alla vendita possono servire:
 
-- advertising;
+- pubblicità;
 - produzione di contenuti o materiali;
-- landing page e strumenti;
-- email e follow-up;
+- pagine e strumenti di risposta;
+- email e ricontatti;
 - tempo del commerciale;
-- appointment setting;
-- demo o consulenze;
+- fissazione degli appuntamenti;
+- dimostrazioni o consulenze;
 - software;
-- eventuale assistenza pre-vendita;
+- eventuale assistenza prima della vendita;
 - altre risorse direttamente necessarie al percorso.
 
 Il perimetro dipende dal business, ma il principio è stabile:
@@ -463,7 +463,7 @@ Il perimetro dipende dal business, ma il principio è stabile:
 
 Supponiamo:
 
-- 4.000 € di media;
+- 4.000 € di spesa pubblicitaria;
 - 1.000 € di costi direttamente attribuibili a strumenti/materiali;
 - 3.000 € di costo commerciale allocato al periodo;
 - 40 nuovi clienti.
@@ -491,10 +491,10 @@ Un LTV credibile dovrebbe quindi tenere conto, progressivamente, di:
 - frequenza;
 - durata della relazione;
 - costi di servizio;
-- eventuali costi di retention;
+- eventuali costi necessari a mantenere la relazione;
 - probabilità che gli acquisti futuri si realizzino davvero.
 
-Nei capitoli avanzati faremo questa analisi in modo rigoroso.
+Nei capitoli avanzati faremo questa analisi in modo più rigoroso.
 
 Qui ci basta capire una cosa: **il valore del cliente non finisce necessariamente con il primo ordine**.
 
@@ -533,7 +533,7 @@ Per questo **LTV senza payback può incoraggiare una crescita che la cassa non r
 
 ## Cost-to-serve: quanto costa servire davvero quel cliente
 
-Il **cost-to-serve** è il costo necessario per servire concretamente un cliente o segmento.
+Il **cost-to-serve** è il costo necessario per servire concretamente un cliente o un gruppo di clienti.
 
 Può comprendere:
 
@@ -548,15 +548,15 @@ Può comprendere:
 - eccezioni;
 - coordinamento extra.
 
-Molti costi non compaiono immediatamente nel prezzo del prodotto, ma consumano comunque capacità.
+Molti costi non compaiono immediatamente nel prezzo del prodotto, ma consumano comunque risorse.
 
 Questo crea un fenomeno importante: il cliente che compra di più non è sempre il cliente migliore.
 
-Un segmento con fatturato leggermente inferiore ma processo standard, pagamento puntuale e pochi problemi può valere più di un segmento apparentemente “grande” che assorbe continuamente risorse invisibili.
+Un gruppo con fatturato leggermente inferiore ma processo standard, pagamento puntuale e pochi problemi può valere più di un gruppo apparentemente “grande” che assorbe continuamente risorse invisibili.
 
 ## Break-even: il punto in cui smetti di perdere
 
-Il **break-even** è il punto in cui il valore economico generato è sufficiente a coprire i costi considerati nell'analisi.
+Il **break-even** è il punto in cui ricavi o margine sono sufficienti a coprire i costi considerati nell'analisi.
 
 Anche qui il perimetro conta.
 
@@ -598,8 +598,8 @@ Può essere limitata da:
 - tecnici;
 - magazzino;
 - assistenza;
-- capacità di onboarding;
-- velocità di approvazione del fondatore.
+- capacità di far partire correttamente i nuovi clienti;
+- velocità con cui il fondatore approva decisioni.
 
 La capacità è economica perché un aumento della domanda può modificare:
 
@@ -626,9 +626,9 @@ Se ne manca uno, la decisione può risultare distorta.
 
 ### Caso didattico: stessi ricavi, clienti diversi
 
-Consideriamo due segmenti, A e B. I numeri sono puramente illustrativi.
+Consideriamo due gruppi di clienti, A e B. I numeri sono puramente illustrativi.
 
-| Voce | Segmento A | Segmento B |
+| Voce | Gruppo A | Gruppo B |
 |---|---:|---:|
 | Ricavo medio primo acquisto | 1.000 € | 1.000 € |
 | Costi variabili di erogazione | 300 € | 550 € |
@@ -639,11 +639,11 @@ Consideriamo due segmenti, A e B. I numeri sono puramente illustrativi.
 | Tempo medio di incasso | immediato | 60 giorni |
 | Ore operative richieste | 2 | 5 |
 
-Guardando solo il CAC, il Segmento B sembra migliore.
+Guardando solo il CAC, il Gruppo B sembra migliore.
 
 Guardando il fatturato, sono identici.
 
-Guardando margine, cassa e capacità, il Segmento A appare molto più interessante.
+Guardando margine, cassa e capacità, il Gruppo A appare molto più interessante.
 
 Non stiamo ancora dicendo che A debba essere scelto. Mancano LTV, probabilità di riacquisto, qualità del risultato, dimensione del mercato e altri elementi.
 
@@ -653,7 +653,7 @@ Ma abbiamo già demolito una scorciatoia: **il cliente meno costoso da acquisire
 
 Prima di prendere una decisione commerciale significativa, prova a rispondere:
 
-1. **Quanto entra?** — ricavo/incasso.
+1. **Quanto entra?** — ricavo e denaro incassato.
 2. **Quanto margine lascia?** — dopo i costi pertinenti.
 3. **Quanto costa acquisire e servire il cliente?**
 4. **Quando rientra il denaro?** — payback e tempi di incasso.
@@ -674,7 +674,7 @@ L'ignoranza esplicita può essere trasformata in un piano di misurazione. Una fa
 
 Quando qualcosa non funziona, la mente cerca una spiegazione rapida.
 
-Pochi clienti? Servono più ads.
+Pochi clienti? Serve più pubblicità.
 
 Poche vendite? Il venditore non chiude.
 
@@ -682,7 +682,7 @@ Troppe richieste di sconto? Il prezzo è alto.
 
 Poco traffico? Serve un nuovo canale.
 
-Clienti che non tornano? Serve una campagna di riattivazione.
+Clienti che non tornano? Serve ricontattarli di più.
 
 Queste frasi possono essere vere. Il problema è che vengono spesso trattate come diagnosi quando sono soltanto ipotesi.
 
@@ -694,7 +694,7 @@ Una **ipotesi** è una spiegazione possibile che deve ancora essere verificata.
 
 Se confondi le due, inizi a costruire soluzioni intorno a una supposizione.
 
-## Outcome atteso e outcome osservato
+## Risultato atteso e risultato osservato
 
 La diagnosi parte da una differenza concreta fra ciò che volevi ottenere e ciò che stai ottenendo.
 
@@ -704,7 +704,7 @@ Non:
 
 Ma:
 
-> Volevamo acquisire 40 nuovi clienti profittevoli al mese con un CAC massimo sostenibile di X; ne stiamo acquisendo 18.
+> Volevamo acquisire 40 nuovi clienti profittevoli al mese con un costo massimo sostenibile di X; ne stiamo acquisendo 18.
 
 Oppure:
 
@@ -717,28 +717,28 @@ Oppure:
 Questa formulazione fa due cose:
 
 1. costringe a definire il risultato desiderato;
-2. crea una metrica osservabile.
+2. crea una misura osservabile.
 
-Finché il problema resta una sensazione — “vendiamo poco”, “il funnel è debole”, “il team non gira” — qualsiasi soluzione può sembrare ragionevole.
+Finché il problema resta una sensazione — “vendiamo poco”, “il percorso commerciale è debole”, “il team non gira” — qualsiasi soluzione può sembrare ragionevole.
 
 ## Localizzare il punto in cui appare il problema
 
-Dopo aver definito l'outcome, chiedi:
+Dopo aver definito il risultato, chiedi:
 
 > In quale parte del sistema vedo per la prima volta il risultato anomalo?
 
 Può essere:
 
-- mercato/cliente;
-- posizionamento;
-- offerta;
-- domanda/canale;
+- mercato e tipo di cliente;
+- ragione di scelta;
+- proposta commerciale;
+- generazione della domanda;
 - acquisizione;
 - vendita;
 - esperienza;
-- retention;
-- economics/cassa;
-- capacità/organizzazione.
+- continuità della relazione;
+- numeri e cassa;
+- capacità e organizzazione.
 
 Questa è una **localizzazione**, non ancora una diagnosi.
 
@@ -746,12 +746,12 @@ Se il tasso di chiusura è basso, il problema appare nella vendita.
 
 Ma la causa potrebbe essere:
 
-- lead sbagliate;
+- contatti poco appropriati;
 - aspettative create da una campagna;
-- scarsa pre-educazione;
-- offerta debole;
-- prezzo non premotivato;
-- proof insufficiente;
+- preparazione informativa insufficiente prima della conversazione;
+- proposta debole;
+- prezzo non spiegato nel contesto giusto;
+- evidenza insufficiente a rendere credibile la promessa;
 - processo commerciale mediocre.
 
 Il luogo in cui il problema diventa visibile non coincide necessariamente con il luogo in cui nasce.
@@ -764,9 +764,9 @@ Se il sintomo è a valle, controlla almeno un livello a monte.
 
 Esempi:
 
-- conversione della landing bassa → controlla traffico, target, promessa e offerta prima di discutere il colore del bottone;
-- vendite basse → controlla qualità delle opportunità, prequalifica, offerta e proof prima di concludere che manca una “tecnica di chiusura”;
-- churn alto → controlla onboarding, aspettative e qualità dell'esperienza prima di costruire una loyalty campaign;
+- una pagina converte poco → controlla qualità del traffico, tipo di cliente, promessa e proposta prima di discutere dettagli grafici;
+- vendite basse → controlla qualità delle opportunità, selezione iniziale, proposta ed evidenza prima di concludere che manca una “tecnica di chiusura”;
+- molti clienti abbandonano → controlla avvio, aspettative e qualità dell'esperienza prima di costruire una campagna per trattenerli;
 - cassa debole → controlla margine, tempi di incasso, payback e crescita dei costi prima di concludere che “serve più fatturato”.
 
 Questa abitudine riduce drasticamente il rischio di ottimizzare il sintomo.
@@ -789,17 +789,17 @@ Il punto in cui il problema diventa visibile.
 
 ### Esempio
 
-Un'azienda possiede un'offerta poco differenziata.
+Un'azienda possiede una proposta poco differenziata.
 
 Conseguenze:
 
-- molti prospect confrontano soprattutto il prezzo;
+- molti potenziali clienti confrontano soprattutto il prezzo;
 - il venditore concede sconti;
 - il margine scende.
 
-Poi l'azienda aumenta molto il budget advertising.
+Poi l'azienda aumenta molto il budget pubblicitario.
 
-La pubblicità non ha creato la debolezza dell'offerta. L'ha amplificata.
+La pubblicità non ha creato la debolezza della proposta. L'ha amplificata.
 
 Lo sconto è un comportamento a valle.
 
@@ -815,8 +815,8 @@ L'immagine è utile perché un sistema può avere molti difetti, ma non tutti ha
 
 Immagina di avere:
 
-- una landing migliorabile;
-- un CRM disordinato;
+- una pagina web migliorabile;
+- un software commerciale disordinato;
 - un venditore mediocre;
 - margine insufficiente;
 - una capacità produttiva già satura.
@@ -836,10 +836,10 @@ Quando il problema è “ci servono più clienti” o “ci servono ricavi”, p
 Per esempio:
 
 - clienti attivi che potrebbero avere un bisogno successivo reale;
-- clienti soddisfatti che potrebbero generare referral;
+- clienti soddisfatti che potrebbero presentarti ad altre persone appropriate;
 - clienti inattivi che hanno ancora un bisogno coerente;
-- lead già pagate ma non convertite;
-- opportunità o preventivi rimasti senza follow-up.
+- contatti già acquisiti ma non convertiti;
+- opportunità o preventivi rimasti senza ricontatto.
 
 Non è una regola assoluta per cui la nuova acquisizione sia sempre l'ultima cosa da fare.
 
@@ -853,12 +853,12 @@ Una diagnosi migliora quando costringi la tua spiegazione a competere con un'alt
 
 Invece di dire:
 
-> Le lead sono scadenti.
+> I contatti che arrivano sono scadenti.
 
 Scrivi:
 
 - **Ipotesi A:** il canale porta persone poco appropriate.
-- **Ipotesi B:** le persone sono appropriate, ma promessa e pre-educazione producono aspettative sbagliate.
+- **Ipotesi B:** le persone sono appropriate, ma la promessa e ciò che ricevono prima della conversazione commerciale producono aspettative sbagliate.
 
 Poi chiedi:
 
@@ -873,22 +873,22 @@ Potresti confrontare:
 - comportamento nel percorso;
 - vendite finali.
 
-Questo semplice passaggio riduce il confirmation bias. Non stai più cercando prove a favore della tua prima idea. Stai progettando un modo per discriminare fra spiegazioni concorrenti.
+Questo semplice passaggio riduce la tendenza a cercare soltanto conferme della propria prima idea. Non stai più difendendo una spiegazione. Stai progettando un modo per discriminare fra spiegazioni concorrenti.
 
 ## Tre micro-diagnosi
 
-### Caso 1 — Pochi lead
+### Caso 1 — Pochi contatti commerciali
 
-Sintomo: il numero di lead è inferiore al target.
+Sintomo: il numero di richieste è inferiore al livello desiderato.
 
 Spiegazioni possibili:
 
 - domanda attiva insufficiente;
-- target troppo piccolo;
+- pubblico raggiungibile troppo piccolo;
 - canale sbagliato;
 - proposta poco rilevante;
-- creatività debole;
-- tracking incompleto.
+- messaggio pubblicitario debole;
+- misurazione incompleta.
 
 Errore: comprare immediatamente un altro canale.
 
@@ -896,20 +896,20 @@ Prima domanda: **qual è la prima condizione a monte che non regge?**
 
 ### Caso 2 — Molti appuntamenti, poche vendite
 
-Sintomo: show rate buono, close rate basso.
+Sintomo: molte persone si presentano agli appuntamenti, poche comprano.
 
 Spiegazioni possibili:
 
-- prequalifica debole;
+- selezione iniziale debole;
 - decisore assente;
 - aspettativa di prezzo errata;
 - differenza poco credibile;
 - diagnosi commerciale mediocre;
-- offerta inadatta.
+- proposta inadatta.
 
 Errore: concludere “serve una tecnica di chiusura”.
 
-Prima domanda: **dove si rompe la progressione di certezza e fit?**
+Prima domanda: **dove si rompe la progressione verso una decisione?**
 
 ### Caso 3 — Fatturato cresce, cassa scende
 
@@ -934,9 +934,9 @@ Prima domanda: **quale parte della crescita sta assorbendo liquidità?**
 
 Quando affronti un problema, usa questa sequenza:
 
-1. **Outcome economico:** che cosa doveva succedere?
+1. **Risultato economico:** che cosa doveva succedere?
 2. **Dato osservato:** che cosa sta succedendo?
-3. **Metrica:** come misuriamo la differenza?
+3. **Misura:** come quantifichiamo la differenza?
 4. **Localizzazione:** dove compare il sintomo?
 5. **Controllo a monte:** quale prerequisito potrebbe spiegarlo?
 6. **Causa / amplificatore / sintomo:** che ruolo ha ciascun elemento?
@@ -960,7 +960,7 @@ Nel linguaggio aziendale la parola test viene usata con grande leggerezza.
 
 > Testiamo un prezzo.
 
-> Facciamo un nuovo funnel.
+> Costruiamo un nuovo percorso commerciale.
 
 > Vediamo cosa succede.
 
@@ -989,7 +989,7 @@ Se vuoi ridurre il CAC, devi sapere come lo stai calcolando oggi.
 
 Se vuoi aumentare il margine, devi sapere quale margine stai misurando e su quale perimetro.
 
-Se vuoi ridurre il tempo di onboarding, serve una misura attuale.
+Se vuoi ridurre il tempo necessario perché un nuovo cliente inizi correttamente, serve una misura attuale.
 
 La baseline non deve essere perfetta. Deve essere abbastanza coerente da permettere un confronto utile.
 
@@ -1003,7 +1003,7 @@ Una buona **ipotesi** non è:
 
 È qualcosa come:
 
-> Se manteniamo target, offerta e landing invariati e cambiamo l'apertura dell'annuncio per rendere più evidente il problema X, ci aspettiamo un aumento delle risposte qualificate perché le interviste mostrano che X è un trigger più saliente del beneficio Y.
+> Se manteniamo pubblico, proposta e pagina invariati e cambiamo l'apertura dell'annuncio per rendere più evidente il problema X, ci aspettiamo un aumento delle risposte qualificate perché le interviste mostrano che X diventa urgente più spesso del beneficio Y.
 
 La formulazione contiene:
 
@@ -1022,15 +1022,15 @@ Un **KPI**, Key Performance Indicator, è una misura utilizzata per valutare un 
 
 Non tutti i numeri sono KPI.
 
-Una pagina può avere cento metriche. La maggior parte non dovrebbe guidare la decisione.
+Una pagina di analisi può avere cento metriche. La maggior parte non dovrebbe guidare la decisione.
 
-Se stai testando una creatività per generare opportunità commerciali, potresti osservare:
+Se stai testando una pubblicità per generare opportunità commerciali, potresti osservare:
 
-- click-through rate;
-- costo per click;
-- lead rate;
-- costo per lead;
-- qualità delle lead;
+- quante persone reagiscono;
+- quanto costa generare una visita;
+- quante lasciano i propri dati;
+- quanto costa ottenere un contatto;
+- qualità dei contatti;
 - appuntamenti;
 - vendite;
 - CAC;
@@ -1057,13 +1057,13 @@ Supponiamo che tu voglia capire se una nuova promessa migliora la conversione.
 
 Se contemporaneamente cambi:
 
-- target;
+- pubblico;
 - canale;
 - prezzo;
-- landing;
-- headline;
-- proof;
-- CTA;
+- pagina;
+- apertura del messaggio;
+- evidenza usata per rendere credibile la promessa;
+- azione richiesta;
 
 potresti ottenere un risultato migliore, ma non saprai quale elemento lo abbia prodotto.
 
@@ -1077,9 +1077,9 @@ Vuoi capire quale leva produce l'effetto.
 
 In questo caso riduci il numero di variabili cambiate.
 
-### Obiettivo 2 — Trovare rapidamente un nuovo winner
+### Obiettivo 2 — Trovare rapidamente una combinazione migliore
 
-Vuoi trovare una combinazione che funzioni meglio, anche se non saprai con precisione quale elemento sia responsabile.
+Vuoi trovare una configurazione che funzioni meglio, anche se non saprai con precisione quale elemento sia responsabile.
 
 Puoi cambiare più cose insieme, accettando un livello inferiore di apprendimento causale.
 
@@ -1112,7 +1112,7 @@ Non esiste una percentuale universale.
 
 ## Quanto deve durare un test?
 
-Non esiste una risposta generale del tipo “sette giorni” o “cento lead”.
+Non esiste una risposta generale del tipo “sette giorni” o “cento contatti”.
 
 La quantità di evidenza utile dipende da:
 
@@ -1124,11 +1124,11 @@ La quantità di evidenza utile dipende da:
 - durata del ciclo commerciale;
 - frequenza dell'evento osservato.
 
-Un test di una headline su un e-commerce ad alto traffico può produrre dati rapidamente.
+Un test su una pagina ad alto traffico può produrre dati rapidamente.
 
-Un test di pricing su un servizio B2B con dieci trattative al mese richiede un disegno diverso.
+Un test di prezzo su un servizio B2B con dieci trattative al mese richiede un disegno diverso.
 
-Un nuovo processo di onboarding può richiedere settimane o mesi prima di mostrare churn e retention.
+Un nuovo processo di avvio del cliente può richiedere settimane o mesi prima di mostrare l'effetto sull'abbandono e sulla continuità.
 
 Quindi la domanda non è:
 
@@ -1142,7 +1142,7 @@ Ma:
 
 Uno dei modi più semplici per manipolare se stessi è decidere il criterio dopo aver visto il risultato.
 
-Se i lead aumentano ma le vendite no, dici che il test ha “aumentato awareness”.
+Se i contatti aumentano ma le vendite no, dici che il test ha “aumentato la notorietà”.
 
 Se le vendite aumentano ma il margine cala, dici che “abbiamo guadagnato quota”.
 
@@ -1164,7 +1164,7 @@ Prima di iniziare, scrivi:
 
 Ipotesi:
 
-> Una nuova pagina ridurrà la frizione per prospect già consapevoli.
+> Una nuova pagina ridurrà la frizione per persone già consapevoli del problema e della soluzione.
 
 Criterio:
 
@@ -1172,27 +1172,27 @@ Criterio:
 - nessun peggioramento materiale della qualità delle opportunità;
 - CAC finale ancora entro il limite sostenibile.
 
-Se il form converte di più ma genera richieste molto peggiori, non hai necessariamente un winner.
+Se il modulo genera più richieste ma molto peggiori, non hai necessariamente una variante migliore.
 
-## Un winner non è eterno
+## Una variante vincente non è eterna
 
 Quando qualcosa funziona, nasce una tentazione curiosa: abbandonarlo per cercare subito qualcosa di più nuovo.
 
 L'innovazione non richiede di distruggere la memoria.
 
-Un winner è un asset.
+Una soluzione che ha già dimostrato di funzionare è un asset.
 
 Puoi:
 
-- continuare a sfruttarlo;
+- continuare a sfruttarla;
 - produrre variazioni;
-- aggiornarlo;
-- testare nuovi hook;
-- confrontarlo con idee esplorative.
+- aggiornarla;
+- testare nuove aperture;
+- confrontarla con idee esplorative.
 
 Finché continua a produrre risultati economicamente validi, non esiste premio per la novità fine a se stessa.
 
-Allo stesso tempo, un winner non è una legge eterna. Può saturarsi, perdere rilevanza, essere copiato o smettere di reggere economics e capacità.
+Allo stesso tempo, una variante vincente non è una legge eterna. Può saturarsi, perdere rilevanza, essere copiata o smettere di reggere numeri e capacità.
 
 Per questo il test è un processo continuo di apprendimento, non una cerimonia che certifica una volta per tutte una verità.
 
@@ -1203,7 +1203,7 @@ Una volta che un processo ha dimostrato di funzionare, allora ha senso trasforma
 - procedura;
 - script;
 - automazione;
-- training;
+- formazione;
 - KPI;
 - responsabilità;
 - software.
@@ -1218,7 +1218,7 @@ Non significa aspettare la certezza assoluta. In impresa non esiste.
 
 Significa che il livello di struttura e capitale deve essere proporzionato alla qualità dell'evidenza disponibile.
 
-## Il gate finale: economics e capacità
+## Il gate finale: numeri e capacità
 
 Anche un test che migliora la metrica scelta non merita automaticamente di essere scalato.
 
@@ -1267,7 +1267,7 @@ Quando mantengo, modifico o fermo?
 
 ### 7. Gate di scala
 
-Economics e capacità consentono di aumentare il volume?
+Margine, cassa, costo di acquisizione e capacità consentono di aumentare il volume?
 
 Se non riesci a compilare queste sette righe, probabilmente non stai ancora testando una decisione. Stai semplicemente provando qualcosa.
 
@@ -1287,7 +1287,7 @@ La quarta: **una decisione migliora quando viene trasformata in un'ipotesi che p
 
 Queste quattro regole cambiano il modo in cui userai tutto il resto del manuale.
 
-Quando arriveremo a mercato, posizionamento, offerta, acquisizione, vendita, retention o scala, non chiederemo semplicemente:
+Quando arriveremo a scelta del mercato, ragione di scelta, proposta commerciale, acquisizione, vendita, continuità della relazione o crescita, non chiederemo semplicemente:
 
 > Qual è la tecnica?
 
