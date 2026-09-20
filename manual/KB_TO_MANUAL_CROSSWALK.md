@@ -61,14 +61,14 @@ Non replica il source registry.
 | `01_mercato` | 5 | COMPLETE | `manual/crosswalk/01_mercato.md` |
 | `02_posizionamento` | 4 | COMPLETE | `manual/crosswalk/02_posizionamento.md` |
 | `03_offerta` | 4 | COMPLETE | `manual/crosswalk/03_offerta.md` |
-| `04_marketing` | 7 | NOT STARTED | — |
+| `04_marketing` | 7 | COMPLETE | `manual/crosswalk/04_marketing.md` |
 | `05_acquisizione` | 6 | NOT STARTED | — |
 | `06_vendita` | 5 | NOT STARTED | — |
 | `07_copy_comunicazione` | 5 | NOT STARTED | — |
 | `08_brand` | 6 | NOT STARTED | — |
 | `09_business` | 10 | NOT STARTED | — |
 | `10_casi_studio` | 3 | NOT STARTED | — |
-| **Totale** | **60** | **16/60 file covered** | **4/11 sezioni** |
+| **Totale** | **60** | **23/60 file covered** | **5/11 sezioni** |
 
 ## Unità create finora
 
@@ -76,7 +76,8 @@ Non replica il source registry.
 - `01_mercato`: MRC-001…MRC-053 — 53 unità;
 - `02_posizionamento`: POS-001…POS-057 — 57 unità;
 - `03_offerta`: OFF-001…OFF-071 — 71 unità;
-- totale first-pass: **241 unità semantiche** prima del dedup cross-section.
+- `04_marketing`: MKT-001…MKT-068 — 68 unità;
+- totale first-pass: **309 unità semantiche** prima del dedup cross-section.
 
 Il numero di unità non è una metrica di qualità né un obiettivo di crescita. Serve solo a garantire tracciabilità e coverage prima della compressione editoriale.
 
