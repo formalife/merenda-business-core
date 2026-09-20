@@ -2,9 +2,9 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. CURRENT KNOWN CORPUS EXHAUSTED; FINAL SEMANTIC AUDIT COMPLETED.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. CURRENT KNOWN CORPUS EXHAUSTED; FINAL SEMANTIC AUDIT COMPLETED. MANUAL PUBLISHING PROJECT ACTIVE.**
 
-Il progetto è ora il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
+Il progetto resta il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
 
 Nome canonico del progetto: **Merenda Business Core**.
 
@@ -18,12 +18,33 @@ Il checkpoint semantico di maturità è documentato in:
 
 `reviews/FINAL_SEMANTIC_AUDIT.md`
 
-La priorità non è più accumulare fonti. Il Layer 1 viene ora usato operativamente per costruire il **Layer 2 Formalife** tramite una ricostruzione zero-based.
+Il Layer 1 resta disponibile per la ricostruzione zero-based di Formalife. La **priorità operativa corrente richiesta dal founder** è però il progetto editoriale sotto `manual/`, che trasforma la KB canonica in un manuale teorico-operativo beginner-first senza modificare il ruolo canonico di `merenda/`.
 
-Contratto e protocollo:
+Contratto e protocollo Layer 1 / Layer 2:
 
 - `LAYER1_CONTRACT.md`
 - `FORMALIFE_REBUILD_PROTOCOL.md`
+
+## Progetto manuale attivo
+
+Publishing layer:
+
+`manual/`
+
+Control plane obbligatorio:
+
+- `manual/README.md`
+- `manual/ROADMAP.md`
+- `manual/STATUS.md`
+- `manual/MANUAL_CONTRACT.md`
+
+Stato corrente:
+
+**FASE 2 — SEMANTIC DECOMPOSITION E KB-TO-MANUAL CROSSWALK.**
+
+La Fase 1 ha censito e classificato 60/60 file sotto `merenda/` e ha registrato i gap editoriali iniziali.
+
+Il publishing layer non è dottrina canonica. `merenda/` resta l'unica sede canonica della dottrina.
 
 ## Contatori canonici — corpus YouTube storico
 
@@ -78,6 +99,7 @@ Non è obbligatorio archiviare integralmente materiale protetto quando basta un 
 ## Invarianti Layer 1
 
 - `merenda/` resta l'unico doctrine layer canonico del progetto;
+- `manual/` è publishing layer derivato e non prevale sulla dottrina canonica;
 - la KB è Merenda-centered ma può contenere estensioni assimilate **solo quando lo scope lo autorizza esplicitamente**;
 - la provenance reale non viene mai falsificata;
 - una fonte assimilata non viene attribuita a Frank soltanto perché è stata integrata nel doctrine layer;
@@ -92,7 +114,7 @@ Non è obbligatorio archiviare integralmente materiale protetto quando basta un 
 
 ## Modalità Layer 2
 
-Formalife verrà ricostruita secondo modalità **first meeting / zero-based reconstruction**.
+Formalife verrà ricostruita secondo modalità **first meeting / zero-based reconstruction** quando il lavoro operativo sul Layer 2 riprende.
 
 Principio:
 
@@ -134,7 +156,7 @@ Il validator certifica gli invarianti strutturali del corpus storico e del regis
 
 ## Gap di consolidamento ancora aperti
 
-I gap individuati dal checkpoint restano validi, ma non bloccano l'uso operativo della versione corrente:
+I gap individuati dal checkpoint restano validi:
 
 1. **P1 — Vendita end-to-end**
 2. **P1 — Casi studio**
@@ -143,19 +165,24 @@ I gap individuati dal checkpoint restano validi, ma non bloccano l'uso operativo
 5. **P2 — Voice of Customer / ricerca mercato**
 6. **P2 — Hardening Git**
 
-Non riaprire questi lavori soltanto per completezza. Possono essere affrontati quando diventano rilevanti durante l'uso reale del Layer 1 o quando saranno disponibili nuove fonti adeguate.
+Per il progetto manuale, i primi cinque sono ora esplicitamente tracciati in `manual/MANUAL_GAPS.md` e vengono affrontati prima come gap editoriali quando la conoscenza esiste già.
+
+Non riaprire acquisizione o modificare automaticamente `merenda/` soltanto per risolvere un problema di sintesi editoriale.
 
 ## Next Action
 
-**Costruire il Layer 2 Formalife come ricostruzione zero-based guidata dal Layer 1.**
+**Proseguire la Fase 2 del progetto manuale.**
 
-Sequenza:
+Sequenza immediata:
 
-1. creare repository separata per Formalife Layer 2;
-2. iniziare dalla Fase 0 di `FORMALIFE_REBUILD_PROTOCOL.md`;
-3. condurre il founder interview per blocchi decisionali;
-4. salvare nel Layer 2 fatti, decisioni, ipotesi, esperimenti e observed reality;
-5. interrogare il Layer 1 a ogni gate sostanziale.
+1. creare `manual/KB_TO_MANUAL_CROSSWALK.md` come coverage master;
+2. creare `manual/crosswalk/00_fondamenti.md`;
+3. estrarre unità di conoscenza, prerequisiti, dipendenze, caveat, procedure ed esempi;
+4. proseguire sezione per sezione fino a 60/60 file coperti;
+5. eseguire cross-section deduplication e dependency pass;
+6. verificare il gate della Fase 2 prima di progettare il curriculum finale.
+
+La ricostruzione Formalife Layer 2 rimane disponibile come filone separato, ma non è la priorità del task corrente.
 
 Riaprire l'acquisizione Layer 1 soltanto se:
 
