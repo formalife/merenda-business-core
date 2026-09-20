@@ -38,74 +38,66 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 ## Fase attiva — Fase 6 / Drafting
 
 ### Parte I — Capp. 1–4
-
-**Stato: READY / MINI-AUDIT PASS**
-
-Output: `manual/draft/part-01-fondamenti.md`.
-
-Copre marketing come sistema di valore, economic literacy minima, diagnosi causa/sintomo/bottleneck e metodo di test.
+**READY / MINI-AUDIT PASS** — `manual/draft/part-01-fondamenti.md`
 
 ### Parte II — Capp. 5–8
-
-**Stato: READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI**
-
-Output: `manual/draft/part-02-mercato.md`.
-
-Copre market gate, cliente desiderabile, VoC/Market Evidence Map e Decision Map del cliente.
+**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-02-mercato.md`
 
 ### Parte III — Capp. 9–13
+**READY / MINI-AUDIT PASS** — `manual/draft/part-03-posizionamento-offerta.md`
 
-**Stato: READY / MINI-AUDIT PASS**
+Pass: differenza reale prima del claim; focus ≠ mono-SKU; front-end ≠ sconto; premium/pricing trattati come economics condizionali.
 
-Output: `manual/draft/part-03-posizionamento-offerta.md`.
+### Parte IV — Capp. 14–19
+**READY / MINI-AUDIT PASS** — `manual/draft/part-04-domanda-acquisizione.md`
 
 Copre:
 
-- posizionamento come differenza reale e rilevante prima del claim;
-- focus/categoria e architettura multibrand senza imporre il mono-prodotto;
-- offerta come traduzione acquistabile di posizione, risultato, condizioni e rischio;
-- front-end come riduzione della barriera complessiva, non sinonimo di sconto;
-- back-end e seconda transazione come sistema economico coerente;
-- pricing come test su conversione × margine × CAC × cliente × capacità, non ideologia premium.
+- authority, credibility, trust e proof library;
+- domanda posseduta/attiva/latente, consapevolezza, intento e timing;
+- scelta canale per funzione/economics/capacity;
+- database/CRM come memoria di stati e progressive profiling;
+- funnel adattivo come macchina a stati con routing e fallback;
+- partnership transazionali/strutturali, endorsement, revenue share e controllo della relazione.
 
 Mini-audit:
 
-- coverage Capp. 9–13: PASS;
-- doctrine fidelity: PASS;
-- temporal precedence front-end 2025: PASS;
-- focus ≠ un solo SKU: PASS;
-- pricing non ordinalmente “più alto = migliore”: PASS;
-- economic grounding: PASS;
+- coverage Capp. 14–19: PASS;
+- authority ≠ proof: PASS;
+- owned demand non implica proprietà delle persone: PASS;
+- click/evento tecnico ≠ purchase intent: PASS;
+- process/state before CRM/AI: PASS;
+- funnel ≠ sequenza di pagine: PASS;
+- partnership economics/control/exit: PASS;
 - reader-facing agnosticism: PASS;
 - nessun P0/P1.
 
 ## Ordine rimanente
 
-1. Parte IV — Capp. 14–19 — **NEXT**;
-2. Parte V — Capp. 20–24;
-3. Parte VI — Capp. 25–29;
-4. Parte VII — Capp. 30–35;
-5. Parte VIII — Capp. 36–39.
+1. Parte V — Capp. 20–24 — **NEXT**;
+2. Parte VI — Capp. 25–29;
+3. Parte VII — Capp. 30–35;
+4. Parte VIII — Capp. 36–39.
 
 ## Next Action
 
-Draftare `manual/draft/part-04-domanda-acquisizione.md` da `chapter-specs/part-04-domanda-acquisizione.md` dopo freshness read dei nodi live di authority/proof, domanda/awareness, canali, database, funnel/pre-education e partnership.
+Draftare `manual/draft/part-05-copy-vendita.md` da `chapter-specs/part-05-copy-vendita.md` dopo freshness read dei nodi live di copy, handoff/prequalifica, vendita consulenziale, follow-up e sales management.
 
 Vincoli principali:
 
-- authority ≠ credibility ≠ trust;
-- proof proporzionata al claim;
-- domanda posseduta/attiva/latente e awareness prima del canale;
-- canale scelto per funzione/economics, non moda;
-- database come memoria di stati, non lista;
-- funnel come state machine, non sequenza fissa di pagine;
-- partnership valutate su asset reciproci, controllo ed economics.
+- copy = traduzione di strategia/VoC/positioning/offer/proof, non invenzione della differenza;
+- vendita parte dall'handoff e dalla prequalifica;
+- diagnosi prima della prescrizione;
+- objection handling come diagnosi delle certezze mancanti, non pressione;
+- follow-up con stato, motivo e next step;
+- script come coreografia diagnostica, non recita;
+- close rate letto con margine/fit/quality downstream.
 
 ## Gap aperti
 
 **Nessun gap P0/P1.**
 
-P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–III.
+P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–IV.
 
 ## Blocchi
 
