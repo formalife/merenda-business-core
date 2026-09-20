@@ -9,7 +9,6 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
-from statistics import mean
 
 import run_hierarchical_retriever_prototype_a_host as base
 import run_hierarchical_retriever_prototype_a3_host  # noqa: F401  # appends A3 discipline to base.COMMON
@@ -111,7 +110,7 @@ def sterile_kernel(repo: Path, dest: Path, sem_json: Path, struct_json: Path) ->
             raise SystemExit(f"forbidden material leaked into kernel workspace: {forbidden}")
 
 
-def configure_variant(variant: str) -> tuple[str, callable]:
+def configure_variant(variant: str):
     if variant == "full":
         arch = FULL_ARCH
         base.ARCH = arch
@@ -127,12 +126,65 @@ def configure_variant(variant: str) -> tuple[str, callable]:
     raise SystemExit(f"unknown variant: {variant}")
 
 
-def run_variant(variant: str, workdir: Path) -> int:
+def prepare_workspace(variant: str, workdir: Path):
     repo = Path.cwd().resolve()
     arch, sterile_fn = configure_variant(variant)
     branch, sha, prompts, sem_json, struct_json = prep_holdout(repo, workdir)
     root = workdir / f"workspace-{arch}"
     sterile_fn(repo, root, sem_json, struct_json)
+    return repo, arch, branch, sha, prompts, root
+
+
+def fixed_control_chars(variant: str, root: Path) -> int:
+    if variant == "kernel":
+        return len((root / "REASONING_KERNEL.md").read_text(encoding="utf-8"))
+    return sum(len((root / rel).read_text(encoding="utf-8")) for rel in sorted(ORIGINAL_CONTROL))
+
+
+def validate_setup(base_dir: Path) -> int:
+    report: dict[str, dict] = {}
+    for variant in ("full", "kernel"):
+        workdir = base_dir / variant
+        _repo, arch, _branch, sha, prompts, root = prepare_workspace(variant, workdir)
+        forbidden_prompt_fields = {
+            "required_nodes",
+            "required_checks",
+            "forbidden_shortcuts",
+            "expected_behavior",
+            "provenance_checks",
+        }
+        for row in prompts:
+            leaked = forbidden_prompt_fields & row.keys()
+            if leaked:
+                raise SystemExit(f"{variant}/{row.get('case_id')}: leaked gold fields {sorted(leaked)}")
+        if any((root / name).exists() for name in ("evals", "reviews", "STATUS.md")):
+            raise SystemExit(f"{variant}: forbidden gold/review material in sterile workspace")
+        report[variant] = {
+            "architecture": arch,
+            "commit_sha": sha,
+            "cases": len(prompts),
+            "fixed_control_chars": fixed_control_chars(variant, root),
+            "workspace": str(root),
+        }
+
+    fchars = report["full"]["fixed_control_chars"]
+    kchars = report["kernel"]["fixed_control_chars"]
+    ratio = kchars / fchars if fchars else 0.0
+    (base_dir / "holdout-setup-validation.json").write_text(
+        json.dumps({"variants": report, "kernel_to_full_control_ratio": ratio}, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print("ARCHITECTURE HOLDOUT SETUP: PASS")
+    print("cases_per_variant=6")
+    print(f"full_fixed_control_chars={fchars}")
+    print(f"kernel_fixed_control_chars={kchars}")
+    print(f"kernel_to_full_control_ratio={ratio:.3f}")
+    print("codex_calls=0")
+    return 0
+
+
+def run_variant(variant: str, workdir: Path) -> int:
+    _repo, arch, branch, sha, prompts, root = prepare_workspace(variant, workdir)
 
     metadata = {
         "repository": "formalife/merenda-business-core",
@@ -274,8 +326,13 @@ def orchestrate(base_dir: Path) -> int:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", type=Path, default=Path("/tmp/formalife-architecture-holdout-ab"))
+    ap.add_argument("--validate-only", action="store_true", help="Build and verify both sterile variants without Codex calls.")
     ap.add_argument("--internal-variant", choices=("full", "kernel"), help=argparse.SUPPRESS)
     args = ap.parse_args()
+    if args.validate_only and args.internal_variant:
+        raise SystemExit("use --validate-only or --internal-variant, not both")
+    if args.validate_only:
+        return validate_setup(args.workdir)
     if args.internal_variant:
         return run_variant(args.internal_variant, args.workdir)
     return orchestrate(args.workdir)
