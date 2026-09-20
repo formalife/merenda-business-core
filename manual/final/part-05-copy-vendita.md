@@ -17,7 +17,7 @@ Conosciamo:
 
 Ora possiamo tradurre questa materia in due forme di persuasione differenti.
 
-La prima è il **copy**: comunicazione che deve lavorare senza poter ascoltare in tempo reale la risposta del lettore.
+La prima è il **copy**: testo e argomentazione persuasiva che devono lavorare senza poter ascoltare in tempo reale la risposta del lettore.
 
 La seconda è la **vendita**: conversazione nella quale possiamo fare domande, approfondire, diagnosticare e adattare la prescrizione.
 
@@ -31,7 +31,7 @@ Un venditore che ignora tutto ciò che il cliente ha già letto o dichiarato spr
 
 La sequenza di questa parte è:
 
-**materia strategica → argomentazione → handoff → prequalifica → diagnosi → prescrizione → decisione → follow-up → miglioramento della rete.**
+**materia strategica → argomentazione → passaggio di contesto → prequalifica → diagnosi → prescrizione → decisione → ricontatto → miglioramento della rete.**
 
 ---
 
@@ -41,7 +41,7 @@ La sequenza di questa parte è:
 
 Quando una pagina non convince, la reazione tipica è cambiare:
 
-- headline;
+- titolo principale;
 - tono;
 - parole;
 - lunghezza;
@@ -101,7 +101,7 @@ Prima di scrivere devi sapere:
 - quali alternative considera;
 - che cosa la blocca.
 
-Questa è la funzione della Voice of Customer e della Decision Map costruite nella Parte II.
+Questa è la funzione della Voice of Customer e della Mappa della decisione costruite nella Parte II.
 
 Il linguaggio reale del cliente serve perché riduce la distanza fra ciò che l'impresa vuole dire e ciò che il mercato riconosce.
 
@@ -177,11 +177,11 @@ Un nome proprietario può rendere memorabile il meccanismo.
 
 Non può sostituirlo.
 
-## Prima del copy: il brief
+## Prima del copy: la scheda preparatoria
 
-Un **brief** è un documento sintetico che raccoglie le decisioni e la materia prima necessarie prima della scrittura.
+Una **scheda preparatoria**, spesso chiamata *brief*, raccoglie in forma sintetica le decisioni e la materia prima necessarie prima della scrittura.
 
-Il pre-copy brief dovrebbe contenere almeno dieci risposte.
+La scheda pre-scrittura dovrebbe contenere almeno dieci risposte.
 
 ### 1. Chi legge?
 
@@ -213,7 +213,7 @@ Casi, dati, testimonianze, processo, dimostrazioni.
 
 ### 8. Quali obiezioni sono prevedibili?
 
-Rischio, prezzo, fiducia, timing, cambiamento.
+Rischio, prezzo, fiducia, momento decisionale, cambiamento.
 
 ### 9. Qual è l'offerta?
 
@@ -223,7 +223,7 @@ Contenuto, condizioni, prezzo, garanzia.
 
 CTA e ciò che accade dopo.
 
-## Quando il brief rivela un problema a monte
+## Quando la scheda rivela un problema a monte
 
 Se alla voce “perché sceglierci?” scrivi:
 
@@ -233,13 +233,13 @@ non hai un problema di copy.
 
 Se non esistono prove per una promessa forte, non hai un problema di stile.
 
-Se il target è “tutti”, non hai un problema di headline.
+Se il target è “tutti”, non hai un problema di titolo.
 
 Se l'offerta cambia a ogni venditore, non hai un problema di pagina.
 
-Il brief serve anche a fermare la scrittura quando il materiale strategico non è sufficiente.
+La scheda serve anche a fermare la scrittura quando il materiale strategico non è sufficiente.
 
-## Il pitch parlato come strumento di estrazione
+## La spiegazione parlata come strumento di estrazione
 
 Un esercizio utile è spiegare l'offerta a voce come se avessi davanti un cliente ideale.
 
@@ -289,13 +289,13 @@ La prima funzione dell'apertura non è raccontare l'azienda.
 
 È confermare che il lettore è nel posto giusto.
 
-## Pre-copy Brief finale
+## Scheda pre-scrittura finale
 
 Prima di aprire il documento di scrittura, prova a compilare una pagina con:
 
 **Target → sorgente → stato → problema → alternative → differenza → meccanismo → prova → offerta → obiezioni → CTA.**
 
-Se alcuni campi sono vuoti, torna alla casa primaria del problema.
+Se alcuni campi sono vuoti, torna alla decisione a monte che manca.
 
 Non chiedere alla retorica di riempire un buco strategico.
 
@@ -303,9 +303,9 @@ Non chiedere alla retorica di riempire un buco strategico.
 
 # Capitolo 21 — Costruire un'argomentazione a risposta diretta
 
-## Una sales letter è una progressione, non una pila di tecniche
+## Una argomentazione di vendita è una progressione, non una pila di tecniche
 
-Una **sales letter** è una argomentazione di vendita scritta o comunque strutturata per portare una persona verso una risposta.
+Una **argomentazione di vendita**, talvolta chiamata *sales letter* quando è scritta in forma estesa, è una struttura pensata per portare una persona verso una risposta.
 
 Non deve essere necessariamente una lettera cartacea.
 
@@ -315,11 +315,11 @@ La stessa logica può vivere in:
 - video;
 - email lunga;
 - presentazione;
-- script audio.
+- copione audio.
 
 L'errore è assemblare tecniche:
 
-> headline forte + storia + testimonianze + scarsità + garanzia + CTA.
+> titolo forte + storia + testimonianze + scarsità + garanzia + CTA.
 
 Questi elementi non hanno valore perché compaiono.
 
@@ -344,9 +344,9 @@ Non ogni testo deve seguire esattamente questo ordine.
 
 Ma ogni salto logico deve essere intenzionale.
 
-## Headline e apertura appartengono alla stessa argomentazione
+## Titolo e apertura appartengono alla stessa argomentazione
 
-La **headline**, o titolo principale, deve dare al target una ragione per fermarsi.
+Il **titolo principale** deve dare al target una ragione per fermarsi.
 
 Può usare:
 
@@ -364,7 +364,7 @@ Deve però appartenere alla stessa promessa che il testo svilupperà.
 
 Il primo paragrafo usa il credito ottenuto dal titolo per continuare la conversazione.
 
-Una headline specifica seguita da un'apertura generica spreca il punto di massima attenzione.
+Un titolo specifico seguito da un'apertura generica spreca il punto di massima attenzione.
 
 ## Il confine della credibilità
 
@@ -386,11 +386,11 @@ Se una promessa vera sembra molto forte, aumenta spiegazione e prova.
 
 Non aumentare retorica.
 
-## Reason why: perché dovrei crederci?
+## La ragione concreta: perché dovrei crederci?
 
-Useremo **reason why** per indicare la ragione concreta che sostiene una affermazione o una condizione.
+Useremo **ragione concreta**, o *reason why*, per indicare il motivo fattuale o causale che sostiene una affermazione o una condizione.
 
-Dopo ogni claim importante chiedi:
+Dopo ogni affermazione importante chiedi:
 
 > Perché dovrebbe essere vero?
 
@@ -408,7 +408,7 @@ Perché?
 
 Perché?
 
-La reason why può derivare da:
+La ragione concreta può derivare da:
 
 - processo;
 - tecnologia;
@@ -420,17 +420,17 @@ La reason why può derivare da:
 - esperienza;
 - fatto verificabile.
 
-Una scusa inventata non è una reason why.
+Una scusa inventata non è una ragione concreta.
 
-## Claim → spiegazione → prova → implicazione
+## Affermazione → spiegazione → prova → implicazione
 
 Una struttura utile è:
 
-**claim → reason why/meccanismo → prova → implicazione per il cliente.**
+**affermazione → ragione concreta/meccanismo → prova → implicazione per il cliente.**
 
 Esempio:
 
-**Claim:** “Ogni sede avrà un unico responsabile di coordinamento.”
+**Affermazione:** “Ogni sede avrà un unico responsabile di coordinamento.”
 
 **Spiegazione:** “Il servizio assegna un responsabile centrale che riceve tutti i report tecnici e gestisce le priorità.”
 
@@ -457,7 +457,7 @@ Non serve inventare catastrofi.
 
 Più la conseguenza è concreta e proporzionata, più è credibile.
 
-## Storytelling con una funzione
+## Usare le storie con una funzione
 
 Una storia è utile quando svolge un lavoro.
 
@@ -486,16 +486,16 @@ Non servono trasformazioni hollywoodiane.
 
 Una traiettoria plausibile può essere più persuasiva di una storia estrema.
 
-## Future pacing
+## Proiettare il risultato nel futuro
 
-Il **future pacing** è l'uso di una descrizione del futuro per aiutare il lettore a immaginare le conseguenze concrete del risultato.
+La **proiezione nel futuro**, spesso chiamata *future pacing*, aiuta il lettore a immaginare le conseguenze concrete del risultato.
 
 Per esempio:
 
 - che cosa smetterà di fare?;
 - che cosa potrà fare più facilmente?;
 - come cambierà la giornata?;
-- quale rischio diminuirà?;
+- quale rischio diminuirà?
 
 Non significa promettere una vita perfetta.
 
@@ -517,7 +517,7 @@ La risposta può arrivare tramite:
 - prova;
 - caso;
 - garanzia;
-- FAQ;
+- domande frequenti;
 - confronto;
 - dimostrazione.
 
@@ -540,7 +540,7 @@ Subito dopo può comparire:
 - testimonianza;
 - dimostrazione.
 
-Non costringere il lettore a ricordare il claim per venti paragrafi prima di incontrare l'evidenza.
+Non costringere il lettore a ricordare l'affermazione per venti paragrafi prima di incontrare l'evidenza.
 
 ## Prezzo e offerta dentro l'argomentazione
 
@@ -599,7 +599,7 @@ La lunghezza dipende da:
 
 “Copy lungo sempre” e “nessuno legge testi lunghi” sono entrambi dogmi inutili.
 
-## Editing funzionale
+## Revisione funzionale
 
 Dopo aver scritto, passa ogni blocco attraverso questa domanda:
 
@@ -628,7 +628,7 @@ Anche il copy è una ipotesi.
 Puoi testare:
 
 - apertura;
-- headline;
+- titolo;
 - ordine;
 - prova;
 - CTA;
@@ -646,9 +646,9 @@ Ma la metrica finale non dovrebbe fermarsi al click quando puoi osservare:
 
 Una variante che genera più click e clienti peggiori non è automaticamente migliore.
 
-## Outline funzionale
+## Scaletta funzionale
 
-Prima della prosa, costruisci un outline con dieci domande:
+Prima della prosa, costruisci una scaletta con dieci domande:
 
 1. perché fermarsi?;
 2. perché continuare?;
@@ -661,11 +661,11 @@ Prima della prosa, costruisci un outline con dieci domande:
 9. che cosa ricevo, pago e rischio?;
 10. che cosa faccio ora?
 
-Quando l'outline regge, la scrittura diventa molto meno misteriosa.
+Quando la scaletta regge, la scrittura diventa molto meno misteriosa.
 
 ---
 
-# Capitolo 22 — Handoff, presa in carico e prequalifica
+# Capitolo 22 — Passaggio di contesto, presa in carico e prequalifica
 
 ## La vendita comincia prima della conversazione
 
@@ -687,17 +687,17 @@ Il cliente deve ricominciare da zero.
 
 L'impresa ha raccolto dati e non li ha trasferiti.
 
-Questo è un problema di **handoff**, cioè di passaggio di contesto fra una fase e la successiva.
+Questo è un problema di **passaggio di contesto**, o *handoff*, fra una fase e la successiva.
 
 La vendita non dovrebbe ricevere soltanto un nome e un numero.
 
 Dovrebbe ricevere ciò che è già noto e ciò che deve ancora essere verificato.
 
-## Inquiry e opportunità non sono la stessa cosa
+## Richiesta e opportunità non sono la stessa cosa
 
 Una **richiesta** indica che qualcuno ha fatto un passo.
 
-Una **opportunità qualificata** indica che esiste abbastanza fit, problema, capacità e timing da giustificare tempo commerciale più costoso.
+Una **opportunità qualificata** indica che esiste abbastanza compatibilità, problema, capacità e momento decisionale da giustificare tempo commerciale più costoso.
 
 Non ogni richiesta deve diventare una trattativa completa.
 
@@ -753,7 +753,7 @@ Chi può bloccare?
 
 Chi deve partecipare alla conversazione?
 
-### 4. Timing
+### 4. Momento decisionale
 
 Il bisogno è:
 
@@ -762,11 +762,11 @@ Il bisogno è:
 - entro mesi;
 - esplorativo?
 
-Lo stesso fit con timing diverso richiede una gestione diversa.
+La stessa compatibilità con un momento diverso richiede una gestione diversa.
 
-## Speed-to-lead
+## Tempo di presa in carico
 
-La **speed-to-lead** è il tempo fra una manifestazione di interesse e la presa in carico appropriata.
+Il **tempo di presa in carico**, spesso chiamato *speed-to-lead*, è il tempo fra una manifestazione di interesse e la presa in carico appropriata.
 
 Quando una persona ha appena chiesto:
 
@@ -806,7 +806,7 @@ Non significa vietare il testo.
 
 Significa non sostituire automaticamente una interazione diagnostica complessa con una catena infinita di messaggi asincroni.
 
-## Handoff Card
+## Scheda di passaggio alla vendita
 
 Per ogni opportunità passata alla vendita, trasferisci almeno:
 
@@ -846,17 +846,17 @@ Quale aspettativa è stata preparata?
 
 Chi è coinvolto?
 
-### Timing
+### Momento decisionale
 
 Quando deve decidere?
 
-### Next step
+### Prossimo passo
 
 Che cosa è stato promesso?
 
-Questa scheda evita che il cliente sia il middleware fra marketing e vendita.
+Questa scheda evita che il cliente debba fare da ponte manuale fra marketing e vendita.
 
-## Qualification Gate
+## Gate di qualificazione
 
 Prima di investire in una proposta complessa verifica:
 
@@ -864,7 +864,7 @@ Prima di investire in una proposta complessa verifica:
 2. il problema è specifico e rilevante?;
 3. l'ordine economico è compatibile?;
 4. abbiamo accesso al processo decisionale corretto?;
-5. il timing è reale?;
+5. il momento è reale?;
 6. esiste una ragione per proseguire adesso?
 
 Se la risposta è no, decidi se:
@@ -878,7 +878,7 @@ Il tempo commerciale non deve essere allocato per abitudine.
 
 ---
 
-# Capitolo 23 — Vendita consulenziale end-to-end
+# Capitolo 23 — Vendita consulenziale completa
 
 ## Il preventivo nudo rende facile il confronto sul prezzo
 
@@ -1161,19 +1161,21 @@ L'obiettivo non è intrappolare il cliente.
 
 È trasformare una etichetta vaga in informazione.
 
-## Looping: tornare alla certezza mancante
+## Tornare alla certezza mancante
 
-Useremo **looping** solo in senso diagnostico: tornare alla spiegazione o prova pertinente quando emerge una incertezza non risolta.
-
-Non significa ripetere pressione finché il cliente cede.
+Quando emerge una incertezza non risolta, torna alla spiegazione o alla prova pertinente.
 
 Schema:
 
 **obiezione → certezza mancante → prova/diagnosi pertinente → nuova verifica.**
 
+Questa tecnica viene talvolta chiamata *looping*, ma qui la usiamo solo in senso diagnostico.
+
+Non significa ripetere pressione finché il cliente cede.
+
 Se il cliente resta non convinto o non è appropriato, la vendita può terminare correttamente.
 
-## Convizione interna e linguaggio esterno
+## Convinzione interna e linguaggio esterno
 
 Un venditore deve credere abbastanza nella soluzione da poter prescrivere con chiarezza quando i fatti la sostengono.
 
@@ -1214,7 +1216,7 @@ La prequalifica e la diagnosi servono anche a evitarlo.
 
 Consideriamo una impresa B2B fittizia che vende un servizio di ottimizzazione dei flussi produttivi.
 
-### Handoff
+### Passaggio di contesto
 
 Il cliente arriva dopo un report sulla riduzione dei tempi di cambio linea.
 
@@ -1239,7 +1241,7 @@ Il commerciale verifica:
 
 Emergono:
 
-- tempi di setup molto variabili;
+- tempi di preparazione molto variabili;
 - procedure diverse per turno;
 - tentativo precedente di introdurre software senza standardizzare il processo.
 
@@ -1255,7 +1257,7 @@ Viene mostrato un caso con problema simile, senza presentare il risultato come g
 
 ### Proposta
 
-Il cliente riceve scope, prezzo, responsabilità e criterio di successo.
+Il cliente riceve perimetro, prezzo, responsabilità e criterio di successo.
 
 ### Decisione
 
@@ -1273,7 +1275,7 @@ La vendita viene fermata oppure ridisegnata.
 
 Questa è una vittoria del sistema commerciale, non una vendita persa.
 
-## Sequenza end-to-end
+## Sequenza completa
 
 La struttura completa è:
 
@@ -1288,7 +1290,7 @@ La struttura completa è:
 9. prova;
 10. proposta e prezzo;
 11. verifica soluzione-venditore-azienda;
-12. decisione o next step.
+12. decisione o prossimo passo.
 
 Non recitare dodici blocchi come un questionario.
 
@@ -1296,7 +1298,7 @@ Usali come mappa per non saltare i passaggi che rendono la decisione comprensibi
 
 ---
 
-# Capitolo 24 — Follow-up, recovery e sales management
+# Capitolo 24 — Ricontatto, recupero e gestione commerciale
 
 ## Il primo no non definisce sempre il futuro
 
@@ -1313,11 +1315,11 @@ Una persona può non comprare perché:
 
 Scrivere semplicemente “perso” nasconde informazione.
 
-Il follow-up parte dalla causa.
+Il ricontatto parte dalla causa.
 
 ## Che cos'è il follow-up
 
-Il **follow-up** è l'insieme delle azioni progettate per continuare una relazione dopo un contatto o una decisione non conclusiva.
+Il **follow-up**, cioè il ricontatto strutturato, è l'insieme delle azioni progettate per continuare una relazione dopo un contatto o una decisione non conclusiva.
 
 Non è:
 
@@ -1332,7 +1334,7 @@ Deve avere una ragione.
 
 Dopo una conversazione importante, sparire per settimane può disperdere attenzione.
 
-Quando il next step è vicino, il follow-up deve essere coerente con quel timing.
+Quando il prossimo passo è vicino, il ricontatto deve essere coerente con quel momento.
 
 In un ciclo lungo B2B, invece, il cliente può essere realmente bloccato da:
 
@@ -1348,7 +1350,7 @@ Il compito non è aumentare pressione.
 
 ## La ragione del ricontatto
 
-Ogni follow-up dovrebbe poter rispondere:
+Ogni ricontatto dovrebbe poter rispondere:
 
 > Perché lo stiamo contattando adesso?
 
@@ -1361,13 +1363,13 @@ Possibili ragioni:
 - condizione di rientro verificata;
 - rinnovo vicino;
 - nuovo dato;
-- next step già concordato.
+- prossimo passo già concordato.
 
 Il ricontatto senza ragione diventa rumore.
 
 ## Multicanale quando l'economia lo giustifica
 
-Il follow-up può usare:
+Il ricontatto può usare:
 
 - email;
 - telefono;
@@ -1381,9 +1383,9 @@ Non devi usarli tutti.
 
 Più alto è il valore potenziale, più può essere razionale investire in contatti costosi e personalizzati.
 
-## Lost reason
+## Ragione di perdita
 
-La **lost reason**, o ragione di perdita, descrive perché una opportunità non è diventata cliente.
+La **ragione di perdita** descrive perché una opportunità non è diventata cliente.
 
 Una categoria utile deve contenere evidenza.
 
@@ -1402,7 +1404,7 @@ Una buona registrazione contiene:
 - condizione di rientro;
 - eventuale data.
 
-## Pipeline
+## Pipeline commerciale
 
 La **pipeline commerciale** è l'insieme delle opportunità distribuite fra le fasi del processo di vendita.
 
@@ -1410,7 +1412,7 @@ Non basta sommare il valore potenziale.
 
 Devi osservare anche:
 
-- età nella fase;
+- tempo trascorso nella fase;
 - ultima attività;
 - prossimo passo;
 - data;
@@ -1418,7 +1420,7 @@ Devi osservare anche:
 
 Una opportunità può apparire “attiva” e essere morta da due mesi.
 
-Se non esiste un next step con data o una ragione documentata, il valore della pipeline può essere illusorio.
+Se non esiste un prossimo passo con data o una ragione documentata, il valore della pipeline può essere illusorio.
 
 ## Non-raggiunto e non-risponde non sono la stessa cosa
 
@@ -1460,20 +1462,20 @@ Capire uno script non significa saperlo eseguire.
 
 Serve pratica.
 
-Una forma utile è il **role-play**, cioè simulazione venditore-cliente.
+Una forma utile è la **simulazione venditore-cliente**, spesso chiamata *role-play*.
 
 Ciclo:
 
 1. simulazione;
 2. obiezione o scenario;
 3. esecuzione;
-4. feedback;
+4. riscontro;
 5. ripetizione;
 6. nuova misura sul campo.
 
 La formazione commerciale deve contenere comportamento, non solo teoria.
 
-## Learning dip
+## Calo iniziale di apprendimento
 
 Quando una persona abituata a improvvisare adotta un processo più rigoroso può peggiorare temporaneamente.
 
@@ -1483,7 +1485,7 @@ Sembra meno naturale.
 
 Il ritmo cala.
 
-Questo possibile calo iniziale, o **learning dip**, non prova automaticamente che il nuovo metodo sia peggiore.
+Questo possibile calo iniziale, talvolta chiamato *learning dip*, non prova automaticamente che il nuovo metodo sia peggiore.
 
 Ma non può nemmeno essere usato come scusa infinita.
 
@@ -1503,7 +1505,7 @@ Quando le regole applicabili lo consentono, l'impresa può migliorare la vendita
 - note;
 - tempi di risposta;
 - appuntamenti;
-- mistery shopping o affiancamento.
+- acquisti in incognito o affiancamento.
 
 Lo scopo è capire:
 
@@ -1512,15 +1514,15 @@ Lo scopo è capire:
 - tono;
 - qualità della diagnosi;
 - rispetto dell'offerta;
-- next step.
+- prossimo passo.
 
-Osservazione senza feedback non migliora il sistema.
+Osservazione senza riscontro non migliora il sistema.
 
 ## Il ciclo del manager
 
 Il responsabile commerciale deve trasformare evidenza in:
 
-**standard → osservazione → feedback → allenamento → nuova esecuzione → misura.**
+**standard → osservazione → riscontro → allenamento → nuova esecuzione → misura.**
 
 Questo è il sistema minimo di gestione.
 
@@ -1528,7 +1530,7 @@ Questo è il sistema minimo di gestione.
 
 Un venditore può chiudere molti contratti usando sconti eccessivi o accettando clienti inappropriati.
 
-Il close rate da solo non basta.
+Il tasso di chiusura da solo non basta.
 
 Osserva quando possibile:
 
@@ -1579,16 +1581,16 @@ Poi specializza quando:
 
 Non costruire un organigramma ideale prima che esista l'economia per sostenerlo.
 
-## Sales Operating Review
+## Audit commerciale periodico
 
-Una review periodica può contenere:
+Una revisione periodica può contenere:
 
 ### Pipeline
 
 - opportunità per fase;
-- aging;
+- tempo trascorso nella fase;
 - ultima attività;
-- next step.
+- prossimo passo.
 
 ### Conversione
 
@@ -1607,9 +1609,9 @@ Una review periodica può contenere:
 
 - aderenza al processo;
 - problemi ricorrenti;
-- training necessario.
+- formazione necessaria.
 
-### Feedback a monte
+### Riscontro a monte
 
 - quali messaggi generano aspettative sbagliate?;
 - quali obiezioni si ripetono?;
@@ -1630,7 +1632,7 @@ Serve materia strategica.
 
 ### Nel copy
 
-Le convinzioni vengono costruite con spiegazione, reason why, prova, offerta e CTA.
+Le convinzioni vengono costruite con spiegazione, ragione concreta, prova, offerta e CTA.
 
 ### Prima della vendita
 
@@ -1646,11 +1648,11 @@ Cerchiamo la certezza mancante invece di aumentare pressione.
 
 ### Dopo il no
 
-Classifichiamo, definiamo next step e manteniamo la relazione solo quando ha senso.
+Classifichiamo, definiamo il prossimo passo e manteniamo la relazione solo quando ha senso.
 
 ### Nella rete
 
-Standard, osservazione, pratica e misura rendono la performance meno dipendente dal talento individuale.
+Standard, osservazione, pratica e misura rendono il risultato meno dipendente dal talento individuale.
 
 A questo punto il cliente può comprare.
 
