@@ -2,15 +2,15 @@
 
 ## Stato generale
 
-**ACTIVE — FASE 6 / DRAFTING DEL MANUALE**
+**ACTIVE — FASE 7 / AUDIT GLOBALE DEL MANUALE**
 
-Le Fasi 0–5 sono concluse e auditate. Il drafting reader-facing è in corso sul branch `manual-drafting-2026-09-20`.
+Le Fasi 0–6 sono concluse. Il draft reader-facing completo è presente sul branch `manual-drafting-2026-09-20`: **8 parti / 39 capitoli**.
 
 ## Baseline e freshness
 
 Baseline dottrinale iniziale: `93f8eae978fdffb55c5623ae06603e5895b71e11` — 2026-09-20.
 
-Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere i nodi canonici pertinenti.
+Per audit e correzioni rileggere sempre la versione corrente del branch e i nodi canonici live quando emerge un dubbio dottrinale.
 
 ## Decisioni correnti
 
@@ -19,7 +19,7 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 - **D-003 CURRENT:** voce reader-facing agnostica, senza Frank/Merenda/KB/Layer 1.
 - **D-004 CURRENT:** provenance e temporal precedence preservate nel backend.
 - **D-005 CURRENT:** rewrite, not collage.
-- **D-006 SATISFIED:** drafting massivo autorizzato dopo PASS delle Fasi 1–5.
+- **D-006 SATISFIED:** drafting massivo completato dopo PASS delle Fasi 1–5.
 - **D-007 CURRENT:** 60/60 file canonici coperti.
 - **D-008 CURRENT:** VoC multi-fonte consolidata in `syntheses/voice-of-customer.md`.
 - **D-009 CURRENT:** front-end = riduzione della barriera, non sinonimo di low price.
@@ -34,77 +34,55 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 - **Fase 3 — DONE / PASS:** curriculum 8 parti / 39 capitoli; D-01…D-35 verificati.
 - **Fase 4 — DONE / PASS:** VoC, glossary, synthetic cases; G-001…G-008 risolti editorialmente.
 - **Fase 5 — DONE / PASS:** 39/39 chapter specs.
+- **Fase 6 — DONE / LOCAL PASS:** 39/39 capitoli draftati; tutte le otto parti hanno superato mini-audit locale senza finding P0/P1.
 
-## Fase attiva — Fase 6 / Drafting
+## Draft completo
 
-### Parte I — Capp. 1–4
-**READY / MINI-AUDIT PASS** — `manual/draft/part-01-fondamenti.md`
+1. Parte I — Capp. 1–4 — `manual/draft/part-01-fondamenti.md` — READY
+2. Parte II — Capp. 5–8 — `manual/draft/part-02-mercato.md` — READY
+3. Parte III — Capp. 9–13 — `manual/draft/part-03-posizionamento-offerta.md` — READY
+4. Parte IV — Capp. 14–19 — `manual/draft/part-04-domanda-acquisizione.md` — READY
+5. Parte V — Capp. 20–24 — `manual/draft/part-05-copy-vendita.md` — READY
+6. Parte VI — Capp. 25–29 — `manual/draft/part-06-lifecycle-brand.md` — READY
+7. Parte VII — Capp. 30–35 — `manual/draft/part-07-economics-organizzazione.md` — READY
+8. Parte VIII — Capp. 36–39 — `manual/draft/part-08-crescita-capstone.md` — READY
 
-### Parte II — Capp. 5–8
-**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-02-mercato.md`
+### Gate locali Part VII
 
-### Parte III — Capp. 9–13
-**READY / MINI-AUDIT PASS** — `manual/draft/part-03-posizionamento-offerta.md`
+PASS: LTV letto come margine/probabilità e non ricavo; payback separato dal cash-conversion timing; capacity su vincoli/picchi/costo opportunità; process-first before software; hiring after bottleneck/economics; delegation/transferability su KPI, decision rights e asset control.
 
-### Parte IV — Capp. 14–19
-**READY / MINI-AUDIT PASS** — `manual/draft/part-04-domanda-acquisizione.md`
+### Gate locali Part VIII
 
-### Parte V — Capp. 20–24
-**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-05-copy-vendita.md`
+PASS: prototipo economico prima della struttura; prevendita/manual delivery trasparenti; reinvestimento distinto dalla spesa; capitale esterno trattato insieme a governance/control; espansione subordinata alla prova del core; nuova geografia/categoria riapre market/positioning; Cap. 39 funziona come router diagnostico e include gli otto symptom routers previsti.
 
-### Parte VI — Capp. 25–29
-**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-06-lifecycle-brand.md`
+## Fase attiva — Fase 7 / Audit globale
 
-Copre:
+Audit richiesto su:
 
-- onboarding come transizione al first value, non semplice welcome;
-- customer success, customer effort, segnali di uso/frizione e feedback loop verso processo/prodotto;
-- durata/frequenza naturale prima di retention, churn e riattivazione;
-- distinzione fra retention preventiva, riattivazione, riconquista e uscita naturale;
-- seconda vendita e next-best-offer come ipotesi fondate sul bisogno reale;
-- referral, testimonianze e review dopo risultato verificato e con rischio reputazionale del promotore esplicito;
-- reputazione e crisi su stakeholder, pre-mortem, verifica, rimedio e correzione sistemica;
-- brand come accumulo di significato distinto, prova, esperienza, reputazione e ripetizione nel tempo;
-- audience/fanbase separate dalla customer base economica.
+- coverage 39/39 e rispetto delle chapter specs;
+- doctrine fidelity e temporal precedence;
+- beginner clarity e first-use definitions;
+- causalità e prerequisite order;
+- operational usability;
+- ridondanza e primary-home discipline;
+- casi, numeri, prove e caveat;
+- provenance/copyright e assenza di backend reader-facing;
+- terminologia, voce e inglesismi;
+- cross-reference fra capitoli/parti.
 
-Mini-audit:
+Output previsto dal roadmap: `manual/AUDIT.md`.
 
-- coverage Capp. 25–29: PASS;
-- onboarding → first value: PASS;
-- ticket/support → root-cause feedback: PASS;
-- retention ≠ keep forever: PASS;
-- natural exit ≠ pathological churn: PASS;
-- reactivation/win-back separated: PASS;
-- referral/proof after verified value: PASS;
-- reputation recovery requires operational remedy: PASS;
-- brand ≠ logo/notoriety/community-first: PASS;
-- reader-facing agnosticism: PASS;
-- nessun P0/P1.
+Gate: **nessun finding P0/P1 aperto**.
 
-## Ordine rimanente
+## Finding già noti da verificare globalmente
 
-1. Parte VII — Capp. 30–35 — **NEXT**;
-2. Parte VIII — Capp. 36–39.
+- **P2:** uniformare/italianizzare gli inglesismi non necessari (`advocacy`, nomi di alcuni canvas, economics/operations terminology dove esiste un equivalente chiaro).
+- **P2:** piccoli refusi e uniformità lessicale nelle Parti II, V, VI e VII.
+- **P2 candidate:** verificare nel Cap. 30 che la regola “una spesa è investimento solo se esiste ritorno causale plausibile” sia abbastanza esplicita come primary teaching point, non solo distribuita nei capitoli successivi.
 
 ## Next Action
 
-Draftare `manual/draft/part-07-economics-scala.md` da `chapter-specs/part-07-economics-scala.md` dopo freshness read dei nodi live su unit economics, cassa/capacità, controlli interni, processi/delega, persone e trasferibilità.
-
-Vincoli principali:
-
-- economics avanzati senza perdere il beginner-first;
-- LTV non usato come scusa per ignorare payback/cassa;
-- crescita subordinata a capacità e capitale;
-- processi costruiti sui workflow reali, non SOP decorative;
-- delega con decision rights e accountability;
-- persone/ruoli specializzati solo quando il collo di bottiglia e l'economia lo giustificano;
-- scalabilità e transferability separate dalla sola crescita di fatturato.
-
-## Gap aperti
-
-**Nessun gap P0/P1.**
-
-P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–VI, definire/italianizzare dove utile termini come `advocacy`, nomi dei canvas e correggere piccoli refusi locali.
+Eseguire Fase 7 sul manoscritto completo e scrivere `manual/AUDIT.md`; correggere eventuali P0/P1 sul draft prima di dichiarare PASS.
 
 ## Blocchi
 
@@ -112,6 +90,4 @@ Nessun blocco corrente.
 
 ## Handoff obbligatorio
 
-`ROADMAP.md` → `STATUS.md` → `MANUAL_CONTRACT.md` → `MANUAL_CURRICULUM.md` → `MANUAL_GAPS.md` → `BEGINNER_GLOSSARY.md` → chapter spec attiva → nodi canonici live → `PROVENANCE_MAP.md` se sensibile.
-
-Aggiornare questo file dopo ogni blocco di drafting.
+`ROADMAP.md` → `STATUS.md` → `MANUAL_CONTRACT.md` → `MANUAL_CURRICULUM.md` → `MANUAL_GAPS.md` → `BEGINNER_GLOSSARY.md` → chapter specs → draft corrente → nodi canonici live/provenance quando necessario.
