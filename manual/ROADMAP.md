@@ -31,13 +31,7 @@ Il progetto non deve:
 
 **Stato: DONE**
 
-Output:
-
-- `manual/README.md`;
-- `manual/ROADMAP.md`;
-- `manual/STATUS.md`;
-- `manual/MANUAL_CONTRACT.md`;
-- baseline iniziale del doctrine layer.
+Output: `manual/README.md`, `manual/ROADMAP.md`, `manual/STATUS.md`, `manual/MANUAL_CONTRACT.md` e baseline iniziale.
 
 Gate: il progetto può ripartire dal repository senza dipendere dalla chat.
 
@@ -47,12 +41,9 @@ Gate: il progetto può ripartire dal repository senza dipendere dalla chat.
 
 **Stato: DONE**
 
-Output:
+Output: `manual/CORPUS_INVENTORY.md`, `manual/MANUAL_GAPS.md` iniziale.
 
-- `manual/CORPUS_INVENTORY.md`;
-- `manual/MANUAL_GAPS.md` iniziale.
-
-Gate soddisfatto: **60/60 file** sotto `merenda/` censiti e classificati; corpus interpretativo/provenance separato.
+Gate: **60/60 file** sotto `merenda/` censiti e classificati.
 
 ---
 
@@ -60,23 +51,9 @@ Gate soddisfatto: **60/60 file** sotto `merenda/` censiti e classificati; corpus
 
 **Stato: DONE — PASS 2026-09-20**
 
-Output principali:
+Output principali: crosswalk modulari, `PRIMARY_HOME_MAP.md`, `DEPENDENCY_MAP.md`, `PROVENANCE_MAP.md`, `CASE_INVENTORY.md`, `PHASE2_AUDIT.md`.
 
-- `manual/KB_TO_MANUAL_CROSSWALK.md`;
-- `manual/crosswalk/root-routing.md`;
-- `manual/crosswalk/00_fondamenti.md` … `10_casi_studio.md`;
-- `manual/PRIMARY_HOME_MAP.md`;
-- `manual/DEPENDENCY_MAP.md`;
-- `manual/PROVENANCE_MAP.md`;
-- `manual/CASE_INVENTORY.md`;
-- `manual/PHASE2_AUDIT.md`.
-
-Esito:
-
-- **60/60 file covered**;
-- **709 unità semantiche first-pass**;
-- primary-home, dependency, provenance/temporal e case inventory pass completati;
-- nessun doctrinal gap bloccante.
+Esito: **60/60 file covered; 709 unità semantiche first-pass; nessun doctrinal gap bloccante.**
 
 ---
 
@@ -84,29 +61,9 @@ Esito:
 
 **Stato: DONE — PASS 2026-09-20**
 
-Output:
+Output: `MANUAL_CURRICULUM.md`, **8 parti / 39 capitoli**, prerequisite order, case placement, first-use terminology map, `PHASE3_AUDIT.md`.
 
-- `manual/MANUAL_CURRICULUM.md`;
-- **8 parti / 39 capitoli**;
-- prerequisite order;
-- case placement;
-- first-use terminology map;
-- `manual/PHASE3_AUDIT.md`.
-
-Decisioni strutturali principali:
-
-1. economics minimi al Cap. 2, economics avanzati ai Capp. 30–32;
-2. VoC prima di positioning e copy;
-3. positioning prima di offer/amplification;
-4. brand distribuito causalmente: proof prima della vendita, reputation/community dopo esperienza;
-5. funnel insegnato come state machine;
-6. vendita parte dall'handoff;
-7. lifecycle trattato come sistema unico;
-8. scale = economics + cash + capacity + process + people + governance;
-9. expansion riapre market e positioning;
-10. Cap. 39 ricompone il sistema come operating system diagnostico.
-
-Gate: curriculum beginner-first completo, D-01…D-35 verificati, G-006 risolto.
+Decisioni strutturali: economics minimi presto; VoC prima di positioning/copy; positioning prima di offer; brand distribuito causalmente; funnel come state machine; vendita dall'handoff; lifecycle unitario; scale subordinata a economics/cash/capacity/process/people; expansion riapre market/positioning.
 
 ---
 
@@ -114,19 +71,9 @@ Gate: curriculum beginner-first completo, D-01…D-35 verificati, G-006 risolto.
 
 **Stato: DONE — PASS 2026-09-20**
 
-Output:
+Output: VoC synthesis, sei casi sintetici, beginner glossary, gap register aggiornato, `PHASE4_AUDIT.md`.
 
-- `manual/syntheses/voice-of-customer.md`;
-- `manual/syntheses/synthetic-cases.md`;
-- `manual/BEGINNER_GLOSSARY.md`;
-- `manual/MANUAL_GAPS.md` aggiornato;
-- `manual/PHASE4_AUDIT.md`.
-
-Esito:
-
-- G-001…G-008 tutti `RESOLVED EDITORIALLY`;
-- nessun gap P0/P1/P2 bloccante;
-- nessuna modifica necessaria a `merenda/`.
+Esito: G-001…G-008 tutti `RESOLVED EDITORIALLY`; nessun gap P0/P1/P2 bloccante; nessuna modifica necessaria a `merenda/`.
 
 ---
 
@@ -134,26 +81,9 @@ Esito:
 
 **Stato: DONE — PASS 2026-09-20**
 
-Output:
+Output: otto file in `manual/chapter-specs/` + `manual/PHASE5_AUDIT.md`.
 
-- `manual/chapter-specs/README.md`;
-- `manual/chapter-specs/part-01-fondamenti.md`;
-- `manual/chapter-specs/part-02-mercato.md`;
-- `manual/chapter-specs/part-03-posizionamento-offerta.md`;
-- `manual/chapter-specs/part-04-domanda-acquisizione.md`;
-- `manual/chapter-specs/part-05-copy-vendita.md`;
-- `manual/chapter-specs/part-06-lifecycle-brand.md`;
-- `manual/chapter-specs/part-07-economics-organizzazione.md`;
-- `manual/chapter-specs/part-08-crescita-capstone.md`;
-- `manual/PHASE5_AUDIT.md`.
-
-Esito:
-
-- **39/39 capitoli con spec**;
-- prerequisiti, primary homes e first-use rispettati;
-- decision framework, metriche/evidenza, errori, casi e backend sources definiti;
-- nessun cluster primario senza casa;
-- nessun gap bloccante.
+Esito: **39/39 capitoli con spec**; prerequisiti, primary homes, first-use, metriche/evidenza, casi e backend sources verificati.
 
 ---
 
@@ -180,17 +110,17 @@ Riscrivere il sistema in voce autoriale unitaria, agnostica e reader-facing, seg
 
 ## Output
 
-`manual/draft/`, organizzato per le otto parti del curriculum.
+`manual/draft/`, organizzato per le otto parti.
 
 ## Regole
 
 - riscrittura originale, non collage;
 - niente riferimenti reader-facing a Frank, Merenda, KB o Layer 1;
-- definire i termini al first use;
+- termini definiti al first use;
 - una primary home per la teoria completa;
-- usare casi reali con caveat e casi sintetici come esplicitamente didattici;
-- non trasformare numeri/casi in benchmark universali;
-- verificare il doctrine backend prima di ogni blocco sostanziale.
+- casi reali con caveat, casi sintetici esplicitamente didattici;
+- numeri/casi non diventano benchmark universali;
+- nodi canonici live verificati prima di ogni blocco sostanziale.
 
 ## Gate
 
@@ -198,7 +128,7 @@ Tutti i 39 capitoli esistono in draft e rispettano spec, curriculum, coverage e 
 
 ## Ordine di drafting
 
-1. Parte I — Capp. 1–4;
+1. Parte I — Capp. 1–4 — **NEXT**;
 2. Parte II — Capp. 5–8;
 3. Parte III — Capp. 9–13;
 4. Parte IV — Capp. 14–19;
@@ -213,20 +143,9 @@ Tutti i 39 capitoli esistono in draft e rispettano spec, curriculum, coverage e 
 
 **Stato: NOT STARTED**
 
-Audit obbligatori:
+Audit: coverage, doctrine fidelity, beginner clarity, operational usability, redundancy, provenance/copyright, terminology/first-use, case/evidence discipline.
 
-- coverage;
-- doctrine fidelity;
-- beginner clarity;
-- operational usability;
-- redundancy;
-- provenance/copyright;
-- terminology/first-use;
-- case/evidence discipline.
-
-Output: `manual/AUDIT.md`.
-
-Gate: nessun finding P0/P1 aperto.
+Output: `manual/AUDIT.md`. Gate: nessun finding P0/P1 aperto.
 
 ---
 
@@ -234,15 +153,7 @@ Gate: nessun finding P0/P1 aperto.
 
 **Stato: NOT STARTED**
 
-Attività:
-
-- uniformare terminologia e voce;
-- consolidare cross-reference;
-- finalizzare glossario e indice analitico;
-- finalizzare esercizi/checklist;
-- finalizzare casi end-to-end;
-- rimuovere tracce del backend;
-- produrre master finale.
+Attività: uniformare terminologia/voce, consolidare cross-reference, finalizzare glossario/indice analitico/esercizi/casi, rimuovere tracce backend, produrre master finale.
 
 Output: `manual/final/`.
 
