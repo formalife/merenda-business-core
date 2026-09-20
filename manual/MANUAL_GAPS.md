@@ -14,123 +14,13 @@ Classificazioni:
 
 Regola: tentare prima la soluzione editoriale quando la conoscenza esiste già. Non modificare `merenda/` per risolvere problemi di sintesi.
 
-Audit di riferimento: `manual/PHASE2_AUDIT.md`.
-
 ---
 
 # Gap attivi
 
-## G-002 — Libreria casi didattici insufficiente
+**Nessun gap P1/P2 attivo che impedisca l'avvio delle chapter specs.**
 
-**Priorità: P1**  
-**Tipo: CASE GAP**  
-**Stato: OPEN — CLOSURE PLAN DEFINED**
-
-### Evidenza
-
-Il case inventory ha identificato casi reali utilizzabili — Il Muratore Bergamasco, Studio Di Caprio, Maccheroni, MotoArgento, Il Toro e vari micro-esempi — ma la copertura end-to-end resta debole per:
-
-- Voice of Customer;
-- pricing/economics;
-- vendita completa;
-- customer lifecycle;
-- brand accumulation;
-- founder independence/transferability.
-
-### Piano di chiusura
-
-`manual/CASE_INVENTORY.md` definisce 6 casi sintetici candidati. Devono essere esplicitamente didattici e non presentati come evidenza fattuale.
-
-### Condizione di chiusura
-
-Chapter specs e curriculum dispongono di almeno un esempio/caso adeguato per ogni blocco fondamentale.
-
----
-
-## G-005 — Voice of Customer / ricerca di mercato
-
-**Priorità: P2**  
-**Tipo: EDITORIAL GAP**  
-**Stato: IN SYNTHESIS — NO DOCTRINAL ESCALATION AFTER PHASE 2**
-
-### Evidenza consolidata
-
-La conoscenza necessaria è distribuita fra:
-
-- comportamento/economics clienti (`01_mercato`);
-- complaint mining e positioning perception (`02_posizionamento`);
-- query, intent, timing e inattività (`04_marketing`);
-- database, conversazioni, contesto d'uso e query indirette (`05_acquisizione`);
-- criteri decisionali, lost reasons e feedback vendita (`06_vendita`);
-- output linguistici necessari al copy (`07_copy_comunicazione`);
-- review, testimonial, reputazione e ragioni della scelta (`08_brand`).
-
-### Gap residuo
-
-Manca un'unica procedura beginner-safe per:
-
-1. definire la decisione che la ricerca deve informare;
-2. scegliere campioni/fonti;
-3. raccogliere comportamento, linguaggio e contesto;
-4. condurre interviste senza suggerire la risposta;
-5. distinguere fatto, interpretazione, frequenza, intensità e valore economico;
-6. triangolare fonti;
-7. trasformare pattern in target/problema/alternative/trigger/proof/message;
-8. validare la sintesi con comportamento e numeri.
-
-### Condizione di chiusura
-
-Creare e auditare una sintesi editoriale che copra questi passaggi senza introdurre nuova dottrina non supportata. Se non è possibile, solo allora escalare a doctrine review.
-
----
-
-## G-006 — Economics fondamentali collocati troppo tardi
-
-**Priorità: P1**  
-**Tipo: CURRICULUM GAP**  
-**Stato: CONFIRMED — DA RISOLVERE IN FASE 3**
-
-### Evidenza
-
-Market selection, customer quality, offer, pricing, channels, sales structure e scale usano già:
-
-- margine;
-- CAC;
-- LTV;
-- payback;
-- cost-to-serve;
-- break-even;
-- capacità;
-- timing della cassa.
-
-La casa specialistica completa resta `09_business`, ma il lettore non può incontrare queste idee per la prima volta a valle.
-
-### Decisione editoriale
-
-Il curriculum deve separare:
-
-1. **economic literacy minima all'inizio** — ricavi vs margine vs cassa, CAC, LTV, payback, cost-to-serve, capacità;
-2. **economics avanzati più avanti** — cohorts, cash conversion cycle, working capital, reserves, capital allocation, capacity economics e growth.
-
-### Condizione di chiusura
-
-`MANUAL_CURRICULUM.md` introduce e definisce gli economics minimi prima della selezione di mercato/cliente e impedisce gergo economico anticipato.
-
----
-
-## G-007 — Glossario e linguaggio per principianti
-
-**Priorità: P2**  
-**Tipo: EDITORIAL GAP**  
-**Stato: OPEN**
-
-Termini da governare almeno al first use:
-
-CAC, LTV, payback, contribution margin, cost-to-serve, RFM, front-end, back-end, upsell, cross-sell, risk reversal, direct response, awareness, intent, funnel, positioning, referral, sell-in, sell-through, working capital, cash conversion cycle.
-
-### Piano
-
-La Fase 3 deve associare ogni termine al primo capitolo in cui viene definito. La release finale includerà glossario, ma il glossario non deve essere una scusa per usare gergo non spiegato nel testo.
+Restano normali attività di finalizzazione — copy-edit del glossario, selezione definitiva dei casi e controllo chapter-by-chapter — ma non sono più gap strutturali della conoscenza o dell'architettura.
 
 ---
 
@@ -142,17 +32,34 @@ La Fase 3 deve associare ogni termine al primo capitolo in cui viene definito. L
 **Tipo: EDITORIAL GAP**  
 **Stato: RESOLVED EDITORIALLY — 2026-09-20**
 
-### Evidenza di chiusura
-
-`06_vendita` produce SAL-001…SAL-071 e una sequenza completa:
+Sequenza consolidata:
 
 **handoff/preparazione → prequalifica → presa in carico → diagnosi → criteri decisionali → prescrizione/prova → proposta/prezzo → verifica delle certezze → decisione → follow-up/no-sale classification → feedback/review.**
 
-Marketing, offer e proof restano prerequisiti, non parti da reinventare durante la call.
+Evidenza: `manual/crosswalk/06_vendita.md`; curriculum Capp. 22–24.
 
-### Vincolo residuo
+---
 
-La chapter spec dovrà preservare varianti self-service/simple sale e non trasformare lo script in formula universale.
+## G-002 — Libreria casi didattici insufficiente
+
+**Priorità: P1**  
+**Tipo: CASE GAP**  
+**Stato: RESOLVED EDITORIALLY — 2026-09-20**
+
+### Evidenza di chiusura
+
+`manual/CASE_INVENTORY.md` organizza i casi reali disponibili.
+
+`manual/syntheses/synthetic-cases.md` aggiunge sei casi esplicitamente fittizi e didattici per i blocchi prima scoperti:
+
+- SC-001 — VoC → target → positioning;
+- SC-002 — pricing/economics;
+- SC-003 — vendita end-to-end;
+- SC-004 — customer lifecycle;
+- SC-005 — founder dependence/transferability;
+- SC-006 — brand accumulation.
+
+I casi sintetici non vengono trattati come prova o benchmark.
 
 ---
 
@@ -162,17 +69,9 @@ La chapter spec dovrà preservare varianti self-service/simple sale e non trasfo
 **Tipo: PROVENANCE GAP / EDITORIAL INFRASTRUCTURE**  
 **Stato: RESOLVED EDITORIALLY — 2026-09-20**
 
-### Evidenza di chiusura
+Evidenza: `manual/PROVENANCE_MAP.md`.
 
-Creato `manual/PROVENANCE_MAP.md`, con:
-
-- regole primary/assimilated/synthesis;
-- temporal precedence;
-- cluster MAF/Bonechi;
-- cluster jAI/Jay Abraham-Michael Simmons-Max Bernstein;
-- sintesi editoriali da non retro-attribuire.
-
-La mappa è compatta e non replica il source registry.
+La mappa preserva source family, temporal precedence, contributi assimilati e sintesi editoriali senza replicare l'intero source registry.
 
 ---
 
@@ -182,15 +81,84 @@ La mappa è compatta e non replica il source registry.
 **Tipo: EDITORIAL GAP**  
 **Stato: RESOLVED EDITORIALLY — 2026-09-20**
 
-### Evidenza di chiusura
-
-`08_brand`, `PRIMARY_HOME_MAP.md` e `DEPENDENCY_MAP.md` supportano la sequenza:
+Sintesi:
 
 **posizione/significato → authority/credibility/proof → esperienza reale → reputazione → memoria → advocacy/community.**
 
-### Decisione didattica
+Nel curriculum la causalità è distribuita:
 
-Il brand non sarà necessariamente un unico blocco: authority/proof serve prima di acquisition/sales; reputation/community viene approfondita dopo delivery/customer success.
+- positioning → Capp. 9–10;
+- authority/proof → Cap. 14;
+- customer experience → Cap. 25;
+- referral/reviews → Cap. 27;
+- reputation → Cap. 28;
+- memory/community → Cap. 29.
+
+---
+
+## G-005 — Voice of Customer / ricerca di mercato
+
+**Priorità: P2**  
+**Tipo: EDITORIAL GAP**  
+**Stato: RESOLVED EDITORIALLY — 2026-09-20**
+
+### Evidenza di chiusura
+
+Creato `manual/syntheses/voice-of-customer.md`.
+
+La sintesi copre:
+
+1. decisione che la ricerca deve informare;
+2. evidence base pre-intervista;
+3. selezione dei gruppi da ascoltare;
+4. interviste ancorate a eventi e non suggerite;
+5. complaint mining;
+6. separazione evidenza/interpretazione;
+7. frequenza, intensità, valore economico e comportamento;
+8. triangolazione;
+9. Market Evidence Map;
+10. passaggio dalla sintesi al test comportamentale;
+11. minimum viable research per chi parte da zero.
+
+Non è emersa necessità di modificare il doctrine layer.
+
+---
+
+## G-006 — Economics fondamentali collocati troppo tardi
+
+**Priorità: P1**  
+**Tipo: CURRICULUM GAP**  
+**Stato: RESOLVED EDITORIALLY — 2026-09-20**
+
+### Evidenza di chiusura
+
+`manual/MANUAL_CURRICULUM.md` usa progressive disclosure:
+
+- Cap. 2 → ricavi vs margine vs cassa, CAC, LTV, payback, cost-to-serve, break-even, capacità;
+- Capp. 30–32 → unit economics avanzati, coorti, cash/working capital e capacity economics.
+
+Il lettore incontra quindi gli economics prima di mercato, cliente, offer, pricing e channel selection senza duplicare integralmente la sezione avanzata.
+
+---
+
+## G-007 — Glossario e linguaggio per principianti
+
+**Priorità: P2**  
+**Tipo: EDITORIAL GAP**  
+**Stato: RESOLVED EDITORIALLY — 2026-09-20**
+
+### Evidenza di chiusura
+
+`manual/BEGINNER_GLOSSARY.md` contiene:
+
+- termini beginner-critical;
+- definizione editoriale;
+- first-use chapter;
+- regole per acronimi, ambiguità e coerenza terminologica.
+
+`MANUAL_CURRICULUM.md` contiene inoltre la first-use terminology map.
+
+Il copy-edit del glossario in Phase 8 è finalizzazione, non gap strutturale.
 
 ---
 
@@ -200,42 +168,31 @@ Il brand non sarà necessariamente un unico blocco: authority/proof serve prima 
 **Tipo: EDITORIAL / CURRICULUM GAP**  
 **Stato: RESOLVED EDITORIALLY — 2026-09-20**
 
-### Evidenza di chiusura
+Sintesi:
 
-La sintesi integra:
+**durata/frequenza naturale → acquisto → onboarding → uso/risultato → next offer/continuità → comportamento atteso → deviazione → intervento → riattivazione o uscita naturale → referral/proof.**
 
-- durata/frequenza naturale della relazione;
-- onboarding e first value;
-- uso/supporto/feedback;
-- seconda vendita/back-end/continuità;
-- comportamento atteso vs deviazione;
-- trigger di retention/riattivazione;
-- referral/proof;
-- uscita naturale e sostituzione delle coorti.
-
-### Casa primaria
-
-Customer lifecycle in Business/customer success, con state-machine mechanics da Acquisition e procedure specialistiche richiamate nei nodi pertinenti.
+Casa primaria: customer lifecycle/Business, con state-machine mechanics da Acquisition e procedure specifiche richiamate nei capitoli pertinenti.
 
 ---
 
 # History sintetica
 
-- Fase 1: G-001…G-008 aperti come gap iniziali/strutturali.
-- Fase 2 first pass: vendita, brand e lifecycle si sono dimostrati ricostruibili senza nuova dottrina.
-- Cross-section pass 2026-09-20: G-001, G-003, G-004 e G-008 chiusi editorialmente; G-005 resta sintesi; G-006 passa formalmente alla Fase 3; G-002/G-007 restano editoriali.
+- Fase 1: G-001…G-008 identificati come gap iniziali.
+- Fase 2: crosswalk completo; G-001, G-003, G-004 e G-008 risolti; G-002/G-005/G-006/G-007 rimasti da chiudere.
+- Fase 3: curriculum chiude G-006 e governa first-use terminology.
+- Fase 4: sintesi VoC, beginner glossary e casi sintetici chiudono G-002, G-005 e G-007.
 
 ---
 
-# Regola di aggiornamento
+# Regola di riapertura
 
-Stati ammessi:
+Un gap risolto può essere riaperto solo se una chapter spec o il drafting dimostrano uno dei seguenti problemi:
 
-- `OPEN`;
-- `IN SYNTHESIS`;
-- `CONFIRMED — DA RISOLVERE IN FASE 3`;
-- `RESOLVED EDITORIALLY`;
-- `ESCALATED TO DOCTRINE REVIEW`;
-- `DEFERRED WITH REASON`.
+- manca una decision rule necessaria;
+- il testo richiede un prerequisito non presente;
+- una sintesi non è supportabile dai nodi canonici;
+- un esempio non basta a spiegare il trasferimento;
+- provenance/temporalità cambia il significato della regola.
 
-Non chiudere un gap perché esiste un documento. Chiuderlo solo quando il relativo requisito didattico o conoscitivo è verificabilmente soddisfatto.
+Non riaprire gap per aggiungere quantità o dettaglio non necessario.
