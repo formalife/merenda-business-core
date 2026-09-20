@@ -66,7 +66,13 @@ Le sezioni della KB vengono usate come unità di lavorazione, non come indice fi
 
 **Stato: PROVISIONAL / DA VALIDARE NEL CROSS-SECTION PASS**
 
-La sezione mercato conferma che la scelta del target non può poggiare solo su descrizioni o interviste: deve combinare comportamento, economics, alternative attuali, storia d'acquisto, risultati, raggiungibilità e trend. Il processo VoC completo resta da sintetizzare.
+La scelta del target non può poggiare solo su descrizioni o interviste: deve combinare comportamento, economics, alternative, storia d'acquisto, risultati, raggiungibilità e trend. Complaint mining e test “perché hai scelto noi?” entrano nella sintesi VoC.
+
+### D-009 — Front-end definito dalla barriera, non dal prezzo
+
+**Stato: PROVISIONAL / SUPPORTATO DA PREVALENZA 2025**
+
+Nel futuro manuale il front-end va insegnato come **riduzione della barriera d'ingresso**. Può usare prezzo, porzione di servizio, prova, garanzia o altra forma di risk reversal. Non va insegnato come sinonimo di forte sconto.
 
 ## Completato
 
@@ -74,34 +80,28 @@ La sezione mercato conferma che la scelta del target non può poggiare solo su d
 
 - baseline iniziale verificato;
 - governance frozen verificata;
-- `manual/README.md` creato;
-- `manual/ROADMAP.md` creato;
-- `manual/STATUS.md` creato;
-- `manual/MANUAL_CONTRACT.md` creato.
+- control plane `manual/` creato.
 
 ### Fase 1 — DONE
 
 - 60/60 file sotto `merenda/` censiti;
-- separati doctrine, synthesis, routing, case/example e reference;
-- corpus di supporto interpretativo/provenance definito;
-- `manual/CORPUS_INVENTORY.md` creato;
-- `manual/MANUAL_GAPS.md` creato;
-- gap iniziali classificati;
+- corpus interpretativo/provenance separato;
+- inventario e gap register creati;
 - gate Fase 1 soddisfatto.
 
 ### Fase 2 — progress corrente
 
-- `manual/KB_TO_MANUAL_CROSSWALK.md` creato;
-- `00_fondamenti` decomposto: **3/3 file covered**;
-- create **60 unità semantiche FND-001…FND-060**;
-- `01_mercato` decomposto: **5/5 file covered**;
-- create **53 unità semantiche MRC-001…MRC-053**;
-- totale first-pass: **113 unità semantiche**;
-- G-005 Voice of Customer portato a `IN SYNTHESIS`;
-- G-006 economics early-curriculum rafforzato;
-- aggiunta la durata naturale della relazione come dipendenza del lifecycle e degli economics.
+- `00_fondamenti`: **3/3 file**, FND-001…FND-060 — 60 unità;
+- `01_mercato`: **5/5 file**, MRC-001…MRC-053 — 53 unità;
+- `02_posizionamento`: **4/4 file**, POS-001…POS-057 — 57 unità;
+- `03_offerta`: **4/4 file**, OFF-001…OFF-071 — 71 unità;
+- totale first-pass: **241 unità semantiche**;
+- G-005 Voice of Customer: `IN SYNTHESIS`;
+- G-006 economics early-curriculum: evidenza forte e ripetuta;
+- G-008 lifecycle: rafforzato da durata naturale, seconda transazione, continuità e back-end;
+- G-001 vendita: offerta e price argumentation devono essere standardizzate prima della trattativa.
 
-Coverage Fase 2: **8/60 file; 2/11 sezioni**.
+Coverage Fase 2: **16/60 file; 4/11 sezioni**.
 
 ## Fase attiva
 
@@ -113,9 +113,9 @@ Obiettivo: estrarre da ogni nodo canonico ciò che il lettore deve imparare e sa
 
 1. `00_fondamenti` — DONE;
 2. `01_mercato` — DONE;
-3. `02_posizionamento` — NEXT;
-4. `03_offerta`;
-5. `04_marketing`;
+3. `02_posizionamento` — DONE;
+4. `03_offerta` — DONE;
+5. `04_marketing` — NEXT;
 6. `05_acquisizione`;
 7. `06_vendita`;
 8. `07_copy_comunicazione`;
@@ -130,18 +130,18 @@ L'ordine sopra è **ordine di decomposizione**, non curriculum finale.
 
 ## Next Action
 
-Decomporre `02_posizionamento` in `manual/crosswalk/02_posizionamento.md`, con focus su:
+Decomporre `04_marketing` in `manual/crosswalk/04_marketing.md`, con focus su:
 
-1. differenza reale vs claim;
-2. focus e categoria;
-3. meccanismo/metodo/processo come fonti di differenziazione;
-4. quattro filtri per scegliere il focus di decollo;
-5. difendibilità e percorso finanziabile;
-6. rischio di diluizione da estensioni;
-7. family brand vs multibrand e prevalenza temporale;
-8. casi/esempi di differenziazione;
-9. dipendenze da mercato, economics, offerta e copy;
-10. segnali utili a G-005 ricerca e a G-004 brand.
+1. gerarchia della domanda e livelli di consapevolezza;
+2. domanda posseduta, attiva e latente;
+3. scelta canale subordinata a intento, target ed economics;
+4. quattro modalità di marketing e ritmo;
+5. continuità e frequenza di contatto;
+6. riattivazione della base esistente;
+7. testing creatività e isolamento delle variabili;
+8. complessità utile vs moltiplicazione prematura delle variabili;
+9. eventi/VIP experience come canale/asset quando pertinenti;
+10. dipendenze da posizionamento, offerta, capacity ed economics.
 
 ## Gap aperti prioritari
 
