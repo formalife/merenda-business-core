@@ -57,17 +57,7 @@ Gate:
 
 # Phase 2 — Zero-based architecture review of the book
 
-**Status: NEXT**
-
-Tasks:
-
-1. treat V1 8 parts / 39 chapters as a coverage map only;
-2. map book-level learning outcomes to concepts/prerequisites;
-3. decide merge/split/reorder/reframe chapter candidates;
-4. define Part-level arguments;
-5. define one-sentence argument and learning outcomes for every candidate chapter;
-6. identify where system-level synthesis is needed;
-7. define provisional depth/word/page bands.
+**Status: DONE — PASS 2026-09-20**
 
 Outputs:
 
@@ -75,15 +65,22 @@ Outputs:
 - `LEARNING_OUTCOME_MAP.md`
 - `CHAPTER_ARCHITECTURE_AUDIT.md`
 
-Gate:
+Result:
 
-Every chapter must earn existence through a coherent learning job; no sunk-cost protection of V1 chapter count.
+- V1 39 chapter boundaries challenged from zero;
+- provisional V2 architecture = **8 parts / 31 chapters**;
+- 18/18 book-level learning outcomes assigned;
+- no known semantic cluster orphaned;
+- prerequisite chain preserved;
+- remaining architecture uncertainty explicitly deferred to chapter-grammar/golden-chapter evidence.
+
+Gate: **SATISFIED FOR PROTOTYPING.**
 
 ---
 
 # Phase 3 — Authorial Style Bible
 
-**Status: NOT STARTED**
+**Status: IN PROGRESS**
 
 Tasks:
 
