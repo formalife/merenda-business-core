@@ -44,6 +44,8 @@ Stato corrente:
 
 La Fase 1 ha censito e classificato 60/60 file sotto `merenda/` e ha registrato i gap editoriali iniziali.
 
+Il master crosswalk è stato inizializzato e `00_fondamenti` è completo al primo pass semantico: **3/60 file coperti, 1/11 sezioni, 60 unità semantiche FND-001…FND-060**.
+
 Il publishing layer non è dottrina canonica. `merenda/` resta l'unica sede canonica della dottrina.
 
 ## Contatori canonici — corpus YouTube storico
@@ -171,16 +173,19 @@ Non riaprire acquisizione o modificare automaticamente `merenda/` soltanto per r
 
 ## Next Action
 
-**Proseguire la Fase 2 del progetto manuale.**
+**Proseguire la Fase 2 del progetto manuale dalla sezione `01_mercato`.**
 
 Sequenza immediata:
 
-1. creare `manual/KB_TO_MANUAL_CROSSWALK.md` come coverage master;
-2. creare `manual/crosswalk/00_fondamenti.md`;
-3. estrarre unità di conoscenza, prerequisiti, dipendenze, caveat, procedure ed esempi;
-4. proseguire sezione per sezione fino a 60/60 file coperti;
-5. eseguire cross-section deduplication e dependency pass;
-6. verificare il gate della Fase 2 prima di progettare il curriculum finale.
+1. leggere i quattro nodi specialistici di `01_mercato` e il README di sezione;
+2. creare `manual/crosswalk/01_mercato.md` con ID semantici stabili;
+3. coprire identificabilità, domanda, capacità di acquisto, appropriatezza economica, high spender e gate pre-lancio;
+4. estrarre i segnali di Voice of Customer dispersi nella sezione;
+5. deduplicare localmente contro FND-025, FND-032 e FND-042 senza eliminare i caveat;
+6. aggiornare master crosswalk e `manual/STATUS.md`;
+7. proseguire poi con `02_posizionamento`.
+
+Dopo tutte le sezioni: eseguire cross-section deduplication, dependency pass e coverage audit prima di progettare il curriculum finale.
 
 La ricostruzione Formalife Layer 2 rimane disponibile come filone separato, ma non è la priorità del task corrente.
 
