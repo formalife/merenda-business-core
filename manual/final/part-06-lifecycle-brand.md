@@ -26,7 +26,7 @@ Il principio è semplice:
 
 ---
 
-# Capitolo 25 — Onboarding e customer success
+# Capitolo 25 — Onboarding e successo del cliente
 
 ## Il marketing continua dopo il pagamento
 
@@ -50,9 +50,9 @@ L'onboarding non è una email di benvenuto.
 
 È una transizione operativa.
 
-## Customer success
+## Successo del cliente
 
-Per **customer success** intendiamo il sistema con cui l'impresa aiuta il cliente appropriato a ottenere il risultato che giustificava l'acquisto, entro le condizioni realisticamente controllabili dall'offerta.
+Per **successo del cliente**, spesso indicato con l'inglese *customer success*, intendiamo il sistema con cui l'impresa aiuta il cliente appropriato a ottenere il risultato che giustificava l'acquisto, entro le condizioni realisticamente controllabili dall'offerta.
 
 Non significa assumersi responsabilità infinite sul risultato finale.
 
@@ -67,7 +67,7 @@ Significa progettare il percorso affinché siano chiari:
 - attriti;
 - modalità di supporto.
 
-Il customer success è quindi il ponte fra promessa commerciale e realtà operativa.
+Il successo del cliente è quindi il ponte fra promessa commerciale e realtà operativa.
 
 ## La prima domanda: qual è il primo valore?
 
@@ -90,9 +90,9 @@ Il punto non è creare una vittoria artificiale.
 
 È rendere visibile il primo avanzamento reale.
 
-## Time-to-first-value
+## Tempo al primo valore
 
-Il **tempo al primo valore** è il tempo necessario affinché il cliente raggiunga quel primo risultato osservabile.
+Il **tempo al primo valore**, spesso chiamato *time-to-first-value*, è il tempo necessario affinché il cliente raggiunga quel primo risultato osservabile.
 
 Ridurre questo tempo può essere importante perché, prima del primo valore, il cliente possiede soprattutto:
 
@@ -127,7 +127,7 @@ La promessa fatta da marketing e vendita deve essere visibile a chi eroga.
 
 Se il reparto operativo scopre solo dopo che il cliente si aspetta qualcosa che nessuno gli aveva comunicato internamente, il problema non è del cliente.
 
-È un difetto di handoff.
+È un difetto nel passaggio di contesto.
 
 ## Il cliente non deve integrare i reparti
 
@@ -135,7 +135,7 @@ Una organizzazione può essere complessa internamente.
 
 Il cliente non dovrebbe doverla ricomporre.
 
-Il **customer effort** è il lavoro che il cliente deve compiere per ottenere il valore promesso oltre a ciò che è intrinsecamente necessario.
+Lo **sforzo del cliente**, spesso chiamato *customer effort*, è il lavoro che il cliente deve compiere per ottenere il valore promesso oltre a ciò che è intrinsecamente necessario.
 
 Aumenta quando il cliente deve:
 
@@ -169,7 +169,7 @@ Quando il modello lo consente, il sistema dovrebbe rendere osservabili segnali c
 - richieste ripetute sullo stesso punto;
 - mancata consegna di dati necessari;
 - ritardi anomali;
-- feedback negativo;
+- riscontro negativo;
 - assenza di risposta dopo un passaggio critico.
 
 Questi segnali non sono ancora diagnosi.
@@ -271,7 +271,7 @@ Non è il formato a creare valore.
 
 È la capacità di orientare il cliente.
 
-## Customer Success Map
+## Mappa di onboarding e successo del cliente
 
 Per ogni offerta importante compila questa mappa.
 
@@ -299,13 +299,13 @@ Quali segnali mostrano che il cliente sta procedendo?
 
 Quali segnali indicano attrito o inattività?
 
-### 7. Assistenza ed escalation
+### 7. Assistenza e passaggio a un livello superiore
 
-Che cosa succede quando compare un rischio?
+Che cosa succede quando compare un rischio che il livello normale non può gestire?
 
-### 8. Feedback sistemico
+### 8. Riscontro sistemico
 
-Come risale una frizione ricorrente a processo/prodotto?
+Come risale una frizione ricorrente a processo o prodotto?
 
 ### 9. Conferma del risultato
 
@@ -317,11 +317,11 @@ Esiste una necessità coerente che emerge solo dopo il primo risultato?
 
 ---
 
-# Capitolo 26 — Il customer lifecycle completo
+# Capitolo 26 — Il ciclo di vita del cliente
 
 ## La relazione ha una durata naturale
 
-Retention viene spesso trattata come sinonimo di “tenere il cliente il più a lungo possibile”.
+La **retention**, cioè la capacità di mantenere una relazione appropriata nel tempo, viene spesso trattata come sinonimo di “tenere il cliente il più a lungo possibile”.
 
 È una definizione troppo povera.
 
@@ -348,7 +348,7 @@ Senza questi due riferimenti non sai distinguere:
 
 ## Retention
 
-Per **retention** intendiamo la capacità di mantenere una relazione appropriata per il tempo in cui continua a produrre valore reale per entrambe le parti.
+Per **retention** intendiamo quindi la capacità di mantenere una relazione appropriata per il tempo in cui continua a produrre valore reale per entrambe le parti.
 
 Non significa:
 
@@ -358,13 +358,11 @@ Non significa:
 
 Una uscita può essere naturale e sana.
 
-Il problema economico è soprattutto il churn evitabile.
+Il problema economico è soprattutto l'abbandono evitabile.
 
 ## Churn
 
-Il **churn** è l'uscita o cessazione della relazione rispetto a un comportamento di continuità atteso.
-
-Va interpretato per causa.
+Il **churn**, o tasso/insieme delle uscite rispetto alla continuità attesa, va interpretato per causa.
 
 Un cliente può uscire perché:
 
@@ -399,9 +397,9 @@ Chiedi:
 - quale proposta è coerente?;
 - quale segnale rende appropriato il contatto?
 
-## Next-best-offer come ipotesi
+## L'offerta successiva più pertinente come ipotesi
 
-Lo storico può mostrare pattern.
+Lo storico può mostrare schemi ricorrenti.
 
 Per esempio:
 
@@ -413,11 +411,11 @@ Significa che hai una ipotesi migliore da verificare.
 
 La sequenza è:
 
-**pattern → bisogno plausibile → verifica → offerta → misura.**
+**schema osservato → bisogno plausibile → verifica → offerta → misura.**
 
 Non:
 
-**pattern → invio automatico indiscriminato.**
+**schema osservato → invio automatico indiscriminato.**
 
 ## Continuità e abbonamento
 
@@ -444,7 +442,7 @@ La ricorrenza economica deve poggiare su ricorrenza di valore.
 
 ## Stato atteso e stato osservato
 
-Un lifecycle utile confronta:
+Una buona lettura del ciclo di vita confronta:
 
 **ciò che dovrebbe accadere → ciò che sta accadendo.**
 
@@ -464,7 +462,7 @@ La soglia precisa dipende dai dati reali del business.
 
 La retention è più efficace prima che il cliente sia completamente sparito.
 
-Trigger possibili:
+Segnali possibili:
 
 - uso in calo;
 - mancato rinnovo imminente;
@@ -473,7 +471,7 @@ Trigger possibili:
 - problema di supporto ripetuto;
 - mancato riordino rispetto alla cadenza normale.
 
-Il trigger deve aprire una diagnosi.
+Il segnale deve aprire una diagnosi.
 
 Non semplicemente una promozione.
 
@@ -483,7 +481,7 @@ La **riattivazione** riguarda un cliente che ha già superato la finestra attesa
 
 La comunicazione dovrebbe riconoscere la storia della relazione.
 
-Non trattare il cliente fermo come un prospect sconosciuto.
+Non trattare il cliente fermo come un potenziale cliente sconosciuto.
 
 Prima però chiedi:
 
@@ -499,7 +497,7 @@ Una campagna generica a tutti gli inattivi nasconde cause differenti.
 
 Un cliente che ha cancellato, chiesto rimborso o dichiarato di aver scelto un'altra soluzione non è nello stesso stato di chi ha semplicemente smesso di ordinare.
 
-La **riconquista**, o win-back, richiede capire:
+La **riconquista**, talvolta chiamata *win-back*, richiede capire:
 
 - che cosa ha causato la rottura;
 - se il problema è stato corretto;
@@ -551,7 +549,7 @@ Nel caso, l'inattività nasce da un passaggio poco chiaro dell'onboarding.
 
 Correggere il singolo cliente senza correggere il processo lascerebbe intatta la perdita futura.
 
-## Lifecycle Map
+## Mappa del ciclo di vita
 
 ### 1. Durata e frequenza attese
 
@@ -571,7 +569,7 @@ Quale passo è plausibile e quando?
 
 ### 5. Segnali di rischio
 
-Che cosa cambia prima del churn?
+Che cosa cambia prima dell'abbandono?
 
 ### 6. Azione di retention
 
@@ -654,7 +652,7 @@ Non manipolato.
 Momenti utili possono essere:
 
 - risultato verificato;
-- feedback molto positivo;
+- riscontro molto positivo;
 - rinnovo;
 - seconda vendita riuscita;
 - completamento di una fase;
@@ -757,7 +755,7 @@ Conta anche:
 - plausibilità;
 - rilevanza rispetto al problema.
 
-Un outlier deve essere presentato come tale.
+Un caso eccezionale deve essere presentato come tale.
 
 ## La prova deve avere uno scopo
 
@@ -800,7 +798,7 @@ Ogni giro può interrompersi se:
 - il referral non viene facilitato;
 - il sistema non misura nulla.
 
-## Referral & Proof Canvas
+## Scheda referral e prova
 
 ### Risultato verificato
 
@@ -824,7 +822,7 @@ Che cosa potrebbe renderlo esitante?
 
 ### Prova
 
-Quale claim o obiezione può sostenere la sua esperienza?
+Quale affermazione o obiezione può sostenere la sua esperienza?
 
 ### Formato
 
@@ -893,13 +891,13 @@ Non serve a rendere ogni comunicazione innocua.
 
 Serve a evitare errori prevedibili.
 
-## La crisi non è prima di tutto un problema di copy
+## La crisi non è prima di tutto un problema di comunicazione
 
 Quando qualcosa va male pubblicamente, la pressione spinge a rispondere subito.
 
 Il rischio è difendere una versione dei fatti non ancora verificata.
 
-La sequenza più robusta è:
+Una sequenza robusta è:
 
 **fermare la reazione impulsiva → raccogliere fatti → definire responsabilità → coordinare rimedio → comunicare.**
 
@@ -941,7 +939,7 @@ La reputazione migliora in modo credibile quando la correzione è osservabile.
 
 In una crisi materiale possono servire:
 
-- operations;
+- operazioni;
 - direzione;
 - comunicazione;
 - assistenza;
@@ -963,7 +961,7 @@ Una risposta che rassicura i clienti più fedeli può non funzionare per:
 - comunità;
 - persone direttamente danneggiate.
 
-Non usare la reazione della fanbase come prova che l'intera reputazione sia intatta.
+Non usare la reazione del pubblico più fedele come prova che l'intera reputazione sia intatta.
 
 ## Controversia intenzionale
 
@@ -1004,14 +1002,14 @@ La sequenza resta:
 
 **differenza specifica → prova pertinente → comunicazione.**
 
-## Crisis Map
+## Mappa della crisi
 
 ### Prima
 
 1. quali stakeholder sono coinvolti?;
 2. quali danni o letture negative sono plausibili?;
 3. quali rischi sono materiali?;
-4. chi possiede decisione ed escalation?;
+4. chi possiede la decisione e chi interviene quando il caso richiede un livello superiore?;
 5. dobbiamo procedere, modificare o fermare?
 
 ### Durante
@@ -1070,7 +1068,7 @@ Non può eliminare il bisogno di coerenza.
 
 Possiamo rappresentare il processo così:
 
-**significato distinto × prova × esperienza × reputazione × ripetizione nel tempo → memoria/preferenza/advocacy.**
+**significato distinto × prova × esperienza × reputazione × ripetizione nel tempo → memoria, preferenza e raccomandazione/difesa spontanea.**
 
 Non è una equazione numerica.
 
@@ -1146,9 +1144,9 @@ Un **fan**, in senso commerciale, mantiene una relazione di attenzione e apparte
 
 Non ogni cliente deve diventare fan.
 
-E una fanbase non sostituisce clienti economicamente utili.
+E una base di fan non sostituisce clienti economicamente utili.
 
-## Audience e customer base sono cose diverse
+## Pubblico e base clienti sono cose diverse
 
 Una persona può:
 
@@ -1159,9 +1157,9 @@ Una persona può:
 
 senza comprare mai.
 
-L'audience è attenzione disponibile.
+Il pubblico è attenzione disponibile.
 
-La customer base è un insieme di relazioni economiche reali.
+La base clienti è un insieme di relazioni economiche reali.
 
 Un lancio può beneficiare di molta attenzione preesistente.
 
@@ -1213,9 +1211,9 @@ Il contrasto funziona quando:
 
 Non richiede attaccare persone.
 
-## Community dopo la sostanza
+## Comunità dopo la sostanza
 
-Una **brand community** è un insieme di persone che condividono una relazione continuativa con il significato, gli standard o l'esperienza del brand.
+Una **comunità di brand** è un insieme di persone che condividono una relazione continuativa con il significato, gli standard o l'esperienza del brand.
 
 Può rafforzare:
 
@@ -1227,11 +1225,11 @@ Può rafforzare:
 
 Ma l'ordine conta.
 
-**differenza → valore → esperienza → ripetizione → community.**
+**differenza → valore → esperienza → ripetizione → comunità.**
 
 Non:
 
-**community → speriamo che prima o poi esista una ragione per comprare.**
+**comunità → speriamo che prima o poi esista una ragione per comprare.**
 
 ## Caso didattico — VettaLab
 
@@ -1274,9 +1272,9 @@ Nel tempo emergono:
 
 Il brand è il risultato cumulativo di questi strati.
 
-Se avesse iniziato da merchandising, slogan e community senza differenza e esperienza, avrebbe costruito simboli prima della sostanza.
+Se avesse iniziato da merchandising, slogan e comunità senza differenza e esperienza, avrebbe costruito simboli prima della sostanza.
 
-## Brand Accumulation Audit
+## Audit di accumulo del brand
 
 ### 1. Significato
 
@@ -1302,11 +1300,11 @@ Che cosa dicono spontaneamente clienti e stakeholder?
 
 Quali storie, principi, prove e comportamenti rinforzano lo stesso significato?
 
-### 7. Advocacy
+### 7. Raccomandazione e difesa spontanea
 
 Quali comportamenti mostrano memoria e preferenza reale?
 
-### 8. Gap
+### 8. Scostamento
 
 Dove la posizione dichiarata e quella percepita non coincidono?
 
@@ -1320,11 +1318,11 @@ Ora possiamo vedere l'intero percorso successivo.
 
 Trasforma la decisione in utilizzo corretto e primo valore.
 
-### Customer success
+### Successo del cliente
 
 Rende visibili risultato, attriti e correzioni.
 
-### Lifecycle
+### Ciclo di vita
 
 Distingue continuità sana, bisogno successivo, rischio, inattività, riattivazione e uscita naturale.
 
