@@ -55,6 +55,13 @@ jobs:
           scripts/validate_semantic_gold_v2.py
           scripts/validate_architecture_holdout.py
 
+      - name: Dry-run paired holdout setup without Codex
+        if: github.event_name == 'push' && github.ref_name == 'architecture-review-routing-v2'
+        run: >-
+          python3 scripts/run_architecture_holdout_ab_host.py
+          --validate-only
+          --workdir /tmp/architecture-holdout-setup
+
       - name: Build architecture inventory
         run: >-
           python3 scripts/build_architecture_inventory.py
