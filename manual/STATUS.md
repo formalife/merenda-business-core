@@ -46,58 +46,66 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 ### Parte III — Capp. 9–13
 **READY / MINI-AUDIT PASS** — `manual/draft/part-03-posizionamento-offerta.md`
 
-Pass: differenza reale prima del claim; focus ≠ mono-SKU; front-end ≠ sconto; premium/pricing trattati come economics condizionali.
-
 ### Parte IV — Capp. 14–19
 **READY / MINI-AUDIT PASS** — `manual/draft/part-04-domanda-acquisizione.md`
 
+### Parte V — Capp. 20–24
+**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-05-copy-vendita.md`
+
 Copre:
 
-- authority, credibility, trust e proof library;
-- domanda posseduta/attiva/latente, consapevolezza, intento e timing;
-- scelta canale per funzione/economics/capacity;
-- database/CRM come memoria di stati e progressive profiling;
-- funnel adattivo come macchina a stati con routing e fallback;
-- partnership transazionali/strutturali, endorsement, revenue share e controllo della relazione.
+- pre-copy brief e continuità fra source, stato, messaggio e CTA;
+- argomentazione come progressione di convinzioni, reason why, meccanismo, proof, obiezioni, price context e CTA;
+- handoff e prequalifica prima del tempo commerciale costoso;
+- diagnosi standardizzata e prescrizione personalizzata;
+- tre certezze soluzione/venditore/azienda usate diagnosticamente;
+- looping come ritorno a prova/diagnosi, non pressione;
+- capacità di produrre un no corretto quando il fit non regge;
+- follow-up per stato, ragione, timing e next step;
+- pipeline letta per fase, aging, ultima attività, qualificazione e prossimo passo;
+- script come coreografia diagnostica, role-play e learning dip verificato sui dati;
+- sales management su conversione + margine + qualità cliente + CAC, non fatturato/close rate isolati.
 
 Mini-audit:
 
-- coverage Capp. 14–19: PASS;
-- authority ≠ proof: PASS;
-- owned demand non implica proprietà delle persone: PASS;
-- click/evento tecnico ≠ purchase intent: PASS;
-- process/state before CRM/AI: PASS;
-- funnel ≠ sequenza di pagine: PASS;
-- partnership economics/control/exit: PASS;
+- coverage Capp. 20–24: PASS;
+- copy non sostituisce strategia: PASS;
+- reason why / conseguenze senza invenzione: PASS;
+- handoff/prequalifica prima della diagnosi costosa: PASS;
+- diagnosi prima della prescrizione: PASS;
+- objection/looping non coercitivi: PASS;
+- no-sale appropriato: PASS;
+- follow-up con stato/next step: PASS;
+- script ≠ recita: PASS;
+- economics/customer quality nella lettura sales: PASS;
 - reader-facing agnosticism: PASS;
 - nessun P0/P1.
 
 ## Ordine rimanente
 
-1. Parte V — Capp. 20–24 — **NEXT**;
-2. Parte VI — Capp. 25–29;
-3. Parte VII — Capp. 30–35;
-4. Parte VIII — Capp. 36–39.
+1. Parte VI — Capp. 25–29 — **NEXT**;
+2. Parte VII — Capp. 30–35;
+3. Parte VIII — Capp. 36–39.
 
 ## Next Action
 
-Draftare `manual/draft/part-05-copy-vendita.md` da `chapter-specs/part-05-copy-vendita.md` dopo freshness read dei nodi live di copy, handoff/prequalifica, vendita consulenziale, follow-up e sales management.
+Draftare `manual/draft/part-06-lifecycle-brand.md` da `chapter-specs/part-06-lifecycle-brand.md` dopo freshness read dei nodi live di onboarding/customer success, lifecycle/retention, referral/proof, reputation/crisis e brand/community.
 
 Vincoli principali:
 
-- copy = traduzione di strategia/VoC/positioning/offer/proof, non invenzione della differenza;
-- vendita parte dall'handoff e dalla prequalifica;
-- diagnosi prima della prescrizione;
-- objection handling come diagnosi delle certezze mancanti, non pressione;
-- follow-up con stato, motivo e next step;
-- script come coreografia diagnostica, non recita;
-- close rate letto con margine/fit/quality downstream.
+- marketing continua dopo il pagamento;
+- onboarding deve portare a first value e ridurre churn evitabile;
+- durata/frequenza naturale precedono retention/riattivazione;
+- uscita naturale ≠ churn patologico;
+- referral/testimonianze seguono risultato reale;
+- reputazione richiede rimedio + correzione sistemica, non copy difensivo;
+- brand = accumulo di posizione + proof + esperienza + reputazione + memoria nel tempo, non grafica/notorietà.
 
 ## Gap aperti
 
 **Nessun gap P0/P1.**
 
-P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–IV.
+P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–V e correggere piccoli refusi locali.
 
 ## Blocchi
 
