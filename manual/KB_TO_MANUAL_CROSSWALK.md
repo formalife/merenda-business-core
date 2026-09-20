@@ -62,13 +62,13 @@ Non replica il source registry.
 | `02_posizionamento` | 4 | COMPLETE | `manual/crosswalk/02_posizionamento.md` |
 | `03_offerta` | 4 | COMPLETE | `manual/crosswalk/03_offerta.md` |
 | `04_marketing` | 7 | COMPLETE | `manual/crosswalk/04_marketing.md` |
-| `05_acquisizione` | 6 | NOT STARTED | — |
-| `06_vendita` | 5 | NOT STARTED | — |
+| `05_acquisizione` | 6 | COMPLETE | `manual/crosswalk/05_acquisizione.md` |
+| `06_vendita` | 5 | COMPLETE | `manual/crosswalk/06_vendita.md` |
 | `07_copy_comunicazione` | 5 | NOT STARTED | — |
 | `08_brand` | 6 | NOT STARTED | — |
 | `09_business` | 10 | NOT STARTED | — |
 | `10_casi_studio` | 3 | NOT STARTED | — |
-| **Totale** | **60** | **23/60 file covered** | **5/11 sezioni** |
+| **Totale** | **60** | **34/60 file covered** | **7/11 sezioni** |
 
 ## Unità create finora
 
@@ -77,7 +77,9 @@ Non replica il source registry.
 - `02_posizionamento`: POS-001…POS-057 — 57 unità;
 - `03_offerta`: OFF-001…OFF-071 — 71 unità;
 - `04_marketing`: MKT-001…MKT-068 — 68 unità;
-- totale first-pass: **309 unità semantiche** prima del dedup cross-section.
+- `05_acquisizione`: ACQ-001…ACQ-067 — 67 unità;
+- `06_vendita`: SAL-001…SAL-071 — 71 unità;
+- totale first-pass: **447 unità semantiche** prima del dedup cross-section.
 
 Il numero di unità non è una metrica di qualità né un obiettivo di crescita. Serve solo a garantire tracciabilità e coverage prima della compressione editoriale.
 
@@ -93,6 +95,10 @@ Quando tutti i file sono decomposti:
 6. **gap pass** — aggiornare `manual/MANUAL_GAPS.md`;
 7. **coverage audit** — verificare 60/60 file e tutte le unità rilevanti;
 8. solo allora passare alla Fase 3 e progettare il curriculum.
+
+## Finding strutturale già emerso
+
+`06_vendita` consente una sintesi end-to-end completa senza nuova acquisizione dottrinale: G-001 è candidato a `RESOLVED EDITORIALLY`, da confermare nel cross-section pass.
 
 ## Regola di qualità
 
