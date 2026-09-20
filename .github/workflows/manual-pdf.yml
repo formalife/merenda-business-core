@@ -1,0 +1,178 @@
+name: Build manual PDF
+
+on:
+  push:
+    branches:
+      - manual-drafting-2026-09-20
+    paths:
+      - .github/workflows/manual-pdf.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout release branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install rendering dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2 libpango-1.0-0 libpangoft2-1.0-0 shared-mime-info fonts-dejavu-core poppler-utils
+          python -m pip install --upgrade pip
+          pip install markdown weasyprint
+
+      - name: Build book HTML and PDF
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, html
+          import markdown
+          from weasyprint import HTML
+
+          root = Path('manual/final')
+          parts = [
+              root / 'part-01-fondamenti.md',
+              root / 'part-02-mercato.md',
+              root / 'part-03-posizionamento-offerta.md',
+              root / 'part-04-domanda-acquisizione.md',
+              root / 'part-05-copy-vendita.md',
+              root / 'part-06-lifecycle-brand.md',
+              root / 'part-07-economics-organizzazione.md',
+              root / 'part-08-crescita-capstone.md',
+          ]
+
+          chapters = []
+          processed = []
+          for path in parts:
+              text = path.read_text(encoding='utf-8')
+              out = []
+              for line in text.splitlines():
+                  m = re.match(r'^# Capitolo\s+(\d+)\s+[—-]\s+(.+)$', line)
+                  if m:
+                      num, title = m.group(1), m.group(2).strip()
+                      chapters.append((int(num), title))
+                      line = f'# Capitolo {num} — {title} {{#cap-{num}}}'
+                  out.append(line)
+              processed.append('\n'.join(out))
+
+          intro = (root / 'MANUALE.md').read_text(encoding='utf-8')
+          # Keep the authorial introduction but remove navigation sections that are rebuilt for print.
+          intro = re.split(r'\n## Le otto parti\n', intro, maxsplit=1)[0]
+
+          glossario = (root / 'GLOSSARIO.md').read_text(encoding='utf-8')
+          toolkit = (root / 'TOOLKIT.md').read_text(encoding='utf-8')
+
+          md = markdown.Markdown(extensions=['extra', 'attr_list', 'sane_lists'])
+          intro_html = md.convert(intro)
+          md.reset()
+
+          body_html = []
+          for text in processed:
+              body_html.append(md.convert(text))
+              md.reset()
+
+          glossary_html = md.convert(glossario)
+          md.reset()
+          toolkit_html = md.convert(toolkit)
+
+          toc_rows = []
+          for n, title in sorted(chapters):
+              toc_rows.append(f'<li><a href="#cap-{n}"><span class="toc-title">{n}. {html.escape(title)}</span></a></li>')
+
+          css = r'''
+          @page {
+            size: A4;
+            margin: 19mm 18mm 21mm 20mm;
+            @bottom-center {
+              content: counter(page);
+              font-family: "DejaVu Sans", sans-serif;
+              font-size: 8pt;
+              color: #666;
+            }
+          }
+          @page:first { @bottom-center { content: none; } }
+          html { font-family: "DejaVu Serif", serif; color: #181818; }
+          body { font-size: 10.4pt; line-height: 1.48; }
+          .cover {
+            page-break-after: always;
+            min-height: 235mm;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+          }
+          .cover h1 { font-family: "DejaVu Sans", sans-serif; font-size: 30pt; line-height: 1.12; margin: 0 0 14mm; }
+          .cover h2 { font-family: "DejaVu Sans", sans-serif; font-size: 15pt; font-weight: normal; line-height: 1.35; color: #444; }
+          .cover .rule { width: 42mm; border-top: 1.4pt solid #222; margin: 10mm auto; }
+          .front-intro { page-break-after: always; }
+          .toc { page-break-after: always; }
+          .toc h1, .appendix-title { font-family: "DejaVu Sans", sans-serif; font-size: 23pt; margin-bottom: 8mm; }
+          .toc ol { list-style: none; padding: 0; margin: 0; }
+          .toc li { margin: 0 0 2.2mm; padding: 0; }
+          .toc a { color: #181818; text-decoration: none; }
+          .toc a::after { content: leader('.') target-counter(attr(href), page); }
+          .toc-title { background: white; padding-right: 2mm; }
+          h1 { font-family: "DejaVu Sans", sans-serif; font-size: 22pt; line-height: 1.18; margin: 0 0 8mm; page-break-before: always; page-break-after: avoid; }
+          h2 { font-family: "DejaVu Sans", sans-serif; font-size: 14pt; line-height: 1.25; margin: 7mm 0 3mm; page-break-after: avoid; }
+          h3 { font-family: "DejaVu Sans", sans-serif; font-size: 11.5pt; margin: 5mm 0 2mm; page-break-after: avoid; }
+          p { margin: 0 0 3.5mm; orphans: 3; widows: 3; }
+          ul, ol { margin: 0 0 4mm 6mm; padding-left: 5mm; }
+          li { margin-bottom: 1.2mm; }
+          blockquote { margin: 4mm 7mm; padding: 2.5mm 4mm; border-left: 2.2pt solid #777; background: #f5f5f5; }
+          blockquote p { margin: 0; }
+          strong { font-weight: 700; }
+          hr { border: 0; border-top: 0.6pt solid #bbb; margin: 8mm 0; }
+          code { font-family: "DejaVu Sans Mono", monospace; font-size: 9pt; }
+          a { color: #202020; text-decoration: none; }
+          .part-divider { page-break-before: always; }
+          .appendix { page-break-before: always; }
+          .appendix h1:first-child { page-break-before: auto; }
+          table { border-collapse: collapse; width: 100%; margin: 4mm 0; font-size: 9.2pt; }
+          th, td { border: 0.5pt solid #aaa; padding: 2mm; vertical-align: top; }
+          th { font-family: "DejaVu Sans", sans-serif; background: #f0f0f0; }
+          '''
+
+          # Extract title/subtitle from MANUALE.md for a clean cover.
+          title = 'Manuale di marketing e business'
+          subtitle = 'Sistema teorico-operativo per progettare, vendere e far crescere un’impresa'
+
+          document = f'''<!doctype html>
+          <html lang="it"><head><meta charset="utf-8"><title>{html.escape(title)}</title><style>{css}</style></head><body>
+          <section class="cover"><h1>{html.escape(title)}</h1><div class="rule"></div><h2>{html.escape(subtitle)}</h2></section>
+          <section class="front-intro">{intro_html}</section>
+          <section class="toc"><h1>Indice</h1><ol>{''.join(toc_rows)}</ol></section>
+          {''.join(body_html)}
+          <section class="appendix">{glossary_html}</section>
+          <section class="appendix">{toolkit_html}</section>
+          </body></html>'''
+
+          out_dir = Path('dist')
+          out_dir.mkdir(exist_ok=True)
+          html_path = out_dir / 'manuale.html'
+          pdf_path = out_dir / 'Manuale_di_marketing_e_business.pdf'
+          html_path.write_text(document, encoding='utf-8')
+          HTML(string=document, base_url=str(Path.cwd())).write_pdf(pdf_path)
+          print(pdf_path)
+          PY
+
+      - name: Verify PDF metadata and page count
+        run: |
+          pdfinfo dist/Manuale_di_marketing_e_business.pdf
+          test -s dist/Manuale_di_marketing_e_business.pdf
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuale-marketing-business-pdf
+          path: dist/Manuale_di_marketing_e_business.pdf
+          if-no-files-found: error
+          retention-days: 7
