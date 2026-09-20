@@ -62,6 +62,12 @@ La Fase 2 usa un indice master `manual/KB_TO_MANUAL_CROSSWALK.md` e file modular
 
 Le sezioni della KB vengono usate come unità di lavorazione, non come indice finale del manuale.
 
+### D-008 — Ricerca di mercato come evidenza multi-fonte
+
+**Stato: PROVISIONAL / DA VALIDARE NEL CROSS-SECTION PASS**
+
+La sezione mercato conferma che la scelta del target non può poggiare solo su descrizioni o interviste: deve combinare comportamento, economics, alternative attuali, storia d'acquisto, risultati, raggiungibilità e trend. Il processo VoC completo resta da sintetizzare.
+
 ## Completato
 
 ### Fase 0 — DONE
@@ -88,10 +94,14 @@ Le sezioni della KB vengono usate come unità di lavorazione, non come indice fi
 - `manual/KB_TO_MANUAL_CROSSWALK.md` creato;
 - `00_fondamenti` decomposto: **3/3 file covered**;
 - create **60 unità semantiche FND-001…FND-060**;
-- marcati principi generativi, gate, feedback loop, economics cross-cutting, diagnostica e caveat temporali;
-- confermata la necessità di introdurre la definizione estesa di marketing e una base di economics molto presto nel futuro curriculum.
+- `01_mercato` decomposto: **5/5 file covered**;
+- create **53 unità semantiche MRC-001…MRC-053**;
+- totale first-pass: **113 unità semantiche**;
+- G-005 Voice of Customer portato a `IN SYNTHESIS`;
+- G-006 economics early-curriculum rafforzato;
+- aggiunta la durata naturale della relazione come dipendenza del lifecycle e degli economics.
 
-Coverage Fase 2: **3/60 file; 1/11 sezioni**.
+Coverage Fase 2: **8/60 file; 2/11 sezioni**.
 
 ## Fase attiva
 
@@ -102,8 +112,8 @@ Obiettivo: estrarre da ogni nodo canonico ciò che il lettore deve imparare e sa
 ## Ordine di lavorazione corrente
 
 1. `00_fondamenti` — DONE;
-2. `01_mercato` — NEXT;
-3. `02_posizionamento`;
+2. `01_mercato` — DONE;
+3. `02_posizionamento` — NEXT;
 4. `03_offerta`;
 5. `04_marketing`;
 6. `05_acquisizione`;
@@ -120,17 +130,18 @@ L'ordine sopra è **ordine di decomposizione**, non curriculum finale.
 
 ## Next Action
 
-Decomporre `01_mercato` in `manual/crosswalk/01_mercato.md`, con focus su:
+Decomporre `02_posizionamento` in `manual/crosswalk/02_posizionamento.md`, con focus su:
 
-1. mercato, target e identificabilità;
-2. domanda, raggiungibilità e capacità di acquisto;
-3. cliente economicamente desiderabile vs semplice buyer;
-4. appropriatezza, cost-to-serve, probabilità di successo e LTV;
-5. clienti alto-spendenti e comportamento economico;
-6. gate prima del lancio;
-7. segnali di Voice of Customer già presenti ma dispersi;
-8. dipendenze dagli economics fondamentali;
-9. duplicazioni con FND-025, FND-032 e FND-042.
+1. differenza reale vs claim;
+2. focus e categoria;
+3. meccanismo/metodo/processo come fonti di differenziazione;
+4. quattro filtri per scegliere il focus di decollo;
+5. difendibilità e percorso finanziabile;
+6. rischio di diluizione da estensioni;
+7. family brand vs multibrand e prevalenza temporale;
+8. casi/esempi di differenziazione;
+9. dipendenze da mercato, economics, offerta e copy;
+10. segnali utili a G-005 ricerca e a G-004 brand.
 
 ## Gap aperti prioritari
 
@@ -139,7 +150,7 @@ Decomporre `01_mercato` in `manual/crosswalk/01_mercato.md`, con focus su:
 - G-003 — doctrine/provenance map — P1;
 - G-006 — economics da introdurre prima nel curriculum — P1.
 
-Gli altri gap restano registrati in `manual/MANUAL_GAPS.md`.
+G-005 è `IN SYNTHESIS`. Gli altri gap restano registrati in `manual/MANUAL_GAPS.md`.
 
 ## Blocchi
 
@@ -155,7 +166,7 @@ Chiunque riprenda questo lavoro deve leggere, nell'ordine:
 4. `manual/CORPUS_INVENTORY.md`;
 5. `manual/MANUAL_GAPS.md`;
 6. `manual/KB_TO_MANUAL_CROSSWALK.md`;
-7. il file crosswalk della sezione attiva e quello precedente quando serve per dedup;
+7. il file crosswalk della sezione attiva e quelli precedenti quando serve per dedup;
 8. solo dopo i nodi canonici necessari.
 
 Al termine deve aggiornare questo file con fase corrente e prossima azione.
