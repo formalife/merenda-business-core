@@ -22,7 +22,7 @@ Questa parte risponde a cinque domande:
 2. quanto deve essere stretto il significato che vogliamo conquistare?;
 3. che cosa deve concretamente accettare il cliente quando compra?;
 4. come riduciamo la barriera del primo sì senza distruggere l'economia?;
-5. come decidiamo e sosteniamo il prezzo senza trasformare premium e sconto in ideologie?
+5. come decidiamo e sosteniamo il prezzo senza trasformare prezzo premium e sconto in ideologie?
 
 Il principio che tiene insieme tutto è semplice:
 
@@ -36,7 +36,7 @@ Il principio che tiene insieme tutto è semplice:
 
 Quando un'impresa sente parlare di posizionamento, la tentazione è cercare subito parole migliori.
 
-Una nuova tagline.
+Un nuovo slogan.
 
 Una promessa più forte.
 
@@ -55,7 +55,7 @@ Puoi dichiarare di essere:
 - più professionale;
 - più specializzato;
 
-ma se il cliente vive un'esperienza sostanzialmente equivalente alle alternative, hai creato un claim, non un posizionamento.
+ma se il cliente vive un'esperienza sostanzialmente equivalente alle alternative, hai creato una affermazione, non un posizionamento.
 
 Per **posizionamento** intenderemo la ragione specifica per cui un determinato target dovrebbe preferire questa soluzione rispetto alle alternative disponibili.
 
@@ -95,7 +95,7 @@ Il punto decisivo è che la differenza esista anche se togliamo la pubblicità.
 
 Una verifica brutale ma utile è questa:
 
-> Se un concorrente copiasse domani la nostra headline, quale differenza reale resterebbe?
+> Se un concorrente copiasse domani il nostro titolo principale, quale differenza reale resterebbe?
 
 Se la risposta è “nessuna”, il lavoro non è ancora finito.
 
@@ -134,11 +134,11 @@ Questa è una lezione importante:
 
 **la differenza non deve essere interessante in astratto; deve essere rilevante per il cliente che vogliamo acquisire.**
 
-## Dalle lamentele al redesign
+## Dalle lamentele alla riprogettazione
 
-Nel Capitolo 7 abbiamo introdotto il complaint mining: lo studio sistematico delle frizioni nelle alternative.
+Nel Capitolo 7 abbiamo introdotto l'analisi delle lamentele: lo studio sistematico delle frizioni nelle alternative.
 
-Ora possiamo usarlo per progettare.
+Ora possiamo usarla per progettare.
 
 La sequenza è:
 
@@ -155,7 +155,7 @@ Supponiamo che nelle alternative emerga questo problema:
 
 > Ogni volta parlo con una persona diversa e devo ricominciare da capo.
 
-La soluzione debole è una headline:
+La soluzione debole è un titolo come:
 
 > Assistenza davvero personalizzata.
 
@@ -165,7 +165,7 @@ La soluzione operativa potrebbe essere:
 - storico centralizzato;
 - regola di passaggio delle informazioni;
 - tempi di risposta dichiarati;
-- escalation definita.
+- passaggio a un responsabile superiore quando il caso esce dallo standard.
 
 A quel punto “un unico responsabile che conosce già il contesto” non è solo una promessa. È la descrizione di un processo reale.
 
@@ -198,7 +198,7 @@ Prima chiedi:
 
 Poi, se serve, dagli un nome.
 
-## Un trade-off reale può rafforzare la posizione
+## Un limite reale può rafforzare la posizione
 
 Una posizione credibile non deve sembrare perfetta per tutti.
 
@@ -220,7 +220,7 @@ Non inventare difetti per sembrare autentico.
 
 E non usare la trasparenza come scusa per mantenere problemi che dovrebbero essere corretti.
 
-Il trade-off ha valore quando è la conseguenza reale di una scelta di sistema.
+Il limite ha valore quando è la conseguenza reale di una scelta di sistema.
 
 ## La posizione percepita conta più di quella dichiarata
 
@@ -302,7 +302,7 @@ Il test dovrà osservare:
 - se aumenta la qualità delle conversazioni;
 - se l'economia dei clienti acquisiti resta buona.
 
-## Il framework di posizionamento
+## Lo schema di posizionamento
 
 Prima di scrivere il messaggio finale, compila queste otto domande.
 
@@ -338,9 +338,9 @@ Quale evidenza potrebbe renderla credibile?
 
 Ragioni spontanee di scelta, qualità delle richieste, conversione, margine e altri segnali coerenti.
 
-## La positioning hypothesis
+## L'ipotesi di posizionamento
 
-Il risultato del capitolo non è una tagline.
+Il risultato del capitolo non è uno slogan.
 
 È una ipotesi strategica in questa forma:
 
@@ -378,7 +378,7 @@ Se dici “consulenza”, il cliente richiama un certo insieme di confronti.
 
 Se dici “software gestionale”, ne richiama un altro.
 
-Se costruisci una categoria più specifica e comprensibile, puoi cambiare il set di alternative con cui vieni confrontato.
+Se costruisci una categoria più specifica e comprensibile, puoi cambiare l'insieme di alternative con cui vieni confrontato.
 
 Ma creare una categoria non significa inventare un'etichetta incomprensibile.
 
@@ -472,13 +472,13 @@ Decide di focalizzarsi su una categoria precisa di motociclette e di costruire i
 - acquisto dell'usato;
 - esperienza in sede.
 
-Il focus non consiste nel cambiare la tagline.
+Il focus non consiste nel cambiare lo slogan.
 
 Consiste nel riallocare davvero inventario, competenza e capitale.
 
 Se la posizione funziona, può perfino aumentare il flusso di prodotto disponibile perché venditori e acquirenti iniziano ad associare quel rivenditore a una specializzazione precisa.
 
-La crescita successiva può creare un nuovo problema di capacità. È un buon esempio di bottleneck che migra.
+La crescita successiva può creare un nuovo problema di capacità. È un buon esempio di collo di bottiglia che migra.
 
 ## Estensione di linea: quando il nome inizia a significare troppo
 
@@ -696,9 +696,9 @@ Ogni componente dovrebbe svolgere almeno una funzione:
 
 Un bonus gratuito ma inutile non crea automaticamente valore.
 
-## Bundle: vendere il risultato, non il mucchio
+## Pacchetto: vendere il risultato, non il mucchio
 
-Un **bundle** è una combinazione di più elementi venduti come una proposta unica.
+Un **pacchetto** — spesso chiamato *bundle* — è una combinazione di più elementi venduti come una proposta unica.
 
 Il modo debole di costruirlo è:
 
@@ -714,7 +714,7 @@ Immagina un cliente che vuole preparare un certo piatto.
 
 Un catalogo gli chiede di capire da solo quali ingredienti servono, in quali quantità e quali sono compatibili.
 
-Un bundle ben progettato riduce quel lavoro decisionale.
+Un pacchetto ben progettato riduce quel lavoro decisionale.
 
 Il valore non nasce dal numero di prodotti. Nasce dalla semplicità con cui porta al risultato.
 
@@ -743,7 +743,7 @@ Ogni acquisto espone il cliente a una possibilità:
 
 > E se fosse una scelta sbagliata?
 
-La **riduzione del rischio**, o risk reversal, sposta una parte di questa incertezza dal cliente all'impresa.
+La **riduzione del rischio**, talvolta chiamata *risk reversal*, sposta una parte di questa incertezza dal cliente all'impresa.
 
 Può assumere forme diverse:
 
@@ -796,18 +796,18 @@ Per esempio:
 - posti limitati;
 - data di inizio;
 - quantità finite;
-- slot disponibili;
+- disponibilità limitate;
 - condizioni di lancio con una scadenza reale.
 
 La **scarsità** è la limitazione reale della disponibilità.
 
 L'**urgenza** è la ragione reale per cui la decisione ha un tempo definito.
 
-Timer che ricominciano, “ultimi posti” infiniti o scadenze finte possono aumentare la pressione, ma trasformano la comunicazione in un debito di fiducia.
+Contatori che ricominciano, “ultimi posti” infiniti o scadenze finte possono aumentare la pressione, ma trasformano la comunicazione in un debito di fiducia.
 
 ## La CTA: quale passo deve compiere il cliente
 
-La **CTA**, call to action, è l'istruzione sul prossimo passo.
+La **CTA**, dall'inglese *call to action*, è l'istruzione sul prossimo passo.
 
 Può essere:
 
@@ -881,7 +881,7 @@ Il venditore personalizzerà ciò che deve essere personalizzato dopo aver compr
 
 La standardizzazione non elimina la consulenza. Elimina l'improvvisazione inutile.
 
-## Offer Canvas
+## Scheda dell'offerta
 
 Prima di lanciare una proposta compila questa struttura.
 
@@ -930,7 +930,7 @@ CTA precisa.
 Tre segnali meritano attenzione:
 
 1. fatica a generare richieste appropriate;
-2. molte richieste arrivano senza vera intenzione o fit;
+2. molte richieste arrivano senza vera intenzione o compatibilità;
 3. il confronto si riduce quasi sempre al prezzo.
 
 Non provano da soli che l'offerta sia il problema.
@@ -1123,7 +1123,7 @@ La continuità ha senso quando il cliente possiede un bisogno:
 - continuativo;
 - che richiede monitoraggio o accesso persistente.
 
-Forzare una subscription su un problema una tantum crea attrito e abbandono artificiale.
+Forzare un abbonamento su un problema una tantum crea attrito e abbandono artificiale.
 
 Il modello di monetizzazione deve rispettare la durata naturale della relazione studiata nel Capitolo 8.
 
@@ -1165,7 +1165,7 @@ Il punto non è vendere solo quel prodotto per sempre.
 
 È usare una porta d'ingresso chiara e poi monetizzare la relazione senza chiedere al mercato di ricordare tutto il catalogo prima ancora della prima visita.
 
-## Il Customer Economics Map
+## Mappa economica del cliente
 
 Per ogni porta d'ingresso compila:
 
@@ -1175,7 +1175,7 @@ Per ogni porta d'ingresso compila:
 - quale barriera riduce?;
 - a quale target?;
 - margine della prima vendita?;
-- CAC atteso/observato?;
+- CAC atteso/osservato?;
 - capacità consumata?
 
 ### Secondo passo
@@ -1202,7 +1202,7 @@ La mappa impedisce di chiamare “funnel” un insieme di offerte che non possie
 
 ## Il prezzo non è una personalità
 
-Molte discussioni sul pricing assumono toni ideologici.
+Molte discussioni sul prezzo assumono toni ideologici.
 
 Una scuola dice:
 
@@ -1232,9 +1232,9 @@ Un prezzo alto non crea automaticamente una posizione premium.
 
 Un prezzo basso non crea automaticamente volume profittevole.
 
-## Willingness-to-pay
+## Disponibilità a pagare
 
-La **willingness-to-pay**, o disponibilità a pagare, è la quantità che il cliente è realmente disposto a investire date:
+La **disponibilità a pagare**, spesso indicata con l'inglese *willingness-to-pay*, è la quantità che il cliente è realmente disposto a investire date:
 
 - priorità del problema;
 - valore percepito;
@@ -1249,9 +1249,9 @@ Lo stesso cliente può avere disponibilità a pagare molto diversa fra categorie
 
 E può cambiare quando comprende una differenza che prima non vedeva.
 
-## Il premium viene dopo la differenza
+## Il prezzo premium viene dopo la differenza
 
-**Premium pricing** significa capacità di sostenere un prezzo superiore o una maggiore disponibilità a pagare grazie a differenza, valore, prova e target.
+**Prezzo premium** significa capacità di sostenere un prezzo superiore o una maggiore disponibilità a pagare grazie a differenza, valore, prova e target.
 
 Non significa:
 
@@ -1290,7 +1290,7 @@ Un errore comune è lasciare che il cliente scopra solo alla fine che l'offerta 
 
 A quel punto tutta la differenza di prezzo diventa un'obiezione improvvisa.
 
-Il percorso precedente alla proposta dovrebbe rendere comprensibile perché esiste il gap.
+Il percorso precedente alla proposta dovrebbe rendere comprensibile perché esiste il divario.
 
 Il cliente dovrebbe poter pensare:
 
@@ -1332,7 +1332,7 @@ Il cliente vede:
 
 poi può togliere ciò che non è necessario.
 
-Questo è diverso dal partire dalla versione minima e aggiungere continuamente optional senza contesto.
+Questo è diverso dal partire dalla versione minima e aggiungere continuamente opzioni senza contesto.
 
 La configurazione finale deve comunque restare appropriata.
 
@@ -1382,9 +1382,9 @@ Questo rende difficile capire la reale disponibilità a pagare e addestra la ret
 
 Il prezzo deve poter essere presentato con calma come parte dell'offerta.
 
-Se emerge un mismatch, lo si diagnostica.
+Se emerge una incompatibilità, la si diagnostica.
 
-Non lo si inventa in anticipo.
+Non la si inventa in anticipo.
 
 ## Educare ai criteri di qualità
 
@@ -1407,7 +1407,7 @@ La qualità diventa vendibile quando viene collegata a ciò che il cliente sa ri
 
 ## Il prezzo va testato
 
-Il pricing è una ipotesi economica.
+Il prezzo è una ipotesi economica.
 
 Può essere testato su gruppi comparabili osservando non solo la conversione ma l'intero risultato.
 
@@ -1476,7 +1476,7 @@ Dobbiamo ancora controllare:
 
 - qualità dei clienti;
 - riacquisto;
-- cost-to-serve;
+- costo di servizio;
 - capacità liberata;
 - cassa;
 - payback;
@@ -1484,7 +1484,7 @@ Dobbiamo ancora controllare:
 
 La lezione è più importante del risultato numerico:
 
-**la conversione è una leva. Non è l'outcome finale.**
+**la conversione è una leva. Non è il risultato finale.**
 
 ## La fase dell'impresa conta
 
@@ -1504,7 +1504,7 @@ Una impresa matura con domanda forte e capacità limitata può preferire:
 
 Quindi non esiste un prezzo ottimo indipendente dalla fase del sistema.
 
-La strategia di pricing deve sapere che cosa sta cercando di ottimizzare.
+La strategia di prezzo deve sapere che cosa sta cercando di ottimizzare.
 
 ## Clienti nuovi e clienti storici
 
@@ -1544,7 +1544,7 @@ Deve però essere:
 
 Non creare un prezzo assurdo solo per far sembrare economico tutto il resto.
 
-## Price Test Canvas
+## Scheda di test del prezzo
 
 Prima di testare un nuovo prezzo scrivi:
 
