@@ -1,4 +1,5 @@
 name: Build Golden A Preview
+# preview revision 2 - rebuild after editorial and beginner-clarity pass
 
 on:
   push:
@@ -40,7 +41,6 @@ jobs:
           print(f'Golden A word count: {len(words)}')
           print(f'Golden A markdown lines: {len(text.splitlines())}')
 
-          # Make relative figure paths work from generated HTML location.
           text_for_html = text.replace('(figures/', '(../../manual-v2/golden/chapter-01/figures/')
           body = markdown.markdown(text_for_html, extensions=['tables'])
 
@@ -64,34 +64,10 @@ jobs:
             max-width: none;
           }
           h1, h2, h3 { font-family: DejaVu Sans, Arial, sans-serif; color: #111; }
-          h1 {
-            font-size: 25pt;
-            line-height: 1.12;
-            margin: 0 0 22mm 0;
-            font-weight: 700;
-            page-break-after: avoid;
-          }
-          h2 {
-            font-size: 15.5pt;
-            line-height: 1.22;
-            margin: 9mm 0 3.5mm;
-            font-weight: 700;
-            page-break-after: avoid;
-          }
-          h3 {
-            font-size: 12.5pt;
-            line-height: 1.25;
-            margin: 7mm 0 2.5mm;
-            font-weight: 700;
-            page-break-after: avoid;
-          }
-          p {
-            margin: 0 0 4.2mm;
-            orphans: 3;
-            widows: 3;
-            hyphens: auto;
-            text-align: left;
-          }
+          h1 { font-size: 25pt; line-height: 1.12; margin: 0 0 22mm 0; font-weight: 700; page-break-after: avoid; }
+          h2 { font-size: 15.5pt; line-height: 1.22; margin: 9mm 0 3.5mm; font-weight: 700; page-break-after: avoid; }
+          h3 { font-size: 12.5pt; line-height: 1.25; margin: 7mm 0 2.5mm; font-weight: 700; page-break-after: avoid; }
+          p { margin: 0 0 4.2mm; orphans: 3; widows: 3; hyphens: auto; text-align: left; }
           strong { font-weight: 700; }
           blockquote {
             margin: 7mm 8mm;
@@ -113,30 +89,12 @@ jobs:
             line-height: 1.32;
             break-inside: avoid;
           }
-          th, td {
-            border-bottom: 0.5px solid #aaa;
-            padding: 2.4mm 2.2mm;
-            vertical-align: top;
-          }
-          th {
-            background: #efefef;
-            font-weight: 700;
-          }
+          th, td { border-bottom: 0.5px solid #aaa; padding: 2.4mm 2.2mm; vertical-align: top; }
+          th { background: #efefef; font-weight: 700; }
           td:not(:first-child), th:not(:first-child) { text-align: right; }
-          img {
-            display: block;
-            max-width: 100%;
-            max-height: 190mm;
-            margin: 8mm auto 4mm;
-            break-inside: avoid;
-          }
-          p:has(> img) {
-            margin-bottom: 8mm;
-          }
-          ol, ul {
-            margin: 4mm 0 5mm 7mm;
-            padding-left: 5mm;
-          }
+          img { display: block; max-width: 100%; max-height: 190mm; margin: 8mm auto 4mm; break-inside: avoid; }
+          p:has(> img) { margin-bottom: 8mm; }
+          ol, ul { margin: 4mm 0 5mm 7mm; padding-left: 5mm; }
           li { margin-bottom: 1.5mm; }
           code { font-family: DejaVu Sans Mono, monospace; }
           '''
