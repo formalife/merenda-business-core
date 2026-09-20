@@ -54,9 +54,17 @@ def main() -> int:
         "--case",
         action="append",
         dest="cases",
-        help="Expected case ID. Repeat for a focused non-smoke run. Omit for the canonical six-case smoke bundle.",
+        help="Expected case ID. Repeat for a focused non-smoke run.",
+    )
+    ap.add_argument(
+        "--all",
+        action="store_true",
+        help="Use every case recorded in workdir metadata. Intended for the frozen full-suite run.",
     )
     args = ap.parse_args()
+
+    if args.all and args.cases:
+        raise SystemExit("use --all or --case, not both")
 
     trace_path = args.workdir / "prototype-a-trace.jsonl"
     prompt_path = args.workdir / "routing-prompts.jsonl"
@@ -68,18 +76,28 @@ def main() -> int:
         raise SystemExit(f"missing file: {metadata_path}")
     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
 
-    expected_cases = set(args.cases) if args.cases else set(SMOKE_CASES)
+    metadata_cases = metadata.get("cases")
+    if not isinstance(metadata_cases, list) or not all(isinstance(x, str) for x in metadata_cases):
+        raise SystemExit("workdir metadata missing valid cases")
+
+    if args.all:
+        expected_cases = set(metadata_cases)
+        if metadata.get("smoke") is True:
+            raise SystemExit("--all requires a non-smoke workdir")
+    elif args.cases:
+        expected_cases = set(args.cases)
+    else:
+        expected_cases = set(SMOKE_CASES)
+        if metadata.get("smoke") is not True:
+            raise SystemExit("workdir metadata does not identify the canonical smoke run; use --all or --case")
+
     if not expected_cases:
         raise SystemExit("expected case set cannot be empty")
-    if not args.cases and metadata.get("smoke") is not True:
-        raise SystemExit("workdir metadata does not identify the canonical smoke run")
     if metadata.get("gold_exposure") is None:
         raise SystemExit("workdir metadata missing gold_exposure")
-
-    metadata_cases = metadata.get("cases")
-    if not isinstance(metadata_cases, list) or set(metadata_cases) != expected_cases:
+    if set(metadata_cases) != expected_cases:
         raise SystemExit(
-            f"metadata case mismatch: got={sorted(metadata_cases or [])} expected={sorted(expected_cases)}"
+            f"metadata case mismatch: got={sorted(metadata_cases)} expected={sorted(expected_cases)}"
         )
 
     prompt_by_id = {row.get("case_id"): row for row in prompts}
@@ -105,8 +123,6 @@ def main() -> int:
                 f"{cid}: unexpected architecture {trace.get('architecture')!r}; expected {expected_arch!r}"
             )
 
-        # Answer-only bundle deliberately excludes semantic IDs, retrieval paths,
-        # context stats, scores, gold and trace notes. Judge this first.
         answer_rows.append(
             {
                 "case_id": cid,
@@ -119,7 +135,6 @@ def main() -> int:
             }
         )
 
-        # Keep retrieval/debug material separate until answer judgment is frozen.
         debug_rows.append(
             {
                 "case_id": cid,
