@@ -2,11 +2,11 @@
 
 ## Stato
 
-**PHASE 3 — curriculum candidate for gate review**
+**PHASE 3 — APPROVED / PASS 2026-09-20**
 
 Questo documento trasforma il prerequisite graph e la primary-home map in un percorso didattico beginner-first.
 
-Non è ancora una chapter spec e non è prosa del manuale.
+Non è una chapter spec e non è prosa del manuale.
 
 Principio di costruzione:
 
@@ -175,9 +175,9 @@ Esercizio numerico: confronto di segmenti economicamente differenti.
 **Learning outcome:** capire fonti, triangolazione e output della ricerca prima di positioning e copy.  
 **Prerequisiti:** Capp. 5–6.  
 **Dependency:** D-06.  
-**Primary home:** sintesi editoriale G-005, da formalizzare in Fase 4.
+**Primary home:** `manual/syntheses/voice-of-customer.md`.
 
-Fonti concettuali da integrare:
+Fonti concettuali integrate:
 
 - comportamento/economics clienti;
 - complaint mining;
@@ -773,26 +773,6 @@ Questi feedback loop saranno richiamati localmente e ricomposti nel Cap. 39.
 
 ---
 
-# Gap pass della Fase 3
-
-## G-006 — Economics early curriculum
-
-**RISOLTO NELL'ARCHITETTURA:** Cap. 2 introduce la literacy minima; Capp. 30–32 contengono la casa specialistica avanzata. La teoria non viene duplicata: il Cap. 2 insegna le distinzioni e formule minime necessarie, i capitoli avanzati sviluppano gestione, coorti, cassa e capacità.
-
-## G-005 — VoC
-
-Resta aperto alla Fase 4: il Cap. 7 ha una casa e requisiti chiari, ma serve ancora la procedura editoriale completa.
-
-## G-002 — Casi
-
-Resta aperto alla Fase 4/5: collocazione definita; devono essere costruiti i casi sintetici previsti.
-
-## G-007 — Glossario
-
-Parzialmente risolto: first-use map definita. Il glossario finale resta da produrre in release e le chapter specs dovranno imporre definizione al primo utilizzo.
-
----
-
 # Decisioni editoriali strutturali
 
 1. **Economics è bifasico:** literacy minima all'inizio, sistema completo dopo il lifecycle.
@@ -808,16 +788,6 @@ Parzialmente risolto: first-use map definita. Il glossario finale resta da produ
 
 ---
 
-# Phase 3 gate candidate
+# Phase 3 gate
 
-Il curriculum v1:
-
-- copre tutti i cluster primari;
-- rispetta D-01…D-35;
-- introduce i prerequisiti prima dell'uso;
-- assegna casi ed esempi;
-- definisce first-use terminology;
-- risolve G-006;
-- rende espliciti i residui da chiudere in Fase 4.
-
-Da validare con `manual/PHASE3_AUDIT.md` prima di marcare la Fase 3 `DONE`.
+**PASS — vedi `manual/PHASE3_AUDIT.md`.**
