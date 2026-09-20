@@ -243,7 +243,7 @@ Una nicchia può essere ottima e troppo piccola.
 
 Questo accade soprattutto quando il business richiede una struttura fisica o una geografia limitata.
 
-Immagina un servizio premium per cui il target nazionale è di 20.000 persone.
+Immagina un servizio di fascia alta per cui il target nazionale è di 20.000 persone.
 
 Se vendi online in tutta Italia, potrebbe essere un bacino interessante.
 
@@ -271,7 +271,7 @@ Se il bacino contiene 150 clienti potenziali realistici e il servizio viene acqu
 
 Se ne contiene 20.000, il gate non è ancora superato, ma almeno l'ordine di grandezza può essere compatibile.
 
-Questa è una delle funzioni degli economics: trasformare parole come “grande”, “piccolo” e “nicchia” in domande misurabili.
+Questa è una delle funzioni dei numeri economici: trasformare parole come “grande”, “piccolo” e “nicchia” in domande misurabili.
 
 ## Caso didattico: il ristorante che non deve aprire ovunque
 
@@ -279,7 +279,7 @@ Immagina un format di ristorazione molto focalizzato, con un prodotto-bandiera c
 
 A livello nazionale esistono migliaia di potenziali clienti.
 
-Il founder osserva il successo della prima sede e conclude:
+L'imprenditore osserva il successo della prima sede e conclude:
 
 > Possiamo aprire in qualunque città abbastanza grande.
 
@@ -291,7 +291,7 @@ Prima di ogni apertura deve verificare almeno:
 - densità e raggiungibilità del target;
 - concorrenza e alternative;
 - frequenza naturale di consumo;
-- ticket e margine;
+- spesa media e margine;
 - capacità operativa della sede;
 - vendite necessarie per sostenere i costi.
 
@@ -308,7 +308,7 @@ Puoi avere:
 - domanda;
 - target raggiungibile;
 - capacità di acquisto;
-- trend favorevole;
+- direzione favorevole;
 - bacino sufficiente;
 
 ed essere comunque sconfitto da:
@@ -318,7 +318,7 @@ ed essere comunque sconfitto da:
 - prezzo sbagliato;
 - acquisizione costosa;
 - vendita mediocre;
-- delivery fragile;
+- erogazione fragile;
 - costi fuori controllo.
 
 Il gate di mercato risponde a una domanda più limitata:
@@ -409,7 +409,7 @@ Un cliente può essere disposto a pagare e restare comunque una cattiva vendita 
 
 ## Valore del cliente: guardare oltre il fatturato
 
-Per valutare un segmento servono almeno più dimensioni.
+Per valutare un segmento servono più dimensioni.
 
 ### Margine
 
@@ -510,7 +510,7 @@ La stessa persona può spendere moltissimo in una categoria e minimizzare il pre
 
 Quindi patrimonio, propensione a spendere e differenza percepita non devono essere confusi.
 
-Per scegliere un segmento premium chiedi:
+Per scegliere un segmento disposto a spendere di più chiedi:
 
 - può pagare?;
 - vuole pagare in questa categoria?;
@@ -542,7 +542,7 @@ Potresti ottenere:
 - rimborsi;
 - cattive recensioni;
 - nessun riacquisto;
-- nessun referral;
+- nessun passaparola qualificato;
 - casi deboli.
 
 La qualità del cliente comprende quindi anche la probabilità che possa ottenere il risultato.
@@ -634,7 +634,7 @@ Se non cambia nessuna decisione, può essere descrittivo ma non operativo.
 
 Questa regola protegge da due errori:
 
-- creare avatar pieni di dettagli decorativi;
+- creare profili immaginari pieni di dettagli decorativi;
 - trasformare correlazioni deboli in stereotipi.
 
 ## Caso didattico: il segmento più numeroso non è il migliore
@@ -643,7 +643,7 @@ Consideriamo un'impresa B2B fittizia, **NordService**, che gestisce manutenzione
 
 Negli ultimi dodici mesi osserva due gruppi.
 
-### Cluster A — strutture con più punti operativi
+### Gruppo A — strutture con più punti operativi
 
 - 50 clienti;
 - margine medio prima del supporto extra: 600 €;
@@ -652,7 +652,7 @@ Negli ultimi dodici mesi osserva due gruppi.
 
 Contributo indicativo del gruppo: 25.000 €.
 
-### Cluster B — microimprese che chiamano quasi solo in emergenza
+### Gruppo B — microimprese che chiamano quasi solo in emergenza
 
 - 80 clienti;
 - margine medio prima del supporto extra: 420 €;
@@ -661,9 +661,9 @@ Contributo indicativo del gruppo: 25.000 €.
 
 Contributo indicativo del gruppo: 19.200 €.
 
-Il Cluster B contiene più clienti.
+Il Gruppo B contiene più clienti.
 
-Il Cluster A produce più contributo con meno relazioni.
+Il Gruppo A produce più contributo con meno relazioni.
 
 Non basta ancora per dichiararlo “migliore”: dobbiamo capire durata, qualità degli incassi, risultato, raggiungibilità e altri fattori.
 
@@ -729,7 +729,7 @@ Non è:
 - un sondaggio di gradimento;
 - una raccolta di citazioni;
 - una serie di interviste amichevoli;
-- un documento con buyer persona colorate;
+- una serie di profili immaginari del cliente;
 - una lista di desideri da eseguire letteralmente.
 
 La ricerca serve a ridurre l'incertezza su una decisione.
@@ -742,7 +742,7 @@ La prima domanda quindi non è:
 
 > Quale decisione devo prendere e quale evidenza potrebbe cambiarla?
 
-## Ricerca decision-first
+## Ricerca orientata alla decisione
 
 Supponiamo che tu debba scegliere fra due segmenti.
 
@@ -792,7 +792,7 @@ Ricostruisci:
 - che cosa ha sostituito;
 - sequenza degli acquisti;
 - tempo fra acquisti;
-- upgrade o riduzioni;
+- passaggi a versioni superiori o inferiori;
 - abbandoni;
 - richieste non servite.
 
@@ -831,7 +831,7 @@ Può scegliere:
 - convivere con il problema;
 - non fare nulla.
 
-Quindi la concorrenza reale comprende anche lo **status quo**.
+Quindi la concorrenza reale comprende anche la scelta di continuare come prima.
 
 Questo cambia la ricerca.
 
@@ -868,7 +868,7 @@ La sequenza corretta è:
 
 **frizione osservata → causa plausibile → possibilità di cambiare davvero il sistema → differenza operativa → prova.**
 
-Se non puoi correggere la causa, usare la lamentela come claim produce solo una promessa fragile.
+Se non puoi correggere la causa, usare la lamentela come promessa produce solo una promessa fragile.
 
 ## Scegliere chi ascoltare
 
@@ -965,7 +965,7 @@ Potresti scoprire che il mercato compra per:
 - comodità;
 - assenza di alternative.
 
-Questo non decide automaticamente che cosa dovrai comunicare. Ma misura la posizione realmente percepita.
+Questo non decide automaticamente che cosa dovrai comunicare. Ma misura la ragione di scelta realmente percepita.
 
 ## Separare evidenza e interpretazione
 
@@ -1044,7 +1044,7 @@ La triangolazione serve soprattutto a evitare che una frase memorabile venga sca
 
 Riprendiamo l'impresa fittizia del capitolo precedente.
 
-Il founder crede che il suo vantaggio sia:
+L'imprenditore crede che il suo vantaggio sia:
 
 > qualità e assistenza completa.
 
@@ -1054,7 +1054,7 @@ La ricerca parte da una decisione diversa:
 
 ### Evidenza economica
 
-Il Cluster A — strutture con più punti operativi — genera più contributo medio e meno cost-to-serve del Cluster B.
+Il Gruppo A — strutture con più punti operativi — genera più contributo medio e meno cost-to-serve del Gruppo B.
 
 ### Complaint mining
 
@@ -1067,7 +1067,7 @@ Nelle recensioni delle alternative emergono:
 
 ### Interviste
 
-Fra i clienti del Cluster A ricorrono altri segnali:
+Fra i clienti del Gruppo A ricorrono altri segnali:
 
 - il responsabile deve coordinare più sedi;
 - deve dimostrare internamente che le attività sono state svolte;
@@ -1089,7 +1089,7 @@ Lo faremo nel Capitolo 9.
 
 La ricerca deve terminare in un artefatto operativo, non in cento pagine di note.
 
-Per ogni segmento candidato costruisci una **Market Evidence Map**.
+Per ogni segmento candidato costruisci una **Market Evidence Map**, cioè una mappa sintetica delle evidenze di mercato.
 
 ### Segmento
 
@@ -1147,7 +1147,7 @@ Per ogni segmento candidato costruisci una **Market Evidence Map**.
 - proposta da testare;
 - percorso iniziale da provare.
 
-La colonna più importante è quella delle ipotesi, perché impedisce di fingere che la ricerca abbia prodotto certezze.
+La sezione più importante è quella delle ipotesi, perché impedisce di fingere che la ricerca abbia prodotto certezze.
 
 ## La ricerca finisce con un test
 
@@ -1173,7 +1173,7 @@ Voice of Customer non è quindi una fase da fare una volta.
 
 Vendita, assistenza, acquisti, abbandoni, recensioni e risultati continuano ad aggiornarla.
 
-## Minimum viable research quando parti da zero
+## Ricerca minima utile quando parti da zero
 
 Se non hai ancora clienti, non puoi leggere margine, LTV o motivi di riacquisto interni.
 
@@ -1332,7 +1332,7 @@ Per vincere contro lo status quo non basta essere “migliori” di un concorren
 
 Deve esistere una ragione sufficientemente forte per cambiare.
 
-## Switching cost: il costo del cambiamento
+## Il costo del cambiamento
 
 Anche quando una alternativa è mediocre, cambiarla può costare.
 
@@ -1363,7 +1363,7 @@ Esempi B2B:
 
 - contratto in scadenza;
 - nuova sede;
-- audit;
+- verifica interna;
 - cambio responsabile;
 - guasto;
 - nuova normativa;
@@ -1620,7 +1620,7 @@ Abbiamo costruito quattro asset decisionali.
 
 ### 1. Market Gate
 
-Sappiamo verificare se domanda, raggiungibilità, capacità di acquisto, trend e bacino possono sostenere il modello.
+Sappiamo verificare se domanda, raggiungibilità, capacità di acquisto, direzione e bacino possono sostenere il modello.
 
 ### 2. Cliente desiderabile
 
