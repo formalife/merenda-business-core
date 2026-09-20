@@ -51,7 +51,7 @@ La roadmap, lo stato e le regole editoriali sono versionati nel repository e ogn
 
 # Fase 1 — Architecture Review e corpus inventory
 
-**Stato: IN PROGRESS**
+**Stato: DONE**
 
 ## Scopo
 
@@ -82,11 +82,13 @@ Capire esattamente che cosa deve essere trasformato in materiale didattico, senz
 
 Ogni nodo rilevante della KB ha una classificazione editoriale esplicita e non esiste un file canonico non considerato.
 
+**Gate soddisfatto: 60/60 file sotto `merenda/` censiti e classificati; corpus interpretativo/provenance separato; gap iniziali registrati.**
+
 ---
 
 # Fase 2 — Semantic decomposition e KB-to-Manual Crosswalk
 
-**Stato: NOT STARTED**
+**Stato: IN PROGRESS**
 
 ## Scopo
 
@@ -111,9 +113,16 @@ Trasformare i documenti della KB in unità di conoscenza indipendenti dalla loro
 
 Non si riassume il file. Si estrae **che cosa il lettore deve imparare e saper fare**.
 
+## Struttura operativa scelta
+
+Il crosswalk sarà **modulare per sezione**, con un indice master.
+
+Motivo: un singolo file renderebbe più difficile controllare copertura, review e aggiornamenti. La modularità segue le sezioni della KB soltanto come unità di lavorazione; non implica che il curriculum finale conserverà la stessa tassonomia.
+
 ## Output
 
-- `manual/KB_TO_MANUAL_CROSSWALK.md` oppure crosswalk modulari per sezione se il file unico diventa inefficiente;
+- `manual/KB_TO_MANUAL_CROSSWALK.md` come indice e coverage master;
+- directory `manual/crosswalk/` con un file per sezione canonica;
 - mappa dei concetti duplicati con una sola futura casa primaria nel manuale;
 - coverage status per ogni nodo canonico.
 
