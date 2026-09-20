@@ -2,9 +2,9 @@
 
 ## Stato generale
 
-**ACTIVE — FASE 1 / ARCHITECTURE REVIEW E CORPUS INVENTORY**
+**ACTIVE — FASE 2 / SEMANTIC DECOMPOSITION E KB-TO-MANUAL CROSSWALK**
 
-Il publishing layer è stato inizializzato e la roadmap è attiva.
+Il publishing layer è inizializzato, la Fase 1 è chiusa e il progetto sta trasformando i nodi canonici in unità di conoscenza.
 
 ## Baseline iniziale
 
@@ -54,29 +54,77 @@ I nodi canonici sono fonti di conoscenza, non blocchi da concatenare. Il manuale
 
 Non si avvia la produzione sistematica dei capitoli finché inventario, semantic crosswalk, curriculum e gap closure non raggiungono i gate previsti dalla roadmap.
 
+### D-007 — Crosswalk modulare
+
+**Stato: CURRENT**
+
+La Fase 2 usa un indice master `manual/KB_TO_MANUAL_CROSSWALK.md` e file modulari sotto `manual/crosswalk/`.
+
+Le sezioni della KB vengono usate come unità di lavorazione, non come indice finale del manuale.
+
 ## Completato
+
+### Fase 0 — DONE
 
 - baseline iniziale verificato;
 - governance frozen verificata;
 - `manual/README.md` creato;
 - `manual/ROADMAP.md` creato;
 - `manual/STATUS.md` creato;
-- `manual/MANUAL_CONTRACT.md` avviato.
+- `manual/MANUAL_CONTRACT.md` creato.
+
+### Fase 1 — DONE
+
+- 60/60 file sotto `merenda/` censiti;
+- separati doctrine, synthesis, routing, case/example e reference;
+- corpus di supporto interpretativo/provenance definito;
+- `manual/CORPUS_INVENTORY.md` creato;
+- `manual/MANUAL_GAPS.md` creato;
+- gap iniziali classificati;
+- gate Fase 1 soddisfatto.
 
 ## Fase attiva
 
-### Fase 1 — Architecture Review e corpus inventory
+### Fase 2 — Semantic decomposition e KB-to-Manual Crosswalk
 
-Obiettivo immediato: costruire un censimento esaustivo dei file rilevanti e assegnare a ciascuno un ruolo editoriale.
+Obiettivo: estrarre da ogni nodo canonico ciò che il lettore deve imparare e saper fare, indipendentemente dalla struttura originale dei file.
+
+## Ordine di lavorazione corrente
+
+1. `00_fondamenti`;
+2. `01_mercato`;
+3. `02_posizionamento`;
+4. `03_offerta`;
+5. `04_marketing`;
+6. `05_acquisizione`;
+7. `06_vendita`;
+8. `07_copy_comunicazione`;
+9. `08_brand`;
+10. `09_business`;
+11. `10_casi_studio`;
+12. cross-section deduplication e dependency pass;
+13. aggiornamento gap register;
+14. verifica gate Fase 2.
+
+L'ordine sopra è **ordine di decomposizione**, non curriculum finale.
 
 ## Next Action
 
-1. censire ricorsivamente `merenda/`;
-2. registrare per ogni file path, sezione, tipo e ruolo editoriale;
-3. includere documenti root/audit/provenance che cambiano l'interpretazione del corpus;
-4. creare `manual/CORPUS_INVENTORY.md`;
-5. creare la prima versione di `manual/MANUAL_GAPS.md`;
-6. verificare il gate della Fase 1.
+1. creare `manual/KB_TO_MANUAL_CROSSWALK.md` come indice master;
+2. decomporre `00_fondamenti` in `manual/crosswalk/00_fondamenti.md`;
+3. assegnare ID stabili alle unità di conoscenza;
+4. marcare tipo, prerequisiti, dipendenze, caveat e futura destinazione editoriale;
+5. aggiornare coverage dei file processati;
+6. proseguire sezione per sezione.
+
+## Gap aperti prioritari
+
+- G-001 — vendita end-to-end — P1;
+- G-002 — libreria casi — P1;
+- G-003 — doctrine/provenance map — P1;
+- G-006 — economics da introdurre prima nel curriculum — P1.
+
+Gli altri gap restano registrati in `manual/MANUAL_GAPS.md`.
 
 ## Blocchi
 
@@ -89,7 +137,10 @@ Chiunque riprenda questo lavoro deve leggere, nell'ordine:
 1. `manual/ROADMAP.md`;
 2. questo file;
 3. `manual/MANUAL_CONTRACT.md`;
-4. gli output della fase attiva;
-5. solo dopo i nodi canonici necessari.
+4. `manual/CORPUS_INVENTORY.md`;
+5. `manual/MANUAL_GAPS.md`;
+6. `manual/KB_TO_MANUAL_CROSSWALK.md` quando esiste;
+7. il file crosswalk della sezione attiva;
+8. solo dopo i nodi canonici necessari.
 
 Al termine deve aggiornare questo file con fase corrente e prossima azione.
