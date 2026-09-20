@@ -103,6 +103,10 @@ Il testo finale deve essere source-agnostic, ma il lavoro editoriale deve evitar
 
 Integrare provenance e temporal caveat nel semantic crosswalk solo al livello necessario per verificabilità. Non replicare l'intero source registry.
 
+### Evidenza emersa in Fase 2
+
+`MRC-036 — Proof by Refusal` conferma che alcuni principi utili al manuale provengono da fonti assimilate e richiedono provenance backend esplicita anche se la prosa finale è agnostica.
+
 ---
 
 ## G-004 — Sintesi organica della costruzione del brand
@@ -137,9 +141,9 @@ La sequenza è una working synthesis, non ancora una regola canonica autonoma.
 
 **Priorità: P2**  
 **Tipo: EDITORIAL GAP, con possibile residuo DOCTRINAL GAP**  
-**Stato: OPEN**
+**Stato: IN SYNTHESIS**
 
-### Evidenza
+### Evidenza iniziale
 
 Il semantic audit segnala che le tecniche esistono ma sono disperse fra:
 
@@ -151,13 +155,41 @@ Il semantic audit segnala che le tecniche esistono ma sono disperse fra:
 - storia di acquisto;
 - segmentazione e appropriatezza.
 
+### Evidenza dopo `01_mercato`
+
+Il crosswalk mercato ha consolidato una base sostanziale di input per la ricerca:
+
+- clienti migliori e peggiori;
+- margine, frequenza, recency, LTV e cost-to-serve;
+- alternative attuali e storia d'acquisto;
+- soddisfazione e volontà di cambiare;
+- dialogo mentale/linguaggio quando osservabile;
+- capacità di acquisto;
+- fit e capacità di implementazione;
+- risultati ottenuti;
+- dimensione, identificabilità, raggiungibilità e trend della domanda.
+
+Riferimenti: `MRC-015`, `MRC-017…MRC-022`, `MRC-031…MRC-035`, `MRC-052…MRC-053`.
+
+### Gap residuo
+
+La sezione non fornisce ancora da sola un processo completo per:
+
+1. definire quali domande di ricerca servono;
+2. scegliere e combinare fonti;
+3. condurre e analizzare interviste;
+4. estrarre linguaggio e pattern senza sovrappesare singoli casi;
+5. distinguere frequenza, intensità e valore economico del segnale;
+6. sintetizzare gli insight in target, problema, offerta, prova e messaggio;
+7. validare la sintesi con comportamento e numeri.
+
 ### Impatto sul manuale
 
 Il lettore non può ricevere soltanto la regola “capisci il mercato”: deve avere un processo per raccogliere evidenza senza confondere opinioni del founder e comportamento del cliente.
 
 ### Azione prevista
 
-Prima tentare una sintesi completa con il corpus esistente. Se mancano passaggi indispensabili, classificare precisamente ciò che manca prima di valutare nuova acquisizione.
+Continuare la sintesi durante `02_posizionamento`, `04_marketing`, `07_copy_comunicazione`, `08_brand` e i nodi che contengono complaint/query/testimonianze. Dopo il cross-section pass decidere se il processo è costruibile interamente nel publishing layer o se resta un doctrinal gap preciso.
 
 ---
 
@@ -165,7 +197,7 @@ Prima tentare una sintesi completa con il corpus esistente. Se mancano passaggi 
 
 **Priorità: P1**  
 **Tipo: CURRICULUM GAP**  
-**Stato: OPEN**
+**Stato: OPEN — EVIDENZA RAFFORZATA**
 
 ### Evidenza
 
@@ -181,6 +213,8 @@ Tuttavia gli stessi concetti sono prerequisiti per comprendere:
 - acquisizione;
 - retention;
 - capacità e scala.
+
+Il crosswalk `01_mercato` rafforza il punto: `MRC-005`, `MRC-024`, `MRC-025`, `MRC-027`, `MRC-035` e `MRC-047` richiedono margine, LTV, cost-to-serve, capacità e payback già per scegliere il mercato e il cliente.
 
 ### Azione prevista
 
@@ -201,7 +235,7 @@ Non duplicare la teoria: usare introduzione progressiva e una casa primaria chia
 
 ### Evidenza
 
-La KB presuppone spesso familiarità con termini quali CAC, LTV, payback, front-end, back-end, direct response, awareness, funnel, positioning, referral e altri.
+La KB presuppone spesso familiarità con termini quali CAC, LTV, payback, front-end, back-end, direct response, awareness, funnel, positioning, referral, RFM, cost-to-serve e altri.
 
 ### Impatto sul manuale
 
@@ -230,9 +264,11 @@ Il valore post-vendita è distribuito fra:
 - `09_business/retention-onboarding-e-customer-success.md`;
 - `03_offerta/front-end-e-back-end.md`.
 
+`MRC-046…MRC-051` aggiungono una dipendenza importante: la retention va letta rispetto alla durata naturale della relazione e alla rotazione delle coorti, non come permanenza infinita del singolo cliente.
+
 ### Impatto sul manuale
 
-Senza un disegno unitario, retention, seconda vendita, referral, reputazione e riattivazione rischiano di sembrare tattiche separate invece di un ciclo economico unico.
+Senza un disegno unitario, retention, seconda vendita, referral, reputazione, riattivazione e sostituzione delle coorti rischiano di sembrare tattiche separate invece di un ciclo economico unico.
 
 ### Azione prevista
 
