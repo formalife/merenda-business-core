@@ -16,7 +16,7 @@ Il manuale ha costruito, in ordine, una macchina completa:
 - esperienza;
 - retention;
 - reputazione;
-- economics;
+- economia;
 - cassa;
 - capacità;
 - processi;
@@ -49,7 +49,7 @@ In entrambi i casi la regola è la stessa:
 
 **non partire dalla struttura che vuoi costruire. Parti dal valore che qualcuno dovrebbe voler comprare.**
 
-Questo non significa ignorare ciò che già sai o gli asset che possiedi.
+Questo non significa ignorare ciò che già sai o le risorse che possiedi.
 
 Significa non trasformare il passato in un vincolo solo perché è il passato.
 
@@ -89,7 +89,7 @@ Quando studi un business di successo, separa ciò che è trasferibile da ciò ch
 
 Un risultato storico può derivare da:
 
-**capacità + contesto + timing.**
+**capacità + contesto + momento storico.**
 
 Le capacità possono includere:
 
@@ -196,30 +196,30 @@ Una persona che paga dimostra una forma più forte di domanda economica.
 
 Non usare il gratuito per rimandare indefinitamente il momento in cui chiedi denaro.
 
-## Asset-light
+## Struttura leggera
 
-Un modello **asset-light**, cioè con minore proprietà diretta di asset e capacità fisse, può ridurre il capitale iniziale necessario.
+Un modello a **struttura leggera**, spesso indicato con l'inglese *asset-light*, riduce la proprietà diretta di asset e capacità fisse quando il modello consente di accedere a risorse esterne.
 
 Invece di costruire subito:
 
 - stabilimento;
 - magazzino;
 - infrastruttura;
-- team completo;
+- squadra completa;
 
 puoi, quando il modello lo consente, accedere a capacità di altri.
 
 La logica non è “non possedere mai”.
 
-È:
+La domanda è:
 
-> possedere questa capacità oggi aumenta davvero il vantaggio o sto immobilizzando capitale prima della prova?
+> Possedere questa capacità oggi aumenta davvero il vantaggio o sto immobilizzando capitale prima della prova?
 
 ## Il ciclo di apprendimento iniziale
 
 Una buona fase iniziale produce:
 
-**prova → feedback → correzione → risultato → prova sociale → nuovo prezzo/offerta → nuova prova.**
+**prova → riscontro → correzione → risultato → prova sociale → nuovo prezzo/offerta → nuova prova.**
 
 Con il tempo puoi aumentare:
 
@@ -262,7 +262,7 @@ Automatizza soltanto quella parte ripetitiva.
 
 Misura:
 
-- tempo di delivery;
+- tempo di erogazione;
 - margine;
 - errori;
 - disponibilità a pagare;
@@ -275,7 +275,7 @@ Il vantaggio non è aver evitato ogni investimento.
 
 È aver investito dopo aver imparato che cosa meritava di essere costruito.
 
-## Minimum Economic Prototype Canvas
+## Scheda del prototipo economico minimo
 
 ### 1. Risultato
 
@@ -329,15 +329,15 @@ Quando il core inizia a produrre surplus, compare una nuova domanda:
 
 Non ogni spesa aziendale è reinvestimento.
 
-Un **reinvestimento** è l'allocazione di capitale verso una capacità o un asset che dovrebbe aumentare valore economico futuro, ridurre un rischio rilevante o rimuovere un collo di bottiglia.
+Un **reinvestimento** è l'allocazione di capitale verso una capacità o una risorsa che dovrebbe aumentare valore economico futuro, ridurre un rischio rilevante o rimuovere un collo di bottiglia.
 
 La parola “investimento” non rende automaticamente buona una spesa.
 
-Deve esistere una logica causale.
+Deve esistere una logica causale e, quando possibile, una misura che permetta di verificare il risultato.
 
 ## Denaro dell'azienda e denaro del proprietario
 
-L'impresa può essere un asset del proprietario.
+L'impresa può essere una risorsa economica del proprietario.
 
 Ma questo non rende indistinguibili:
 
@@ -380,7 +380,7 @@ Usi possibili includono:
 - ricerca e sviluppo;
 - capacità;
 - sistemi;
-- asset;
+- risorse durevoli;
 - riduzione di una dipendenza critica.
 
 Ma il criterio non è la categoria della spesa.
@@ -399,15 +399,15 @@ Migliora immagine interna e spazio disponibile.
 
 ### B — secondo tecnico qualificato
 
-Riduce un backlog che sta impedendo di consegnare e acquisire altri clienti.
+Riduce un lavoro arretrato che sta impedendo di consegnare e acquisire altri clienti.
 
 Se la sede non è il vincolo e il tecnico sì, la seconda opzione ha una causalità economica più chiara.
 
 Il capitale deve cercare rendimento, non status.
 
-## Yield Gap e capacità ricomprata
+## Divario di rendimento e capacità ricomprata
 
-Il concetto di Yield Gap del Capitolo 35 si applica direttamente all'allocazione del capitale.
+Il concetto di **divario di rendimento** del Capitolo 35 si applica direttamente all'allocazione del capitale.
 
 Pagare qualcuno per svolgere attività a basso rendimento può essere sensato se libera una capacità rara che viene poi usata su attività a rendimento maggiore.
 
@@ -417,7 +417,7 @@ Il passaggio decisivo è l'ultima parte.
 
 Senza riallocazione produttiva, la delega ha solo aumentato il costo.
 
-## Una spesa deve avere un outcome atteso
+## Una spesa deve avere un risultato atteso
 
 Prima di una spesa discreta importante scrivi:
 
@@ -439,12 +439,12 @@ Questo vale per:
 
 ## Capitale esterno
 
-Capitale esterno può arrivare in forme differenti.
+Il capitale esterno può arrivare in forme differenti.
 
 Due famiglie generali sono:
 
 - debito o finanziamento;
-- equity, cioè capitale in cambio di una quota o di diritti economici e di governance.
+- **equity**, cioè capitale in cambio di una quota o di diritti economici e di governo societario.
 
 Nessuna forma è moralmente buona o cattiva per definizione.
 
@@ -467,7 +467,7 @@ nuovo capitale può aumentare la velocità.
 
 Se questi elementi sono deboli, può amplificare la perdita.
 
-## Equity significa anche governance
+## Equity significa anche governo societario
 
 Accettare equity non significa soltanto ricevere denaro.
 
@@ -485,7 +485,7 @@ Prima di accettare capitale chiedi almeno:
 - quali decisioni richiedono consenso?;
 - quali diritti riceve l'investitore?;
 - quale orizzonte economico cerca?;
-- come cambia la governance?;
+- come cambia il governo societario?;
 - quali scenari di uscita esistono?
 
 Per aspetti legali e finanziari specifici servono professionisti competenti.
@@ -521,7 +521,7 @@ Prima costruisci la capacità di:
 
 Poi quella capacità può essere applicata altrove.
 
-## Capital Allocation Memo
+## Memo di allocazione del capitale
 
 Per ogni uso importante del capitale scrivi:
 
@@ -533,7 +533,7 @@ Quale problema economico stiamo risolvendo?
 
 Dove vogliamo allocare capitale?
 
-### 3. Outcome
+### 3. Risultato atteso
 
 Che cosa dovrebbe cambiare?
 
@@ -545,7 +545,7 @@ Come lo sapremo?
 
 Quando dovrebbe emergere evidenza?
 
-### 6. Downside
+### 6. Rischio economico
 
 Quanto capitale possiamo perdere o immobilizzare?
 
@@ -557,11 +557,11 @@ Che cosa viene creato o liberato?
 
 Qual è il costo opportunità rispetto agli altri usi?
 
-### 9. Governance
+### 9. Governo societario
 
 Cambiano controllo o diritti decisionali?
 
-### 10. Stageability
+### 10. Procedibilità per fasi
 
 Possiamo testare in una fase più piccola prima dell'impegno completo?
 
@@ -589,7 +589,7 @@ Per questo il primo gate è:
 
 Se la risposta è un sistema fragile, stiamo replicando fragilità.
 
-## Decollo prima dell'altitudine
+## Decollo prima dell'espansione
 
 Prima di espandere dovrebbero esistere abbastanza evidenze su:
 
@@ -606,9 +606,9 @@ Non serve perfezione.
 
 Serve che il core sia abbastanza leggibile da sapere che cosa vogliamo replicare.
 
-## Replicare successo, non povertà
+## Espandere un core che ha già dimostrato di reggere
 
-Un anti-pattern ricorrente è:
+Un errore ricorrente è:
 
 - il primo locale guadagna poco → apriamone un secondo;
 - il prodotto principale vende poco → aggiungiamone altri cinque;
@@ -618,7 +618,7 @@ Questo aumenta complessità senza risolvere la causa.
 
 Prima chiedi:
 
-> Il limite è davvero il mercato disponibile o stiamo sotto-ottimizzando il core?
+> Il limite è davvero il mercato disponibile o stiamo sfruttando male il core?
 
 ## Saturazione reale e CAC marginale
 
@@ -670,7 +670,7 @@ Può condividere:
 - infrastruttura;
 - amministrazione;
 - tecnologia;
-- delivery.
+- erogazione.
 
 Ma il mercato deve vedere una proposta coerente col proprio problema.
 
@@ -738,11 +738,11 @@ Cambiano:
 
 La procedura è:
 
-**asset trasferibili → nuova ricerca → nuova mappa competitiva → ipotesi di posizione → offerta → test.**
+**risorse trasferibili → nuova ricerca → nuova mappa competitiva → ipotesi di posizione → offerta → test.**
 
 Tradurre una campagna non equivale a trasferire una strategia.
 
-## Fama e co-branding
+## Fama e collaborazione fra brand
 
 Un nome noto può accelerare attenzione.
 
@@ -756,17 +756,17 @@ Ma resta la domanda:
 
 > Perché il cliente dovrebbe comprare questa proposta quando il partner non è presente?
 
-Il **co-branding** può prestare credito.
+Una **collaborazione fra brand**, o *co-branding*, può prestare credito.
 
 Non garantisce proprietà permanente della posizione.
 
-## Sell-in e sell-through
+## Vendita al canale e vendita al cliente finale
 
 Quando esiste un intermediario, distinguere due vendite.
 
-**Sell-in:** il produttore vende al distributore, rivenditore o partner.
+**Vendita al canale, o sell-in:** il produttore vende al distributore, rivenditore o partner.
 
-**Sell-through:** l'intermediario riesce a vendere al cliente finale.
+**Vendita al cliente finale, o sell-through:** l'intermediario riesce a vendere al cliente finale.
 
 Molto sell-in non dimostra automaticamente domanda finale.
 
@@ -774,7 +774,7 @@ Una espansione attraverso canali deve verificare entrambi.
 
 ## Incentivi differenti nella catena
 
-Franchisor, franchisee, distributore, produttore e cliente possono avere economics differenti.
+Franchisor, franchisee, distributore, produttore e cliente possono avere economie differenti.
 
 Una struttura può sembrare molto profittevole per un attore e debole per un altro.
 
@@ -793,24 +793,24 @@ Una nuova unità dovrebbe ricevere più di un'insegna.
 
 Servono, in funzione del modello:
 
-- economics;
+- economia del core;
 - criteri di localizzazione;
 - processo operativo;
 - acquisizione;
 - vendita;
-- training;
+- formazione;
 - raccolta dati;
 - standard;
 - controllo.
 
 La seconda sede non deve essere l'esperimento con cui scopri se la prima era realmente replicabile.
 
-## Expansion Gate
+## Gate di espansione
 
 1. il core è profittevole e leggibile?;
 2. la nicchia attuale è davvero limitante?;
 3. quale livello di espansione stiamo proponendo?;
-4. quale cliente/problema/categoria cambia?;
+4. quale cliente, problema o categoria cambia?;
 5. quali posizioni sono già occupate?;
 6. stesso brand o brand separato?;
 7. quale capitale e capacità servono?;
@@ -857,7 +857,7 @@ Questa domanda protegge da:
 
 usati come risposta automatica.
 
-## Passo 1 — Definire l'outcome mancante
+## Passo 1 — Definire il risultato mancante
 
 Descrivi:
 
@@ -873,7 +873,7 @@ Esempio debole:
 
 Esempio utile:
 
-> Negli ultimi tre mesi il numero di opportunità qualificate è rimasto stabile, ma il margine mensile è sceso del 20% perché il close rate e il margine medio per vendita sono diminuiti.
+> Negli ultimi tre mesi il numero di opportunità qualificate è rimasto stabile, ma il margine mensile è sceso del 20% perché il tasso di chiusura e il margine medio per vendita sono diminuiti.
 
 Ora esiste qualcosa da diagnosticare.
 
@@ -888,8 +888,8 @@ Il problema appare principalmente in:
 - domanda/canale?;
 - acquisizione/funnel?;
 - vendita?;
-- esperienza/lifecycle?;
-- economics/cassa?;
+- esperienza/ciclo di vita?;
+- economia/cassa?;
 - capacità/processi/persone?;
 - espansione?
 
@@ -903,16 +903,16 @@ Un problema di vendita può essere causato da:
 
 - target sbagliato;
 - posizione debole;
-- prezzo non premotivato;
+- prezzo non preparato a monte;
 - poca prova;
-- lead troppo immature.
+- contatti troppo immaturi.
 
 Un problema di retention può iniziare da:
 
 - promessa sbagliata;
 - cliente inappropriato;
 - onboarding;
-- delivery.
+- erogazione.
 
 Un problema di cassa può essere causato da:
 
@@ -922,7 +922,7 @@ Un problema di cassa può essere causato da:
 - crescita troppo rapida;
 - margine debole.
 
-La regola è:
+Ricorda:
 
 **luogo del sintomo ≠ luogo certo della causa.**
 
@@ -935,7 +935,7 @@ Le recensioni stanno peggiorando.
 - sintomo: reputazione negativa;
 - causa possibile: ritardi di consegna;
 - causa a monte: capacità insufficiente;
-- amplificatore: più advertising che porta altro volume.
+- amplificatore: più pubblicità che porta altro volume.
 
 Spegnere le recensioni non risolve nulla.
 
@@ -950,7 +950,7 @@ Prima di comprare nuova domanda chiedi se esiste valore non sfruttato in:
 - referral;
 - clienti fermi;
 - trattative non chiuse;
-- lead già acquisite.
+- contatti già acquisiti.
 
 Nuovo traffico non deve essere la risposta automatica a ogni problema di ricavi.
 
@@ -1044,39 +1044,39 @@ Ordine di controllo:
 3. prova e domanda — Capp. 14–16;
 4. database e funnel — Capp. 17–19;
 5. vendita — Capp. 22–24;
-6. retention/referral/riattivazione — Capp. 25–27;
-7. economics dell'acquisizione — Cap. 30.
+6. retention, referral e riattivazione — Capp. 25–27;
+7. economia dell'acquisizione — Cap. 30.
 
 Domanda chiave:
 
 > Mancano davvero nuovi clienti o stiamo sprecando domanda e relazioni già pagate?
 
-## Router 2 — Troppo poche lead
+## Router 2 — Troppi pochi contatti
 
 Controlla prima:
 
 - domanda già posseduta — Capp. 17, 26–27;
 - mercato e raggiungibilità — Capp. 5–8;
-- posizione/offerta — Capp. 9–14;
+- posizione e offerta — Capp. 9–14;
 - domanda e intento — Cap. 15;
 - funzione dei canali — Cap. 16;
 - funnel — Cap. 18.
 
-Se nessuno vuole la proposta, aumentare reach non la rende migliore.
+Se nessuno vuole la proposta, aumentare la portata non la rende migliore.
 
 ## Router 3 — Bassa conversione commerciale
 
 Controlla:
 
-- handoff e prequalifica — Cap. 22;
+- passaggio di contesto e prequalifica — Cap. 22;
 - diagnosi e processo di vendita — Cap. 23;
-- follow-up e gestione rete — Cap. 24;
+- ricontatto e gestione rete — Cap. 24;
 
 poi risali:
 
-- posizione/offerta/prezzo — Capp. 9–13;
+- posizione, offerta e prezzo — Capp. 9–13;
 - prova — Cap. 14;
-- consapevolezza/pre-educazione — Capp. 15, 18;
+- consapevolezza e pre-educazione — Capp. 15, 18;
 - copy — Capp. 20–21.
 
 Non concludere automaticamente che serva una nuova tecnica di chiusura.
@@ -1086,18 +1086,18 @@ Non concludere automaticamente che serva una nuova tecnica di chiusura.
 Controlla:
 
 - qualità economica del cliente — Cap. 6;
-- posizione/commodity — Cap. 9;
+- posizione e comparabilità — Cap. 9;
 - offerta — Cap. 11;
 - prezzo — Cap. 13;
 - prova — Cap. 14;
-- copy e premotivazione — Capp. 20–21;
+- copy e preparazione al prezzo — Capp. 20–21;
 - diagnosi e prescrizione — Cap. 23.
 
-La domanda è:
+Chiedi:
 
 > Stiamo negoziando un prezzo o stiamo cercando di vendere una proposta percepita come uguale alle altre?
 
-## Router 5 — Churn alto
+## Router 5 — Abbandono alto
 
 Controlla:
 
@@ -1105,11 +1105,11 @@ Controlla:
 - promessa e offerta — Cap. 11;
 - durata naturale del bisogno — Cap. 8;
 - onboarding e risultato — Cap. 25;
-- lifecycle e cause di uscita — Cap. 26;
-- feedback/reputazione — Capp. 27–28;
-- economics per coorte — Cap. 30.
+- ciclo di vita e cause di uscita — Cap. 26;
+- riscontro e reputazione — Capp. 27–28;
+- economia per coorte — Cap. 30.
 
-Più acquisizione non corregge churn evitabile.
+Più acquisizione non corregge abbandono evitabile.
 
 ## Router 6 — Cassa debole
 
@@ -1122,7 +1122,7 @@ Controlla:
 - margine e CAC — Cap. 30;
 - payback — Cap. 30;
 - tempi di incasso e capitale circolante — Cap. 31;
-- capacità e stock — Cap. 32;
+- capacità e scorte — Cap. 32;
 - reinvestimenti e costi fissi — Cap. 37.
 
 Più vendite possono consumare più cassa se il ciclo è finanziariamente sfavorevole.
@@ -1131,9 +1131,9 @@ Più vendite possono consumare più cassa se il ciclo è finanziariamente sfavor
 
 Controlla:
 
-- processi, decision rules e handoff — Cap. 33;
+- processi, regole decisionali e passaggi di responsabilità — Cap. 33;
 - ruoli e persone — Cap. 34;
-- single points of failure e trasferibilità — Cap. 35;
+- dipendenze critiche e trasferibilità — Cap. 35;
 - brand e dipendenza percettiva — Cap. 29.
 
 Domanda chiave:
@@ -1144,30 +1144,30 @@ Domanda chiave:
 
 Prima di decidere controlla:
 
-- unit economics — Cap. 30;
+- economia per unità — Cap. 30;
 - cassa — Cap. 31;
 - capacità — Cap. 32;
 - processi — Cap. 33;
 - persone — Cap. 34;
 - dipendenze — Cap. 35;
-- allocazione capitale — Cap. 37;
-- expansion gate — Cap. 38.
+- allocazione del capitale — Cap. 37;
+- gate di espansione — Cap. 38.
 
-Poi riapri per il nuovo mercato:
+Poi riapri, per il nuovo mercato:
 
-- mercato/cliente — Capp. 5–8;
+- mercato e cliente — Capp. 5–8;
 - posizione — Capp. 9–10;
-- offerta/prezzo — Capp. 11–13.
+- offerta e prezzo — Capp. 11–13.
 
 L'espansione riavvia una parte del ciclo.
 
-## Caso capstone — Le lead crescono, la cassa scende
+## Caso finale — I contatti crescono, la cassa scende
 
 Immagina una impresa di servizi.
 
 Negli ultimi quattro mesi:
 
-- lead +40%;
+- contatti +40%;
 - clienti +20%;
 - fatturato +15%;
 - cassa -25%.
@@ -1178,7 +1178,7 @@ La reazione istintiva potrebbe essere:
 
 Applichiamo invece il sistema.
 
-### 1. Outcome mancante
+### 1. Risultato mancante
 
 La crescita non sta producendo cassa sufficiente.
 
@@ -1186,7 +1186,7 @@ La crescita non sta producendo cassa sufficiente.
 
 Il sintomo è finanziario.
 
-### 3. Upstream check
+### 3. Controllo a monte
 
 L'economia per cliente mostra:
 
@@ -1195,9 +1195,9 @@ L'economia per cliente mostra:
 - più clienti richiedono personalizzazioni;
 - termini di pagamento medi peggiorati.
 
-### 4. Bottleneck
+### 4. Collo di bottiglia
 
-La delivery è vicina alla saturazione e le personalizzazioni allungano incasso e assorbono capacità.
+L'erogazione è vicina alla saturazione e le personalizzazioni allungano incasso e assorbono capacità.
 
 ### 5. Ipotesi
 
@@ -1212,26 +1212,26 @@ Su un gruppo comparabile:
 - restringere qualificazione;
 - standardizzare la configurazione;
 - mantenere traffico stabile;
-- misurare conversione, margine, tempo di delivery e incasso.
+- misurare conversione, margine, tempo di erogazione e incasso.
 
 ### 7. Esito possibile
 
 Le vendite scendono leggermente, ma:
 
 - margine per cliente aumenta;
-- delivery si accorcia;
+- erogazione si accorcia;
 - incasso migliora;
 - payback torna sostenibile.
 
-La soluzione non era più lead.
+La soluzione non era più contatti.
 
-Era un migliore cliente dentro un sistema meno dispersivo.
+Era un cliente migliore dentro un sistema meno dispersivo.
 
 ## Il sistema in una pagina
 
 Quando devi decidere:
 
-1. **Outcome economico** — che cosa manca?
+1. **Risultato economico** — che cosa manca?
 2. **Mercato** — vale la pena giocare qui?
 3. **Cliente** — chi conviene servire?
 4. **Problema/alternative** — che cosa sta davvero cercando di cambiare?
@@ -1240,8 +1240,8 @@ Quando devi decidere:
 7. **Domanda/canale** — quanto è già vicino alla scelta?
 8. **Acquisizione** — quale passo deve compiere?
 9. **Vendita** — che cosa va diagnosticato e prescritto?
-10. **Esperienza/lifecycle** — il valore viene realmente ottenuto e mantenuto?
-11. **Economics/cassa** — il valore arriva con margine e abbastanza velocemente?
+10. **Esperienza/ciclo di vita** — il valore viene realmente ottenuto e mantenuto?
+11. **Economia/cassa** — il valore arriva con margine e abbastanza velocemente?
 12. **Capacità/processi/persone** — il sistema può sostenere più volume?
 13. **Reinvestimento** — qual è il prossimo vincolo che merita capitale?
 14. **Espansione** — che cosa possiamo replicare senza replicare il problema?
