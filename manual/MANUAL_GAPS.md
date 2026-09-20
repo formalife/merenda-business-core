@@ -8,13 +8,13 @@ Un gap non implica automaticamente che manchi dottrina.
 
 Classificazione obbligatoria:
 
-- **EDITORIAL GAP** — la conoscenza esiste ma è dispersa, duplicata o non sequenziata per insegnarla;
-- **CURRICULUM GAP** — la conoscenza esiste ma la tassonomia corrente la colloca troppo tardi/presto rispetto ai prerequisiti;
-- **DOCTRINAL GAP** — il doctrine layer corrente non contiene abbastanza conoscenza per sostenere una spiegazione affidabile;
-- **PROVENANCE GAP** — manca tracciabilità sufficiente per verificare una sintesi;
-- **CASE GAP** — manca materiale applicativo sufficiente per insegnare o verificare il trasferimento del concetto.
+- **EDITORIAL GAP** — conoscenza presente ma dispersa, duplicata o non sequenziata;
+- **CURRICULUM GAP** — conoscenza presente ma collocata male rispetto ai prerequisiti;
+- **DOCTRINAL GAP** — conoscenza canonica insufficiente;
+- **PROVENANCE GAP** — tracciabilità insufficiente per verificare una sintesi;
+- **CASE GAP** — materiale applicativo insufficiente.
 
-Regola: tentare prima la soluzione editoriale quando la conoscenza esiste già. Non modificare `merenda/` o riaprire acquisizione per risolvere un problema che è soltanto di sintesi.
+Regola: tentare prima la soluzione editoriale quando la conoscenza esiste già. Non modificare `merenda/` o riaprire acquisizione per risolvere un problema soltanto di sintesi.
 
 ---
 
@@ -23,35 +23,28 @@ Regola: tentare prima la soluzione editoriale quando la conoscenza esiste già. 
 ## G-001 — Processo di vendita end-to-end
 
 **Priorità: P1**  
-**Tipo: EDITORIAL GAP; possibile DOCTRINAL GAP già noto**  
-**Stato: OPEN**
+**Tipo: EDITORIAL GAP; possibile residuo DOCTRINAL GAP**  
+**Stato: IN SYNTHESIS**
 
 ### Evidenza
 
-La sezione vendita dispone di nodi su:
+La sezione vendita contiene prequalifica, speed-to-lead, decisori, diagnosi, follow-up, script, role-play e controllo, ma manca una singola sequenza canonica end-to-end.
 
-- prequalifica;
-- speed-to-lead;
-- decisori;
-- diagnosi e consulenza;
-- follow-up;
-- script;
-- role-play;
-- controllo della rete vendita.
+Le sezioni già decomposte aggiungono prerequisiti che la futura sintesi vendita deve incorporare:
 
-Il semantic audit ha già rilevato che manca un singolo nodo capace di rispondere a:
+- `OFF-021` — offerta largamente standardizzata prima della trattativa;
+- `OFF-060` — marketing e vendita devono argomentare lo stesso valore/prezzo;
+- `MKT-040` — script, training e pre-educazione riducono la variabilità umana;
+- `MKT-042` — marketing, vendita e follow-up sono un sistema integrato;
+- `MKT-068` — la vendita end-to-end non può iniziare dalla sola conversazione commerciale.
 
-**come si conduce una vendita dall'inizio alla fine secondo questo sistema?**
+### Requisito del manuale
 
-### Impatto sul manuale
+Il lettore deve poter seguire una sequenza completa dall'ingresso dell'opportunità alla decisione/follow-up, distinguendo ciò che deve essere già risolto da marketing/offerta da ciò che appartiene al venditore.
 
-Un principiante non deve essere costretto a ricostruire la sequenza da quattro file diversi.
+### Azione
 
-### Azione prevista
-
-In Fase 2 estrarre tutte le unità della vendita e costruire una sequenza candidata end-to-end nel publishing layer.
-
-Solo se restano buchi reali dopo la sintesi, valutare separatamente un intervento canonico.
+Decomporre `06_vendita`, costruire una sequenza candidata e verificare se restano buchi reali prima di qualunque review canonica.
 
 ---
 
@@ -59,24 +52,19 @@ Solo se restano buchi reali dopo la sintesi, valutare separatamente un intervent
 
 **Priorità: P1**  
 **Tipo: CASE GAP**  
-**Stato: OPEN**
+**Stato: IN SYNTHESIS**
 
 ### Evidenza
 
-`merenda/10_casi_studio/` contiene due casi sostanziali. Esistono inoltre esempi dispersi dentro nodi specialistici.
+`merenda/10_casi_studio/` contiene due casi sostanziali, ma molti esempi utili sono dispersi nei nodi. `02_posizionamento` ha già prodotto `POS-051…POS-055` come primi elementi di case inventory.
 
-### Impatto sul manuale
+### Azione
 
-Un manuale teorico-operativo completo richiede esempi locali e casi end-to-end per mostrare trasferimento fra mercato, posizionamento, offerta, acquisizione, vendita, economics e capacità.
+Continuare a marcare esempi/casi durante il crosswalk; nel pass dedicato distinguere:
 
-### Azione prevista
-
-Durante il crosswalk:
-
-1. marcare ogni esempio/caso già presente nei nodi;
-2. distinguere esempi da preservare concettualmente da aneddoti non necessari;
-3. creare una case inventory;
-4. progettare casi sintetici originali dove manca un esempio didattico, senza inventare “evidenza” fattuale.
+1. casi reali sufficientemente verificabili;
+2. esempi illustrativi non utilizzabili come prova;
+3. casi sintetici originali da costruire soltanto per didattica, dichiarandoli come tali.
 
 ---
 
@@ -84,28 +72,24 @@ Durante il crosswalk:
 
 **Priorità: P1**  
 **Tipo: PROVENANCE GAP / EDITORIAL INFRASTRUCTURE**  
-**Stato: OPEN**
+**Stato: IN SYNTHESIS**
 
 ### Evidenza
 
-La provenance esiste nel source layer e nelle review, ma non esiste ancora una mappa compatta principle → canonical node → provenance treatment utile alla costruzione del manuale.
+Il source layer conserva la provenance, ma il manuale necessita di una mappa compatta principio → nodo canonico → trattamento/provenienza/caveat temporale.
 
-### Impatto sul manuale
+Il crosswalk ha già identificato casi che richiedono esplicita cautela:
 
-Il testo finale deve essere source-agnostic, ma il lavoro editoriale deve evitare di:
+- `MRC-036` — Proof by Refusal, fonte assimilata;
+- `POS-022/POS-023` — rendere visibile/nominare un processo reale, contributo assimilato;
+- `OFF-007/OFF-029` — bundle come riduzione del costo cognitivo e prova sufficientemente lunga, fonti assimilate;
+- `POS-044` — family brand storico esplicitamente superseded;
+- `OFF-022` — front-end come riduzione della barriera, prevalenza 2025;
+- `MKT-018/MKT-020/MKT-027` — vecchi assoluti sui canali/cold/social subordinati alla formulazione più recente.
 
-- attribuire implicitamente tutto a un singolo autore;
-- perdere evoluzioni temporali;
-- fondere caveat incompatibili;
-- trasformare una sintesi in fonte primaria.
+### Azione
 
-### Azione prevista
-
-Integrare provenance e temporal caveat nel semantic crosswalk solo al livello necessario per verificabilità. Non replicare l'intero source registry.
-
-### Evidenza emersa in Fase 2
-
-`MRC-036 — Proof by Refusal` conferma che alcuni principi utili al manuale provengono da fonti assimilate e richiedono provenance backend esplicita anche se la prosa finale è agnostica.
+Continuare a registrare solo provenance e temporalità necessarie alla verifica. La mappa compatta verrà consolidata nel cross-section pass.
 
 ---
 
@@ -113,27 +97,19 @@ Integrare provenance e temporal caveat nel semantic crosswalk solo al livello ne
 
 **Priorità: P2**  
 **Tipo: EDITORIAL GAP**  
-**Stato: OPEN**
+**Stato: IN SYNTHESIS**
 
 ### Evidenza
 
-Esistono nodi autonomi su:
+Esistono nodi separati su autorità, prova sociale, PR, reputazione e community. `POS-057` chiarisce però il prerequisito: il brand non sostituisce il posizionamento; deve costruirsi sopra un significato distinto. `OFF-047/OFF-063` mostrano poi come autorità, esperienza e prova sostengano willingness-to-pay.
 
-- autorità;
-- prova sociale;
-- PR/earned media;
-- reputazione/crisis management;
-- community/fan.
+### Sequenza candidata da verificare
 
-Manca una sequenza didattica unica che spieghi come questi elementi si concatenano e come si distinguono.
+**posizione/significato → autorità/credibilità → acquisizione → esperienza/risultato → prova/reputazione → memoria → advocacy/community.**
 
-### Azione prevista
+### Azione
 
-Costruire nel publishing layer una sequenza candidata, da verificare semanticamente, del tipo:
-
-**posizionamento → autorità/credibilità → acquisizione → esperienza → reputazione/prova → memoria → advocacy/community.**
-
-La sequenza è una working synthesis, non ancora una regola canonica autonoma.
+Validare e completare questa sintesi durante `08_brand`, senza trattarla ancora come regola canonica autonoma.
 
 ---
 
@@ -143,53 +119,45 @@ La sequenza è una working synthesis, non ancora una regola canonica autonoma.
 **Tipo: EDITORIAL GAP, con possibile residuo DOCTRINAL GAP**  
 **Stato: IN SYNTHESIS**
 
-### Evidenza iniziale
+### Evidenza disponibile finora
 
-Il semantic audit segnala che le tecniche esistono ma sono disperse fra:
+`01_mercato` fornisce:
 
-- analisi dei clienti migliori;
-- complaint mining;
-- testimonianze;
-- query e intento;
-- competitor;
-- storia di acquisto;
-- segmentazione e appropriatezza.
-
-### Evidenza dopo `01_mercato`
-
-Il crosswalk mercato ha consolidato una base sostanziale di input per la ricerca:
-
-- clienti migliori e peggiori;
-- margine, frequenza, recency, LTV e cost-to-serve;
-- alternative attuali e storia d'acquisto;
+- clienti migliori/peggiori;
+- margine, frequenza, recency, LTV, cost-to-serve;
+- alternative e storia di acquisto;
 - soddisfazione e volontà di cambiare;
-- dialogo mentale/linguaggio quando osservabile;
-- capacità di acquisto;
-- fit e capacità di implementazione;
-- risultati ottenuti;
+- capacità di acquisto e fit;
+- risultati/implementazione;
 - dimensione, identificabilità, raggiungibilità e trend della domanda.
 
-Riferimenti: `MRC-015`, `MRC-017…MRC-022`, `MRC-031…MRC-035`, `MRC-052…MRC-053`.
+`02_posizionamento` aggiunge:
+
+- `POS-005/POS-006` — complaint mining delle alternative → redesign;
+- `POS-031` — domanda non suggerita “perché hai scelto noi?” per testare la posizione percepita.
+
+`04_marketing` aggiunge:
+
+- `MKT-012` — volume di ricerca distinto dall'intento;
+- `MKT-013/MKT-014` — timing e trigger della domanda;
+- `MKT-050…MKT-053` — comportamento atteso vs inattività;
+- `MKT-066` — includere cause di mancato ritorno.
 
 ### Gap residuo
 
-La sezione non fornisce ancora da sola un processo completo per:
+Manca ancora una procedura unica per:
 
-1. definire quali domande di ricerca servono;
+1. definire le domande di ricerca;
 2. scegliere e combinare fonti;
-3. condurre e analizzare interviste;
+3. condurre/analizzare interviste;
 4. estrarre linguaggio e pattern senza sovrappesare singoli casi;
 5. distinguere frequenza, intensità e valore economico del segnale;
-6. sintetizzare gli insight in target, problema, offerta, prova e messaggio;
-7. validare la sintesi con comportamento e numeri.
+6. trasformare insight in target, problema, offerta, prova e messaggio;
+7. validare con comportamento e numeri.
 
-### Impatto sul manuale
+### Azione
 
-Il lettore non può ricevere soltanto la regola “capisci il mercato”: deve avere un processo per raccogliere evidenza senza confondere opinioni del founder e comportamento del cliente.
-
-### Azione prevista
-
-Continuare la sintesi durante `02_posizionamento`, `04_marketing`, `07_copy_comunicazione`, `08_brand` e i nodi che contengono complaint/query/testimonianze. Dopo il cross-section pass decidere se il processo è costruibile interamente nel publishing layer o se resta un doctrinal gap preciso.
+Continuare la sintesi in acquisizione, copy e brand; decidere solo dopo il cross-section pass se resta un doctrinal gap nominabile.
 
 ---
 
@@ -197,33 +165,25 @@ Continuare la sintesi durante `02_posizionamento`, `04_marketing`, `07_copy_comu
 
 **Priorità: P1**  
 **Tipo: CURRICULUM GAP**  
-**Stato: OPEN — EVIDENZA RAFFORZATA**
+**Stato: CONFIRMED — DA RISOLVERE IN FASE 3**
 
-### Evidenza
+### Evidenza cumulativa
 
-La sede specialistica principale di CAC, margine, LTV, payback, cassa e crescita è `09_business/numeri-cassa-e-crescita.md`.
+Gli economics sono prerequisiti già prima di `09_business`:
 
-Tuttavia gli stessi concetti sono prerequisiti per comprendere:
+- mercato/cliente: `MRC-005`, `MRC-024…MRC-027`, `MRC-035`, `MRC-047`;
+- posizionamento: `POS-024`, `POS-026`, `POS-049`;
+- offerta: `OFF-005`, `OFF-015`, `OFF-033…OFF-035`, `OFF-061…OFF-065`;
+- marketing: `MKT-003`, `MKT-024`, `MKT-028…MKT-030`, `MKT-057`, `MKT-067`.
 
-- cliente economicamente desiderabile;
-- appropriatezza;
-- pricing;
-- front-end/back-end;
-- canali;
-- acquisizione;
-- retention;
-- capacità e scala.
+### Decisione editoriale già sostenuta
 
-Il crosswalk `01_mercato` rafforza il punto: `MRC-005`, `MRC-024`, `MRC-025`, `MRC-027`, `MRC-035` e `MRC-047` richiedono margine, LTV, cost-to-serve, capacità e payback già per scegliere il mercato e il cliente.
+Il curriculum dovrà distinguere:
 
-### Azione prevista
+1. **economics fondamentali presto** — margine, CAC, LTV, payback, cost-to-serve, capacità, break-even essenziale;
+2. **economics avanzati più avanti** — cassa, struttura, reinvestimento, capacità e crescita.
 
-Nel curriculum separare almeno:
-
-1. economics fondamentali introdotti presto;
-2. economics avanzati/cassa/crescita trattati più avanti.
-
-Non duplicare la teoria: usare introduzione progressiva e una casa primaria chiara.
+Non duplicare la teoria: introdurre progressivamente e rinviare alla casa specialistica.
 
 ---
 
@@ -233,17 +193,11 @@ Non duplicare la teoria: usare introduzione progressiva e una casa primaria chia
 **Tipo: EDITORIAL GAP**  
 **Stato: OPEN**
 
-### Evidenza
+Termini già emersi che richiedono definizione prima dell'uso: CAC, LTV, payback, cost-to-serve, RFM, front-end, back-end, upsell, cross-sell, risk reversal, direct response, awareness, intent, funnel, positioning, referral, sell-in, sell-through, exploitation/exploration.
 
-La KB presuppone spesso familiarità con termini quali CAC, LTV, payback, front-end, back-end, direct response, awareness, funnel, positioning, referral, RFM, cost-to-serve e altri.
+### Azione
 
-### Impatto sul manuale
-
-Un lettore nuovo può capire la frase senza capire il modello.
-
-### Azione prevista
-
-Il semantic crosswalk deve marcare i termini che richiedono una prima definizione. Il curriculum dovrà impedire l'uso non spiegato del gergo e la release finale includerà un glossario.
+Continuare a marcare termini; il curriculum deve impedire gergo anticipato e la release finale avrà glossario.
 
 ---
 
@@ -251,45 +205,41 @@ Il semantic crosswalk deve marcare i termini che richiedono una prima definizion
 
 **Priorità: P2**  
 **Tipo: EDITORIAL / CURRICULUM GAP**  
-**Stato: OPEN**
+**Stato: IN SYNTHESIS**
 
-### Evidenza
+### Evidenza cumulativa
 
-Il valore post-vendita è distribuito fra:
+- `MRC-046…MRC-051` — durata naturale, rotazione coorti, payer/user, picchi di esperienza;
+- `OFF-033…OFF-044` — conversione economica, back-end, seconda transazione, ricorrenza e recupero opportunità;
+- `MKT-001…MKT-003` — priorità alla domanda già posseduta;
+- `MKT-050…MKT-056` — frequenza attesa, trigger CRM e riattivazione;
+- `MKT-065` — lifecycle fondato su durata/frequenza naturale → comportamento atteso → deviazione → intervento.
 
-- `05_acquisizione/referral-e-soddisfazione.md`;
-- `04_marketing/riattivazione-clienti.md`;
-- `08_brand/testimonianze-e-prova-sociale.md`;
-- `08_brand/reputazione-e-crisis-management.md`;
-- `09_business/retention-onboarding-e-customer-success.md`;
-- `03_offerta/front-end-e-back-end.md`.
+### Impatto
 
-`MRC-046…MRC-051` aggiungono una dipendenza importante: la retention va letta rispetto alla durata naturale della relazione e alla rotazione delle coorti, non come permanenza infinita del singolo cliente.
+Retention non può essere insegnata come semplice “tenere il cliente per sempre”. Il sistema deve distinguere relazione naturalmente breve, seconda vendita, continuità, inattività, riattivazione, referral e sostituzione delle coorti.
 
-### Impatto sul manuale
+### Azione
 
-Senza un disegno unitario, retention, seconda vendita, referral, reputazione, riattivazione e sostituzione delle coorti rischiano di sembrare tattiche separate invece di un ciclo economico unico.
-
-### Azione prevista
-
-Nel crosswalk mappare il customer lifecycle completo e assegnare una casa primaria ai concetti, mantenendo richiami applicativi nelle sezioni pertinenti.
+Completare con `05_acquisizione`, `08_brand` e `09_business`, quindi assegnare una casa primaria al customer lifecycle.
 
 ---
 
 # Gap chiusi
 
-Nessuno al momento.
+Nessuno. G-006 è confermato ma si chiuderà soltanto quando il curriculum lo risolverà effettivamente.
 
 ---
 
 # Regola di aggiornamento
 
-Ogni gap deve terminare in uno dei seguenti stati:
+Stati ammessi:
 
 - `OPEN`;
 - `IN SYNTHESIS`;
+- `CONFIRMED — DA RISOLVERE IN FASE 3`;
 - `RESOLVED EDITORIALLY`;
 - `ESCALATED TO DOCTRINE REVIEW`;
 - `DEFERRED WITH REASON`.
 
-Non chiudere un gap perché “abbiamo scritto qualcosa”. Chiuderlo solo quando il relativo requisito didattico o conoscitivo è verificabilmente soddisfatto.
+Non chiudere un gap perché “abbiamo scritto qualcosa”. Chiuderlo solo quando il requisito didattico o conoscitivo è verificabilmente soddisfatto.
