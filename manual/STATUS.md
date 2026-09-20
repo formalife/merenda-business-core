@@ -43,14 +43,7 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 
 Output: `manual/draft/part-01-fondamenti.md`.
 
-Copre:
-
-- marketing come sistema di valore;
-- economic literacy minima;
-- diagnosi causa/sintomo/bottleneck;
-- metodo di test e gate di scala.
-
-Il pass beginner-first ha rimosso anticipazioni di gergo non necessario.
+Copre marketing come sistema di valore, economic literacy minima, diagnosi causa/sintomo/bottleneck e metodo di test.
 
 ### Parte II — Capp. 5–8
 
@@ -58,50 +51,61 @@ Il pass beginner-first ha rimosso anticipazioni di gergo non necessario.
 
 Output: `manual/draft/part-02-mercato.md`.
 
+Copre market gate, cliente desiderabile, VoC/Market Evidence Map e Decision Map del cliente.
+
+### Parte III — Capp. 9–13
+
+**Stato: READY / MINI-AUDIT PASS**
+
+Output: `manual/draft/part-03-posizionamento-offerta.md`.
+
 Copre:
 
-- market gate: domanda, raggiungibilità, capacità di acquisto, direzione e bacino;
-- cliente desiderabile: appropriatezza, economics, RFM, cost-to-serve e criteri di rifiuto;
-- Voice of Customer decision-first, complaint mining, interviste event-based, triangolazione e Market Evidence Map;
-- problema/desiderio, alternative, status quo, trigger, ruoli decisionali e durata naturale della relazione.
+- posizionamento come differenza reale e rilevante prima del claim;
+- focus/categoria e architettura multibrand senza imporre il mono-prodotto;
+- offerta come traduzione acquistabile di posizione, risultato, condizioni e rischio;
+- front-end come riduzione della barriera complessiva, non sinonimo di sconto;
+- back-end e seconda transazione come sistema economico coerente;
+- pricing come test su conversione × margine × CAC × cliente × capacità, non ideologia premium.
 
 Mini-audit:
 
-- coverage: PASS;
+- coverage Capp. 9–13: PASS;
 - doctrine fidelity: PASS;
-- causal clarity: PASS;
-- operational usability: PASS;
+- temporal precedence front-end 2025: PASS;
+- focus ≠ un solo SKU: PASS;
+- pricing non ordinalmente “più alto = migliore”: PASS;
 - economic grounding: PASS;
 - reader-facing agnosticism: PASS;
-- beginner clarity: PASS con piccoli inglesismi/etichette da uniformare nel copy-edit globale; nessun P0/P1.
+- nessun P0/P1.
 
 ## Ordine rimanente
 
-1. Parte III — Capp. 9–13 — **NEXT**;
-2. Parte IV — Capp. 14–19;
-3. Parte V — Capp. 20–24;
-4. Parte VI — Capp. 25–29;
-5. Parte VII — Capp. 30–35;
-6. Parte VIII — Capp. 36–39.
+1. Parte IV — Capp. 14–19 — **NEXT**;
+2. Parte V — Capp. 20–24;
+3. Parte VI — Capp. 25–29;
+4. Parte VII — Capp. 30–35;
+5. Parte VIII — Capp. 36–39.
 
 ## Next Action
 
-Draftare `manual/draft/part-03-posizionamento-offerta.md` da `chapter-specs/part-03-posizionamento-offerta.md` dopo freshness read dei nodi live di positioning e offer.
+Draftare `manual/draft/part-04-domanda-acquisizione.md` da `chapter-specs/part-04-domanda-acquisizione.md` dopo freshness read dei nodi live di authority/proof, domanda/awareness, canali, database, funnel/pre-education e partnership.
 
 Vincoli principali:
 
-- differenza reale prima del claim;
-- focus/categoria prima delle estensioni;
-- offerta distinta dal prodotto;
-- front-end definito dalla barriera, non dal prezzo;
-- pricing trattato come sistema conversione × margine × target × capacity, non come ideologia premium;
-- nessuna anticipazione profonda di authority/acquisition/copy.
+- authority ≠ credibility ≠ trust;
+- proof proporzionata al claim;
+- domanda posseduta/attiva/latente e awareness prima del canale;
+- canale scelto per funzione/economics, non moda;
+- database come memoria di stati, non lista;
+- funnel come state machine, non sequenza fissa di pagine;
+- partnership valutate su asset reciproci, controllo ed economics.
 
 ## Gap aperti
 
 **Nessun gap P0/P1.**
 
-P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–II.
+P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–III.
 
 ## Blocchi
 
