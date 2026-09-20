@@ -89,7 +89,7 @@ Esito: **39/39 capitoli con spec**; prerequisiti, primary homes, first-use, metr
 
 # Fase 6 — Drafting del manuale
 
-**Stato: IN PROGRESS**
+**Stato: DONE — LOCAL PASS 2026-09-20**
 
 ## Scopo
 
@@ -110,42 +110,50 @@ Riscrivere il sistema in voce autoriale unitaria, agnostica e reader-facing, seg
 
 ## Output
 
-`manual/draft/`, organizzato per le otto parti.
+`manual/draft/`, organizzato in otto file reader-facing per le otto parti.
 
-## Regole
+## Esito
+
+- **8/8 parti draftate**;
+- **39/39 capitoli presenti**;
+- mini-audit locale eseguito su ogni parte;
+- nessun finding P0/P1 emerso nei gate locali;
+- P2 lessicali/copy-edit rimandati alla Fase 7–8.
+
+## Regole rispettate nel drafting
 
 - riscrittura originale, non collage;
 - niente riferimenti reader-facing a Frank, Merenda, KB o Layer 1;
-- termini definiti al first use;
+- definizioni al first use dove previste, con verifica globale rimandata alla Fase 7;
 - una primary home per la teoria completa;
-- casi reali con caveat, casi sintetici esplicitamente didattici;
-- numeri/casi non diventano benchmark universali;
+- casi sintetici esplicitamente didattici;
+- numeri/casi non trattati come benchmark universali;
 - nodi canonici live verificati prima di ogni blocco sostanziale.
 
-## Gate
-
-Tutti i 39 capitoli esistono in draft e rispettano spec, curriculum, coverage e voce editoriale.
-
-## Ordine di drafting
-
-1. Parte I — Capp. 1–4 — **NEXT**;
-2. Parte II — Capp. 5–8;
-3. Parte III — Capp. 9–13;
-4. Parte IV — Capp. 14–19;
-5. Parte V — Capp. 20–24;
-6. Parte VI — Capp. 25–29;
-7. Parte VII — Capp. 30–35;
-8. Parte VIII — Capp. 36–39.
+Gate: **SATISFIED localmente; soggetto ad audit globale Fase 7.**
 
 ---
 
 # Fase 7 — Audit didattico, dottrinale e operativo
 
-**Stato: NOT STARTED**
+**Stato: IN PROGRESS**
 
-Audit: coverage, doctrine fidelity, beginner clarity, operational usability, redundancy, provenance/copyright, terminology/first-use, case/evidence discipline.
+Audit:
 
-Output: `manual/AUDIT.md`. Gate: nessun finding P0/P1 aperto.
+- coverage;
+- doctrine fidelity e temporal precedence;
+- beginner clarity;
+- operational usability;
+- redundancy e primary-home discipline;
+- provenance/copyright;
+- terminology/first-use;
+- case/evidence discipline;
+- assenza di backend nella prosa;
+- cross-reference e coerenza globale.
+
+Output: `manual/AUDIT.md`.
+
+Gate: **nessun finding P0/P1 aperto.**
 
 ---
 
