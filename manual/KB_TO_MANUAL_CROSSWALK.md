@@ -58,7 +58,7 @@ Non replica il source registry.
 | Sezione | File canonici | Stato semantic decomposition | Crosswalk |
 |---|---:|---|---|
 | `00_fondamenti` | 3 | COMPLETE | `manual/crosswalk/00_fondamenti.md` |
-| `01_mercato` | 5 | NOT STARTED | — |
+| `01_mercato` | 5 | COMPLETE | `manual/crosswalk/01_mercato.md` |
 | `02_posizionamento` | 4 | NOT STARTED | — |
 | `03_offerta` | 4 | NOT STARTED | — |
 | `04_marketing` | 7 | NOT STARTED | — |
@@ -68,7 +68,15 @@ Non replica il source registry.
 | `08_brand` | 6 | NOT STARTED | — |
 | `09_business` | 10 | NOT STARTED | — |
 | `10_casi_studio` | 3 | NOT STARTED | — |
-| **Totale** | **60** | **3/60 file covered** | **1/11 sezioni** |
+| **Totale** | **60** | **8/60 file covered** | **2/11 sezioni** |
+
+## Unità create finora
+
+- `00_fondamenti`: FND-001…FND-060 — 60 unità;
+- `01_mercato`: MRC-001…MRC-053 — 53 unità;
+- totale first-pass: **113 unità semantiche** prima del dedup cross-section.
+
+Il numero di unità non è una metrica di qualità né un obiettivo di crescita. Serve solo a garantire tracciabilità e coverage prima della compressione editoriale.
 
 ## Pass successivi dopo le 11 sezioni
 
