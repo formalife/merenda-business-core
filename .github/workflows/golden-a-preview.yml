@@ -1,0 +1,162 @@
+name: Build Golden A Preview
+
+on:
+  push:
+    branches:
+      - manual-v2-architecture-2026-09-20
+    paths:
+      - 'manual-v2/golden/chapter-01/**'
+      - '.github/workflows/golden-a-preview.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-dejavu-core poppler-utils
+          pip install markdown weasyprint
+
+      - name: Build Golden A preview
+        run: |
+          mkdir -p build/golden-a
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import markdown
+
+          src = Path('manual-v2/golden/chapter-01/DRAFT.md')
+          text = src.read_text(encoding='utf-8')
+          words = re.findall(r"\b[\wÀ-ÿ’'-]+\b", text)
+          print(f'Golden A word count: {len(words)}')
+          print(f'Golden A markdown lines: {len(text.splitlines())}')
+
+          # Make relative figure paths work from generated HTML location.
+          text_for_html = text.replace('(figures/', '(../../manual-v2/golden/chapter-01/figures/')
+          body = markdown.markdown(text_for_html, extensions=['tables'])
+
+          css = r'''
+          @page {
+            size: A4;
+            margin: 22mm 19mm 23mm 19mm;
+            @bottom-center {
+              content: counter(page);
+              font-family: DejaVu Sans, sans-serif;
+              font-size: 8.5pt;
+              color: #666;
+            }
+          }
+          * { box-sizing: border-box; }
+          body {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 10.7pt;
+            line-height: 1.57;
+            color: #1e1e1e;
+            max-width: none;
+          }
+          h1, h2, h3 { font-family: DejaVu Sans, Arial, sans-serif; color: #111; }
+          h1 {
+            font-size: 25pt;
+            line-height: 1.12;
+            margin: 0 0 22mm 0;
+            font-weight: 700;
+            page-break-after: avoid;
+          }
+          h2 {
+            font-size: 15.5pt;
+            line-height: 1.22;
+            margin: 9mm 0 3.5mm;
+            font-weight: 700;
+            page-break-after: avoid;
+          }
+          h3 {
+            font-size: 12.5pt;
+            line-height: 1.25;
+            margin: 7mm 0 2.5mm;
+            font-weight: 700;
+            page-break-after: avoid;
+          }
+          p {
+            margin: 0 0 4.2mm;
+            orphans: 3;
+            widows: 3;
+            hyphens: auto;
+            text-align: left;
+          }
+          strong { font-weight: 700; }
+          blockquote {
+            margin: 7mm 8mm;
+            padding: 4mm 6mm;
+            border-left: 3px solid #222;
+            background: #f4f4f4;
+            font-family: DejaVu Sans, Arial, sans-serif;
+            font-size: 9.6pt;
+            line-height: 1.45;
+            break-inside: avoid;
+          }
+          blockquote p { margin: 0; }
+          table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 7mm 0 8mm;
+            font-family: DejaVu Sans, Arial, sans-serif;
+            font-size: 8.8pt;
+            line-height: 1.32;
+            break-inside: avoid;
+          }
+          th, td {
+            border-bottom: 0.5px solid #aaa;
+            padding: 2.4mm 2.2mm;
+            vertical-align: top;
+          }
+          th {
+            background: #efefef;
+            font-weight: 700;
+          }
+          td:not(:first-child), th:not(:first-child) { text-align: right; }
+          img {
+            display: block;
+            max-width: 100%;
+            max-height: 190mm;
+            margin: 8mm auto 4mm;
+            break-inside: avoid;
+          }
+          p:has(> img) {
+            margin-bottom: 8mm;
+          }
+          ol, ul {
+            margin: 4mm 0 5mm 7mm;
+            padding-left: 5mm;
+          }
+          li { margin-bottom: 1.5mm; }
+          code { font-family: DejaVu Sans Mono, monospace; }
+          '''
+
+          html = f'''<!doctype html>
+          <html lang="it"><head><meta charset="utf-8"><style>{css}</style></head>
+          <body>{body}</body></html>'''
+          Path('build/golden-a/chapter.html').write_text(html, encoding='utf-8')
+          PY
+
+          weasyprint build/golden-a/chapter.html build/golden-a/Golden_A_Capitolo_1.pdf
+          pdfinfo build/golden-a/Golden_A_Capitolo_1.pdf | tee build/golden-a/pdfinfo.txt
+          wc -w manual-v2/golden/chapter-01/DRAFT.md | tee build/golden-a/wc.txt
+
+      - name: Upload preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-a-chapter-01-preview
+          path: |
+            build/golden-a/Golden_A_Capitolo_1.pdf
+            build/golden-a/pdfinfo.txt
+            build/golden-a/wc.txt
+          retention-days: 7
