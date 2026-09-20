@@ -4,7 +4,7 @@
 
 Trasformare l'intera conoscenza utile del doctrine layer in un manuale teorico-operativo coerente, progressivo e studiabile da un lettore che parte da zero nel marketing.
 
-Il progetto deve ottimizzare contemporaneamente per:
+Il progetto ottimizza per:
 
 - completezza semantica;
 - ordine pedagogico;
@@ -19,11 +19,11 @@ Il progetto deve ottimizzare contemporaneamente per:
 Il progetto non deve:
 
 - trasformare la tassonomia corrente della KB nell'indice del libro senza riesame;
-- fare copy-paste o semplice merge dei nodi;
-- perdere provenance o prevalenza temporale nel backend editoriale;
-- modificare la dottrina canonica solo per esigenze narrative;
-- riempire il manuale di riferimenti interni alla KB;
-- sacrificare i prerequisiti per accorciare artificialmente il percorso.
+- fare copy-paste o merge dei nodi;
+- perdere provenance o prevalenza temporale;
+- modificare la dottrina canonica per esigenze narrative;
+- riempire il testo reader-facing di riferimenti interni;
+- sacrificare prerequisiti per accorciare artificialmente il percorso.
 
 ---
 
@@ -31,11 +31,7 @@ Il progetto non deve:
 
 **Stato: DONE**
 
-## Scopo
-
-Creare una memoria persistente del progetto indipendente dalla chat.
-
-## Output
+Output:
 
 - `manual/README.md`
 - `manual/ROADMAP.md`
@@ -43,9 +39,7 @@ Creare una memoria persistente del progetto indipendente dalla chat.
 - `manual/MANUAL_CONTRACT.md`
 - baseline iniziale del doctrine layer
 
-## Gate di completamento
-
-La roadmap, lo stato e le regole editoriali sono versionati nel repository e ogni task futuro può ripartire da essi.
+Gate: il progetto può ripartire dal repository senza dipendere dalla chat.
 
 ---
 
@@ -53,88 +47,52 @@ La roadmap, lo stato e le regole editoriali sono versionati nel repository e ogn
 
 **Stato: DONE**
 
-## Scopo
-
-Capire esattamente che cosa deve essere trasformato in materiale didattico, senza assumere che ogni file abbia lo stesso ruolo o debba comparire nel manuale.
-
-## Attività
-
-1. censire tutti i nodi canonici in `merenda/`;
-2. separare nodi specialistici, sintesi, router, README, casi ed esempi;
-3. censire i documenti di governance/provenance che influenzano interpretazione e temporalità;
-4. classificare ogni file come:
-   - SOURCE OF DOCTRINE;
-   - SYNTHESIS;
-   - ROUTING/GOVERNANCE;
-   - CASE/EXAMPLE;
-   - PROVENANCE/AUDIT;
-   - NON-MANUAL;
-5. individuare duplicazioni controllate, sovrapposizioni e gap già noti;
-6. creare un inventario completo e verificabile.
-
-## Output
+Output:
 
 - `manual/CORPUS_INVENTORY.md`
-- `manual/MANUAL_GAPS.md` iniziale
-- eventuale aggiornamento del `MANUAL_CONTRACT.md`
+- `manual/MANUAL_GAPS.md`
 
-## Gate di completamento
-
-Ogni nodo rilevante della KB ha una classificazione editoriale esplicita e non esiste un file canonico non considerato.
-
-**Gate soddisfatto: 60/60 file sotto `merenda/` censiti e classificati; corpus interpretativo/provenance separato; gap iniziali registrati.**
+Gate soddisfatto: **60/60 file** sotto `merenda/` censiti e classificati; corpus interpretativo/provenance separato.
 
 ---
 
 # Fase 2 — Semantic decomposition e KB-to-Manual Crosswalk
 
-**Stato: IN PROGRESS**
+**Stato: DONE — PASS 2026-09-20**
 
 ## Scopo
 
-Trasformare i documenti della KB in unità di conoscenza indipendenti dalla loro collocazione originale.
+Trasformare i documenti della KB in unità di conoscenza indipendenti dalla loro collocazione originale e consolidare duplicazioni, dipendenze, provenance e casi.
 
-## Unità da estrarre
+## Output completati
 
-- definizioni;
-- principi;
-- causalità;
-- prerequisiti;
-- regole decisionali;
-- procedure;
-- metriche;
-- errori tipici;
-- eccezioni/caveat;
-- esempi;
-- casi;
-- dipendenze fra concetti.
+- `manual/KB_TO_MANUAL_CROSSWALK.md`;
+- `manual/crosswalk/root-routing.md`;
+- `manual/crosswalk/00_fondamenti.md` … `10_casi_studio.md`;
+- `manual/PRIMARY_HOME_MAP.md`;
+- `manual/DEPENDENCY_MAP.md`;
+- `manual/PROVENANCE_MAP.md`;
+- `manual/CASE_INVENTORY.md`;
+- `manual/PHASE2_AUDIT.md`;
+- `manual/MANUAL_GAPS.md` aggiornato.
 
-## Regola
+## Esito
 
-Non si riassume il file. Si estrae **che cosa il lettore deve imparare e saper fare**.
+- **60/60 file covered**;
+- **709 unità semantiche first-pass**;
+- primary-home pass completato;
+- dependency pass completato;
+- provenance/temporal pass completato;
+- case inventory completato;
+- nessun doctrinal gap che impedisca il curriculum.
 
-## Struttura operativa scelta
-
-Il crosswalk sarà **modulare per sezione**, con un indice master.
-
-Motivo: un singolo file renderebbe più difficile controllare copertura, review e aggiornamenti. La modularità segue le sezioni della KB soltanto come unità di lavorazione; non implica che il curriculum finale conserverà la stessa tassonomia.
-
-## Output
-
-- `manual/KB_TO_MANUAL_CROSSWALK.md` come indice e coverage master;
-- directory `manual/crosswalk/` con un file per sezione canonica;
-- mappa dei concetti duplicati con una sola futura casa primaria nel manuale;
-- coverage status per ogni nodo canonico.
-
-## Gate di completamento
-
-Ogni unità dottrinale rilevante ha almeno una destinazione editoriale candidata e ogni nodo canonico è marcato come coperto, escluso motivatamente o ancora aperto.
+Gate: **PASS**. Vedi `manual/PHASE2_AUDIT.md`.
 
 ---
 
 # Fase 3 — Curriculum e architettura didattica
 
-**Stato: NOT STARTED**
+**Stato: IN PROGRESS**
 
 ## Scopo
 
@@ -144,25 +102,52 @@ Definire l'ordine in cui una persona inesperta deve apprendere il sistema.
 
 L'indice finale nasce dalle **dipendenze cognitive e causali**, non dalle cartelle correnti della KB.
 
+## Vincoli già emersi dalla Fase 2
+
+1. economic literacy minima deve arrivare all'inizio;
+2. Voice of Customer precede positioning e copy;
+3. positioning precede offer e amplification;
+4. offer precede acquisition;
+5. authority/proof deve essere disponibile prima delle decisioni costose;
+6. awareness/intent precedono channel e directness;
+7. database/stati precedono funnel adattivo e lifecycle;
+8. copy operativo viene dopo strategia, proof e awareness;
+9. vendita parte dall'handoff;
+10. delivery precede retention/referral/reputation;
+11. advanced economics + cash + capacity precedono scale;
+12. process/governance precedono automation e organizational scale;
+13. expansion riapre market e positioning.
+
 ## Attività
 
 1. definire learning outcomes finali;
-2. costruire prerequisite graph;
-3. raggruppare le unità semantiche in parti, moduli e capitoli;
-4. verificare che ogni capitolo presupponga solo concetti già introdotti;
-5. distribuire casi, esercizi ed esempi nel punto in cui servono;
-6. evitare capitoli enciclopedici che mescolano livelli differenti.
+2. trasformare `DEPENDENCY_MAP.md` in parti/moduli/capitoli;
+3. verificare i prerequisiti capitolo per capitolo;
+4. assegnare una primary home alle unità tramite `PRIMARY_HOME_MAP.md`;
+5. distribuire casi/esercizi tramite `CASE_INVENTORY.md`;
+6. definire first-use dei termini beginner-critical;
+7. verificare coverage dell'intero corpus;
+8. produrre l'indice ragionato v1.
 
 ## Output
 
-- `manual/MANUAL_CURRICULUM.md`
-- indice ragionato versione 1;
-- prerequisite map;
+- `manual/MANUAL_CURRICULUM.md`;
+- indice ragionato v1;
+- prerequisite references;
+- case placement;
+- first-use terminology map;
 - coverage check contro il crosswalk.
 
 ## Gate di completamento
 
-Il curriculum copre l'intero corpus rilevante senza prerequisiti mancanti e può essere percorso da zero fino alla diagnosi e progettazione end-to-end di un business.
+Il curriculum:
+
+- copre l'intero corpus rilevante;
+- non usa concetti operativamente prima di averli introdotti;
+- può essere percorso da zero fino alla diagnosi e progettazione end-to-end di un business;
+- assegna una casa a tutti i cluster primari;
+- risolve G-006;
+- rende espliciti i gap da chiudere in Fase 4.
 
 ---
 
@@ -172,32 +157,25 @@ Il curriculum copre l'intero corpus rilevante senza prerequisiti mancanti e può
 
 ## Scopo
 
-Chiudere i buchi che impedirebbero al manuale di essere realmente autosufficiente.
+Chiudere i residui che impediscono al manuale di essere autosufficiente.
 
-## Gap iniziali già noti dal semantic audit
+## Gap attesi dopo Phase 2
 
-- processo vendita end-to-end;
-- casi studio organizzati come libreria didattica;
-- doctrine/provenance map interna;
-- sintesi organica del brand;
-- processo Voice of Customer / ricerca di mercato.
+- G-002 — case library: closure plan con casi sintetici;
+- G-005 — Voice of Customer / market research: sintesi editoriale unica;
+- G-007 — glossary/linguaggio beginner-first.
 
-## Regola
-
-Prima distinguere:
-
-- **EDITORIAL GAP** — la conoscenza esiste ma è dispersa: si sintetizza nel publishing layer;
-- **DOCTRINAL GAP** — la conoscenza canonica non basta: si registra e si valuta separatamente se serva nuovo lavoro sul doctrine layer.
+G-001, G-003, G-004 e G-008 sono già `RESOLVED EDITORIALLY`. G-006 deve essere risolto dal curriculum.
 
 ## Output
 
-- `manual/MANUAL_GAPS.md` aggiornato;
 - sintesi editoriali necessarie;
-- eventuali task canonici separati, solo se realmente indispensabili.
+- `manual/MANUAL_GAPS.md` aggiornato;
+- eventuale doctrine review separata solo se una sintesi non è sostenibile col corpus corrente.
 
-## Gate di completamento
+## Gate
 
-Nessun capitolo fondamentale dipende da conoscenza implicita o dispersa che un principiante non potrebbe ricostruire autonomamente.
+Nessun capitolo fondamentale dipende da conoscenza implicita che un principiante non potrebbe ricostruire autonomamente.
 
 ---
 
@@ -205,32 +183,24 @@ Nessun capitolo fondamentale dipende da conoscenza implicita o dispersa che un p
 
 **Stato: NOT STARTED**
 
-## Scopo
+Ogni chapter spec deve contenere:
 
-Progettare ogni capitolo prima della prosa lunga.
-
-## Ogni chapter spec deve contenere
-
-- domanda a cui risponde;
-- risultato di apprendimento;
+- domanda;
+- learning outcome;
 - prerequisiti;
 - concetti obbligatori;
-- principio causale centrale;
-- errori da prevenire;
+- causalità centrale;
+- errori;
 - procedura/decision framework;
-- metriche quando pertinenti;
-- esempi/casi da usare;
-- collegamenti ai capitoli precedenti e successivi;
-- fonti canoniche backend;
+- metriche;
+- esempi/casi;
+- cross-reference;
+- fonti backend;
 - criteri di completezza.
 
-## Output
+Output: `manual/chapter-specs/`.
 
-- directory `manual/chapter-specs/`
-
-## Gate di completamento
-
-Ogni capitolo previsto dal curriculum ha una spec approvabile e nessuna unità critica del crosswalk resta senza casa.
+Gate: ogni capitolo del curriculum possiede una spec e nessuna unità critica resta senza casa.
 
 ---
 
@@ -238,32 +208,20 @@ Ogni capitolo previsto dal curriculum ha una spec approvabile e nessuna unità c
 
 **Stato: NOT STARTED**
 
-## Scopo
+Pattern preferito:
 
-Riscrivere l'intero sistema in voce autoriale unitaria.
-
-## Standard di scrittura
-
-Ogni capitolo, salvo eccezioni motivate, deve seguire questa progressione:
-
-1. problema o decisione reale;
+1. problema/decisione reale;
 2. modello mentale;
 3. definizioni;
-4. causalità e dipendenze;
-5. regole diagnostiche;
-6. procedura operativa;
-7. errori ed eccezioni;
-8. metriche/evidenza;
-9. esempio o caso;
+4. causalità;
+5. diagnosi;
+6. procedura;
+7. errori/eccezioni;
+8. metriche;
+9. esempio/caso;
 10. sintesi applicativa.
 
-## Output
-
-- directory `manual/draft/`
-
-## Gate di completamento
-
-Tutti i capitoli esistono in prima versione e rispettano chapter specs, curriculum e coverage map.
+Output: `manual/draft/`.
 
 ---
 
@@ -271,44 +229,18 @@ Tutti i capitoli esistono in prima versione e rispettano chapter specs, curricul
 
 **Stato: NOT STARTED**
 
-## Scopo
+Audit:
 
-Dimostrare che il manuale è corretto e utilizzabile, non soltanto ben scritto.
+- coverage;
+- doctrine fidelity;
+- beginner clarity;
+- operational usability;
+- redundancy;
+- provenance/copyright.
 
-## Audit obbligatori
+Output: `manual/AUDIT.md`.
 
-### Coverage audit
-
-Ogni conoscenza rilevante della KB è coperta o esclusa motivatamente.
-
-### Doctrine audit
-
-Nessuna semplificazione del manuale contraddice il nodo canonico prevalente.
-
-### Beginner audit
-
-Il testo non presuppone concetti non ancora spiegati.
-
-### Operational audit
-
-Il lettore può trasformare i concetti in decisioni, procedure, test e metriche.
-
-### Redundancy audit
-
-Ogni concetto ha una casa primaria e le ripetizioni residue hanno funzione didattica esplicita.
-
-### Provenance/copyright audit
-
-La prosa finale è realmente riscritta e non presenta come appartenente a un singolo autore ciò che deriva da fonti assimilate diverse.
-
-## Output
-
-- `manual/AUDIT.md`
-- backlog di correzione chiuso prima della finalizzazione.
-
-## Gate di completamento
-
-Nessun finding P0/P1 aperto.
+Gate: nessun finding P0/P1 aperto.
 
 ---
 
@@ -316,30 +248,17 @@ Nessun finding P0/P1 aperto.
 
 **Stato: NOT STARTED**
 
-## Scopo
-
-Trasformare il draft validato in un'opera unica e pubblicabile/studiabile.
-
-## Attività
+Attività:
 
 - uniformare terminologia e voce;
 - consolidare cross-reference;
-- costruire glossario;
-- costruire indice analitico;
-- finalizzare esercizi/checklist/strumenti;
+- finalizzare glossario e indice analitico;
+- finalizzare esercizi/checklist;
 - finalizzare casi end-to-end;
-- rimuovere residue tracce del backend editoriale;
-- produrre versione master.
+- rimuovere tracce del backend;
+- produrre master finale.
 
-## Output
-
-- `manual/final/`
-- release del manuale;
-- snapshot della coverage map usata per la release.
-
-## Gate di completamento
-
-Il manuale può essere studiato senza accesso alla KB originale e resta internamente riconducibile alla KB tramite gli artefatti editoriali.
+Output: `manual/final/`.
 
 ---
 
@@ -347,8 +266,6 @@ Il manuale può essere studiato senza accesso alla KB originale e resta internam
 
 Una fase passa a `DONE` soltanto quando il suo gate è soddisfatto.
 
-Non iniziare la scrittura massiva dei capitoli per entusiasmo o pressione di velocità se inventario, crosswalk, curriculum e gap closure non sono abbastanza solidi.
-
-La priorità è:
+La priorità resta:
 
 **non perdere conoscenza → non perdere causalità → non perdere il lettore.**
