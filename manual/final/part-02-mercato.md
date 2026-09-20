@@ -1,6 +1,6 @@
 # Parte II — Scegliere dove e con chi competere
 
-La prima parte del manuale ha stabilito il metodo: partire dall'outcome economico, leggere i numeri minimi, distinguere sintomo e causa, trasformare le idee in ipotesi verificabili.
+La prima parte del manuale ha stabilito il metodo: partire dal risultato economico, leggere i numeri minimi, distinguere sintomo e causa, trasformare le idee in ipotesi verificabili.
 
 Ora possiamo affrontare una domanda più scomoda:
 
@@ -385,7 +385,7 @@ Il problema non è massimizzare il numero di clienti.
 
 È costruire una base di clienti che l'impresa sappia servire bene e profittevolmente.
 
-## Appropriatezza: un fit in due direzioni
+## Appropriatezza: una compatibilità in due direzioni
 
 Chiameremo **appropriatezza** la compatibilità fra cliente e impresa.
 
@@ -419,7 +419,7 @@ Quanto valore economico rimane realmente?
 
 Quanto margine può produrre la relazione nel tempo, con ipotesi credibili?
 
-### Cost-to-serve
+### Costo di servizio
 
 Quanto costa concretamente servire quel cliente?
 
@@ -447,7 +447,7 @@ Nessuna singola metrica basta.
 
 ## I costi invisibili della relazione
 
-Il cost-to-serve introdotto nel Capitolo 2 diventa qui centrale.
+Il costo di servizio introdotto nel Capitolo 2 diventa qui centrale.
 
 Un cliente può sembrare profittevole perché nel conto vengono registrati solo:
 
@@ -565,7 +565,7 @@ I criteri possono includere:
 - livello di personalizzazione richiesto;
 - capacità necessaria;
 - prerequisiti tecnici;
-- fit con il problema che sappiamo risolvere;
+- compatibilità con il problema che sappiamo risolvere;
 - comportamento necessario per ottenere risultato.
 
 In alcuni business il filtro avviene prima della vendita.
@@ -625,7 +625,7 @@ Un dato di profilo merita attenzione quando cambia almeno una decisione:
 - offerta;
 - prova necessaria;
 - canale;
-- timing;
+- momento;
 - prezzo;
 - processo;
 - servizio.
@@ -639,7 +639,7 @@ Questa regola protegge da due errori:
 
 ## Caso didattico: il segmento più numeroso non è il migliore
 
-Consideriamo un'impresa B2B fittizia, **NordService**, che gestisce manutenzione tecnica per piccoli impianti commerciali.
+Consideriamo un'impresa business-to-business (B2B), cioè che vende ad altre imprese, fittizia: **NordService**, che gestisce manutenzione tecnica per piccoli impianti commerciali.
 
 Negli ultimi dodici mesi osserva due gruppi.
 
@@ -647,7 +647,7 @@ Negli ultimi dodici mesi osserva due gruppi.
 
 - 50 clienti;
 - margine medio prima del supporto extra: 600 €;
-- cost-to-serve extra medio: 100 €;
+- costo di servizio extra medio: 100 €;
 - contributo indicativo per cliente: 500 €.
 
 Contributo indicativo del gruppo: 25.000 €.
@@ -656,7 +656,7 @@ Contributo indicativo del gruppo: 25.000 €.
 
 - 80 clienti;
 - margine medio prima del supporto extra: 420 €;
-- cost-to-serve extra medio: 180 €;
+- costo di servizio extra medio: 180 €;
 - contributo indicativo per cliente: 240 €.
 
 Contributo indicativo del gruppo: 19.200 €.
@@ -680,7 +680,7 @@ Per ogni segmento candidato, compila una scheda con almeno questi campi:
 - ricavo medio;
 - margine;
 - LTV plausibile;
-- cost-to-serve;
+- costo di servizio;
 - condizioni di pagamento.
 
 ### Comportamento
@@ -720,7 +720,7 @@ Serve a decidere quale tipo di cliente vogliamo moltiplicare e quale no.
 
 Dopo aver formulato una tesi di mercato e di cliente desiderabile, dobbiamo verificare che non sia una storia costruita dalla scrivania.
 
-È qui che entra la **Voice of Customer**, o VoC.
+È qui che entra la **Voice of Customer**, o VoC: la voce del cliente raccolta in modo strutturato.
 
 Con Voice of Customer intendiamo un insieme strutturato di evidenze sul linguaggio, comportamento, problemi, alternative, trigger, criteri decisionali ed esperienza di clienti e potenziali clienti.
 
@@ -754,7 +754,7 @@ Oppure vuoi capire perché l'offerta non converte.
 
 La domanda diventa:
 
-> Il problema è scarsa priorità, alternativa soddisfacente, rischio percepito, prezzo, prova insufficiente o mismatch del target?
+> Il problema è scarsa priorità, alternativa soddisfacente, rischio percepito, prezzo, prova insufficiente o incompatibilità del target?
 
 Questa impostazione impedisce alla ricerca di trasformarsi in una raccolta infinita di informazioni interessanti ma inutilizzabili.
 
@@ -776,7 +776,7 @@ Quando esistono dati interni, osserva:
 - frequenza;
 - recenza;
 - LTV;
-- cost-to-serve;
+- costo di servizio;
 - puntualità di pagamento;
 - risultati ottenuti;
 - supporto richiesto;
@@ -846,9 +846,9 @@ In realtà molte aziende potrebbero usare ancora:
 
 Se non capisci perché quelle alternative vengono mantenute, non puoi capire il vero costo del cambiamento.
 
-## Complaint mining: cercare dove le alternative falliscono
+## Analisi delle lamentele: cercare dove le alternative falliscono
 
-Il **complaint mining** è l'analisi sistematica di lamentele, recensioni, conversazioni e frizioni relative alle alternative.
+L'**analisi delle lamentele**, spesso chiamata *complaint mining*, è lo studio sistematico di lamentele, recensioni, conversazioni e frizioni relative alle alternative.
 
 Può rivelare:
 
@@ -890,7 +890,7 @@ Perché separarli?
 
 Perché una stessa frase può avere significato diverso a seconda di chi la pronuncia.
 
-Se una richiesta compare soprattutto fra clienti ad alto cost-to-serve e basso margine, non dovrebbe automaticamente guidare il prodotto principale.
+Se una richiesta compare soprattutto fra clienti ad alto costo di servizio e basso margine, non dovrebbe automaticamente guidare il prodotto principale.
 
 ## Intervistare eventi, non desideri immaginari
 
@@ -969,7 +969,7 @@ Questo non decide automaticamente che cosa dovrai comunicare. Ma misura la ragio
 
 ## Separare evidenza e interpretazione
 
-Per ogni insight usa almeno quattro campi.
+Per ogni evidenza significativa usa almeno quattro campi.
 
 ### 1. Evidenza
 
@@ -1027,7 +1027,7 @@ Per questo le dichiarazioni devono essere confrontate con denaro, tempo e compor
 
 ## Triangolazione: non costruire strategia su una frase brillante
 
-Parliamo di **triangolazione** quando lo stesso pattern riceve supporto da fonti diverse.
+Parliamo di **triangolazione** quando lo stesso schema riceve supporto da fonti diverse.
 
 Esempio:
 
@@ -1036,7 +1036,7 @@ Esempio:
 - le trattative perse lo citano come ostacolo;
 - l'assistenza lo vede anche dopo la vendita.
 
-Nessun insight deve necessariamente comparire ovunque.
+Non è necessario che ogni segnale compaia ovunque.
 
 La triangolazione serve soprattutto a evitare che una frase memorabile venga scambiata per verità di mercato.
 
@@ -1054,9 +1054,9 @@ La ricerca parte da una decisione diversa:
 
 ### Evidenza economica
 
-Il Gruppo A — strutture con più punti operativi — genera più contributo medio e meno cost-to-serve del Gruppo B.
+Il Gruppo A — strutture con più punti operativi — genera più contributo medio e meno costo di servizio del Gruppo B.
 
-### Complaint mining
+### Analisi delle lamentele
 
 Nelle recensioni delle alternative emergono:
 
@@ -1085,11 +1085,11 @@ La mossa successiva non è scrivere uno slogan.
 
 Lo faremo nel Capitolo 9.
 
-## La Market Evidence Map
+## La Mappa delle evidenze di mercato
 
 La ricerca deve terminare in un artefatto operativo, non in cento pagine di note.
 
-Per ogni segmento candidato costruisci una **Market Evidence Map**, cioè una mappa sintetica delle evidenze di mercato.
+Per ogni segmento candidato costruisci una **Mappa delle evidenze di mercato**, cioè una sintesi strutturata delle evidenze disponibili.
 
 ### Segmento
 
@@ -1103,7 +1103,7 @@ Per ogni segmento candidato costruisci una **Market Evidence Map**, cioè una ma
 
 - problema/desiderio;
 - evento che rende il tema prioritario;
-- timing;
+- momento;
 - conseguenze;
 - durata e frequenza naturale del bisogno.
 
@@ -1137,7 +1137,7 @@ Per ogni segmento candidato costruisci una **Market Evidence Map**, cioè una ma
 - interviste;
 - ricerche;
 - recensioni e reclami;
-- feedback commerciale e operativo.
+- riscontri commerciali e operativi.
 
 ### Ipotesi
 
@@ -1151,7 +1151,7 @@ La sezione più importante è quella delle ipotesi, perché impedisce di fingere
 
 ## La ricerca finisce con un test
 
-Una Market Evidence Map è ancora una sintesi.
+Una Mappa delle evidenze di mercato è ancora una sintesi.
 
 Il mercato deve avere la possibilità di smentirla.
 
@@ -1220,7 +1220,7 @@ Un **problema** è una condizione che produce conseguenze abbastanza rilevanti d
 
 Un sintomo è una manifestazione visibile del problema.
 
-Esempio B2B:
+Esempio in una vendita fra imprese (B2B):
 
 Sintomo:
 
@@ -1359,7 +1359,7 @@ Il problema non è necessariamente scarsa comunicazione. Può essere che il vant
 
 Un **trigger** è un evento o cambiamento che rende improvvisamente più saliente il problema o desiderio e aumenta la probabilità di azione.
 
-Esempi B2B:
+Esempi in vendite fra imprese (B2B):
 
 - contratto in scadenza;
 - nuova sede;
@@ -1372,7 +1372,7 @@ Esempi B2B:
 - perdita di un fornitore;
 - obiettivo di budget.
 
-Esempi B2C:
+Esempi in vendite a consumatori finali, o business-to-consumer (B2C):
 
 - nascita di un figlio;
 - trasloco;
@@ -1388,7 +1388,7 @@ Il trigger non crea necessariamente il bisogno.
 
 Spesso lo rende semplicemente urgente abbastanza da produrre una decisione.
 
-## Timing: non tutti i clienti corretti sono pronti ora
+## Momento decisionale: non tutti i clienti corretti sono pronti ora
 
 Due persone possono appartenere allo stesso segmento e avere la stessa capacità economica, ma trovarsi in momenti completamente diversi.
 
@@ -1404,15 +1404,15 @@ Questo introduce una regola importante:
 
 **target corretto ≠ stesso stato decisionale.**
 
-Più avanti studieremo in dettaglio quanto una persona conosca già il problema, la categoria di soluzione e il fornitore. Per ora basta capire che il timing modifica la quantità di lavoro necessaria per arrivare alla decisione.
+Più avanti studieremo in dettaglio quanto una persona conosca già il problema, la categoria di soluzione e il fornitore. Per ora basta capire che il momento modifica la quantità di lavoro necessaria per arrivare alla decisione.
 
-## Payer, user e stakeholder
+## Utilizzatore, pagatore e stakeholder
 
 In molte vendite chi usa non coincide con chi paga.
 
-Il **user**, o utilizzatore, è chi vive direttamente il prodotto o servizio.
+L'**utilizzatore** è chi vive direttamente il prodotto o servizio.
 
-Il **payer**, o pagatore, è chi sostiene o autorizza economicamente la spesa.
+Il **pagatore** è chi sostiene o autorizza economicamente la spesa.
 
 Possono coincidere.
 
@@ -1477,7 +1477,7 @@ Il punto non è compilare una lista universale.
 
 Un criterio può anche essere “evitare di essere quello che ha scelto male”.
 
-Nel B2B, il rischio personale del decisore può essere diverso dal rischio economico dell'azienda.
+Nelle vendite B2B, il rischio personale del decisore può essere diverso dal rischio economico dell'azienda.
 
 ## La prova necessaria
 
@@ -1491,7 +1491,7 @@ Il cliente vuole sapere:
 - il rischio è accettabile?;
 - cosa succede se qualcosa va storto?
 
-Non approfondiremo ancora autorità, testimonianze e prova. Hanno una casa specifica più avanti.
+Non approfondiremo ancora autorità, testimonianze e prova. Lo faremo nei capitoli dedicati.
 
 Qui serve solo mappare **quale dubbio deve essere risolto** perché la decisione possa avanzare.
 
@@ -1522,7 +1522,7 @@ Può avere un target stabile mentre le **coorti**, cioè gruppi di clienti entra
 
 La definizione tecnica e l'analisi delle coorti arriveranno più avanti. Qui interessa solo il principio: **uscire non significa sempre abbandonare insoddisfatti**.
 
-## Decision Map: la mappa della decisione
+## Mappa della decisione
 
 Alla fine di questo capitolo devi poter descrivere la decisione del cliente in una pagina.
 
@@ -1554,7 +1554,7 @@ Come confronterà le opzioni?
 
 Chi usa, chi paga, chi decide, chi può bloccare?
 
-### 8. Timing
+### 8. Momento decisionale
 
 Quando può realmente prendere una decisione?
 
@@ -1598,7 +1598,7 @@ Affidabilità, tempi, reporting, responsabilità, costo totale.
 
 Responsabile operativo usa il servizio; direzione approva; amministrazione valuta condizioni.
 
-### Timing
+### Momento
 
 La finestra reale non è “oggi o mai più”: è il processo che porta al rinnovo.
 
@@ -1608,7 +1608,7 @@ Questa mappa produce una conseguenza commerciale immediata: contattare la stessa
 
 A questo punto sappiamo molto più di quanto sapessimo entrando nella Parte II.
 
-Non abbiamo ancora scritto una headline.
+Non abbiamo ancora scritto un titolo pubblicitario.
 
 Non abbiamo scelto un canale.
 
@@ -1616,9 +1616,9 @@ Non abbiamo progettato un'offerta.
 
 Ed è corretto così.
 
-Abbiamo costruito quattro asset decisionali.
+Abbiamo costruito quattro strumenti decisionali.
 
-### 1. Market Gate
+### 1. Gate di mercato
 
 Sappiamo verificare se domanda, raggiungibilità, capacità di acquisto, direzione e bacino possono sostenere il modello.
 
@@ -1626,13 +1626,13 @@ Sappiamo verificare se domanda, raggiungibilità, capacità di acquisto, direzio
 
 Sappiamo distinguere chi compra da chi produce margine, risultato e relazione compatibili con il sistema.
 
-### 3. Market Evidence Map
+### 3. Mappa delle evidenze di mercato
 
 Sappiamo raccogliere evidenza senza trasformare opinioni e interpretazioni in fatti.
 
-### 4. Decision Map
+### 4. Mappa della decisione
 
-Sappiamo descrivere problema, desiderio, alternative, trigger, criteri, ruoli e timing senza partire dal nostro prodotto.
+Sappiamo descrivere problema, desiderio, alternative, trigger, criteri, ruoli e momento decisionale senza partire dal nostro prodotto.
 
 Questa è la materia prima del prossimo passaggio.
 
