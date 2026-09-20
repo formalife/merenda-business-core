@@ -22,7 +22,7 @@ Il progetto non deve:
 - fare copy-paste o merge dei nodi;
 - perdere provenance o prevalenza temporale;
 - modificare la dottrina canonica per esigenze narrative;
-- riempire il testo reader-facing di riferimenti interni;
+- esporre il backend editoriale nel testo reader-facing;
 - sacrificare prerequisiti per accorciare artificialmente il percorso.
 
 ---
@@ -33,11 +33,11 @@ Il progetto non deve:
 
 Output:
 
-- `manual/README.md`
-- `manual/ROADMAP.md`
-- `manual/STATUS.md`
-- `manual/MANUAL_CONTRACT.md`
-- baseline iniziale del doctrine layer
+- `manual/README.md`;
+- `manual/ROADMAP.md`;
+- `manual/STATUS.md`;
+- `manual/MANUAL_CONTRACT.md`;
+- baseline iniziale del doctrine layer.
 
 Gate: il progetto può ripartire dal repository senza dipendere dalla chat.
 
@@ -49,8 +49,8 @@ Gate: il progetto può ripartire dal repository senza dipendere dalla chat.
 
 Output:
 
-- `manual/CORPUS_INVENTORY.md`
-- `manual/MANUAL_GAPS.md`
+- `manual/CORPUS_INVENTORY.md`;
+- `manual/MANUAL_GAPS.md` iniziale.
 
 Gate soddisfatto: **60/60 file** sotto `merenda/` censiti e classificati; corpus interpretativo/provenance separato.
 
@@ -60,11 +60,7 @@ Gate soddisfatto: **60/60 file** sotto `merenda/` censiti e classificati; corpus
 
 **Stato: DONE — PASS 2026-09-20**
 
-## Scopo
-
-Trasformare i documenti della KB in unità di conoscenza indipendenti dalla loro collocazione originale e consolidare duplicazioni, dipendenze, provenance e casi.
-
-## Output completati
+Output principali:
 
 - `manual/KB_TO_MANUAL_CROSSWALK.md`;
 - `manual/crosswalk/root-routing.md`;
@@ -73,142 +69,103 @@ Trasformare i documenti della KB in unità di conoscenza indipendenti dalla loro
 - `manual/DEPENDENCY_MAP.md`;
 - `manual/PROVENANCE_MAP.md`;
 - `manual/CASE_INVENTORY.md`;
-- `manual/PHASE2_AUDIT.md`;
-- `manual/MANUAL_GAPS.md` aggiornato.
+- `manual/PHASE2_AUDIT.md`.
 
-## Esito
+Esito:
 
 - **60/60 file covered**;
 - **709 unità semantiche first-pass**;
-- primary-home pass completato;
-- dependency pass completato;
-- provenance/temporal pass completato;
-- case inventory completato;
-- nessun doctrinal gap che impedisca il curriculum.
-
-Gate: **PASS**. Vedi `manual/PHASE2_AUDIT.md`.
+- primary-home, dependency, provenance/temporal e case inventory pass completati;
+- nessun doctrinal gap bloccante.
 
 ---
 
 # Fase 3 — Curriculum e architettura didattica
 
-**Stato: IN PROGRESS**
+**Stato: DONE — PASS 2026-09-20**
 
-## Scopo
-
-Definire l'ordine in cui una persona inesperta deve apprendere il sistema.
-
-## Principio
-
-L'indice finale nasce dalle **dipendenze cognitive e causali**, non dalle cartelle correnti della KB.
-
-## Vincoli già emersi dalla Fase 2
-
-1. economic literacy minima deve arrivare all'inizio;
-2. Voice of Customer precede positioning e copy;
-3. positioning precede offer e amplification;
-4. offer precede acquisition;
-5. authority/proof deve essere disponibile prima delle decisioni costose;
-6. awareness/intent precedono channel e directness;
-7. database/stati precedono funnel adattivo e lifecycle;
-8. copy operativo viene dopo strategia, proof e awareness;
-9. vendita parte dall'handoff;
-10. delivery precede retention/referral/reputation;
-11. advanced economics + cash + capacity precedono scale;
-12. process/governance precedono automation e organizational scale;
-13. expansion riapre market e positioning.
-
-## Attività
-
-1. definire learning outcomes finali;
-2. trasformare `DEPENDENCY_MAP.md` in parti/moduli/capitoli;
-3. verificare i prerequisiti capitolo per capitolo;
-4. assegnare una primary home alle unità tramite `PRIMARY_HOME_MAP.md`;
-5. distribuire casi/esercizi tramite `CASE_INVENTORY.md`;
-6. definire first-use dei termini beginner-critical;
-7. verificare coverage dell'intero corpus;
-8. produrre l'indice ragionato v1.
-
-## Output
+Output:
 
 - `manual/MANUAL_CURRICULUM.md`;
-- indice ragionato v1;
-- prerequisite references;
+- **8 parti / 39 capitoli**;
+- prerequisite order;
 - case placement;
 - first-use terminology map;
-- coverage check contro il crosswalk.
+- `manual/PHASE3_AUDIT.md`.
 
-## Gate di completamento
+Decisioni strutturali principali:
 
-Il curriculum:
+1. economics minimi al Cap. 2, economics avanzati ai Capp. 30–32;
+2. VoC prima di positioning e copy;
+3. positioning prima di offer/amplification;
+4. brand distribuito causalmente: proof prima della vendita, reputation/community dopo esperienza;
+5. funnel insegnato come state machine;
+6. vendita parte dall'handoff;
+7. lifecycle trattato come sistema unico;
+8. scale = economics + cash + capacity + process + people + governance;
+9. expansion riapre market e positioning;
+10. Cap. 39 ricompone il sistema come operating system diagnostico.
 
-- copre l'intero corpus rilevante;
-- non usa concetti operativamente prima di averli introdotti;
-- può essere percorso da zero fino alla diagnosi e progettazione end-to-end di un business;
-- assegna una casa a tutti i cluster primari;
-- risolve G-006;
-- rende espliciti i gap da chiudere in Fase 4.
+Gate: curriculum beginner-first completo, D-01…D-35 verificati, G-006 risolto.
 
 ---
 
 # Fase 4 — Gap closure e sintesi mancanti
 
-**Stato: NOT STARTED**
+**Stato: DONE — PASS 2026-09-20**
 
-## Scopo
+Output:
 
-Chiudere i residui che impediscono al manuale di essere autosufficiente.
-
-## Gap attesi dopo Phase 2
-
-- G-002 — case library: closure plan con casi sintetici;
-- G-005 — Voice of Customer / market research: sintesi editoriale unica;
-- G-007 — glossary/linguaggio beginner-first.
-
-G-001, G-003, G-004 e G-008 sono già `RESOLVED EDITORIALLY`. G-006 deve essere risolto dal curriculum.
-
-## Output
-
-- sintesi editoriali necessarie;
+- `manual/syntheses/voice-of-customer.md`;
+- `manual/syntheses/synthetic-cases.md`;
+- `manual/BEGINNER_GLOSSARY.md`;
 - `manual/MANUAL_GAPS.md` aggiornato;
-- eventuale doctrine review separata solo se una sintesi non è sostenibile col corpus corrente.
+- `manual/PHASE4_AUDIT.md`.
 
-## Gate
+Esito:
 
-Nessun capitolo fondamentale dipende da conoscenza implicita che un principiante non potrebbe ricostruire autonomamente.
+- G-001…G-008 tutti `RESOLVED EDITORIALLY`;
+- nessun gap P0/P1/P2 bloccante;
+- nessuna modifica necessaria a `merenda/`.
 
 ---
 
 # Fase 5 — Chapter specs
 
-**Stato: NOT STARTED**
+**Stato: DONE — PASS 2026-09-20**
 
-Ogni chapter spec deve contenere:
+Output:
 
-- domanda;
-- learning outcome;
-- prerequisiti;
-- concetti obbligatori;
-- causalità centrale;
-- errori;
-- procedura/decision framework;
-- metriche;
-- esempi/casi;
-- cross-reference;
-- fonti backend;
-- criteri di completezza.
+- `manual/chapter-specs/README.md`;
+- `manual/chapter-specs/part-01-fondamenti.md`;
+- `manual/chapter-specs/part-02-mercato.md`;
+- `manual/chapter-specs/part-03-posizionamento-offerta.md`;
+- `manual/chapter-specs/part-04-domanda-acquisizione.md`;
+- `manual/chapter-specs/part-05-copy-vendita.md`;
+- `manual/chapter-specs/part-06-lifecycle-brand.md`;
+- `manual/chapter-specs/part-07-economics-organizzazione.md`;
+- `manual/chapter-specs/part-08-crescita-capstone.md`;
+- `manual/PHASE5_AUDIT.md`.
 
-Output: `manual/chapter-specs/`.
+Esito:
 
-Gate: ogni capitolo del curriculum possiede una spec e nessuna unità critica resta senza casa.
+- **39/39 capitoli con spec**;
+- prerequisiti, primary homes e first-use rispettati;
+- decision framework, metriche/evidenza, errori, casi e backend sources definiti;
+- nessun cluster primario senza casa;
+- nessun gap bloccante.
 
 ---
 
 # Fase 6 — Drafting del manuale
 
-**Stato: NOT STARTED**
+**Stato: IN PROGRESS**
 
-Pattern preferito:
+## Scopo
+
+Riscrivere il sistema in voce autoriale unitaria, agnostica e reader-facing, seguendo le chapter specs senza esporre il backend.
+
+## Pattern preferito
 
 1. problema/decisione reale;
 2. modello mentale;
@@ -217,11 +174,38 @@ Pattern preferito:
 5. diagnosi;
 6. procedura;
 7. errori/eccezioni;
-8. metriche;
+8. metriche/evidenza;
 9. esempio/caso;
 10. sintesi applicativa.
 
-Output: `manual/draft/`.
+## Output
+
+`manual/draft/`, organizzato per le otto parti del curriculum.
+
+## Regole
+
+- riscrittura originale, non collage;
+- niente riferimenti reader-facing a Frank, Merenda, KB o Layer 1;
+- definire i termini al first use;
+- una primary home per la teoria completa;
+- usare casi reali con caveat e casi sintetici come esplicitamente didattici;
+- non trasformare numeri/casi in benchmark universali;
+- verificare il doctrine backend prima di ogni blocco sostanziale.
+
+## Gate
+
+Tutti i 39 capitoli esistono in draft e rispettano spec, curriculum, coverage e voce editoriale.
+
+## Ordine di drafting
+
+1. Parte I — Capp. 1–4;
+2. Parte II — Capp. 5–8;
+3. Parte III — Capp. 9–13;
+4. Parte IV — Capp. 14–19;
+5. Parte V — Capp. 20–24;
+6. Parte VI — Capp. 25–29;
+7. Parte VII — Capp. 30–35;
+8. Parte VIII — Capp. 36–39.
 
 ---
 
@@ -229,14 +213,16 @@ Output: `manual/draft/`.
 
 **Stato: NOT STARTED**
 
-Audit:
+Audit obbligatori:
 
 - coverage;
 - doctrine fidelity;
 - beginner clarity;
 - operational usability;
 - redundancy;
-- provenance/copyright.
+- provenance/copyright;
+- terminology/first-use;
+- case/evidence discipline.
 
 Output: `manual/AUDIT.md`.
 
