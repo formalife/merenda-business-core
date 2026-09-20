@@ -91,79 +91,69 @@ Esito: **39/39 capitoli con spec**; prerequisiti, primary homes, first-use, metr
 
 **Stato: DONE — LOCAL PASS 2026-09-20**
 
-## Scopo
+Output: otto file in `manual/draft/`, per un totale di **39/39 capitoli**.
 
-Riscrivere il sistema in voce autoriale unitaria, agnostica e reader-facing, seguendo le chapter specs senza esporre il backend.
+Esito:
 
-## Pattern preferito
-
-1. problema/decisione reale;
-2. modello mentale;
-3. definizioni;
-4. causalità;
-5. diagnosi;
-6. procedura;
-7. errori/eccezioni;
-8. metriche/evidenza;
-9. esempio/caso;
-10. sintesi applicativa.
-
-## Output
-
-`manual/draft/`, organizzato in otto file reader-facing per le otto parti.
-
-## Esito
-
-- **8/8 parti draftate**;
-- **39/39 capitoli presenti**;
-- mini-audit locale eseguito su ogni parte;
-- nessun finding P0/P1 emerso nei gate locali;
-- P2 lessicali/copy-edit rimandati alla Fase 7–8.
-
-## Regole rispettate nel drafting
-
-- riscrittura originale, non collage;
-- niente riferimenti reader-facing a Frank, Merenda, KB o Layer 1;
-- definizioni al first use dove previste, con verifica globale rimandata alla Fase 7;
-- una primary home per la teoria completa;
-- casi sintetici esplicitamente didattici;
-- numeri/casi non trattati come benchmark universali;
-- nodi canonici live verificati prima di ogni blocco sostanziale.
-
-Gate: **SATISFIED localmente; soggetto ad audit globale Fase 7.**
+- riscrittura originale e reader-facing;
+- mini-audit locale su ogni parte;
+- nessun finding P0/P1 locale;
+- draft completo pronto per audit trasversale.
 
 ---
 
 # Fase 7 — Audit didattico, dottrinale e operativo
 
-**Stato: IN PROGRESS**
-
-Audit:
-
-- coverage;
-- doctrine fidelity e temporal precedence;
-- beginner clarity;
-- operational usability;
-- redundancy e primary-home discipline;
-- provenance/copyright;
-- terminology/first-use;
-- case/evidence discipline;
-- assenza di backend nella prosa;
-- cross-reference e coerenza globale.
+**Stato: DONE — PASS 2026-09-20**
 
 Output: `manual/AUDIT.md`.
 
-Gate: **nessun finding P0/P1 aperto.**
+Esito:
+
+- coverage: 39/39 PASS;
+- doctrine fidelity/temporal precedence: PASS;
+- causal/prerequisite order: PASS;
+- beginner clarity: PASS con P2 editoriali;
+- reader-facing agnosticism/provenance: PASS con P2 editoriali;
+- operational usability: PASS;
+- economic grounding: PASS;
+- redundancy discipline: PASS;
+- case/evidence discipline: PASS;
+- global integration: PASS.
+
+Finding finali:
+
+- **P0: 0**;
+- **P1: 0**;
+- **P2: 11**.
+
+Gate: **SATISFIED**.
 
 ---
 
 # Fase 8 — Finalizzazione e release
 
-**Stato: NOT STARTED**
+**Stato: IN PROGRESS**
 
-Attività: uniformare terminologia/voce, consolidare cross-reference, finalizzare glossario/indice analitico/esercizi/casi, rimuovere tracce backend, produrre master finale.
+## Ordine operativo
 
-Output: `manual/final/`.
+1. chiudere gli 11 P2 di `AUDIT.md`;
+2. uniformare terminologia e first-use;
+3. uniformare nomenclatura degli strumenti;
+4. rimuovere micro-tracce del backend e formulazioni troppo vicine a catchphrase;
+5. uniformare cross-reference e ritmo della voce;
+6. finalizzare glossario reader-facing;
+7. costruire indice e, se utile, indice analitico;
+8. assemblare `manual/final/`;
+9. final QA: 39/39, niente backend, niente attribution, niente finding P0/P1/P2 aperti.
+
+## Output
+
+`manual/final/` + control-plane aggiornato.
+
+## Gate
+
+Master finale coerente, studiabile e pubblicabile dal punto di vista editoriale, con tutti i finding di `AUDIT.md` chiusi o esplicitamente rinviati con motivazione.
 
 ---
 
