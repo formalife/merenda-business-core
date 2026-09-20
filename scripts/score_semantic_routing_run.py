@@ -73,15 +73,23 @@ def main() -> int:
         relevant = required | optional
         try:
             selected = as_set(trace, "selected_semantic_units")
-            verified = as_set(trace, "verified_semantic_units")
+            verified_raw = as_set(trace, "verified_semantic_units")
         except ValueError as exc:
             errors.append(str(exc))
             continue
 
+        # Recall is allowed to benefit from any canonical semantic exposure,
+        # including structural discovery. Precision, however, must score focused
+        # routing choices rather than semantic units passively exposed by mandatory
+        # bootstrap reads. Therefore the precision denominator is restricted to
+        # semantic IDs that were explicitly selected and then canonically verified.
+        verified_focused = verified_raw & selected
+        verified_passive = verified_raw - selected
+
         selected_hits = selected & required
-        verified_hits = verified & required
+        verified_hits = verified_raw & required
         selected_relevant = selected & relevant
-        verified_relevant = verified & relevant
+        focused_verified_relevant = verified_focused & relevant
         stats = trace.get("retrieval_stats", {})
         if not isinstance(stats, dict):
             stats = {}
@@ -94,14 +102,19 @@ def main() -> int:
                 "selected_semantic_recall": len(selected_hits) / len(required) if required else 1.0,
                 "verified_semantic_recall": len(verified_hits) / len(required) if required else 1.0,
                 "selected_semantic_precision": len(selected_relevant) / len(selected) if selected else 0.0,
-                "verified_semantic_precision": len(verified_relevant) / len(verified) if verified else 0.0,
+                "verified_semantic_precision": (
+                    len(focused_verified_relevant) / len(verified_focused) if verified_focused else 0.0
+                ),
                 "required_selected": sorted(selected_hits),
                 "required_verified": sorted(verified_hits),
-                "required_missed": sorted(required - verified),
+                "required_missed": sorted(required - verified_raw),
                 "over_selected": sorted(selected - relevant),
-                "over_verified": sorted(verified - relevant),
+                "over_verified": sorted(verified_focused - relevant),
+                "passive_verified": sorted(verified_passive),
                 "selected_count": len(selected),
-                "verified_count": len(verified),
+                "verified_count": len(verified_focused),
+                "verified_count_raw": len(verified_raw),
+                "passive_verified_count": len(verified_passive),
                 "full_node_reads": int(stats.get("full_node_reads", 0) or 0),
                 "section_reads": int(stats.get("section_reads", 0) or 0),
                 "semantic_entry_reads": int(stats.get("semantic_entry_reads", 0) or 0),
@@ -130,13 +143,22 @@ def main() -> int:
             "cases_full_verified_recall": sum(r["verified_semantic_recall"] == 1.0 for r in rows),
             "total_over_selected": sum(len(r["over_selected"]) for r in rows),
             "total_over_verified": sum(len(r["over_verified"]) for r in rows),
+            "total_passive_verified": sum(r["passive_verified_count"] for r in rows),
             "total_full_node_reads": sum(r["full_node_reads"] for r in rows),
             "total_section_reads": sum(r["section_reads"] for r in rows),
             "total_semantic_entry_reads": sum(r["semantic_entry_reads"] for r in rows),
             "total_structural_searches": sum(r["structural_searches"] for r in rows),
         }
 
-    output = {"summary": summary, "cases": scored}
+    output = {
+        "metric_definition": {
+            "verified_semantic_recall": "required units canonically exposed by focused semantic retrieval or structural discovery",
+            "verified_semantic_precision": "precision over semantic units explicitly selected and then canonically verified; passive bootstrap exposure excluded",
+            "passive_verified": "canonically exposed semantic units not explicitly selected; reported separately and excluded from precision denominator",
+        },
+        "summary": summary,
+        "cases": scored,
+    }
     print(json.dumps(output, ensure_ascii=False, indent=2))
     if args.json_out:
         args.json_out.parent.mkdir(parents=True, exist_ok=True)
