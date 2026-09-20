@@ -52,60 +52,59 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 ### Parte V — Capp. 20–24
 **READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-05-copy-vendita.md`
 
+### Parte VI — Capp. 25–29
+**READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI** — `manual/draft/part-06-lifecycle-brand.md`
+
 Copre:
 
-- pre-copy brief e continuità fra source, stato, messaggio e CTA;
-- argomentazione come progressione di convinzioni, reason why, meccanismo, proof, obiezioni, price context e CTA;
-- handoff e prequalifica prima del tempo commerciale costoso;
-- diagnosi standardizzata e prescrizione personalizzata;
-- tre certezze soluzione/venditore/azienda usate diagnosticamente;
-- looping come ritorno a prova/diagnosi, non pressione;
-- capacità di produrre un no corretto quando il fit non regge;
-- follow-up per stato, ragione, timing e next step;
-- pipeline letta per fase, aging, ultima attività, qualificazione e prossimo passo;
-- script come coreografia diagnostica, role-play e learning dip verificato sui dati;
-- sales management su conversione + margine + qualità cliente + CAC, non fatturato/close rate isolati.
+- onboarding come transizione al first value, non semplice welcome;
+- customer success, customer effort, segnali di uso/frizione e feedback loop verso processo/prodotto;
+- durata/frequenza naturale prima di retention, churn e riattivazione;
+- distinzione fra retention preventiva, riattivazione, riconquista e uscita naturale;
+- seconda vendita e next-best-offer come ipotesi fondate sul bisogno reale;
+- referral, testimonianze e review dopo risultato verificato e con rischio reputazionale del promotore esplicito;
+- reputazione e crisi su stakeholder, pre-mortem, verifica, rimedio e correzione sistemica;
+- brand come accumulo di significato distinto, prova, esperienza, reputazione e ripetizione nel tempo;
+- audience/fanbase separate dalla customer base economica.
 
 Mini-audit:
 
-- coverage Capp. 20–24: PASS;
-- copy non sostituisce strategia: PASS;
-- reason why / conseguenze senza invenzione: PASS;
-- handoff/prequalifica prima della diagnosi costosa: PASS;
-- diagnosi prima della prescrizione: PASS;
-- objection/looping non coercitivi: PASS;
-- no-sale appropriato: PASS;
-- follow-up con stato/next step: PASS;
-- script ≠ recita: PASS;
-- economics/customer quality nella lettura sales: PASS;
+- coverage Capp. 25–29: PASS;
+- onboarding → first value: PASS;
+- ticket/support → root-cause feedback: PASS;
+- retention ≠ keep forever: PASS;
+- natural exit ≠ pathological churn: PASS;
+- reactivation/win-back separated: PASS;
+- referral/proof after verified value: PASS;
+- reputation recovery requires operational remedy: PASS;
+- brand ≠ logo/notoriety/community-first: PASS;
 - reader-facing agnosticism: PASS;
 - nessun P0/P1.
 
 ## Ordine rimanente
 
-1. Parte VI — Capp. 25–29 — **NEXT**;
-2. Parte VII — Capp. 30–35;
-3. Parte VIII — Capp. 36–39.
+1. Parte VII — Capp. 30–35 — **NEXT**;
+2. Parte VIII — Capp. 36–39.
 
 ## Next Action
 
-Draftare `manual/draft/part-06-lifecycle-brand.md` da `chapter-specs/part-06-lifecycle-brand.md` dopo freshness read dei nodi live di onboarding/customer success, lifecycle/retention, referral/proof, reputation/crisis e brand/community.
+Draftare `manual/draft/part-07-economics-scala.md` da `chapter-specs/part-07-economics-scala.md` dopo freshness read dei nodi live su unit economics, cassa/capacità, controlli interni, processi/delega, persone e trasferibilità.
 
 Vincoli principali:
 
-- marketing continua dopo il pagamento;
-- onboarding deve portare a first value e ridurre churn evitabile;
-- durata/frequenza naturale precedono retention/riattivazione;
-- uscita naturale ≠ churn patologico;
-- referral/testimonianze seguono risultato reale;
-- reputazione richiede rimedio + correzione sistemica, non copy difensivo;
-- brand = accumulo di posizione + proof + esperienza + reputazione + memoria nel tempo, non grafica/notorietà.
+- economics avanzati senza perdere il beginner-first;
+- LTV non usato come scusa per ignorare payback/cassa;
+- crescita subordinata a capacità e capitale;
+- processi costruiti sui workflow reali, non SOP decorative;
+- delega con decision rights e accountability;
+- persone/ruoli specializzati solo quando il collo di bottiglia e l'economia lo giustificano;
+- scalabilità e transferability separate dalla sola crescita di fatturato.
 
 ## Gap aperti
 
 **Nessun gap P0/P1.**
 
-P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–V e correggere piccoli refusi locali.
+P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–VI, definire/italianizzare dove utile termini come `advocacy`, nomi dei canvas e correggere piccoli refusi locali.
 
 ## Blocchi
 
