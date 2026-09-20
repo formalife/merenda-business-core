@@ -4,9 +4,13 @@
 
 Questo è il coverage master della Fase 2.
 
-Il suo compito è garantire che la trasformazione della KB in manuale non perda conoscenza rilevante.
+Il suo compito è garantire che la trasformazione della KB in manuale non perda conoscenza rilevante. Non definisce l'indice del libro: le sezioni canoniche sono state usate soltanto come unità controllabili di decomposizione.
 
-Non definisce ancora l'indice del libro. Le sezioni canoniche vengono usate soltanto come unità di decomposizione controllabile.
+**Stato: COMPLETE — PHASE 2 GATE PASSED.**
+
+Audit: `manual/PHASE2_AUDIT.md`.
+
+---
 
 ## Unità semantica
 
@@ -28,87 +32,122 @@ Tipi ammessi:
 - `DEPENDENCY`
 - `FEEDBACK_LOOP`
 
-Una stessa unità può avere più di un tipo quando necessario, ma va evitata classificazione ridondante.
+Ruoli editoriali first-pass:
 
-## Ruolo editoriale candidato
+- `PRIMARY`
+- `SUPPORTING`
+- `EXAMPLE/CASE`
+- `REFERENCE`
+- `OPEN`
 
-Ogni unità viene inizialmente marcata come:
+Il first pass è deliberatamente granulare. Il numero di unità serve alla tracciabilità, non misura qualità né lunghezza futura del manuale.
 
-- `PRIMARY` — probabile casa primaria nel manuale;
-- `SUPPORTING` — rafforza un concetto la cui casa primaria sarà altrove;
-- `EXAMPLE/CASE` — materiale applicativo;
-- `REFERENCE` — utile al backend ma non da trasferire come unità reader-facing autonoma;
-- `OPEN` — destinazione ancora da decidere.
+---
 
-La destinazione finale viene fissata soltanto dopo il cross-section deduplication pass e il curriculum.
+# Coverage finale
 
-## Provenance backend
+| Blocco | File canonici | Stato | Crosswalk | Unità |
+|---|---:|---|---|---:|
+| root routing | 2 | COMPLETE | `manual/crosswalk/root-routing.md` | RTR-001…RTR-017 — 17 |
+| `00_fondamenti` | 3 | COMPLETE | `manual/crosswalk/00_fondamenti.md` | FND-001…FND-060 — 60 |
+| `01_mercato` | 5 | COMPLETE | `manual/crosswalk/01_mercato.md` | MRC-001…MRC-053 — 53 |
+| `02_posizionamento` | 4 | COMPLETE | `manual/crosswalk/02_posizionamento.md` | POS-001…POS-057 — 57 |
+| `03_offerta` | 4 | COMPLETE | `manual/crosswalk/03_offerta.md` | OFF-001…OFF-071 — 71 |
+| `04_marketing` | 7 | COMPLETE | `manual/crosswalk/04_marketing.md` | MKT-001…MKT-068 — 68 |
+| `05_acquisizione` | 6 | COMPLETE | `manual/crosswalk/05_acquisizione.md` | ACQ-001…ACQ-067 — 67 |
+| `06_vendita` | 5 | COMPLETE | `manual/crosswalk/06_vendita.md` | SAL-001…SAL-071 — 71 |
+| `07_copy_comunicazione` | 5 | COMPLETE | `manual/crosswalk/07_copy_comunicazione.md` | CPY-001…CPY-064 — 64 |
+| `08_brand` | 6 | COMPLETE | `manual/crosswalk/08_brand.md` | BRD-001…BRD-058 — 58 |
+| `09_business` | 10 | COMPLETE | `manual/crosswalk/09_business.md` | BUS-001…BUS-107 — 107 |
+| `10_casi_studio` | 3 | COMPLETE | `manual/crosswalk/10_casi_studio.md` | CAS-001…CAS-016 — 16 |
+| **Totale** | **60** | **60/60 COVERED** | — | **709** |
 
-Il crosswalk registra provenance soltanto quando serve per:
+Nessun file canonico è escluso per omissione.
 
-- distinguere fonte primaria da sintesi;
-- ricordare una prevalenza temporale;
-- non perdere un caveat;
-- evitare falsa attribuzione.
+---
 
-Non replica il source registry.
+# Consolidamento cross-section completato
 
-## Coverage per sezione
+## Semantic deduplication e primary homes
 
-| Sezione | File canonici | Stato semantic decomposition | Crosswalk |
-|---|---:|---|---|
-| `00_fondamenti` | 3 | COMPLETE | `manual/crosswalk/00_fondamenti.md` |
-| `01_mercato` | 5 | COMPLETE | `manual/crosswalk/01_mercato.md` |
-| `02_posizionamento` | 4 | COMPLETE | `manual/crosswalk/02_posizionamento.md` |
-| `03_offerta` | 4 | COMPLETE | `manual/crosswalk/03_offerta.md` |
-| `04_marketing` | 7 | COMPLETE | `manual/crosswalk/04_marketing.md` |
-| `05_acquisizione` | 6 | COMPLETE | `manual/crosswalk/05_acquisizione.md` |
-| `06_vendita` | 5 | COMPLETE | `manual/crosswalk/06_vendita.md` |
-| `07_copy_comunicazione` | 5 | NOT STARTED | — |
-| `08_brand` | 6 | NOT STARTED | — |
-| `09_business` | 10 | NOT STARTED | — |
-| `10_casi_studio` | 3 | NOT STARTED | — |
-| **Totale** | **60** | **34/60 file covered** | **7/11 sezioni** |
+Artefatto: `manual/PRIMARY_HOME_MAP.md`.
 
-## Unità create finora
+Funzione: assegnare una sola casa primaria editoriale ai concetti ricorrenti e trasformare le ripetizioni residue in applicazioni/cross-reference.
 
-- `00_fondamenti`: FND-001…FND-060 — 60 unità;
-- `01_mercato`: MRC-001…MRC-053 — 53 unità;
-- `02_posizionamento`: POS-001…POS-057 — 57 unità;
-- `03_offerta`: OFF-001…OFF-071 — 71 unità;
-- `04_marketing`: MKT-001…MKT-068 — 68 unità;
-- `05_acquisizione`: ACQ-001…ACQ-067 — 67 unità;
-- `06_vendita`: SAL-001…SAL-071 — 71 unità;
-- totale first-pass: **447 unità semantiche** prima del dedup cross-section.
+Decisioni principali:
 
-Il numero di unità non è una metrica di qualità né un obiettivo di crescita. Serve solo a garantire tracciabilità e coverage prima della compressione editoriale.
+- economics completi → Business, con literacy minima anticipata;
+- VoC → sintesi editoriale trasversale;
+- lifecycle → customer success/Business con state-machine mechanics da Acquisition;
+- sales end-to-end → Vendita;
+- positioning → Posizionamento;
+- offer/pricing → Offerta;
+- demand/awareness/channel → Marketing;
+- funnel/database/pre-education → Acquisition;
+- copy/argumentation → Copy;
+- authority/proof/reputation/community → Brand con split pre-sale/post-experience;
+- router per sintomo → toolkit diagnostico.
 
-## Pass successivi dopo le 11 sezioni
+## Dependency pass
 
-Quando tutti i file sono decomposti:
+Artefatto: `manual/DEPENDENCY_MAP.md`.
 
-1. **semantic deduplication** — unire unità equivalenti senza perdere caveat;
-2. **primary-home pass** — assegnare una casa primaria a ogni concetto;
-3. **dependency pass** — esplicitare ciò che deve essere compreso prima;
-4. **provenance/temporal pass** — verificare i concetti sensibili a evoluzione o assimilazione;
-5. **case inventory pass** — mappare esempi e casi disponibili;
-6. **gap pass** — aggiornare `manual/MANUAL_GAPS.md`;
-7. **coverage audit** — verificare 60/60 file e tutte le unità rilevanti;
-8. solo allora passare alla Fase 3 e progettare il curriculum.
+35 blocchi D-01…D-35 definiscono hard prerequisites, soft prerequisites e feedback loop.
 
-## Finding strutturale già emerso
+Finding centrale: il problema del corpus non è una carenza di conoscenza fondamentale, ma l'ordine in cui deve essere insegnata.
 
-`06_vendita` consente una sintesi end-to-end completa senza nuova acquisizione dottrinale: G-001 è candidato a `RESOLVED EDITORIALLY`, da confermare nel cross-section pass.
+## Provenance/temporal pass
 
-## Regola di qualità
+Artefatto: `manual/PROVENANCE_MAP.md`.
 
-Il crosswalk non deve diventare un riassunto dei documenti.
+Preservati i punti in cui fonte assimilata, temporal precedence o sintesi possono cambiare il significato editoriale.
 
-Per ogni unità deve essere possibile rispondere a:
+## Case inventory
 
-- che cosa deve capire il lettore?;
-- che cosa deve saper decidere o fare?;
-- da quali prerequisiti dipende?;
-- che cosa influenza a valle?;
-- quale caveat impedisce di trasformarla in slogan?;
-- dove è più probabile che debba vivere nel manuale?
+Artefatto: `manual/CASE_INVENTORY.md`.
+
+I casi reali disponibili sono sufficienti a sostenere molti principi ma non tutti i collegamenti end-to-end. Il gap residuo sarà chiuso con casi sintetici dichiaratamente didattici, senza inventare evidenza fattuale.
+
+---
+
+# Gap status dopo Phase 2
+
+- `G-001` vendita end-to-end → **RESOLVED EDITORIALLY**;
+- `G-002` case library → **OPEN — CLOSURE PLAN DEFINED**;
+- `G-003` provenance map → **RESOLVED EDITORIALLY**;
+- `G-004` brand synthesis → **RESOLVED EDITORIALLY**;
+- `G-005` Voice of Customer → **IN SYNTHESIS**;
+- `G-006` economics early curriculum → **CONFIRMED — PHASE 3**;
+- `G-007` beginner glossary → **OPEN**;
+- `G-008` customer lifecycle → **RESOLVED EDITORIALLY**.
+
+Registro: `manual/MANUAL_GAPS.md`.
+
+---
+
+# Fase 2 gate
+
+Gate richiesto:
+
+> ogni unità dottrinale rilevante ha almeno una destinazione editoriale candidata e ogni nodo canonico è coperto, escluso motivatamente o aperto.
+
+Esito: **PASS**.
+
+Verifica completa: `manual/PHASE2_AUDIT.md`.
+
+---
+
+# Next
+
+**Fase 3 — Curriculum e architettura didattica.**
+
+Il curriculum deve usare come vincoli:
+
+1. `manual/MANUAL_CONTRACT.md`;
+2. questo coverage master;
+3. `manual/PRIMARY_HOME_MAP.md`;
+4. `manual/DEPENDENCY_MAP.md`;
+5. `manual/CASE_INVENTORY.md`;
+6. `manual/MANUAL_GAPS.md`.
+
+La tassonomia della KB non è l'indice del manuale.
