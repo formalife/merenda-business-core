@@ -121,11 +121,11 @@ Esito:
 - case/evidence discipline: PASS;
 - global integration: PASS.
 
-Finding finali:
+Finding al gate di Fase 7:
 
 - **P0: 0**;
 - **P1: 0**;
-- **P2: 11**.
+- **P2: 11**, tutti assegnati alla Fase 8.
 
 Gate: **SATISFIED**.
 
@@ -133,33 +133,63 @@ Gate: **SATISFIED**.
 
 # Fase 8 — Finalizzazione e release
 
-**Stato: IN PROGRESS**
+**Stato: DONE — PASS 2026-09-20**
 
-## Ordine operativo
+Output reader-facing:
 
-1. chiudere gli 11 P2 di `AUDIT.md`;
-2. uniformare terminologia e first-use;
-3. uniformare nomenclatura degli strumenti;
-4. rimuovere micro-tracce del backend e formulazioni troppo vicine a catchphrase;
-5. uniformare cross-reference e ritmo della voce;
-6. finalizzare glossario reader-facing;
-7. costruire indice e, se utile, indice analitico;
-8. assemblare `manual/final/`;
-9. final QA: 39/39, niente backend, niente attribution, niente finding P0/P1/P2 aperti.
+- `manual/final/MANUALE.md` — entrypoint master;
+- `manual/final/INDICE.md` — indice dei 39 capitoli;
+- `manual/final/GLOSSARIO.md` — glossario reader-facing;
+- `manual/final/TOOLKIT.md` — strumenti operativi consolidati;
+- otto parti finali in `manual/final/`.
 
-## Output
+Output di controllo:
 
-`manual/final/` + control-plane aggiornato.
+- `manual/FINAL_AUDIT.md`.
 
-## Gate
+Esito:
 
-Master finale coerente, studiabile e pubblicabile dal punto di vista editoriale, con tutti i finding di `AUDIT.md` chiusi o esplicitamente rinviati con motivazione.
+- **8 parti / 39 capitoli finalizzati**;
+- 11/11 finding P2 della Fase 7 chiusi;
+- italiano reso lingua primaria dei concetti con inglese mantenuto solo quando utile professionalmente;
+- tassonomia strumenti uniformata in **Mappa / Scheda / Gate / Memo / Audit**;
+- nessuna attribuzione reader-facing a fonti personali o backend;
+- controlli sulle otto parti: `Merenda` = 0, `Frank` = 0, `Layer 1` = 0;
+- draft auditato preservato separatamente in `manual/draft/`;
+- dottrina canonica sotto `merenda/` non modificata per esigenze editoriali.
+
+Final gate:
+
+- **P0: 0**;
+- **P1: 0**;
+- **P2: 0**.
+
+Gate: **SATISFIED — RELEASE EDITORIALE PRONTA**.
 
 ---
 
-# Regola di avanzamento
+# Stato conclusivo
 
-Una fase passa a `DONE` soltanto quando il suo gate è soddisfatto.
+La pipeline editoriale è completata:
+
+**corpus canonico → decomposizione semantica → dipendenze → curriculum → chapter specs → draft → audit → release finale.**
+
+Il manuale può ora essere usato in due modi:
+
+1. **percorso di studio lineare** — Parti I–VIII;
+2. **sistema diagnostico operativo** — Capitolo 39 + `manual/final/TOOLKIT.md`.
+
+---
+
+# Regola di mantenimento
+
+Il progetto editoriale è concluso. Eventuali revisioni future devono essere trattate come una nuova iterazione controllata:
+
+1. verificare se cambia la dottrina canonica o soltanto la forma editoriale;
+2. preservare il draft/release storici;
+3. aggiornare crosswalk e provenance quando cambia la conoscenza sottostante;
+4. rieseguire audit sui capitoli impattati;
+5. non modificare silenziosamente la release pubblicata.
 
 La priorità resta:
 
