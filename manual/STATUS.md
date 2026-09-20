@@ -2,15 +2,15 @@
 
 ## Stato generale
 
-**ACTIVE — FASE 7 / AUDIT GLOBALE DEL MANUALE**
+**ACTIVE — FASE 8 / FINALIZZAZIONE E RELEASE**
 
-Le Fasi 0–6 sono concluse. Il draft reader-facing completo è presente sul branch `manual-drafting-2026-09-20`: **8 parti / 39 capitoli**.
+Le Fasi 0–7 sono concluse. Il draft reader-facing completo sul branch `manual-drafting-2026-09-20` contiene **8 parti / 39 capitoli** e ha superato l'audit globale con **0 P0 / 0 P1 / 11 P2**.
 
 ## Baseline e freshness
 
 Baseline dottrinale iniziale: `93f8eae978fdffb55c5623ae06603e5895b71e11` — 2026-09-20.
 
-Per audit e correzioni rileggere sempre la versione corrente del branch e i nodi canonici live quando emerge un dubbio dottrinale.
+La Fase 8 lavora sul draft auditato. Se una correzione editoriale sembra cambiare il significato di un principio, rileggere il nodo canonico live prima della modifica.
 
 ## Decisioni correnti
 
@@ -19,75 +19,64 @@ Per audit e correzioni rileggere sempre la versione corrente del branch e i nodi
 - **D-003 CURRENT:** voce reader-facing agnostica, senza Frank/Merenda/KB/Layer 1.
 - **D-004 CURRENT:** provenance e temporal precedence preservate nel backend.
 - **D-005 CURRENT:** rewrite, not collage.
-- **D-006 SATISFIED:** drafting massivo completato dopo PASS delle Fasi 1–5.
+- **D-006 SATISFIED:** drafting completo.
 - **D-007 CURRENT:** 60/60 file canonici coperti.
-- **D-008 CURRENT:** VoC multi-fonte consolidata in `syntheses/voice-of-customer.md`.
+- **D-008 CURRENT:** VoC multi-fonte consolidata.
 - **D-009 CURRENT:** front-end = riduzione della barriera, non sinonimo di low price.
-- **D-010 CURRENT:** economics in progressive disclosure: Cap. 2 base, Capp. 30–32 avanzati.
+- **D-010 CURRENT:** economics in progressive disclosure.
 - **D-011 CURRENT:** 8 parti / 39 capitoli; Cap. 39 = operating system diagnostico.
 
-## Fasi completate
+## Fasi
 
-- **Fase 0 — DONE:** control plane e baseline.
-- **Fase 1 — DONE:** 60/60 file censiti.
-- **Fase 2 — DONE / PASS:** 60/60 covered; 709 unità semantiche; primary-home/dependency/provenance/cases completati.
-- **Fase 3 — DONE / PASS:** curriculum 8 parti / 39 capitoli; D-01…D-35 verificati.
-- **Fase 4 — DONE / PASS:** VoC, glossary, synthetic cases; G-001…G-008 risolti editorialmente.
-- **Fase 5 — DONE / PASS:** 39/39 chapter specs.
-- **Fase 6 — DONE / LOCAL PASS:** 39/39 capitoli draftati; tutte le otto parti hanno superato mini-audit locale senza finding P0/P1.
+- Fase 0 — DONE
+- Fase 1 — DONE
+- Fase 2 — DONE / PASS
+- Fase 3 — DONE / PASS
+- Fase 4 — DONE / PASS
+- Fase 5 — DONE / PASS
+- Fase 6 — DONE / LOCAL PASS — 39/39 draftati
+- Fase 7 — DONE / PASS — `manual/AUDIT.md`
+- **Fase 8 — IN PROGRESS**
 
 ## Draft completo
 
-1. Parte I — Capp. 1–4 — `manual/draft/part-01-fondamenti.md` — READY
-2. Parte II — Capp. 5–8 — `manual/draft/part-02-mercato.md` — READY
-3. Parte III — Capp. 9–13 — `manual/draft/part-03-posizionamento-offerta.md` — READY
-4. Parte IV — Capp. 14–19 — `manual/draft/part-04-domanda-acquisizione.md` — READY
-5. Parte V — Capp. 20–24 — `manual/draft/part-05-copy-vendita.md` — READY
-6. Parte VI — Capp. 25–29 — `manual/draft/part-06-lifecycle-brand.md` — READY
-7. Parte VII — Capp. 30–35 — `manual/draft/part-07-economics-organizzazione.md` — READY
-8. Parte VIII — Capp. 36–39 — `manual/draft/part-08-crescita-capstone.md` — READY
+1. `manual/draft/part-01-fondamenti.md`
+2. `manual/draft/part-02-mercato.md`
+3. `manual/draft/part-03-posizionamento-offerta.md`
+4. `manual/draft/part-04-domanda-acquisizione.md`
+5. `manual/draft/part-05-copy-vendita.md`
+6. `manual/draft/part-06-lifecycle-brand.md`
+7. `manual/draft/part-07-economics-organizzazione.md`
+8. `manual/draft/part-08-crescita-capstone.md`
 
-### Gate locali Part VII
+## Audit globale
 
-PASS: LTV letto come margine/probabilità e non ricavo; payback separato dal cash-conversion timing; capacity su vincoli/picchi/costo opportunità; process-first before software; hiring after bottleneck/economics; delegation/transferability su KPI, decision rights e asset control.
+Verdetto: **PASS**.
 
-### Gate locali Part VIII
+- P0 aperti: 0
+- P1 aperti: 0
+- P2 aperti: 11
 
-PASS: prototipo economico prima della struttura; prevendita/manual delivery trasparenti; reinvestimento distinto dalla spesa; capitale esterno trattato insieme a governance/control; espansione subordinata alla prova del core; nuova geografia/categoria riapre market/positioning; Cap. 39 funziona come router diagnostico e include gli otto symptom routers previsti.
+Registro completo: `manual/AUDIT.md`.
 
-## Fase attiva — Fase 7 / Audit globale
+## P2 da chiudere
 
-Audit richiesto su:
-
-- coverage 39/39 e rispetto delle chapter specs;
-- doctrine fidelity e temporal precedence;
-- beginner clarity e first-use definitions;
-- causalità e prerequisite order;
-- operational usability;
-- ridondanza e primary-home discipline;
-- casi, numeri, prove e caveat;
-- provenance/copyright e assenza di backend reader-facing;
-- terminologia, voce e inglesismi;
-- cross-reference fra capitoli/parti.
-
-Output previsto dal roadmap: `manual/AUDIT.md`.
-
-Gate: **nessun finding P0/P1 aperto**.
-
-## Finding già noti da verificare globalmente
-
-- **P2:** uniformare/italianizzare gli inglesismi non necessari (`advocacy`, nomi di alcuni canvas, economics/operations terminology dove esiste un equivalente chiaro).
-- **P2:** piccoli refusi e uniformità lessicale nelle Parti II, V, VI e VII.
-- **P2 candidate:** verificare nel Cap. 30 che la regola “una spesa è investimento solo se esiste ritorno causale plausibile” sia abbastanza esplicita come primary teaching point, non solo distribuita nei capitoli successivi.
+1. `P2-T01` — inglesismi non necessari;
+2. `P2-T02` — B2B/B2C first use;
+3. `P2-T03` — `escalation` anticipata;
+4. `P2-T04` — `advocacy`;
+5. `P2-T05` — micro-gergo copy/operations;
+6. `P2-A01` — “casa primaria” reader-facing nel Cap. 20;
+7. `P2-A02` — catchphrase da riscrivere nel Cap. 38;
+8. `P2-O01` — Map/Canvas/Card/Memo/Gate naming;
+9. `P2-E01` — rendere esplicito nel Cap. 30 investimento = ritorno causale plausibile;
+10. `P2-R01` — ridurre ripetizioni formulaiche;
+11. `P2-X01` — uniformare cross-reference.
 
 ## Next Action
 
-Eseguire Fase 7 sul manoscritto completo e scrivere `manual/AUDIT.md`; correggere eventuali P0/P1 sul draft prima di dichiarare PASS.
+Eseguire il pass editoriale sugli otto file partendo dai finding locali e terminologici che non cambiano dottrina; poi assemblare `manual/final/` e fare final QA.
 
 ## Blocchi
 
 Nessun blocco corrente.
-
-## Handoff obbligatorio
-
-`ROADMAP.md` → `STATUS.md` → `MANUAL_CONTRACT.md` → `MANUAL_CURRICULUM.md` → `MANUAL_GAPS.md` → `BEGINNER_GLOSSARY.md` → chapter specs → draft corrente → nodi canonici live/provenance quando necessario.
