@@ -14,9 +14,9 @@ Baseline dottrinale iniziale del progetto manuale:
 
 Data baseline iniziale: 2026-09-20.
 
-Checkpoint validato Fasi 0–5: vedere `manual/PHASE5_AUDIT.md` e la storia Git corrente del publishing layer.
+Il checkpoint validato delle Fasi 0–5 coincide con la storia Git del publishing layer fino al PASS di `manual/PHASE5_AUDIT.md` e al riallineamento di roadmap/status/bootstrap.
 
-Il baseline serve per auditabilità, non congela il manuale a una versione vecchia. Prima di ogni blocco sostanziale di drafting va verificato il `main` live e vanno riletti i nodi canonici pertinenti.
+Prima di ogni blocco sostanziale di drafting va verificato il `main` live e vanno riletti i nodi canonici pertinenti.
 
 ## Decisioni correnti
 
@@ -42,7 +42,7 @@ Il baseline serve per auditabilità, non congela il manuale a una versione vecch
 
 ### D-006 — Gate prima della scrittura massiva
 
-**SATISFIED** — Fasi 1–5 hanno superato i rispettivi gate. Il drafting sistematico è ora autorizzato.
+**SATISFIED** — Fasi 1–5 hanno superato i rispettivi gate. Il drafting sistematico è autorizzato.
 
 ### D-007 — Crosswalk modulare
 
