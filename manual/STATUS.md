@@ -4,7 +4,7 @@
 
 **ACTIVE — FASE 6 / DRAFTING DEL MANUALE**
 
-Le Fasi 0–5 sono concluse e auditate. Il progetto può ora produrre prosa reader-facing sulla base di curriculum, gap closure e chapter specs già validate.
+Le Fasi 0–5 sono concluse e auditate. Il drafting reader-facing è in corso sul branch `manual-drafting-2026-09-20`.
 
 ## Baseline e freshness
 
@@ -30,39 +30,78 @@ Prima di ogni blocco sostanziale di drafting verificare `main` live e rileggere 
 
 - **Fase 0 — DONE:** control plane e baseline.
 - **Fase 1 — DONE:** 60/60 file censiti.
-- **Fase 2 — DONE / PASS:** 60/60 covered; 709 unità semantiche; primary-home/dependency/provenance/cases completati. Audit: `PHASE2_AUDIT.md`.
-- **Fase 3 — DONE / PASS:** curriculum 8 parti / 39 capitoli; D-01…D-35 verificati. Audit: `PHASE3_AUDIT.md`.
-- **Fase 4 — DONE / PASS:** VoC, glossary, synthetic cases; G-001…G-008 risolti editorialmente. Audit: `PHASE4_AUDIT.md`.
-- **Fase 5 — DONE / PASS:** 39/39 chapter specs. Audit: `PHASE5_AUDIT.md`.
+- **Fase 2 — DONE / PASS:** 60/60 covered; 709 unità semantiche; primary-home/dependency/provenance/cases completati.
+- **Fase 3 — DONE / PASS:** curriculum 8 parti / 39 capitoli; D-01…D-35 verificati.
+- **Fase 4 — DONE / PASS:** VoC, glossary, synthetic cases; G-001…G-008 risolti editorialmente.
+- **Fase 5 — DONE / PASS:** 39/39 chapter specs.
 
 ## Fase attiva — Fase 6 / Drafting
 
-Ordine:
+### Parte I — Capp. 1–4
 
-1. Parte I — Capp. 1–4 — **NEXT**;
-2. Parte II — Capp. 5–8;
-3. Parte III — Capp. 9–13;
-4. Parte IV — Capp. 14–19;
-5. Parte V — Capp. 20–24;
-6. Parte VI — Capp. 25–29;
-7. Parte VII — Capp. 30–35;
-8. Parte VIII — Capp. 36–39.
+**Stato: READY / MINI-AUDIT PASS**
+
+Output: `manual/draft/part-01-fondamenti.md`.
+
+Copre:
+
+- marketing come sistema di valore;
+- economic literacy minima;
+- diagnosi causa/sintomo/bottleneck;
+- metodo di test e gate di scala.
+
+Il pass beginner-first ha rimosso anticipazioni di gergo non necessario.
+
+### Parte II — Capp. 5–8
+
+**Stato: READY / MINI-AUDIT PASS CON P2 LESSICALI NON BLOCCANTI**
+
+Output: `manual/draft/part-02-mercato.md`.
+
+Copre:
+
+- market gate: domanda, raggiungibilità, capacità di acquisto, direzione e bacino;
+- cliente desiderabile: appropriatezza, economics, RFM, cost-to-serve e criteri di rifiuto;
+- Voice of Customer decision-first, complaint mining, interviste event-based, triangolazione e Market Evidence Map;
+- problema/desiderio, alternative, status quo, trigger, ruoli decisionali e durata naturale della relazione.
+
+Mini-audit:
+
+- coverage: PASS;
+- doctrine fidelity: PASS;
+- causal clarity: PASS;
+- operational usability: PASS;
+- economic grounding: PASS;
+- reader-facing agnosticism: PASS;
+- beginner clarity: PASS con piccoli inglesismi/etichette da uniformare nel copy-edit globale; nessun P0/P1.
+
+## Ordine rimanente
+
+1. Parte III — Capp. 9–13 — **NEXT**;
+2. Parte IV — Capp. 14–19;
+3. Parte V — Capp. 20–24;
+4. Parte VI — Capp. 25–29;
+5. Parte VII — Capp. 30–35;
+6. Parte VIII — Capp. 36–39.
 
 ## Next Action
 
-Creare `manual/draft/part-01-fondamenti.md` seguendo `chapter-specs/part-01-fondamenti.md`, poi eseguire mini-audit locale.
+Draftare `manual/draft/part-03-posizionamento-offerta.md` da `chapter-specs/part-03-posizionamento-offerta.md` dopo freshness read dei nodi live di positioning e offer.
 
-Vincoli:
+Vincoli principali:
 
-- first-use definitions;
-- economics solo al livello del Cap. 2;
-- niente anticipazioni profonde di mercato/positioning/offerta;
-- esempi non trattati come benchmark;
-- nessuna esposizione backend.
+- differenza reale prima del claim;
+- focus/categoria prima delle estensioni;
+- offerta distinta dal prodotto;
+- front-end definito dalla barriera, non dal prezzo;
+- pricing trattato come sistema conversione × margine × target × capacity, non come ideologia premium;
+- nessuna anticipazione profonda di authority/acquisition/copy.
 
 ## Gap aperti
 
-**Nessun gap P0/P1/P2 corrente.**
+**Nessun gap P0/P1.**
+
+P2 editoriali correnti: uniformare nel copy-edit globale alcuni inglesismi reader-facing non indispensabili nelle Parti I–II.
 
 ## Blocchi
 
