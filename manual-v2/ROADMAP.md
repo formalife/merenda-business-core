@@ -21,10 +21,7 @@ V1 remains frozen as backend coverage baseline.
 
 **Status: DONE — PASS 2026-09-20**
 
-Outputs:
-
-- `README.md`
-- `V2_POSTMORTEM.md`
+Outputs: `README.md`, `V2_POSTMORTEM.md`.
 
 Gate satisfied: V1 failure explained causally, assets separated from structures to rebuild, no rewrite started.
 
@@ -34,13 +31,9 @@ Gate satisfied: V1 failure explained causally, assets separated from structures 
 
 **Status: DONE — PASS 2026-09-20**
 
-Outputs:
+Outputs: `V2_RESEARCH_BASE.md`, `BOOK_CONTRACT_V2.md`, `EDITORIAL_BENCHMARK.md`.
 
-- `V2_RESEARCH_BASE.md`
-- `BOOK_CONTRACT_V2.md`
-- `EDITORIAL_BENCHMARK.md`
-
-Gate satisfied: target reader, transformation, learning outcomes, reading modes, voice, examples, visuals, quantitative and instructional contracts explicit.
+Gate satisfied: target reader, transformation, learning outcomes, reading modes, voice, example, visual, quantitative and instructional contracts explicit.
 
 ---
 
@@ -48,11 +41,7 @@ Gate satisfied: target reader, transformation, learning outcomes, reading modes,
 
 **Status: DONE — PASS 2026-09-20**
 
-Outputs:
-
-- `TOC_V2.md`
-- `LEARNING_OUTCOME_MAP.md`
-- `CHAPTER_ARCHITECTURE_AUDIT.md`
+Outputs: `TOC_V2.md`, `LEARNING_OUTCOME_MAP.md`, `CHAPTER_ARCHITECTURE_AUDIT.md`.
 
 Result:
 
@@ -71,11 +60,7 @@ Gate: **SATISFIED FOR PROTOTYPING.**
 
 **Status: DONE — PASS 2026-09-20**
 
-Outputs:
-
-- `AI_SMELL_CATALOG.md`
-- `AUTHORIAL_STYLE_BIBLE.md`
-- `PHASE3_AUDIT.md`
+Outputs: `AI_SMELL_CATALOG.md`, `AUTHORIAL_STYLE_BIBLE.md`, `PHASE3_AUDIT.md`.
 
 Result:
 
@@ -83,10 +68,8 @@ Result:
 - positive authorial voice defined;
 - prose/list/heading/paragraph/transition rules explicit;
 - 10 V1→V2 transformation examples created;
-- pseudocommand checks defined (`AI-SMELL`, `AUTHOR-MIND`, `HUMAN-RHYTHM`, `LIST-CHALLENGE`, etc.);
-- style system changes rhetoric, not doctrine.
-
-Gate: **SATISFIED FOR CHAPTER DESIGN.**
+- style pseudocommands defined;
+- rhetorical form changed without doctrine drift.
 
 ---
 
@@ -94,59 +77,23 @@ Gate: **SATISFIED FOR CHAPTER DESIGN.**
 
 **Status: DONE — PASS 2026-09-20**
 
-Outputs:
-
-- `CHAPTER_GRAMMAR_V2.md`
-- `PEDAGOGICAL_FEATURES.md`
-- `PHASE4_AUDIT.md`
+Outputs: `CHAPTER_GRAMMAR_V2.md`, `PEDAGOGICAL_FEATURES.md`, `PHASE4_AUDIT.md`.
 
 Result:
 
-- chapter grammar defined through five functions: orient → model → demonstrate → apply → integrate;
+- chapter grammar = orient → model → demonstrate → apply → integrate;
 - no fixed visible template required;
-- conceptual, quantitative and procedural chapter modes defined;
-- worked-example → partially-worked → transfer progression available;
+- conceptual, quantitative and procedural modes defined;
+- worked example → partially worked → transfer progression available;
 - retrieval, transfer and Part-level capstones distinguished;
-- controlled pedagogical feature taxonomy defined;
+- pedagogical feature taxonomy controlled;
 - core narrative remains primary.
-
-Gate: **SATISFIED FOR SYSTEM DESIGN.**
 
 ---
 
 # Phase 5 — Visual, case and quantitative systems
 
-**Status: IN PROGRESS**
-
-Tasks:
-
-## Visual system
-
-- causal diagrams;
-- state maps;
-- matrices;
-- process maps;
-- charts/timelines;
-- figure numbering/captions/reference rules;
-- decide explanatory medium for major concept families.
-
-## Case system
-
-- micro-examples;
-- worked examples;
-- recurring fictional cases;
-- documented real cases;
-- capstone cases;
-- provenance/evidence rules for real cases.
-
-## Formula system
-
-- formula catalog;
-- variable definitions;
-- linked example dataset;
-- sensitivity/scenario patterns;
-- misuse/limit sections;
-- distinguish accounting identities, operating metrics, estimates and assumptions.
+**Status: DONE — PASS 2026-09-20**
 
 Outputs:
 
@@ -155,43 +102,58 @@ Outputs:
 - `FORMULA_CATALOG.md`
 - `PHASE5_AUDIT.md`
 
-Gate:
+Result:
 
-Every major concept family has a chosen explanatory medium; recurring cases and quantitative examples are coherent enough to support golden chapters; no visual/case/formula is ornamental.
+- visual grammar tied to explanatory jobs, not decoration;
+- major concept families mapped to likely visual forms;
+- four recurring fictional cases established (`LineaCasa`, `Officina Dati`, `Dispensa Nord`, `TurnoChiaro`);
+- real-case evidence/provenance protocol defined;
+- quantitative formulas classified as identities, metrics, estimates/models or decision rules;
+- canonical synthetic teaching datasets created for recurring cases;
+- sensitivity, denominator, cohort, cash-timing and capacity checks defined.
+
+Gate: **SATISFIED FOR GOLDEN CHAPTERS.**
 
 ---
 
 # Phase 6 — Golden chapters
 
-**Status: NOT STARTED**
+**Status: IN PROGRESS**
 
-Select three stress-test chapters:
+Plan: `GOLDEN_CHAPTER_PLAN.md`.
 
-1. conceptual/foundational;
-2. quantitative/economics;
-3. procedural/commercial.
+Selected stress tests:
 
-Each golden chapter must be produced nearly at final quality, including relevant:
+1. **Golden A — Chapter 1: The business is a system, not a collection of tactics**
+   - conceptual/foundational;
+   - tests authorial voice, causal prose and system visuals.
+2. **Golden B — Chapter 23: Unit economics, cohorts and growth levers**
+   - quantitative/economics;
+   - tests formulas, datasets, charts, sensitivity and interpretation.
+3. **Golden C — Chapter 18: Consultative selling — diagnosis before prescription**
+   - procedural/commercial;
+   - tests scene, process map, diagnostic reasoning, dialogue/artifact and transfer.
 
-- authorial prose;
-- cases/examples;
-- visuals;
-- formulas;
-- boxes;
-- exercises/application;
-- final-style layout.
+Workflow per golden chapter:
 
-Audits:
-
-- doctrine;
-- novice learning;
-- editorial quality;
-- visual quality;
-- founder read test.
+1. freshness read of live doctrine;
+2. lock case facts/numbers;
+3. visual brief;
+4. narrative architecture;
+5. near-final draft;
+6. actual visual prototypes;
+7. pedagogy pass;
+8. AI-smell/style pass;
+9. doctrine diff;
+10. layout prototype;
+11. doctrine/instructional/editorial/visual audits;
+12. founder read.
 
 Gate:
 
 **No production scaling until all three golden chapters are explicitly approved.**
+
+The remaining 28 chapters stay unproduced until the gate passes.
 
 ---
 
@@ -199,26 +161,11 @@ Gate:
 
 **Status: NOT STARTED**
 
-Build automated warning metrics for:
+Build automated warning metrics for list density, short-paragraph density, heading density, repeated rhetorical templates, repeated openings, example scarcity, visual/formula reference gaps, excessive emphasis and cross-reference errors.
 
-- list density;
-- one-sentence paragraph density;
-- heading density;
-- repeated rhetorical formulas;
-- repeated openings;
-- example scarcity;
-- figure/formula reference gaps;
-- excessive bold;
-- cross-reference errors.
+Outputs: `EDITORIAL_QA.md` + lint tooling/scripts.
 
-Outputs:
-
-- `EDITORIAL_QA.md`
-- lint tooling/scripts.
-
-Gate:
-
-Warnings support human review and do not become blind numerical optimization targets.
+Gate: warnings support human review and do not become blind numerical optimization targets.
 
 ---
 
@@ -239,11 +186,7 @@ For each logical book wave:
 9. red-team;
 10. copyedit.
 
-Gate per wave:
-
-- no semantic P0/P1;
-- chapter quality consistent with golden prototype;
-- no unresolved instructional/editorial P0/P1.
+Gate per wave: no semantic P0/P1; quality consistent with golden prototypes; no unresolved instructional/editorial P0/P1.
 
 ---
 
@@ -251,7 +194,7 @@ Gate per wave:
 
 **Status: NOT STARTED**
 
-Run separate audits:
+Audits:
 
 1. Doctrine Audit;
 2. Instructional Audit;
@@ -266,16 +209,11 @@ Gate: no audit may compensate for failure in another.
 
 **Status: NOT STARTED**
 
-Reader groups:
-
-- intelligent beginners;
-- experienced entrepreneurs/operators.
+Reader groups: intelligent beginners + experienced entrepreneurs/operators.
 
 Observe comprehension, recall, transfer, reading friction, perceived artificiality, figure usefulness, skipped/overused features and recurring misunderstandings.
 
-Output:
-
-- `BETA_READER_REPORT.md`
+Output: `BETA_READER_REPORT.md`.
 
 Gate: no recurring high-severity comprehension, transfer or voice problem remains unresolved.
 
