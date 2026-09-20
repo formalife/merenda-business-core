@@ -14,6 +14,10 @@ Baseline dottrinale iniziale del progetto manuale:
 
 Data baseline iniziale: 2026-09-20.
 
+Checkpoint validato Fasi 0–5:
+
+`7e37ab094f9ab271202847538920b54d146c954d`
+
 Il baseline serve per auditabilità, non congela il manuale a una versione vecchia. Prima di ogni blocco sostanziale di drafting va verificato il `main` live e vanno riletti i nodi canonici pertinenti.
 
 ## Decisioni correnti
