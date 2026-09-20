@@ -2,9 +2,9 @@
 
 ## Overall state
 
-**ACTIVE — PHASE 5 / VISUAL, CASE AND QUANTITATIVE SYSTEMS**
+**ACTIVE — PHASE 6 / GOLDEN CHAPTER PROTOTYPES**
 
-V1 is frozen as coverage baseline. V2 has completed the postmortem, research/book contract, zero-based architecture review, authorial style system and chapter-learning grammar.
+V1 is frozen as coverage baseline. V2 has completed postmortem, research/book contract, zero-based architecture, authorial style system, chapter-learning grammar, and visual/case/quantitative systems.
 
 ## V1 baseline
 
@@ -46,16 +46,21 @@ These metrics are diagnostic signals, not blind V2 targets.
 - **V2-D015 CURRENT:** chapter grammar is functional — orient/model/demonstrate/apply/integrate — not a visible repeated template.
 - **V2-D016 CURRENT:** novice guidance should fade from worked examples toward independent transfer as competence grows.
 - **V2-D017 CURRENT:** pedagogical features must state a learning job; no decorative box/figure quota.
+- **V2-D018 CURRENT:** visuals use the simplest representation that exposes the relationship; text and visual divide explanatory work.
+- **V2-D019 CURRENT:** recurring cases must preserve stable facts/numbers and consequences across chapters.
+- **V2-D020 CURRENT:** quantitative content distinguishes identities, operational metrics, estimates/models and decision rules.
+- **V2-D021 CURRENT:** real cases must separate fact, company claim, third-party analysis, synthesis and unknowns.
+- **V2-D022 CURRENT:** golden stress tests are Chapters 1, 23 and 18 in that order of system coverage, not necessarily drafting order.
 
 ## Phases
 
 - Phase 0 — DONE / PASS — postmortem and V1 freeze
 - Phase 1 — DONE / PASS — research base, book contract, preliminary benchmark
 - Phase 2 — DONE / PASS — zero-based architecture, 31-chapter provisional TOC
-- Phase 3 — DONE / PASS — `AI_SMELL_CATALOG.md`, `AUTHORIAL_STYLE_BIBLE.md`, `PHASE3_AUDIT.md`
-- Phase 4 — DONE / PASS — `CHAPTER_GRAMMAR_V2.md`, `PEDAGOGICAL_FEATURES.md`, `PHASE4_AUDIT.md`
-- **Phase 5 — ACTIVE — visual/case/formula systems**
-- Phase 6 — NOT STARTED — golden chapters
+- Phase 3 — DONE / PASS — authorial style system
+- Phase 4 — DONE / PASS — chapter grammar and pedagogical features
+- Phase 5 — DONE / PASS — visual/case/formula systems
+- **Phase 6 — ACTIVE — golden chapters**
 - Phase 7 — NOT STARTED — editorial QA/lint
 - Phase 8 — NOT STARTED — production waves
 - Phase 9 — NOT STARTED — independent audits
@@ -92,26 +97,79 @@ Learning design:
 - `PEDAGOGICAL_FEATURES.md`
 - `PHASE4_AUDIT.md`
 
-## Phase 3/4 gate summary
+Visual/case/quantitative:
 
-**PASS.**
+- `VISUAL_SYSTEM.md`
+- `CASE_SYSTEM_V2.md`
+- `FORMULA_CATALOG.md`
+- `PHASE5_AUDIT.md`
 
-V2 now has both:
+Golden prototype control:
 
-1. a positive authorial writing model that directly addresses V1 AI-smell patterns;
-2. an instructional chapter system that uses worked examples, transfer, retrieval and controlled pedagogical features without forcing identical chapter templates.
+- `GOLDEN_CHAPTER_PLAN.md`
 
-No V2 chapter has been drafted yet.
+## Golden chapter selection
+
+### Golden A — Chapter 1
+
+`The business is a system, not a collection of tactics`
+
+Tests:
+
+- authorial voice;
+- causal prose;
+- system visualization;
+- case opener;
+- counterexample;
+- beginner clarity.
+
+### Golden B — Chapter 23
+
+`Unit economics, cohorts and growth levers`
+
+Tests:
+
+- formulas;
+- coherent recurring-case dataset;
+- tables/charts;
+- sensitivity;
+- observed vs modeled distinction;
+- transfer.
+
+### Golden C — Chapter 18
+
+`Consultative selling: diagnosis before prescription`
+
+Tests:
+
+- narrative sales scene;
+- process map;
+- branching diagnostic reasoning;
+- annotated artifact/dialogue;
+- counterexample;
+- transfer case.
+
+## Phase 6 gate
+
+The remaining 28 chapters are blocked from production until all three golden chapters pass:
+
+- doctrine P0/P1 = 0;
+- instructional P0/P1 = 0;
+- editorial P0/P1 = 0;
+- visual P0/P1 = 0;
+- no systematic V1 AI-smell;
+- coherent case/formula continuity;
+- explicit founder approval of the reading experience.
 
 ## Next action
 
-Build Phase 5 as three linked systems:
+Begin Golden A:
 
-1. `VISUAL_SYSTEM.md` — choose figure/media types by explanatory job;
-2. `CASE_SYSTEM_V2.md` — define recurring cases, worked examples, documented real-case rules and capstone use;
-3. `FORMULA_CATALOG.md` — define formulas/metrics, worked calculation datasets, sensitivity and misuse rules.
-
-Then run `PHASE5_AUDIT.md` and select the three golden chapters.
+1. reread live canonical foundations/decision router;
+2. lock the opening `LineaCasa` case facts used in Chapter 1;
+3. write visual briefs for Commercial System Map and cause/amplifier/symptom diagram;
+4. build the chapter-specific spec;
+5. draft near-final prose only after those inputs are locked.
 
 ## Blockers
 
