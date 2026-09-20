@@ -5,8 +5,12 @@
       {
         "id": "PARTNERSHIP.STRUCTURAL_VS_TRANSACTIONAL",
         "when": "la proposta è formulata come accesso all'audience o revenue share e non è ancora stato chiarito se l'accordo è solo transazionale oppure integra asset complementari in modo strutturale"
+      },
+      {
+        "id": "PARTNERSHIP.HOST_TRUST",
+        "when": "il partner presta audience, endorsement, reputazione o fiducia e il rischio reputazionale dell'host può cambiare la desiderabilità dell'accordo"
       }
     ],
-    "rationale": "Prototype A smoke ha mostrato che la valutazione economica del revenue share può essere corretta pur saltando la classificazione del tipo di partnership. La relazione è generalizzata e dottrinalmente supportata; non contiene riferimenti a case ID o gold."
+    "rationale": "Prototype A/A2 mostrano che la valutazione economica del revenue share può essere corretta pur saltando la classificazione del tipo di partnership o la verifica canonica della fiducia prestata dall'host. Le relazioni sono generalizzate e dottrinalmente supportate; non contengono riferimenti a case ID o gold."
   }
 ]
