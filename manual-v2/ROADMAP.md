@@ -26,11 +26,7 @@ Outputs:
 - `README.md`
 - `V2_POSTMORTEM.md`
 
-Gate:
-
-- V1 failure explained causally, not cosmetically;
-- assets to preserve separated from structures to rebuild;
-- no chapter rewrite started.
+Gate satisfied: V1 failure explained causally, assets separated from structures to rebuild, no rewrite started.
 
 ---
 
@@ -44,14 +40,7 @@ Outputs:
 - `BOOK_CONTRACT_V2.md`
 - `EDITORIAL_BENCHMARK.md`
 
-Gate:
-
-- target reader explicit;
-- transformation explicit;
-- book-level learning outcomes explicit;
-- reading modes explicit;
-- voice, example, visual, quantitative and instructional contracts explicit;
-- benchmark functions identified without copying a single reference model.
+Gate satisfied: target reader, transformation, learning outcomes, reading modes, voice, examples, visuals, quantitative and instructional contracts explicit.
 
 ---
 
@@ -72,7 +61,7 @@ Result:
 - 18/18 book-level learning outcomes assigned;
 - no known semantic cluster orphaned;
 - prerequisite chain preserved;
-- remaining architecture uncertainty explicitly deferred to chapter-grammar/golden-chapter evidence.
+- remaining architecture uncertainty explicitly deferred to prototype evidence.
 
 Gate: **SATISFIED FOR PROTOTYPING.**
 
@@ -80,55 +69,54 @@ Gate: **SATISFIED FOR PROTOTYPING.**
 
 # Phase 3 — Authorial Style Bible
 
-**Status: IN PROGRESS**
-
-Tasks:
-
-- define positive voice characteristics;
-- identify V1 AI-like patterns;
-- define prose/list/heading usage rules;
-- build V1→V2 transformation examples;
-- define rhetorical variation rules;
-- define rules for analogies, examples, counterexamples and qualifications.
+**Status: DONE — PASS 2026-09-20**
 
 Outputs:
 
-- `AUTHORIAL_STYLE_BIBLE.md`
 - `AI_SMELL_CATALOG.md`
+- `AUTHORIAL_STYLE_BIBLE.md`
+- `PHASE3_AUDIT.md`
 
-Gate:
+Result:
 
-Anonymous V2 prose samples no longer read like chat output or KB prose.
+- V1 AI-like patterns tied to direct manuscript evidence;
+- positive authorial voice defined;
+- prose/list/heading/paragraph/transition rules explicit;
+- 10 V1→V2 transformation examples created;
+- pseudocommand checks defined (`AI-SMELL`, `AUTHOR-MIND`, `HUMAN-RHYTHM`, `LIST-CHALLENGE`, etc.);
+- style system changes rhetoric, not doctrine.
+
+Gate: **SATISFIED FOR CHAPTER DESIGN.**
 
 ---
 
 # Phase 4 — Chapter grammar and learning design
 
-**Status: NOT STARTED**
-
-Tasks:
-
-- define opener functions;
-- define narrative/model/example/application functions;
-- define closer functions;
-- define retrieval/transfer practice;
-- define guidance fading from worked example to application;
-- define cross-reference rules.
+**Status: DONE — PASS 2026-09-20**
 
 Outputs:
 
 - `CHAPTER_GRAMMAR_V2.md`
 - `PEDAGOGICAL_FEATURES.md`
+- `PHASE4_AUDIT.md`
 
-Gate:
+Result:
 
-Instructional functions are explicit but do not force identical rhetorical templates.
+- chapter grammar defined through five functions: orient → model → demonstrate → apply → integrate;
+- no fixed visible template required;
+- conceptual, quantitative and procedural chapter modes defined;
+- worked-example → partially-worked → transfer progression available;
+- retrieval, transfer and Part-level capstones distinguished;
+- controlled pedagogical feature taxonomy defined;
+- core narrative remains primary.
+
+Gate: **SATISFIED FOR SYSTEM DESIGN.**
 
 ---
 
 # Phase 5 — Visual, case and quantitative systems
 
-**Status: NOT STARTED**
+**Status: IN PROGRESS**
 
 Tasks:
 
@@ -139,7 +127,8 @@ Tasks:
 - matrices;
 - process maps;
 - charts/timelines;
-- figure numbering/captions/reference rules.
+- figure numbering/captions/reference rules;
+- decide explanatory medium for major concept families.
 
 ## Case system
 
@@ -147,7 +136,8 @@ Tasks:
 - worked examples;
 - recurring fictional cases;
 - documented real cases;
-- capstone cases.
+- capstone cases;
+- provenance/evidence rules for real cases.
 
 ## Formula system
 
@@ -155,17 +145,19 @@ Tasks:
 - variable definitions;
 - linked example dataset;
 - sensitivity/scenario patterns;
-- misuse/limit sections.
+- misuse/limit sections;
+- distinguish accounting identities, operating metrics, estimates and assumptions.
 
 Outputs:
 
 - `VISUAL_SYSTEM.md`
 - `CASE_SYSTEM_V2.md`
 - `FORMULA_CATALOG.md`
+- `PHASE5_AUDIT.md`
 
 Gate:
 
-Every major concept has a chosen explanatory medium; no visuals/cases/formulas are ornamental.
+Every major concept family has a chosen explanatory medium; recurring cases and quantitative examples are coherent enough to support golden chapters; no visual/case/formula is ornamental.
 
 ---
 
@@ -266,9 +258,7 @@ Run separate audits:
 3. Editorial Audit;
 4. Visual/Production Audit.
 
-Gate:
-
-No audit may compensate for failure in another.
+Gate: no audit may compensate for failure in another.
 
 ---
 
@@ -281,24 +271,13 @@ Reader groups:
 - intelligent beginners;
 - experienced entrepreneurs/operators.
 
-Observe:
-
-- comprehension;
-- recall;
-- transfer;
-- reading friction;
-- perceived artificiality;
-- figure usefulness;
-- skipped/overused features;
-- recurring misunderstandings.
+Observe comprehension, recall, transfer, reading friction, perceived artificiality, figure usefulness, skipped/overused features and recurring misunderstandings.
 
 Output:
 
 - `BETA_READER_REPORT.md`
 
-Gate:
-
-No recurring high-severity comprehension, transfer or voice problem remains unresolved.
+Gate: no recurring high-severity comprehension, transfer or voice problem remains unresolved.
 
 ---
 
@@ -320,9 +299,7 @@ Tasks:
 - print preflight;
 - final visual QA.
 
-Gate:
-
-Definitive release passes P0/P1/P2 with no systematic AI smell and no unresolved learning-design defects.
+Gate: definitive release passes P0/P1/P2 with no systematic AI smell and no unresolved learning-design defects.
 
 ---
 
