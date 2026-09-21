@@ -1,172 +1,104 @@
-# Capitolo 1 — La macchina che stai cercando di aggiustare
+# Capitolo 1 — Il sistema di marketing
 
-Quando LineaCasa decise di aumentare l’investimento pubblicitario, i primi numeri sembravano darle ragione.
+Il marketing viene spesso incontrato troppo tardi nella vita di un'impresa. Il prodotto esiste già, il prezzo è stato deciso, il tipo di cliente da cercare è dato per scontato e il modo di vendere si è formato negli anni attraverso abitudini, persone e compromessi. Solo a quel punto si apre il capitolo “marketing” e ci si domanda come ottenere più visibilità, più contatti o più vendite.
 
-Le richieste qualificate passarono da cinquanta a ottanta in un mese. I contratti firmati salirono da dieci a dodici. Il fatturato dei nuovi lavori passò da 180.000 a 216.000 euro. Guardando soltanto il cruscotto commerciale, la conclusione sembrava quasi obbligata: la campagna funzionava e, finalmente, il problema della crescita stava cedendo.
+Questa impostazione è comprensibile, ma restringe il problema. La promozione, la pubblicità, i contenuti, il sito, le email e gli altri mezzi con cui un'impresa si fa conoscere sono soltanto una parte del marketing. Prima di decidere come portare una proposta davanti al mercato bisogna stabilire quale mercato servire, quali clienti vale la pena acquisire, quale problema risolvere, perché l'impresa dovrebbe essere preferita, che cosa offrire, a quali condizioni, con quale processo di vendita e con quale esperienza reale dopo l'acquisto.
 
-Nel giro di poche settimane, però, cominciarono a comparire segnali che quel cruscotto non mostrava.
+Nel linguaggio di questo manuale il marketing comprende quindi l'insieme delle decisioni con cui un'impresa sceglie il valore che vuole creare, lo rende riconoscibile, lo porta davanti ai clienti giusti, lo vende e verifica che l'economia dell'intero sistema sia sostenibile. Questa definizione è volutamente più ampia della comunicazione. Se un prodotto è indistinguibile dalle alternative, se il cliente scelto è poco profittevole, se il prezzo non sostiene il servizio o se l'erogazione smentisce la promessa, il problema riguarda anche il marketing perché riguarda il modo in cui l'impresa si presenta e compete sul mercato.
 
-Il tempo necessario per inviare un preventivo, che normalmente era di circa tre giorni dopo il sopralluogo, si avvicinò a una settimana. Le persone più esperte iniziarono a passare più tempo tra visite, preventivi e telefonate e meno tempo a controllare i cantieri. Il responsabile della supervisione, che aveva una capacità pratica di circa 160 ore al mese, arrivò a doverne assorbire quasi 185. Alcuni dei lavori nuovi richiedevano più personalizzazioni del solito; due clienti avevano aspettative poco compatibili con il modo in cui l’azienda lavorava; le ore dedicate a correzioni, coordinamento e recupero degli imprevisti cominciarono a salire.
+È per questa ragione che il manuale comincia dal sistema nel suo complesso. Nei capitoli successivi entreremo nel merito di mercato, cliente, posizionamento, offerta, prezzo, acquisizione, vendita, esperienza, retention, cassa e capacità. Prima, però, serve una mappa generale. Senza quella mappa è facile ottimizzare un singolo punto — una campagna, un tasso di conversione, un prezzo, un processo — e accorgersi soltanto dopo che il miglioramento locale ha creato un problema altrove.
 
-A quel punto il dato che all’inizio aveva fatto festeggiare — più clienti — cambiò significato.
+Il capitolo sviluppa cinque idee fondamentali. La prima distingue marketing e promozione. La seconda mostra l'impresa come un sistema commerciale fatto di parti interdipendenti. La terza chiarisce perché una metrica locale non basta a giudicare il risultato complessivo. La quarta introduce la distinzione tra causa, amplificatore e sintomo. L'ultima riguarda il rapporto tra strategia e strumenti: software, canali, automazioni e intelligenza artificiale possono migliorare molto l'esecuzione, ma lavorano sempre dentro decisioni che qualcuno deve aver già compreso e governato.
 
-Prima della campagna, da un progetto medio da 18.000 euro restavano circa 7.000 euro dopo aver pagato i costi che crescevano direttamente con l’erogazione del lavoro. Non era ancora utile netto: da quella somma dovevano ancora essere pagati l’acquisizione del cliente e i costi generali dell’azienda. Per ottenere dieci nuovi clienti LineaCasa aveva sostenuto circa 13.000 euro fra marketing e lavoro commerciale, quindi circa 1.300 euro per cliente acquisito.
+## 1.1 Marketing e promozione
 
-Dopo l’aumento della campagna, quei costi salirono a circa 19.000 euro e vennero distribuiti su dodici nuovi clienti: poco meno di 1.600 euro per cliente. Ma il cambiamento più importante era altrove. Per effetto del diverso mix di lavori, degli straordinari e delle inefficienze generate dal sovraccarico, ciò che restava mediamente da un progetto prima dei costi di acquisizione e della struttura scese da circa 7.000 a 5.800 euro.
+Promuovere significa rendere più visibile una proposta e favorire un'azione da parte del mercato. Una campagna pubblicitaria, una lettera, un contenuto, un video, un evento o una telefonata commerciale possono svolgere questa funzione in modi diversi. Sono attività importanti perché un'impresa che nessuno conosce, o che non riesce a raggiungere persone interessate, non vende abbastanza neppure quando il prodotto è valido.
 
-LineaCasa vendeva di più e fatturava di più. Eppure il contributo economico complessivo prodotto dai nuovi lavori, una volta considerato anche il costo necessario per conquistarli, era sceso da circa 57.000 a poco più di 50.000 euro. Nel frattempo l’organizzazione stava iniziando a pagare il prezzo del sovraccarico.
+Il marketing ha però un campo più ampio. Comincia prima della promozione, perché deve decidere che cosa vale la pena portare sul mercato e a chi. Un'impresa può scoprire che il segmento scelto è troppo piccolo, che i clienti più facili da raggiungere hanno poca capacità di spesa, che il prodotto richiede troppe personalizzazioni oppure che la maggior parte del margine viene assorbita dall'assistenza. In casi simili la risposta non consiste necessariamente nel comunicare meglio ciò che già esiste. Può essere necessario modificare il target, semplificare l'offerta, cambiare prezzo, ridisegnare il processo di vendita o intervenire sul servizio.
 
-|  | Prima | Dopo la campagna |
-|---|---:|---:|
-| Richieste qualificate | 50 | 80 |
-| Progetti acquisiti | 10 | 12 |
-| Fatturato nuovi progetti | €180.000 | €216.000 |
-| Costo completo di acquisizione per cliente | €1.300 | €1.583 |
-| Valore medio rimasto prima di acquisizione e struttura | €7.000 | €5.800 |
-| Contributo totale dopo i costi di acquisizione | ~€57.000 | ~€50.600 |
-| Tempo medio di preventivazione | 3 giorni | 7 giorni |
-| Carico mensile di supervisione | entro 160 h | ~185 h |
+Questa possibilità è particolarmente importante nelle piccole e medie imprese, dove prodotto, marketing, vendita e operatività sono spesso molto più vicini tra loro di quanto appaia in un organigramma. Una decisione presa in un reparto cambia il lavoro degli altri. Un nuovo segmento può richiedere un processo di vendita diverso. Un prezzo più basso può aumentare la conversione ma attirare clienti meno adatti o ridurre le risorse disponibili per l'erogazione. Una promessa molto aggressiva può aumentare le richieste e, nello stesso tempo, creare aspettative che il servizio non riesce a mantenere.
 
-La pubblicità aveva generato più domanda: su questo non c’era molto da discutere. La questione era diversa. Aveva migliorato l’azienda?
+La promozione entra quindi in un sistema che possiede già qualità e difetti. Quando quel sistema è solido, aumentare la distribuzione di una proposta può rendere più visibile un vantaggio reale. Quando è fragile, l'aumento di volume rende più visibili anche le fragilità. La pubblicità può portare più persone davanti a un'offerta poco differenziata, una buona campagna può riempire un processo commerciale lento e un aumento delle vendite può sovraccaricare una capacità produttiva già vicina al limite.
 
-Per rispondere bisogna cambiare l’unità di osservazione. Se guardiamo soltanto il punto in cui abbiamo agito — la campagna — vediamo una vittoria. Se seguiamo ciò che quella vittoria provoca nelle fasi successive, il giudizio diventa meno comodo e molto più utile.
+Questo non significa attribuire sempre i problemi a ciò che viene prima della promozione. Una campagna può essere progettata male, un modulo può smettere di funzionare, il targeting può essere errato e una pagina può perdere una domanda che il resto dell'impresa saprebbe servire perfettamente. La distinzione utile è un'altra: prima di aumentare o sostituire una tattica conviene capire quale parte del sistema dovrebbe migliorare grazie a quella tattica e quali condizioni devono già essere presenti perché il miglioramento possa produrre un risultato economico utile.
 
-## Il problema delle vittorie locali
+## 1.2 L'impresa come sistema commerciale
 
-In azienda quasi ogni funzione possiede un proprio vocabolario e, con quel vocabolario, un proprio modo di riconoscere un successo. Chi compra pubblicità guarda costo per contatto, richieste e traffico. Chi vende osserva appuntamenti, preventivi e contratti. Chi eroga si concentra su tempi, qualità, reclami e carico operativo. L’amministrazione vede incassi, scadenze e crediti. Il titolare tende a guardare fatturato e cassa.
+Per leggere il marketing in questo modo conviene rappresentare l'impresa come un insieme di passaggi collegati. La forma esatta cambia da settore a settore, ma le dipendenze fondamentali sono ricorrenti.
 
-Sono prospettive legittime. Diventano pericolose quando una di esse viene usata come se descrivesse l’intera impresa.
+Un mercato contiene persone o organizzazioni con problemi, desideri, alternative e capacità di spesa differenti. L'impresa sceglie quali clienti vuole servire e costruisce una ragione per essere preferita. Da quella scelta derivano il posizionamento, l'offerta e il prezzo. Domanda e canali determinano come la proposta raggiunge il mercato. Acquisizione e vendita trasformano attenzione e interesse in relazioni commerciali. L'esperienza successiva deve mantenere la promessa, perché da essa dipendono retention, acquisti successivi, referral e reputazione. Alla fine margine, cassa e capacità dicono se l'intero meccanismo può continuare a funzionare e crescere.
 
-Ottanta richieste, prese da sole, non sono né buone né cattive. Sono materia prima. Diventano preziose se il sistema riesce a trasformarle in clienti appropriati, vendite sensate, consegne sostenibili, margini sufficienti e denaro che rientra nei tempi necessari. Possono invece creare distruzione di valore quando obbligano l’azienda a servire persone poco adatte, saturano una capacità scarsa, aumentano errori o richiedono più capitale di quanto il business possa sostenere.
+![Figura 1.1 — Le principali componenti del sistema commerciale e i loro collegamenti](figures/figure-1-1-commercial-system-map.svg)
 
-Il fenomeno funziona anche al contrario. Un reparto può peggiorare il proprio indicatore locale e migliorare il risultato complessivo. Un team commerciale potrebbe rifiutare più richieste e firmare meno contratti, ma liberare tempo per i clienti più profittevoli e ridurre gli errori di erogazione. Un’azienda potrebbe aumentare il prezzo, accettare un tasso di conversione più basso e ottenere comunque più valore economico da ogni ora di capacità disponibile. Un servizio clienti potrebbe dedicare più tempo a un problema ricorrente e sembrare temporaneamente meno efficiente, ma impedire che lo stesso difetto continui a produrre rimborsi, recensioni negative e abbandoni.
+La figura non descrive un percorso rigido che ogni cliente deve seguire nello stesso ordine. Serve soprattutto a rendere visibili le dipendenze. Un'offerta ha senso soltanto rispetto a un cliente e a un problema. Un canale di acquisizione ha valore soltanto se porta persone che possono essere convertite in clienti adatti. Una vendita è utile soltanto se il servizio può essere erogato con qualità e con un'economia sufficiente. Una retention elevata è positiva quando deriva da valore reale e da una relazione economicamente sana, non quando il cliente rimane per inerzia o perché uscire è difficile.
 
-Per questo un miglioramento locale non basta a dimostrare un miglioramento aziendale. Bisogna seguire le conseguenze abbastanza a lungo da vedere che cosa accade a valle e, quando un risultato si deteriora, risalire abbastanza a monte da capire dove il problema potrebbe essere nato.
+Il sistema funziona anche in senso inverso. La vendita produce informazioni che possono cambiare il marketing: obiezioni ricorrenti, alternative considerate, aspettative di prezzo, criteri di scelta. L'erogazione mostra quali clienti ottengono risultati migliori, quali promesse sono difficili da mantenere e quali componenti del servizio generano più costi o frizioni. I numeri possono rivelare che un canale apparentemente economico produce clienti costosi da servire o che una certa offerta richiede troppo capitale prima di generare margine.
 
-Questa prospettiva cambia anche il significato della parola marketing.
+Per questo il marketing non dovrebbe essere considerato un reparto che riceve un prodotto già definito e si limita a distribuirlo. Le informazioni raccolte dal mercato, dalla vendita e dall'esperienza del cliente devono poter modificare le decisioni a monte. Un'impresa impara quando usa ciò che accade dopo la vendita per migliorare ciò che farà prima della vendita successiva.
 
-## Marketing prima della promozione
+Questa lettura aiuta anche a capire perché molte discussioni aziendali diventano confuse. Ogni funzione osserva una parte diversa della stessa macchina. Chi gestisce la pubblicità vede impressioni, clic, contatti e costi. Chi vende vede appuntamenti, proposte e contratti. Chi eroga vede tempi, qualità, errori e carico di lavoro. L'amministrazione vede incassi, scadenze e crediti. Nessuna di queste prospettive è inutile; il problema nasce quando una di esse viene scambiata per il risultato complessivo dell'impresa.
 
-Molte aziende incontrano il marketing troppo tardi.
+## 1.3 Risultati locali e risultato complessivo
 
-Il prodotto esiste già. Il prezzo è stato scelto. I clienti che si vogliono inseguire sono quelli di sempre. Il modo in cui il servizio viene erogato è diventato una consuetudine interna. Il processo commerciale dipende dalle persone che ci lavorano da anni. A quel punto si cerca qualcuno che “faccia marketing”.
+Una metrica locale misura bene una parte del sistema. Proprio per questo può diventare fuorviante quando viene usata per giudicare ciò che accade al di fuori del suo perimetro.
 
-Nella pratica la richiesta è spesso questa: aiutaci a vendere di più ciò che abbiamo già deciso di produrre, alle persone che abbiamo già deciso di cercare, nel modo in cui abbiamo già deciso di venderlo.
+Più richieste possono essere un buon risultato per l'acquisizione. Un tasso di chiusura più alto può essere un buon risultato per la vendita. Un aumento del fatturato può essere un buon risultato commerciale. Nessuno di questi dati, isolato, permette però di stabilire se l'impresa stia creando più valore economico. Per arrivare a quella conclusione bisogna osservare anche la qualità dei clienti acquisiti, il margine che lasciano, il costo necessario per servirli, il tempo con cui il denaro rientra e la capacità richiesta all'organizzazione.
 
-Promuovere è una funzione reale e importante. Distribuire un messaggio, generare attenzione, creare domanda e rendere più semplice una risposta possono avere un valore enorme. Il problema nasce quando la promozione viene incaricata di correggere decisioni che sono state prese prima di lei.
+Lo stesso principio vale nella direzione opposta. Una funzione può peggiorare una propria metrica e migliorare il sistema. Un venditore può rifiutare più opportunità e chiudere meno contratti, ma liberare tempo per i clienti più profittevoli. Un'impresa può aumentare il prezzo, ridurre il tasso di conversione e generare comunque più contribuzione. Un servizio clienti può dedicare più tempo a un problema ricorrente e apparire meno efficiente nel breve periodo, ma eliminare la causa che generava rimborsi, reclami e abbandoni.
 
-Se il mercato scelto è troppo piccolo, più pubblicità non può creare all’infinito nuovi compratori economicamente sostenibili. Se il tipo di cliente attratto paga poco, richiede moltissima assistenza e ha una bassa probabilità di ottenere un buon risultato, più acquisizione peggiora il mix. Se il servizio viene percepito come identico alle alternative, una campagna può aumentare soprattutto il numero di confronti di prezzo. Se la vendita è lenta o confusa, più opportunità possono semplicemente creare una coda. Se l’erogazione è fragile, un aumento dei clienti rende la fragilità più costosa e più visibile.
+La conseguenza pratica è che ogni miglioramento importante dovrebbe essere seguito abbastanza a valle da verificarne gli effetti economici e operativi. Nei capitoli quantitativi vedremo come fare questo con maggiore precisione. Per ora è sufficiente fissare l'idea: una metrica è utile quando conosciamo il tratto del sistema che descrive e sappiamo quali altri risultati devono restare sotto controllo.
 
-Da qui deriva un principio più ampio: le decisioni che normalmente consideriamo “a monte” del marketing — chi servire, che cosa vendere, come differenziarsi, quanto chiedere, come erogare — devono poter essere rimesse in discussione quando impediscono all’impresa di essere scelta e monetizzata in modo sostenibile.
+> **ESEMPIO SVOLTO — Più vendite, meno contribuzione**
+>
+> Supponiamo che un'impresa di servizi acquisisca normalmente dieci nuovi progetti al mese. Ogni progetto fattura in media 18.000 euro e lascia circa 7.000 euro dopo i costi che crescono direttamente con l'erogazione. Per ottenere quei dieci clienti l'impresa sostiene circa 13.000 euro tra marketing e lavoro commerciale.
+>
+> Dopo aver aumentato la spesa pubblicitaria, le richieste qualificate passano da 50 a 80 e i progetti acquisiti da 10 a 12. Il fatturato dei nuovi lavori sale da 180.000 a 216.000 euro. La campagna ha quindi prodotto più domanda e più vendite.
+>
+> Nello stesso periodo, però, il mix di lavori diventa più complesso. Straordinari, coordinamento e rilavorazioni riducono ciò che rimane mediamente da ogni progetto da 7.000 a 5.800 euro. I costi di acquisizione salgono inoltre da 13.000 a 19.000 euro.
+>
+> |  | Prima | Dopo |
+> |---|---:|---:|
+> | Richieste qualificate | 50 | 80 |
+> | Progetti acquisiti | 10 | 12 |
+> | Fatturato nuovi progetti | €180.000 | €216.000 |
+> | Valore medio rimasto prima di acquisizione e struttura | €7.000 | €5.800 |
+> | Costo complessivo di acquisizione | €13.000 | €19.000 |
+> | Contribuzione dopo acquisizione | ~€57.000 | ~€50.600 |
+>
+> L'acquisizione è migliorata secondo alcune metriche e il risultato economico complessivo dei nuovi lavori è peggiorato. Questo esempio non dimostra ancora quale sia la causa: potrebbe dipendere dal tipo di clienti entrati, dal prezzo, dalla capacità, dal processo di preventivazione o da più fattori insieme. Mostra però perché il giudizio non può fermarsi alle richieste, ai contratti o al fatturato.
 
-Questo non rende la promozione innocente per definizione. Sarebbe una superstizione opposta e altrettanto dannosa. Una campagna può essere progettata male. Un messaggio può attirare il pubblico sbagliato. Una pagina può perdere richieste che il resto del sistema saprebbe gestire benissimo. Il pensiero sistemico non consiste nello spostare automaticamente ogni colpa più a monte; consiste nel guadagnarsi il diritto di dire dove si trova il problema.
+Nel Capitolo 2 definiremo con precisione contribuzione, costo di acquisizione, tempo di recupero e punto di pareggio. Qui l'esempio serve soltanto a chiarire la relazione tra una vittoria locale e il risultato complessivo.
 
-Per farlo dobbiamo vedere l’impresa come una serie di decisioni e trasformazioni collegate.
+## 1.4 Cause, sintomi e amplificatori
 
-![Figura 1.1 — Il sistema commerciale collega mercato, acquisizione, vendita, esperienza, economics e capacità](figures/figure-1-1-commercial-system-map.svg)
+Quando un risultato peggiora, il punto in cui il problema diventa visibile non coincide necessariamente con il punto in cui è nato. Questa distinzione è semplice, ma determina la qualità di molte decisioni.
 
-La mappa non va letta come una catena rigida nella quale tutti i clienti percorrono le stesse caselle. Rappresenta soprattutto delle dipendenze. Un’offerta presuppone qualcuno per cui abbia valore. L’acquisizione presuppone una ragione sufficientemente credibile per attirare quel cliente. La vendita presuppone che l’impresa sappia spiegare e sostenere la propria proposta. L’esperienza deve mantenere ciò che il marketing e la vendita hanno promesso. Alla fine, margine, cassa e capacità dicono se il sistema può continuare a funzionare e a crescere.
+La **causa** è una condizione che contribuisce a generare il problema. Un **amplificatore** aumenta la dimensione o la velocità con cui quel problema si manifesta. Il **sintomo** è uno degli effetti osservabili a valle. Nella pratica i tre ruoli possono cambiare a seconda del caso: la stessa campagna pubblicitaria può essere causa in un'impresa, amplificatore in un'altra e semplice luogo in cui viene misurato un problema nato altrove.
 
-Le informazioni, però, viaggiano anche in senso inverso. La vendita scopre quali alternative il cliente considera davvero e quali criteri usa per decidere. L’erogazione scopre quali promesse sono realistiche, quali clienti ottengono risultati migliori e quali parti del servizio generano attrito. I numeri possono rivelare che il canale apparentemente più economico porta clienti più costosi da servire. La capacità operativa può obbligare l’azienda a ridurre temporaneamente la pressione commerciale o, al contrario, suggerire che è arrivato il momento di investire in una nuova risorsa.
+![Figura 1.2 — Causa, amplificatore e sintomo descrivono ruoli diversi nella diagnosi](figures/figure-1-2-cause-amplifier-symptom.svg)
 
-Un’impresa non è quindi una tubatura in cui il cliente scorre da sinistra a destra. È un sistema che impara da ciò che succede dopo ogni decisione.
+Riprendiamo l'esempio precedente. L'aumento della pubblicità ha certamente aumentato il volume delle richieste. Se il processo operativo era già vicino alla saturazione, quel volume può aver amplificato una fragilità preesistente. I ritardi e le rilavorazioni che compaiono dopo possono essere sintomi. La causa potrebbe trovarsi nella capacità di supervisione, nella selezione dei lavori, nel processo di preventivazione, nel prezzo applicato ai progetti complessi o in una combinazione di fattori.
 
-Il valore di questa lettura si vede bene tornando a LineaCasa. Di fronte al sovraccarico, la direzione potrebbe reagire in almeno quattro modi plausibili. Potrebbe ridurre la spesa pubblicitaria. Potrebbe cambiare i criteri con cui decide quali richieste meritano un sopralluogo. Potrebbe aumentare il prezzo dei lavori più complessi. Potrebbe aggiungere capacità di supervisione.
+Ridurre temporaneamente il budget pubblicitario può essere una decisione corretta per proteggere il servizio. Resta però una misura di contenimento se il vero problema è la capacità. Allo stesso modo, assumere subito una persona in più sarebbe prematuro se il sovraccarico derivasse soprattutto dall'accettazione di lavori poco adatti o sottoprezzati.
 
-Il fatto che tutte e quattro le mosse siano plausibili è esattamente il problema. Senza una diagnosi, stiamo scegliendo una cura prima di aver capito la malattia.
+La diagnosi deve quindi distinguere il luogo in cui conviene intervenire subito dal luogo in cui bisogna correggere il sistema. Le due cose possono coincidere, ma non è scontato.
 
-Il sovraccarico potrebbe essere temporaneo e giustificare nuova capacità. Potrebbe derivare dal fatto che la nuova campagna sta attirando lavori meno adatti al modo in cui LineaCasa produce valore. Potrebbe nascere dal processo di preventivazione, che assorbe persone troppo preziose. Potrebbe essere soprattutto un problema di prezzo e selezione: alcuni lavori entrano a condizioni che non compensano il maggiore carico operativo.
+Esistono anche casi in cui il problema è davvero locale. Supponiamo che un'impresa abbia da mesi una domanda stabile, un'offerta profittevole, capacità disponibile e un processo di vendita regolare. Dopo una modifica tecnica al modulo di richiesta del sito, il numero di contatti validi crolla mentre il traffico resta invariato. Se i dati mostrano che il modulo non invia correttamente alcune richieste, la prima correzione è tecnica. Cercare un problema di posizionamento o ridisegnare il prodotto renderebbe la diagnosi inutilmente complicata.
 
-A questo punto la domanda utile non è più “la campagna funziona?”. È “quale collegamento del sistema spiega meglio la perdita economica che stiamo osservando?”.
+Il pensiero sistemico non consiste quindi nel cercare sempre una causa lontana. Serve a localizzare il problema con più disciplina, evitando di confondere automaticamente il sintomo con la causa o il volume con l'origine del difetto.
 
-## Dove appare il problema e dove nasce
+## 1.5 Strategia, strumenti e responsabilità
 
-Uno dei modi più rapidi per intervenire nel posto sbagliato è confondere il punto in cui un problema diventa visibile con il punto in cui ha avuto origine.
+Canali e strumenti cambiano molto più rapidamente dei principi con cui vengono scelti. Negli ultimi anni software di CRM, automazioni, sistemi pubblicitari e strumenti di intelligenza artificiale hanno ampliato in modo significativo ciò che un'impresa può fare con meno tempo e meno lavoro manuale. Il loro valore è reale, ma dipende dal problema che devono risolvere e dal processo in cui vengono inseriti.
 
-Immagina un rubinetto che perde nell’appartamento al piano di sopra. La macchia sul soffitto è reale, ma ridipingere il soffitto non ripara il tubo. Se qualcuno usa più spesso quel rubinetto, la macchia peggiora: l’aumento d’uso rende il problema più grande e più veloce, senza esserne necessariamente la causa. Chiudere temporaneamente l’acqua può essere una misura sensata per contenere il danno; resta però una misura di contenimento, non la riparazione.
+Un CRM, per esempio, può ricordare appuntamenti, registrare attività, assegnare compiti e automatizzare una parte dei follow-up. Per configurarlo bene bisogna però sapere quali stati della relazione contano, quali informazioni modificano la decisione successiva, quando serve un intervento umano e quando una trattativa deve essere considerata chiusa. Senza queste decisioni il software registra e accelera un processo che l'impresa non ha ancora definito.
 
-Nelle imprese i tre ruoli sono meno visibili, ma la distinzione è la stessa. Una condizione a monte può generare un problema. Un amplificatore può aumentarne il volume. Il sintomo è ciò che osserviamo a valle.
+Lo stesso vale per l'intelligenza artificiale. Può sintetizzare informazioni, preparare materiale, classificare segnali, suggerire un passo successivo e automatizzare attività ripetitive. La velocità dell'esecuzione non elimina la necessità di stabilire criteri corretti. Se l'impresa non sa distinguere un cliente adatto da uno poco profittevole, non basta automatizzare la qualifica. Se non ha definito una promessa sostenibile, produrre più rapidamente annunci e contenuti aumenta soprattutto la quantità di comunicazione.
 
-![Figura 1.2 — Causa, amplificatore e sintomo svolgono ruoli diversi](figures/figure-1-2-cause-amplifier-symptom.svg)
+Consideriamo due aziende che adottano lo stesso sistema commerciale. La prima ha già definito gli stati principali della relazione, le informazioni minime da raccogliere e le condizioni che richiedono il passaggio a una persona. La seconda possiede soltanto una lista di contatti e un insieme di abitudini diverse tra venditori. Il software può essere identico, ma il lavoro che svolge non lo è: nel primo caso automatizza decisioni già comprese; nel secondo tende a formalizzare confusione e incoerenza.
 
-Una campagna pubblicitaria può assumere tutti e tre i ruoli in casi diversi. È causa, per esempio, se porta deliberatamente traffico non coerente con l’offerta o se il messaggio crea aspettative che il servizio non può mantenere. È amplificatore quando immette più volume in un sistema già saturo. Può perfino essere soltanto il luogo in cui il sintomo viene misurato: “la campagna non converte”, mentre il mercato non considera prioritaria la proposta o l’offerta è indistinguibile dalle alternative.
+Per questo la responsabilità strategica resta interna all'impresa anche quando una parte importante dell'esecuzione viene affidata a specialisti o strumenti. Un imprenditore non deve necessariamente sapere come configurare una piattaforma pubblicitaria, programmare un'automazione o progettare tecnicamente un database. Deve però capire quale cliente vuole raggiungere, quale avanzamento vuole ottenere, quali economics sono accettabili e quali evidenze userà per giudicare il risultato.
 
-In LineaCasa l’aumento della domanda ha sicuramente amplificato la pressione. Non sappiamo ancora se il primo difetto sia nella qualità delle richieste, nel processo commerciale, nel prezzo dei lavori complessi, nella capacità di supervisione o in una combinazione di queste variabili.
+Questo principio chiude il primo quadro generale del manuale. Abbiamo definito il marketing come una funzione che può intervenire sul modo in cui l'impresa crea, vende e mantiene valore; abbiamo visto le principali dipendenze del sistema; abbiamo distinto risultati locali e risultato complessivo; abbiamo introdotto causa, amplificatore e sintomo; infine abbiamo collocato gli strumenti dentro una responsabilità strategica più ampia.
 
-Ridurre per qualche settimana il budget potrebbe essere necessario per proteggere il servizio. Ma se l’azienda si limita a respirare e, una volta smaltita la coda, riapre il rubinetto senza aver corretto nulla, tornerà nello stesso punto. Anche la decisione opposta — assumere subito un nuovo supervisore — sarebbe prematura se il sovraccarico fosse generato soprattutto da lavori che l’azienda dovrebbe imparare a rifiutare o prezzare diversamente.
-
-Questa distinzione è particolarmente utile quando entra in scena uno strumento nuovo.
-
-### Lo stesso strumento in due aziende diverse
-
-Consideriamo due imprese che decidono di introdurre un sistema di automazione commerciale con funzioni di intelligenza artificiale.
-
-La prima ha già chiarito che cosa deve ricordare della relazione con un potenziale cliente. Distingue una nuova richiesta da un’opportunità che merita una conversazione, una proposta inviata da una decisione rimandata, un cliente attivo da uno che non compra da tempo. Ha inoltre definito quali informazioni servono per decidere il passo successivo e quali situazioni richiedono il giudizio di una persona. In questo contesto automatizzare può eliminare attività ripetitive, impedire che un ricontatto venga dimenticato e preparare meglio chi deve intervenire.
-
-La seconda impresa registra quasi tutto in un’unica lista di contatti. Nessuno ha concordato che cosa renda una richiesta davvero promettente, quando debba essere ricontattata o perché una trattativa venga considerata chiusa. Se automatizza quel sistema, non introduce automaticamente ordine: rende più veloce un processo che l’azienda non ha ancora capito. I messaggi partono prima, ma non è chiaro se partano alla persona giusta, nel momento giusto e con lo scopo giusto.
-
-La tecnologia è identica. Cambia la qualità del modello che riceve in ingresso.
-
-Un imprenditore non deve per questo trasformarsi nel tecnico di ogni strumento. Può affidare pubblicità, software, scrittura, analisi e vendita a specialisti molto più competenti di lui nell’esecuzione. Quello che l’impresa deve trattenere è il criterio con cui giudica il loro lavoro: quale cliente vuole ottenere, quale cambiamento economico cerca, quale fase del sistema deve migliorare e quali conseguenze è disposta ad accettare.
-
-Quando questi criteri restano indefiniti, ogni specialista farà una cosa del tutto razionale: ottimizzerà la parte che vede meglio. Il pubblicitario cercherà più risposta, il venditore più chiusure, l’operativo più efficienza, l’amministrazione più prudenza. Il conflitto non nasce necessariamente dalla qualità delle persone; nasce dal fatto che nessuno ha stabilito quale risultato complessivo deve governare le ottimizzazioni locali.
-
-## Quando il problema è davvero locale
-
-Il pensiero sistemico diventa inutile se viene trasformato in una nuova ideologia secondo cui ogni difetto deve avere una causa profonda e strategica.
-
-Immaginiamo un’azienda che vende un servizio professionale ben conosciuto dal proprio mercato. Il posizionamento è stabile, i clienti acquisiti negli ultimi dodici mesi hanno una redditività coerente, l’erogazione ha capacità inutilizzata e il processo commerciale converte in modo abbastanza costante. Per mesi una campagna sulla ricerca online ha prodotto richieste di qualità prevedibile.
-
-Un lunedì la conversione crolla.
-
-Le impression e i clic sono simili alla settimana precedente. Le ricerche che portano le persone sul sito sono simili. Prezzo, proposta, target e processo commerciale non sono cambiati. Eppure quasi nessuno completa la richiesta di contatto.
-
-Il team controlla la pagina e scopre che, durante un aggiornamento, il modulo ha iniziato a restituire un errore su alcuni dispositivi mobili. Non occorre convocare una riunione sul posizionamento o ripensare il modello di business. Il punto rotto è locale, osservabile e coerente con il sintomo. Si ripara il modulo e si verifica se la conversione torna vicino al livello precedente.
-
-Questa è una diagnosi sistemica proprio perché non complica inutilmente il problema. Il contesto ci dice che molti prerequisiti a monte non sono cambiati; l’evidenza localizza una rottura concreta; il test è semplice e reversibile.
-
-Risalire a monte non significa rendere ogni decisione “strategica”. Significa controllare che il luogo in cui stiamo intervenendo abbia davvero il potere causale che gli attribuiamo.
-
-## Trasformare LineaCasa in ipotesi, non in una storia
-
-Per LineaCasa non abbiamo ancora il privilegio di una causa così chiara. Prima di spendere altro denaro o aggiungere struttura, conviene scomporre il racconto in spiegazioni concorrenti.
-
-Una prima ipotesi riguarda il mix di clienti: la nuova campagna potrebbe generare lavori più complessi, più sensibili al prezzo o meno coerenti con le capacità dell’azienda. Se fosse vero, il deterioramento dovrebbe concentrarsi soprattutto nei lavori provenienti dalla nuova domanda.
-
-Una seconda riguarda il collo di bottiglia commerciale. Ottanta richieste potrebbero superare la capacità di fare sopralluoghi e preventivi con la velocità e la qualità precedenti. In questo scenario i ritardi ridurrebbero sia la probabilità di chiudere i clienti migliori sia la qualità della selezione, perché le persone esperte sono costrette a decidere più in fretta o a occuparsi di troppe cose insieme.
-
-La terza spiegazione è operativa: i nuovi lavori sono buoni, ma la supervisione è davvero la risorsa limitante. Se la domanda ha qualità sufficiente e appare stabile, aumentare capacità può diventare una decisione sensata.
-
-Infine, alcuni lavori potrebbero essere semplicemente prezzati male rispetto alla complessità che assorbono. In quel caso il problema non sarebbe il numero di clienti ma il rapporto tra prezzo, carico operativo e tipo di progetto accettato.
-
-Queste ipotesi suggeriscono dati e test diversi. Proprio per questo sarebbe sbagliato cambiare contemporaneamente campagna, criteri di selezione, listino, processo di preventivazione e struttura. Se i risultati migliorassero, non sapremmo che cosa ha funzionato; se peggiorassero, avremmo ancora meno capacità di interpretare il sistema.
-
-Il primo compito manageriale è quindi formulare la spiegazione più plausibile, identificare almeno un’alternativa e cercare l’evidenza che possa distinguerle.
-
-> **PRINCIPIO — Prima di aumentare una tattica, chiarisci che cosa amplificherà e quale risultato dell’intero sistema dovrebbe migliorare se la diagnosi è corretta.**
-
-## Prova a diagnosticare prima di continuare
-
-Considera un’azienda software venduta in abbonamento. Dopo una partnership editoriale, le registrazioni alla prova gratuita raddoppiano e il costo per registrazione è molto basso. Il team marketing propone di ampliare subito l’accordo.
-
-Nello stesso periodo, però, il numero di aziende che completa i primi passaggi necessari per ottenere valore dal prodotto resta quasi invariato, mentre le richieste di assistenza triplicano.
-
-Prima di formulare una soluzione, separa ciò che sappiamo da ciò che stiamo ipotizzando. La crescita delle registrazioni è un fatto. L’assenza di una crescita proporzionale nell’attivazione è un altro fatto. Che la partnership “porti utenti cattivi” è, per ora, soltanto una spiegazione possibile.
-
-Potrebbe essere vero: forse il nuovo pubblico è più curioso che intenzionato a usare davvero il prodotto. Ma il prodotto potrebbe anche richiedere più configurazione di quanto quelle aziende si aspettino; il percorso iniziale potrebbe essere confuso; l’assistenza potrebbe non reggere l’aumento del volume; oppure la partnership potrebbe raggiungere un segmento diverso che richiede un tipo di accompagnamento diverso.
-
-La stessa partnership potrebbe quindi essere causa, amplificatore o semplice fonte visibile del cambiamento a seconda di ciò che scopriremo. Prima di aumentare la distribuzione o interromperla, vorremmo confrontare almeno il tipo di account, il comportamento nei primi passaggi, le ragioni delle richieste di assistenza e la percentuale di aziende che raggiunge un primo risultato utile.
-
-Questo è il passaggio che distingue una reazione da una diagnosi: non scegliere la spiegazione che suona meglio, ma chiedere quale evidenza sarebbe diversa se una spiegazione fosse vera e l’altra no.
-
-## Dalla domanda tattica alla domanda economica
-
-Vedere l’impresa come sistema cambia il modo in cui affrontiamo richieste molto comuni. Se qualcuno dice “ci servono più contatti”, la risposta utile dipende da quali clienti arrivano oggi, da che cosa succede quando il volume aumenta e da quanto valore economico crea ciascun cliente. Se il problema sembra essere la vendita, prima di addestrare il venditore a chiudere di più conviene capire se sta ricevendo opportunità appropriate, sufficientemente preparate e nel momento giusto. Se si propone un nuovo software, la questione decisiva è quale processo sia già abbastanza chiaro da meritare automazione. Una nuova assunzione ha senso quando esiste una capacità realmente vincolante e sappiamo quale funzione economica dovrebbe svolgere quella persona.
-
-Lo stesso vale per il prezzo. Una richiesta di sconto può segnalare che il prezzo è davvero fuori equilibrio, ma può anche essere il risultato di una proposta indistinguibile, di una prova debole, di un cliente poco adatto o di un confronto impostato male. Abbassare il numero senza sapere quale di queste condizioni stiamo correggendo significa modificare una leva prima di aver capito il sistema.
-
-Il pensiero sistemico non produce automaticamente la risposta giusta. Produce qualcosa di più importante all’inizio: impedisce che la prima risposta disponibile venga trattata come una diagnosi.
-
-Resta però un problema. Sapere che le parti sono collegate non basta a decidere se LineaCasa sia migliorata o peggiorata. Bisogna saper leggere almeno alcuni numeri fondamentali: quanto valore resta dopo aver servito il cliente, quanto costa acquisirlo, quanto tempo impiega il denaro a tornare disponibile e quanta capacità consuma.
-
-Il caso iniziale ci ha già costretto a sfiorare questi concetti. Nel prossimo capitolo li costruiremo con calma, partendo dalle decisioni che devono aiutarci a prendere. Non per trasformare il marketing in contabilità, ma per evitare che parole come crescita, cliente migliore, campagna riuscita o prezzo alto restino giudizi senza una misura.
+Per usare davvero questa mappa serve ora un linguaggio economico minimo. Dire che una campagna, un cliente o una vendita “funzionano” non basta finché non sappiamo leggere ciò che rimane dopo i costi, quanto abbiamo speso per acquisire il cliente, quanto tempo serve per recuperare quella spesa e quanta capacità viene assorbita. Il Capitolo 2 introduce questi numeri senza ancora entrare nella parte avanzata dell'economia del cliente, che verrà sviluppata più avanti nel manuale.
