@@ -1,509 +1,434 @@
-# Pedagogical Features — Manual V2
+# Pedagogical Apparatus — Manual V2
+
+Status: **CURRENT — founder-directed refinement after prose-depth pass**  
+Date: 2026-09-21
 
 ## Purpose
 
-This document defines the reusable instructional elements available to Manual V2.
+This document defines the secondary teaching apparatus of Manual V2.
 
-They are a palette, not a checklist.
+The architecture and prose remain primary. The manual must still read naturally if every optional callout is hidden.
 
-The failure mode to avoid is obvious:
+The apparatus exists to create a useful **second reading speed**:
 
-**adding boxes, diagrams, exercises and examples to every chapter simply so the book looks more like a textbook.**
+- the first reading follows the continuous explanation;
+- later consultation lets the reader quickly recover an example, a common mistake, an operational implication or a self-check.
 
-A feature exists only when separating or visualizing the material improves understanding, practice or later retrieval.
-
----
-
-# 1. Feature hierarchy
-
-V2 uses three levels.
-
-## Level A — Core narrative
-
-The main chapter prose carries the argument.
-
-It should remain understandable even if all optional boxes are hidden.
-
-## Level B — Integrated teaching features
-
-Elements embedded near the relevant passage:
-
-- figure;
-- worked example;
-- short table;
-- equation;
-- counterexample;
-- brief diagnostic checkpoint.
-
-These are part of the explanation.
-
-## Level C — Separable support features
-
-Elements that can be read independently or revisited later:
-
-- principle box;
-- field note;
-- deep dive;
-- tool/worksheet;
-- chapter exercise;
-- case extension.
-
-Do not move core reasoning into Level C merely to create a visually varied page.
+The apparatus must never turn the book into courseware, a slide deck or a sequence of colored boxes.
 
 ---
 
-# 2. Box taxonomy
+# 1. Governing rule
 
-Use a deliberately small set of recognizable box types.
+Every feature must answer one question:
 
-## PRINCIPIO
+> **What does this element teach or make retrievable better than the surrounding prose?**
+
+If the answer is weak, keep the material in ordinary prose or remove it.
+
+The desired page hierarchy is:
+
+1. **core narrative** — theory, causality, explanation and judgment;
+2. **figures / formulas / tables** — when another representation genuinely explains a relationship better;
+3. **pedagogical apparatus** — selective support for application, error prevention and later retrieval.
+
+The apparatus is third, not first.
+
+---
+
+# 2. The five primary feature types
+
+Manual V2 uses five stable reader-facing labels.
+
+## 2.1 ESEMPIO SVOLTO / ESEMPIO NUMERICO
 
 ### Job
 
-Compress an already-explained principle into a reusable statement.
+Show the complete application of a concept after the theory is already understandable.
 
 ### Use when
 
-The reader benefits from remembering the rule after understanding it.
+The reader benefits from seeing:
 
-### Do not use for
+- assumptions;
+- data;
+- calculation or reasoning;
+- result;
+- interpretation;
+- limitation or sensitivity when material.
 
-Introducing a complex idea for the first time.
+### Rule
+
+The example demonstrates the model. It does not carry the burden of defining the model.
+
+For short examples, ordinary prose is preferable to a box.
 
 ---
 
-## ESEMPIO SVOLTO
+## 2.2 ERRORE FREQUENTE
 
 ### Job
 
-Expose the full reasoning path on a concrete case.
+Protect the reader from a plausible mistake that can materially damage a decision.
 
-### Required components when relevant
+### Required structure
 
-- situation;
-- inputs/evidence;
-- reasoning steps;
-- calculation/diagnosis;
-- conclusion;
-- interpretation.
+A useful error box normally explains:
+
+1. what people commonly do or infer;
+2. why it appears reasonable;
+3. why it fails;
+4. what to do instead.
+
+### Use only when
+
+The error is common, costly or conceptually revealing.
+
+Do not use this label for trivial reminders.
+
+---
+
+## 2.3 IN PRATICA
+
+### Job
+
+Translate a completed conceptual explanation into a concrete operating consequence.
+
+### Typical contents
+
+- what the manager should inspect;
+- what changes in a decision;
+- what information to request from a team/vendor;
+- what not to optimize in isolation;
+- what a principle means in an ordinary business situation.
+
+### Rule
+
+`IN PRATICA` is not a summary box. It must change what the reader would actually do.
+
+Use sparingly. Often the practical implication belongs naturally in the prose and needs no visual separation.
+
+---
+
+## 2.4 VERIFICA NELLA TUA AZIENDA
+
+### Job
+
+Turn the chapter from knowledge into inspection of the reader's real business.
+
+### Preferred form
+
+A compact diagnostic exercise, normally 3–6 prompts, such as:
+
+- identify a number;
+- find a missing denominator;
+- compare two segments;
+- trace one customer path;
+- locate one assumption;
+- identify one decision that would change if the answer were different.
+
+### Rule
+
+Questions must lead to evidence or a decision. Avoid generic reflection prompts such as `Come ti senti rispetto a...` or questions whose answer cannot change anything.
+
+Usually one strong self-check near the end of a chapter is better than many small interruptions.
+
+---
+
+## 2.5 APPROFONDIMENTO
+
+### Job
+
+Preserve an important nuance, boundary condition or specialist distinction without slowing the beginner's main path.
 
 ### Use when
 
-A novice needs to see the method before being asked to perform it.
-
----
-
-## ERRORE FREQUENTE
-
-### Job
-
-Show a tempting but materially wrong interpretation or implementation.
-
-### Use when
-
-The mistake is common enough to deserve explicit inoculation.
-
-### Rule
-
-Explain why it fails. Do not merely label it wrong.
-
----
-
-## APPROFONDIMENTO
-
-### Job
-
-Add nuance that would interrupt the beginner's main path but is useful for advanced readers.
-
-### Examples
-
-- edge case;
-- specialist distinction;
-- historical/context note;
-- methodological caveat.
-
-### Rule
-
-The main chapter cannot depend on reading the box.
-
----
-
-## STRUMENTO OPERATIVO
-
-### Job
-
-Turn a model into something the reader can use on a business.
-
-Possible forms:
-
-- worksheet;
-- diagnostic map;
-- gate;
-- decision memo;
-- audit checklist.
-
-### Rule
-
-Every field/question must correspond to a decision or observation. No decorative forms.
-
----
-
-## CASO
-
-### Job
-
-Integrate several concepts in a realistic business situation.
-
-### Rule
-
-A case must contain genuine decision tension. If the correct answer is obvious from the first paragraph, it is probably an example, not a case.
-
----
-
-# 3. Non-box integrated features
-
-Some of the most important instructional devices should stay in the normal reading flow.
-
-## Micro-example
-
-One or two sentences that make an abstract statement concrete.
-
-No special visual treatment required.
-
-## Counterexample
-
-A nearby case where the apparent rule changes because a relevant variable differs.
-
-Often best in normal prose so the contrast stays close to the rule.
-
-## Worked calculation
-
-May be visually separated if multiple steps are involved, but simple arithmetic can remain in the narrative.
-
-## Diagnostic question
-
-A question the reader can reuse in practice.
-
-Do not automatically box every question.
-
----
-
-# 4. Learning checks
-
-The book should include retrieval and interpretation checks, but without turning every page into courseware.
-
-## `FERMATI E PREVEDI`
-
-Before revealing a worked decision, ask the reader to predict the direction of the answer.
-
-Purpose: force active model use.
-
-## `SPIEGA PERCHÉ`
-
-Ask the reader to explain the causal reason, not recite a definition.
-
-## `COSA CAMBIA SE...`
-
-Change one assumption in an example.
-
-Purpose: sensitivity and boundary learning.
-
-## `DIAGNOSTICA`
-
-Present a symptom and ask where to look upstream.
-
-## `TRASFERISCI`
-
-Present a new context with different surface features and ask the reader to apply the same model.
-
-These can appear as short prompts at natural points or as end-of-chapter exercises.
-
----
-
-# 5. End-of-chapter exercise types
-
-Use a small, escalating set.
-
-## Type 1 — Recall
-
-Purpose: ensure key vocabulary/model can be reconstructed.
+The material is useful but not necessary to follow the core argument.
 
 Examples:
 
-- define in your own words;
-- redraw the model from memory;
-- identify the variables in a formula.
+- edge case;
+- specialist terminology;
+- methodological qualification;
+- important historical/contextual note;
+- a second-order consequence relevant mainly to experienced readers.
 
-Recall is useful but insufficient.
+### Rule
 
-## Type 2 — Interpretation
+The main chapter must remain complete if the box is skipped.
 
-Give data/behavior and ask what it means.
-
-## Type 3 — Diagnosis
-
-Ask which upstream cause should be checked first and why.
-
-## Type 4 — Calculation
-
-Require a reproducible numerical result plus interpretation.
-
-## Type 5 — Transfer
-
-Apply the principle to a novel business case.
-
-## Type 6 — Own-business application
-
-Use the reader's business as input.
-
-Rule: distinguish exercises that can produce a reliable conclusion from those that only produce a hypothesis to test.
+`APPROFONDIMENTO` should be uncommon.
 
 ---
 
-# 6. Part-level capstones
+# 3. Supporting feature: STRUMENTO OPERATIVO
 
-Each Part should end with at least one integrative learning event.
+`STRUMENTO OPERATIVO` is retained, but it is not a normal prose callout.
 
-Possible formats:
+Use it only when the book provides an actual reusable artifact:
 
-- recurring case reaches a new decision point;
-- multi-chapter diagnostic case;
-- cumulative calculation;
-- redesign exercise;
-- decision memo.
+- worksheet;
+- audit sheet;
+- decision memo;
+- calculation template;
+- process map;
+- interview guide;
+- checklist with genuine decision value.
 
-Part capstones should require concepts from more than one chapter.
+A list of advice is not automatically a tool.
 
-They are the main bridge from local comprehension to system-level transfer.
-
----
-
-# 7. Recurring-case integration
-
-Recurring cases should not become serialized fiction.
-
-Their job is to create continuity of consequences.
-
-A case can reappear when a new chapter changes the reader's interpretation of an earlier decision.
-
-Example progression:
-
-- market chapter: choose segment;
-- positioning chapter: create reason for preference;
-- offer chapter: change packaging/pricing;
-- acquisition chapter: choose demand path;
-- sales chapter: diagnose decision process;
-- lifecycle chapter: discover cost-to-serve problem;
-- economics chapter: discover the supposedly attractive segment is inferior;
-- capacity chapter: decide whether to add resources.
-
-The recurrence should teach system interaction, not merely provide familiar names.
+Tools should later be reusable in the final Toolkit/Workbook without rewriting them from scratch.
 
 ---
 
-# 8. Real-case use
+# 4. Features deliberately removed from the default palette
 
-Real cases are valuable when they contribute evidence, complexity or credibility that a synthetic example cannot provide.
+The following are no longer default recurring labels:
 
-Before using a real case classify it:
+- `PRINCIPIO`;
+- `CASO` as a generic box label;
+- `FERMATI E PREVEDI`;
+- `SPIEGA PERCHÉ`;
+- `DIAGNOSTICA`;
+- `TRASFERISCI`;
+- `COSA CAMBIA SE...` as a recurring visual label.
 
-- documented fact;
-- company claim;
-- third-party analysis;
-- inference;
-- teaching interpretation.
+Their instructional jobs are still valid, but the labels created too much visible teaching machinery.
 
-Do not present a famous outcome as proof that one action caused the outcome.
+Instead:
 
-Avoid hero-story logic.
+- a principle should usually be expressed naturally in the prose;
+- substantial real cases will have their own editorial treatment;
+- prediction, transfer and sensitivity questions can appear inside an exercise or worked example without becoming permanent box families.
 
 ---
 
-# 9. Figure callouts
+# 5. Integration with the prose-depth system
 
-Every figure should have:
+The apparatus must never compensate for weak explanation.
 
-- figure number;
-- descriptive title;
-- one-sentence takeaway when useful;
-- citation/source if based on external data;
-- nearby prose explaining the implication.
+Before adding a box, run this sequence:
 
-The figure title should describe the relationship, not merely name the topic.
+1. Is the underlying concept fully explained in the narrative?
+2. Does the reader understand why it matters?
+3. Are mechanism and consequence clear?
+4. Would the feature add application/retrieval value rather than missing theory?
+
+If question 1–3 fail, rewrite the prose first.
+
+This is especially important after the third Golden rewrite: the book's new quality comes from deeper continuous explanation. The apparatus must preserve that gain.
+
+---
+
+# 6. Placement rules
+
+## Do not interrupt orientation
+
+The first pages of a chapter should normally establish the subject before any optional callout.
+
+A formula or essential figure may appear early if it is part of the explanation. A support box normally should not.
+
+## Place the feature after comprehension
+
+A worked example follows the theory it demonstrates.
+
+An `ERRORE FREQUENTE` follows enough explanation for the reader to understand why the error is tempting.
+
+An `IN PRATICA` follows a conclusion that has operational consequences.
+
+A `VERIFICA NELLA TUA AZIENDA` normally appears after the relevant model is complete, often late in the chapter.
+
+## Avoid callout collisions
+
+Do not place two optional support boxes back-to-back.
+
+Do not create pages where the reader spends more time entering/exiting callouts than following the main argument.
+
+A figure/table/formula plus a support box can coexist only when both are necessary and the page remains readable.
+
+---
+
+# 7. Density rule
+
+There is no quota, minimum or target count.
+
+As a warning heuristic rather than a production target:
+
+- a conceptual chapter may need only 1–3 support features;
+- a quantitative chapter can contain more worked examples because calculation is intrinsic to the subject;
+- some chapters may need no `APPROFONDIMENTO` or `ERRORE FREQUENTE` at all;
+- `VERIFICA NELLA TUA AZIENDA` should usually be one coherent activity rather than several fragmented prompts.
+
+If the page starts to resemble a training workbook, feature density is too high for the main manual.
+
+---
+
+# 8. Practicality inside ordinary prose
+
+Not every practical passage deserves a box.
+
+The preferred pattern remains to integrate many operational consequences into normal paragraphs:
+
+> Se un'agenzia riporta soltanto costo per lead e numero di contatti, chiedere anche costo completo di acquisizione e qualità economica dei clienti non è un esercizio finanziario: serve a evitare di premiare un canale che trasferisce costi alla vendita o all'erogazione.
+
+This is practical and concrete without visual interruption.
+
+Reserve `IN PRATICA` for an implication that benefits from later retrieval.
+
+---
+
+# 9. Error boxes must expose the mechanism
 
 Weak:
 
-> Figure 4. Funnel
+> **ERRORE FREQUENTE**  
+> Guardare solo il fatturato.
 
-Better:
+Strong:
 
-> Figure 4. The same source can contain prospects at different decision states
+> **ERRORE FREQUENTE — Scambiare crescita del fatturato per miglioramento economico**  
+> Il fatturato può crescere mentre contribuzione e cassa peggiorano se i nuovi clienti richiedono più sconti, assistenza, rilavorazioni o capitale. Il controllo corretto non è eliminare il fatturato dai KPI, ma seguirlo abbastanza a valle da capire che cosa rimane e con quale fabbisogno operativo.
 
----
-
-# 10. Tables as teaching devices
-
-A table should usually answer a comparison question.
-
-A good table has a clear comparison dimension.
-
-Examples:
-
-- same revenue, different customer economics;
-- active vs latent demand;
-- authority vs credibility vs trust;
-- direct vs indirect alternatives;
-- normal process vs exception/escalation;
-- expansion options and reopened assumptions.
-
-Do not create tables with long prose inside every cell.
+The feature must teach the causal correction.
 
 ---
 
-# 11. Formula presentation
+# 10. Self-checks must produce evidence
 
-A formula is not a decorative box.
+A `VERIFICA NELLA TUA AZIENDA` should leave the reader with something concrete.
 
-Use visual emphasis only when the relationship itself matters enough to be recalled or reused.
+Good output examples:
 
-Every displayed formula should be followed by interpretation.
+- a list of the three customer segments with highest/lowest contribution;
+- a reconstructed CAC numerator;
+- the first bottleneck after an acquisition increase;
+- a comparison between one local KPI and the downstream business result;
+- an explicit assumption that currently supports an LTV model;
+- one metric missing from a dashboard.
 
-Example pattern:
+Bad output:
 
-> `Payback months = CAC / monthly contribution margin attributable to the customer`
+- `Rifletti sul tuo marketing`;
+- `Pensi di conoscere bene i clienti?`;
+- `Quanto è importante per te il posizionamento?`
 
-Then explain what the number does and does not tell the reader.
-
----
-
-# 12. Principles for visual variety
-
-Visual variety is not a goal in itself.
-
-Use the simplest medium that exposes the intended relationship.
-
-Decision guide:
-
-- prose — causality, judgment, nuance;
-- list — reference set/checklist;
-- table — comparison;
-- flowchart — sequence/branching;
-- state map — transitions;
-- causal diagram — upstream/downstream relationship;
-- chart — quantitative pattern/change;
-- formula — numerical relationship;
-- timeline — sequence over time;
-- matrix — two-dimensional classification;
-- annotated example — applied reasoning on an artifact.
+The manual should produce better observation, not introspection for its own sake.
 
 ---
 
-# 13. Guidance fading across the book
+# 11. Relationship with chapter endings
 
-Pedagogical support should decrease as the reader develops competence.
+Not every chapter needs a formal end-of-chapter exercise section.
 
-Early Parts:
+Preferred options:
 
-- more fully worked examples;
-- clearer scaffolding;
-- more explicit interpretation.
+- one `VERIFICA NELLA TUA AZIENDA`;
+- a compact operational tool;
+- a short set of transfer questions;
+- ordinary synthesis prose if the chapter is already highly applied.
 
-Middle Parts:
+Part-level exercises can integrate multiple chapters later.
 
-- partially worked cases;
-- more prediction and diagnosis;
-- more cross-chapter integration.
+The main manual should not look like a school textbook with obligatory questions after every chapter.
 
-Late Parts:
+---
 
-- open transfer cases;
+# 12. Relationship with real cases
+
+Real cases are not part of this support-box taxonomy.
+
+When real cases are introduced in the next editorial phase, they may use a separate treatment (`CASO REALE`) because they serve an evidentiary and integrative role different from a micro-example.
+
+Synthetic examples remain generic/A-B and should never be visually styled to imply that they are documented companies.
+
+---
+
+# 13. Relationship with figures and formulas
+
+A chart, table, formula or diagram is not a pedagogical callout merely because it is visually distinct.
+
+- chart = quantitative pattern;
+- table = structured comparison;
+- formula = numerical relationship;
+- diagram = structural/causal relationship;
+- apparatus = application, error prevention, deeper optional nuance or self-diagnosis.
+
+Do not duplicate the same message in a figure and an `IN PRATICA` box unless each does a different job.
+
+---
+
+# 14. Guidance across the book
+
+Support changes with reader competence.
+
+## Early Parts
+
+Prefer:
+
+- clearer interpretation;
+- more worked examples;
+- simple `VERIFICA NELLA TUA AZIENDA` activities;
+- explicit explanation of why an error fails.
+
+## Middle Parts
+
+Increase:
+
+- comparison between alternatives;
+- partial examples;
+- transfer across contexts;
+- decision tools.
+
+## Late Parts
+
+Prefer:
+
+- integrated diagnostic tools;
+- multi-variable applications;
 - decision memos;
-- multi-variable diagnosis;
-- less explicit solution scaffolding.
+- fewer elementary reminders.
 
-This should happen gradually, not by abruptly changing the book's style.
-
----
-
-# 14. Feature-density rule
-
-Do not maximize feature count.
-
-A page with four callouts, a figure, a checklist and an exercise may be less teachable than a page of excellent prose.
-
-The question is always:
-
-> What learning problem does this feature solve better than the surrounding prose?
-
-If there is no answer, remove the feature.
+The visual style stays coherent even as the cognitive support fades.
 
 ---
 
-# 15. Naming and visual consistency
+# 15. Production checks
 
-The visual design phase will determine typography and graphic treatment, but the semantic labels should remain stable.
+## `APPARATUS-JOB`
 
-Primary box names:
+State in one sentence why the feature teaches better than ordinary prose.
 
-- PRINCIPIO
-- ESEMPIO SVOLTO
-- ERRORE FREQUENTE
-- APPROFONDIMENTO
-- STRUMENTO OPERATIVO
-- CASO
+## `APPARATUS-DELETE`
 
-Learning prompts may use:
+Remove the feature temporarily. If comprehension, application or retrieval does not materially worsen, leave it out.
 
-- FERMATI E PREVEDI
-- SPIEGA PERCHÉ
-- COSA CAMBIA SE...
-- DIAGNOSTICA
-- TRASFERISCI
+## `SECOND-READING`
 
-Do not invent a new label in every chapter.
+Would the feature help a reader returning months later to solve a problem?
 
----
+## `NO-COURSEWARE`
 
-# 16. Accessibility and alternate forms
+Does the page still look and read like a professional manual rather than a workbook or e-learning module?
 
-Instructional meaning must not depend solely on color, decoration or spatial position.
+## `EVIDENCE-OUTPUT`
 
-Figures should be understandable through labels/captions and later receive appropriate alternate text for digital editions.
+Does a self-check produce an observation, number, comparison or decision input?
 
-Tables and formulas should remain extractable/searchable where technically possible.
+## `PROSE-FIRST`
 
-Accessibility is part of production quality, not a final patch.
+Is the concept complete without opening the optional feature?
 
 ---
 
-# 17. Pseudocommand checks
+# 16. Acceptance rule
 
-## `FEATURE-JOB`
+The pedagogical apparatus passes when:
 
-State the learning job of every planned box/figure/table/exercise.
-
-## `FEATURE-DELETE`
-
-Temporarily remove the feature. If nothing meaningful is lost, do not restore it.
-
-## `NOVICE-PATH`
-
-Can a beginner understand the core narrative without opening optional deep dives?
-
-## `TRANSFER-CHECK`
-
-Does the exercise require actual model use or only recognition/recall?
-
-## `GUIDANCE-FADE`
-
-Is support decreasing appropriately as competence increases?
-
-## `DECORATION-CHECK`
-
-Is any visual/box present mainly to make the page feel richer?
-
----
-
-# 18. Acceptance rule
-
-The pedagogical feature system succeeds if V2 pages become more varied **because different learning jobs demand different representations**, not because the project is trying to look less like V1.
+- the core prose remains dominant;
+- feature labels are few and predictable;
+- each feature has a distinct learning job;
+- examples remain subordinate to theory;
+- practical application appears both in prose and selectively in callouts;
+- self-checks produce evidence rather than generic reflection;
+- the reader can use the apparatus for later consultation;
+- pages remain calm and book-like rather than visually fragmented.
