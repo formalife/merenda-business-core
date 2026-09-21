@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Figura 23.2 — Il payback appare quando il contributo cumulato supera il costo di acquisizione</title>
+  <desc id="desc">Grafico a linee del contributo cumulato di due coorti TurnoChiaro. Entrambe hanno un costo di acquisizione totale di 180 mila euro. La coorte A supera il costo nel mese 7. La coorte B resta sotto il costo nel mese 12 e lo supera solo nell'estensione illustrativa al mese 14.</desc>
+  <rect x="20" y="20" width="1160" height="720" rx="18" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="60" y="67" font-family="Arial, sans-serif" font-size="28" font-weight="700">Il tempo cambia il significato dello stesso CAC</text>
+  <text x="60" y="98" font-family="Arial, sans-serif" font-size="16" fill="#444">Contributo cumulato della coorte rispetto a €180.000 di costo completo di acquisizione</text>
+
+  <rect x="110" y="100" width="874" height="520" fill="#f8f8f8"/>
+  <text x="547" y="126" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">periodo osservato</text>
+  <text x="1057" y="126" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">estensione illustrativa</text>
+
+  <g stroke="#ddd" stroke-width="1">
+    <line x1="110" y1="620" x2="1130" y2="620"/>
+    <line x1="110" y1="546" x2="1130" y2="546"/>
+    <line x1="110" y1="472" x2="1130" y2="472"/>
+    <line x1="110" y1="398" x2="1130" y2="398"/>
+    <line x1="110" y1="324" x2="1130" y2="324"/>
+    <line x1="110" y1="250" x2="1130" y2="250"/>
+    <line x1="110" y1="176" x2="1130" y2="176"/>
+    <line x1="110" y1="102" x2="1130" y2="102"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="end">
+    <text x="98" y="625">€0</text>
+    <text x="98" y="551">€50k</text>
+    <text x="98" y="477">€100k</text>
+    <text x="98" y="403">€150k</text>
+    <text x="98" y="329">€200k</text>
+    <text x="98" y="255">€250k</text>
+    <text x="98" y="181">€300k</text>
+    <text x="98" y="107">€350k</text>
+  </g>
+
+  <line x1="110" y1="354" x2="1130" y2="354" stroke="#222" stroke-width="2.4" stroke-dasharray="8 6"/>
+  <text x="1124" y="344" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#333">€180k — CAC della coorte</text>
+
+  <g stroke="#777" stroke-width="1" font-family="Arial, sans-serif" font-size="12" fill="#555" text-anchor="middle">
+    <line x1="110" y1="620" x2="110" y2="627"/><text x="110" y="648">0</text>
+    <line x1="183" y1="620" x2="183" y2="627"/><text x="183" y="648">1</text>
+    <line x1="256" y1="620" x2="256" y2="627"/><text x="256" y="648">2</text>
+    <line x1="329" y1="620" x2="329" y2="627"/><text x="329" y="648">3</text>
+    <line x1="401" y1="620" x2="401" y2="627"/><text x="401" y="648">4</text>
+    <line x1="474" y1="620" x2="474" y2="627"/><text x="474" y="648">5</text>
+    <line x1="547" y1="620" x2="547" y2="627"/><text x="547" y="648">6</text>
+    <line x1="620" y1="620" x2="620" y2="627"/><text x="620" y="648">7</text>
+    <line x1="693" y1="620" x2="693" y2="627"/><text x="693" y="648">8</text>
+    <line x1="766" y1="620" x2="766" y2="627"/><text x="766" y="648">9</text>
+    <line x1="839" y1="620" x2="839" y2="627"/><text x="839" y="648">10</text>
+    <line x1="911" y1="620" x2="911" y2="627"/><text x="911" y="648">11</text>
+    <line x1="984" y1="620" x2="984" y2="627"/><text x="984" y="648">12</text>
+    <line x1="1057" y1="620" x2="1057" y2="627"/><text x="1057" y="648">13</text>
+    <line x1="1130" y1="620" x2="1130" y2="627"/><text x="1130" y="648">14</text>
+  </g>
+  <text x="620" y="681" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="#444">Mesi dall'acquisizione</text>
+
+  <polyline points="110,620 183,585 256,538 329,493 401,449 474,405 547,363 620,322 693,282 766,243 839,205 911,167 984,130" fill="none" stroke="#111" stroke-width="4"/>
+  <polyline points="110,620 183,623 256,590 329,559 401,531 474,504 547,480 620,458 693,437 766,418 839,400 911,383 984,368" fill="none" stroke="#666" stroke-width="4"/>
+  <polyline points="984,368 1057,354 1130,340" fill="none" stroke="#666" stroke-width="4" stroke-dasharray="10 7"/>
+
+  <circle cx="620" cy="322" r="7" fill="#111"/>
+  <text x="638" y="305" font-family="Arial, sans-serif" font-size="15" fill="#111">Coorte A recupera il CAC nel mese 7</text>
+  <circle cx="1130" cy="340" r="7" fill="#666"/>
+  <text x="1118" y="322" font-family="Arial, sans-serif" font-size="14" text-anchor="end" fill="#555">Coorte B: mese 14 se l'estensione si verifica</text>
+
+  <text x="835" y="188" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#111">Coorte A</text>
+  <text x="745" y="456" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#555">Coorte B</text>
+
+  <text x="60" y="718" font-family="Arial, sans-serif" font-size="14" fill="#444">La linea tratteggiata della Coorte B oltre il mese 12 non è osservazione: è un'estensione illustrativa del caso sintetico.</text>
+</svg>
