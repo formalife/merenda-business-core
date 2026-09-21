@@ -15,7 +15,7 @@ ch25 = Path("manual-v2/golden/chapter-25/DRAFT.md").read_text(encoding="utf-8")
 ch1 = inject_after(
     ch1,
     "Se questa possibilità non viene compresa, i KPI diventano gabbie. Le persone imparano a migliorare il numero che viene premiato, non necessariamente il business.",
-    "> **ERRORE FREQUENTE — Premiare il KPI più visibile**\n>\n> Le dashboard rendono alcuni numeri molto più facili da vedere di altri. Questo crea una tentazione: trasformare il dato disponibile nel risultato da ottimizzare. Il costo per lead può scendere mentre aumenta il costo commerciale necessario a chiudere i clienti; il tasso di chiusura può salire perché si concedono condizioni peggiori; il fatturato può crescere mentre scendono contribuzione e cassa. Il KPI locale resta utile, ma deve essere collegato almeno a una conseguenza a valle che impedisca di spostare il costo su un'altra parte dell'impresa.",
+    "> **ERRORE FREQUENTE — Premiare il KPI più visibile**\n>\n> Le dashboard rendono alcuni numeri molto più facili da vedere di altri. Questo crea una tentazione: trasformare il dato disponibile nel risultato da ottimizzare. Il costo per lead può scendere mentre aumenta il costo commerciale necessario a chiudere i clienti; il tasso di chiusura può salire perché si concedono condizioni peggiori; il fatturato può crescere mentre scendono contribuzione e cassa. Il KPI locale resta utile, ma deve essere collegato almeno a una conseguenza a valle che impedisca di spostare il costo su un'altra parte dell'impresa.\n\n<div class=\"callout-break\"></div>",
     "ch1-kpi-error",
 )
 
@@ -126,6 +126,7 @@ blockquote.selfcheck { background: #ededed; padding-top: 5mm; padding-bottom: 5m
 blockquote.deepdive { background: #f8f8f8; border-top-style: dashed; border-bottom-style: dashed; }
 blockquote.example { border-left: 3px solid #333; border-top: 0; border-bottom: 0; background: #f4f4f4; }
 blockquote.callout > p:first-child strong { font-size: 9pt; letter-spacing: 0.02em; }
+.callout-break { height: 1px; margin: 1mm 0; }
 table { width: 100%; border-collapse: collapse; margin: 7mm 0 8mm; font-family: DejaVu Sans, Arial, sans-serif; font-size: 8.7pt; line-height: 1.32; break-inside: avoid; }
 th, td { border-bottom: 0.5px solid #aaa; padding: 2.4mm 2.2mm; vertical-align: top; }
 th { background: #efefef; font-weight: 700; }
