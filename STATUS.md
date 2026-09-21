@@ -2,51 +2,168 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. CURRENT KNOWN CORPUS EXHAUSTED; FINAL SEMANTIC AUDIT COMPLETED. MANUAL PUBLISHING PROJECT ACTIVE.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW VALIDATED; MANUAL PUBLISHING PROJECT ACTIVE.**
 
-Il progetto resta il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
+Il repository svolge due funzioni distinte:
 
-Nome canonico del progetto: **Merenda Business Core**.
+1. **Layer 1 canonico** — doctrine, routing, diagnosi e disciplina decisionale sotto `merenda/`;
+2. **publishing layer derivato** — progetto manuale sotto `manual/`, che non prevale mai sulla doctrine canonica.
 
-Nome repository previsto: `merenda-business-core`.
+La doctrine sotto `merenda/` e `merenda/DECISION_ROUTER.md` non è stata modificata dalla Architecture Review.
 
-La fase video generalista è chiusa per saturazione al contenuto 313. Il lock operativo resta attivo in `sources/queue/ACQUISITION_CLOSED.md` e continua a impedire l'acquisizione automatica dei residui 314–468.
+La fase YouTube generalista resta chiusa a 313 contenuti processati semanticamente. Il corpus source-agnostic corrente resta 166/166 studiato. I 155 residui YouTube sono intenzionali e non costituiscono backlog automatico.
 
-Il corpus source-agnostic attualmente disponibile è processato fino a `FM-SRC-0166`: 166 fonti registrate, 166 studiate, 0 pending.
+---
 
-Il checkpoint semantico di maturità è documentato in:
+## Priorità operative correnti
 
-`reviews/FINAL_SEMANTIC_AUDIT.md`
+### 1. Architecture Review Layer 1 — VALIDATED / ADOPTION
 
-Il Layer 1 resta disponibile per la ricostruzione zero-based di Formalife. La **priorità operativa corrente richiesta dal founder** è però il progetto editoriale sotto `manual/`, che trasforma la KB canonica in un manuale teorico-operativo beginner-first senza modificare il ruolo canonico di `merenda/`.
+La nuova architettura strategico-diagnostica candidata è:
 
-Contratto e protocollo Layer 1 / Layer 2:
+**`REASONING_KERNEL.md` → compact semantic routing → semantic entry selettive → sezione canonica minima → sufficiency check → structural/parent expansion → full-node fallback.**
 
-- `LAYER1_CONTRACT.md`
-- `FORMALIFE_REBUILD_PROTOCOL.md`
+Decision record:
 
-## Progetto manuale attivo
+`reviews/behavioral/HOLDOUT_V1_UNBLINDED_ARCHITECTURE_DECISION_2026-09-21.md`
+
+### 2. Manual publishing project — ACTIVE
 
 Publishing layer:
 
 `manual/`
 
-Control plane obbligatorio:
+Control plane editoriale:
 
 - `manual/README.md`
 - `manual/ROADMAP.md`
 - `manual/STATUS.md`
 - `manual/MANUAL_CONTRACT.md`
 
-Stato corrente:
+La priorità editoriale corrente richiesta dal founder resta il progetto manuale. Il suo avanzamento dettagliato è governato da `manual/STATUS.md`; il root `STATUS.md` non duplica più contatori editoriali che possono diventare rapidamente stale.
 
-**FASE 2 — SEMANTIC DECOMPOSITION E KB-TO-MANUAL CROSSWALK.**
+`manual/` è derivato: non diventa doctrine canonica e non modifica `merenda/` per esigenze puramente editoriali.
 
-La Fase 1 ha censito e classificato 60/60 file sotto `merenda/` e ha registrato i gap editoriali iniziali.
+---
 
-Il master crosswalk è stato inizializzato e `00_fondamenti` è completo al primo pass semantico: **3/60 file coperti, 1/11 sezioni, 60 unità semantiche FND-001…FND-060**.
+## Architecture Review — risultato finale
 
-Il publishing layer non è dottrina canonica. `merenda/` resta l'unica sede canonica della dottrina.
+### Behavioral baseline congelata
+
+| Configurazione | Required-check recall | Material inversions |
+|---|---:|---:|
+| `current` | 93/96 = 96.875% | 0 |
+| `current_plus_map` | 95/96 = 98.958% | 0 |
+
+File-level recall storico è stato declassato come metrica primaria perché penalizzava retrieval semanticamente corretto a livello sub-file.
+
+### Context baseline
+
+| Metrica media/caso | `current` | `current_plus_map` |
+|---|---:|---:|
+| reconstructed chars | 130,511 | 137,128 |
+| control-plane chars | 92,751 | 91,985 |
+| specialist doctrine | 27,136 | 20,589 |
+
+Finding: il bootstrap/control plane era il costo dominante.
+
+### Structural + semantic retrieval
+
+- Structural Index: 60 documenti, 912 sezioni, schema 1.1;
+- semantic registry runtime: 42 semantic units;
+- semantic Map/index = precision signal, non filtro esclusivo;
+- structural discovery = recall safety net;
+- file ≠ unità primaria di retrieval;
+- Router v2 non necessario;
+- embeddings/reranking/GraphRAG non giustificati dai failure osservati.
+
+### Prototype A3 development stabilization
+
+Smoke A3:
+
+- semantic verified recall: 0.9444;
+- focused precision: 0.8889;
+- answer-only: 18/19 required checks;
+- 0 material inversions;
+- mean reconstructed context: 110,373 chars/case;
+- specialist doctrine: 6,580 chars/case.
+
+Focused gate R020+R027:
+
+- retrieval recall 1.0000;
+- precision 0.9000;
+- answer-only 7/7;
+- 0 material inversions.
+
+I 30 development cases restano regression suite, non holdout indipendente.
+
+### Blind Architecture Holdout v1 — PASS
+
+Sei casi nuovi / 18 required checks, senza nuove semantic unit create per il holdout.
+
+Blind judgment congelato prima del mapping:
+
+| Variant | Required checks | Full-pass | Material inversions |
+|---|---:|---:|---:|
+| A | 18/18 | 6/6 | 0 |
+| B | 18/18 | 6/6 | 0 |
+
+Dopo unblinding:
+
+- A3 + five-file full bootstrap: **18/18**;
+- A3 + Compact Reasoning Kernel: **18/18**;
+- observed fidelity delta: **0**.
+
+Context economics paired holdout:
+
+- full architecture: **120,116 chars/case**;
+- compact-kernel architecture: **34,288 chars/case**;
+- delta: **−71.5%**.
+
+Fixed bootstrap validation senza Codex:
+
+- five full control-plane files: **89,192 chars**;
+- compact kernel: **11,324 chars**;
+- riduzione: **~87.3%**.
+
+---
+
+## Control plane corrente candidato
+
+Operational artifact:
+
+`REASONING_KERNEL.md`
+
+Regole:
+
+1. strategic/diagnostic startup: kernel compatto, non preload dei cinque full control-plane file;
+2. doctrine specialistica canonica prevale sempre quando più recente/precisa/contestuale;
+3. full control-plane documents restano governance/reference/fallback;
+4. progressive disclosure fino alla sezione minima sufficiente;
+5. non comprimere ulteriormente il kernel senza nuova paired evaluation con expected gain materiale;
+6. nuova CI `Validate Reasoning Kernel` impedisce drift semantico silenzioso rispetto al corpo v1 behaviorally validated.
+
+Entry point aggiornati:
+
+- `00_START_HERE.md`
+- `CHATGPT.md`
+
+---
+
+## Manual publishing layer
+
+Il progetto editoriale sotto `manual/` prosegue separatamente dall'Architecture Review.
+
+Regole di separazione:
+
+- `merenda/` resta l'unico doctrine layer canonico;
+- `manual/` organizza e insegna la doctrine, non la riscrive implicitamente;
+- gap editoriali non giustificano automaticamente nuova acquisizione o nuove regole canoniche;
+- crosswalk, curriculum, glossary, case inventory e provenance map restano publishing assets derivati.
+
+Per lo stato esatto e il prossimo passo del manuale, leggere sempre `manual/STATUS.md` live.
+
+---
 
 ## Contatori canonici — corpus YouTube storico
 
@@ -56,143 +173,48 @@ Il publishing layer non è dottrina canonica. `merenda/` resta l'unica sede cano
 - Video rimanenti: 155
 - Processati semanticamente: 313
 
-I 155 residui sono intenzionalmente non processati e non costituiscono backlog.
+I 155 residui sono intenzionali e non costituiscono backlog automatico.
 
-## Contatori canonici — layer source-agnostic
-
-Le quattro etichette seguenti mantengono il naming storico richiesto dal validator. I contatori includono l'intero layer source-agnostic autorizzato, quindi non implicano che ogni record sia direttamente attribuibile a Frank Merenda.
+## Contatori canonici — source-agnostic
 
 - Nuove fonti Merenda registrate: 166
 - Nuove fonti Merenda studiate: 166
 - Nuove fonti Merenda escluse: 0
 - Nuove fonti Merenda da processare: 0
 
-Questi contatori sono separati dal corpus YouTube storico.
+Trattamenti rilevanti:
 
-Il layer non contiene esclusivamente fonti direttamente attribuibili a Frank Merenda. `sources/merenda-sources/collections.json` distingue il trattamento della fonte.
+- `MERENDA_PRIMARY`
+- `ASSIMILATED_AS_MERENDA_BY_USER`
+- `DEFERRED_EXTERNAL_GENERAL_UPDATE`
 
-Categorie operative rilevanti:
+La provenance reale non viene mai falsificata.
 
-- `MERENDA_PRIMARY` — fonte direttamente attribuibile a Frank Merenda;
-- `ASSIMILATED_AS_MERENDA_BY_USER` — autore reale preservato, contenuto assimilato semanticamente per istruzione esplicita dell'utente;
-- `DEFERRED_EXTERNAL_GENERAL_UPDATE` — materiale non fuso automaticamente nella KB.
-
-Le collezioni Marketing Automation Facile / Moreno Bonechi e jAI Premium / Jay Abraham, Max Bernstein, Michael Simmons sono assimilate per istruzione utente. I relativi principi non devono essere falsamente attribuiti a Frank.
-
-## Source layer
-
-Registry canonico:
-
-`sources/merenda-sources/catalog.json`
-
-Convenzione per-source:
-
-`sources/merenda-sources/FM-SRC-0001/`
-
-Ogni fonte può conservare, quando appropriato:
-
-- originale o riferimento stabile;
-- contenuto normalizzato analizzabile;
-- review canonica;
-- metadata e limiti di provenienza.
-
-Non è obbligatorio archiviare integralmente materiale protetto quando basta un riferimento stabile più il contenuto necessario alla verifica.
+---
 
 ## Invarianti Layer 1
 
-- `merenda/` resta l'unico doctrine layer canonico del progetto;
-- `manual/` è publishing layer derivato e non prevale sulla dottrina canonica;
-- la KB è Merenda-centered ma può contenere estensioni assimilate **solo quando lo scope lo autorizza esplicitamente**;
-- la provenance reale non viene mai falsificata;
-- una fonte assimilata non viene attribuita a Frank soltanto perché è stata integrata nel doctrine layer;
-- le nuove fonti non vengono aggiunte automaticamente come nuovi nodi: `MERGE, NOT APPEND`;
-- il lock YouTube resta attivo;
-- `sources/catalog.json`, `VIDEO_INDEX.md` e queue storica non vengono riconvertiti;
-- i cinque file frozen restano invariati;
-- ricerca esterna generale non autorizzata non viene mescolata silenziosamente dentro `merenda/`;
-- Formalife non entra come dottrina nel Layer 1;
-- risultati o esperimenti Formalife non diventano automaticamente principi canonici;
-- il Layer 1 può invece interrogare e guidare il Layer 2.
+- `merenda/` resta doctrine canonica;
+- `manual/` resta publishing layer derivato;
+- Formalife resta Layer 2, non doctrine;
+- una fonte assimilata non viene attribuita a Frank;
+- `MERGE, NOT APPEND` resta la regola di consolidamento;
+- lock YouTube attivo;
+- file frozen invariati salvo autorizzazione esplicita;
+- risultati Formalife non diventano automaticamente principi generali.
 
-## Modalità Layer 2
+---
 
-Formalife verrà ricostruita secondo modalità **first meeting / zero-based reconstruction** quando il lavoro operativo sul Layer 2 riprende.
+## Next actions
 
-Principio:
+### Architecture
 
-**ripartire da zero nelle decisioni, non da zero nella conoscenza.**
+- merge della Architecture Review dopo riallineamento con `main`;
+- poi merge della PR Layer 2 che aggiorna `PROJECT_BOOTSTRAP.md` e `LAYER1_REF.md`;
+- infine aggiornare le ChatGPT Project Instructions con `formalife/formalife-company-os/PROJECT_INSTRUCTIONS_V2.md`.
 
-Gli elementi Formalife vengono classificati come:
+Non sono giustificati altri test Codex-heavy prima di una modifica architetturale materiale o di un nuovo failure reale.
 
-- FACT;
-- ASSET;
-- CONSTRAINT;
-- HYPOTHESIS;
-- LEGACY DECISION;
-- OBSERVATION;
-- OPEN QUESTION.
+### Manual
 
-Una decisione esistente non viene trattata automaticamente come vincolo.
-
-Il Layer 1 deve essere libero di mantenere, modificare o scartare prodotti, target, prezzi, canali, processi e offerte esistenti quando la diagnosi lo richiede.
-
-La ricostruzione segue il ciclo:
-
-**domanda → risposta → classificazione → verifica → diagnosi → decisione provvisoria → domanda successiva.**
-
-## Provenienza e review
-
-Ogni nuova fonte autorizzata deve avere provenance sufficiente, contenuto analizzabile, review, Weighted Novelty e routing finale.
-
-In caso di reale incompatibilità fra fonti direttamente attribuibili a Merenda, prevale l'insegnamento più recente dopo aver distinto contraddizione, evoluzione, restringimento, ampliamento e differenza di contesto.
-
-Per fonti assimilate di altri autori, la compatibilità semantica con la KB non cambia l'attribuzione originaria.
-
-## Validator
-
-Comando canonico:
-
-`python3 scripts/validate_project.py`
-
-Il validator certifica gli invarianti strutturali del corpus storico e del registry source-agnostic. **Non certifica da solo il merito semantico.** Il checkpoint finale in `reviews/FINAL_SEMANTIC_AUDIT.md` documenta la review semantica dell'attuale doctrine layer.
-
-## Gap di consolidamento ancora aperti
-
-I gap individuati dal checkpoint restano validi:
-
-1. **P1 — Vendita end-to-end**
-2. **P1 — Casi studio**
-3. **P1 — Doctrine/provenance map**
-4. **P2 — Sintesi brand**
-5. **P2 — Voice of Customer / ricerca mercato**
-6. **P2 — Hardening Git**
-
-Per il progetto manuale, i primi cinque sono ora esplicitamente tracciati in `manual/MANUAL_GAPS.md` e vengono affrontati prima come gap editoriali quando la conoscenza esiste già.
-
-Non riaprire acquisizione o modificare automaticamente `merenda/` soltanto per risolvere un problema di sintesi editoriale.
-
-## Next Action
-
-**Proseguire la Fase 2 del progetto manuale dalla sezione `01_mercato`.**
-
-Sequenza immediata:
-
-1. leggere i quattro nodi specialistici di `01_mercato` e il README di sezione;
-2. creare `manual/crosswalk/01_mercato.md` con ID semantici stabili;
-3. coprire identificabilità, domanda, capacità di acquisto, appropriatezza economica, high spender e gate pre-lancio;
-4. estrarre i segnali di Voice of Customer dispersi nella sezione;
-5. deduplicare localmente contro FND-025, FND-032 e FND-042 senza eliminare i caveat;
-6. aggiornare master crosswalk e `manual/STATUS.md`;
-7. proseguire poi con `02_posizionamento`.
-
-Dopo tutte le sezioni: eseguire cross-section deduplication, dependency pass e coverage audit prima di progettare il curriculum finale.
-
-La ricostruzione Formalife Layer 2 rimane disponibile come filone separato, ma non è la priorità del task corrente.
-
-Riaprire l'acquisizione Layer 1 soltanto se:
-
-- viene fornita una nuova fonte realmente disponibile;
-- l'utente autorizza esplicitamente una nuova assimilazione;
-- emerge un gap canonico concreto che richiede nuova provenance.
-
-Non acquisire automaticamente i video residui 314+.
+Proseguire secondo `manual/STATUS.md` e `manual/ROADMAP.md`, preservando la separazione doctrine/publishing.

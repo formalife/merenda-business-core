@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PARTNERSHIP.REVENUE_SHARE_ECONOMICS",
+    "must_read_with_add": [
+      {
+        "id": "PARTNERSHIP.STRUCTURAL_VS_TRANSACTIONAL",
+        "when": "la proposta è formulata come accesso all'audience o revenue share e non è ancora stato chiarito se l'accordo è solo transazionale oppure integra asset complementari in modo strutturale"
+      },
+      {
+        "id": "PARTNERSHIP.HOST_TRUST",
+        "when": "il partner presta audience, endorsement, reputazione o fiducia e il rischio reputazionale dell'host può cambiare la desiderabilità dell'accordo"
+      }
+    ],
+    "rationale": "Prototype A/A2 mostrano che la valutazione economica del revenue share può essere corretta pur saltando la classificazione del tipo di partnership o la verifica canonica della fiducia prestata dall'host. Le relazioni sono generalizzate e dottrinalmente supportate; non contengono riferimenti a case ID o gold."
+  },
+  {
+    "id": "PROOF.SPECIFIC_RESULT_EVIDENCE",
+    "must_read_with_add": [
+      {
+        "id": "POSITIONING.OPERATIONAL_DIFFERENCE",
+        "when": "recensioni, testimonianze o altra prova sociale vengono usate per concludere che i prerequisiti commerciali a monte siano già risolti e che si possa passare direttamente all'acquisizione, senza aver verificato separatamente una differenza operativa reale"
+      }
+    ],
+    "rationale": "Prototype A3 mostra che una diagnosi corretta di prova e autorità può ancora saltare il posizionamento quando recensioni positive vengono trattate come permesso per concentrarsi solo sull'acquisizione. La relazione è generalizzata e supportata dalla doctrine canonica: prova e autorità non sostituiscono differenziazione/posizionamento."
+  }
+]

@@ -2,137 +2,121 @@
 
 Questo repository è **Merenda Business Core**, il **Layer 1** del sistema operativo aziendale.
 
-Serve a mantenere una Knowledge Base viva, gerarchica e decisionale **centrata sulla dottrina di Frank Merenda**, con le sole estensioni assimilate esplicitamente autorizzate e con provenance reale preservata.
+Contiene doctrine canonica, routing e disciplina decisionale. Formalife vive nel Layer 2 e non deve contaminare automaticamente la dottrina.
 
-La fase storica basata sul canale YouTube ufficiale è chiusa per saturazione al contenuto 313. Il corpus source-agnostic attualmente disponibile è stato processato fino a `FM-SRC-0166` e il checkpoint semantico finale del corpus corrente è documentato in `reviews/FINAL_SEMANTIC_AUDIT.md`.
+## Stato operativo
 
-## Layer 1 vs Layer 2
+- corpus YouTube storico: 468 individuati, 313 processati semanticamente, 155 residui intenzionali;
+- source-agnostic: 166 fonti registrate e 166 studiate;
+- Architecture Review: hierarchical retrieval + Compact Reasoning Kernel validati su blind holdout;
+- control plane operativo candidato: `REASONING_KERNEL.md`;
+- doctrine canonica: `merenda/`;
+- stato corrente: `STATUS.md`.
 
-- **Layer 1 — Merenda Business Core:** dottrina, routing, diagnosi e principi decisionali.
-- **Layer 2 — Formalife:** realtà aziendale, ricostruzione strategica, decisioni, ipotesi, esperimenti, metriche e risultati.
+Se esiste `sources/queue/ACQUISITION_CLOSED.md`, non riaprire automaticamente la vecchia acquisizione YouTube.
 
-Formalife non deve contaminare la dottrina del Layer 1.
+## Startup per task strategici o diagnostici
 
-Il Layer 1 deve invece poter interrogare Formalife e guidarne una ricostruzione **zero-based**: ciò che esiste oggi viene trattato come fatto, asset, vincolo, ipotesi o legacy decision, non come struttura da preservare automaticamente.
+**Non precaricare più i cinque full control-plane documents.**
 
-Per la relazione fra i layer leggere:
+Usa progressive disclosure:
 
-- `LAYER1_CONTRACT.md`
-- `FORMALIFE_REBUILD_PROTOCOL.md`
+1. `STATUS.md` per stato e decisioni architetturali correnti;
+2. `REASONING_KERNEL.md` come bootstrap decisionale compatto;
+3. compact semantic index / routing metadata quando disponibili;
+4. sezione canonica specialistica minima pertinente;
+5. structural search / parent-child expansion se serve recall;
+6. full specialist node solo quando la sezione non basta;
+7. full control-plane documents soltanto come fallback, audit o verifica di governance.
 
-## Stato operativo corrente
+La doctrine specialistica prevale sempre sul kernel quando è più recente, precisa o contestuale.
 
-Il corpus YouTube storico resta congelato nei suoi invarianti:
+Il kernel non sostituisce la KB: evita di caricare in anticipo governance e sintesi ridondanti.
 
-- 468 video catalogati;
-- 313 processati semanticamente;
-- 307 STUDIATO;
-- 6 ESCLUSO;
-- 155 residui intenzionali.
+## Startup per Formalife / Layer 2
 
-Se esiste `sources/queue/ACQUISITION_CLOSED.md`, non avviare la vecchia acquisizione generalista, non eseguire `ingest_video.py` e non prendere il primo pendente della queue. Il lock riguarda il corpus YouTube storico.
+Per un task Formalife sostanziale:
 
-Il layer source-agnostic vive in `sources/merenda-sources/`. Non va interpretato come se ogni record fosse necessariamente una fonte direttamente attribuibile a Frank Merenda.
+1. leggere live `formalife/formalife-company-os/PROJECT_BOOTSTRAP.md`;
+2. leggere `formalife/formalife-company-os/LAYER1_REF.md`;
+3. leggere i file Layer 2 pertinenti;
+4. usare `REASONING_KERNEL.md` come bootstrap Layer 1;
+5. recuperare solo i nodi specialistici Layer 1 necessari alla decisione.
 
-Il campo `treatment` delle collezioni distingue:
+Principio: **ripartire da zero nelle decisioni, non da zero nella conoscenza.**
+
+I full file `LAYER1_CONTRACT.md`, `FORMALIFE_REBUILD_PROTOCOL.md`, `MERENDA_MODE.md`, `merenda/DECISION_ROUTER.md` e `merenda/00_fondamenti/sistema-operativo-merenda.md` restano riferimenti canonici e fallback, non preload operativo predefinito.
+
+## Startup per governance, corpus e nuove fonti
+
+Quando il task riguarda acquisizione, provenance, consolidamento della KB o governance del repository, il percorso è diverso. Leggere solo ciò che è pertinente fra:
+
+- `MASTER_PLAN.md`;
+- `system/RULES.md`;
+- `system/FROZEN_FILES.md`;
+- `STATUS.md`;
+- `reviews/FINAL_SEMANTIC_AUDIT.md`;
+- `sources/merenda-sources/README.md`;
+- full control-plane documents se il task li coinvolge direttamente.
+
+I file frozen non devono essere modificati senza autorizzazione esplicita.
+
+## Provenance
+
+Il layer source-agnostic distingue almeno:
 
 - `MERENDA_PRIMARY` — materiale direttamente attribuibile a Frank Merenda;
-- `ASSIMILATED_AS_MERENDA_BY_USER` — materiale di altro autore assimilato semanticamente per istruzione esplicita dell'utente, preservando sempre l'autore reale;
-- `DEFERRED_EXTERNAL_GENERAL_UPDATE` — materiale esterno non inserito automaticamente nel doctrine layer.
+- `ASSIMILATED_AS_MERENDA_BY_USER` — materiale di altro autore assimilato per istruzione esplicita, mantenendo l'autore reale;
+- `DEFERRED_EXTERNAL_GENERAL_UPDATE` — materiale esterno non promosso automaticamente nel doctrine layer.
 
-Marketing Automation Facile / Moreno Bonechi e jAI Premium / Jay Abraham, Max Bernstein, Michael Simmons sono collezioni assimilate già presenti nel corpus corrente. I loro contributi non devono essere falsamente attribuiti a Frank.
+Una fonte assimilata può contribuire alla KB quando l'assimilazione è esplicitamente autorizzata, ma non va mai falsamente attribuita a Frank.
 
-Gli asset tecnici, quando conservati, vivono sotto `sources/merenda-sources/<SOURCE_ID>/`; la conoscenza consolidata continua invece a vivere in `merenda/`.
+Formalife evidence resta Layer 2 salvo separata revisione dottrinale.
 
-## Prima di fare qualsiasi lavoro
+## Regole decisionali operative
 
-Leggi, nell'ordine:
+Per problemi reali non aprire il file che sembra più vicino al sintomo e non partire dalla tattica richiesta.
 
-1. `MASTER_PLAN.md`
-2. `system/RULES.md`
-3. `STATUS.md`
-4. `LAYER1_CONTRACT.md`
-5. `reviews/FINAL_SEMANTIC_AUDIT.md`
-6. `merenda/DECISION_ROUTER.md` quando il task richiede diagnosi, strategia, priorità o una decisione operativa
-7. `merenda/00_fondamenti/sistema-operativo-merenda.md` quando serve comprendere le dipendenze complessive della dottrina
-8. `FORMALIFE_REBUILD_PROTOCOL.md` quando il task riguarda il Layer 2 o la ricostruzione di Formalife
-9. `sources/merenda-sources/README.md` quando il task riguarda provenance o una nuova fonte
+Il pattern è:
 
-`STATUS.md` è la fonte operativa corrente. I documenti frozen restano governance storica e non vanno modificati senza autorizzazione esplicita.
+**outcome economico → localizzazione del sintomo → almeno un livello a monte → primo collo di bottiglia → doctrine specialistica minima → evidenza/test → metrica → next decision.**
 
-## Come usare il Layer 1 per problemi reali
+Domanda guida:
 
-Per richieste come:
+**Cosa deve essere vero prima che questa tattica abbia senso?**
 
-- “non arrivano clienti”;
-- “le lead non convertono”;
-- “chiedono solo il prezzo”;
-- “la vendita non chiude”;
-- “i clienti non tornano”;
-- “il fatturato cresce ma manca cassa”;
-- “l’operatività non regge la crescita”;
+Classificare correttamente:
 
-non aprire direttamente il file che sembra più vicino al sintomo.
+- FACT;
+- ASSET;
+- CONSTRAINT;
+- HYPOTHESIS;
+- LEGACY DECISION;
+- OBSERVATION;
+- OPEN QUESTION.
 
-Usare il [Decision Router](merenda/DECISION_ROUTER.md) per:
-
-1. definire l’outcome mancante;
-2. localizzare il livello in cui il problema appare;
-3. controllare almeno un livello a monte;
-4. distinguere causa da amplificatore;
-5. individuare il primo collo di bottiglia;
-6. aprire i nodi canonici nell’ordine corretto;
-7. formulare un test e una metrica prima di scalare.
-
-Il [Sistema operativo Merenda](merenda/00_fondamenti/sistema-operativo-merenda.md) descrive invece l’architettura end-to-end del sistema. I due layer sono complementari: **architettura causale + routing diagnostico**.
-
-## Come usare il Layer 1 per ricostruire Formalife
-
-Quando il task è la costruzione del Layer 2, non partire dal catalogo Formalife chiedendo come venderlo meglio.
-
-Usare la modalità **first meeting / zero-based reconstruction** definita in `FORMALIFE_REBUILD_PROTOCOL.md`.
-
-Principio:
-
-**ripartire da zero nelle decisioni, non da zero nella conoscenza.**
-
-Gli asset e i dati esistenti possono essere conservati. Le decisioni esistenti devono invece essere rivalutate.
-
-La conversazione deve procedere per blocchi decisionali:
-
-**domanda → risposta → classificazione → verifica → diagnosi → decisione provvisoria → domanda successiva.**
-
-Il Layer 1 non deve produrre un piano gigantesco sulla base di poche informazioni e non deve trasformare automaticamente una preferenza del founder in un fatto di mercato.
+Non convertire silenziosamente hypothesis in fact o legacy decision in constraint.
 
 ## Ruoli
 
-### Codex / strumenti locali
-
-- Gestisce acquisizione tecnica, normalizzazione, trascrizione, estrazione selettiva di visuali e verifiche meccaniche.
-- Non riapre i 155 video residui salvo autorizzazione esplicita su un gap nominabile.
-- Per nuove fonti usa il formato tecnico più semplice adatto alla fonte.
-- Non esegue il merge semantico nella KB salvo istruzione esplicita.
-
 ### ChatGPT
 
-- È il processore semantico principale.
-- Per richieste operative usa il Decision Router prima di proporre tattiche.
-- Nella ricostruzione Formalife conduce l'intervista zero-based secondo `FORMALIFE_REBUILD_PROTOCOL.md`.
-- Verifica provenienza, autore reale e trattamento della fonte.
-- Distingue principi, esempi, tattiche, numeri e linguaggio provocatorio.
-- Applica `MERGE, NOT APPEND` quando aggiorna la dottrina.
-- Risolve eventuali conflitti temporali privilegiando l'insegnamento Merenda più recente quando esiste una vera incompatibilità tra fonti Merenda.
-- Non attribuisce a Frank un principio proveniente da una fonte assimilata di altro autore.
-- Non trasferisce automaticamente risultati Formalife nel doctrine layer.
+- processore semantico e adviser strategico;
+- usa il kernel per bootstrap e recupera doctrine specialistica progressivamente;
+- preserva provenance e temporal precedence;
+- aggiorna la KB con `MERGE, NOT APPEND` quando esplicitamente autorizzato;
+- non trasferisce automaticamente risultati Formalife nel Layer 1.
 
-### Claude Code
+### Codex / strumenti locali
 
-Resta disponibile per revisioni strutturali e checkpoint quando richiesto esplicitamente. Non esiste più una cadenza automatica legata al numero di video.
+- acquisizione tecnica, normalizzazione, transcript, visuali selettive, validation e harness;
+- non riapre i 155 residui YouTube senza autorizzazione;
+- non esegue merge semantico salvo istruzione esplicita.
 
-## Regola fondamentale
+## Criterio finale
 
-I file elencati in `system/FROZEN_FILES.md` non devono essere modificati senza autorizzazione esplicita dell'utente.
+Il progetto non ottimizza per quantità di documenti letti né completezza numerica del corpus.
 
-Il progetto non ottimizza più per completezza numerica del corpus. Ottimizza per conoscenza utile, minima ridondanza, tracciabilità, corretta prevalenza temporale, provenance reale, routing decisionale e semplicità strutturale.
+Ottimizza per:
 
-Nuova acquisizione va riaperta soltanto quando esiste una nuova fonte realmente disponibile, un'assimilazione esplicitamente autorizzata o un gap canonico concreto e nominabile.
+**decision fidelity + doctrine pertinente + provenance + context efficiency + verificabilità.**

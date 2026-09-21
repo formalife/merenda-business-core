@@ -1,0 +1,53 @@
+[
+  {
+    "id":"ZERO_BASED.REBUILD_PROTOCOL",
+    "label":"Ricostruire le decisioni da zero senza buttare via conoscenza e asset",
+    "status":"current",
+    "canonical":{"path":"FORMALIFE_REBUILD_PROTOCOL.md","anchor":null},
+    "kind":"process",
+    "canonical_for":["zero_based_rebuild","legacy_decision_review","formalife_reconstruction"],
+    "use_when":["una scelta storica viene trattata come obbligo futuro","si ricostruisce Formalife partendo dagli asset esistenti","il founder vuole ottimizzare ciò che esiste senza rivalutarlo"],
+    "not_sufficient_for":["ignorare fatti, vincoli o asset esistenti","decidere mercato/offerta senza evidenza"],
+    "upstream":[],
+    "must_read_with":[{"id":"ZERO_BASED.LEGACY_IS_NOT_CONSTRAINT","when":"una specifica scelta storica viene confusa con un vincolo"}],
+    "evidence_required":["fatti correnti","asset","vincoli reali","ipotesi","legacy decisions"],
+    "provenance":{"class":"SYNTHESIS","notes":"Protocollo di governo Layer 1 → Layer 2; non è una citazione diretta attribuibile a Frank."},
+    "supersession":{"supersedes":[],"superseded_by":[]},
+    "related":[],
+    "eval_cases":["R013"]
+  },
+  {
+    "id":"DISTRIBUTION.PARTNER_EXECUTION",
+    "label":"Distribuzione tramite partner richiede progettazione della relazione e del supporto commerciale",
+    "status":"current",
+    "canonical":{"path":"merenda/05_acquisizione/partnership-distribuzione-e-combinazioni.md","anchor":null},
+    "kind":"process",
+    "canonical_for":["distribution_partner_execution","partnership_distribution"],
+    "use_when":["il prodotto passa attraverso rivenditori, distributori o partner","si presume che il partner farà da solo tutto il marketing e la vendita a valle"],
+    "not_sufficient_for":["dimostrare domanda finale","dimostrare che il partner sia economicamente desiderabile"],
+    "upstream":["DISTRIBUTION.SELL_IN_SELL_THROUGH"],
+    "must_read_with":[{"id":"PARTNERSHIP.PARTNER_WIN","when":"la relazione richiede una proposta di valore esplicita per il partner"}],
+    "evidence_required":["ruolo del partner","incentivi/economia del partner","materiali e supporto commerciale","responsabilità sulla domanda finale","riordino o risultato atteso"],
+    "provenance":{"class":"SYNTHESIS","notes":"Il nodo contiene materiale Merenda primary e fonti assimilate; preservare la provenance della specifica sotto-regola usata."},
+    "supersession":{"supersedes":[],"superseded_by":[]},
+    "related":[],
+    "eval_cases":["R016"]
+  },
+  {
+    "id":"DIRECT_RESPONSE.MEASURABLE_NEXT_ACTION",
+    "label":"Ogni comunicazione deve sapere quale avanzamento osservabile vuole ottenere",
+    "status":"current",
+    "canonical":{"path":"merenda/07_copy_comunicazione/checklist-risposta-diretta.md","anchor":null},
+    "kind":"decision_rule",
+    "canonical_for":["direct_response","measurable_next_action","anti_vanity_metric"],
+    "use_when":["follower, view o engagement vengono trattati come obiettivi finali","una comunicazione non ha una CTA o transizione osservabile","si valuta una campagna senza collegarla a un avanzamento economico"],
+    "not_sufficient_for":["dimostrare che una CTA sia quella giusta senza target/offerta","sostituire economics e qualità del cliente"],
+    "upstream":["POSITIONING.OPERATIONAL_DIFFERENCE"],
+    "must_read_with":[],
+    "evidence_required":["stato iniziale del prospect","prossimo passo desiderato","metrica osservabile","collegamento del passo a conversione/economia"],
+    "provenance":{"class":"MERENDA_PRIMARY","notes":null},
+    "supersession":{"supersedes":[],"superseded_by":[]},
+    "related":["COPY.TRIGGER_PRIORITY"],
+    "eval_cases":["R023"]
+  }
+]
