@@ -1,591 +1,422 @@
-# Manual V2 — Provisional TOC
+# Manual V2 — Table of Contents Architecture
 
-Status: Phase 2 architecture candidate.  
-This is **not yet final** and must survive chapter-argument, learning-outcome and golden-chapter validation.
+Status: **CURRENT CANDIDATE — post founder-review redesign**  
+Date: 2026-09-21
 
----
+This TOC replaces the first 31-chapter learning-problem architecture as the current reader-facing candidate.
 
-# Part I — Learn to see the business as a system
+Design rule:
 
-## Chapter 1 — The business is a system, not a collection of tactics
+**Part = major domain → Chapter = broad subject → Section = major component of that subject.**
 
-**Central question:** why do apparently reasonable tactics so often fail to fix the real problem?
+Chapter titles are intentionally short and topical. Questions, theses and teaching angles belong in introductions and section prose, not in the chapter title.
 
-**Argument:** marketing, sales, delivery, economics and capacity form one causal system; local optimization can worsen the whole.
-
-**Learner should be able to:**
-
-- distinguish tactic, symptom, cause, amplifier and prerequisite;
-- explain why promotion amplifies the system it receives;
-- map a simple business from market to cash/capacity;
-- identify when a requested tactic is upstream-incomplete.
-
-**Core visual candidate:** Commercial System Map.
+The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open to later merge/split evidence.
 
 ---
 
-## Chapter 2 — The minimum economics needed to think clearly
+# Parte I — Fondamenti del sistema
 
-**Central question:** what numbers must be understood before making marketing or growth decisions?
+## Capitolo 1 — Il sistema di marketing
 
-**Argument:** revenue alone cannot tell whether a customer or channel creates value; margin, CAC, payback, cash, service cost, break-even and capacity are decision prerequisites.
+### 1.1 Marketing e promozione
+### 1.2 L'impresa come sistema commerciale
+### 1.3 Risultati locali e risultato complessivo
+### 1.4 Cause, sintomi e amplificatori
+### 1.5 Strategia, strumenti e responsabilità
 
-**Learner should be able to:**
-
-- distinguish revenue, contribution margin and cash;
-- calculate simple CAC, payback and break-even;
-- compare two customers with equal revenue but different economics;
-- explain why profitable growth can still consume cash or capacity.
-
-**Core visual candidate:** Customer economics timeline + contribution waterfall.
+**Scope:** introduce the general model of the business as an interconnected commercial/economic system and establishes why tactics must be judged by their whole-system consequences.
 
 ---
 
-## Chapter 3 — Evidence, diagnosis and experiments
+## Capitolo 2 — Economia di base
 
-**Central question:** how do we avoid turning a plausible story into a strategy?
+### 2.1 Ricavi, costi e margine di contribuzione
+### 2.2 Costo di acquisizione cliente
+### 2.3 Tempo di recupero dell'acquisizione
+### 2.4 Punto di pareggio
+### 2.5 Cassa e capacità come vincoli
 
-**Argument:** good decisions separate observation from interpretation, locate the earliest plausible cause and use tests designed to learn, not merely to produce activity.
-
-**Learner should be able to:**
-
-- classify fact, observation, hypothesis and legacy assumption;
-- build a causal hypothesis with at least one alternative explanation;
-- design a test with metric, evidence window and stop/continue rule;
-- explain why simultaneous uncontrolled changes destroy learning.
-
-**Core visual candidate:** Diagnosis ladder: outcome → symptom → upstream cause → test.
+**Scope:** gives the minimum economic vocabulary needed to understand later decisions without prematurely entering advanced cohort/cash analysis.
 
 ---
 
-# Part II — Choose the market and understand the decision
+## Capitolo 3 — Diagnosi e test
 
-## Chapter 4 — The market gate
+### 3.1 Dal risultato economico al problema osservabile
+### 3.2 Fatti, osservazioni e ipotesi
+### 3.3 Il primo collo di bottiglia rilevante
+### 3.4 Progettare un test
+### 3.5 Evidenza, decisione e revisione
 
-**Central question:** is this market worth building a commercial machine for?
-
-**Argument:** demand, reachability, purchasing capacity, direction and addressable economics must be plausible before tactics deserve investment.
-
-**Learner should be able to:**
-
-- distinguish theoretical market size from economically reachable market;
-- identify evidence of real demand and existing alternatives;
-- test whether geography/market size can support required sales volume;
-- decide which uncertainty must be reduced before launch.
-
-**Visual candidate:** Market Gate scorecard/decision tree.
+**Scope:** establishes the general decision method used throughout the manual.
 
 ---
 
-## Chapter 5 — The desirable customer is not everyone who buys
+# Parte II — Mercato e cliente
 
-**Central question:** which customers should the business deliberately want more of?
+## Capitolo 4 — Il mercato
 
-**Argument:** customer quality is a joint function of fit, economics, service burden, probability of success and relationship behavior.
-
-**Learner should be able to:**
-
-- compare segments by margin, cost-to-serve, frequency, LTV and friction;
-- distinguish ability to pay from willingness to pay;
-- identify customers that produce revenue but destroy value;
-- define provisional acceptance/refusal criteria.
-
-**Visual candidate:** Customer economics matrix.
+### 4.1 Domanda reale
+### 4.2 Raggiungibilità del mercato
+### 4.3 Capacità e disponibilità di spesa
+### 4.4 Dimensione, geografia e densità
+### 4.5 Alternative e dinamica del mercato
 
 ---
 
-## Chapter 6 — Research and Voice of Customer
+## Capitolo 5 — Il cliente
 
-**Central question:** how do we learn what customers actually think, do, buy and reject?
-
-**Argument:** reliable market understanding comes from triangulating behavior, transactions, conversations, alternatives, complaints, search/intent and reasons for choice or loss.
-
-**Learner should be able to:**
-
-- design a research plan from a decision question;
-- distinguish stated preference from observed behavior;
-- collect useful language without treating quotes as universal truth;
-- triangulate sources before promoting an observation to evidence.
-
-**Visual candidate:** Evidence ladder and research-source map.
+### 5.1 Appropriatezza del cliente
+### 5.2 Qualità economica del cliente
+### 5.3 Capacità di spesa e disponibilità a pagare
+### 5.4 Costo di servizio e frizione
+### 5.5 Criteri di accettazione e rifiuto
 
 ---
 
-## Chapter 7 — The anatomy of a buying decision
+## Capitolo 6 — Ricerca di mercato
 
-**Central question:** what has to change for a customer to act?
-
-**Argument:** buying decisions emerge from problem/desire, consequences, alternatives, status quo, triggers, timing and decision roles—not from demographics alone.
-
-**Learner should be able to:**
-
-- map direct and indirect alternatives;
-- identify trigger and timing conditions;
-- distinguish payer, user, influencer and decision maker when relevant;
-- describe the customer's current decision logic before designing positioning.
-
-**Visual candidate:** Decision Journey / Trigger map.
+### 6.1 Dalla decisione alla domanda di ricerca
+### 6.2 Comportamenti, transazioni e dati
+### 6.3 Interviste e conversazioni
+### 6.4 Alternative, reclami e ragioni di scelta
+### 6.5 Sintesi delle evidenze
 
 ---
 
-# Part III — Build a reason to choose and an offer worth buying
+## Capitolo 7 — La decisione d'acquisto
 
-## Chapter 8 — Differentiation and positioning
-
-**Central question:** why should the right customer choose this business rather than the most credible alternative?
-
-**Argument:** positioning begins with an operationally real, relevant difference; communication can expose a difference but cannot create one from nothing.
-
-**Learner should be able to:**
-
-- distinguish claim from real differentiation;
-- derive design opportunities from recurring market friction;
-- explain the mechanism connecting difference to customer result;
-- test perceived reason for choice.
-
-**Visual candidate:** Evidence → redesign → difference → proof → position chain.
+### 7.1 Problema, desiderio e risultato atteso
+### 7.2 Alternative e status quo
+### 7.3 Criteri e conseguenze
+### 7.4 Trigger e timing
+### 7.5 Utente, pagatore, influenzatore e decisore
 
 ---
 
-## Chapter 9 — Focus, category and brand architecture
+# Parte III — Posizionamento, offerta e prezzo
 
-**Central question:** what should the market remember us for, and how much meaning can one brand carry?
+## Capitolo 8 — Posizionamento
 
-**Argument:** focus reduces the number of meanings the market must remember; category and brand architecture determine comparison sets and whether expansion dilutes or clarifies the position.
-
-**Learner should be able to:**
-
-- distinguish business breadth from market focus;
-- explain when a flagship offer can carry the position;
-- evaluate line extension versus separate brand;
-- identify when a new category requires a new positioning pass.
-
-**Visual candidate:** Category/meaning map + brand architecture options.
+### 8.1 Il significato del posizionamento
+### 8.2 Differenziazione rilevante
+### 8.3 Dalla frizione di mercato alla differenza reale
+### 8.4 Rendere percepibile la differenza
+### 8.5 Verificare il posizionamento percepito
 
 ---
 
-## Chapter 10 — Offer architecture and the transaction ladder
+## Capitolo 9 — Focalizzazione e categoria
 
-**Central question:** what exactly is the customer saying yes to, and how should the relationship begin and develop?
-
-**Argument:** a strong offer combines outcome, components, risk, conditions and ease of acceptance; entry architecture should reduce the total barrier, not automatically the price.
-
-**Learner should be able to:**
-
-- specify an offer without ambiguity;
-- design risk reduction around a real customer risk;
-- distinguish front-end from discounting;
-- design first and subsequent transactions as one economic system.
-
-**Visual candidate:** Offer stack + transaction ladder.
+### 9.1 Focalizzazione
+### 9.2 Prodotto guida e significato centrale
+### 9.3 Categoria e criterio di confronto
+### 9.4 Estensioni di linea
+### 9.5 Architettura di marca
 
 ---
 
-## Chapter 11 — Pricing, value and risk
+## Capitolo 10 — Offerta
 
-**Central question:** how can price be chosen and defended without ideology?
-
-**Argument:** price must be interpreted through value, comparability, proof, target economics, conversion, margin, capacity and cash; premium and discount are conditional tools, not identities.
-
-**Learner should be able to:**
-
-- compare price scenarios using contribution and conversion;
-- distinguish payment terms from price reduction;
-- identify when price objections are really positioning/proof problems;
-- design a pricing test and interpret its full-system effect.
-
-**Visual candidate:** Price/conversion/contribution scenarios.
+### 10.1 Struttura dell'offerta
+### 10.2 Valore, risultato e componenti
+### 10.3 Riduzione del rischio
+### 10.4 Offerta d'ingresso
+### 10.5 Sequenza delle transazioni
+### 10.6 Upsell e cross-sell
 
 ---
 
-# Part IV — Build trust and move demand
+## Capitolo 11 — Prezzo
 
-## Chapter 12 — Authority, credibility, trust and proof
-
-**Central question:** why should the customer believe a promise before experiencing it?
-
-**Argument:** authority earns attention, credibility makes claims plausible, trust allows risk-taking, and proof should answer specific doubts where they arise.
-
-**Learner should be able to:**
-
-- distinguish authority, credibility, trust and proof;
-- build a claim→proof matrix;
-- evaluate testimony by relevance and specificity;
-- design a proof library around actual buyer uncertainty.
-
-**Visual candidate:** Claim–doubt–proof matrix.
+### 11.1 La funzione del prezzo
+### 11.2 Valore e comparabilità
+### 11.3 Prezzo premium
+### 11.4 Condizioni di pagamento
+### 11.5 Sconti e promozioni
+### 11.6 Testare il prezzo
 
 ---
 
-## Chapter 13 — Demand states and channel strategy
+# Parte IV — Domanda e acquisizione
 
-**Central question:** how close is the market to acting, and which channel deserves the next euro or hour?
+## Capitolo 12 — Fiducia e prova
 
-**Argument:** owned, active and latent demand require different amounts of education and different channel economics; media choice comes after state, intent, timing and economics.
-
-**Learner should be able to:**
-
-- classify demand as owned, active or latent;
-- distinguish awareness from intent;
-- choose channel function rather than channel fashion;
-- explain why the cheapest contact can still be the most expensive customer acquisition.
-
-**Visual candidate:** Demand-state/channel matrix.
+### 12.1 Autorità, credibilità e fiducia
+### 12.2 Tipi di prova
+### 12.3 Testimonianze e casi
+### 12.4 Prova nel punto di dubbio
+### 12.5 Costruire una libreria di prove
 
 ---
 
-## Chapter 14 — The customer-state acquisition system
+## Capitolo 13 — Domanda e consapevolezza
 
-**Central question:** how do we move different people forward without forcing everyone through the same funnel?
-
-**Argument:** acquisition is a state machine: memory, signals, routing, pre-education, fallbacks and handoff coordinate the next best step.
-
-**Learner should be able to:**
-
-- define useful relationship states;
-- specify minimum data and state updates;
-- design routing/fallback logic;
-- decide when automation prepares and when a person must interpret;
-- design the marketing→sales handoff and prequalification boundary.
-
-**Visual candidate:** Customer-state machine.
+### 13.1 Domanda posseduta, attiva e latente
+### 13.2 Livelli di consapevolezza
+### 13.3 Intento e interesse
+### 13.4 Timing della domanda
+### 13.5 Educazione e directness
 
 ---
 
-## Chapter 15 — Partnerships, distribution and borrowed access
+## Capitolo 14 — Canali di acquisizione
 
-**Central question:** when should the business build access itself and when should it combine assets with others?
-
-**Argument:** partnerships can transfer attention, distribution or trust, but borrowed access is not owned positioning and requires aligned economics and risk.
-
-**Learner should be able to:**
-
-- distinguish referral, endorsement, transactional partnership and structural integration;
-- articulate the partner's economic win;
-- evaluate who owns the customer/relationship/data;
-- define what remains after the partnership ends.
-
-**Visual candidate:** Partnership value/risk map.
+### 14.1 Il ruolo del canale
+### 14.2 Online e offline
+### 14.3 Organico, pagamento e contatto diretto
+### 14.4 Economia del canale
+### 14.5 Multicanalità e coordinamento
 
 ---
 
-# Part V — Turn strategy into persuasion and sales
+## Capitolo 15 — Funnel e database
 
-## Chapter 16 — From market evidence to persuasive argument
-
-**Central question:** what must exist before good copy can be written?
-
-**Argument:** persuasive communication starts with customer evidence, position, mechanism, proof, offer and buyer state; words cannot repair missing strategic material.
-
-**Learner should be able to:**
-
-- create a pre-writing brief from research and strategy;
-- map the reader's likely questions and doubts;
-- maintain continuity between source, promise and destination;
-- identify when a writing problem is actually upstream.
-
-**Visual candidate:** Argument input map.
+### 15.1 Stati della relazione
+### 15.2 Funnel lineari e percorsi adattivi
+### 15.3 Database e memoria commerciale
+### 15.4 Segnali, routing e fallback
+### 15.5 Automazione e intelligenza artificiale
+### 15.6 Prequalifica e passaggio alla vendita
 
 ---
 
-## Chapter 17 — Direct-response writing and testing
+## Capitolo 16 — Partnership e distribuzione
 
-**Central question:** how do we structure an argument that earns an observable next step?
-
-**Argument:** effective direct-response copy guides a sequence of necessary beliefs using explanation, reason-why, proof, objection handling, price context and a clear next action.
-
-**Learner should be able to:**
-
-- build a belief sequence;
-- write claim→mechanism→proof→implication units;
-- choose length based on persuasion work rather than fashion;
-- design and test CTA, opening and proof placement;
-- edit for clarity, credibility and continuity.
-
-**Visual candidate:** Belief progression map + annotated copy spread.
+### 16.1 Accesso diretto e accesso preso in prestito
+### 16.2 Referral, endorsement e partnership
+### 16.3 Economia del partner
+### 16.4 Sell-in e sell-through
+### 16.5 Integrazioni strutturali e rischio
 
 ---
 
-## Chapter 18 — Consultative selling: diagnosis before prescription
+# Parte V — Comunicazione e vendita
 
-**Central question:** how should a live sales conversation help the right customer decide?
+## Capitolo 17 — Argomentazione commerciale
 
-**Argument:** consultative selling is a structured diagnosis followed by a fit-based prescription, proof and proposal; pressure cannot substitute for missing certainty or fit.
-
-**Learner should be able to:**
-
-- conduct a structured diagnosis;
-- deepen criteria and consequences without leading the prospect artificially;
-- map stakeholders/decision process;
-- prescribe only after fit is established;
-- interpret objections as missing information/certainty rather than automatic resistance.
-
-**Visual candidate:** Sales diagnosis flow.
+### 17.1 Dalla ricerca all'argomento
+### 17.2 Problema, conseguenze e risultato
+### 17.3 Meccanismo e ragione per credere
+### 17.4 Prova e obiezioni
+### 17.5 Continuità tra fonte, messaggio e destinazione
 
 ---
 
-## Chapter 19 — Follow-up, pipeline and sales management
+## Capitolo 18 — Copywriting
 
-**Central question:** what should happen after no, silence, delay or inconsistent seller performance?
-
-**Argument:** non-conversion has states and reasons; disciplined follow-up, pipeline memory, scripts, practice and management turn selling into a learnable system.
-
-**Learner should be able to:**
-
-- classify non-response and lost reasons;
-- assign dated next steps;
-- read pipeline age/state/quality;
-- use scripts as branching diagnostic structures rather than monologues;
-- review salesperson performance using quality/economic outcomes, not close rate alone.
-
-**Visual candidate:** Pipeline state/age map.
+### 18.1 Apertura e attenzione
+### 18.2 Sequenza delle convinzioni
+### 18.3 Claim, meccanismo e prova
+### 18.4 Storie e testimonianze
+### 18.5 Prezzo, rischio e obiezioni
+### 18.6 Call to action e test
 
 ---
 
-# Part VI — Deliver value and accumulate market memory
+## Capitolo 19 — Vendita consulenziale
 
-## Chapter 20 — Onboarding and customer success
-
-**Central question:** how does the promise become actual customer value?
-
-**Argument:** onboarding reduces the gap between purchase and first value, makes responsibilities explicit and turns delivery/support into feedback for the system.
-
-**Learner should be able to:**
-
-- define first observable value;
-- map responsibilities, risks and time-to-value;
-- distinguish support event from systemic cause;
-- design triggers for human intervention;
-- protect customer effort from internal complexity.
-
-**Visual candidate:** Promise→first value map.
+### 19.1 Preparazione della trattativa
+### 19.2 Qualifica e diagnosi
+### 19.3 Criteri, motivazioni e conseguenze
+### 19.4 Stakeholder e processo decisionale
+### 19.5 Prescrizione e prova
+### 19.6 Proposta, obiezioni e decisione
 
 ---
 
-## Chapter 21 — Customer lifecycle, retention, next sale and referral
+## Capitolo 20 — Follow-up e gestione delle vendite
 
-**Central question:** what should happen after the customer receives value?
-
-**Argument:** retention should follow the natural duration/frequency of need; next sale, reactivation and referral become rational only when state and verified value justify them.
-
-**Learner should be able to:**
-
-- define natural relationship duration and frequency;
-- distinguish healthy exit from avoidable churn;
-- design second-sale/continuity logic;
-- identify inactivity/reactivation thresholds;
-- ask for referral/testimony after appropriate verified value.
-
-**Visual candidate:** Customer lifecycle loop.
+### 20.1 Stati della mancata conversione
+### 20.2 Tempi e sequenze di follow-up
+### 20.3 Pipeline e memoria della trattativa
+### 20.4 Script e allenamento
+### 20.5 Misurazione della performance
+### 20.6 Capacità e organizzazione commerciale
 
 ---
 
-## Chapter 22 — Reputation, crisis and brand accumulation
+# Parte VI — Cliente, retention e brand
 
-**Central question:** how does repeated experience become market memory, and how is that memory damaged or repaired?
+## Capitolo 21 — Onboarding
 
-**Argument:** brand accumulates from position, proof, experience, reputation and repetition; crisis response must fix both perception and the system that produced the failure.
-
-**Learner should be able to:**
-
-- distinguish brand from positioning;
-- map reputation across stakeholder groups;
-- design a reputational pre-mortem;
-- respond to failure through recognition, remedy and system correction;
-- explain how proof, advocacy and community can accumulate only after real experience.
-
-**Visual candidate:** Brand accumulation / reputation feedback loop.
+### 21.1 Dalla vendita al primo valore
+### 21.2 Aspettative e responsabilità
+### 21.3 Tempo al valore
+### 21.4 Supporto e customer effort
+### 21.5 Feedback e correzione
 
 ---
 
-# Part VII — Make the economics and organization withstand growth
+## Capitolo 22 — Retention
 
-## Chapter 23 — Unit economics, cohorts and growth levers
-
-**Central question:** does each additional customer create enough value to deserve more growth?
-
-**Argument:** averages hide different businesses; cohort economics, fully loaded CAC, contribution, LTV, payback and marginal acquisition cost reveal whether growth compounds value or loss.
-
-**Learner should be able to:**
-
-- calculate and compare cohort economics;
-- distinguish revenue LTV from contribution-based customer value;
-- calculate payback;
-- estimate a sustainable acquisition ceiling using assumptions explicitly;
-- identify whether the current growth constraint is demand, conversion, value, frequency or retention.
-
-**Visual candidate:** Cohort economics table + contribution timeline.
+### 22.1 Durata naturale della relazione
+### 22.2 Frequenza attesa e comportamento reale
+### 22.3 Segnali di rischio e inattività
+### 22.4 Riattivazione e riconquista
+### 22.5 Uscita naturale e churn evitabile
 
 ---
 
-## Chapter 24 — Cash, working capital and the speed of money
+## Capitolo 23 — Seconda vendita e referral
 
-**Central question:** why can a profitable business run out of cash?
-
-**Argument:** timing between outflows and inflows determines financing needs; growth can magnify a cash gap even when margins are positive.
-
-**Learner should be able to:**
-
-- distinguish profit/margin from cash;
-- map receivables, inventory and supplier terms;
-- explain the cash conversion cycle;
-- calculate simple burn/runway when relevant;
-- identify changes that shorten or lengthen the financing gap.
-
-**Visual candidate:** Cash conversion timeline.
+### 23.1 Il secondo acquisto
+### 23.2 Continuità e ricorrenza
+### 23.3 Offerta successiva dopo il valore
+### 23.4 Referral
+### 23.5 Recensioni e testimonianze
 
 ---
 
-## Chapter 25 — Capacity economics and bottlenecks
+## Capitolo 24 — Brand e reputazione
 
-**Central question:** how much demand can the business absorb before quality, margin or lead time breaks?
-
-**Argument:** capacity is an economic variable; averages hide peak constraints, queues and opportunity costs, and marketing intensity must respect real service capacity.
-
-**Learner should be able to:**
-
-- identify the binding capacity constraint;
-- distinguish utilization from throughput;
-- map peaks/valleys and queue effects;
-- compare build, buy and access-to-capacity options;
-- decide whether more demand should be generated now.
-
-**Visual candidate:** Capacity/queue diagram.
+### 24.1 Posizionamento e brand
+### 24.2 Accumulazione della memoria di mercato
+### 24.3 Reputazione e stakeholder
+### 24.4 Media e relazioni pubbliche
+### 24.5 Crisi e riparazione
+### 24.6 Community e appartenenza
 
 ---
 
-## Chapter 26 — Processes, automation and controls
+# Parte VII — Economia e organizzazione
 
-**Central question:** how does a repeated result become a system rather than personal memory?
+## Capitolo 25 — Economia del cliente
 
-**Argument:** process comes before software; normal work should be standardized and exceptions escalated, while controls reconcile risk without suffocating the system.
-
-**Learner should be able to:**
-
-- document owner, handoff, checkpoint and exception path;
-- decide what to automate and what to keep human;
-- design control points based on risk;
-- distinguish a process from a tool configuration;
-- identify where recurring exceptions reveal a broken process.
-
-**Visual candidate:** Process/exception architecture.
+### 25.1 Unit economics
+### 25.2 Analisi per coorti
+### 25.3 Lifetime value
+### 25.4 Payback avanzato
+### 25.5 Costo massimo di acquisizione
+### 25.6 Costo marginale e leve di crescita
 
 ---
 
-## Chapter 27 — People, roles and the economics of hiring
+## Capitolo 26 — Cassa e capitale circolante
 
-**Central question:** when is a new person the correct solution to a bottleneck?
-
-**Argument:** roles should be designed around outcomes, decision rights and economic constraints; recruiting is itself a market/offer problem and hiring before process clarity can add fixed cost without leverage.
-
-**Learner should be able to:**
-
-- define a role from bottleneck and outcome;
-- separate skill gap from behavior mismatch;
-- design minimum performance standards and incentives;
-- evaluate whether the role can economically justify itself;
-- distinguish delegation from task dumping.
-
-**Visual candidate:** Bottleneck→role→economics map.
+### 26.1 Profitto e cassa
+### 26.2 Crediti, scorte e debiti operativi
+### 26.3 Ciclo di conversione della cassa
+### 26.4 Riserve e fabbisogno finanziario
+### 26.5 Finanziare la crescita
 
 ---
 
-## Chapter 28 — Founder dependence and transferability
+## Capitolo 27 — Capacità e colli di bottiglia
 
-**Central question:** how can the founder stop being the bottleneck without removing the function that creates demand or trust?
-
-**Argument:** founder dependence may be operational, informational, relational or perceptual; transferability requires replacing the economic function, not merely removing the person from the org chart.
-
-**Learner should be able to:**
-
-- identify single points of failure;
-- distinguish operational from commercial/perceptual dependence;
-- map critical founder functions;
-- design replacement via process, role, asset or brand system;
-- evaluate business transferability beyond historical performance.
-
-**Visual candidate:** Founder dependency map.
+### 27.1 Capacità disponibile e capacità utile
+### 27.2 Utilizzo, code e picchi
+### 27.3 Il collo di bottiglia
+### 27.4 Costo opportunità della capacità
+### 27.5 Costruire, comprare o accedere alla capacità
 
 ---
 
-# Part VIII — Allocate capital, expand and diagnose
+## Capitolo 28 — Processi e automazione
 
-## Chapter 29 — Build, restart and allocate capital by stage
-
-**Central question:** what should the next euro and next unit of structure buy at this stage?
-
-**Argument:** early-stage capital should buy learning before fixed structure; later reinvestment should remove the most economically meaningful constraint with an explicit causal thesis.
-
-**Learner should be able to:**
-
-- design a minimum economic prototype;
-- distinguish asset access from premature ownership;
-- specify the expected causal return of a major spend;
-- compare reinvestment alternatives and opportunity cost;
-- explain how external capital changes risk/control/governance.
-
-**Visual candidate:** Stage-aware capital allocation map.
+### 28.1 Dal risultato ripetibile al processo
+### 28.2 Ruoli, handoff e checkpoint
+### 28.3 Processo normale ed eccezioni
+### 28.4 Automazione dopo il processo
+### 28.5 Controlli e riconciliazione
 
 ---
 
-## Chapter 30 — Expansion, niches, multibrand and new geographies
+## Capitolo 29 — Persone e organizzazione
 
-**Central question:** when is expansion multiplication of a proven system rather than escape from a weak core?
-
-**Argument:** expansion should follow readable core economics and operational repeatability; every new geography/category/niche reopens market, position and offer questions.
-
-**Learner should be able to:**
-
-- distinguish saturation from under-optimization;
-- compare levels of expansion by distance from core;
-- evaluate same-brand versus separate-brand logic;
-- distinguish sell-in from sell-through where intermediaries exist;
-- design a staged expansion test and stop criteria.
-
-**Visual candidate:** Expansion ladder + re-entry loop to market/positioning.
+### 29.1 Il ruolo nasce dal collo di bottiglia
+### 29.2 Recruiting e proposta di lavoro
+### 29.3 Selezione e inserimento
+### 29.4 Standard, feedback e incentivi
+### 29.5 Specializzazione e soglie economiche
 
 ---
 
-## Chapter 31 — The diagnostic operating system
+## Capitolo 30 — Trasferibilità dell'impresa
 
-**Central question:** how do we use the whole book on a real business without mechanically restarting from Chapter 1?
-
-**Argument:** start from the missing economic outcome, localize the symptom, move upstream to the earliest plausible broken prerequisite, test the leading hypothesis and standardize only after evidence.
-
-**Learner should be able to:**
-
-- diagnose a new case end-to-end;
-- select the first economically meaningful bottleneck;
-- generate competing hypotheses;
-- choose an appropriate intervention/test;
-- judge a change on whole-system outcomes;
-- decide when the correct action is “not yet”.
-
-**Visual candidate:** Full diagnostic router.
-
-**Capstone:** multi-stage case in which more leads initially appears to be the answer but customer quality, payback, capacity and cash reveal the real bottleneck.
+### 30.1 Dipendenza dal fondatore
+### 30.2 Funzioni economiche da sostituire
+### 30.3 KPI e diritti decisionali
+### 30.4 Controllo degli asset critici
+### 30.5 Assenza pianificata e test di trasferibilità
 
 ---
 
-# Provisional Part logic
+# Parte VIII — Sviluppo dell'impresa
 
-1. **Part I** changes the reader's way of seeing.
-2. **Part II** establishes where and for whom value can exist.
-3. **Part III** creates a reason to choose and a buyable economic proposition.
-4. **Part IV** establishes belief and moves demand through states.
-5. **Part V** turns strategy into argument and human decision support.
-6. **Part VI** proves the promise and converts experience into future value/market memory.
-7. **Part VII** checks whether the machine can economically and operationally withstand growth.
-8. **Part VIII** allocates scarce capital, expands only when justified and teaches recursive diagnosis.
+## Capitolo 31 — Avvio e prototipazione
+
+### 31.1 Competenze e problema da risolvere
+### 31.2 Comprare apprendimento prima di struttura
+### 31.3 Prototipo economico
+### 31.4 Servizio manuale e concierge
+### 31.5 Capacità esterna e struttura leggera
 
 ---
 
-# Architecture status
+## Capitolo 32 — Reinvestimento e capitale
 
-This TOC is provisionally preferred over V1 because it reduces taxonomy-driven fragmentation while preserving the causal sequence.
+### 32.1 L'impresa come asset
+### 32.2 Reinvestire nel vincolo
+### 32.3 Capitale e capacità produttiva
+### 32.4 Allocazione del capitale
+### 32.5 Capitale esterno e governance
 
-It is not frozen until:
+---
 
-- `LEARNING_OUTCOME_MAP.md` confirms coverage;
-- the Style/Chapter Grammar phases identify no major structural problem;
-- golden chapters demonstrate the expected depth and reading experience.
+## Capitolo 33 — Espansione e scala
+
+### 33.1 Prerequisiti della scala
+### 33.2 Sfruttare il core prima di espandere
+### 33.3 Espansione per problema e segmento
+### 33.4 Nuove geografie e nuove categorie
+### 33.5 Replicazione, multibrand e struttura
+
+---
+
+## Capitolo 34 — Diagnosi strategica
+
+### 34.1 Partire dal risultato economico
+### 34.2 Risalire la catena causale
+### 34.3 Individuare il primo vincolo rilevante
+### 34.4 Scegliere cosa non fare
+### 34.5 Testare, standardizzare e scalare
+### 34.6 Riesaminare il sistema nel tempo
+
+**Scope:** closes the manual by integrating the full system into a reusable decision sequence rather than adding new doctrine.
+
+---
+
+# Structural notes
+
+## Why 34 chapters now
+
+The prior 31-chapter architecture intentionally merged several topics around learning problems. Founder feedback showed that some of those merges weakened textbook navigation.
+
+The current 34-chapter candidate restores clearer subject boundaries where a professional manual benefits from direct lookup and stable terminology, especially:
+
+- `Canali di acquisizione` separate from `Domanda e consapevolezza`;
+- `Argomentazione commerciale` separate from `Copywriting`;
+- `Seconda vendita e referral` separate from `Retention`;
+- a final `Diagnosi strategica` synthesis separate from the introductory method chapter.
+
+These are reader-facing distinctions, not backend primary-home decisions.
+
+## Golden-topic remap
+
+The current golden subjects map to:
+
+- Golden A → **Capitolo 1 — Il sistema di marketing**;
+- Golden B → **Capitolo 25 — Economia del cliente**;
+- Golden C → **Capitolo 19 — Vendita consulenziale**.
+
+Their old argument-style titles are retired as chapter titles. Useful phrasing may survive as section language or explanatory prose.
+
+## Gate before rewriting
+
+Before Golden A/B are rewritten:
+
+1. this hierarchy must be checked against learning outcomes and semantic coverage;
+2. current Style Bible and Chapter Grammar must be revised to match the theory-first architecture;
+3. the example/case system must be revised so invented named businesses are no longer the default.
