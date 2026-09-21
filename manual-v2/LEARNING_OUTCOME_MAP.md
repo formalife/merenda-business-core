@@ -1,14 +1,17 @@
-# Learning Outcome Map — Post-Founder Architecture Check
+# Learning Outcome Map — Definitive Architecture
+
+Status: **CURRENT — aligned to frozen 8-Part / 34-Chapter TOC**  
+Date: 2026-09-21
 
 ## Purpose
 
-Verify that the current **8-Part / 34-Chapter** hierarchy in `TOC_V2.md` covers the book-level capabilities defined in `BOOK_CONTRACT_V2.md` while preserving prerequisite order and clear reader-facing subject boundaries.
+Verify that the definitive hierarchy in `TOC_V2.md` covers the book-level capabilities defined in `BOOK_CONTRACT_V2.md`, preserves prerequisite order and keeps adjacent subjects meaningfully distinct.
 
 ---
 
 | Book-level outcome | Primary home(s) | Reinforcement | Coverage |
 |---|---|---|---|
-| 1. Map a business as a causal commercial system | Ch. 1, Ch. 34 | Ch. 3, 15, 21–27 | COVERED |
+| 1. Map a business as a causal commercial system | Ch. 1, Ch. 34 | Ch. 3, 16, 21–27 | COVERED |
 | 2. Distinguish symptom, cause, amplifier and prerequisite | Ch. 1, Ch. 3 | Ch. 27, Ch. 34 | COVERED |
 | 3. Evaluate whether a market is economically worth serving | Ch. 4 | Ch. 2, 5, 25–27 | COVERED |
 | 4. Identify economically desirable/undesirable customers | Ch. 5 | Ch. 2, 22–25 | COVERED |
@@ -16,14 +19,14 @@ Verify that the current **8-Part / 34-Chapter** hierarchy in `TOC_V2.md` covers 
 | 6. Design/evaluate differentiation and positioning | Ch. 8–9 | Ch. 10–12, 24, 33 | COVERED |
 | 7. Build offer and pricing logic | Ch. 10–11 | Ch. 2, 23, 25 | COVERED |
 | 8. Identify required authority/proof | Ch. 12 | Ch. 17–19, 23–24 | COVERED |
-| 9. Distinguish owned/active/latent demand and choose channels | Ch. 13–14 | Ch. 15–16 | COVERED |
-| 10. Model acquisition as customer-state movement | Ch. 15 | Ch. 13–14, 20–23 | COVERED |
-| 11. Design pre-education and communication from customer evidence | Ch. 15, 17–18 | Ch. 6–8, 12–14 | COVERED |
-| 12. Run a diagnostic/prescriptive sales process | Ch. 19 | Ch. 15, 17, 20 | COVERED |
-| 13. Design onboarding, retention, reactivation, next sale and referral | Ch. 21–23 | Ch. 12, 20, 24 | COVERED |
+| 9. Distinguish owned/active/latent demand and choose access routes | Ch. 13–15 | Ch. 12, 16 | COVERED |
+| 10. Model acquisition as customer-state movement | Ch. 16 | Ch. 13–15, 20–23 | COVERED |
+| 11. Design pre-education and communication from customer evidence | Ch. 16–18 | Ch. 6–8, 12–15 | COVERED |
+| 12. Run a diagnostic/prescriptive sales process | Ch. 19 | Ch. 16–17, 20 | COVERED |
+| 13. Design customer experience, retention, reactivation, next sale and referral | Ch. 21–23 | Ch. 12, 20, 24 | COVERED |
 | 14. Calculate/interpret CAC, margin, payback, LTV, break-even and cash/capacity measures | Ch. 2, 25–27 | Ch. 5, 11, 31–33 | COVERED |
 | 15. Identify when growth amplifies defects | Ch. 25–27, 33–34 | Ch. 1, 21, 28–30 | COVERED |
-| 16. Decide when to standardize, hire, automate, reinvest or expand | Ch. 28–33 | Ch. 3, 27, 34 | COVERED |
+| 16. Decide when to standardize, hire, automate, allocate capital or expand | Ch. 28–33 | Ch. 3, 27, 34 | COVERED |
 | 17. Diagnose a new business problem from outcome upstream | Ch. 34 | Ch. 1, 3 | COVERED |
 | 18. Design a test with hypothesis/evidence/metric/stop rule | Ch. 3 | Reinforced throughout; Ch. 31–34 | COVERED |
 
@@ -31,79 +34,69 @@ Verify that the current **8-Part / 34-Chapter** hierarchy in `TOC_V2.md` covers 
 
 # Prerequisite audit
 
-## 1. General system before specialist subjects
+## 1. System → economics → method
 
-Ch. 1 gives the reader the broad commercial-system map before the manual introduces market, positioning, acquisition, sales, delivery or advanced economics.
+Ch. 1 gives the broad commercial-system map. Ch. 2 supplies the minimum economic vocabulary used to judge outcomes. Ch. 3 then teaches the evidence/test method used throughout the book.
 
-Ch. 2 then supplies only the economic vocabulary required to interpret later material.
+**Verdict: PASS.**
 
-Ch. 3 supplies the evidence/diagnostic method used throughout the book.
+## 2. Market/customer lenses → research → buying decision
 
-**Verdict: preserved and clearer.**
+Ch. 4–5 teach what must be judged; Ch. 6 teaches how to produce evidence; Ch. 7 organizes that evidence into the anatomy of an actual purchase decision.
 
-## 2. Market and customer before positioning
+This avoids both extremes: generic research without a decision target and intuitive market/customer conclusions without evidence.
 
-Market feasibility, customer quality, research and decision anatomy (Ch. 4–7) precede positioning/focus (Ch. 8–9).
+**Verdict: PASS.**
 
-**Verdict: preserved.**
+## 3. Positioning → focus/category → offer → price
 
-## 3. Positioning before offer, price and amplification
+Ch. 8 introduces the strategic reason to choose. Ch. 9 constrains and organizes that position through focus/category choices. Ch. 10 converts it into an offer architecture. Ch. 11 sets the economic conditions of the transaction.
 
-Positioning/focus (Ch. 8–9) precede offer/price (Ch. 10–11), proof (Ch. 12), demand/channel/acquisition (Ch. 13–16) and persuasion/sales (Ch. 17–20).
+**Verdict: PASS.**
 
-**Verdict: preserved.**
+## 4. Proof → demand → access → orchestration
 
-## 4. Research before persuasion
+The definitive Part IV sequence is:
 
-Research and buying-decision structure (Ch. 6–7) are prerequisites for argumentation, copy and sales (Ch. 17–20).
-
-**Verdict: preserved.**
-
-## 5. Demand before channels; channels before state orchestration
-
-The redesign deliberately separates:
-
+- Ch. 12 = belief/proof prerequisites;
 - Ch. 13 = nature/state of demand;
-- Ch. 14 = acquisition-channel choice;
-- Ch. 15 = funnel/database/state movement.
+- Ch. 14 = direct channel families;
+- Ch. 15 = borrowed/distributed access;
+- Ch. 16 = funnel/database/state movement/prequalification/handoff.
 
-This is more systematic for a manual than merging all three into one learning-problem chapter.
+All major access modes now precede orchestration.
 
-**Verdict: improved.**
+**Verdict: PASS / improved.**
 
-## 6. General commercial argument before copy
+## 5. Evidence before persuasion; argument before execution
 
-Ch. 17 explains the underlying persuasive argument; Ch. 18 specializes that argument into direct-response writing structures.
+Research and decision anatomy (Ch. 6–7) precede argument, copy and sales. Ch. 17 owns format-independent commercial reasoning; Ch. 18 specializes it into direct-response writing.
 
-This prevents copywriting from being taught as an isolated language technique.
+**Verdict: PASS.**
 
-**Verdict: improved.**
+## 6. Handoff before live sales; live sales before management over time
 
-## 7. Sales after marketing handoff
+Ch. 16 ends with prequalification/handoff. Ch. 19 owns the live consultative process. Ch. 20 owns follow-up, pipeline, training and sales-specific management.
 
-Ch. 15 ends with prequalification/handoff. Ch. 19 then owns live consultative selling. Ch. 20 owns follow-up, pipeline and sales management.
+**Verdict: PASS.**
 
-**Verdict: clear boundary.**
+## 7. Experience/value before retention, next sale and market memory
 
-## 8. Delivery before retention, next sale and brand accumulation
+Ch. 21 now owns the full promise → onboarding/delivery → first value/experience transition. Ch. 22 follows with retention/reactivation. Ch. 23 covers second sale/referral/proof generated by customers. Ch. 24 closes with accumulated reputation and brand memory.
 
-Ch. 21 onboarding precedes Ch. 22 retention, Ch. 23 second sale/referral and Ch. 24 brand/reputation.
+**Verdict: PASS / materially improved.**
 
-This preserves the causal rule that verified customer value should precede many retention/referral/reputation actions.
+## 8. Advanced economics before structure and scale
 
-**Verdict: improved subject hierarchy.**
+Ch. 25–27 deepen customer economics, cash and capacity before Ch. 28–30 process/people/transferability and before Ch. 31–33 prototyping/capital/expansion.
 
-## 9. Advanced economics before organization and scale
+**Verdict: PASS.**
 
-Ch. 25–27 deepen customer economics, cash and capacity before processes/people/transferability (Ch. 28–30) and before startup/reinvestment/expansion (Ch. 31–33).
+## 9. Integrated diagnosis only after the whole system is learned
 
-**Verdict: preserved.**
+Ch. 34 is the mature end-to-end strategic diagnosis. It builds on Ch. 3 rather than duplicating it.
 
-## 10. Mature end-to-end diagnosis at the end
-
-Ch. 34 integrates the complete system after the reader has learned its parts. It does not replace the introductory evidence/test method of Ch. 3.
-
-**Verdict: justified two-stage diagnostic teaching.**
+**Verdict: PASS.**
 
 ---
 
@@ -111,10 +104,8 @@ Ch. 34 integrates the complete system after the reader has learned its parts. It
 
 ## R-01 — Ch. 1 vs Ch. 34
 
-- Ch. 1 = broad mental model of the commercial system.
+- Ch. 1 = mental model of the commercial system.
 - Ch. 34 = mature end-to-end strategic diagnostic procedure.
-
-Ch. 1 must not preview the full router in operational detail.
 
 ## R-02 — Ch. 2 vs Ch. 25–27
 
@@ -123,55 +114,63 @@ Ch. 1 must not preview the full router in operational detail.
 - Ch. 26 = cash timing/working capital.
 - Ch. 27 = capacity economics.
 
-Later chapters build on vocabulary rather than reteach it.
+## R-03 — Ch. 4 vs Ch. 5 vs Ch. 7
 
-## R-03 — Ch. 8–9 vs Ch. 24
+- Ch. 4 = market-level viability and competitive structure.
+- Ch. 5 = customer-level desirability and economics.
+- Ch. 7 = alternatives/criteria/timing/roles inside one concrete buying decision.
+
+## R-04 — Ch. 8–9 vs Ch. 24
 
 - Ch. 8 = reason to choose.
 - Ch. 9 = focus/category/brand architecture.
 - Ch. 24 = accumulated market memory, reputation, crisis and community.
 
-Use `brand` precisely and avoid loose synonymy.
+## R-05 — Ch. 10 vs Ch. 23
 
-## R-04 — Ch. 10 vs Ch. 23
+- Ch. 10 = transaction architecture and possible subsequent offers.
+- Ch. 23 = timing and generation of a subsequent transaction after delivered value.
 
-- Ch. 10 designs the transaction architecture conceptually.
-- Ch. 23 treats the post-value second sale/referral as lifecycle behavior.
+## R-06 — Ch. 12 vs Ch. 23–24
 
-Do not duplicate upsell/cross-sell theory in the lifecycle chapter; apply it there to timing and state.
+- Ch. 12 = use proof to reduce pre-purchase uncertainty.
+- Ch. 23 = generate proof from delivered customer value.
+- Ch. 24 = accumulate those signals into reputation/brand memory.
 
-## R-05 — Ch. 12 vs Ch. 23–24
+## R-07 — Ch. 13–16
 
-- Ch. 12 = proof required to reduce uncertainty before purchase.
-- Ch. 23–24 = how delivered value later generates referral, reviews, reputation and accumulated proof.
+- Ch. 13 = demand state/awareness.
+- Ch. 14 = direct channel access/economics.
+- Ch. 15 = borrowed/distributed access/economics.
+- Ch. 16 = state memory, routing, pre-education and handoff.
 
-## R-06 — Ch. 13–15
-
-- Ch. 13 = demand state and awareness.
-- Ch. 14 = channel economics and access.
-- Ch. 15 = state movement, memory and routing.
-
-These must remain conceptually distinct in prose.
-
-## R-07 — Ch. 17 vs Ch. 18
+## R-08 — Ch. 17 vs Ch. 18
 
 - Ch. 17 = commercial argument independent of format.
-- Ch. 18 = writing craft/structure for direct-response execution.
+- Ch. 18 = copywriting execution.
 
-## R-08 — Ch. 19 vs Ch. 20
+## R-09 — Ch. 19 vs Ch. 20
 
 - Ch. 19 = live consultative interaction.
-- Ch. 20 = what happens across time and across a sales organization.
+- Ch. 20 = follow-up and sales-organization behavior across time.
 
-## R-09 — Ch. 28–30
+## R-10 — Ch. 28–30
 
-Process, people and founder transferability remain closely linked. The current separation is justified by manual navigation, but drafting must prove enough independent depth.
+- Ch. 28 = repeatable process and controls.
+- Ch. 29 = people/role design and management.
+- Ch. 30 = transferability beyond founder/key-person dependence.
+
+## R-11 — Ch. 31–33
+
+- Ch. 31 = low-risk learning/prototyping of new initiatives.
+- Ch. 32 = broader capital allocation across competing uses.
+- Ch. 33 = expansion/scale after prerequisites are satisfied.
 
 ---
 
 # Semantic coverage audit
 
-The 34-chapter redesign preserves a reader-facing home for all major semantic clusters previously covered by the 709-unit decomposition:
+The definitive 34-chapter architecture retains a reader-facing home for all major semantic clusters:
 
 - foundations/system/method → Ch. 1–3;
 - market/customer/research/decision → Ch. 4–7;
@@ -179,21 +178,23 @@ The 34-chapter redesign preserves a reader-facing home for all major semantic cl
 - offer/front-end/monetization/price → Ch. 10–11;
 - authority/proof → Ch. 12;
 - demand/awareness → Ch. 13;
-- channels → Ch. 14;
-- database/funnel/automation/handoff → Ch. 15;
-- partnerships/distribution → Ch. 16;
+- direct channels → Ch. 14;
+- partnerships/distribution → Ch. 15;
+- database/funnel/automation/handoff → Ch. 16;
 - argument/copy → Ch. 17–18;
 - consultative sales/follow-up/sales management → Ch. 19–20;
-- onboarding/retention/second sale/referral → Ch. 21–23;
+- delivery/customer experience → Ch. 21;
+- retention/reactivation → Ch. 22;
+- second sale/referral/customer-generated proof → Ch. 23;
 - brand/reputation/crisis/community → Ch. 24;
 - customer economics/cash/capacity → Ch. 25–27;
 - process/controls/automation → Ch. 28;
 - recruiting/people/organization → Ch. 29;
 - founder dependence/transferability → Ch. 30;
-- bootstrap/prototyping → Ch. 31;
-- reinvestment/capital → Ch. 32;
+- prototyping/new initiatives → Ch. 31;
+- capital allocation → Ch. 32;
 - expansion/scale → Ch. 33;
-- end-to-end decision router → Ch. 34.
+- end-to-end strategic diagnosis → Ch. 34.
 
 **No known major semantic cluster is orphaned.**
 
@@ -201,14 +202,14 @@ The 34-chapter redesign preserves a reader-facing home for all major semantic cl
 
 # Architecture gate
 
-**PASS FOR STYLE/GRAMMAR REDESIGN.**
+**DEFINITIVE PASS / FROZEN.**
 
-The hierarchy is not yet approved for full production because founder approval still depends on rewritten Golden A/B.
+The map has been realigned after:
 
-However it passes the prerequisite for rewriting the style/grammar systems because:
+- production of Chapters 1–5;
+- `ARCHITECTURE_POSTMORTEM_1.md`;
+- `FULL_MANUAL_REEVALUATION_2026-09-21.md`;
+- `ARCHITECTURE_POSTMORTEM_2.md`;
+- final `TOC_V2.md` freeze.
 
-- all book-level outcomes have homes;
-- major prerequisite chains remain intact;
-- the TOC is now subject-oriented rather than thesis-title oriented;
-- the Part → Chapter → Section hierarchy is explicit;
-- the main founder concerns can be implemented without losing doctrine.
+Future architecture changes require concrete drafting or reader evidence.
