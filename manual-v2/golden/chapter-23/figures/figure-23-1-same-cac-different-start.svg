@@ -36,7 +36,10 @@
     <line x1="545" y1="440" x2="650" y2="440" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
     <text x="598" y="418" font-size="14" text-anchor="middle" fill="#555">stesso CAC</text>
 
-    <rect x="155" y="605" width="890" height="55" rx="12" fill="#efefef"/>
-    <text x="600" y="638" font-size="18" text-anchor="middle" font-weight="700">Il costo di acquisizione dice quanto hai pagato per ottenere il cliente. Non dice quanto rapidamente quel cliente comincia a restituire valore economico.</text>
+    <rect x="155" y="590" width="890" height="78" rx="12" fill="#efefef"/>
+    <text x="600" y="620" font-size="17" text-anchor="middle" font-weight="700">
+      <tspan x="600">Il costo di acquisizione dice quanto hai pagato per ottenere il cliente.</tspan>
+      <tspan x="600" dy="24">Non dice quanto rapidamente quel cliente comincia a restituire valore economico.</tspan>
+    </text>
   </g>
 </svg>
