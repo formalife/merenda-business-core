@@ -1,17 +1,27 @@
-# Manual V2 — Table of Contents Architecture
+# Manual V2 — Definitive Table of Contents
 
-Status: **CURRENT CANDIDATE — architecture correction pass 2**  
+Status: **DEFINITIVE / FROZEN — after double architecture postmortem**  
 Date: 2026-09-21
 
-This TOC incorporates the first architecture correction pass and the subsequent full-manual logical reevaluation.
+This is the canonical reader-facing architecture for Manual V2.
+
+It has passed:
+
+- semantic coverage review;
+- prerequisite review;
+- causal-order review;
+- full-manual reevaluation;
+- two architecture postmortems;
+- adjacency and Part-transition review;
+- chronology clarification.
+
+Future changes require concrete drafting or reader evidence. Preference alone is not sufficient to reopen the architecture.
 
 Design rule:
 
 **Part = major domain → Chapter = broad subject → Section = major component of that subject.**
 
-The reading order follows cognitive and causal prerequisites rather than the literal chronology of a company's life.
-
-The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open only until the second postmortem is complete.
+The reading order follows **causal and instructional chronology**, not a rigid calendar chronology that every company must execute once from left to right.
 
 ---
 
@@ -382,18 +392,24 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 # Reading logic
 
-The book is organized around **causal and instructional chronology**, not a rigid calendar chronology that every company must execute once from left to right.
-
 The linear learning path is:
 
 **see the system → establish economic judgment → learn the decision method → evaluate market/customer → produce evidence and understand buying decisions → build position/offer/price → build trust and access demand → orchestrate acquisition → communicate and sell → deliver value and deepen the relationship → test advanced economics and organization → prototype/reinvest/expand → integrate strategic diagnosis.**
 
 A real business may enter operationally at any point. The reading order teaches prerequisites; it does not claim that every company starts from zero or executes each activity only once.
 
-# Transition-gate rule
+# Part transition gates
 
-Each Part ends with a short, unnumbered reader-facing `Prima di proseguire` gate stating what evidence, decisions or operating outputs should exist before the next Part. The gate is a causal transition device, not an additional chapter.
+Each Part ends with a short, unnumbered reader-facing `Prima di proseguire` gate. The canonical gate definitions are in `PART_TRANSITION_GATES.md`.
 
-# Architecture status
+# Freeze evidence
 
-This corrected candidate now proceeds to **Postmortem 2**, whose only job is to attempt to break the revised sequence before it is frozen as definitive.
+Architecture review trail:
+
+- `ARCHITECTURE_POSTMORTEM_1.md`;
+- `FULL_MANUAL_REEVALUATION_2026-09-21.md`;
+- `ARCHITECTURE_POSTMORTEM_2.md`.
+
+Final result:
+
+**8 Parts / 34 Chapters — frozen.**
