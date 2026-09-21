@@ -1,555 +1,441 @@
-# Case System V2
+# Example and Case System — Manual V2
+
+Status: **CURRENT — revised after founder review**  
+Date: 2026-09-21
 
 ## Purpose
 
-Manual V2 needs examples that teach reasoning, not decorative anecdotes.
+Examples, calculations and cases help the reader see how theory behaves in practice.
 
-This document defines how the book will use:
+They are not the architecture of the book.
 
-- micro-examples;
-- worked examples;
-- counterexamples;
-- recurring fictional cases;
-- documented real cases;
-- Part-level and book-level capstones.
+The first V2 case system over-weighted recurring named fictional companies. Founder review rejected that as the default because it made the manual feel constructed and forced examples to carry too much theoretical weight.
 
-The central rule is:
+Current rule:
 
-**a case is useful when it creates a decision the reader can reason through.**
+**theory first → example second.**
+
+Examples demonstrate, test or apply an already explained concept.
 
 ---
 
 # 1. Example hierarchy
 
+Use the simplest example form that does the teaching job.
+
 ## Level 1 — Micro-example
 
 ### Job
 
-Make one concept concrete in a few sentences.
+Clarify one concept in one or two sentences.
 
-### Characteristics
+### Form
 
-- isolates one variable;
-- minimal context;
-- no claim to realism beyond what the teaching point needs.
-
-### Example use
-
-Show why payer and user can differ.
-
----
-
-## Level 2 — Worked example
-
-### Job
-
-Demonstrate expert reasoning step by step.
-
-### Characteristics
-
-- enough context to make the decision non-trivial;
-- explicit inputs;
-- visible reasoning;
-- conclusion and interpretation;
-- boundary condition or sensitivity where useful.
-
-### Example use
-
-Compare two customer segments with different CAC, margin, payback and cost-to-serve.
-
----
-
-## Level 3 — Counterexample
-
-### Job
-
-Prevent overgeneralization.
-
-### Characteristics
-
-- superficially resembles a case where the principle applies;
-- changes one material variable;
-- produces a different decision.
-
-### Example use
-
-Cold outreach is weak for a low-value mass market but rational for a short list of high-value identifiable accounts.
-
----
-
-## Level 4 — Recurring fictional case
-
-### Job
-
-Show how a business changes as multiple chapters are applied over time.
-
-### Characteristics
-
-- stable facts and constraints;
-- evolving decisions/results;
-- enough operational texture to support several topics;
-- never presented as empirical evidence.
-
----
-
-## Level 5 — Documented real case
-
-### Job
-
-Add real-world evidence, history, complexity or credibility that a synthetic case cannot provide.
-
-### Characteristics
-
-- sourced;
-- time-bounded;
-- claims separated from interpretation;
-- no false causal certainty.
-
----
-
-## Level 6 — Capstone case
-
-### Job
-
-Test integrated diagnosis and transfer across several chapters/Parts.
-
-### Characteristics
-
-- incomplete/ambiguous evidence;
-- competing plausible actions;
-- multiple interacting constraints;
-- requires prioritization, not only formula substitution.
-
----
-
-# 2. Case-writing principles
-
-## 2.1 Cases need decision tension
-
-A case is weak if the correct answer is obvious before the evidence is examined.
-
-Good tension may come from:
-
-- growth vs cash;
-- high revenue vs poor margin;
-- cheap leads vs expensive sales time;
-- strong conversion vs bad customer quality;
-- premium price vs limited proof;
-- demand growth vs capacity bottleneck;
-- retention effort vs naturally finished relationship;
-- expansion opportunity vs fragile core.
-
-## 2.2 Cases need imperfect information
-
-Real decisions rarely arrive with every variable known.
-
-The book should teach the reader to distinguish:
-
-- known fact;
-- observation;
-- estimate;
-- assumption;
-- missing evidence.
-
-## 2.3 Cases need consequences
-
-A decision should change something later.
-
-Recurring cases are especially valuable because a chapter can reveal that an earlier decision created a downstream constraint.
-
-## 2.4 Do not make the fictional company always learn immediately
-
-A perfectly rational protagonist turns a case into a worked solution, not a case.
-
-Let businesses make understandable mistakes and show why the mistake was attractive.
-
----
-
-# 3. Recurring case portfolio
-
-V2 will prototype four recurring fictional cases. Names are working names and can change before publication.
-
-The portfolio is deliberately diverse so the reader does not mistake one business model for the doctrine itself.
-
----
-
-## RC-A — LineaCasa
-
-### Business
-
-Local high-ticket residential renovation/service company.
-
-### Why it exists
-
-Tests:
-
-- local market selection;
-- high-value lead quality;
-- long sales cycle;
-- quotes and price comparison;
-- referral;
-- capacity scheduling;
-- subcontractors;
-- cash timing;
-- geographic expansion.
-
-### Starting condition
-
-The company is growing lead volume but has variable close rates, long quote turnaround, overloaded site supervision and rising rework.
-
-### Productive tensions
-
-- more inquiries vs ability to inspect/quote;
-- premium positioning vs inconsistent delivery;
-- referral strength vs founder dependency;
-- expansion vs management capacity.
-
-### Likely homes
-
-Market, positioning, offer, sales, referral, capacity, processes, founder transferability, expansion.
-
----
-
-## RC-B — Officina Dati
-
-### Business
-
-B2B service that cleans/reconciles commercial data and produces management reporting; later explores software automation.
-
-### Why it exists
-
-Tests:
-
-- B2B target identifiability;
-- payer/user/stakeholder differences;
-- VoC and complaint mining;
-- consultative sales;
-- manual-first prototype;
-- automation after process understanding;
-- recurring value vs project work;
-- capital allocation.
-
-### Starting condition
-
-The founder believes clients want better dashboards. Early projects reveal that the costly problem is often inconsistent source data and reconciliation work.
-
-### Productive tensions
-
-- requested feature vs underlying problem;
-- project revenue vs recurring model;
-- custom service vs scalable process;
-- software investment vs evidence.
-
-### Likely homes
-
-VoC, problem anatomy, positioning, offer, sales, onboarding, process, bootstrap, reinvestment.
-
----
-
-## RC-C — Dispensa Nord
-
-### Business
-
-Premium packaged-food brand selling direct online and through selected retailers.
-
-### Why it exists
-
-Tests:
-
-- category/focus;
-- product economics;
-- premium pricing;
-- sell-in vs sell-through;
-- repeat purchase/frequency;
-- inventory and working capital;
-- brand/reputation;
-- retail/distribution partnerships;
-- line extension/multibrand.
-
-### Starting condition
-
-One hero product is working, retailers ask for more variants, online repeat purchase is promising but cash is increasingly tied up in inventory.
-
-### Productive tensions
-
-- line extension vs focus;
-- retailer demand vs end-customer demand;
-- revenue growth vs working capital;
-- premium pricing vs promotions;
-- brand stretch vs new-brand logic.
-
-### Likely homes
-
-Focus/category, pricing, channels/distribution, lifecycle, brand, cash, expansion.
-
----
-
-## RC-D — TurnoChiaro
-
-### Business
-
-Subscription software for shift scheduling and workforce coordination in multi-location service businesses.
-
-### Why it exists
-
-Tests:
-
-- active vs latent demand;
-- adaptive funnel;
-- onboarding and time-to-value;
-- product usage as customer-success signal;
-- churn/retention;
-- LTV/payback;
-- support automation;
-- cohort economics;
-- scale.
-
-### Starting condition
-
-Acquisition appears efficient, but cohorts differ sharply in activation and retention depending on account type and implementation effort.
-
-### Productive tensions
-
-- low CAC vs poor activation;
-- feature interest vs actual usage;
-- self-service vs human onboarding;
-- expansion of acquisition before retention proof.
-
-### Likely homes
-
-Demand, funnel, onboarding, lifecycle, unit economics, processes and scale.
-
----
-
-# 4. Case data governance
-
-Recurring case facts must not drift casually from chapter to chapter.
-
-Each case should eventually have a compact case bible containing:
-
-- business model;
-- target segments;
-- products/prices;
-- unit economics;
-- team/capacity;
-- timeline;
-- key events;
-- decisions;
-- measured outcomes;
-- open hypotheses.
-
-When a later chapter changes a number, there must be an in-world reason.
+Generic and unnamed.
 
 Example:
 
-If LineaCasa's margin improves, the case must specify whether price, mix, rework, subcontractor cost or process changed.
+> Un'impresa può aumentare il fatturato e contemporaneamente ridurre il margine di contribuzione se il nuovo volume richiede più sconti, assistenza o rilavorazioni.
 
-No continuity by convenience.
+No fictional company name is needed.
+
+---
+
+## Level 2 — Short illustrative example
+
+### Job
+
+Show how a concept works in a plausible situation.
+
+### Form
+
+Use ordinary descriptions:
+
+- `supponiamo che un'azienda...`;
+- `consideriamo un'impresa di servizi...`;
+- `immaginiamo un produttore...`.
+
+Keep only the facts needed for the distinction.
+
+---
+
+## Level 3 — A/B comparison
+
+### Job
+
+Compare two alternatives, customers, coorti, channels or businesses while keeping the variables easy to track.
+
+### Form
+
+Use neutral labels:
+
+- Azienda A / Azienda B;
+- Cliente A / Cliente B;
+- Coorte A / Coorte B;
+- Canale A / Canale B.
+
+This is preferred over invented brand names when the teaching need is comparative rather than narrative.
+
+---
+
+## Level 4 — Worked numerical example
+
+### Job
+
+Make a formula or economic mechanism reproducible.
+
+### Required elements
+
+- assumptions/data;
+- formula or calculation;
+- result;
+- interpretation;
+- sensitivity/limit when relevant.
+
+### Placement
+
+After the relevant concept/formula has been explained.
+
+### Example title
+
+`Esempio numerico — Due coorti con lo stesso CAC`
+
+The example may continue across several related calculations when this reduces unnecessary resets.
+
+---
+
+## Level 5 — Procedural example
+
+### Job
+
+Show a process being executed.
+
+Possible forms:
+
+- sample interview excerpt;
+- annotated sales notes;
+- before/after offer design;
+- process map;
+- mock decision memo.
+
+Use generic names/roles unless real identity matters.
+
+---
+
+## Level 6 — Real case
+
+### Job
+
+Add evidence, complexity or credibility that a generic example cannot provide.
+
+### Requirement
+
+The case must be sourced and provenance-classified in backend notes.
+
+Reader-facing prose should distinguish known facts from interpretation without overloading the reader with backend labels.
+
+---
+
+## Level 7 — Extended case study
+
+### Job
+
+Integrate several concepts after the reader has learned them.
+
+Best homes:
+
+- end of chapter;
+- end of Part;
+- appendix/workbook;
+- dedicated `Caso` section.
+
+An extended case should not normally be the default way a chapter introduces its theory.
+
+---
+
+# 2. No invented branded companies by default
+
+Do not invent company names such as a fictional brand merely to make an example feel realistic.
+
+Preferred:
+
+> Supponiamo che un'impresa di ristrutturazioni acquisisca dieci nuovi progetti...
+
+or:
+
+> Consideriamo due coorti di cento clienti, A e B...
+
+The example is easier to read and does not ask the reader to remember synthetic narrative continuity.
+
+A named fictional company may be used only after an explicit future decision establishes that the name materially improves a long case study. It is an exception, not the system.
+
+---
+
+# 3. Theory independence rule
+
+Every chapter must pass this test:
+
+> If all examples are temporarily removed, is the theory still complete and understandable?
+
+If no, the example is doing too much conceptual work.
+
+The correct relationship is:
+
+**theory explains → example illustrates → application tests.**
+
+---
+
+# 4. Placement rules
+
+## 4.1 Do not routinely open with a long case
+
+A brief example may appear in the opening, but general framing comes first by default.
+
+## 4.2 Place examples near the theory they illustrate
+
+Do not collect every example at the end if the reader needs one to understand a difficult distinction.
+
+## 4.3 Worked numerical examples follow formulas
+
+The reader should know what the formula means before calculating it.
+
+## 4.4 Larger cases come later
+
+Extended cases are most useful after several concepts can be integrated.
 
 ---
 
 # 5. Numerical coherence
 
-Synthetic numerical examples should reuse coherent datasets where possible.
+Numerical examples should remain internally coherent.
 
-Benefits:
+When the same worked example spans multiple sections, reuse the same assumptions unless the text explicitly changes them.
 
-- the reader sees interactions between CAC, margin, payback, cash and capacity;
-- arithmetic does not reset to unrelated round numbers every chapter;
-- later chapters can reveal a different interpretation of earlier metrics.
+Example:
 
-The quantitative system will define the canonical teaching calculations.
+- price;
+- variable cost;
+- contribution;
+- CAC;
+- payback;
+- retention/LTV;
+- marginal CAC.
+
+This allows the reader to see relationships between measures without inventing a new dataset for every formula.
+
+Do not preserve continuity merely for storytelling. Preserve it when it reduces cognitive load and improves economic understanding.
 
 ---
 
-# 6. Real-case evidence protocol
+# 6. Example realism
 
-Before a real company enters reader-facing prose, backend notes must distinguish:
+Synthetic examples should be plausible, but they do not need simulated corporate biographies.
+
+Include only operational facts required by the lesson.
+
+Weak:
+
+> AlfaNova Solutions, fondata nel 2018 da due ex consulenti, serve 1.200 clienti...
+
+when none of those facts matters.
+
+Better:
+
+> Supponiamo che un software in abbonamento acquisisca due coorti da cento clienti allo stesso CAC ma con tassi di attivazione diversi.
+
+---
+
+# 7. Examples must not prove the doctrine
+
+A synthetic example demonstrates logic; it is not empirical evidence that the principle is universally true.
+
+A real case can illustrate what happened in a documented context but still does not automatically prove causation.
+
+Keep distinct:
+
+- theoretical relation;
+- synthetic demonstration;
+- empirical evidence;
+- managerial inference.
+
+---
+
+# 8. Real-case evidence protocol
+
+Before a real company enters reader-facing prose, backend notes classify material as:
 
 ## FACT
 
-Documented event/number/action from a credible source.
+Documented action, event or number.
 
 ## COMPANY CLAIM
 
-Statement made by the company or executive.
+Statement by the company or executive.
 
 ## THIRD-PARTY ANALYSIS
 
-Interpretation by a journalist, analyst, researcher or author.
+Interpretation from a credible analyst, journalist, researcher or author.
 
 ## SYNTHESIS
 
-Our teaching interpretation based on the evidence.
+Our teaching interpretation.
 
 ## UNKNOWN
 
-Material causal factor not established by sources.
+Material causal factor not established by evidence.
 
 Rule:
 
-**success after an action is not proof that the action caused the success.**
-
-Real cases should be selected for teaching value, not fame.
+**an outcome following an action is not, by itself, proof that the action caused the outcome.**
 
 ---
 
-# 7. Real-case sourcing standard
+# 9. Real-case sourcing standard
 
-For material factual cases prefer, when available:
+Prefer:
 
-1. company filings / investor materials / official data;
-2. direct interviews or primary public statements;
-3. reputable reporting with named sources;
+1. filings/official data;
+2. primary interviews/statements;
+3. reputable reporting;
 4. academic/industry research;
-5. secondary books/articles with clear sourcing.
+5. well-sourced secondary works.
 
-Avoid relying on:
+Avoid:
 
 - unsourced marketing case-study pages;
-- copied business folklore;
-- viral anecdotes without provenance;
-- retrospective hero narratives that erase failed attempts and context.
+- recycled business folklore;
+- viral anecdotes;
+- hero narratives with no causal evidence.
 
 ---
 
-# 8. How cases should appear in prose
+# 10. Example diversity
 
-Do not introduce every case with the same formula.
+Across the manual, examples should cover different surfaces so the reader does not confuse one business model with the doctrine.
 
-Possible forms:
+Useful contexts include:
 
-- chapter opener scene;
-- mid-chapter worked example;
-- margin/box case fragment;
-- end-of-chapter transfer case;
-- Part-level capstone.
+- local high-ticket service;
+- B2B professional service;
+- subscription software;
+- ecommerce/product business;
+- retail/distribution;
+- recurring service;
+- manufacturing when relevant.
 
-When the same recurring case returns, give only enough recap to reactivate relevant facts.
+This does not require recurring fictional brands.
 
 ---
 
-# 9. Case questions
+# 11. Quantitative examples
 
-Good case prompts ask for decisions and evidence.
+Founder feedback explicitly approves worked numerical examples where the topic requires them.
+
+Use them especially for:
+
+- contribution margin;
+- CAC;
+- break-even;
+- price/conversion trade-offs;
+- payback;
+- LTV/cohorts;
+- cash conversion;
+- capacity;
+- capital allocation.
+
+The arithmetic must be reproducible and the interpretation must explain what decision changes.
+
+---
+
+# 12. Procedural examples
+
+For research, sales, onboarding, automation and process design, examples should show decisions rather than stage artificial dialogue.
+
+Prefer:
+
+- excerpt + annotation;
+- notes + interpretation;
+- process branch;
+- decision table;
+- before/after artifact.
+
+Avoid fake conversations in which every answer conveniently advances the framework.
+
+---
+
+# 13. Counterexamples
+
+Counterexamples remain important because they define boundaries.
+
+Use them after the general rule is understood.
 
 Examples:
 
-- Which metric is misleading and why?
-- What is the first upstream variable you would investigate?
-- What would you refuse to scale yet?
-- Which information would change your pricing decision?
-- Is the problem acquisition, activation, retention or customer selection?
-- What should be standardized before software is added?
-- What evidence would justify geographic expansion?
+- a local tactical fix really is the right first move because the rest of the system is stable;
+- a low-price front-end can make sense without defining the whole brand as cheap;
+- retention effort can be irrational when the natural relationship has ended;
+- capacity should not be added merely because people feel busy.
 
-Weak prompt:
-
-> What did the company do wrong?
+Counterexamples teach judgment; they do not need fictional names.
 
 ---
 
-# 10. Case progression across Parts
+# 14. Part-level applications
 
-## Part I — Diagnosis
+Each Part may conclude with an integrative application.
 
-Use cases to show local metric vs whole-business result.
+Possible forms:
 
-## Part II — Market/customer evidence
+- multi-variable generic case;
+- sourced real case;
+- decision memo;
+- numerical scenario;
+- audit of the reader's own business.
 
-Reveal that superficially attractive customers/markets differ economically.
-
-## Part III — Position/offer
-
-Use customer evidence to redesign the business, not merely messaging.
-
-## Part IV — Demand/acquisition
-
-Show source/state distinctions and routing.
-
-## Part V — Sales
-
-Show handoff, diagnosis, stakeholder and follow-up consequences.
-
-## Part VI — Lifecycle/brand
-
-Reveal delivery, activation, retention, proof and reputation loops.
-
-## Part VII — Economics/capacity
-
-Re-read earlier decisions with deeper numbers; some apparent winners should become weaker.
-
-## Part VIII — Build/expand/diagnose
-
-Require full-system prioritization under incomplete evidence.
+This is the preferred place for longer cases because the reader can integrate several chapters without letting the case dominate individual chapter theory.
 
 ---
 
-# 11. Golden-chapter case stress test
+# 15. Pseudocommands
 
-The three golden chapters must test different case functions.
+## `THEORY-FIRST`
 
-## Conceptual golden chapter
+Has the concept been explained before the example becomes necessary?
 
-Use at least:
+## `NAME-DELETE`
 
-- opener case/problem;
-- contrasting example or counterexample.
+Can the fictional company name be removed with no loss? If yes, remove it.
 
-## Quantitative golden chapter
+## `EXAMPLE-JOB`
 
-Use:
+State exactly what distinction/calculation/process the example demonstrates.
 
-- coherent worked dataset;
-- sensitivity or scenario change;
-- interpretation beyond arithmetic.
+## `DATA-COHERENCE`
 
-## Procedural golden chapter
-
-Use:
-
-- process walkthrough;
-- branch/exception;
-- transfer case requiring independent next-step choice.
-
----
-
-# 12. Pseudocommands
-
-## `CASE-TENSION`
-
-What makes two actions plausibly defensible before analysis?
+Do all numbers in a worked example reconcile?
 
 ## `CASE-EVIDENCE`
 
-Separate fact, estimate, claim, inference and unknown.
+For a real case, are fact, claim, analysis and inference separated?
 
-## `CASE-CONSEQUENCE`
+## `EXAMPLE-REMOVE`
 
-What changes later because of the decision?
+Remove the example temporarily. If the theory collapses, rewrite the theory.
 
-## `CASE-CONTINUITY`
+## `TRANSFER-DIVERSITY`
 
-Does this recurring case remain numerically and operationally consistent with earlier appearances?
-
-## `CASE-TRANSFER`
-
-Could the learner apply the principle if the industry and surface details changed?
-
-## `HERO-STORY-CHECK`
-
-Have we converted a messy outcome into a clean success narrative?
-
-## `CAUSALITY-CHECK`
-
-Are we claiming causation from sequence/correlation?
+Does the book use enough different industries/business models to prevent surface overfitting?
 
 ---
 
-# 13. Acceptance rule
+# 16. Acceptance rule
 
-The case system succeeds when the reader can see the same doctrine survive contact with different business models, constraints and incomplete evidence.
+The example system succeeds when:
 
-The goal is not to make the book entertaining through stories.
-
-The goal is to make expert judgment observable and transferable.
+- theory remains complete without examples;
+- examples make abstract ideas easier to understand;
+- numerical examples are reproducible;
+- fictional branding is absent unless explicitly justified;
+- real cases are sourced;
+- longer cases integrate rather than introduce the theory;
+- examples feel like normal devices in a professional manual, not an invented narrative universe.
