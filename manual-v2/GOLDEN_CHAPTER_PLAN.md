@@ -1,303 +1,208 @@
 # Golden Chapter Plan — Manual V2
 
+Status: **RESET AFTER FOUNDER GATE FAIL**  
+Date: 2026-09-21
+
 ## Purpose
 
-The golden chapters are not sample excerpts. They are **system stress tests**.
+The Golden Chapters remain system stress tests, but the first A/B implementation is not the production model.
 
-The project will not scale V2 production until three materially different chapters prove that the combined architecture, style, pedagogy, visuals, cases and quantitative systems work in practice.
+Founder review established that internal doctrine/instructional/visual PASS was insufficient because the reading experience still failed on:
 
-Selected chapters:
+- general framing;
+- natural voice;
+- theory/example order;
+- hierarchy visibility;
+- chapter naming.
 
-1. Golden A — Chapter 1: **The business is a system, not a collection of tactics**
-2. Golden B — Chapter 23: **Unit economics, cohorts and growth levers**
-3. Golden C — Chapter 18: **Consultative selling: diagnosis before prescription**
+Golden A and B therefore return to **prototype redesign**.
 
-The chapter numbers refer to provisional V2 `TOC_V2.md`.
-
----
-
-# Golden A — Chapter 1
-
-## Why this chapter
-
-The foundational chapter is the easiest place to slip back into V1 behavior:
-
-- slogans;
-- `not X but Y` contrasts;
-- list cascades;
-- generic tactical examples;
-- abstract system talk without lived consequences.
-
-If V2 cannot make Chapter 1 genuinely discursive and teachable, the style system has failed.
-
-## Central question
-
-Why do reasonable tactics so often fail to fix the real business problem?
-
-## Learning target
-
-Reader can distinguish:
-
-- tactic;
-- symptom;
-- cause;
-- amplifier;
-- prerequisite;
-- local metric vs whole-system result.
-
-## Primary canonical doctrine to reread before drafting
-
-- `merenda/00_fondamenti/marketing-first.md`
-- `merenda/00_fondamenti/sistema-operativo-merenda.md`
-- `merenda/DECISION_ROUTER.md`
-- relevant foundations crosswalk/primary-home units.
-
-## Planned opening
-
-Use a concrete business situation where a tactic appears successful locally but makes the overall business worse.
-
-Candidate recurring case: `LineaCasa`.
-
-Example tension:
-
-Lead volume rises materially, but quote delay, supervisor capacity and rework convert the apparent acquisition win into worse economics.
-
-## Planned core visual
-
-**Commercial System Map**
-
-Purpose:
-
-Show market/customer → position/offer → demand/acquisition → sales → delivery → retention → economics/cash/capacity, with feedback loops.
-
-A second compact visual may distinguish:
-
-**cause vs amplifier vs symptom**.
-
-## Pedagogical features to test
-
-- chapter-opening case;
-- causal diagram;
-- counterexample;
-- PRINCIPIO box only after explanation;
-- DIAGNOSTICA transfer prompt.
-
-## AI-smell stress points
-
-- no bullet-driven explanation of the entire system;
-- no chain of short `Non...` paragraphs;
-- no section ending with compulsory punchline;
-- headings must mark major argument moves;
-- prose must remain intelligible if headings are removed.
-
-## Founder-read test
-
-Would the first 15–20 pages feel like a serious book worth continuing rather than an expanded ChatGPT answer?
+Golden C reader-facing drafting remains paused until revised A/B pass founder-read.
 
 ---
 
-# Golden B — Chapter 23
+# Current Golden subjects
 
-## Why this chapter
+The topics remain useful, but chapter numbers/titles change under the new TOC.
 
-This chapter tests whether V2 can teach economics to a beginner without becoming:
+1. **Golden A — Capitolo 1: Il sistema di marketing**
+2. **Golden B — Capitolo 25: Economia del cliente**
+3. **Golden C — Capitolo 19: Vendita consulenziale**
 
-- glossary;
-- formula catalogue;
-- spreadsheet tutorial;
-- superficial benchmark list.
-
-## Central question
-
-Does each additional customer create enough value to deserve more growth?
-
-## Learning target
-
-Reader can:
-
-- distinguish revenue from contribution;
-- calculate fully loaded CAC;
-- interpret cohort contribution;
-- calculate simple/observed payback;
-- distinguish LTV revenue from contribution value;
-- understand acquisition ceiling as a decision rule;
-- inspect marginal CAC and growth levers;
-- identify assumptions that could flip the decision.
-
-## Primary canonical doctrine to reread before drafting
-
-- relevant `09_business` economics nodes;
-- foundations economics units;
-- offer/pricing links where required;
-- current temporal-precedence notes.
-
-## Primary recurring case
-
-`TurnoChiaro`.
-
-The case should contain at least two acquisition cohorts with similar headline CAC but different:
-
-- activation;
-- support burden;
-- retention;
-- observed payback.
-
-## Transfer case
-
-`Dispensa Nord`.
-
-Purpose:
-
-Force the reader to apply the same economic logic to irregular repeat purchase and inventory rather than subscription revenue.
-
-## Planned visuals
-
-1. cohort economics comparison table;
-2. cumulative contribution/payback curve;
-3. contribution waterfall for one acquired customer/cohort.
-
-## Formula set to prototype
-
-- contribution margin;
-- fully loaded CAC;
-- CAC recovery gap;
-- observed cohort payback;
-- lifetime contribution value;
-- LTV:CAC as diagnostic ratio with caveat;
-- allowable CAC as decision rule;
-- marginal CAC.
-
-## Pedagogical progression
-
-1. business problem;
-2. first calculation;
-3. apparent conclusion;
-4. reveal cohort difference;
-5. reinterpretation;
-6. sensitivity change;
-7. transfer to `Dispensa Nord`.
-
-## AI-smell stress points
-
-- formulas must not arrive as a list;
-- no universal ratio benchmark;
-- no generic round-number example disconnected from later chapters;
-- interpretation must dominate arithmetic.
-
-## Founder-read test
-
-Could a non-finance entrepreneur reproduce the calculation and explain what decision changes because of it?
+The old thesis-style titles are retired as chapter titles.
 
 ---
 
-# Golden C — Chapter 18
+# Golden A — Capitolo 1: Il sistema di marketing
 
-## Why this chapter
+## Stress test
 
-Sales content easily collapses into one of two weak forms:
+Can V2 explain a broad foundational subject systematically, naturally and without depending on a case opener?
 
-- scripts/tactics;
-- abstract advice about listening and diagnosing.
+## Mandatory hierarchy
 
-This golden chapter must demonstrate an actual commercial decision process.
+### General framing
 
-## Central question
+Explain:
 
-How should a live sales conversation help the right customer decide?
+- what marketing covers in this manual;
+- why promotion is only one function;
+- why market, offer, sales, delivery, economics and capacity interact;
+- what the chapter will develop.
 
-## Learning target
+### Sections
 
-Reader can:
+1. Marketing e promozione
+2. L'impresa come sistema commerciale
+3. Risultati locali e risultato complessivo
+4. Cause, sintomi e amplificatori
+5. Strategia, strumenti e responsabilità
 
-- prepare from transferred context;
-- distinguish qualification from diagnosis;
-- deepen criteria, problem and consequence;
-- map stakeholders/decision process;
-- prescribe only after fit;
-- use proof where certainty is missing;
-- interpret objections diagnostically;
-- know when the right outcome is no sale.
+## Examples
 
-## Primary canonical doctrine to reread before drafting
+Examples come after the relevant theory.
 
-- `merenda/06_vendita/` specialist nodes;
-- sales end-to-end synthesis from manual crosswalk;
-- acquisition/handoff supporting nodes;
-- offer/proof supporting nodes.
+Preferred:
 
-## Primary recurring case
+- generic service-company example;
+- unnamed/A-B comparison;
+- short local tactical counterexample.
 
-`Officina Dati`.
+Do not use `LineaCasa` as recurring fictional narrative.
 
-Scenario:
+## Visuals
 
-A prospect requests a dashboard/reporting solution, while diagnosis reveals that reconciliation errors, stakeholder disagreement and existing workflow are the actual decision problem.
+Keep the useful concepts from:
 
-## Transfer contrast
+- Commercial System Map;
+- cause / amplifier / symptom.
 
-`LineaCasa`.
+Graphic design can be improved later, but wording and placement must reflect general-to-specific exposition.
 
-Purpose:
+## Founder-read question
 
-Show that the same diagnostic discipline survives a very different B2C/high-ticket environment while the questions, proof and decision process change.
-
-## Planned visuals/artifacts
-
-1. consultative sales process map;
-2. stakeholder/decision map;
-3. annotated sales-notes artifact;
-4. optional certainty diagnostic visual.
-
-## Pedagogical progression
-
-1. opening sales scene;
-2. reader predicts what the seller should do;
-3. expert walkthrough with reasoning;
-4. branch where solution is not fit;
-5. objection interpreted as missing certainty/information;
-6. transfer case requiring reader choice.
-
-## AI-smell stress points
-
-- no list of magic questions;
-- no fake dialogue where every prospect answer conveniently advances the framework;
-- no aggressive close mythology;
-- no generic `listen more` advice without observable behavior.
-
-## Founder-read test
-
-Would an experienced seller recognize a real decision process while a beginner can still follow and reproduce it?
+Does this feel like the opening chapter of a serious manual, with a clear general frame and natural prose?
 
 ---
 
-# Common production workflow for all three
+# Golden B — Capitolo 25: Economia del cliente
 
-1. **FRESHNESS READ** — reread live doctrine and relevant V2 mappings.
-2. **CASE LOCK** — freeze the facts/numbers needed for the chapter before prose.
-3. **VISUAL BRIEF** — specify teaching job and information carried by each planned visual.
-4. **NARRATIVE ARCHITECTURE** — scene/problem → model → demonstration → application/integration, adapted to chapter mode.
-5. **DRAFT** — write near-final authorial prose.
-6. **VISUAL PROTOTYPE** — build actual figures/artifacts, not placeholders.
-7. **PEDAGOGY PASS** — worked example, retrieval/transfer, guidance appropriateness.
-8. **AI-SMELL / STYLE PASS** — run Style Bible pseudocommands.
-9. **DOCTRINE DIFF** — verify no semantic drift.
-10. **LAYOUT PROTOTYPE** — render as real book pages/PDF sample.
-11. **INDEPENDENT AUDITS** — doctrine, instructional, editorial, visual.
+## Stress test
+
+Can V2 teach a quantitative subject systematically without letting a synthetic company story carry the theory?
+
+## Mandatory hierarchy
+
+### General framing
+
+Explain what `economia del cliente` means and how it differs from:
+
+- revenue;
+- simple CAC;
+- short-term sales volume.
+
+Introduce the chapter map before detailed calculations.
+
+### Sections
+
+1. Unit economics
+2. Analisi per coorti
+3. Lifetime value
+4. Payback avanzato
+5. Costo massimo di acquisizione
+6. Costo marginale e leve di crescita
+
+## Examples
+
+Preserve the strongest numerical teaching from the first Golden B, but rewrite it as generic worked examples.
+
+Use:
+
+- `Coorte A / Coorte B`;
+- generic subscription-business assumptions;
+- generic transfer example for irregular repeat purchase.
+
+Do not use `TurnoChiaro` or `Dispensa Nord` as fictional brands.
+
+## Visuals
+
+Retain/improve:
+
+- cohort comparison;
+- cumulative contribution/payback chart;
+- contribution waterfall where useful.
+
+## Founder-read question
+
+Does the chapter first explain the economic model clearly and then use numbers to demonstrate it, instead of making the reader infer the theory from a fictional case?
+
+---
+
+# Golden C — Capitolo 19: Vendita consulenziale
+
+## Status
+
+**PAUSED — DO NOT DRAFT READER-FACING PROSE YET.**
+
+Existing doctrine read, notes artifact and visual prototypes can be preserved as backend material.
+
+When resumed, the chapter must follow:
+
+### General framing
+
+- purpose of consultative selling;
+- relationship between qualification, diagnosis, prescription, proof and decision;
+- role in the broader marketing/sales system.
+
+### Sections
+
+1. Preparazione della trattativa
+2. Qualifica e diagnosi
+3. Criteri, motivazioni e conseguenze
+4. Stakeholder e processo decisionale
+5. Prescrizione e prova
+6. Proposta, obiezioni e decisione
+
+Only after theory is established should the chapter show a worked conversation/artifact.
+
+---
+
+# Common production workflow — revised
+
+For revised Golden A/B:
+
+1. **FRESHNESS READ** — confirm current doctrine.
+2. **SECTION SPEC** — lock Part/Chapter/Section hierarchy.
+3. **GENERAL FRAME** — draft opening exposition before examples.
+4. **THEORY PASS** — ensure every section explains the concept independently.
+5. **EXAMPLE PASS** — add generic/A-B/real examples after theory.
+6. **QUANT PASS** — formulas and worked calculations where relevant.
+7. **VISUAL PASS** — figures support already-explained relationships.
+8. **NATURAL-LANGUAGE PASS** — run revised Style Bible.
+9. **DOCTRINE DIFF** — verify semantic fidelity.
+10. **LAYOUT PROTOTYPE** — build PDF.
+11. **FOUR AUDITS** — doctrine, instructional, editorial, visual.
 12. **FOUNDER READ** — explicit approval/rejection.
 
 ---
 
-# Golden gate
+# Revised founder gate
 
-The three chapters pass only if all are true:
+Golden A/B pass only if founder review confirms all of the following:
 
+- clear general framing before detail;
+- natural human-authored Italian;
+- theory precedes substantial examples;
+- no invented branded fictional-company dependency;
+- Part → Chapter → Section hierarchy is obvious;
+- titles are short/topical;
+- numerical examples remain strong where needed;
+- visuals help without dominating;
 - doctrine P0/P1 = 0;
 - instructional P0/P1 = 0;
 - editorial P0/P1 = 0;
-- visual P0/P1 = 0;
-- no systematic V1 AI-smell returns;
-- examples/cases are coherent;
-- formulas are reproducible where relevant;
-- the founder explicitly considers the reading experience acceptable for scaling.
+- visual P0/P1 = 0.
 
-**Until that gate passes, the remaining 28 chapters stay unproduced.**
+Only after A/B pass this gate may Golden C reader-facing prose be drafted.
+
+The remaining production chapters stay blocked until all three Golden topics ultimately pass.
