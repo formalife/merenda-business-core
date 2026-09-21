@@ -11,29 +11,19 @@ The current prose remains canonical. These features are support elements with ex
 
 ---
 
-# Feature A1 — IN PRATICA
+# Rejected feature — IN PRATICA after Section 1.1
 
-## Placement
+The first apparatus draft proposed an `IN PRATICA` box after `1.1 Marketing e promozione`.
 
-After Section `1.1 Marketing e promozione`, after the paragraph that concludes that marketing must be able to report information upstream and rethink target/product/price/process/service.
+**FEATURE-DELETE RESULT: REMOVE.**
 
-## Reader-facing copy
+Reason: the current prose already performs the practical job well. The section ends by explaining what the entrepreneur must understand before delegating or increasing promotion. A separate box would repeat the same advice and weaken the continuous reading experience.
 
-> **IN PRATICA — Prima di chiedere “più marketing”**
->
-> Quando vuoi aumentare una campagna, cambiare agenzia o aprire un nuovo canale, chiarisci prima quattro cose: quale cliente vuoi acquisire, perché dovrebbe scegliere la tua impresa, quanto puoi permetterti di spendere per ottenerlo e quale parte dell'organizzazione dovrà assorbire il volume aggiuntivo. Se una di queste risposte manca, il problema non è ancora soltanto esecutivo. La nuova attività di marketing potrebbe semplicemente aumentare più velocemente un'incertezza che l'impresa non ha risolto.
-
-## Learning job
-
-Translate the broad marketing-first distinction into a concrete pre-acquisition management behavior.
-
-## Why not ordinary prose
-
-Useful as a later retrieval checkpoint before a campaign/channel decision.
+This rejection is retained as evidence that the apparatus is not quota-driven.
 
 ---
 
-# Feature A2 — ERRORE FREQUENTE
+# Feature A1 — ERRORE FREQUENTE
 
 ## Placement
 
@@ -51,7 +41,7 @@ Inoculate against metric substitution / local optimization before the numerical 
 
 ---
 
-# Existing feature A3 — ESEMPIO SVOLTO
+# Existing feature A2 — ESEMPIO SVOLTO
 
 Existing chapter feature:
 
@@ -69,7 +59,7 @@ Visually distinguish assumptions/data from interpretation. Do not turn the table
 
 ---
 
-# Feature A4 — ERRORE FREQUENTE
+# Feature A3 — ERRORE FREQUENTE
 
 ## Placement
 
@@ -87,7 +77,7 @@ Make the containment/correction distinction highly retrievable because it change
 
 ---
 
-# Feature A5 — VERIFICA NELLA TUA AZIENDA
+# Feature A4 — VERIFICA NELLA TUA AZIENDA
 
 ## Placement
 
@@ -123,14 +113,15 @@ A one-page causal map for one current initiative.
 
 Support features in Chapter 1:
 
-- 1 `IN PRATICA`;
 - 2 `ERRORE FREQUENTE`;
 - 1 existing `ESEMPIO SVOLTO`;
 - 1 `VERIFICA NELLA TUA AZIENDA`.
 
+No `IN PRATICA` box is needed because the prose already integrates practical implications.
+
 No `APPROFONDIMENTO` is required.
 
-Reason: the chapter is foundational. Adding optional nuance would reduce momentum more than it would improve comprehension.
+Reason: the chapter is foundational. Additional callouts would reduce momentum more than they improve comprehension.
 
 ## Gate
 
