@@ -1,680 +1,495 @@
 # Authorial Style Bible — Manual V2
 
+Status: **CURRENT — revised after founder review**  
+Date: 2026-09-21
+
 ## Purpose
 
-This document defines how Manual V2 should sound and read.
+This document defines the reader-facing voice of Manual V2.
 
-It is not a cosmetic style guide. It governs the relationship between reasoning, explanation, narrative continuity and authorial credibility.
+The first V2 style system materially improved the V1 but still produced prose that felt engineered: visible causal choreography, deliberate contrasts, consultant-like transitions and sentences written as if they needed to become memorable lines.
 
-The target voice is:
+That implementation is superseded.
 
-**an experienced operator-teacher reasoning with the reader through real business problems.**
+The new target is simpler:
 
-The reader should feel that a knowledgeable human author is selecting, weighing and connecting ideas — not that a system is serializing a knowledge base.
+**a competent human author explaining a subject clearly, naturally and systematically to an intelligent reader.**
+
+The reader should notice the ideas, not the writing machinery.
 
 ---
 
 # 1. Core voice
 
-The V2 author is:
+The voice is:
 
-- clear without being skeletal;
-- direct without sounding like a chat reply;
-- commercially skeptical without constant negation;
-- precise without bureaucratic definitions;
-- discursive without wandering;
-- confident about established principles and explicit about uncertainty;
-- practical without reducing every idea to a checklist;
-- analytical without hiding behind jargon;
-- capable of slowing down when a concept deserves depth;
-- willing to show how a conclusion is reached, not only what the conclusion is.
+- natural Italian;
+- adult-to-adult;
+- clear and discursive;
+- technically precise when needed;
+- calm rather than performative;
+- explanatory rather than slogan-driven;
+- practical without sounding like consulting slides;
+- confident where the doctrine is strong;
+- explicit about uncertainty where evidence is incomplete.
 
-The author is not:
-
-- a motivational speaker;
-- a consultant producing slides;
-- a chatbot answering a sequence of prompts;
-- a textbook committee voice;
-- a copywriter turning every paragraph into a punchline;
-- an academic trying to display sophistication.
+The author should sound like someone who knows the field well enough to explain it without constantly proving that expertise.
 
 ---
 
-# 2. Authorial presence = visible judgment
+# 2. What the voice is not
 
-The book is intentionally reader-facing and source-agnostic, but it must not become authorless.
+Do not sound like:
 
-Authorial presence comes from judgment, for example:
+- ChatGPT expanding a prompt;
+- a consultant presenting a framework;
+- a motivational speaker;
+- a LinkedIn post;
+- a sales page;
+- a university committee;
+- a lecturer trying to dramatize every concept.
 
-- distinguishing the important variable from the merely visible one;
-- explaining why a tempting interpretation is weak;
-- showing what evidence would change the conclusion;
-- admitting when the same rule produces different decisions in different contexts;
-- choosing which detail to ignore;
-- explaining why one metric deserves priority;
-- showing where a framework stops being useful.
+Avoid the feeling that every paragraph has been optimized to contain a takeaway.
+
+---
+
+# 3. Natural exposition before rhetorical effect
+
+Prefer ordinary explanatory prose.
+
+Weak:
+
+> Il CAC non mente. Risponde soltanto a una domanda troppo piccola.
+
+Better:
+
+> Il CAC indica quanto è costato acquisire un cliente, ma da solo non dice quanto quel cliente lascerà in margine, quanto tempo servirà per recuperare il costo di acquisizione o quanto lavoro sarà necessario per servirlo.
+
+The first sentence is memorable but constructed. The second is more useful in a manual because it explains the concept directly.
+
+Memorable phrasing is allowed when it occurs naturally, not as a production requirement.
+
+---
+
+# 4. General framing
+
+At the beginning of a chapter, write as an author introducing a field of study.
+
+Explain:
+
+- what the subject is;
+- why it matters;
+- where it sits in the broader system;
+- what the reader needs to understand about it.
+
+Do not immediately force the reader into a fictional situation.
+
+Do not create artificial suspense before naming the topic.
+
+A manual should orient first.
+
+---
+
+# 5. Paragraphs
+
+The paragraph is the default unit of exposition.
+
+A normal paragraph develops one coherent thought across several sentences.
+
+Paragraphs may:
+
+- introduce a concept;
+- explain a cause;
+- distinguish nearby concepts;
+- qualify a principle;
+- interpret a number;
+- connect theory to practice.
+
+Break the paragraph when the intellectual move changes, not because a sentence sounds quotable.
+
+Avoid chains of one-sentence paragraphs.
+
+---
+
+# 6. Sentence rhythm
+
+Use natural variation.
+
+Most prose should consist of medium-length sentences mixed with shorter and longer ones as needed.
+
+Avoid:
+
+- repeated sentence skeletons;
+- repeated three-part constructions;
+- strings of emphatic short sentences;
+- excessive semicolon choreography;
+- constant rhetorical questions;
+- repeated `non X, ma Y` structures.
+
+Read aloud. If the cadence sounds designed, flatten it.
+
+---
+
+# 7. Positive explanation
+
+Explain what something is before spending time on what it is not.
+
+Weak:
+
+> Il posizionamento non è uno slogan. Non è il logo. Non è una frase creativa.
+
+Better:
+
+> Il posizionamento riguarda il significato che l'impresa vuole occupare nella decisione del cliente: per quale problema o situazione dovrebbe essere considerata, su quale criterio dovrebbe essere preferita e quali prove rendono credibile quella preferenza. Logo e slogan possono esprimerlo, ma vengono dopo.
+
+Negation is useful only when correcting a real misconception.
+
+---
+
+# 8. Headings
+
+Headings are navigation, not rhetoric.
 
 Prefer:
 
-> If two campaigns produce the same number of customers, I would still refuse to call them equivalent until I know the margin, the payback and the operational load of those customers.
+- `Margine di contribuzione`
+- `Analisi per coorti`
+- `Obiezioni e certezza`
 
-Over:
+Avoid:
 
-> You must consider margin, payback and capacity.
+- `Quando il CAC smette di dirti la verità`
+- `La domanda che cambia tutto`
+- `Il momento in cui il cliente merita altra crescita`
 
-The first exposes expert reasoning. The second only states a rule.
-
----
-
-# 3. Paragraph architecture
-
-## Default paragraph
-
-A normal paragraph develops one coherent thought through multiple connected sentences.
-
-A useful internal shape is often:
-
-**claim → reason → consequence → qualification/example.**
-
-This is a mental model, not a mandatory template.
-
-## Short paragraphs
-
-One-sentence paragraphs are allowed when they create real emphasis or mark a decisive turn.
-
-They should be rare enough that the reader notices them.
-
-Do not isolate a sentence merely because it sounds quotable.
-
-## Long paragraphs
-
-Long paragraphs are allowed when the reasoning needs continuity. Break them when the intellectual move changes, not at arbitrary sentence counts.
+A heading should help the reader find the subject later.
 
 ---
 
-# 4. Sentence rhythm
+# 9. Transitions
 
-V2 should vary sentence length naturally.
+Transitions should be almost invisible.
 
-Use short sentences for:
+Weak:
 
-- verdicts;
-- important reversals;
-- conclusions after developed reasoning.
+> A questo punto nasce spontaneamente una tentazione.
 
-Use medium and long sentences for:
+Prefer:
 
-- causal explanation;
-- comparison;
-- qualification;
-- showing how several variables interact.
+> Il payback descrive il tempo necessario a recuperare il costo di acquisizione. Per stimare invece il valore economico complessivo della relazione serve un'altra misura: il lifetime value.
 
-Avoid extended runs of short declarative sentences. They create artificial urgency and flatten importance.
+The logic itself should carry the reader forward.
 
-Avoid extended runs of structurally identical sentences even when sentence lengths differ.
+Avoid announcing every change of reasoning.
 
 ---
 
-# 5. Lists
+# 10. Authorial judgment
 
-Lists are permitted when the reader needs to see items as a set.
+Judgment remains important, but it should be embedded in the explanation rather than theatrically foregrounded.
+
+Weak:
+
+> Io mi rifiuterei di chiamare buone queste due campagne finché non conosco margine e payback.
+
+Better:
+
+> Due campagne con lo stesso numero di clienti non sono economicamente equivalenti se producono margini, tempi di recupero o costi di servizio diversi.
+
+Use first person only when it genuinely clarifies a judgment or procedure. It is not the default voice.
+
+---
+
+# 11. Definitions
+
+Definitions should be clear and direct.
+
+They do not always need a story before them.
+
+For a systematic manual, it is often appropriate to state the concept first, explain why it matters and then illustrate it.
+
+Example:
+
+> Il margine di contribuzione è ciò che rimane dai ricavi dopo aver sottratto i costi che variano direttamente con la vendita o con l'erogazione. Serve a capire quanto valore economico resta disponibile per recuperare il costo di acquisizione, sostenere la struttura e generare profitto.
+
+Then show the numerical example.
+
+Avoid dictionary dryness, but do not hide definitions behind narrative devices.
+
+---
+
+# 12. Examples
+
+Examples are subordinate to the theory.
+
+Default forms:
+
+- `supponiamo che un'azienda...`;
+- `consideriamo due aziende, A e B...`;
+- `consideriamo due coorti, A e B...`;
+- generic industry example;
+- real documented case when useful.
+
+Do not invent branded fictional companies simply to create narrative realism.
+
+Use a named fictional entity only if a future explicit decision establishes a genuine learning advantage. It is not the default.
+
+---
+
+# 13. Worked examples
+
+For numerical or procedural concepts, a worked example should be visibly separated after the theory has been explained.
+
+A good worked example contains:
+
+- assumptions;
+- data;
+- calculation or reasoning;
+- result;
+- interpretation;
+- limit/sensitivity when relevant.
+
+The prose around it should remain readable without the example.
+
+---
+
+# 14. Lists
+
+Lists remain permitted for material that is naturally a set.
 
 Good uses:
 
-- a checklist used during diagnosis;
-- procedural steps in a repeatable process;
-- a compact reference list after the explanation;
-- variables in a formula/model;
-- alternatives that need side-by-side comparison.
+- checklist;
+- process steps;
+- variables;
+- comparison criteria;
+- reference summary.
 
 Weak uses:
 
-- replacing causal prose;
-- listing consequences that would be clearer as a scenario;
-- listing six examples when two developed examples would teach more;
-- breaking a paragraph into bullets only to make the page look lighter.
+- replacing an explanation;
+- creating visual variety;
+- breaking one paragraph into five bullets;
+- listing obvious consequences rather than developing the important one.
 
-Editorial challenge:
-
-> If the order or relationship between the items matters, prose, a table or a figure is probably better than bullets.
+Before keeping a list, ask whether prose or a table would show the relationship better.
 
 ---
 
-# 6. Headings
+# 15. Questions
 
-Headings mark phases in an argument.
+Rhetorical questions should be uncommon.
 
-A section should normally earn a heading by doing at least one of these:
+Use a direct question when:
 
-- introducing a new problem;
-- changing explanatory mode;
-- moving from model to application;
-- moving from principle to case;
-- beginning a substantial subproblem.
+- it frames a genuine decision;
+- it is an exercise;
+- the reader should pause before continuing.
 
-Do not create a heading for every definition or observation.
-
-The reader should be able to skim headings and reconstruct the chapter argument, not a glossary.
+Do not repeatedly use question → answer as paragraph rhythm.
 
 ---
 
-# 7. Definitions
+# 16. Technical vocabulary
 
-Do not lead with dictionary-style definitions unless the term itself is the problem.
+Use ordinary Italian first.
 
-Preferred sequence for novice material:
+Preserve English terminology when the reader is likely to encounter it professionally.
 
-1. show the situation;
-2. reveal the distinction the reader needs;
-3. name the concept;
-4. explain its boundaries;
-5. apply it.
+First-use pattern:
 
-Example:
+> Il costo di acquisizione cliente, spesso indicato con la sigla CAC (*customer acquisition cost*), ...
 
-Instead of starting with:
+Then use the abbreviation naturally.
 
-> Payback is the time required to recover CAC through contribution margin.
-
-Prefer first showing two customers with identical LTV but different recovery speed, then naming the distinction.
-
-Definitions become more memorable when they solve a problem already visible to the reader.
+Do not translate back and forth unnecessarily.
 
 ---
 
-# 8. Questions
+# 17. Numbers and formulas
 
-Direct questions are tools, not decoration.
+Quantitative explanation should be calm and explicit.
 
-Use them to:
+Preferred order:
 
-- frame the chapter problem;
-- force a diagnostic distinction;
-- create a genuine pause before a non-obvious answer;
-- give the reader an operational question to reuse.
+1. concept;
+2. formula;
+3. variables;
+4. worked example;
+5. interpretation;
+6. limitation/sensitivity.
 
-Avoid asking a rhetorical question every few paragraphs and immediately answering it.
+Do not dramatize arithmetic.
 
-If the text already knows where it is going, ordinary prose is often stronger.
+Avoid generic claims such as `questo numero cambia tutto`.
 
----
-
-# 9. Negation and contrast
-
-Contrast is useful when the reader is likely to hold the wrong model.
-
-Use explicit `not X but Y` structures selectively.
-
-Prefer positive construction when no misconception needs correction.
-
-Weak pattern:
-
-> Marketing is not promotion. It is not advertising. It is not social media. It is not communication. It is business design.
-
-Stronger pattern:
-
-> Marketing begins before promotion. It determines whom the business intends to serve, what it will make meaningfully different for that customer, what economics can sustain the promise and only then how that promise should be communicated.
-
-The stronger version defines the model directly and preserves the contrast implicitly.
+State what the result changes in the decision.
 
 ---
 
-# 10. Transitions
+# 18. Qualification and uncertainty
 
-A transition should carry reasoning forward.
-
-Weak transition:
-
-> Now let us look at price.
-
-Stronger transition:
-
-> Once the offer is clear, price stops being an isolated number. It becomes the point where perceived value, risk, customer quality and unit economics collide.
-
-The second transition tells the reader why the next topic follows.
-
----
-
-# 11. Examples
-
-Examples are part of the explanation.
-
-## Micro-example
-
-Purpose: make one distinction concrete.
-
-Keep it brief and clean.
-
-## Worked example
-
-Purpose: expose the expert's reasoning process.
-
-Include enough context to show:
-
-- starting information;
-- decision problem;
-- calculation or diagnostic path;
-- rejected interpretations;
-- conclusion;
-- what would change the conclusion.
-
-## Counterexample
-
-Purpose: show where an apparently useful rule fails.
-
-## Recurring case
-
-Purpose: demonstrate integration across chapters and show consequences over time.
-
-Avoid generic placeholders when the learning job requires realism.
-
----
-
-# 12. Numbers and formulas
-
-Do not throw formulas at the reader before establishing the decision problem.
-
-Preferred sequence:
-
-**business situation → quantity we need to understand → formula → worked calculation → interpretation → sensitivity/limit.**
-
-Always distinguish:
-
-- accounting identity;
-- operational metric;
-- estimate;
-- forecast assumption;
-- rule of thumb.
-
-The reader must know what kind of number they are looking at.
-
----
-
-# 13. Visuals in the prose
-
-Text should prepare the visual and then let the visual do work.
-
-Do not narrate every pixel of a figure.
-
-Do not add a figure that merely repeats the preceding paragraph.
-
-Good relationship:
-
-1. prose establishes the question;
-2. figure makes the relationship visible;
-3. prose interprets the implication.
-
-Visual specifics are governed later by `VISUAL_SYSTEM.md`.
-
----
-
-# 14. Boxes and sidebars
-
-A box is justified only when the material benefits from being separated from the main argument.
-
-Possible roles:
-
-- important principle worth retaining;
-- worked numerical example;
-- common failure mode;
-- specialist deep dive;
-- field note/case fragment;
-- implementation tool.
-
-Never use boxes to hide fragmented writing.
-
----
-
-# 15. Technical vocabulary
-
-Prefer ordinary Italian for explanation.
-
-Preserve English terms when they are professionally useful because the reader will encounter them elsewhere.
-
-First use pattern:
-
-**Italian meaning first → professional term → abbreviation if useful.**
-
-Example:
-
-> Il costo di acquisizione cliente, spesso indicato come CAC (*customer acquisition cost*), deve includere...
-
-Do not make the reader translate a paragraph before understanding it.
-
----
-
-# 16. Qualification and uncertainty
-
-Be precise about certainty without producing defensive prose.
-
-Use three levels naturally:
-
-- established principle;
-- context-dependent judgment;
-- open hypothesis.
+State uncertainty plainly.
 
 Prefer:
 
-> In a high-margin professional service this may be acceptable; in a low-margin recurring product the same payback could create a serious financing problem.
+> In questo esempio il valore dei mesi 13 e 14 è una proiezione, non un dato osservato.
 
-Over a generic caveat chain such as:
+Over:
 
-> This does not mean X. It also does not mean Y. There are exceptions.
+> Ed è proprio qui che dobbiamo fermarci, perché il futuro non è mai ciò che sembra.
 
----
+Distinguish:
 
-# 17. Rhetorical variation
+- fact;
+- observation;
+- estimate;
+- forecast;
+- hypothesis;
+- managerial decision rule.
 
-Across a chapter, vary explanatory modes intentionally.
-
-A chapter may move through:
-
-- scene;
-- analysis;
-- definition;
-- figure;
-- worked example;
-- counterexample;
-- practical tool;
-- synthesis.
-
-It should not repeat the same eight-stage sequence mechanically.
-
-Consistency belongs at the level of learning quality and navigation, not sentence choreography.
+Do not add defensive caveats after every sentence.
 
 ---
 
-# 18. Narrative continuity
+# 19. Theory and practice
 
-Every chapter should feel as though the next section became necessary because of the previous one.
+The manual should not oscillate constantly between abstract theory and tiny examples.
 
-A useful editing question is:
+Prefer longer coherent stretches:
 
-> If I remove the heading, does the transition still make intellectual sense?
+- explain the subject;
+- develop its components;
+- then demonstrate.
 
-If not, the heading may be hiding a broken argument.
-
----
-
-# 19. Tone
-
-The tone is adult-to-adult.
-
-Do not:
-
-- congratulate the reader;
-- use classroom cheerleading;
-- imitate social-media urgency;
-- patronize beginners;
-- over-explain obvious facts;
-- use fake intimacy.
-
-Do:
-
-- assume intelligence;
-- explain missing domain knowledge;
-- make commercial consequences explicit;
-- state difficult conclusions clearly;
-- show respect through rigor.
+This creates intellectual continuity and reduces the sense of generated micro-content.
 
 ---
 
-# 20. What should feel memorable
+# 20. Visual references
 
-Memorability should emerge from:
+Introduce visuals plainly.
 
-- a clear causal model;
-- a strong example;
-- a useful visual;
-- a sharp distinction;
-- a derived principle.
+Example:
 
-Not from constant slogan production.
+> La Figura 25.2 mostra la contribuzione cumulata delle due coorti e il punto in cui il costo di acquisizione viene recuperato.
 
-A principle may be compressed into a memorable line only after the text has earned it.
+Then interpret the relevant pattern.
+
+Do not over-narrate the figure or use it as a dramatic reveal.
 
 ---
 
-# 21. V1 → V2 transformation patterns
+# 21. Boxes
 
-These are style demonstrations, not final chapter prose.
+Use box labels as editorial navigation, not as a second voice.
 
-## Example 1 — From list to causal prose
+A box should be written in the same natural style as the main text.
 
-### V1-like
+Avoid slogans inside `PRINCIPIO` boxes unless the phrasing is genuinely useful and precise.
 
-> Se a monte esiste una differenza forte, la promozione può renderla più visibile. Se esiste una proposta chiara, può farla arrivare a più persone. Se il processo è debole, amplifica anche quello.
-
-### V2 direction
-
-> Promotion behaves less like a repair shop than like a gain control. Turn it up and the signal becomes louder, but so does the noise already present in the system. A company with a clear reason to be chosen can use more distribution to expose that advantage to more buyers. A company that is indistinguishable from its competitors often buys a different result with the same budget: more comparisons, more price pressure and more commercial work per sale.
-
-### Why better
-
-The paragraph develops a single analogy and follows its causal consequences instead of enumerating them.
+Prefer a short explanatory paragraph over a poster-like sentence.
 
 ---
 
-## Example 2 — From telegraphy to developed reasoning
+# 22. Chapter openings
 
-### V1-like
+A chapter opening should usually be 3–8 paragraphs of broad exposition before the first substantial example.
 
-> Un social network è un mezzo. Una lettera è un mezzo. Un webinar è un formato. Un software è uno strumento.
+This is a guideline, not a quota.
 
-### V2 direction
+The opening should make the reader understand:
 
-> A social network, a sales letter, a webinar and a CRM can all be useful, but none of them contains a strategy. Each becomes strategically meaningful only after the business has decided whom it wants to reach, what it wants that person to do next, how much that transition is worth and what evidence will tell us whether the tool is doing its job.
+- the domain;
+- its role;
+- the main components;
+- why the order of those components matters.
 
-### Why better
-
-The new paragraph keeps the distinction but removes four syntactically identical sentences.
-
----
-
-## Example 3 — From abstract rule to scene
-
-### V1-like
-
-> Più lead non significa necessariamente un business migliore.
-
-### V2 direction
-
-> Imagine a sales team that can properly handle forty opportunities a week. Marketing suddenly delivers eighty. On the dashboard the campaign looks like a success; on Monday morning the company has actually created a queue. Response times lengthen, weaker prospects receive the same attention as stronger ones and the most expensive salespeople spend their day sorting rather than selling. The extra demand had value, but the system had no capacity to convert that value into economics.
-
-### Why better
-
-The reader experiences the mechanism before receiving the abstraction.
+The first subheading should feel like a natural descent into the first component.
 
 ---
 
-## Example 4 — From definition cascade to problem-led terminology
+# 23. Chapter closings
 
-### V1-like
+Do not manufacture a punchline.
 
-> CAC è il costo di acquisizione cliente. LTV è il valore del cliente nel tempo. Payback è il tempo di recupero del CAC.
+A good close can:
 
-### V2 direction
+- reconnect the sections;
+- explain the resulting decision logic;
+- identify the next subject that follows naturally;
+- provide a compact tool or exercise.
 
-> Two customers can eventually generate the same margin and still place completely different demands on cash. If one recovers the cost of acquisition in thirty days and the other needs twelve months, the second customer forces the company to finance growth for much longer. That recovery time is the payback period. Only after seeing the difference does CAC and lifetime value become a useful pair of numbers rather than three acronyms to memorize.
-
-### Why better
-
-The term arrives because the decision requires it.
-
----
-
-## Example 5 — From repeated negation to positive model
-
-### V1-like
-
-> Il posizionamento non è uno slogan. Non è un claim. Non è un nome creativo.
-
-### V2 direction
-
-> Positioning is the place a business is trying to occupy in the customer's decision: the circumstance in which it should come to mind, the criterion on which it wants to be preferred and the evidence that makes that preference credible. A slogan may express that position, but it cannot manufacture one that the business has not built operationally.
-
-### Why better
-
-The positive model comes first; the misconception is handled once, at the end.
+The final sentence does not need to sound quotable.
 
 ---
 
-## Example 6 — From checklist-first to explanation-first
+# 24. AI-like patterns to remove aggressively
 
-### V1-like
+Flag and rewrite when frequent:
 
-> Prima di scegliere un mercato verifica domanda, raggiungibilità, capacità di spesa, trend e appropriatezza economica.
+- `La domanda non è X. È Y.`;
+- `Il punto non è X. È Y.`;
+- `Non ancora.` as a standalone beat;
+- repeated `Questo non significa che...`;
+- repeated `A questo punto...`;
+- repeated `La regola è...`;
+- repeated `Il principio è...`;
+- three or more rhetorical questions close together;
+- strings of one-sentence paragraphs;
+- identical section openings;
+- forced analogies;
+- invented company names used as narrative scaffolding;
+- endings built as aphorisms.
 
-### V2 direction
-
-> A market can be attractive on paper and still be commercially useless to a particular company. Demand matters, but so does the ability to identify buyers, reach them at a tolerable cost and sell at a price that leaves enough contribution after delivery. Growth in the category helps only if the company can participate in that growth. These conditions form the market gate; the checklist belongs after the logic is understood.
-
-### Why better
-
-The reader learns why the variables belong together before receiving the reference tool.
-
----
-
-## Example 7 — From rhetorical-question rhythm to authorial judgment
-
-### V1-like
-
-> Qual è il problema? Qual è la causa? Qual è il primo collo di bottiglia?
-
-### V2 direction
-
-> The visible problem is only the entry point. I would first locate the metric that is failing, then move one step upstream and ask which earlier condition could plausibly create that failure. The first bottleneck worth attacking is not necessarily the weakest part of the company; it is the earliest weak link that materially constrains the economic result we care about.
-
-### Why better
-
-The author demonstrates the diagnostic move instead of interrogating the reader in fragments.
+These patterns are not absolutely forbidden. Systematic recurrence is the problem.
 
 ---
 
-## Example 8 — From synthetic case to worked case
+# 25. Editing pseudocommands
 
-### V1-like
+## `PLAIN-ITALIAN`
 
-> Supponiamo che un servizio costi 500 euro e abbia 200 euro di costi variabili. Il margine è 300 euro.
+Rewrite the passage as natural professional Italian without losing precision.
 
-### V2 direction
+## `REMOVE-STAGECRAFT`
 
-> A training company sells a workshop for €500. The instructor, venue and materials consume €200 only when the workshop is delivered, so the first €300 is contribution margin, not profit. If acquiring the customer cost €420, the first transaction still leaves €120 of acquisition cost unrecovered. The business now has a real question: is there a credible second purchase, referral value or price/cost change that closes that gap — or is the apparent sale economically incomplete?
+Remove suspense, rhetorical reveals and visible teaching choreography that do not improve understanding.
 
-### Why better
+## `AUTHOR-DISAPPEAR`
 
-The arithmetic becomes part of a decision rather than a sterile calculation.
+Can the reader focus on the subject rather than the author's performance?
 
----
+## `PARAGRAPH-CONTINUITY`
 
-## Example 9 — From generic caveat to contextual boundary
+Do paragraphs develop thoughts or behave like stacked caption cards?
 
-### V1-like
+## `RHETORIC-REPEAT`
 
-> Questo non significa che il contatto a freddo sia sempre sbagliato.
+Find recurring contrast/question/punchline structures and vary or remove them.
 
-### V2 direction
+## `THEORY-FIRST`
 
-> Cold outreach can be rational when the target is identifiable, each account is valuable enough to justify direct attention and the message can be specific to a real buying situation. The same tactic becomes wasteful when the addressable market is broad, customer value is low and the company is using manual outreach only because it has not built a scalable demand mechanism.
+Is the concept explained before the substantial example?
 
-### Why better
+## `GENERIC-EXAMPLE`
 
-The qualification becomes a decision rule.
+Can a named fictional company be replaced by a simpler unnamed or A/B example without losing teaching value?
 
----
+## `MANUAL-VOICE`
 
-## Example 10 — From punchline to earned synthesis
-
-### V1-like
-
-> La scala amplifica anche i difetti.
-
-### V2 direction
-
-> Scale changes the cost of being wrong. A small process can survive because the founder notices every exception, a senior seller rescues weak opportunities and operations absorbs rework informally. Double the volume and those hidden subsidies become queues, overtime, refunds and cash tied up in mistakes. That is why scale should follow evidence of economics and capacity rather than merely evidence that demand exists.
-
-### Why better
-
-The memorable principle is still there, but it is earned by explanation.
+Would this passage feel normal in a high-quality professional manual if the reader did not know AI was involved?
 
 ---
 
-# 22. Drafting workflow pseudocommands
+# 26. Acceptance rule
 
-## `AUTHOR-MIND`
+Reader-facing prose passes when:
 
-Make expert judgment visible.
-
-## `HUMAN-RHYTHM`
-
-Read aloud and break repeated syntactic cadence.
-
-## `LIST-CHALLENGE`
-
-Require every list to justify why it is a list.
-
-## `NEGATION-CHECK`
-
-Look for repeated `non X / ma Y` correction patterns and rewrite positively where possible.
-
-## `HEADING-CHECK`
-
-Remove headings that merely label the next paragraph.
-
-## `EXAMPLE-PRESSURE`
-
-Ask whether the concept needs a concrete situation, worked example or counterexample before another abstraction.
-
-## `CAVEAT-INTEGRATION`
-
-Convert chains of defensive qualifications into contextual decision rules.
-
-## `TEMPLATE-DIVERSITY`
-
-Compare neighboring sections for repeated rhetorical choreography.
-
-## `NOVICE-READER`
-
-Check whether unexplained knowledge is being assumed.
-
-## `EXPERT-READER`
-
-Check whether simplification has become distortion or triviality.
-
----
-
-# 23. Editing order
-
-When prose feels artificial, edit in this order:
-
-1. argument structure;
-2. paragraph structure;
-3. examples/evidence;
-4. transitions;
-5. sentence rhythm;
-6. vocabulary;
-7. surface polish.
-
-Do not start by swapping synonyms. A templated argument remains templated after lexical variation.
-
----
-
-# 24. Acceptance test
-
-A V2 passage is stylistically acceptable when:
-
-- the reader can follow the argument without relying on headings;
-- prose carries most causal explanation;
-- lists feel intentional and scarce relative to their informational value;
-- short paragraphs create emphasis rather than rhythm by default;
-- the authorial mind is visible through judgment;
-- examples expose reasoning rather than merely illustrate terminology;
-- sentence and paragraph structures vary naturally;
-- no recurring formula dominates the page;
-- the passage sounds like part of a sustained book, not a polished chat answer.
-
-Final test:
-
-> **Would an intelligent reader willingly continue for twenty pages even if all headings, bullets and bold emphasis were temporarily removed?**
-
-If the answer is no, the prose is still relying on formatting to do the work of writing.
+- the subject is easier to notice than the writing technique;
+- the Italian feels fluent and unforced;
+- theory is systematic and examples are subordinate;
+- paragraph continuity dominates over micro-headings and lists;
+- rhetorical devices are occasional rather than structural;
+- technical precision survives simplification;
+- the chapter sounds like a human-authored professional manual rather than an AI-designed lesson or consultant framework.
