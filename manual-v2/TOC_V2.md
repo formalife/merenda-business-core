@@ -1,9 +1,9 @@
 # Manual V2 — Table of Contents Architecture
 
-Status: **CURRENT CANDIDATE — architecture correction pass 1**  
+Status: **CURRENT CANDIDATE — architecture correction pass 2**  
 Date: 2026-09-21
 
-This TOC incorporates the first whole-book logic review after production of Chapters 1–5.
+This TOC incorporates the first architecture correction pass and the subsequent full-manual logical reevaluation.
 
 Design rule:
 
@@ -11,7 +11,7 @@ Design rule:
 
 The reading order follows cognitive and causal prerequisites rather than the literal chronology of a company's life.
 
-The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open until the final architecture audit is complete.
+The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open only until the second postmortem is complete.
 
 ---
 
@@ -25,8 +25,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 1.4 Cause, sintomi e amplificatori
 ### 1.5 Strategia, strumenti e responsabilità
 
-**Scope:** introduces the business as an interconnected commercial/economic system and establishes why tactics must be judged by whole-system consequences.
-
 ---
 
 ## Capitolo 2 — Economia di base
@@ -37,8 +35,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 2.4 Punto di pareggio
 ### 2.5 Cassa e capacità come vincoli
 
-**Scope:** supplies the minimum economic vocabulary needed to understand later decisions without prematurely entering advanced cohort, cash and capacity analysis.
-
 ---
 
 ## Capitolo 3 — Metodo decisionale
@@ -48,8 +44,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 3.3 Il primo collo di bottiglia rilevante
 ### 3.4 Progettare un test
 ### 3.5 Evidenza, decisione e revisione
-
-**Scope:** establishes the evidence-based decision method used throughout the manual. The final strategic diagnosis in Chapter 34 will integrate this method after the reader has learned the full commercial system.
 
 ---
 
@@ -63,8 +57,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 4.4 Dimensione, geografia e densità
 ### 4.5 Struttura competitiva e dinamica del mercato
 
-**Scope:** defines the lenses used to judge whether a market is commercially practicable. These are evaluation hypotheses that Chapter 6 teaches the reader to test with evidence.
-
 ---
 
 ## Capitolo 5 — Il cliente
@@ -75,8 +67,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 5.4 Costo di servizio e frizione
 ### 5.5 Criteri di accettazione e rifiuto
 
-**Scope:** distinguishes a buyer from an economically and operationally desirable customer and translates that distinction into selection criteria.
-
 ---
 
 ## Capitolo 6 — Ricerca di mercato
@@ -86,8 +76,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 6.3 Interviste e conversazioni
 ### 6.4 Alternative, reclami e ragioni di scelta
 ### 6.5 Sintesi delle evidenze
-
-**Scope:** teaches how to convert the market/customer hypotheses introduced in Chapters 4–5 into evidence strong enough to support or revise a decision.
 
 ---
 
@@ -171,7 +159,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ### 14.1 Il ruolo del canale
 ### 14.2 Online e offline
-### 14.3 Organico, pagamento e contatto diretto
+### 14.3 Canali organici, a pagamento e diretti
 ### 14.4 Economia del canale
 ### 14.5 Multicanalità e coordinamento
 
@@ -180,7 +168,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ## Capitolo 15 — Partnership e distribuzione
 
 ### 15.1 Accesso diretto e accesso preso in prestito
-### 15.2 Referral, endorsement e partnership
+### 15.2 Endorsement e partnership
 ### 15.3 Economia del partner
 ### 15.4 Sell-in e sell-through
 ### 15.5 Integrazioni strutturali e rischio
@@ -195,8 +183,6 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 16.4 Segnali, routing e fallback
 ### 16.5 Automazione e intelligenza artificiale
 ### 16.6 Prequalifica e passaggio alla vendita
-
-**Scope:** closes the acquisition block by showing how demand entering through different access routes is remembered, routed, educated and handed to sales.
 
 ---
 
@@ -247,12 +233,12 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 # Parte VI — Esperienza, relazione e reputazione
 
-## Capitolo 21 — Onboarding
+## Capitolo 21 — Esperienza del cliente
 
-### 21.1 Dalla vendita al primo valore
-### 21.2 Aspettative e responsabilità
-### 21.3 Tempo al valore
-### 21.4 Supporto e customer effort
+### 21.1 Dalla promessa all'esperienza
+### 21.2 Onboarding e aspettative
+### 21.3 Tempo al primo valore
+### 21.4 Erogazione, supporto e customer effort
 ### 21.5 Feedback e correzione
 
 ---
@@ -273,7 +259,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 23.2 Continuità e ricorrenza
 ### 23.3 Offerta successiva dopo il valore
 ### 23.4 Referral
-### 23.5 Recensioni e testimonianze
+### 23.5 Recensioni e prova generata dal cliente
 
 ---
 
@@ -353,7 +339,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 # Parte VIII — Sviluppo e direzione dell'impresa
 
-## Capitolo 31 — Prototipazione
+## Capitolo 31 — Prototipazione di nuove iniziative
 
 ### 31.1 Competenze e problema da risolvere
 ### 31.2 Comprare apprendimento prima di struttura
@@ -392,32 +378,22 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 34.5 Testare, standardizzare e scalare
 ### 34.6 Riesaminare il sistema nel tempo
 
-**Scope:** closes the manual by integrating the full system into a reusable strategic diagnosis rather than adding a new topical domain.
-
 ---
 
-# Structural notes
+# Reading logic
 
-## Reading logic
+The book is organized around **causal and instructional chronology**, not a rigid calendar chronology that every company must execute once from left to right.
 
-The book is not organized as a literal company chronology. It is organized around prerequisite knowledge and causal decision order:
+The linear learning path is:
 
-**see the system → establish economic judgment → learn the decision method → evaluate market/customer → understand buying evidence → build position/offer/price → build trust and access demand → orchestrate acquisition → communicate and sell → deliver and deepen the relationship → test advanced economics and organization → prototype/reinvest/expand → integrate strategic diagnosis.**
+**see the system → establish economic judgment → learn the decision method → evaluate market/customer → produce evidence and understand buying decisions → build position/offer/price → build trust and access demand → orchestrate acquisition → communicate and sell → deliver value and deepen the relationship → test advanced economics and organization → prototype/reinvest/expand → integrate strategic diagnosis.**
 
-## Key corrections in this pass
+A real business may enter operationally at any point. The reading order teaches prerequisites; it does not claim that every company starts from zero or executes each activity only once.
 
-- `Diagnosi e test` → `Metodo decisionale` to distinguish the introductory method from the Chapter 34 capstone.
-- `4.3 Capacità e disponibilità di spesa` → `Sostenibilità economica della domanda` to separate market-level viability from customer-level willingness/ability to pay in 5.3.
-- `4.5 Alternative e dinamica del mercato` → `Struttura competitiva e dinamica del mercato` to separate market structure from the buyer's concrete alternatives/status quo in 7.2.
-- Part IV renamed `Fiducia, domanda e acquisizione` because proof is a prerequisite of response, not an orphaned pre-acquisition topic.
-- `Partnership e distribuzione` now precedes `Funnel e database`: first teach access routes, then teach how all incoming demand is remembered, routed and handed to sales.
-- Part VI renamed `Esperienza, relazione e reputazione` to reflect the causal path from delivered value to retention/referral/market memory.
-- Part VIII renamed `Sviluppo e direzione dell'impresa`; `Avvio e prototipazione` becomes the stage-neutral `Prototipazione`; `Reinvestimento e capitale` becomes the broader `Allocazione del capitale`.
+# Transition-gate rule
 
-## Transition-gate rule
+Each Part ends with a short, unnumbered reader-facing `Prima di proseguire` gate stating what evidence, decisions or operating outputs should exist before the next Part. The gate is a causal transition device, not an additional chapter.
 
-Each Part will end with a short, reader-facing `Prima di proseguire` gate that states the outputs or decisions that should exist before the next Part. These gates are navigation and application devices, not additional chapters and therefore do not appear as numbered TOC entries.
+# Architecture status
 
-## Architecture status
-
-This is the corrected candidate that must now survive a full whole-book postmortem and a second final postmortem before being frozen as definitive.
+This corrected candidate now proceeds to **Postmortem 2**, whose only job is to attempt to break the revised sequence before it is frozen as definitive.
