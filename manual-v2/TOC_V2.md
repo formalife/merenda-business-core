@@ -1,17 +1,17 @@
 # Manual V2 — Table of Contents Architecture
 
-Status: **CURRENT CANDIDATE — post founder-review redesign**  
+Status: **CURRENT CANDIDATE — architecture correction pass 1**  
 Date: 2026-09-21
 
-This TOC replaces the first 31-chapter learning-problem architecture as the current reader-facing candidate.
+This TOC incorporates the first whole-book logic review after production of Chapters 1–5.
 
 Design rule:
 
 **Part = major domain → Chapter = broad subject → Section = major component of that subject.**
 
-Chapter titles are intentionally short and topical. Questions, theses and teaching angles belong in introductions and section prose, not in the chapter title.
+The reading order follows cognitive and causal prerequisites rather than the literal chronology of a company's life.
 
-The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open to later merge/split evidence.
+The current candidate contains **8 Parts / 34 Chapters**. The chapter count is not a target; it is the result of the current subject hierarchy and remains open until the final architecture audit is complete.
 
 ---
 
@@ -25,7 +25,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 1.4 Cause, sintomi e amplificatori
 ### 1.5 Strategia, strumenti e responsabilità
 
-**Scope:** introduce the general model of the business as an interconnected commercial/economic system and establishes why tactics must be judged by their whole-system consequences.
+**Scope:** introduces the business as an interconnected commercial/economic system and establishes why tactics must be judged by whole-system consequences.
 
 ---
 
@@ -37,11 +37,11 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 2.4 Punto di pareggio
 ### 2.5 Cassa e capacità come vincoli
 
-**Scope:** gives the minimum economic vocabulary needed to understand later decisions without prematurely entering advanced cohort/cash analysis.
+**Scope:** supplies the minimum economic vocabulary needed to understand later decisions without prematurely entering advanced cohort, cash and capacity analysis.
 
 ---
 
-## Capitolo 3 — Diagnosi e test
+## Capitolo 3 — Metodo decisionale
 
 ### 3.1 Dal risultato economico al problema osservabile
 ### 3.2 Fatti, osservazioni e ipotesi
@@ -49,7 +49,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 3.4 Progettare un test
 ### 3.5 Evidenza, decisione e revisione
 
-**Scope:** establishes the general decision method used throughout the manual.
+**Scope:** establishes the evidence-based decision method used throughout the manual. The final strategic diagnosis in Chapter 34 will integrate this method after the reader has learned the full commercial system.
 
 ---
 
@@ -59,9 +59,11 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ### 4.1 Domanda reale
 ### 4.2 Raggiungibilità del mercato
-### 4.3 Capacità e disponibilità di spesa
+### 4.3 Sostenibilità economica della domanda
 ### 4.4 Dimensione, geografia e densità
-### 4.5 Alternative e dinamica del mercato
+### 4.5 Struttura competitiva e dinamica del mercato
+
+**Scope:** defines the lenses used to judge whether a market is commercially practicable. These are evaluation hypotheses that Chapter 6 teaches the reader to test with evidence.
 
 ---
 
@@ -73,6 +75,8 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 5.4 Costo di servizio e frizione
 ### 5.5 Criteri di accettazione e rifiuto
 
+**Scope:** distinguishes a buyer from an economically and operationally desirable customer and translates that distinction into selection criteria.
+
 ---
 
 ## Capitolo 6 — Ricerca di mercato
@@ -82,6 +86,8 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 6.3 Interviste e conversazioni
 ### 6.4 Alternative, reclami e ragioni di scelta
 ### 6.5 Sintesi delle evidenze
+
+**Scope:** teaches how to convert the market/customer hypotheses introduced in Chapters 4–5 into evidence strong enough to support or revise a decision.
 
 ---
 
@@ -139,7 +145,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ---
 
-# Parte IV — Domanda e acquisizione
+# Parte IV — Fiducia, domanda e acquisizione
 
 ## Capitolo 12 — Fiducia e prova
 
@@ -171,24 +177,26 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ---
 
-## Capitolo 15 — Funnel e database
+## Capitolo 15 — Partnership e distribuzione
 
-### 15.1 Stati della relazione
-### 15.2 Funnel lineari e percorsi adattivi
-### 15.3 Database e memoria commerciale
-### 15.4 Segnali, routing e fallback
-### 15.5 Automazione e intelligenza artificiale
-### 15.6 Prequalifica e passaggio alla vendita
+### 15.1 Accesso diretto e accesso preso in prestito
+### 15.2 Referral, endorsement e partnership
+### 15.3 Economia del partner
+### 15.4 Sell-in e sell-through
+### 15.5 Integrazioni strutturali e rischio
 
 ---
 
-## Capitolo 16 — Partnership e distribuzione
+## Capitolo 16 — Funnel e database
 
-### 16.1 Accesso diretto e accesso preso in prestito
-### 16.2 Referral, endorsement e partnership
-### 16.3 Economia del partner
-### 16.4 Sell-in e sell-through
-### 16.5 Integrazioni strutturali e rischio
+### 16.1 Stati della relazione
+### 16.2 Funnel lineari e percorsi adattivi
+### 16.3 Database e memoria commerciale
+### 16.4 Segnali, routing e fallback
+### 16.5 Automazione e intelligenza artificiale
+### 16.6 Prequalifica e passaggio alla vendita
+
+**Scope:** closes the acquisition block by showing how demand entering through different access routes is remembered, routed, educated and handed to sales.
 
 ---
 
@@ -237,7 +245,7 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ---
 
-# Parte VI — Cliente, retention e brand
+# Parte VI — Esperienza, relazione e reputazione
 
 ## Capitolo 21 — Onboarding
 
@@ -343,9 +351,9 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ---
 
-# Parte VIII — Sviluppo dell'impresa
+# Parte VIII — Sviluppo e direzione dell'impresa
 
-## Capitolo 31 — Avvio e prototipazione
+## Capitolo 31 — Prototipazione
 
 ### 31.1 Competenze e problema da risolvere
 ### 31.2 Comprare apprendimento prima di struttura
@@ -355,12 +363,12 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 
 ---
 
-## Capitolo 32 — Reinvestimento e capitale
+## Capitolo 32 — Allocazione del capitale
 
 ### 32.1 L'impresa come asset
 ### 32.2 Reinvestire nel vincolo
 ### 32.3 Capitale e capacità produttiva
-### 32.4 Allocazione del capitale
+### 32.4 Criteri di allocazione
 ### 32.5 Capitale esterno e governance
 
 ---
@@ -384,39 +392,32 @@ The current candidate contains **8 Parts / 34 Chapters**. The chapter count is n
 ### 34.5 Testare, standardizzare e scalare
 ### 34.6 Riesaminare il sistema nel tempo
 
-**Scope:** closes the manual by integrating the full system into a reusable decision sequence rather than adding new doctrine.
+**Scope:** closes the manual by integrating the full system into a reusable strategic diagnosis rather than adding a new topical domain.
 
 ---
 
 # Structural notes
 
-## Why 34 chapters now
+## Reading logic
 
-The prior 31-chapter architecture intentionally merged several topics around learning problems. Founder feedback showed that some of those merges weakened textbook navigation.
+The book is not organized as a literal company chronology. It is organized around prerequisite knowledge and causal decision order:
 
-The current 34-chapter candidate restores clearer subject boundaries where a professional manual benefits from direct lookup and stable terminology, especially:
+**see the system → establish economic judgment → learn the decision method → evaluate market/customer → understand buying evidence → build position/offer/price → build trust and access demand → orchestrate acquisition → communicate and sell → deliver and deepen the relationship → test advanced economics and organization → prototype/reinvest/expand → integrate strategic diagnosis.**
 
-- `Canali di acquisizione` separate from `Domanda e consapevolezza`;
-- `Argomentazione commerciale` separate from `Copywriting`;
-- `Seconda vendita e referral` separate from `Retention`;
-- a final `Diagnosi strategica` synthesis separate from the introductory method chapter.
+## Key corrections in this pass
 
-These are reader-facing distinctions, not backend primary-home decisions.
+- `Diagnosi e test` → `Metodo decisionale` to distinguish the introductory method from the Chapter 34 capstone.
+- `4.3 Capacità e disponibilità di spesa` → `Sostenibilità economica della domanda` to separate market-level viability from customer-level willingness/ability to pay in 5.3.
+- `4.5 Alternative e dinamica del mercato` → `Struttura competitiva e dinamica del mercato` to separate market structure from the buyer's concrete alternatives/status quo in 7.2.
+- Part IV renamed `Fiducia, domanda e acquisizione` because proof is a prerequisite of response, not an orphaned pre-acquisition topic.
+- `Partnership e distribuzione` now precedes `Funnel e database`: first teach access routes, then teach how all incoming demand is remembered, routed and handed to sales.
+- Part VI renamed `Esperienza, relazione e reputazione` to reflect the causal path from delivered value to retention/referral/market memory.
+- Part VIII renamed `Sviluppo e direzione dell'impresa`; `Avvio e prototipazione` becomes the stage-neutral `Prototipazione`; `Reinvestimento e capitale` becomes the broader `Allocazione del capitale`.
 
-## Golden-topic remap
+## Transition-gate rule
 
-The current golden subjects map to:
+Each Part will end with a short, reader-facing `Prima di proseguire` gate that states the outputs or decisions that should exist before the next Part. These gates are navigation and application devices, not additional chapters and therefore do not appear as numbered TOC entries.
 
-- Golden A → **Capitolo 1 — Il sistema di marketing**;
-- Golden B → **Capitolo 25 — Economia del cliente**;
-- Golden C → **Capitolo 19 — Vendita consulenziale**.
+## Architecture status
 
-Their old argument-style titles are retired as chapter titles. Useful phrasing may survive as section language or explanatory prose.
-
-## Gate before rewriting
-
-Before Golden A/B are rewritten:
-
-1. this hierarchy must be checked against learning outcomes and semantic coverage;
-2. current Style Bible and Chapter Grammar must be revised to match the theory-first architecture;
-3. the example/case system must be revised so invented named businesses are no longer the default.
+This is the corrected candidate that must now survive a full whole-book postmortem and a second final postmortem before being frozen as definitive.
