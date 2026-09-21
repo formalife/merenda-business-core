@@ -2,13 +2,19 @@
 
 ## Overall state
 
-**ACTIVE — PHASE 6 / THIRD FOUNDER PROTOTYPE READY**
+**ACTIVE — GOLDEN PRODUCTION DESIGN TEST / FOUNDER REVIEW PENDING**
 
-The current Manual V2 architecture has passed founder review. The remaining production gate is reader-facing prose quality.
+The current Manual V2 architecture has founder PASS. Golden A/B have completed the prose-depth rewrite and received a materially positive founder response (`molto più soddisfatto`), but the prose model has not yet been explicitly frozen as the final production standard.
 
-Golden A and Golden B have now completed the requested prose-depth rewrite and internal audit. A third combined founder PDF has been built and visually verified.
+Before scaling the manuscript, the founder approved proceeding with a **Golden Production Test** for the publishing/design system.
 
-**Production scaling remains blocked until founder approval of this third prototype.**
+Current publishing direction:
+
+**GitHub canonical manuscript → controlled LaTeX publishing layer → Prism/LaTeX → PDF/print.**
+
+Prism is a publishing environment, not the source of truth.
+
+Full production remains blocked until the current content/prose model and the candidate design system have both passed founder review.
 
 ---
 
@@ -61,6 +67,43 @@ Binding writing requirements:
 - no padding and no fixed word quota;
 - no systematic AI-like rhetorical cadence.
 
+Founder response to the third prototype: **strong positive improvement, not yet recorded as an explicit final prose freeze.**
+
+---
+
+# Publishing / design control
+
+Current candidate sources:
+
+- `EDITORIAL_DESIGN_BIBLE.md` — CANDIDATE / founder review pending;
+- `PRISM_PUBLISHING_WORKFLOW.md` — CANDIDATE workflow;
+- Golden Production Test — LaTeX/Prism-importable prototype built and visually verified.
+
+Candidate design:
+
+- 170 × 240 mm book format;
+- two-sided / print-oriented;
+- recto Part/Chapter starts;
+- serif long-form body + sans-serif navigation;
+- restrained one-accent palette;
+- explicit Part / Chapter / Section hierarchy;
+- reusable `IN PRATICA`, `ESEMPIO SVOLTO`, formula and key-emphasis components;
+- chapter-local figure numbering;
+- professional book tables;
+- TikZ system diagrams;
+- PGFPlots quantitative charts;
+- restrained running heads and folios.
+
+The prototype has been compiled and fully rendered after correcting:
+
+- LaTeX `0.x` section numbering;
+- chapter-local figure numbering;
+- formula overflow;
+- horizontal-rule overflow;
+- scientific notation on the economic chart.
+
+No remaining clipping/overlap/broken-glyph blocker was observed in the final render.
+
 ---
 
 # Current decisions
@@ -69,13 +112,14 @@ Binding writing requirements:
 - **V2-D005 CURRENT:** full production cannot start before Golden prototypes pass founder review.
 - **V2-D030 CURRENT:** reader-facing architecture = 8 Parts / 34 Chapters.
 - **V2-D032 CURRENT:** architecture has founder PASS.
-- **V2-D033 CURRENT:** Golden A/B required a dedicated prose-depth pass before production scaling.
 - **V2-D034 CURRENT:** prose quality is judged on cohesion, fluidity, naturalness, explanatory depth, incisiveness and practical applicability.
 - **V2-D035 CURRENT:** no fixed length target; explanation ends when the concept is understandable and usable.
 - **V2-D036 CURRENT:** theory-first remains binding; micro-examples/practical consequences may be integrated in prose.
 - **V2-D037 CURRENT:** voice must be natural and authoritative, neither mechanical nor sterile.
-- **V2-D038 CURRENT:** Golden C remains blocked until founder verdict on the third A/B prototype.
 - **V2-D039 CURRENT:** prose-depth control is governed by `PROSE_DEPTH_SYSTEM.md`; added words must contribute mechanism, distinction, consequence, boundary, example or decision translation.
+- **V2-D040 CURRENT:** run a Golden Production Test before full publishing/production scaling.
+- **V2-D041 CURRENT:** GitHub remains canonical; Prism/LaTeX is the publishing/design layer and must not become a divergent manuscript source.
+- **V2-D042 CANDIDATE:** 170 × 240 mm two-sided book format and current typography/component system are under founder review, not yet frozen.
 
 ---
 
@@ -84,10 +128,10 @@ Binding writing requirements:
 - Phase 0 — DONE / PASS — V1 freeze and postmortem
 - Phase 1 — DONE / PASS — research base and book contract
 - Phase 2 — DONE / FOUNDER PASS — 8 Parts / 34 Chapters
-- Phase 3 — ACTIVE / THIRD FOUNDER GATE — authorial prose refinement
+- Phase 3 — INTERNAL PASS / FOUNDER POSITIVE — prose-depth model awaiting explicit freeze
 - Phase 4 — DONE / FOUNDER PASS — theory-first chapter grammar
-- Phase 5 — DONE / FOUNDER PASS WITH VISUAL DESIGN DEBT — visual/example/formula systems
-- **Phase 6 — ACTIVE — third Golden A/B founder read**
+- Phase 5 — DONE / FOUNDER PASS WITH DESIGN DEBT — content visual/formula systems
+- **Phase 6 — ACTIVE — Golden production design test / founder review**
 - Phase 7 — NOT STARTED — editorial QA/lint
 - Phase 8 — NOT STARTED — production waves
 - Phase 9 — NOT STARTED — independent whole-book audits
@@ -96,96 +140,48 @@ Binding writing requirements:
 
 ---
 
-# Golden A — Capitolo 1: `Il sistema di marketing`
+# Golden content status
 
-Current:
+## Golden A — Capitolo 1: `Il sistema di marketing`
 
-- `golden/chapter-01/DRAFT.md`
+- architecture/hierarchy: PASS;
+- prose-depth internal audit: PASS;
+- third founder response: strongly positive;
+- used in current Golden Production Test.
 
-Third-pass changes:
+## Golden B — Capitolo 25: `Economia del cliente`
 
-- deeper explanation of marketing vs promotion;
-- clearer managerial consequences of treating marketing as downstream communication;
-- stronger explanation of forward and backward feedback loops;
-- activity / operating-effectiveness / economic-outcome metric hierarchy;
-- containment vs root correction;
-- local technical failure as a boundary to systemic diagnosis;
-- delegation of execution vs delegation of judgment;
-- practical implications distributed through the theory.
+- architecture/hierarchy: PASS;
+- quantitative/formula/chart direction: PASS;
+- prose-depth internal audit: PASS;
+- third founder response: strongly positive;
+- used in current Golden Production Test.
 
-Internal prose-depth audit: **PASS FOR FOUNDER TEST**.
-
----
-
-# Golden B — Capitolo 25: `Economia del cliente`
-
-Current:
-
-- `golden/chapter-25/DRAFT.md`
-- `golden/chapter-25/figures/figure-25-1-same-cac-different-start.svg`
-- `golden/chapter-25/figures/figure-25-2-cohort-payback.svg`
-
-Third-pass changes:
-
-- deeper unit-choice and contribution explanation;
-- stronger fully loaded CAC attribution logic;
-- cohort composition/mix effects;
-- observed vs modeled LTV with forecasting risk;
-- payback as financeability and capital recycling;
-- allowable CAC as management decision rule;
-- segment-specific acquisition ceilings;
-- average vs marginal CAC;
-- growth levers beyond media spend;
-- practical questions integrated throughout.
-
-Internal prose-depth audit: **PASS FOR FOUNDER TEST**.
-
----
-
-# Third founder PDF / QA
-
-GitHub Actions run:
-
-- `35574017725` — SUCCESS
-
-Combined prototype:
-
-- 25 A4 pages;
-- approximately 8,962 extracted words including cover and Part introductions;
-- prior second prototype: 19 pages / approximately 6,094 extracted words;
-- full 25-page render completed successfully;
-- no clipping, overlaps or broken glyphs observed;
-- tables, formula boxes and quantitative charts remain readable;
-- arrow/process diagrams remain provisional visual design by prior founder decision.
-
-The increase in length is not a target. Internal audit attributes it to added explanatory mechanism, consequences, boundaries and practical application.
-
----
-
-# Golden C — Capitolo 19: `Vendita consulenziale`
+## Golden C — Capitolo 19: `Vendita consulenziale`
 
 **PAUSED.**
 
-Do not resume reader-facing drafting until the third A/B founder verdict.
+Do not resume reader-facing drafting until the current content/design gate is resolved.
 
 ---
 
 # Current blocker
 
-**Founder approval of prose quality in the third A/B prototype.**
+**Founder review of the Golden Production Test and explicit freeze of the production model.**
 
 No architecture blocker.  
 No doctrine blocker identified.  
 No semantic coverage blocker identified.  
-No PDF/layout blocker identified.
+No current technical PDF blocker identified.
 
 ---
 
 # Next action
 
-1. founder reads the third A/B prototype;
-2. classify remaining feedback as prose / depth / naturalness / practical utility / visual;
-3. if founder PASS, freeze the production prose model;
-4. rewrite Golden C under the approved model;
-5. founder-review Golden C;
-6. only after all Golden gates pass, start Phase 7 editorial QA and production waves.
+1. founder reviews the Golden Production Test PDF;
+2. founder judges page format, typography, hierarchy, boxes, tables, charts and overall book feel;
+3. classify feedback as typography / spacing / color / components / figures / print behavior;
+4. if design PASS, freeze `EDITORIAL_DESIGN_BIBLE.md` and promote the LaTeX template to production infrastructure;
+5. explicitly freeze or revise the current prose model at the same gate;
+6. resume Golden C under the approved content + design system;
+7. only after Golden C passes, begin Phase 7 editorial QA and production waves.
