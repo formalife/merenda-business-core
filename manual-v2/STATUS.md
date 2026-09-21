@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 5 / WORD REALIGNED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 6 / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -94,27 +94,23 @@ Reader-facing production completed through:
 - Chapter 3 — `Metodo decisionale`
 - Chapter 4 — `Il mercato`
 - Chapter 5 — `Il cliente`
+- Chapter 6 — `Ricerca di mercato`
 
 Part introductions completed:
 
 - Part I — `Fondamenti del sistema`
 - Part II — `Mercato e cliente`
 
-The cumulative Word manuscript has now been realigned to the definitive architecture.
+Chapter 6 implements the Part II lens → evidence logic. It teaches research as decision-oriented evidence production rather than generic surveying, with explicit separation of behavior, customer statements, interpretation and strategic hypothesis. It includes a reusable interview guide and Market Evidence Map.
 
-Applied manuscript corrections include:
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 6.
 
-- definitive front-matter TOC;
-- Chapter 3 title = `Metodo decisionale`;
-- Chapter 4 section titles 4.3 and 4.5;
-- definitive Part titles and Chapter 15/16 order in the front matter;
-- final Chapter 21 and Chapter 31 naming;
-- explicit reader-facing note that the order is causal/instructional rather than literal company chronology;
-- Part I `Prima di proseguire` gate before Part II.
+Latest manuscript QA:
 
-The final aligned Word manuscript was rendered from the exact deliverable file and visually checked. Pages unaffected by the architecture edits were confirmed identical to the previously validated manuscript; all changed pages were reviewed after the final render.
-
-No substantive rewrite of Chapters 1–5 was required beyond architecture-alignment edits.
+- 93 pages total;
+- pages 1–89 unchanged from the previously validated render after final Chapter 6 pagination correction;
+- pages 90–93 re-rendered and visually checked after moving the Market Evidence Map table to avoid an orphaned table header;
+- no remaining clipping, broken tables, visible Markdown markers or split callout headers found in the final deliverable.
 
 ---
 
@@ -122,6 +118,8 @@ No substantive rewrite of Chapters 1–5 was required beyond architecture-alignm
 
 Resume production with:
 
-**Chapter 6 — `Ricerca di mercato`.**
+**Chapter 7 — `La decisione d'acquisto`.**
+
+After Chapter 7, complete the Part II `Prima di proseguire` gate before opening Part III.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
