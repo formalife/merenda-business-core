@@ -2,80 +2,75 @@
 
 ## Overall state
 
-**ACTIVE — PEDAGOGICAL APPARATUS PROTOTYPE / FOUNDER REVIEW PENDING**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 5**
 
-The Manual V2 architecture has founder PASS. Golden A/B have completed the prose-depth rewrite and received a materially positive founder response (`molto più soddisfatto`). The founder then explicitly chose to proceed with the second proposed improvement: **the pedagogical apparatus**.
+The manual has moved beyond prototype-only work.
 
-The current task is therefore not a new architecture or prose redesign. It is the design of a restrained second reading speed around the approved chapter model.
+The reader-facing architecture has now been re-audited after production of Chapters 1–5, corrected, subjected to a full-manual reevaluation and then challenged again in a second adversarial postmortem.
 
-Full production remains blocked until the current Golden content/prose model and the selective pedagogical apparatus have passed founder review.
+Result:
 
-Prism/LaTeX and the broader book-design system remain a later publishing task; they are not the current gate.
+**8 Parts / 34 Chapters — DEFINITIVE / FROZEN.**
 
----
+Future architecture changes require concrete drafting or reader evidence. Preference alone is not sufficient to reopen the TOC.
 
-# Approved architecture baseline
+Canonical architecture:
 
-Founder-approved and no longer under routine redesign:
-
-- 8 Parts / 34 Chapters;
-- explicit Part → Chapter → Section → Paragraph hierarchy;
-- short topical chapter titles;
-- general framing before detailed treatment;
-- theory before substantial examples;
-- generic unnamed / A-B examples by default;
-- sourced real cases when they add evidence;
-- worked numerical examples where useful;
-- explanatory quantitative charts;
-- no fixed chapter-length target.
-
-Current architecture source:
-
-- `EDITORIAL_HIERARCHY_V2.md`
 - `TOC_V2.md`
-- `LEARNING_OUTCOME_MAP.md`
+- `EDITORIAL_HIERARCHY_V2.md`
+- `PART_TRANSITION_GATES.md`
+
+Architecture review trail:
+
+- `ARCHITECTURE_POSTMORTEM_1.md`
+- `FULL_MANUAL_REEVALUATION_2026-09-21.md`
+- `ARCHITECTURE_POSTMORTEM_2.md`
 
 ---
 
-# Writing-quality control
+# Definitive architecture decisions
 
-Founder feedback on the second prototype is canonical in:
+- **V2-D030 CURRENT:** architecture = 8 Parts / 34 Chapters.
+- **V2-D032 CURRENT:** Part → Chapter → Section → Paragraph hierarchy remains binding.
+- **V2-D048 CURRENT:** architecture is frozen after double postmortem.
+- **V2-D049 CURRENT:** reading order follows causal/instructional chronology, not a rigid literal company chronology.
+- **V2-D050 CURRENT:** Chapter 3 is `Metodo decisionale`; Chapter 34 is `Diagnosi strategica`.
+- **V2-D051 CURRENT:** Part II follows lens → evidence → buying-decision logic: market, customer, research, decision.
+- **V2-D052 CURRENT:** Part IV follows proof → demand → direct access → borrowed/distributed access → funnel/database/handoff.
+- **V2-D053 CURRENT:** Chapter 21 is `Esperienza del cliente`, explicitly including delivery, not only onboarding.
+- **V2-D054 CURRENT:** Part VIII treats prototyping, capital allocation and expansion as integrated development decisions; it is not a literal startup timeline.
+- **V2-D055 CURRENT:** every Part ends with an unnumbered `Prima di proseguire` transition gate.
 
-- `FOUNDER_REVIEW_GOLDEN_AB_2.md`
+---
 
-Current prose-depth system:
+# Writing-quality system
 
+Current binding controls:
+
+- `AUTHORIAL_STYLE_BIBLE.md`
 - `PROSE_DEPTH_SYSTEM.md`
-- `PROSE_AUDIT_GOLDEN_AB_2.md`
-- `PROSE_DEPTH_AUDIT_GOLDEN_AB_3.md`
+- `CHAPTER_GRAMMAR_V2.md`
+- `PEDAGOGICAL_FEATURES.md`
 
-Binding writing requirements:
+Writing requirements remain:
 
-- natural Italian professional prose;
-- high paragraph/section cohesion;
-- sufficient explanatory depth for real understanding;
-- mechanism and consequences, not only correct statements;
-- firm authorial judgment when doctrine is clear;
-- explicit uncertainty when evidence is not clear;
-- practical implications integrated inside theory;
-- micro-examples without returning to case-first structure;
-- no padding and no fixed word quota;
-- no systematic AI-like rhetorical cadence.
-
-Founder response to the third prototype: **strong positive improvement, not yet recorded as an explicit final prose freeze.**
+- general framing before detail;
+- theory before substantial examples;
+- natural professional Italian;
+- high cohesion and continuity;
+- mechanism, consequence, boundary and practical implication;
+- firm judgment when doctrine is clear;
+- explicit uncertainty when evidence is weak;
+- examples subordinate to theory;
+- generic unnamed / A-B examples by default;
+- no fixed word quota;
+- no systematic AI-like cadence.
 
 ---
 
-# Pedagogical apparatus control
+# Pedagogical apparatus
 
-Current source:
-
-- `PEDAGOGICAL_FEATURES.md` — CURRENT refined apparatus;
-- `PEDAGOGICAL_APPARATUS_AUDIT.md` — INTERNAL PASS / founder review pending;
-- `golden/chapter-01/APPARATUS.md`;
-- `golden/chapter-25/APPARATUS.md`.
-
-## Current primary feature palette
+Current restrained palette:
 
 1. `ESEMPIO SVOLTO / ESEMPIO NUMERICO`
 2. `ERRORE FREQUENTE`
@@ -83,162 +78,48 @@ Current source:
 4. `VERIFICA NELLA TUA AZIENDA`
 5. `APPROFONDIMENTO`
 
-Supporting only when an actual reusable artifact exists:
+`STRUMENTO OPERATIVO` is used only when a genuine reusable artifact exists.
 
-- `STRUMENTO OPERATIVO`.
-
-Removed from the default recurring palette because they create too much visible teaching machinery:
-
-- `PRINCIPIO`;
-- generic `CASO`;
-- `FERMATI E PREVEDI`;
-- `SPIEGA PERCHÉ`;
-- `DIAGNOSTICA`;
-- `TRASFERISCI`;
-- recurring `COSA CAMBIA SE...` labels.
-
-## Binding apparatus rules
-
-- prose remains conceptually complete without optional callouts;
-- no feature quota;
-- a callout must solve a learning/retrieval job better than prose;
-- practical consequences should remain in ordinary prose when visual separation adds nothing;
-- `ERRORE FREQUENTE` is reserved for plausible, materially costly mistakes;
-- `VERIFICA NELLA TUA AZIENDA` must produce evidence, a number, a comparison or a decision input;
-- `APPROFONDIMENTO` is optional nuance and should remain uncommon;
-- formulas, charts, tables and core worked examples are part of explanation, not decorative apparatus;
-- final pages must remain calm and book-like rather than resembling courseware.
-
-### Feature-delete evidence
-
-Two proposed `IN PRATICA` callouts were deliberately removed during the Golden test:
-
-- Chapter 1 after `Marketing e promozione`;
-- Chapter 25 after the CAC-perimeter discussion.
-
-Reason: the current prose already did the practical translation. Keeping the callouts would have added repetition and visual fragmentation.
+No feature quota. Redundant callouts are deleted.
 
 ---
 
-# Pedagogical apparatus Golden test
+# Production status
 
-Workflow:
+Reader-facing production completed through:
 
-- `.github/workflows/golden-ab-pedagogy-preview.yml`
+- Chapter 1 — `Il sistema di marketing`
+- Chapter 2 — `Economia di base`
+- Chapter 3 — now definitively titled `Metodo decisionale`
+- Chapter 4 — `Il mercato`
+- Chapter 5 — `Il cliente`
 
-Builder:
+Part introductions completed:
 
-- `.github/scripts/build_golden_ab_pedagogy.py`
+- Part I — `Fondamenti del sistema`
+- Part II — `Mercato e cliente`
 
-Final validated run:
+The current cumulative Word manuscript must be realigned to the definitive architecture before Chapter 6 production continues.
 
-- run `35579306028` — SUCCESS;
-- head commit `97b8efd21006fae34b2d74e048095ca724d004e3`;
-- artifact `manual-v2-pedagogical-apparatus-preview`;
-- artifact id `10629890821`.
+Required realignment includes:
 
-Preview:
+- front-matter TOC;
+- Chapter 3 title;
+- Chapter 4 section titles 4.3 and 4.5;
+- definitive future Part titles and Chapter 15/16 order;
+- final Chapter 21 and Chapter 31 naming;
+- explicit reader-facing note that the order is causal/instructional rather than literal company chronology;
+- Part I transition gate before Part II.
 
-- 29 A4 pages;
-- current Golden A/B prose unchanged as canonical source;
-- optional apparatus injected only in the publishing prototype.
-
-Render-first QA:
-
-- all 29 pages rendered;
-- no clipping observed;
-- no text overlap observed;
-- no broken glyphs observed;
-- Chapter 1 callout collision found in first preview and corrected;
-- final render keeps `ERRORE FREQUENTE` and following `ESEMPIO SVOLTO` semantically and visually separate;
-- self-checks remain readable;
-- Chapter 25 remains a continuous quantitative chapter rather than a workbook.
-
-Minor design debt:
-
-- final publishing design should allow more pagination/spacing control when `ERRORE FREQUENTE` and `APPROFONDIMENTO` happen to fall on the same page.
+No rewrite of Chapters 1–5 is required beyond these architecture-alignment edits.
 
 ---
 
-# Current decisions
+# Current next action
 
-- **V2-D001 CURRENT:** V1 remains frozen as coverage baseline.
-- **V2-D005 CURRENT:** full production cannot start before Golden prototypes pass founder review.
-- **V2-D030 CURRENT:** reader-facing architecture = 8 Parts / 34 Chapters.
-- **V2-D032 CURRENT:** architecture has founder PASS.
-- **V2-D034 CURRENT:** prose quality is judged on cohesion, fluidity, naturalness, explanatory depth, incisiveness and practical applicability.
-- **V2-D035 CURRENT:** no fixed length target; explanation ends when the concept is understandable and usable.
-- **V2-D036 CURRENT:** theory-first remains binding; micro-examples/practical consequences may be integrated in prose.
-- **V2-D037 CURRENT:** voice must be natural and authoritative, neither mechanical nor sterile.
-- **V2-D039 CURRENT:** prose-depth control is governed by `PROSE_DEPTH_SYSTEM.md`; added words must contribute mechanism, distinction, consequence, boundary, example or decision translation.
-- **V2-D043 CURRENT:** pedagogical apparatus is subordinate to core prose and exists to support application, error prevention and later retrieval.
-- **V2-D044 CURRENT:** no apparatus quota; redundant callouts must be removed even if they belong to the approved taxonomy.
-- **V2-D045 CURRENT:** current primary apparatus labels are `ESEMPIO SVOLTO/NUMERICO`, `ERRORE FREQUENTE`, `IN PRATICA`, `VERIFICA NELLA TUA AZIENDA`, `APPROFONDIMENTO`; `STRUMENTO OPERATIVO` is reserved for genuine artifacts.
-- **V2-D046 CURRENT:** self-checks must produce evidence/decision inputs rather than generic reflection.
-- **V2-D047 CURRENT:** the Golden A/B pedagogical apparatus has internal PASS and awaits founder review before being frozen for all chapters.
+1. realign the cumulative Word manuscript to the definitive TOC;
+2. render and verify the full document;
+3. preserve existing approved prose unless the architecture correction requires a local wording change;
+4. resume production with Chapter 6 — `Ricerca di mercato`.
 
----
-
-# Phase state
-
-- Phase 0 — DONE / PASS — V1 freeze and postmortem
-- Phase 1 — DONE / PASS — research base and book contract
-- Phase 2 — DONE / FOUNDER PASS — 8 Parts / 34 Chapters
-- Phase 3 — INTERNAL PASS / FOUNDER POSITIVE — prose-depth model awaiting explicit freeze
-- Phase 4 — DONE / FOUNDER PASS — theory-first chapter grammar
-- **Phase 5 — ACTIVE REFINEMENT — selective pedagogical apparatus internal PASS / founder review pending**
-- Phase 6 — Golden C PAUSED until current content/apparatus gate is resolved
-- Phase 7 — NOT STARTED — editorial QA/lint
-- Phase 8 — NOT STARTED — production waves
-- Phase 9 — NOT STARTED — independent whole-book audits
-- Phase 10 — NOT STARTED — beta reader validation
-- Phase 11 — NOT STARTED — definitive production
-
----
-
-# Golden content status
-
-## Golden A — Capitolo 1: `Il sistema di marketing`
-
-- architecture/hierarchy: PASS;
-- prose-depth internal audit: PASS;
-- third founder response: strongly positive;
-- apparatus prototype: INTERNAL PASS;
-- planned support: 2 `ERRORE FREQUENTE`, existing worked example, 1 own-business verification;
-- no deep-dive box required.
-
-## Golden B — Capitolo 25: `Economia del cliente`
-
-- architecture/hierarchy: PASS;
-- quantitative/formula/chart direction: PASS;
-- prose-depth internal audit: PASS;
-- third founder response: strongly positive;
-- apparatus prototype: INTERNAL PASS WITH LAYOUT CAUTION;
-- planned support: existing numerical/worked examples, 1 `ERRORE FREQUENTE`, 1 `APPROFONDIMENTO`, 1 own-business verification.
-
-## Golden C — Capitolo 19: `Vendita consulenziale`
-
-**PAUSED.**
-
-Do not resume reader-facing drafting until the current Golden content/apparatus gate is resolved.
-
----
-
-# Current blocker
-
-**Founder review of the selective pedagogical apparatus and explicit freeze/revision of the current Golden production model.**
-
-No architecture blocker.  
-No doctrine blocker identified.  
-No semantic coverage blocker identified.  
-No current technical PDF blocker identified.
-
----
-
-# Next action
-
-1. founder reviews the pedagogical apparatus preview PDF;
-2. judge whether support elements improve retrieval/application without interrupting reading;
-3. if PASS, freeze the apparatus taxonomy and placement rules;
-4. explicitly freeze or revise the current prose model at the same gate;
-5. then either proceed to the next requested improvement (real documented cases / visual system / publishing design) or resume Golden C, according to founder direction.
+No further architecture redesign is planned.
