@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 5**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 5 / WORD REALIGNED**
 
 The manual has moved beyond prototype-only work.
 
-The reader-facing architecture has now been re-audited after production of Chapters 1–5, corrected, subjected to a full-manual reevaluation and then challenged again in a second adversarial postmortem.
+After production of Chapters 1–5, the reader-facing architecture was re-audited, corrected, subjected to a full-manual reevaluation and then challenged again in a second adversarial postmortem.
 
 Result:
 
@@ -18,6 +18,7 @@ Canonical architecture:
 
 - `TOC_V2.md`
 - `EDITORIAL_HIERARCHY_V2.md`
+- `LEARNING_OUTCOME_MAP.md`
 - `PART_TRANSITION_GATES.md`
 
 Architecture review trail:
@@ -90,7 +91,7 @@ Reader-facing production completed through:
 
 - Chapter 1 — `Il sistema di marketing`
 - Chapter 2 — `Economia di base`
-- Chapter 3 — now definitively titled `Metodo decisionale`
+- Chapter 3 — `Metodo decisionale`
 - Chapter 4 — `Il mercato`
 - Chapter 5 — `Il cliente`
 
@@ -99,27 +100,28 @@ Part introductions completed:
 - Part I — `Fondamenti del sistema`
 - Part II — `Mercato e cliente`
 
-The current cumulative Word manuscript must be realigned to the definitive architecture before Chapter 6 production continues.
+The cumulative Word manuscript has now been realigned to the definitive architecture.
 
-Required realignment includes:
+Applied manuscript corrections include:
 
-- front-matter TOC;
-- Chapter 3 title;
+- definitive front-matter TOC;
+- Chapter 3 title = `Metodo decisionale`;
 - Chapter 4 section titles 4.3 and 4.5;
-- definitive future Part titles and Chapter 15/16 order;
+- definitive Part titles and Chapter 15/16 order in the front matter;
 - final Chapter 21 and Chapter 31 naming;
 - explicit reader-facing note that the order is causal/instructional rather than literal company chronology;
-- Part I transition gate before Part II.
+- Part I `Prima di proseguire` gate before Part II.
 
-No rewrite of Chapters 1–5 is required beyond these architecture-alignment edits.
+The final aligned Word manuscript was rendered from the exact deliverable file and visually checked. Pages unaffected by the architecture edits were confirmed identical to the previously validated manuscript; all changed pages were reviewed after the final render.
+
+No substantive rewrite of Chapters 1–5 was required beyond architecture-alignment edits.
 
 ---
 
 # Current next action
 
-1. realign the cumulative Word manuscript to the definitive TOC;
-2. render and verify the full document;
-3. preserve existing approved prose unless the architecture correction requires a local wording change;
-4. resume production with Chapter 6 — `Ricerca di mercato`.
+Resume production with:
 
-No further architecture redesign is planned.
+**Chapter 6 — `Ricerca di mercato`.**
+
+Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
