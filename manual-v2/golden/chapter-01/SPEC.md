@@ -1,372 +1,237 @@
-# Golden A — Chapter 1 Spec
+# Golden A — Capitolo 1 Spec
 
-## Working title
+## Titolo reader-facing
 
-**The business is a system, not a collection of tactics**
-
-Reader-facing title may change after drafting.
+**Il sistema di marketing**
 
 ## Status
 
-**READY FOR DRAFTING INPUTS LOCKED**
+**READY FOR REWRITE — POST FOUNDER GATE**
 
-Doctrine freshness checked against current `main` on 2026-09-20.
+The first Golden A draft passed internal audits but failed founder review on architecture/voice/example placement. It is now source material only.
 
-Primary live doctrine reread:
+Primary live doctrine already verified:
 
 - `merenda/00_fondamenti/marketing-first.md`
 - `merenda/00_fondamenti/sistema-operativo-merenda.md`
 - `merenda/DECISION_ROUTER.md`
 
-Case and visual briefs:
+Current governing editorial artifacts:
 
-- `CASE_LOCK.md`
-- `VISUAL_BRIEF.md`
-
----
-
-# 1. Learning problem
-
-A beginner sees tactics and departmental metrics before seeing the commercial system.
-
-This leads to decisions such as:
-
-- more leads because leads are low;
-- cheaper traffic because CAC appears high;
-- more closing pressure because conversion is weak;
-- more automation because follow-up is inconsistent;
-- more hiring because people are busy.
-
-The reader needs a model for asking whether the requested tactic addresses the cause, amplifies an upstream defect or improves a local metric while damaging the whole.
+- `EDITORIAL_HIERARCHY_V2.md`
+- `CHAPTER_GRAMMAR_V2.md`
+- `AUTHORIAL_STYLE_BIBLE.md`
+- `CASE_SYSTEM_V2.md`
 
 ---
 
-# 2. Central question
+# 1. Chapter job
 
-**Why do apparently reasonable tactics so often fail to fix the real business problem?**
+Introduce the reader to the commercial system used throughout the manual.
 
----
+The reader must understand, before specialist topics begin, that marketing is not merely communication or promotion and that market, customer, positioning, offer, acquisition, sales, experience, economics and capacity interact.
 
-# 3. Target competence
-
-After the chapter, the reader should be able to:
-
-- describe a business as a connected commercial/economic system;
-- distinguish tactic, symptom, cause, amplifier and prerequisite;
-- explain why promotion can magnify both strengths and defects;
-- identify when a local metric is insufficient to judge business improvement;
-- move at least one step upstream before prescribing a tactic;
-- avoid treating product, target, price, process or experience as automatically fixed;
-- state what evidence would be needed before declaring a tactical diagnosis correct.
-
-The reader does **not** yet need to know the full formulas for CAC/LTV/payback/capacity. Chapter 2 will teach minimum economics explicitly.
+This chapter establishes the broad map only. It does not teach the detailed formulas, procedures or specialist frameworks owned by later chapters.
 
 ---
 
-# 4. Doctrine that must survive the rewrite
+# 2. General framing requirement
 
-## D1 — Marketing can change the business
+The first pages must explain in ordinary prose:
 
-Marketing is not limited to promoting a product/business model already fixed by other decisions.
+- what `marketing` means in the context of this manual;
+- why reducing marketing to promotion creates bad decisions;
+- why a business must be read as a connected system;
+- why a local improvement can fail to improve the whole;
+- how the five chapter sections fit together.
 
-It can require changes to:
+No long company case before this orientation is complete.
 
-- product/service;
-- target;
-- price;
-- process;
-- selling method;
-- experience;
-- economic model.
-
-Reader-facing prose should express this positively rather than through a long `marketing is not...` list.
-
-## D2 — Promotion amplifies what exists
-
-Advertising/content/copy/channels/sales activity can increase exposure/volume, but they do not automatically repair weak positioning, offer, fit, delivery or economics.
-
-The chapter must avoid the opposite dogma that promotion is never the primary problem.
-
-## D3 — The business is a system with feedback
-
-The commercial system is not a one-way immutable pipeline.
-
-Sales and delivery generate information that can force changes upstream.
-
-Economics/capacity can change the rational acquisition intensity.
-
-## D4 — Strategy precedes tool choice
-
-A tool/channel/provider does not decide:
-
-- whom to serve;
-- why they should choose us;
-- what economics are acceptable;
-- what outcome should be measured.
-
-Execution can be delegated; strategic responsibility cannot be outsourced completely.
-
-## D5 — Diagnose the earliest economically meaningful broken link
-
-The visible symptom is not automatically the cause.
-
-Chapter 1 introduces this discipline but does not reproduce the full Chapter 31 diagnostic system.
-
-## D6 — Tools/AI accelerate but do not remove judgment responsibility
-
-Do not canonize obsolete/absolute claims about tools being unable to outperform the user.
-
-Active rule: tools can accelerate and improve execution, while direction, criteria and quality control remain management responsibilities.
+The first substantial example should appear only after the relevant theory is already intelligible.
 
 ---
 
-# 5. Narrative architecture
+# 3. Mandatory sections
 
-This is not a mandatory heading list. It describes the intended argument.
+## 1.1 Marketing e promozione
 
-## Movement 1 — Let the wrong conclusion feel plausible
+Explain:
 
-Open inside `LineaCasa` after the acquisition campaign.
+- marketing as design/management of how value is chosen, created, communicated, sold and delivered;
+- promotion as one function inside that system;
+- why marketing may require changes to target, offer, price, sales process or experience;
+- why this does not make promotion irrelevant.
 
-Initial reveal:
+Boundary:
 
-- inquiries +60%;
-- projects won +20%;
-- revenue up.
+Do not yet teach channel strategy or copywriting.
 
-Let a reasonable manager call the campaign a success.
+## 1.2 L'impresa come sistema commerciale
 
-Do not immediately correct the reader.
+Explain the broad chain:
 
-## Movement 2 — Reveal the rest of the system
+market/customer → positioning → offer → demand/acquisition → sales → delivery/experience → retention/referral → economics/cash/capacity.
 
-Introduce:
+Important:
 
-- quote delay;
-- senior-time diversion;
-- supervisor overload;
-- poor-fit project mix;
-- contribution deterioration;
-- fully loaded CAC change.
+- this is a dependency map, not a mandatory linear funnel;
+- information also travels upstream from sales/delivery/economics;
+- the map is introductory and should not turn into a glossary of later chapters.
 
-Use the compact comparison exhibit only after narrative tension exists.
+Visual:
 
-Core question:
+Revised commercial-system map.
 
-> Did marketing improve the company, or only one visible stage?
+## 1.3 Risultati locali e risultato complessivo
 
-## Movement 3 — Build the positive system model
+Explain:
 
-Explain marketing as commercial-system design.
+- functional metrics can improve while the business worsens;
+- leads, conversion, revenue or utilization are local measures unless connected to economics/quality/capacity;
+- whole-system judgment requires following consequences downstream.
 
-Introduce Figure A1: Commercial System Map.
+Example:
 
-Show why product/target/position/offer/sales/delivery/economics/capacity cannot always be treated as fixed.
+A generic service company increases qualified inquiries and signed projects, but contribution falls because service burden and rework rise.
 
-Avoid exhaustive chapter-preview descriptions of every later stage.
+Use the numerical logic from the former `LineaCasa` prototype without the invented brand.
 
-## Movement 4 — Cause, amplifier, symptom
+This may be a boxed example after the theory.
 
-Use LineaCasa to distinguish:
+## 1.4 Cause, sintomi e amplificatori
 
-- acquisition as possible amplifier;
-- capacity/customer selection/process as possible upstream causes;
-- delays/rework/contribution loss as symptoms/outcomes.
+Explain the three roles positively and clearly.
 
-Introduce Figure A2.
+Use the leak/stain analogy only if it reads naturally; do not force an analogy.
+
+Then use one business example showing:
+
+- upstream cause;
+- volume amplifier;
+- downstream symptom.
 
 Important nuance:
 
-Turning down acquisition may be temporarily correct to protect delivery, but it can hide rather than solve the capacity/process/customer-fit issue.
+A tactic can sometimes be the actual cause. System thinking does not mean always blaming upstream strategy.
 
-## Movement 5 — Strategy vs tools through one concrete contrast
+Visual:
 
-Do not list every possible tool.
+Cause/amplifier/symptom diagram, redesigned later if needed.
 
-Use one realistic example:
+## 1.5 Strategia, strumenti e responsabilità
 
-Two managers receive the same recommendation to adopt a CRM/automation/AI sales tool.
+Explain:
 
-Manager A knows the state model and next action to automate.
+- tools/channels/software/AI operate inside choices about target, outcome, state and economics;
+- execution can be delegated;
+- criteria and strategic responsibility cannot be outsourced blindly;
+- automation can improve a defined process and accelerate a bad undefined one.
 
-Manager B automates an undefined process.
+Example:
 
-The tool is identical; the strategic result differs.
+Generic comparison between two firms adopting the same CRM/AI tool, one with a defined state model and one without.
 
-## Movement 6 — Counterexample: sometimes the tactic really is broken
+Close by preparing Chapter 2:
 
-Prevent overcorrection.
-
-Construct a short counterexample where:
-
-- market/offer/fit/delivery economics are adequate;
-- one paid campaign has broken tracking/targeting/creative or landing continuity;
-- the correct first fix is local/tactical.
-
-Teaching point:
-
-System thinking does not mean blaming everything upstream. It means earning the right to localize the problem.
-
-## Movement 7 — Reader diagnostic transfer
-
-Give a compact new scenario unrelated to LineaCasa.
-
-Ask reader to classify:
-
-- symptom;
-- possible cause;
-- possible amplifier;
-- evidence needed.
-
-Do not reveal a single certain answer when the evidence is intentionally incomplete.
-
-## Movement 8 — Bridge to Chapter 2
-
-End by showing that system thinking still needs numbers.
-
-A manager cannot decide whether LineaCasa improved without understanding contribution, CAC, cash and capacity.
-
-This creates a causal reason for Chapter 2 instead of a generic `next we discuss economics` transition.
+The system map is insufficient without a minimum economic vocabulary.
 
 ---
 
-# 6. Planned pedagogical features
+# 4. Doctrine that must survive
 
-Required for the prototype:
-
-- opening recurring-case scene;
-- compact before/after comparison exhibit;
-- Figure A1 — Commercial System Map;
-- Figure A2 — Cause / Amplifier / Symptom;
-- one `PRINCIPIO` box after explanation;
-- one short counterexample;
-- one `DIAGNOSTICA` transfer prompt.
-
-Not planned unless drafting shows a need:
-
-- formula box;
-- glossary box;
-- long checklist;
-- multiple sidebars.
+1. Marketing can modify the business, not only promote it.
+2. Promotion can amplify strengths and weaknesses.
+3. Strategy precedes tool choice.
+4. The business is a causal system with feedback, not a one-way rigid funnel.
+5. Visible symptom is not automatically the cause.
+6. Cause, amplifier and symptom are distinct roles.
+7. Tactics can genuinely be the primary problem when evidence localizes the break.
+8. Economic and capacity consequences matter to judging a local win.
+9. Tools/AI can accelerate execution but do not remove management responsibility for direction, criteria and quality control.
 
 ---
 
-# 7. Principle box candidate
+# 5. Example rules
 
-The box should appear only after the system and LineaCasa case have earned it.
+Do not use:
 
-Working content, not final wording:
+- `LineaCasa` as a named fictional company;
+- invented brand names;
+- a case narrative as chapter opener.
 
-> **Before increasing a tactic, identify what it will amplify and which system result should improve if the diagnosis is correct.**
+Use instead:
 
-The final prose should not sound like a generic business quote.
+- `supponiamo che un'impresa di servizi...`;
+- `consideriamo due aziende, A e B...`;
+- short generic examples after theory;
+- one worked numerical box if useful.
 
----
-
-# 8. Counterexample brief
-
-Synthetic compact case:
-
-A company has:
-
-- stable offer and customer fit;
-- adequate delivery capacity;
-- unchanged economics;
-- a previously working paid-search campaign;
-- sudden conversion collapse after a landing-page form change/tracking failure.
-
-The chapter should show that a tactical fix is rational because evidence localizes the break.
-
-Purpose:
-
-Prevent the reader from learning the reverse superstition that every problem must be upstream.
+The theory must remain complete if examples are removed.
 
 ---
 
-# 9. Transfer exercise brief
+# 6. Voice requirements
 
-Scenario:
+Run current Style Bible, especially:
 
-A subscription software company reports that trial signups have doubled after a new content partnership, but activation is flat and support tickets have tripled.
+- `PLAIN-ITALIAN`;
+- `REMOVE-STAGECRAFT`;
+- `AUTHOR-DISAPPEAR`;
+- `PARAGRAPH-CONTINUITY`;
+- `RHETORIC-REPEAT`;
+- `THEORY-FIRST`;
+- `MANUAL-VOICE`.
 
-Ask reader:
+Avoid:
 
-1. What is the visible success metric?
-2. What downstream result is missing?
-3. Name two plausible upstream causes and one possible amplifier.
-4. What evidence would you collect before buying more exposure or cutting the partnership?
-
-No full economics required yet.
-
----
-
-# 10. Style constraints
-
-Run these during drafting:
-
-- `AI-SMELL`
-- `AUTHOR-MIND`
-- `HUMAN-RHYTHM`
-- `LIST-CHALLENGE`
-- `NEGATION-CHECK`
-- `HEADING-CHECK`
-- `TEMPLATE-DIVERSITY`
-
-Specific Golden A warnings:
-
-- no paragraph chain built from repeated `Non...`;
-- no list explaining the entire commercial system;
-- no heading for every concept;
-- no repeated rhetorical question-answer pattern;
-- no generic `the rule is` after every section;
-- no page that can be converted back into V1 merely by adding bullets.
+- repeated rhetorical questions;
+- `la domanda non è... è...` cadence;
+- consultant-style verdicts;
+- punchline paragraphs;
+- dramatic reveals;
+- micro-headings inside the five main sections.
 
 ---
 
-# 11. Depth target
+# 7. Visual requirements
 
-Golden A must be long enough to feel like a real manual chapter rather than an essay summary.
+The chapter can retain two conceptual visuals:
 
-Provisional drafting band:
+1. commercial-system map;
+2. cause / amplifier / symptom.
 
-**4,500–7,000 words before final copyedit**, depending on what the case/figures actually require.
+For this rewrite:
 
-This is a prototype range, not a book-wide quota.
-
-Depth is judged by learning job, not word count.
+- improve wording/placement first;
+- graphic redesign of arrow diagrams can remain a later production task;
+- the visual must follow theory, not introduce it;
+- captions must be descriptive, not slogan-like.
 
 ---
 
-# 12. Audit plan
+# 8. Depth
 
-After near-final draft and visuals:
+No fixed word target.
 
-## Doctrine audit
+The chapter should be long enough to:
 
-- marketing-first preserved;
-- no historical absolute revived;
-- system feedback preserved;
-- tactic can still be local cause when evidence supports it.
+- frame the field;
+- explain all five sections coherently;
+- include limited examples;
+- establish a natural bridge to Chapter 2.
 
-## Instructional audit
+Do not pad to reach the old 4,500–7,000 prototype band.
 
-- beginner can explain local vs system result;
-- beginner can classify symptom/cause/amplifier in a new case;
-- no unexplained downstream jargon required.
+---
 
-## Editorial audit
+# 9. Founder-read gate
 
-- no systematic AI-smell;
-- sustained discursive reading experience;
-- transitions carry the argument;
-- examples feel materially concrete.
+Golden A succeeds only if founder review can answer yes to all:
 
-## Visual audit
-
-- Figure A1 understandable in <30 seconds at high level;
-- Figure A2 adds a diagnostic distinction rather than repeating prose;
-- comparison table does not overload the opener.
-
-## Founder-read gate
-
-Explicit approval is required before Golden A can be treated as a successful prototype.
+- Is the general subject clear before any substantial example?
+- Does the chapter feel like the first chapter of a systematic manual?
+- Is the prose natural Italian rather than engineered explanatory writing?
+- Is the Part/Chapter/Section hierarchy obvious?
+- Are examples subordinate to theory?
+- Is the title appropriately general and navigational?
+- Are useful visuals retained without dominating the chapter?
