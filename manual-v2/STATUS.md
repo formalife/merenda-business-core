@@ -2,11 +2,18 @@
 
 ## Overall state
 
-**ACTIVE — PHASE 6 / SECOND FOUNDER PROTOTYPE READY**
+**ACTIVE — PHASE 6 / ARCHITECTURE PASS, WRITING-QUALITY GATE OPEN**
 
-V1 remains frozen as the doctrine-coverage baseline. The first Golden A/B production model failed the founder reading-experience gate. The architecture, chapter grammar, authorial voice and example system have now been redesigned and applied to a second A/B prototype.
+V1 remains frozen as the doctrine-coverage baseline. The first Golden A/B production model failed the founder reading-experience gate. The second prototype has now passed the founder gate on **structure/architecture**, but not yet on **prose quality**.
 
-The project is **not approved for production scaling yet**. Founder review of the second prototype is the current gate.
+The current book hierarchy, titles, theory-first chapter architecture, generic/A-B example policy, numerical worked examples and quantitative charts are approved as the reader-facing baseline.
+
+The project is **not approved for production scaling yet**. Golden A/B require a dedicated prose-depth rewrite before Golden C or the remaining chapters can proceed.
+
+See:
+
+- `FOUNDER_REVIEW_GOLDEN_AB.md` — first founder FAIL;
+- `FOUNDER_REVIEW_GOLDEN_AB_2.md` — structure PASS / writing-quality FAIL.
 
 ---
 
@@ -27,22 +34,38 @@ These metrics remain diagnostic evidence, not V2 optimization targets.
 
 # Binding founder feedback
 
-Recorded in `FOUNDER_REVIEW_GOLDEN_AB.md`.
+## Structure — APPROVED
 
-Current requirements:
+The following are now approved as baseline:
 
 1. general framing before detail;
-2. more natural and less engineered Italian prose;
-3. theory before substantial examples;
-4. no invented branded fictional companies by default;
-5. explicit Part → Chapter → Section → Paragraph hierarchy;
-6. short, general, topical chapter titles;
-7. preserve strong numerical worked examples and useful charts;
-8. arrow/process diagrams can receive later graphic redesign.
+2. theory before substantial examples;
+3. explicit Part → Chapter → Section → Paragraph hierarchy;
+4. short, general, topical chapter titles;
+5. 8-Part / 34-Chapter current architecture;
+6. no invented branded fictional companies by default;
+7. generic examples / A-B labels / sourced real cases;
+8. numerical worked examples where useful;
+9. explanatory quantitative charts;
+10. arrow/process diagrams may receive later graphic redesign.
+
+## Writing quality — NOT YET APPROVED
+
+Founder feedback on the second prototype:
+
+- insufficient cohesion between paragraphs/sections;
+- insufficient fluidity;
+- language still too artificial/mechanical in places;
+- tone too sterile;
+- explanations sometimes too compressed;
+- insufficient depth on important distinctions;
+- insufficient incisiveness and authority;
+- practical applications should be more integrated;
+- the text must explain until the subject is genuinely understandable and usable.
 
 ---
 
-# Current architecture decisions
+# Current architecture / editorial decisions
 
 - **V2-D001 CURRENT:** V1 is frozen; V2 is separate under `manual-v2/`.
 - **V2-D003 CURRENT:** target form = professional textbook / business book / field manual hybrid.
@@ -54,7 +77,7 @@ Current requirements:
 - **V2-D009 CURRENT:** doctrine, instructional, editorial and visual audits remain separate gates.
 - **V2-D010 CURRENT:** lists are reference/compression devices, not default explanatory prose.
 - **V2-D011 SUPERSEDED:** first V2 8-Part / 31-Chapter architecture is historical prototype architecture.
-- **V2-D030 CURRENT:** current reader-facing candidate = **8 Parts / 34 Chapters**, with explicit macro-sections.
+- **V2-D030 CURRENT:** reader-facing architecture = **8 Parts / 34 Chapters**, with explicit macro-sections.
 - **V2-D012 CURRENT:** reader-facing boundaries follow subject hierarchy, not backend primary-home logic.
 - **V2-D013 REFINED:** target voice = competent human author explaining the subject clearly, naturally and systematically.
 - **V2-D015 SUPERSEDED:** case/problem-first chapter grammar is no longer the default.
@@ -72,6 +95,13 @@ Current requirements:
 - **V2-D027 CURRENT:** chapter titles are short, clear and topical.
 - **V2-D028 CURRENT:** numerical worked examples and explanatory charts remain approved.
 - **V2-D029 CURRENT:** first Golden A/B internal passes remain historical prototypes and do not satisfy founder gate.
+- **V2-D032 CURRENT:** current 8-Part / 34-Chapter architecture has passed the founder structure gate and is now the architectural baseline.
+- **V2-D033 CURRENT:** Golden A/B require a dedicated prose-depth pass before production scaling.
+- **V2-D034 CURRENT:** prose quality is judged on cohesion, fluidity, naturalness, explanatory depth, incisiveness and practical applicability.
+- **V2-D035 CURRENT:** no fixed chapter-length target; depth ends when the concept is understandable and usable, not merely named.
+- **V2-D036 CURRENT:** theory-first remains binding, but micro-examples and practical implications may be integrated in the prose; larger worked examples remain boxed/isolated.
+- **V2-D037 CURRENT:** voice must be natural and authoritative, neither mechanical nor sterile.
+- **V2-D038 CURRENT:** Golden C remains blocked until the prose-depth pass and a third founder-read of A/B.
 
 ---
 
@@ -79,11 +109,11 @@ Current requirements:
 
 - Phase 0 — DONE / PASS — V1 freeze and postmortem
 - Phase 1 — DONE / PASS — research base and book contract
-- Phase 2 — DONE / REVISED — current architecture 8 Parts / 34 Chapters
-- Phase 3 — DONE / REVISED — natural authorial style system
-- Phase 4 — DONE / REVISED — theory-first chapter grammar
-- Phase 5 — DONE / REVISED — visual/example/formula systems
-- **Phase 6 — ACTIVE — second Golden A/B founder gate**
+- Phase 2 — DONE / FOUNDER PASS — current architecture 8 Parts / 34 Chapters
+- Phase 3 — ACTIVE / REFINEMENT — natural authorial prose needs deeper revision
+- Phase 4 — DONE / FOUNDER PASS — theory-first chapter grammar and hierarchy
+- Phase 5 — DONE / FOUNDER PASS WITH VISUAL DESIGN DEBT — visual/example/formula systems
+- **Phase 6 — ACTIVE — Golden A/B prose-depth rewrite before third founder gate**
 - Phase 7 — NOT STARTED — editorial QA/lint
 - Phase 8 — NOT STARTED — production waves
 - Phase 9 — NOT STARTED — whole-book independent audits
@@ -96,137 +126,85 @@ Current requirements:
 
 ## Architecture
 
-- `EDITORIAL_HIERARCHY_V2.md` — CURRENT
-- `TOC_V2.md` — CURRENT 8-Part / 34-Chapter candidate
-- `LEARNING_OUTCOME_MAP.md` — CURRENT remap; 18/18 book outcomes covered
-- `POST_FOUNDER_REDESIGN_AUDIT.md` — CURRENT redesign audit
+- `EDITORIAL_HIERARCHY_V2.md` — CURRENT / FOUNDER PASS
+- `TOC_V2.md` — CURRENT 8-Part / 34-Chapter baseline
+- `LEARNING_OUTCOME_MAP.md` — CURRENT; 18/18 book outcomes covered
+- `POST_FOUNDER_REDESIGN_AUDIT.md` — second architecture audit
 - `CHAPTER_ARCHITECTURE_AUDIT.md` — historical first-pass audit
 
 ## Style / learning design
 
-- `AUTHORIAL_STYLE_BIBLE.md` — CURRENT founder-revised voice
-- `CHAPTER_GRAMMAR_V2.md` — CURRENT theory-first grammar
-- `CASE_SYSTEM_V2.md` — CURRENT generic/A-B/real-case example system
+- `AUTHORIAL_STYLE_BIBLE.md` — CURRENT but requires prose-depth refinement
+- `CHAPTER_GRAMMAR_V2.md` — CURRENT / FOUNDER PASS
+- `CASE_SYSTEM_V2.md` — CURRENT / FOUNDER PASS
 - `PEDAGOGICAL_FEATURES.md` — supporting palette
 - `AI_SMELL_CATALOG.md` — supporting diagnostic catalog
+- `FOUNDER_REVIEW_GOLDEN_AB_2.md` — current founder feedback
 
 ## Quantitative / visual
 
-- `FORMULA_CATALOG.md`
-- `VISUAL_SYSTEM.md`
+- `FORMULA_CATALOG.md` — retained
+- `VISUAL_SYSTEM.md` — retained; arrow/process graphic design not final
 
 ## Golden control
 
 - `FOUNDER_REVIEW_GOLDEN_AB.md` — first founder FAIL
-- `GOLDEN_CHAPTER_PLAN.md` — reset/current plan
+- `FOUNDER_REVIEW_GOLDEN_AB_2.md` — structure PASS / writing-quality FAIL
+- `GOLDEN_CHAPTER_PLAN.md` — must be refined for prose-depth cycle
 
 ---
 
-# Second Golden prototype status
+# Current Golden status
 
 ## Golden A — Capitolo 1: `Il sistema di marketing`
 
-Current path:
-
-- `golden/chapter-01/SPEC.md`
-- `golden/chapter-01/DRAFT.md`
-
-State:
-
-- rewritten from zero under theory-first architecture;
-- general framing before section 1.1;
-- five explicit sections;
-- no named fictional-company dependency;
-- numerical service-business example moved after the theory;
-- conceptual system and cause/amplifier/symptom visuals retained provisionally;
-- Part I introduction added in `golden/part-01-intro.md`.
+- architecture/hierarchy: PASS;
+- general framing: PASS;
+- example placement: PASS;
+- writing quality: OPEN;
+- needs deeper explanation, more continuity, more natural voice, stronger practical implications.
 
 ## Golden B — Capitolo 25: `Economia del cliente`
 
-Current path:
-
-- `golden/chapter-25/SPEC.md`
-- `golden/chapter-25/DRAFT.md`
-- `golden/chapter-25/figures/figure-25-1-same-cac-different-start.svg`
-- `golden/chapter-25/figures/figure-25-2-cohort-payback.svg`
-
-State:
-
-- rewritten from zero under theory-first architecture;
-- general chapter map before calculations;
-- six explicit sections;
-- no `TurnoChiaro` / `Dispensa Nord` dependency;
-- generic `Coorte A / Coorte B` used only as worked numerical example;
-- CAC, contribution, cohorts, LTV, payback, sustainable CAC, marginal CAC and sensitivity preserved;
-- Part VII introduction added in `golden/part-07-intro.md`.
+- architecture/hierarchy: PASS;
+- numerical examples/formulas/charts: PASS directionally;
+- generic A/B example policy: PASS;
+- writing quality: OPEN;
+- needs deeper explanatory prose, more connective tissue and stronger interpretation/application around formulas.
 
 Historical first Golden B remains under `golden/chapter-23/` and must not be treated as current reader-facing material.
 
 ## Golden C — Capitolo 19: `Vendita consulenziale`
 
-- existing old prep material is historical/reference material;
-- current reader-facing drafting remains **PAUSED**;
-- do not resume until revised A/B pass founder review.
-
----
-
-# Second founder PDF
-
-Workflow:
-
-- `.github/workflows/golden-ab-redesign-preview.yml`
-- run `35571525446` — SUCCESS
-
-Artifact:
-
-- `manual-v2-redesigned-golden-ab-preview`
-- 19 pages, A4
-
-Composition:
-
-1. cover;
-2. Parte I introduction;
-3. revised Chapter 1;
-4. Parte VII introduction;
-5. revised Chapter 25.
-
-Visual QA completed on the rendered pages:
-
-- hierarchy pages render correctly;
-- chapter openings show general framing before detail;
-- figures fit without clipping;
-- Figure 25.1 uses generic cohorts and no fictional brand;
-- Figure 25.2 clearly distinguishes observed period from illustrative projection;
-- tables/formula boxes are readable;
-- no material layout blocker found.
-
-Arrow/process diagrams remain intentionally non-final graphic design.
+- current reader-facing drafting: **PAUSED**;
+- resume only after third founder PASS on rewritten A/B.
 
 ---
 
 # Current blocker
 
-**Founder approval of the redesigned reading experience.**
+**Writing-quality approval of Golden A/B.**
 
-Internal redesign audit result:
+Architecture is no longer the blocker.
 
-`POST_FOUNDER_REDESIGN_AUDIT.md` → **INTERNAL PASS FOR SECOND FOUNDER PROTOTYPE**.
-
-This is not equivalent to founder approval.
+No doctrine blocker.  
+No semantic coverage blocker.  
+No current example/quantitative-system blocker.
 
 ---
 
 # Next action
 
-1. founder reads the second A/B PDF;
-2. classify feedback as architecture / voice / hierarchy / examples / quantitative / visual;
-3. if A/B founder PASS, freeze the production model;
-4. rewrite Golden C as Chapter 19 under the approved model;
-5. founder-review Golden C;
-6. only after all Golden gates pass, start Phase 7 and production planning.
+1. perform a line-by-line prose diagnosis of Golden A/B;
+2. build `PROSE_DEPTH_SYSTEM.md` with positive standards and anti-patterns;
+3. revise `AUTHORIAL_STYLE_BIBLE.md` around natural, cohesive, deeper exposition;
+4. run a prose-depth rewrite of Golden A/B without changing approved architecture;
+5. integrate micro-examples, practical implications and deeper explanations where useful;
+6. ensure added depth does not reintroduce AI-smell, list density or redundancy;
+7. build a third A/B PDF;
+8. founder-read;
+9. only after founder PASS, resume Golden C.
 
 ## Blockers
 
-No doctrine blocker.  
-No known semantic coverage blocker.  
-Production model remains blocked only by founder reading-experience gate.
+Production scaling remains blocked by the writing-quality gate only.
