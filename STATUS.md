@@ -2,234 +2,193 @@
 
 ## Stato generale
 
-**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW ACTIVE; RETRIEVAL PROTOTYPE STABILIZED ON DEVELOPMENT CASES; BLIND HOLDOUT + COMPACT-KERNEL GATE READY.**
+**MERENDA BUSINESS CORE — LAYER 1 OPERATIONAL. ARCHITECTURE REVIEW: RETRIEVAL + COMPACT CONTROL PLANE VALIDATED ON BLIND HOLDOUT; STABILIZATION / ADOPTION ACTIVE.**
 
-Il progetto è il **Layer 1** del sistema aziendale: doctrine layer, routing decisionale e motore di diagnosi.
+Il progetto è il Layer 1: doctrine layer, routing decisionale e motore di diagnosi.
 
 La doctrine sotto `merenda/` non è stata modificata dalla Architecture Review. `merenda/DECISION_ROUTER.md` resta canonico e invariato.
 
-Branch attivo:
+Branch attivo: `architecture-review-routing-v2`
 
-`architecture-review-routing-v2`
-
-Draft PR:
-
-`#15 — Architecture Review: routing and retrieval fidelity baseline`
+Draft PR: `#15 — Architecture Review: routing and retrieval fidelity baseline`
 
 ---
 
-## Decisione metodologica
+## Decisione architetturale corrente
 
-**Eval first, refactor second. Fidelity e context cost devono migliorare insieme.**
+Per uso strategico/diagnostico il control plane candidato corrente è:
 
-Il file non è la unità primaria di retrieval. L'architettura candidata separa:
+**`REASONING_KERNEL.md` → compact semantic index → semantic entry selettive → sezione canonica minima → sufficiency check → structural search / parent-child safety net → full-node fallback.**
 
-1. **Canonical Document** — doctrine Markdown;
-2. **Structural Unit — GENERATED** — heading/path/parent-child/range;
-3. **Decision Semantic Unit — CURATED** — gate, causalità, evidence, provenance e dipendenze.
+Regole:
 
-Pattern candidato:
+1. **File ≠ unità primaria di retrieval.**
+2. `REASONING_KERNEL.md` sostituisce il preload dei cinque full control-plane documents nel bootstrap operativo candidato.
+3. La doctrine specialistica canonica resta autoritativa e va recuperata per decisioni materiali.
+4. I full control-plane documents restano governance/reference/fallback; non vengono eliminati.
+5. La semantic Map/index non è filtro esclusivo.
+6. Structural discovery resta recall safety net.
+7. Nessun Router v2 per ora.
+8. Embeddings/reranking/GraphRAG restano escalation solo dopo failure misurate.
 
-**compact semantic index → semantic entry selettive → sezione canonica minima → sufficiency check → structural search/parent-child safety net → full node fallback.**
+Decision record:
+
+`reviews/behavioral/HOLDOUT_V1_UNBLINDED_ARCHITECTURE_DECISION_2026-09-21.md`
 
 ---
 
 ## Behavioral baseline — COMPLETE
 
-Commit congelato:
+Commit congelato: `4506e67e812c4e3270c4446d58f6a3d8c3934e82`
 
-`4506e67e812c4e3270c4446d58f6a3d8c3934e82`
+| Configurazione | Required-check recall | Material inversions |
+|---|---:|---:|
+| `current` | 93/96 = 96.875% | 0 |
+| `current_plus_map` | 95/96 = 98.958% | 0 |
 
-### File-level deterministic retrieval
+Deterministic file-level retrieval storico:
 
-| Configurazione | Mean required-node recall | Mean relevant retrieval precision | Over-retrieved nodes |
+| Configurazione | Mean required-node recall | Mean precision | Over-retrieved |
 |---|---:|---:|---:|
 | `current` | 0.7472 | 0.7644 | 24 |
 | `current_plus_map` | 0.6778 | 0.8000 | 14 |
 
-### Blind semantic judgment + unblinding
-
-| Configurazione | Required-check recall | Discovery misses | Synthesis misses | Material inversions |
-|---|---:|---:|---:|---:|
-| `current` | 93/96 = 96.875% | 2 | 1 | 0 |
-| `current_plus_map` | 95/96 = 98.958% | 0 | 1 | 0 |
-
-Per entrambe: 0 forbidden shortcut, 0 provenance error, 0 unsupported inference, 0 premature tactic, 0 founder-accommodation failure.
-
-Decisione:
-
-- required-node recall non è una metrica primaria adeguata;
-- Map v1 non è production control plane, ma resta un buon precision / causal-routing signal;
-- Map non deve essere filtro esclusivo;
-- Router v2 resta deferred.
+Decisione metodologica: required-node/file recall non è una metrica primaria adeguata; semantic decision fidelity prevale.
 
 ---
 
-## Context-read baseline — COMPLETE
+## Context baseline — COMPLETE
 
-| Metrica media per caso | `current` | `current_plus_map` |
+| Metrica media/caso | `current` | `current_plus_map` |
 |---|---:|---:|
 | reconstructed chars | 130,511 | 137,128 |
 | control-plane chars | 92,751 | 91,985 |
-| routing-metadata chars | 0 | 17,337 |
-| specialist-doctrine chars | 27,136 | 20,589 |
-| other chars | 10,625 | 7,217 |
+| routing metadata | 0 | 17,337 |
+| specialist doctrine | 27,136 | 20,589 |
 
-La Map riduce doctrine specialistica ma, nel formato v1, costa troppo come metadata.
-
-Il bootstrap fisso domina il contesto con circa **89–92k chars/case**.
+Conclusione: il vecchio bootstrap era il costo dominante.
 
 ---
 
-## Structural Index — IMPLEMENTED / HARDENED
+## Retrieval architecture — IMPLEMENTED / STABILIZED
+
+### Structural Index
 
 `scripts/build_structural_index.py`
-
-Stato corrente:
 
 - 60 documenti;
 - 912 structural sections;
 - schema 1.1;
-- heading H1-H6;
+- path/anchor IDs;
+- parent/children;
+- section/subtree ranges;
 - fenced-code exclusion;
-- stable path+anchor IDs con gestione duplicati;
-- parent/child reciprocity e range validation.
+- invariant validation.
 
-Generated artifact, non doctrine.
-
----
-
-## Semantic Gold v2 — COMPLETE ON DEVELOPMENT SUITE
+### Semantic Gold v2
 
 `evals/routing/semantic_gold_v2.jsonl`
 
-- 30/30 casi manualmente revisionati;
-- 42 semantic unit nel registry runtime;
-- required/optional semantic units separate;
-- `eval_cases` escluso dal runtime;
-- Map usata solo come migration hint, non come automatic gold generator.
+- 30/30 development cases manual reviewed;
+- 42 semantic units nel registry;
+- `eval_cases` escluso dal runtime.
 
-La suite da 30 casi è ora principalmente una **regression suite**, non un vero holdout: ha informato gold e sviluppo di A1/A2/A3.
+I 30 casi sono ora **regression suite**, non holdout.
 
----
+### Prototype A3
 
-## Prototype A3 — DEVELOPMENT STABILIZED
-
-A3 aggiunge disciplina di selezione e application audit senza modificare doctrine:
+A3 applica:
 
 - massimo iniziale di 4 semantic candidate salvo espansione causale motivata;
 - specifico prima del generico;
-- `must_read_with` solo quando la condizione è vera;
-- stop dopo copertura del primo collo di bottiglia e dipendenze materiali;
-- application audit delle semantic unit effettivamente verificate.
+- `must_read_with` solo quando applicabile;
+- stop dopo primo collo di bottiglia + dipendenze materiali;
+- application audit delle unità verificate.
 
-### Smoke A3 — 6 casi
+Smoke development A3:
 
-- semantic verified recall: 0.9444;
-- focused precision: 0.8889;
-- full-recall cases: 5/6;
-- mean reconstructed context: 110,373 chars/case;
-- specialist doctrine: 6,580 chars/case;
-- routing metadata: 11,499 chars/case;
-- control plane: 89,192 chars/case;
-- answer-only judgment: 18/19 required checks, 0 material inversions.
+- semantic verified recall 0.9444;
+- focused precision 0.8889;
+- 18/19 answer checks;
+- 0 material inversions;
+- mean context 110,373 chars/case;
+- specialist doctrine 6,580 chars/case.
 
-### Focused repair gate A31 — R020 + R027
+Focused repair gate A31, R020+R027:
 
-- retrieval recall: 1.0000;
-- focused precision: 0.9000;
-- answer-only: 7/7 required checks;
-- 0 forbidden shortcuts;
-- 0 provenance errors;
+- retrieval recall 1.0000;
+- focused precision 0.9000;
+- 7/7 answer checks;
 - 0 material inversions.
 
-Decisione: **non fare ulteriore tuning sui casi di sviluppo prima di un holdout nuovo.**
+---
+
+## Blind Architecture Holdout v1 — PASSED
+
+Holdout: `evals/routing/holdout_v1.jsonl`
+
+Protocol: `reviews/ARCHITECTURE_HOLDOUT_V1_PROTOCOL.md`
+
+Six new cases, 18 required checks, zero case-ID overlap with R001–R030. No semantic unit was added for the holdout.
+
+Blind judgment was frozen before mapping:
+
+| Blind variant | Required checks | Full-pass cases | Material inversions | Forbidden shortcuts |
+|---|---:|---:|---:|---:|
+| A | **18/18** | **6/6** | 0 | 0 |
+| B | **18/18** | **6/6** | 0 | 0 |
+
+After unblinding:
+
+- A3 + full bootstrap: **18/18**;
+- A3 + Compact Reasoning Kernel: **18/18**;
+- observed quality delta: **0**.
+
+Per-case mapping was randomized; kernel was B in H001/H003/H004/H005/H006 and A in H002.
+
+Reports:
+
+- `reviews/behavioral/HOLDOUT_V1_BLIND_ANSWER_JUDGMENT_2026-09-21.md`
+- `reviews/behavioral/HOLDOUT_V1_UNBLINDED_ARCHITECTURE_DECISION_2026-09-21.md`
 
 ---
 
-## Architecture Holdout v1 — FROZEN / READY
+## Compact Reasoning Kernel v1 — VALIDATED / PROMOTED
 
-Protocollo:
+Operational artifact: `REASONING_KERNEL.md`
 
-`reviews/ARCHITECTURE_HOLDOUT_V1_PROTOCOL.md`
+Historical experimental source: `reviews/drafts/COMPACT_REASONING_KERNEL_V1.md`
 
-Gold nascosto al modello:
+Zero-Codex fixed-control measurement:
 
-`evals/routing/holdout_v1.jsonl`
-
-Sei casi nuovi, 18 required checks, zero overlap con R001–R030. Coprono:
-
-- crisis management + internal control;
-- earned media/notiziability;
-- internal controls;
-- current front-end doctrine;
-- customer-facing AI governance;
-- resilience/single-point-of-failure.
-
-Nessuna semantic unit nuova è stata aggiunta per il holdout. La structural search deve agire come recall safety net dove la mappa corrente non basta.
-
----
-
-## Compact Reasoning Kernel v1 — FROZEN / EXPERIMENTAL
-
-`reviews/drafts/COMPACT_REASONING_KERNEL_V1.md`
-
-È una sintesi sperimentale del control plane, non doctrine canonica.
-
-Dry-run CI senza Codex:
-
-- full fixed control: **89,192 chars**;
-- compact kernel: **11,324 chars**;
+- full five-file control plane: **89,192 chars**;
+- kernel: **11,324 chars**;
 - kernel/full ratio: **0.127**;
-- riduzione potenziale del bootstrap fisso: **~87.3%**.
+- fixed-bootstrap reduction: **~87.3%**.
 
-Il kernel deve ancora dimostrare di preservare decision fidelity.
+Blind paired holdout observed total context:
 
----
+- full architecture: **120,116 chars/case**;
+- kernel architecture: **34,288 chars/case**;
+- total-context delta: **−71.5%**.
 
-## Next gate — HIGHEST INFORMATION PER CODEX CREDIT
+This is reconstructed-character instrumentation, not billed-token telemetry.
 
-Non eseguire ora il full run da 30 casi.
+Decision: **stop Codex-heavy micro-tuning.** The validated kernel becomes the current control-plane candidate on this branch.
 
-Eseguire un paired blind A/B sui 6 holdout:
-
-- `holdout_a3_full` — A3 + cinque file di control plane completi;
-- `holdout_a3_kernel` — stesso A3 + Compact Reasoning Kernel v1.
-
-Totale: **12 Codex calls**.
-
-Harness:
-
-`scripts/run_architecture_holdout_ab_host.py`
-
-Regole:
-
-1. full e kernel sullo stesso holdout congelato;
-2. nessuna patch fra i due variant;
-3. A/B randomizzato localmente per caso;
-4. giudicare prima `holdout-blind-answer-bundle.jsonl`;
-5. rivelare mapping solo dopo il judgment;
-6. retrieval/debug solo dopo unblinding.
-
-Se entrambi falliscono: priorità retrieval/generalization.
-
-Se full passa e kernel fallisce: ridisegnare kernel offline prima di altre call.
-
-Se entrambi passano e kernel riduce materialmente il contesto: congelare la coppia retriever/kernel e decidere se il full regression da 30 casi ha ancora sufficiente valore informativo.
+Do not further compress it without a new paired evaluation and a material expected gain.
 
 ---
 
-## Decisioni correnti
+## Remaining architecture work — LOW CODEX COST
 
-1. **File ≠ unità primaria di retrieval.**
-2. **Map v1 non entra nel current control plane**; resta experimental metadata.
-3. **Map non è un filtro esclusivo.** Structural discovery resta recall safety net.
-4. **Nessun Router v2 per ora.**
-5. **Embeddings/reranking/GraphRAG restano escalation**, solo dopo failure misurate.
-6. **Context economics è acceptance criterion di primo livello.**
-7. **A3 è congelato sui casi di sviluppo fino al holdout.**
-8. **Compact Kernel è experimental** e non sostituisce doctrine prima del blind A/B.
-9. **Governance historical/current resta un gap P1** prima della chiusura finale della review.
+1. Update operational entrypoints to preload `REASONING_KERNEL.md` instead of the five full control-plane documents for strategic/diagnostic use.
+2. Keep full control plane as fallback/audit material.
+3. Resolve governance historical/current debt in frozen files only under explicit authorization.
+4. After Layer 1 merge, update Layer 2 bootstrap/reference files so Formalife operational chats use the compact bootstrap by default.
+5. Treat new real failure classes as future regression cases; do not rerun the full 30-case suite without a material architecture change.
+
+No further Codex-heavy evaluation is currently justified.
 
 ---
 
@@ -261,6 +220,6 @@ La provenance reale non viene mai falsificata.
 - il lock YouTube resta attivo;
 - i file frozen restano invariati salvo autorizzazione esplicita;
 - risultati Formalife non diventano automaticamente principi generali;
-- Architecture Review può modificare eval, validator, draft metadata e control-plane experiments senza promuovere automaticamente nuova doctrine.
+- Architecture Review può modificare eval, validator, metadata e control-plane experiments senza promuovere automaticamente nuova doctrine.
 
 Non riaprire automaticamente il corpus YouTube residuo.
