@@ -1,0 +1,22 @@
+name: Validate Reasoning Kernel
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches:
+      - main
+      - architecture-review-routing-v2
+
+permissions:
+  contents: read
+
+jobs:
+  validate-kernel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate promoted kernel
+        run: python3 scripts/validate_reasoning_kernel.py
