@@ -11,25 +11,19 @@ The existing prose, formulas, figures and worked calculations remain primary. Th
 
 ---
 
-# Feature B1 — IN PRATICA
+# Rejected feature — IN PRATICA after CAC discussion
 
-## Placement
+The first apparatus draft proposed an `IN PRATICA` box after the explanation of fully loaded CAC.
 
-Section `25.1 Unit economics`, after the explanation of the fully loaded CAC numerator and the difference between cost per lead and CAC.
+**FEATURE-DELETE RESULT: REMOVE.**
 
-## Reader-facing copy
+Reason: the current prose already gives a strong practical check — asking which resources would really disappear if those customers were not acquired. Repeating the same job in a callout would fragment a section that already works.
 
-> **IN PRATICA — Ricostruisci il CAC prima di confrontarlo**
->
-> Prima di confrontare due canali o due periodi, scrivi esplicitamente che cosa stai includendo nel costo di acquisizione. Media spend, agenzia, creatività, strumenti, eventi, commissioni, tempo commerciale e follow-up possono appartenere allo stesso percorso di acquisizione. Non è necessario attribuire ogni euro con precisione contabile perfetta, ma il perimetro deve essere abbastanza coerente da evitare confronti falsi. Due CAC calcolati con numeratori diversi non sono due performance: sono due misure diverse.
-
-## Learning job
-
-Turn denominator/perimeter discipline into an operating habit before the reader uses CAC in decisions.
+This rejection is retained as evidence that the apparatus is not quota-driven.
 
 ---
 
-# Existing feature B2 — ESEMPIO NUMERICO
+# Existing feature B1 — ESEMPIO NUMERICO
 
 Existing chapter feature:
 
@@ -43,7 +37,7 @@ It demonstrates contribution and CAC after the concepts have been explained.
 
 ---
 
-# Existing feature B3 — ESEMPIO SVOLTO
+# Existing feature B2 — ESEMPIO SVOLTO
 
 Existing chapter feature:
 
@@ -59,7 +53,7 @@ The example, figures and table are one instructional sequence. Avoid styling the
 
 ---
 
-# Feature B4 — ERRORE FREQUENTE
+# Feature B3 — ERRORE FREQUENTE
 
 ## Placement
 
@@ -77,7 +71,7 @@ Prevent forecast-as-evidence errors that can authorize economically dangerous ac
 
 ---
 
-# Feature B5 — APPROFONDIMENTO
+# Feature B4 — APPROFONDIMENTO
 
 ## Placement
 
@@ -99,7 +93,7 @@ The core chapter already explains the ratio sufficiently for first understanding
 
 ---
 
-# Existing feature B6 — ESEMPIO NUMERICO
+# Existing feature B5 — ESEMPIO NUMERICO
 
 Existing chapter feature:
 
@@ -113,7 +107,7 @@ The worked threshold is a decision-rule example, not a benchmark.
 
 ---
 
-# Feature B7 — VERIFICA NELLA TUA AZIENDA
+# Feature B6 — VERIFICA NELLA TUA AZIENDA
 
 ## Placement
 
@@ -148,12 +142,13 @@ One cohort economics sheet with observed vs modeled values explicitly separated.
 
 Support apparatus in Chapter 25:
 
-- 1 `IN PRATICA`;
 - 1 new `ERRORE FREQUENTE`;
 - 1 `APPROFONDIMENTO`;
 - 1 `VERIFICA NELLA TUA AZIENDA`;
 - 3 existing worked/numerical example sequences;
 - 2 quantitative figures + comparison table + displayed formulas.
+
+No additional `IN PRATICA` box is needed because the prose already contains the operating implication.
 
 This is already a high-density chapter because the subject is quantitative.
 
