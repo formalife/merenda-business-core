@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 7 / PART II COMPLETE / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 8 / PART III OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -96,11 +96,13 @@ Reader-facing production completed through:
 - Chapter 5 — `Il cliente`
 - Chapter 6 — `Ricerca di mercato`
 - Chapter 7 — `La decisione d'acquisto`
+- Chapter 8 — `Posizionamento`
 
 Part introductions completed:
 
 - Part I — `Fondamenti del sistema`
 - Part II — `Mercato e cliente`
+- Part III — `Posizionamento, offerta e prezzo`
 
 Part transition gates completed:
 
@@ -108,22 +110,33 @@ Part transition gates completed:
 
 Chapters 6–7 complete the Part II lens → evidence → buying-decision logic. Chapter 6 teaches research as decision-oriented evidence production rather than generic surveying, with explicit separation of behavior, customer statements, interpretation and strategic hypothesis. Chapter 7 recomposes those evidences into the concrete structure of a buying decision: initial situation, desired result, consequences, alternatives, status quo, criteria, switching risk, trigger, timing and stakeholders. It includes a reusable buying-decision map.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 7 plus the Part II transition gate.
+Chapter 8 opens Part III by turning that customer evidence into a reason to choose. It keeps positioning distinct from focus/category, offer, proof and copy; treats differentiation as operationally real before it is communicated; links relevance to customer criteria and consequences; and verifies the intended position against observed buying behavior. It includes a reusable positioning-and-evidence worksheet.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 8 after the Part III reader-facing introduction.
 
 Latest manuscript QA:
 
-- 108 pages total;
-- pages 1–93 are pixel-identical to the previously validated Chapter 6 render;
-- pages 94–108 were re-rendered and visually checked at final size;
-- two callout-boundary defects found during QA were corrected: the transition into §7.4 was moved outside the `ESEMPIO SVOLTO` box, and the Chapter 7 conclusion was moved outside the final `VERIFICA NELLA TUA AZIENDA` box;
-- no remaining clipping, broken tables, visible Markdown markers or split callout headers found in the final deliverable.
+- 124 pages total;
+- pages 1–108 are pixel-identical to the previously validated Chapter 7 render;
+- pages 109–124 were rendered and visually checked at final size;
+- table and callout flow was corrected during QA so the positioning-state table, `STRUMENTO OPERATIVO` box and evidence worksheet remain in the intended document order;
+- the final `VERIFICA NELLA TUA AZIENDA` boundary was corrected so the Chapter 8 conclusion remains outside the callout;
+- no remaining clipping, overlap, broken tables, visible Markdown markers or split callout headers found in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part III — `Posizionamento, offerta e prezzo` — with its reader-facing introduction, then resume production with:
+Resume Part III production with:
 
-**Chapter 8 — `Posizionamento`.**
+**Chapter 9 — `Focalizzazione e categoria`.**
+
+Frozen sections:
+
+- 9.1 `Focalizzazione`
+- 9.2 `Prodotto guida e significato centrale`
+- 9.3 `Categoria e criterio di confronto`
+- 9.4 `Estensioni di linea`
+- 9.5 `Architettura di marca`
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
