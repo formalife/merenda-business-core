@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Artifact 18.1 — Note diagnostiche: fatti, ipotesi, aperti e prossima evidenza</title>
+  <desc id="desc">Tabella di note vendita per Ferroline Servizi. Separa fatti riferiti dal prospect, ipotesi del venditore, domande ancora aperte e prossima evidenza necessaria.</desc>
+  <rect x="20" y="20" width="1160" height="780" rx="18" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="55" y="66" font-family="Arial, sans-serif" font-size="27" font-weight="700">Note diagnostiche: non mescolare ciò che sai con ciò che stai inferendo</text>
+  <text x="55" y="98" font-family="Arial, sans-serif" font-size="15" fill="#444">Ferroline Servizi — appunti dopo la prima conversazione con la CFO</text>
+
+  <!-- column headers -->
+  <g font-family="Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#111">
+    <rect x="55" y="135" width="270" height="48" fill="#e9e9e9" stroke="#777"/>
+    <rect x="325" y="135" width="270" height="48" fill="#efefef" stroke="#777"/>
+    <rect x="595" y="135" width="270" height="48" fill="#e9e9e9" stroke="#777"/>
+    <rect x="865" y="135" width="280" height="48" fill="#efefef" stroke="#777"/>
+    <text x="190" y="166">FATTO RIFERITO</text>
+    <text x="460" y="166">IPOTESI DEL VENDITORE</text>
+    <text x="730" y="166">APERTO / DA VERIFICARE</text>
+    <text x="1005" y="166">PROSSIMA EVIDENZA</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="14" fill="#111">
+    <!-- row 1 -->
+    <rect x="55" y="183" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="325" y="183" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="595" y="183" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="865" y="183" width="280" height="130" fill="#fff" stroke="#aaa"/>
+    <text x="72" y="210"><tspan x="72">CFO: circa 18 h/settimana</tspan><tspan x="72" dy="20">fra due analisti per</tspan><tspan x="72" dy="20">riconciliare i report.</tspan></text>
+    <text x="342" y="210"><tspan x="342">Il costo visibile del reporting</tspan><tspan x="342" dy="20">potrebbe essere più nel processo</tspan><tspan x="342" dy="20">che nello strumento grafico.</tspan></text>
+    <text x="612" y="210"><tspan x="612">Le 18 ore sono tipiche?</tspan><tspan x="612" dy="20">Quali attività le assorbono?</tspan><tspan x="612" dy="20">Che cosa varia a fine mese?</tspan></text>
+    <text x="882" y="210"><tspan x="882">Campione degli ultimi</tspan><tspan x="882" dy="20">due cicli di reporting</tspan><tspan x="882" dy="20">e passaggi manuali usati.</tspan></text>
+
+    <!-- row 2 -->
+    <rect x="55" y="313" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="325" y="313" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="595" y="313" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="865" y="313" width="280" height="130" fill="#fafafa" stroke="#aaa"/>
+    <text x="72" y="340"><tspan x="72">“Pipeline” non significa</tspan><tspan x="72" dy="20">la stessa cosa in tutte</tspan><tspan x="72" dy="20">le sei filiali.</tspan></text>
+    <text x="342" y="340"><tspan x="342">Un totale unico potrebbe</tspan><tspan x="342" dy="20">sommare stati commerciali</tspan><tspan x="342" dy="20">non davvero comparabili.</tspan></text>
+    <text x="612" y="340"><tspan x="612">Quale definizione può</tspan><tspan x="612" dy="20">essere accettata da Sales?</tspan><tspan x="612" dy="20">Dove serve una distinzione?</tspan></text>
+    <text x="882" y="340"><tspan x="882">Sessione con CFO +</tspan><tspan x="882" dy="20">Sales Director su stati,</tspan><tspan x="882" dy="20">regole e casi limite.</tspan></text>
+
+    <!-- row 3 -->
+    <rect x="55" y="443" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="325" y="443" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="595" y="443" width="270" height="130" fill="#fff" stroke="#aaa"/>
+    <rect x="865" y="443" width="280" height="130" fill="#fff" stroke="#aaa"/>
+    <text x="72" y="470"><tspan x="72">Almeno due filiali usano</tspan><tspan x="72" dy="20">rettifiche su fogli esterni</tspan><tspan x="72" dy="20">a CRM ed ERP.</tspan></text>
+    <text x="342" y="470"><tspan x="342">La proprietà della fonte</tspan><tspan x="342" dy="20">potrebbe essere poco chiara</tspan><tspan x="342" dy="20">per alcuni indicatori.</tspan></text>
+    <text x="612" y="470"><tspan x="612">Quali rettifiche cambiano</tspan><tspan x="612" dy="20">davvero le metriche da board?</tspan><tspan x="612" dy="20">Chi ne è responsabile?</tspan></text>
+    <text x="882" y="470"><tspan x="882">File delle filiali +</tspan><tspan x="882" dy="20">mappa sorgenti/accessi</tspan><tspan x="882" dy="20">con IT.</tspan></text>
+
+    <!-- row 4 -->
+    <rect x="55" y="573" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="325" y="573" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="595" y="573" width="270" height="130" fill="#fafafa" stroke="#aaa"/>
+    <rect x="865" y="573" width="280" height="130" fill="#fafafa" stroke="#aaa"/>
+    <text x="72" y="600"><tspan x="72">Board tra circa 5 settimane.</tspan><tspan x="72" dy="20">La richiesta iniziale è:</tspan><tspan x="72" dy="20">dashboard in 4 settimane.</tspan></text>
+    <text x="342" y="600"><tspan x="342">La scadenza potrebbe guidare</tspan><tspan x="342" dy="20">la soluzione richiesta più</tspan><tspan x="342" dy="20">della soluzione necessaria.</tspan></text>
+    <text x="612" y="600"><tspan x="612">Qual è il minimo insieme</tspan><tspan x="612" dy="20">di numeri necessario</tspan><tspan x="612" dy="20">per il prossimo board?</tspan></text>
+    <text x="882" y="600"><tspan x="882">Confermare metriche board</tspan><tspan x="882" dy="20">e livello di affidabilità</tspan><tspan x="882" dy="20">richiesto.</tspan></text>
+  </g>
+
+  <rect x="145" y="735" width="910" height="42" rx="10" fill="#efefef"/>
+  <text x="600" y="762" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" font-weight="700">Una buona nota di vendita conserva l'incertezza: non promuove un'ipotesi a fatto solo perché sembra plausibile.</text>
+</svg>
