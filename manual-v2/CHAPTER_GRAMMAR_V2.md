@@ -1,499 +1,475 @@
-# Chapter Grammar V2
+# Chapter Grammar V2 — Systematic Manual Architecture
+
+Status: **CURRENT — post founder-review redesign**  
+Date: 2026-09-21
 
 ## Purpose
 
-This document defines the instructional functions a Manual V2 chapter must perform.
+This document governs how a reader-facing chapter is built.
 
-It does **not** define a fixed sequence of mandatory headings.
+The first V2 grammar improved V1 but over-weighted problem/case-first openings and visible instructional choreography. That model is superseded.
 
-The V1 problem was excessive rhetorical templating. V2 must not replace it with a new template where every chapter visibly follows the same blocks.
+The new default is:
 
-The chapter grammar is therefore functional:
+**general framing → conceptual structure → progressive detail → examples/applications → synthesis**
 
-**orient the reader → make the problem concrete → build the model → demonstrate expert reasoning → let the reader apply it → integrate the result into the larger system.**
+The goal is a professional manual that explains a subject systematically before asking an example to demonstrate it.
 
-The order can vary when the learning job requires it.
-
----
-
-# 1. The unit of design is a learning problem
-
-A chapter exists because the reader must solve one coherent intellectual or operational problem.
-
-Before drafting, the chapter spec must state:
-
-- the decision/problem the reader cannot yet handle;
-- what prior knowledge is assumed;
-- what new model/distinction/procedure will make the decision possible;
-- what the reader should be able to do afterward;
-- how that ability will be demonstrated.
-
-If a chapter cannot answer those questions, its boundary is suspect.
+This is still a grammar, not a rigid visible template. The prose must feel natural and the precise number/order of sections depends on the subject.
 
 ---
 
-# 2. Five instructional functions
+# 1. The chapter is a subject, not a dramatic arc
 
-Every substantial chapter should perform these functions, though not necessarily under visible headings.
+A chapter exists because the reader needs to understand one broad subject.
 
-## Function A — Orient
+Examples:
 
-Give the reader a reason to care and enough context to know what problem is being solved.
+- `Posizionamento`;
+- `Prezzo`;
+- `Vendita consulenziale`;
+- `Economia del cliente`.
+
+The chapter is not primarily a story, a puzzle or a sequence of revelations.
+
+Its job is to:
+
+1. frame the subject;
+2. define the relevant concepts;
+3. explain their relationships;
+4. deepen the major components;
+5. show concrete applications;
+6. connect the subject back to the business system.
+
+---
+
+# 2. Default movement: general to specific
+
+## Function A — General framing
+
+The opening gives the reader a mental map before detail.
+
+It should establish in fluent prose:
+
+- what the chapter is about;
+- why the subject matters economically/operationally;
+- where it sits in the overall system;
+- the major distinctions/components the chapter will develop;
+- any prerequisite from earlier chapters that is needed now.
+
+The opening should normally work without a fictional case.
+
+A short example may appear, but only as clarification after the general frame has begun.
+
+### Failure modes
+
+Do not:
+
+- open with several pages of a fabricated company story;
+- create artificial suspense before naming the topic;
+- make the reader infer the general principle from one synthetic case;
+- begin with a glossary list.
+
+---
+
+## Function B — Conceptual structure
+
+After the framing, state and explain the main model.
+
+This can include:
+
+- definitions;
+- causal relationships;
+- categories;
+- distinctions;
+- formulas;
+- process stages;
+- boundaries and exceptions.
+
+Theory must stand independently of the later example.
+
+For a difficult subject, a simple conceptual map or diagram may appear here if it genuinely clarifies the structure.
+
+---
+
+## Function C — Progressive development by section
+
+The body descends from general concepts into their components.
+
+Each section should answer one substantial subproblem required to understand the chapter.
+
+A useful internal movement is often:
+
+**concept → explanation → consequence → boundary/qualification → example**
+
+but this is not a sentence template.
+
+The next section should feel necessary because of what the previous one established.
+
+---
+
+## Function D — Examples and applications
+
+Examples normally follow the theory they illustrate.
 
 Possible forms:
 
-- short real-world scene;
-- recurring case fragment;
-- surprising numerical comparison;
-- diagnostic failure;
-- conflict between two plausible decisions;
-- concrete business question.
+- a brief unnamed company example in prose;
+- `azienda A / azienda B` comparison;
+- numerical worked example;
+- a real sourced case;
+- an operational artifact;
+- an exercise or diagnostic application.
 
-Avoid starting with a glossary.
+The reader should be able to remove the example and still understand the theory.
 
-The opener should create useful tension, not entertainment for its own sake.
-
-## Function B — Model
-
-Build the conceptual structure the reader needs.
-
-This may include:
-
-- definitions;
-- causal model;
-- distinction between similar concepts;
-- formula;
-- process;
-- matrix;
-- state map;
-- decision rule.
-
-The model should arrive after the reader can see what it is for.
-
-## Function C — Demonstrate
-
-Show the model being used by an expert.
-
-For novice-facing material this is critical.
-
-A demonstration can be:
-
-- worked calculation;
-- worked diagnosis;
-- annotated decision;
-- before/after redesign;
-- case analysis;
-- comparison of two alternatives.
-
-The demonstration should externalize reasoning, including rejected interpretations when educationally useful.
-
-## Function D — Apply
-
-Require the reader to do some of the cognitive work.
-
-Applications may include:
-
-- partial worked example;
-- diagnostic question;
-- short calculation;
-- scenario choice with justification;
-- business-specific worksheet;
-- transfer problem on a new case.
-
-Guidance should reduce as knowledge grows.
-
-## Function E — Integrate
-
-Connect the chapter to the system.
-
-The closer should answer:
-
-- what changed in the reader's mental model?;
-- what decision is now possible?;
-- what new question becomes relevant next?;
-- where will this concept reappear downstream?
-
-Integration may use a synthesis paragraph, figure, transfer exercise or case consequence.
+The example earns its space by making a distinction, calculation or consequence easier to see.
 
 ---
 
-# 3. Three chapter modes
+## Function E — Synthesis
 
-The 31 chapters do not need identical rhetorical architecture.
+The close recomposes the chapter.
 
-Use one dominant mode, with hybrids when appropriate.
+It should clarify:
 
-## Mode 1 — Conceptual / diagnostic chapter
+- what the reader now understands that was not clear before;
+- how the major components relate;
+- which decisions can now be made better;
+- what relevant subject follows next.
 
-Best for topics such as marketing-first, market choice, positioning, demand, brand.
+Do not force every chapter into an `In sintesi` checklist.
 
-Typical movement:
-
-**case/problem → misconception or ambiguity → model → contrasting examples → diagnostic use → integration.**
-
-Primary burden: conceptual clarity and judgment.
-
-## Mode 2 — Quantitative chapter
-
-Best for CAC/LTV/payback, pricing economics, cash, capacity.
-
-Typical movement:
-
-**business problem → quantity needed → formula/model → worked example → sensitivity → interpretation → transfer problem.**
-
-Primary burden: reproducibility and correct interpretation.
-
-## Mode 3 — Procedural / operational chapter
-
-Best for VoC, funnel/routing, sales, onboarding, processes.
-
-Typical movement:
-
-**failure scene → outcome → process map → worked walkthrough → branch/exception → tool → practice/application.**
-
-Primary burden: sequence, branching and execution quality.
+A synthesis can be ordinary prose, a compact model, a table, a decision tool or a short exercise.
 
 ---
 
-# 4. Opening design
+# 3. The opening page
 
-A strong opener does at least two things:
+The first one or two pages should orient rather than impress.
 
-1. creates a concrete decision or problem;
-2. establishes why the current mental model is insufficient.
+A strong opening usually does three things:
 
-Possible opener patterns:
+1. names the field clearly;
+2. explains why it matters;
+3. previews the conceptual territory in prose.
 
-## The contradiction
+Example direction for `Economia del cliente`:
 
-Two businesses show the same visible metric but deserve different decisions.
+> Acquisire un cliente ha un costo; servirlo ne ha un altro; il valore economico arriva nel tempo e può essere molto diverso tra gruppi di clienti che sembrano identici al momento della vendita. Per questo l'economia del cliente non si legge dal fatturato né da un singolo CAC medio. In questo capitolo vedremo come contributo, coorti, LTV, payback e costo marginale si combinano per stabilire se una crescita crea o consuma valore.
 
-## The failure
-
-A reasonable tactic produces a bad result because a prerequisite was missing.
-
-## The case moment
-
-A decision point inside a recurring case.
-
-## The number
-
-A counterintuitive calculation exposes a hidden variable.
-
-## The customer moment
-
-A concrete buying/service interaction reveals a concept.
-
-Avoid artificial suspense. The opener must serve the chapter argument.
+This gives the reader the map before calculations.
 
 ---
 
-# 5. Definitions and pre-training
+# 4. Section design
 
-Complex chapters may require a small amount of pre-training so that the reader can process the main explanation.
+A section should normally contain several paragraphs and develop one major component.
+
+Before creating a section ask:
+
+- Is this a distinct component of the chapter subject?
+- Does it require enough explanation to justify a heading?
+- Will the reader later need to find this component directly?
+
+If the answer is no, keep it inside the surrounding section.
+
+Avoid:
+
+- a heading every 3–5 paragraphs;
+- headings that are complete thesis statements;
+- headings created only to vary the page visually;
+- sections that exist because the backend has a separate semantic unit.
+
+---
+
+# 5. Paragraph design
+
+The paragraph carries most of the teaching load.
+
+A normal paragraph should develop a thought through connected sentences.
+
+Good paragraph jobs include:
+
+- explaining why a concept exists;
+- distinguishing it from a nearby concept;
+- showing a causal consequence;
+- qualifying a rule;
+- interpreting a number;
+- linking one section to the next.
+
+Use one-sentence paragraphs only when the emphasis is truly useful.
+
+Do not use paragraph breaks to imitate spoken punchlines.
+
+---
+
+# 6. Theory before examples
+
+This is the default production rule after founder review.
+
+## Short example
+
+May appear immediately after a concept is explained.
+
+Example:
+
+> Un'impresa con ricavi elevati e costi variabili altrettanto elevati può fatturare più di una concorrente e generare meno margine di contribuzione. Il fatturato, quindi, non ci dice ancora quanto valore economico rimane per sostenere acquisizione, struttura e profitto.
+
+## Worked example
+
+Should normally appear after the reader already understands the concept and formula/process being demonstrated.
+
+Prefer labels such as:
+
+- `Esempio svolto`;
+- `Esempio numerico`;
+- `Caso reale` when sourced.
+
+Avoid giving fictional companies invented brand names merely to simulate realism.
+
+## A/B comparison
+
+Use when two cases need stable reference inside one example.
+
+Example:
+
+- Azienda A;
+- Azienda B;
+- Coorte A;
+- Coorte B.
+
+No fictional branding is necessary.
+
+---
+
+# 7. Quantitative chapter grammar
+
+Quantitative chapters remain systematic rather than case-driven.
+
+Preferred order:
+
+1. frame the economic subject;
+2. define the first quantity and why it matters;
+3. state the formula;
+4. explain variables and boundaries;
+5. give a worked numerical example;
+6. interpret the result;
+7. introduce the next quantity because the first is insufficient;
+8. repeat as needed;
+9. finish with sensitivity and decision implications.
+
+Example:
+
+`contribuzione → CAC → payback → coorti → LTV → allowable/marginal CAC`
+
+The numerical example can continue across several sections, but the theory remains primary.
+
+---
+
+# 8. Procedural chapter grammar
+
+Procedural subjects such as research, sales, onboarding or process design should begin with the purpose and logic of the procedure.
+
+Preferred order:
+
+1. define the job the process must accomplish;
+2. explain its major stages;
+3. explain each stage and its decision logic;
+4. show branches/exceptions;
+5. demonstrate with an example or annotated artifact;
+6. provide an operational tool if useful.
+
+Do not start with a long dialogue or failure scene and make the reader reverse-engineer the process.
+
+---
+
+# 9. Conceptual chapter grammar
+
+Conceptual subjects such as market, positioning, demand or brand should begin with a broad definition and place in the system.
+
+Preferred order:
+
+1. scope and role;
+2. principal distinctions;
+3. components/causal relationships;
+4. boundaries/misconceptions;
+5. examples;
+6. practical implications.
+
+The chapter should be intelligible even if all boxes are removed.
+
+---
+
+# 10. Formulas
+
+A formula should appear because the concept has created a quantitative question.
+
+For each important formula:
+
+1. explain the business concept in ordinary language;
+2. show the formula;
+3. define the variables;
+4. calculate a worked example;
+5. interpret the result;
+6. state what the formula does not tell us;
+7. use sensitivity when a variable can flip the decision.
+
+Do not introduce formulas as a catalogue.
+
+---
+
+# 11. Visuals
+
+Visuals remain important but subordinate to the chapter's conceptual structure.
+
+Use:
+
+- charts for quantitative patterns;
+- tables for comparisons;
+- diagrams for relationships/processes;
+- timelines for sequences over time;
+- annotated artifacts for applied work.
+
+The textual sequence should be:
+
+**explain the relationship → introduce the visual → interpret what the visual makes easier to see.**
+
+An arrow diagram is not automatically useful because a process contains arrows. Graphic quality and cognitive job will be evaluated separately.
+
+---
+
+# 12. Boxes
+
+Boxes are secondary instructional devices.
+
+Useful box types remain:
+
+- `PRINCIPIO`;
+- `ESEMPIO SVOLTO`;
+- `ERRORE FREQUENTE`;
+- `APPROFONDIMENTO`;
+- `STRUMENTO OPERATIVO`;
+- `CASO REALE`.
 
 Rules:
 
-- define only terms required for the next intellectual move;
-- keep early terminology minimal;
-- delay secondary vocabulary until it becomes useful;
-- use visual labels when a diagram can carry terminology more efficiently;
-- do not front-load a page of terms before a case.
-
-The glossary is a reference tool, not the teaching method.
+- do not open a chapter with a box;
+- do not put core theory only inside a box;
+- avoid multiple boxes per page;
+- an example box follows the relevant theory;
+- a principle box compresses something already explained.
 
 ---
 
-# 6. Worked examples and guidance fading
+# 13. Part introductions
 
-For difficult procedural or quantitative material, use a progression:
+Each Part should have a short introduction before its first chapter.
 
-## Stage 1 — Fully worked
+The Part introduction explains:
 
-The author performs the reasoning visibly.
+- the domain the Part covers;
+- how its chapters relate;
+- why this domain follows the previous Part;
+- what competence the reader should have by the end.
 
-Show:
+A Part introduction should not duplicate chapter introductions.
 
-- inputs;
-- assumptions;
-- decision path;
-- calculation/diagnosis;
-- interpretation.
-
-## Stage 2 — Partially worked
-
-Provide some steps and require the reader to complete or interpret the rest.
-
-## Stage 3 — Transfer
-
-Give a new case with surface differences and ask the reader to select/apply the model independently.
-
-Do not force all three stages into every chapter. Across a Part, however, guidance should generally decrease as the reader gains knowledge.
-
-Research basis: worked examples are particularly effective for novices; as expertise develops, guidance should fade and problem solving should increase.
+This is one of the mechanisms that makes the hierarchy visible.
 
 ---
 
-# 7. Multiple examples for abstraction
+# 14. Cross-chapter continuity
 
-A single example can be mistaken for the rule itself.
+A chapter should assume earlier concepts instead of repeatedly redefining them.
 
-For important transferable principles, use multiple examples across different contexts.
+Use brief reminders such as:
 
-A useful pattern is:
+> Nel Capitolo 2 abbiamo definito il margine di contribuzione. Qui lo useremo per confrontare coorti di clienti nel tempo.
 
-- Example A — clean/typical case;
-- Example B — different surface context, same underlying principle;
-- Counterexample C — superficially similar but governed by a different variable.
+Avoid long recaps.
 
-Not every concept needs three examples in one chapter. The case map can distribute them across the book.
+The manual should feel cumulative.
 
 ---
 
-# 8. Counterexamples and boundary conditions
+# 15. Chapter-title and section-title relationship
 
-Use counterexamples to teach judgment.
+Chapter title = subject.
 
-A strong counterexample shows why a shortcut fails, for example:
+Section title = major component.
 
-- low price can be rational even in a premium-capable company under a different strategic job;
-- cold outreach can be sensible for high-value identifiable accounts;
-- retention can be economically wrong when the relationship has naturally ended;
-- adding capacity can destroy economics if demand is not durable.
+Example:
 
-Boundary conditions are not footnotes to doctrine. They are where expertise begins.
+**Capitolo 25 — Economia del cliente**
 
----
+- 25.1 Unit economics
+- 25.2 Analisi per coorti
+- 25.3 Lifetime value
+- 25.4 Payback avanzato
+- 25.5 Costo massimo di acquisizione
+- 25.6 Costo marginale e leve di crescita
 
-# 9. Figures inside the chapter argument
-
-Figures must be planned at the point of explanation.
-
-A figure should answer a question prose handles poorly, such as:
-
-- what causes what?;
-- how does state change?;
-- where is the bottleneck?;
-- how do two variables interact?;
-- how does a quantity change over time?;
-- how do alternatives compare?
-
-Preferred local sequence:
-
-**question → figure → interpretation.**
-
-Do not place a figure far from the text that requires it.
+The hierarchy should be understandable without reading the prose.
 
 ---
 
-# 10. Tables
+# 16. Learning checks
 
-Use tables when comparison is the learning job.
+Exercises remain useful but should not make the manual look like courseware on every page.
 
-Good uses:
+Prefer:
 
-- customer segments across economic dimensions;
-- channel choices across intent/economics;
-- alternative pricing scenarios;
-- process states and next actions;
-- cases side by side.
+- a worked example after theory;
+- occasional `Prova a calcolare` or `Applica` prompt;
+- end-of-chapter questions/tools;
+- Part-level integrative exercises.
 
-Do not use a table merely to compress paragraphs.
-
----
-
-# 11. Formula teaching grammar
-
-For a new formula or metric:
-
-1. show the business question;
-2. identify the quantities involved;
-3. state the formula;
-4. define variables;
-5. calculate a worked example;
-6. interpret the result in business language;
-7. change one assumption and show sensitivity;
-8. state the major misuse/limit;
-9. give a transfer application when appropriate.
-
-No unexplained formulas in callout boxes.
+Retrieval and transfer remain goals, but the apparatus should not overwhelm the reading experience.
 
 ---
 
-# 12. Retrieval and self-explanation
+# 17. Founder-driven pseudocommands
 
-The book should periodically require the reader to retrieve and explain, not merely reread.
+## `GENERAL-FIRST`
 
-Possible low-friction devices:
+Before the first detailed example, can the reader explain what the chapter covers and how its major pieces fit together?
 
-- `Before reading on, explain why...`;
-- predict the decision before seeing the worked answer;
-- reconstruct a process from memory;
-- identify the upstream cause in a new scenario;
-- explain why a tempting alternative is wrong.
+## `THEORY-STANDALONE`
 
-Use sparingly inside the main flow. Larger exercises belong at chapter/Part closers or in a workbook layer.
+If the example is removed, is the concept still fully explained?
 
----
+## `HIERARCHY-CHECK`
 
-# 13. Transfer practice
+Does Part → Chapter → Section communicate a logical subject hierarchy?
 
-An exercise tests transfer when surface features change but the underlying principle remains relevant.
+## `TITLE-AS-SUBJECT`
 
-Weak exercise:
+Does the chapter title name the subject rather than advertise a thesis?
 
-> Define CAC.
+## `EXAMPLE-SUBORDINATE`
 
-Stronger exercise:
+Is the example demonstrating the theory rather than defining it?
 
-> Two channels have the same ad spend and the same number of leads. Channel A requires twice as much sales time and produces customers with lower contribution margin. Which channel has the lower acquisition cost economically, and what information is still missing?
+## `NATURAL-EXPOSITION`
 
-Definitions may be checked, but the manual's goal is decision competence.
+Would the chapter still sound natural if all pedagogical labels were hidden?
 
----
+## `HEADING-LOAD`
 
-# 14. Chapter closers
-
-Do not force a standard `In sintesi` ending.
-
-Choose the closer that best completes the learning job.
-
-Options:
-
-## Decision checkpoint
-
-What the reader can now decide.
-
-## Case consequence
-
-Return to the opener and show what changes.
-
-## Transfer challenge
-
-Apply the chapter to a new situation.
-
-## Synthesis figure
-
-Compress the chapter into a model after the explanation has earned it.
-
-## Bridge
-
-Expose the next unresolved dependency.
-
-## Operational tool
-
-End with a worksheet/checklist when the chapter's purpose is execution.
-
-A chapter may use more than one, but avoid stacking all features by default.
+Are headings helping navigation, or compensating for fragmented prose?
 
 ---
 
-# 15. Part-level learning rhythm
+# 18. Acceptance rule
 
-A Part should behave as a larger instructional unit.
+A chapter architecture passes when:
 
-Recommended progression:
-
-1. first chapter establishes the new problem domain;
-2. middle chapters build models and controlled applications;
-3. later chapter(s) require more integration and less guidance;
-4. Part closer applies multiple chapter concepts to one case/problem.
-
-This is where cumulative practice and recurring cases become especially valuable.
-
----
-
-# 16. Cross-reference rule
-
-Cross-references should reduce duplication and reactivate prior knowledge.
-
-Good cross-reference:
-
-> In Chapter 6 we treated cost-to-serve as a customer-selection variable. Here, in the capacity chapter, the same cost reappears for a different reason: it tells us how much scarce operating capacity each customer consumes.
-
-Weak cross-reference:
-
-> See Chapter 6.
-
-The reference should briefly state why the earlier concept matters now.
-
----
-
-# 17. Cognitive-load checks
-
-During design and editing ask:
-
-## `NOVICE-LOAD`
-
-How many new interacting concepts are being introduced at once?
-
-## `SPLIT-ATTENTION`
-
-Does the reader have to mentally integrate a figure/table and distant explanation?
-
-## `REDUNDANCY-CHECK`
-
-Are prose and figure merely repeating one another rather than dividing explanatory work?
-
-## `GUIDANCE-FADE`
-
-Are we still solving everything for the reader after the model should already be learnable through practice?
-
-## `PRIOR-KNOWLEDGE`
-
-Does this section rely on a term/model not yet established?
-
----
-
-# 18. Drafting checklist — functional, not cosmetic
-
-Before a chapter enters prose drafting, confirm:
-
-- one coherent learning problem;
-- explicit prerequisite knowledge;
-- target decision/ability;
-- chosen dominant chapter mode;
-- planned demonstration/example;
-- planned application/transfer;
-- known visual opportunities;
-- known quantitative opportunities;
-- known boundary condition/counterexample where material;
-- clear integration role in the Part.
-
-If most of these are unknown, drafting is premature.
-
----
-
-# 19. What is not mandatory
-
-No chapter is required to contain all of the following:
-
-- learning-objective bullets;
-- a named case;
-- a formula;
-- a diagram;
-- a table;
-- a boxed principle;
-- a quiz;
-- a checklist;
-- a summary;
-- a fixed number of examples.
-
-The feature must follow the learning problem.
-
-This rule exists specifically to prevent the V2 instructional architecture from becoming another visible generation template.
-
----
-
-# 20. Acceptance test
-
-A chapter grammar is working when a beginner can:
-
-1. see why the problem matters;
-2. understand the model;
-3. watch it used correctly;
-4. distinguish it from a nearby wrong model;
-5. apply it with appropriate guidance;
-6. connect it to the rest of the business system.
-
-The chapter should feel like a guided piece of reasoning, not a container filled with required components.
+- the general subject is clear before detail;
+- theory precedes substantial examples by default;
+- the section hierarchy is logically necessary;
+- paragraphs carry the explanation;
+- examples can be removed without destroying conceptual completeness;
+- quantitative content remains reproducible;
+- visuals support relationships rather than decorate;
+- the prose reads as a professional manual rather than a designed lesson sequence.
