@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 11 / PART III CLOSED / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 12 / PART IV OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -100,12 +100,14 @@ Reader-facing production completed through:
 - Chapter 9 — `Focalizzazione e categoria`
 - Chapter 10 — `Offerta`
 - Chapter 11 — `Prezzo`
+- Chapter 12 — `Fiducia e prova`
 
 Part introductions completed:
 
 - Part I — `Fondamenti del sistema`
 - Part II — `Mercato e cliente`
 - Part III — `Posizionamento, offerta e prezzo`
+- Part IV — `Fiducia, domanda e acquisizione`
 
 Part transition gates completed:
 
@@ -122,37 +124,39 @@ Chapter 10 converts position and focus into a concrete commercial exchange. It d
 
 Chapter 11 closes Part III by treating price as a system variable rather than a slogan or a cost-plus afterthought. It connects pricing to contribution, customer selection, capacity, comparability, payment timing and cash; defines the prerequisites for premium pricing; distinguishes payment conditions from discounts; treats systematic discounting as both an economic choice and a diagnostic signal; and provides a reusable pricing-test sheet with explicit metrics and stop conditions.
 
-The Part III transition gate now makes the prerequisite for acquisition explicit: before amplifying demand, the reader should have a real reason to choose, a deliberate focus/category, a coherent offer and transaction sequence, a pricing logic compatible with target/economics and clearly labeled hypotheses that still require testing.
+The Part III transition gate makes the prerequisite for acquisition explicit: before amplifying demand, the reader should have a real reason to choose, a deliberate focus/category, a coherent offer and transaction sequence, a pricing logic compatible with target/economics and clearly labeled hypotheses that still require testing.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 11 and the Part III transition gate.
+The Part IV introduction opens the proof → demand → access → orchestration sequence. Chapter 12 then separates authority, credibility and relational trust; classifies proof by the uncertainty it can actually reduce; distinguishes testimonials from structured cases; places proof next to the claim or risk it must support; and turns accumulated evidence into a reusable proof library. It includes a proof matrix and a final business verification focused on gaps rather than vanity counts.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 12 after the Part IV reader-facing introduction.
 
 Latest manuscript QA:
 
-- 169 pages total;
-- pages 1–153 are pixel-identical to the validated Chapter 10 render when rendered with the same final settings;
-- pages 154–169 were rendered and visually checked at final size;
-- Chapter 11 starts on a clean new page through `page_break_before`, with no extra blank page;
-- multi-page pricing/payment worksheets repeat their headers and rows remain unsplit;
-- the `VERIFICA NELLA TUA AZIENDA` callout remains intact rather than splitting its header/content across pages;
-- the Part III `Prima di proseguire` gate is in normal reader-facing flow after the Chapter 11 conclusion;
+- 183 pages total;
+- pages 1–169 are pixel-identical to the validated Chapter 11 render when rendered with the same final settings;
+- pages 170–183 were rendered and visually checked page by page at final size;
+- Part IV and Chapter 12 both start on clean new pages through `page_break_before`, with no extra blank page;
+- comparison tables repeat cleanly and rows remain unsplit;
+- the authority/proof callouts, worked example, proof matrix and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
+- the final verification box remains intact on its page, followed by the Chapter 12 synthesis and transition to demand;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part IV with its reader-facing introduction and then produce:
+Continue Part IV with:
 
-**Chapter 12 — `Fiducia e prova`.**
+**Chapter 13 — `Domanda e consapevolezza`.**
 
 Frozen sections:
 
-- 12.1 `Autorità, credibilità e fiducia`
-- 12.2 `Tipi di prova`
-- 12.3 `Testimonianze e casi`
-- 12.4 `Prova nel punto di dubbio`
-- 12.5 `Costruire una libreria di prove`
+- 13.1 `Domanda posseduta, attiva e latente`
+- 13.2 `Livelli di consapevolezza`
+- 13.3 `Intento e interesse`
+- 13.4 `Timing della domanda`
+- 13.5 `Educazione e directness`
 
-Part IV then continues with demand, direct channels, borrowed/distributed access and acquisition orchestration according to the frozen proof → demand → access → orchestration sequence.
+Part IV then continues with direct channels, borrowed/distributed access and acquisition orchestration according to the frozen proof → demand → access → orchestration sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
