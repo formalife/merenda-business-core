@@ -27,10 +27,10 @@
     "canonical_for":["sales_pain","problem_diagnosis","pain_qualification","diagnose_before_prescribe"],
     "use_when":["seller presenta troppo presto","problema dichiarato ma non quantificato","close rate basso","si cerca una tecnica di obiezione prima della diagnosi"],
     "not_sufficient_for":["dimostrare compatibilità economica","dimostrare processo decisionale","sostituire proof e proposta"],
-    "upstream":["SALES.RELATION_UFC"],"must_read_with":[{"id":"SALES.BUDGET_QUALIFICATION","when":"il problema sembra abbastanza importante da giustificare azione"}],
+    "upstream":["SALES.RELATION_UFC"],"must_read_with":[{"id":"SALES.BUDGET_QUALIFICATION","when":"il problema sembra abbastanza importante da giustificare azione o si considera una soluzione concreta"},{"id":"SALES.DECISION_QUALIFICATION","when":"si sta passando dalla diagnosi verso una soluzione, demo o proposta"},{"id":"SALES.FULFILLMENT_DECISION","when":"si considera demo, presentazione, proposta o prescrizione"}],
     "evidence_required":["problema specifico","tentativi precedenti","conseguenze","impatto o valore economico quando pertinente","priorità e volontà di cambiare"],
-    "provenance":{"class":"SYNTHESIS","notes":"Sostituisce operativamente il vecchio routing monolitico diagnose-before-prescribe con un gate specialistico integrato Merenda + Sandler."},
-    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.DIAGNOSE_BEFORE_PRESCRIBE","SALES.BUDGET_QUALIFICATION"],"eval_cases":["R010","R033"]
+    "provenance":{"class":"SYNTHESIS","notes":"Sostituisce operativamente il vecchio routing monolitico diagnose-before-prescribe con un gate specialistico integrato Merenda + Sandler. Pain non autorizza Fulfillment: se si considera demo/proposta, vanno preservati anche Budget e Decision."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.DIAGNOSE_BEFORE_PRESCRIBE","SALES.BUDGET_QUALIFICATION","SALES.DECISION_QUALIFICATION","SALES.FULFILLMENT_DECISION"],"eval_cases":["R010","R033"]
   },
   {
     "id":"SALES.BUDGET_QUALIFICATION","label":"Investimento, risorse e willingness prima della proposta","status":"current",
@@ -115,9 +115,9 @@
     "canonical_for":["account_growth","customer_expansion","customer_success_handoff","renewal_expansion"],
     "use_when":["si cerca upsell/cross-sell","renewal a rischio","handoff sales-delivery debole","si vuole espandere un account"],
     "not_sufficient_for":["vendere automaticamente altro a un cliente soddisfatto","sostituire qualification della nuova opportunità"],
-    "upstream":["CUSTOMER.SUCCESS_BEFORE_RETENTION_TACTIC"],"must_read_with":[],
+    "upstream":["CUSTOMER.SUCCESS_BEFORE_RETENTION_TACTIC"],"must_read_with":[{"id":"SALES.PAIN_QUALIFICATION","when":"emerge o si ipotizza un nuovo bisogno/use case"},{"id":"SALES.BUDGET_QUALIFICATION","when":"la nuova opportunity può richiedere investimento, tempo o risorse"},{"id":"SALES.DECISION_QUALIFICATION","when":"la nuova opportunity può avanzare verso proposta o decisione"}],
     "evidence_required":["valore realizzato","success criteria","nuovo bisogno o use case","stakeholder","rischi di retention","economics"],
-    "provenance":{"class":"SYNTHESIS","notes":"Nodo Merenda esistente arricchito con Customer Success/KARE/account-growth Sandler assimilato; ogni nuova opportunità rientra nel normale processo commerciale."},
-    "supersession":{"supersedes":[],"superseded_by":[]},"related":["CUSTOMER.SECOND_PURCHASE_BRIDGE","SALES.PAIN_QUALIFICATION"],"eval_cases":["R041"]
+    "provenance":{"class":"SYNTHESIS","notes":"Nodo Merenda esistente arricchito con Customer Success/KARE/account-growth Sandler assimilato; ogni nuova opportunità rientra nel normale processo commerciale Pain/Budget/Decision prima di una nuova proposta."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["CUSTOMER.SECOND_PURCHASE_BRIDGE","SALES.PAIN_QUALIFICATION","SALES.BUDGET_QUALIFICATION","SALES.DECISION_QUALIFICATION"],"eval_cases":["R041"]
   }
 ]
