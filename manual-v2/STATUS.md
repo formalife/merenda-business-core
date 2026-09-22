@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 14 / PART IV OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 15 / PART IV OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -103,6 +103,7 @@ Reader-facing production completed through:
 - Chapter 12 — `Fiducia e prova`
 - Chapter 13 — `Domanda e consapevolezza`
 - Chapter 14 — `Canali di acquisizione`
+- Chapter 15 — `Partnership e distribuzione`
 
 Part introductions completed:
 
@@ -134,36 +135,39 @@ Chapter 13 maps demand before channel choice. It separates relationship ownershi
 
 Chapter 14 turns that demand map into channel choice. It treats the channel as an access mechanism rather than a substitute for positioning, compares online and offline by function rather than ideology, distinguishes organic/paid/direct access without pretending the categories are mutually exclusive, measures source economics through complete CAC/contribution/payback rather than CPL alone, and treats multichannel expansion as a coordination and resilience decision. It includes a numerical CPL-vs-CAC example and a reusable channel-evaluation sheet while preserving partnership/distribution for Chapter 15 and routing/database mechanics for Chapter 16.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 14.
+Chapter 15 completes the access layer by treating partnerships and distribution as borrowed or integrated market access rather than free acquisition. It separates endorsement from deeper partnership, evaluates economics on both sides of the agreement, translates revenue share into contribution and control, distinguishes sell-in from sell-through, and treats structural integrations as potentially defensible but dependency-creating choices. It includes a reusable partner/distribution evaluation sheet covering reciprocal value, economics, customer control, sell-through, operational obligations, reputation, dependence, exit rights and a bounded test before deeper integration.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 15.
 
 Latest manuscript QA:
 
-- 212 pages total;
-- pages 1–197 are pixel-identical to the validated Chapter 13 render at the same rendering resolution;
-- pages 198–212 were rendered and visually checked page by page at final size;
-- Chapter 14 starts on a clean new page through `page_break_before`, with no extra blank page;
-- all new data-table rows are protected from splitting and continuation tables repeat their headers cleanly;
-- the initial numerical-example table split was eliminated by compressing the comparison into the economically relevant rows, so the complete table remains on one page;
-- the final transition to Chapter 15 was tightened to eliminate an orphan one-paragraph trailing page;
-- the error/practice/example callouts, numerical example, operational channel sheet and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
+- 226 pages total;
+- pages 1–212 are pixel-identical to the validated Chapter 14 render at the same final rendering resolution;
+- pages 213–226 were rendered and visually checked page by page at final size;
+- Chapter 15 starts on a clean new page through `page_break_before`, with no extra blank page;
+- all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
+- the revenue-share example uses a true two-column economic table and remains complete and readable on one page;
+- the partner/distribution operational sheet continues cleanly across pages with a repeated header;
+- the final `VERIFICA NELLA TUA AZIENDA` remains intact on its page, while the Chapter 16 transition correctly returns to normal reader-facing flow outside the shaded callout;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue Part IV with:
+Continue and close Part IV with:
 
-**Chapter 15 — `Partnership e distribuzione`.**
+**Chapter 16 — `Funnel e database`.**
 
 Frozen sections:
 
-- 15.1 `Accesso diretto e accesso preso in prestito`
-- 15.2 `Endorsement e partnership`
-- 15.3 `Economia del partner`
-- 15.4 `Sell-in e sell-through`
-- 15.5 `Integrazioni strutturali e rischio`
+- 16.1 `Stati della relazione`
+- 16.2 `Funnel lineari e percorsi adattivi`
+- 16.3 `Database e memoria commerciale`
+- 16.4 `Segnali, routing e fallback`
+- 16.5 `Automazione e intelligenza artificiale`
+- 16.6 `Prequalifica e passaggio alla vendita`
 
-Part IV then continues with acquisition orchestration in Chapter 16 according to the frozen proof → demand → direct access → borrowed/distributed access → funnel/database/handoff sequence.
+After Chapter 16, produce the Part IV `Prima di proseguire` transition gate and close the proof → demand → direct access → borrowed/distributed access → funnel/database/handoff sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
