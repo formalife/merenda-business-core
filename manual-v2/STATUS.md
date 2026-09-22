@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 19 / PART V OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 20 / PART V CLOSED / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -108,6 +108,7 @@ Reader-facing production completed through:
 - Chapter 17 — `Argomentazione commerciale`
 - Chapter 18 — `Copywriting`
 - Chapter 19 — `Vendita consulenziale`
+- Chapter 20 — `Follow-up e gestione delle vendite`
 
 Part introductions completed:
 
@@ -122,6 +123,7 @@ Part transition gates completed:
 - Part II — `Prima di proseguire`
 - Part III — `Prima di proseguire`
 - Part IV — `Prima di proseguire`
+- Part V — `Prima di proseguire`
 
 Chapters 6–7 complete the Part II lens → evidence → buying-decision logic. Chapter 6 teaches research as decision-oriented evidence production rather than generic surveying, with explicit separation of behavior, customer statements, interpretation and strategic hypothesis. Chapter 7 recomposes those evidences into the concrete structure of a buying decision: initial situation, desired result, consequences, alternatives, status quo, criteria, switching risk, trigger, timing and stakeholders. It includes a reusable buying-decision map.
 
@@ -153,37 +155,41 @@ Chapter 18 turns that argument into copy adapted to a specific medium and prospe
 
 Chapter 19 moves from written execution into the live consultative interaction. It begins from the context transferred by acquisition, separates qualification from diagnosis, standardizes the diagnostic method while personalizing the prescription, derives customer criteria through criterion → motive → consequence, maps stakeholders and decision process, ties each recommendation to observed evidence and treats objections as diagnostic signals rather than pressure targets. It includes a reusable consultative-deal map and preserves follow-up, pipeline, training, performance and sales-capacity management for Chapter 20.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 19.
+Chapter 20 closes Part V by moving from the single live conversation to the management of commercial opportunities over time. It separates materially different non-conversion states, designs follow-up from timing and cause rather than universal cadence, treats pipeline aging and next-step memory as reality checks, distinguishes scripts from recitation, links training to observed interactions, measures flow/process/conversion/economic quality and treats sales capacity as a constrained resource. It includes a numerical conversion/CAC example and a reusable pipeline/performance management sheet that connects state, evidence, next action, training, metrics, capacity and review conditions.
+
+The Part V transition gate is complete. Before entering customer experience, the reader is required to have a grounded commercial argument, medium-specific message execution, a diagnostic/prescriptive live-sales process, explicit stakeholder and objection handling, state-based follow-up and pipeline memory, and—where a team exists—standards, training, performance measures and capacity logic.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 20 and the Part V transition gate.
 
 Latest manuscript QA:
 
-- 285 pages total;
-- pages 1–271 are pixel-identical to the validated Chapter 18 manuscript at the same 72-dpi rendering resolution;
-- pages 272–285 were rendered at 96 dpi and visually checked page by page;
-- Chapter 19 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
+- 302 pages total;
+- pages 1–285 are pixel-identical to the validated Chapter 19 manuscript at the same 72-dpi rendering resolution;
+- pages 286–302 were rendered at 96 dpi and visually checked page by page;
+- Chapter 20 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
 - all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- the criteria-table → worked-example transition no longer creates an adjacent-table repeated-header artifact;
-- the operational consultative-deal map continues cleanly across pages without an orphan final row;
-- the final `VERIFICA NELLA TUA AZIENDA` no longer inherits the preceding table header, remains intact, and is followed by the normal reader-facing synthesis / Chapter 20 bridge;
-- no clipping, overlap, broken tables, visible Markdown markers, split callout headers or orphan final bridge page remain in the final deliverable.
+- the non-conversion-state table, sales-performance table and multi-page pipeline/performance operating sheet remain readable across page boundaries;
+- worked-example, numerical-example, error and practice callouts remain intact without split headers or table-merging artifacts;
+- the final `VERIFICA NELLA TUA AZIENDA` remains intact and is followed by the normal Chapter 20 synthesis;
+- the Part V `Prima di proseguire` gate begins on a clean dedicated page and fits completely on that page;
+- no clipping, overlap, broken tables, visible Markdown markers or orphan gate page remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue and close Part V with:
+Open Part VI — `Esperienza, relazione e reputazione` — with its reader-facing introduction, then continue with:
 
-**Chapter 20 — `Follow-up e gestione delle vendite`.**
+**Chapter 21 — `Esperienza del cliente`.**
 
 Frozen sections:
 
-- 20.1 `Stati della mancata conversione`
-- 20.2 `Tempi e sequenze di follow-up`
-- 20.3 `Pipeline e memoria della trattativa`
-- 20.4 `Script e allenamento`
-- 20.5 `Misurazione della performance`
-- 20.6 `Capacità e organizzazione commerciale`
+- 21.1 `Dalla promessa all'esperienza`
+- 21.2 `Onboarding e aspettative`
+- 21.3 `Tempo al primo valore`
+- 21.4 `Erogazione, supporto e customer effort`
+- 21.5 `Feedback e correzione`
 
-After Chapter 20, produce the Part V `Prima di proseguire` transition gate and close the evidence → argument → execution → live sale → management-over-time sequence before opening Part VI.
+Part VI then continues with `Retention`, `Seconda vendita e referral`, and `Brand e reputazione` according to the frozen promise → experience/value → retention → next sale/referral → market-memory sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
