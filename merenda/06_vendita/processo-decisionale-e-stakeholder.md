@@ -74,6 +74,21 @@ La domanda è:
 
 **chi può materialmente spostare, autorizzare o bloccare l'esito?**
 
+## Ruolo non equivale a motivazione
+
+Merenda propone, in una lezione B2B, una distinzione fra motivazioni tipiche dell'imprenditore e del manager. La KB conserva quel passaggio come **modello interpretativo della fonte**, non come regola universale sulle persone.
+
+Regola finale più robusta:
+
+**stakeholder diversi possono avere incentivi, rischi e criteri diversi; verificarli nella specifica decisione invece di inferirli dal titolo.**
+
+Quindi chiedere/ricostruire, quando conta:
+
+- che risultato vuole proteggere;
+- quale rischio personale/organizzativo percepisce;
+- cosa rende una scelta difendibile internamente;
+- quali conseguenze subisce se la decisione funziona o fallisce.
+
 ---
 
 # 4. Criteri decisionali
@@ -238,6 +253,7 @@ Quindi:
 - parlare solo con il contatto più disponibile;
 - chiedere “sei tu il decisore?” e fermarsi al sì;
 - confondere seniority con authority;
+- dedurre motivazioni da job title/stereotipo;
 - scoprire procurement dopo la proposta;
 - criteri non discussi;
 - deadline desiderata dal seller spacciata per timing del buyer;
@@ -248,6 +264,6 @@ Quindi:
 
 ## Provenance
 
-**MERENDA PRIMARY:** decisori, prequalifica del potere, timing, B2B e interlocutori pertinenti.  
+**MERENDA PRIMARY:** decisori, prequalifica del potere, timing, B2B e interlocutori pertinenti; modello source-specific sulle motivazioni di ruoli diversi.  
 **ASSIMILATED — Sandler:** Decision gate, six-W frame, process/people, criteria, future-decision test, re-check, qualify/disqualify.  
-**SYNTHESIS:** ruolo ampliato degli stakeholder e algoritmo processo→persone.
+**SYNTHESIS:** ruolo ampliato degli stakeholder, algoritmo processo→persone e verifica degli incentivi senza stereotipi.
