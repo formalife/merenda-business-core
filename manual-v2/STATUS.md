@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 8 / PART III OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 10 / PART III OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -97,6 +97,8 @@ Reader-facing production completed through:
 - Chapter 6 — `Ricerca di mercato`
 - Chapter 7 — `La decisione d'acquisto`
 - Chapter 8 — `Posizionamento`
+- Chapter 9 — `Focalizzazione e categoria`
+- Chapter 10 — `Offerta`
 
 Part introductions completed:
 
@@ -112,16 +114,21 @@ Chapters 6–7 complete the Part II lens → evidence → buying-decision logic.
 
 Chapter 8 opens Part III by turning that customer evidence into a reason to choose. It keeps positioning distinct from focus/category, offer, proof and copy; treats differentiation as operationally real before it is communicated; links relevance to customer criteria and consequences; and verifies the intended position against observed buying behavior. It includes a reusable positioning-and-evidence worksheet.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 8 after the Part III reader-facing introduction.
+Chapter 9 gives that position a center: focus, product guide, category, comparison criterion, line-extension boundaries and brand architecture. It keeps the distinction between what the company can sell and what the market should remember, and it treats multibrand architecture as a growth choice rather than a shortcut around a weak core.
+
+Chapter 10 converts position and focus into a concrete commercial exchange. It defines offer structure, result/component logic, risk reduction, entry offers, transaction sequencing, upsell and cross-sell. It keeps offer design distinct from copy and pricing, links front-end economics to payback/capacity, and provides a reusable offer-and-sequence map.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 10.
 
 Latest manuscript QA:
 
-- 124 pages total;
-- pages 1–108 are pixel-identical to the previously validated Chapter 7 render;
-- pages 109–124 were rendered and visually checked at final size;
-- table and callout flow was corrected during QA so the positioning-state table, `STRUMENTO OPERATIVO` box and evidence worksheet remain in the intended document order;
-- the final `VERIFICA NELLA TUA AZIENDA` boundary was corrected so the Chapter 8 conclusion remains outside the callout;
-- no remaining clipping, overlap, broken tables, visible Markdown markers or split callout headers found in the final deliverable.
+- 153 pages total;
+- pages 1–137 are pixel-identical to the validated Chapter 9 render;
+- pages 138–153 were rendered and visually checked page by page;
+- an empty page initially created by an explicit page-break paragraph before Chapter 10 was removed and replaced with `page_break_before` on the chapter heading;
+- the risk table was corrected so rows do not split across pages and the header repeats on continuation;
+- chapter tables, callouts and the final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
+- no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
@@ -129,14 +136,17 @@ Latest manuscript QA:
 
 Resume Part III production with:
 
-**Chapter 9 — `Focalizzazione e categoria`.**
+**Chapter 11 — `Prezzo`.**
 
 Frozen sections:
 
-- 9.1 `Focalizzazione`
-- 9.2 `Prodotto guida e significato centrale`
-- 9.3 `Categoria e criterio di confronto`
-- 9.4 `Estensioni di linea`
-- 9.5 `Architettura di marca`
+- 11.1 `La funzione del prezzo`
+- 11.2 `Valore e comparabilità`
+- 11.3 `Prezzo premium`
+- 11.4 `Condizioni di pagamento`
+- 11.5 `Sconti e promozioni`
+- 11.6 `Testare il prezzo`
+
+After Chapter 11, close Part III with its unnumbered `Prima di proseguire` transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
