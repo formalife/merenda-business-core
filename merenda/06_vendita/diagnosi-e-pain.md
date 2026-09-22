@@ -171,7 +171,35 @@ Guardrail:
 
 ---
 
-# 8. Buyer self-discovery
+# 8. Valorizzare il lavoro diagnostico
+
+Quando analisi, audit, test o sopralluogo richiedono tempo e competenza reali, il loro valore non deve diventare invisibile.
+
+Merenda indica una progressione possibile:
+
+1. definire chiaramente che cosa comprende la diagnosi;
+2. rendere visibili attività e output;
+3. attribuire un valore economico al lavoro;
+4. quando il modello lo sostiene, far pagare la consulenza/diagnosi;
+5. se viene offerta gratuitamente, non descriverla come attività priva di valore.
+
+**Far pagare la diagnosi non è una regola universale.** Dipende da mercato, forza dell'authority, margine, complessità e modello commerciale.
+
+## Dare un nome al processo
+
+Una diagnosi reale può essere più comprensibile quando ha:
+
+- perimetro;
+- passaggi ripetibili;
+- nome coerente;
+- output chiaro;
+- collegamento logico alla prescrizione.
+
+Il nome non crea valore. Rende visibile un processo che deve già esistere.
+
+---
+
+# 9. Buyer self-discovery
 
 Il venditore non deve spiegare al prospect quanto dovrebbe soffrire.
 
@@ -188,7 +216,7 @@ Il principio Sandler assimilato “the sale is inside the prospect” viene cons
 
 ---
 
-# 9. Pain come gate, non come tecnica emotiva
+# 10. Pain come gate, non come tecnica emotiva
 
 Un problema può essere vero ma non abbastanza importante.
 
@@ -206,7 +234,7 @@ Questa è qualification, non fallimento del seller.
 
 ---
 
-# 10. Pain → Budget
+# 11. Pain → Budget
 
 Prima di parlare di investimento:
 
@@ -220,7 +248,7 @@ Se il Pain resta vago, la conversazione economica tende a diventare confronto pr
 
 ---
 
-# 11. Failure modes
+# 12. Failure modes
 
 - prescrivere dopo una frase;
 - checklist rigida senza ascolto;
@@ -230,11 +258,13 @@ Se il Pain resta vago, la conversazione economica tende a diventare confronto pr
 - confondere desiderio generico e priorità reale;
 - credere che il Pain Funnel completato equivalga a diagnosis completa;
 - usare una misura non valida come “prova scientifica”;
+- creare una diagnosi scenografica che non cambia la soluzione;
+- dare un nome a un processo inesistente;
 - saltare Budget perché il problema sembra grave;
 - parlare più del buyer e impedirgli di articolare il proprio caso.
 
 ## Provenance
 
-**MERENDA PRIMARY:** approfondimento, validazione, conseguenze, diagnosi/prescrizione, misure indipendenti.  
+**MERENDA PRIMARY:** approfondimento, validazione, conseguenze, diagnosi/prescrizione, misure indipendenti, valore/naming del processo diagnostico.  
 **ASSIMILATED — Sandler:** Pain come qualification gate, Pain Funnel, monetizzazione, completeness check, buyer self-discovery, Pain→Budget.  
 **SYNTHESIS:** sequenza diagnostica integrata e criteri di gate.
