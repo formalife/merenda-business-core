@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 20 / PART V CLOSED / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 21 / PART VI OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -109,6 +109,7 @@ Reader-facing production completed through:
 - Chapter 18 — `Copywriting`
 - Chapter 19 — `Vendita consulenziale`
 - Chapter 20 — `Follow-up e gestione delle vendite`
+- Chapter 21 — `Esperienza del cliente`
 
 Part introductions completed:
 
@@ -117,6 +118,7 @@ Part introductions completed:
 - Part III — `Posizionamento, offerta e prezzo`
 - Part IV — `Fiducia, domanda e acquisizione`
 - Part V — `Comunicazione e vendita`
+- Part VI — `Esperienza, relazione e reputazione`
 
 Part transition gates completed:
 
@@ -159,37 +161,37 @@ Chapter 20 closes Part V by moving from the single live conversation to the mana
 
 The Part V transition gate is complete. Before entering customer experience, the reader is required to have a grounded commercial argument, medium-specific message execution, a diagnostic/prescriptive live-sales process, explicit stakeholder and objection handling, state-based follow-up and pipeline memory, and—where a team exists—standards, training, performance measures and capacity logic.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 20 and the Part V transition gate.
+The Part VI introduction opens the promise → experience → value → continuity → second sale/referral → reputation sequence. Chapter 21 then treats the sale as an operational commitment: it makes the promise/handoff explicit, defines onboarding around prerequisites and expectations, separates time to first value from final-result time, distinguishes necessary customer participation from avoidable customer effort, treats support as both recovery and diagnostic evidence, and closes the loop from feedback to process correction. It includes a reusable promise → experience → first-value map and preserves retention, second sale/referral and reputation for Chapters 22–24.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through the Part VI introduction and Chapter 21.
 
 Latest manuscript QA:
 
-- 302 pages total;
-- pages 1–285 are pixel-identical to the validated Chapter 19 manuscript at the same 72-dpi rendering resolution;
-- pages 286–302 were rendered at 96 dpi and visually checked page by page;
-- Chapter 20 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
+- 315 pages total;
+- pages 1–302 are pixel-identical to the validated Chapter 20 manuscript at the same 72-dpi rendering resolution;
+- pages 303–315 were rendered at 96 dpi and visually checked page by page;
+- the Part VI introduction fits cleanly on one page, and Chapter 21 starts on a clean new page through paragraph-level `page_break_before`;
 - all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- the non-conversion-state table, sales-performance table and multi-page pipeline/performance operating sheet remain readable across page boundaries;
-- worked-example, numerical-example, error and practice callouts remain intact without split headers or table-merging artifacts;
-- the final `VERIFICA NELLA TUA AZIENDA` remains intact and is followed by the normal Chapter 20 synthesis;
-- the Part V `Prima di proseguire` gate begins on a clean dedicated page and fits completely on that page;
-- no clipping, overlap, broken tables, visible Markdown markers or orphan gate page remain in the final deliverable.
+- the onboarding table, customer-experience callouts and multi-page promise/experience/first-value operating sheet remain readable across page boundaries;
+- the final `VERIFICA NELLA TUA AZIENDA` remains intact on one page and is followed by the normal Chapter 22 bridge;
+- no clipping, overlap, broken tables, visible Markdown markers, split callout headers or orphan intro continuation remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part VI — `Esperienza, relazione e reputazione` — with its reader-facing introduction, then continue with:
+Continue Part VI with:
 
-**Chapter 21 — `Esperienza del cliente`.**
+**Chapter 22 — `Retention`.**
 
 Frozen sections:
 
-- 21.1 `Dalla promessa all'esperienza`
-- 21.2 `Onboarding e aspettative`
-- 21.3 `Tempo al primo valore`
-- 21.4 `Erogazione, supporto e customer effort`
-- 21.5 `Feedback e correzione`
+- 22.1 `Durata naturale della relazione`
+- 22.2 `Frequenza attesa e comportamento reale`
+- 22.3 `Segnali di rischio e inattività`
+- 22.4 `Riattivazione e riconquista`
+- 22.5 `Uscita naturale e churn evitabile`
 
-Part VI then continues with `Retention`, `Seconda vendita e referral`, and `Brand e reputazione` according to the frozen promise → experience/value → retention → next sale/referral → market-memory sequence.
+Part VI then continues with Chapter 23 — `Seconda vendita e referral` — and Chapter 24 — `Brand e reputazione` — before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
