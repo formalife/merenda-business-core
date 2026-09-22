@@ -40,7 +40,7 @@ Un libro, un palco, una citazione su un giornale o un premio possono modificare 
 
 Il cliente può attribuire autorità al soggetto e continuare legittimamente a chiedere prova della singola affermazione. La correzione è associare ogni segnale al lavoro che può realmente svolgere. L'autorità apre attenzione e riduce diffidenza generale; la credibilità richiede evidenze pertinenti; la fiducia viene confermata anche dal comportamento durante la relazione.
 
-Lo stesso vale al contrario. Un'azienda tecnicamente eccellente può possedere prove forti e lasciarle che rimangano invisibili. Se il cliente le incontra soltanto dopo aver già deciso di non approfondire, quelle prove non svolgono alcun lavoro commerciale. La sostanza deve esistere, ma deve anche essere resa disponibile prima e durante la decisione.
+Lo stesso vale al contrario. Un'azienda tecnicamente eccellente può possedere prove forti e lasciare che rimangano invisibili. Se il cliente le incontra soltanto dopo aver già deciso di non approfondire, quelle prove non svolgono alcun lavoro commerciale. La sostanza deve esistere, ma deve anche essere resa disponibile prima e durante la decisione.
 
 ## 12.2 Tipi di prova
 
