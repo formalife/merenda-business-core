@@ -1,0 +1,123 @@
+[
+  {
+    "id":"ACQUISITION.PROSPECTING_OUTBOUND","label":"Prospecting e outbound subordinati a target, domanda ed economics","status":"current",
+    "canonical":{"path":"merenda/05_acquisizione/prospecting-e-outbound.md","anchor":null},"kind":"process",
+    "canonical_for":["prospecting_system","outbound_sales_development","new_business_conversations"],
+    "use_when":["servono più conversazioni commerciali","si propone cold outreach o prospecting","si vuole aumentare pipeline a monte"],
+    "not_sufficient_for":["sostituire mercato, posizionamento o offerta","sostituire qualification","giustificare un canale senza economics"],
+    "upstream":["DEMAND.OWNED_BEFORE_NEW","MARKET.IDENTIFIABILITY","MARKET.APPROPRIATENESS"],"must_read_with":[],
+    "evidence_required":["target","fonte/canale","nuove conversazioni richieste","conversioni osservate","costo e tempo commerciale"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda-centered causal order con procedure Sandler esplicitamente assimilate; provenance reale preservata nel nodo."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.PREQUALIFICATION","SALES.TEAM_BEHAVIOR_COACHING"],"eval_cases":["R031"]
+  },
+  {
+    "id":"SALES.RELATION_UFC","label":"Relazione, equal stature e accordo esplicito sul processo della conversazione","status":"current",
+    "canonical":{"path":"merenda/06_vendita/relazione-e-accordi-di-conversazione.md","anchor":null},"kind":"process",
+    "canonical_for":["sales_conversation_contract","up_front_contract","equal_business_stature","meeting_outcome"],
+    "use_when":["call disordinate o senza outcome","seller troppo subordinato o dominante","next step vaghi","aspettative non allineate"],
+    "not_sufficient_for":["qualificare Pain Budget Decision","sostituire authority o proof costruite a monte"],
+    "upstream":["SALES.PREQUALIFICATION"],"must_read_with":[],
+    "evidence_required":["scopo del meeting","tempo","ruoli","agenda","outcome o decisione attesa"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda Primary + Sandler assimilato; UFC ed Equal Business Stature mantengono provenance Sandler nel nodo."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.PAIN_QUALIFICATION","SALES.DECISION_QUALIFICATION"],"eval_cases":["R032"]
+  },
+  {
+    "id":"SALES.PAIN_QUALIFICATION","label":"Diagnosi e Pain prima della prescrizione","status":"current",
+    "canonical":{"path":"merenda/06_vendita/diagnosi-e-pain.md","anchor":null},"kind":"gate",
+    "canonical_for":["sales_pain","problem_diagnosis","pain_qualification","diagnose_before_prescribe"],
+    "use_when":["seller presenta troppo presto","problema dichiarato ma non quantificato","close rate basso","si cerca una tecnica di obiezione prima della diagnosi"],
+    "not_sufficient_for":["dimostrare compatibilità economica","dimostrare processo decisionale","sostituire proof e proposta"],
+    "upstream":["SALES.RELATION_UFC"],"must_read_with":[{"id":"SALES.BUDGET_QUALIFICATION","when":"il problema sembra abbastanza importante da giustificare azione"}],
+    "evidence_required":["problema specifico","tentativi precedenti","conseguenze","impatto o valore economico quando pertinente","priorità e volontà di cambiare"],
+    "provenance":{"class":"SYNTHESIS","notes":"Sostituisce operativamente il vecchio routing monolitico diagnose-before-prescribe con un gate specialistico integrato Merenda + Sandler."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.DIAGNOSE_BEFORE_PRESCRIBE","SALES.BUDGET_QUALIFICATION"],"eval_cases":["R010","R033"]
+  },
+  {
+    "id":"SALES.BUDGET_QUALIFICATION","label":"Investimento, risorse e willingness prima della proposta","status":"current",
+    "canonical":{"path":"merenda/06_vendita/budget-e-investimento.md","anchor":null},"kind":"gate",
+    "canonical_for":["sales_budget","investment_qualification","economic_fit"],
+    "use_when":["il prospect chiede subito prezzo","problema forte ma disponibilità economica ignota","preventivo prodotto senza range o risorse","sconti usati per salvare il deal"],
+    "not_sufficient_for":["definire il prezzo di listino","sostituire Pain","sostituire processo decisionale"],
+    "upstream":["SALES.PAIN_QUALIFICATION","PRICING.PREMIUM_CONDITIONAL"],"must_read_with":[],
+    "evidence_required":["willingness","ability","denaro","tempo/risorse","ordine di grandezza","vincoli economici reali"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda Primary su prezzo/valore e Sandler assimilato su Budget come gate di qualification."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.DECISION_QUALIFICATION"],"eval_cases":["R010","R034"]
+  },
+  {
+    "id":"SALES.DECISION_QUALIFICATION","label":"Mappare processo decisionale e stakeholder prima della proposta","status":"current",
+    "canonical":{"path":"merenda/06_vendita/processo-decisionale-e-stakeholder.md","anchor":null},"kind":"gate",
+    "canonical_for":["sales_decision_process","stakeholder_map","decision_qualification"],
+    "use_when":["si parla con un solo contatto","ci devo pensare ricorrente","stakeholder compaiono tardi","proposte senza processo di approvazione chiaro"],
+    "not_sufficient_for":["sostituire Pain o Budget","garantire che il buyer decida sì"],
+    "upstream":["SALES.PAIN_QUALIFICATION","SALES.BUDGET_QUALIFICATION"],"must_read_with":[],
+    "evidence_required":["decisione da prendere","chi influenza/autorizza/blocca","criteri","passaggi","timing","come verrà valutata la soluzione"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda Primary su decisori/timeframe + Sandler assimilato su Decision, six-W, process-first e re-check."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.FULFILLMENT_DECISION","MARKET.USER_VS_PAYER"],"eval_cases":["R010","R035"]
+  },
+  {
+    "id":"SALES.FULFILLMENT_DECISION","label":"Proposta selettiva solo dopo qualification, con decisione e Post-Sell coerenti","status":"current",
+    "canonical":{"path":"merenda/06_vendita/fulfillment-proposta-decisione-e-post-sell.md","anchor":null},"kind":"process",
+    "canonical_for":["sales_fulfillment","proposal_presentation","sales_close","post_sell"],
+    "use_when":["si prepara proposta o demo","presentazioni troppo lunghe","obiezioni tardive","buyer remorse","si cerca una tecnica di closing"],
+    "not_sufficient_for":["recuperare qualification mancante","sostituire proof/authority a monte","gestire l'intero customer lifecycle"],
+    "upstream":["SALES.PAIN_QUALIFICATION","SALES.BUDGET_QUALIFICATION","SALES.DECISION_QUALIFICATION"],"must_read_with":[],
+    "evidence_required":["Pain qualificato","investimento compatibile","processo decisionale noto","proof necessaria","outcome concordato"],
+    "provenance":{"class":"SYNTHESIS","notes":"Diagnosi/prescrizione Merenda + Fulfillment/Post-Sell Sandler assimilato; customer success continuativo resta in 09_business."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.CONVERSATIONAL_TACTICS","CUSTOMER.SUCCESS_BEFORE_RETENTION_TACTIC"],"eval_cases":["R036"]
+  },
+  {
+    "id":"SALES.CONVERSATIONAL_TACTICS","label":"Tattiche conversazionali subordinate a verità, diagnosis e qualification","status":"current",
+    "canonical":{"path":"merenda/06_vendita/tattiche-conversazionali.md","anchor":null},"kind":"diagnostic_dimension",
+    "canonical_for":["reversing","negative_reverse","strip_lining","thermometer_close","sales_tactics"],
+    "use_when":["domande/obiezioni ambigue","buyer resistente","seller over-presenta","serve verificare readiness"],
+    "not_sufficient_for":["creare Pain Budget Decision assenti","forzare un sì","sostituire proposta o posizionamento"],
+    "upstream":["SALES.RELATION_UFC","SALES.PAIN_QUALIFICATION"],"must_read_with":[],
+    "evidence_required":["significato/intento da chiarire","stato reale del buyer","fit","gap di readiness"],
+    "provenance":{"class":"SYNTHESIS","notes":"Tecniche Sandler esplicitamente assimilate dentro il sistema Merenda; non costituiscono un sistema parallelo."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.FULFILLMENT_DECISION"],"eval_cases":["R037"]
+  },
+  {
+    "id":"SALES.FOLLOWUP_PIPELINE","label":"Follow-up per stato reale dell'opportunità, non inseguimento indistinto","status":"current",
+    "canonical":{"path":"merenda/06_vendita/follow-up-e-pipeline.md","anchor":null},"kind":"process",
+    "canonical_for":["sales_follow_up","proposal_follow_up","pipeline_state","nonresponsive_opportunity"],
+    "use_when":["prospect non risponde","preventivi sospesi","pipeline gonfia","follow-up uguale per tutti"],
+    "not_sufficient_for":["salvare un deal non qualificato","sostituire riattivazione clienti","inventare una cadence universale"],
+    "upstream":["SALES.DECISION_QUALIFICATION","SALES.FULFILLMENT_DECISION"],"must_read_with":[],
+    "evidence_required":["stato reale","ultimo evento","next step concordato","ragione del silenzio/not-now/no","aging"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda Primary su follow-up + Sandler assimilato su low-pressure closure e premature presentation."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["ACQUISITION.STATE_BASED_ROUTING"],"eval_cases":["R038"]
+  },
+  {
+    "id":"SALES.PERFORMANCE_BAT","label":"Diagnosticare performance commerciale separando Behavior, Attitude e Technique","status":"current",
+    "canonical":{"path":"merenda/06_vendita/psicologia-e-performance-commerciale.md","anchor":null},"kind":"diagnostic_dimension",
+    "canonical_for":["sales_performance_diagnosis","behavior_attitude_technique","sales_psychology"],
+    "use_when":["il venditore sa cosa fare ma non lo fa","si propone training tecnico a ogni problema","approval seeking o outcome attachment"],
+    "not_sufficient_for":["diagnosticare clinicamente persone","sostituire dati di performance","spiegare ogni underperformance con mindset"],
+    "upstream":[],"must_read_with":[{"id":"SALES.TEAM_BEHAVIOR_COACHING","when":"serve trasformare la diagnosi in sistema di sviluppo"}],
+    "evidence_required":["comportamento osservato","gap di esecuzione","skill disponibile","postura/contesto","risultati"],
+    "provenance":{"class":"SYNTHESIS","notes":"B.A.T. Sandler assimilato come diagnostico dentro la doctrine Merenda; I/R e TA restano lenti subordinate."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.TEAM_BEHAVIOR_COACHING"],"eval_cases":["R039"]
+  },
+  {
+    "id":"SALES.TEAM_BEHAVIOR_COACHING","label":"Rete vendita gestita tramite processo, behavior plan, practice, accountability e coaching","status":"current",
+    "canonical":{"path":"merenda/06_vendita/rete-vendita-processo-coaching.md","anchor":null},"kind":"process",
+    "canonical_for":["sales_team_management","behavior_plan","sales_coaching","sales_accountability","sales_process_transferability"],
+    "use_when":["rete dipendente da pochi talenti","manager guarda solo quota","serve standardizzare la vendita","training non cambia comportamento"],
+    "not_sufficient_for":["ignorare outcome economici","imporre activity volume universali","sostituire selezione o incentivi"],
+    "upstream":["SALES.PERFORMANCE_BAT"],"must_read_with":[],
+    "evidence_required":["goal","comportamenti controllabili","execution","skill quality","pipeline quality","business outcomes","review/coaching"],
+    "provenance":{"class":"SYNTHESIS","notes":"Merenda Primary su script, review, incentivi e rete + Sandler assimilato su Cookbook/behavior management/reinforcement/coaching."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["ACQUISITION.PROSPECTING_OUTBOUND","SALES.PERFORMANCE_BAT"],"eval_cases":["R040"]
+  },
+  {
+    "id":"CUSTOMER.ACCOUNT_GROWTH_VALUE","label":"Retention ed expansion devono partire da valore realizzato e segnali reali","status":"current",
+    "canonical":{"path":"merenda/09_business/retention-onboarding-e-customer-success.md","anchor":null},"kind":"causal_dependency",
+    "canonical_for":["account_growth","customer_expansion","customer_success_handoff","renewal_expansion"],
+    "use_when":["si cerca upsell/cross-sell","renewal a rischio","handoff sales-delivery debole","si vuole espandere un account"],
+    "not_sufficient_for":["vendere automaticamente altro a un cliente soddisfatto","sostituire qualification della nuova opportunità"],
+    "upstream":["CUSTOMER.SUCCESS_BEFORE_RETENTION_TACTIC"],"must_read_with":[],
+    "evidence_required":["valore realizzato","success criteria","nuovo bisogno o use case","stakeholder","rischi di retention","economics"],
+    "provenance":{"class":"SYNTHESIS","notes":"Nodo Merenda esistente arricchito con Customer Success/KARE/account-growth Sandler assimilato; ogni nuova opportunità rientra nel normale processo commerciale."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["CUSTOMER.SECOND_PURCHASE_BRIDGE","SALES.PAIN_QUALIFICATION"],"eval_cases":["R041"]
+  }
+]
