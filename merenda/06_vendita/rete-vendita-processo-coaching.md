@@ -413,7 +413,25 @@ Strumenti psicometrici specifici possono esistere, ma la KB non li universalizza
 
 ---
 
-# 18. Failure modes
+# 18. Prova sociale come materiale interno
+
+Testimonianze, casi e risultati documentati non servono solo al prospect.
+
+Possono aiutare il team commerciale a capire:
+
+- chi viene realmente aiutato;
+- quali problemi l'offerta risolve;
+- quali trasformazioni sono credibili;
+- quale linguaggio usano i clienti;
+- perché la prescrizione merita convinzione.
+
+La funzione interna è formazione/enablement, non propaganda.
+
+Usare soltanto prove vere e rappresentative; non insegnare alla rete claim che l'azienda non può sostenere.
+
+---
+
+# 19. Failure modes
 
 - script come copione parola-per-parola;
 - training una tantum;
@@ -428,10 +446,11 @@ Strumenti psicometrici specifici possono esistere, ma la KB non li universalizza
 - registrazione senza privacy/legalità;
 - coaching senza comportamento osservabile;
 - accountability solo verso il rep e non verso il leader;
-- organigramma specializzato prima che l'economia lo giustifichi.
+- organigramma specializzato prima che l'economia lo giustifichi;
+- proof interna trasformata in slogan non verificati.
 
 ## Provenance
 
-**MERENDA PRIMARY:** script, role-play, review/recording, preparation, performance system, incentives, retraining, specialization, economics.  
+**MERENDA PRIMARY:** script, role-play, review/recording, preparation, performance system, incentives, retraining, specialization, economics, proof come enablement interno.  
 **ASSIMILATED — Sandler:** B.A.T., behavior plan/Cookbook, manage behavior not results, accountability, reinforcement, pre-call/debrief, coaching model.  
 **SYNTHESIS:** quattro livelli di misura e operating loop integrato.
