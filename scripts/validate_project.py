@@ -7,9 +7,10 @@ import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Commit della chiusura semantica a 313. I file frozen non sono stati modificati
-# dalla successiva hardening operativa e vengono confrontati contro questo stato.
-FROZEN_BASELINE_REF = 'e505ba63cc5befd38db11a222c2eb2ffa10fabfa'
+# Baseline frozen aggiornata al commit che contiene la revisione esplicitamente
+# autorizzata di system/RULES.md (2026-09-22). Gli altri file frozen restano
+# invariati rispetto alla precedente baseline.
+FROZEN_BASELINE_REF = '9f8c76514053da270afe368e2455b41e84bb7be9'
 FROZEN = [
     'MASTER_PLAN.md',
     'system/RULES.md',
