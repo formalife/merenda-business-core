@@ -350,6 +350,24 @@ Persone potenzialmente adatte che non stanno ancora cercando attivamente e richi
 
 # Acquisition e CRM
 
+## Prospecting
+
+Sistema di attività progettato per creare nuove conversazioni e opportunità commerciali da fonti coerenti con target, domanda ed economics. Non è sinonimo di cold calling e non viene prima della scelta del mercato/offerta.
+
+**First use:** Cap. 16.
+
+## Outbound
+
+Contatto iniziato dall'impresa verso persone o organizzazioni selezionate, attraverso telefono, email, direct outreach o altri mezzi. È una modalità di acquisizione, non una strategia autosufficiente.
+
+**First use:** Cap. 16.
+
+## Nuova conversazione
+
+Interazione reale con un prospect nella quale è possibile verificare pertinenza e un eventuale next step. Nominativi, impression e tentativi di contatto non equivalgono automaticamente a nuove conversazioni.
+
+**First use:** Cap. 16.
+
 ## Database proprietario
 
 Memoria utilizzabile delle relazioni identificabili dell'impresa, con dati e autorizzazioni pertinenti per ricontatto, segmentazione e next action.
@@ -426,9 +444,27 @@ Modo reale con cui una soluzione produce il risultato: processo, tecnologia, met
 
 ## Prequalifica
 
-Processo che verifica prima o all'inizio della vendita se prospect, economia, decisori, timing e aspettative rendono sensato investire nella trattativa.
+Processo che riduce incertezza prima o all'inizio della vendita verificando se contesto, aspettativa economica preliminare, interlocutori, timing e informazioni disponibili rendono sensato investire tempo umano. Non equivale alla qualification completa dell'opportunità.
 
 **First use:** Cap. 22.
+
+## Qualification / qualificazione commerciale
+
+Verifica interattiva del fit prima della proposta. Nel manuale richiede almeno comprensione sufficiente del problema prioritario, compatibilità di investimento/risorse e processo decisionale reale.
+
+**First use:** Cap. 22–23.
+
+## Light qualification
+
+Verifica minima usata, per esempio dopo aver ottenuto un appuntamento, per evitare passaggi manifestamente inutili. Non sostituisce la qualification completa.
+
+**First use:** Cap. 16; confine ribadito Cap. 22.
+
+## Disqualification
+
+Decisione di non avanzare un'opportunità quando manca un requisito materiale di fit, priorità, risorse, processo o appropriatezza. Non è automaticamente un fallimento commerciale.
+
+**First use:** Cap. 23.
 
 ## Speed-to-lead
 
@@ -446,15 +482,79 @@ Passaggio di responsabilità e contesto fra una fase/ruolo e il successivo, con 
 
 Raccolta e interpretazione strutturata di situazione, problema, conseguenze, tentativi, criteri e vincoli prima di proporre la soluzione.
 
+## Problema qualificato / Pain
+
+Problema che il buyer ha descritto con sufficiente specificità, conseguenze, impatto e priorità da giustificare la verifica dei passi successivi. Il termine non implica teatralizzare sofferenza né forzare emozioni.
+
 ## Prescrizione
 
 Proposta specifica che segue logicamente dalla diagnosi e spiega che cosa dovrebbe cambiare e perché.
 
 **First use:** Cap. 23.
 
+## Investimento / Budget nella qualification
+
+Insieme delle risorse che rendono realisticamente affrontabile il cambiamento: denaro, tempo, persone, capacità e disponibilità a impiegarli. Non coincide soltanto con il prezzo di listino o con una cifra dichiarata.
+
+**First use:** Cap. 23.
+
+## Decision process / processo decisionale
+
+Percorso reale con cui un'opportunità arriva a una decisione: che cosa deve essere deciso, criteri, passaggi, timing, ruoli, stakeholder e autorizzazioni. Non equivale alla sola domanda “chi firma?”.
+
+**First use:** Cap. 23.
+
+## Stakeholder
+
+Persona o gruppo che può influenzare, autorizzare, usare, implementare o bloccare materialmente una decisione.
+
+**First use:** concetto intuitivo Cap. 8; uso commerciale completo Cap. 23.
+
+## Readiness
+
+Grado in cui il buyer possiede abbastanza chiarezza, fit e informazione per prendere il passo/decisione concordati. Un eventuale score è un trigger diagnostico, non una prova matematica di chiusura.
+
+**First use:** Cap. 23.
+
+## Post-Sell
+
+Fase immediatamente successiva alla decisione commerciale in cui si fanno emergere dubbi residui, si riduce buyer's remorse e si chiariscono aspettative, questioni aperte, handoff e primi passi. Non coincide con l'intero customer lifecycle.
+
+**First use:** Cap. 23.
+
 ## Sales pipeline
 
 Vista delle opportunità commerciali per stato/fase, valore, età, attività e next step. Non è prova che il fatturato sia già acquisito.
+
+**First use:** Cap. 24.
+
+## Behavior / Attitude / Technique
+
+Tre categorie diagnostiche della performance commerciale:
+
+- **Behavior** — che cosa viene effettivamente fatto e con quale frequenza;
+- **Attitude** — postura, convinzioni e rapporto con rischio/disagio che possono favorire o bloccare l'esecuzione;
+- **Technique** — come viene eseguita la skill/processo.
+
+Non sono una diagnosi clinica della persona.
+
+**First use:** Cap. 24.
+
+## Behavior plan
+
+Piano che traduce un risultato desiderato in comportamenti controllabili, osservabili e ripetibili con frequenza definita, da validare contro gli outcome reali.
+
+**First use:** Cap. 24.
+
+## Coaching
+
+Processo di sviluppo basato su osservazione, diagnosi, pratica/azione, follow-through e nuova evidenza. Non equivale a risolvere permanentemente i problemi al posto della persona.
+
+**First use:** Cap. 24.
+
+## Accountability
+
+Sistema che rende visibili commitment, owner, scadenza/frequenza e follow-through e che applica lo standard anche al leader. Non è sinonimo di pressione generica.
 
 **First use:** Cap. 24.
 
@@ -468,9 +568,21 @@ Processo iniziale che orienta il cliente, chiarisce aspettative e riduce il temp
 
 **First use:** Cap. 25.
 
+## Customer service
+
+Funzione che risponde a richieste, problemi o assistenza necessaria. Può essere parte del customer success, ma non esaurisce la gestione proattiva del valore.
+
+**First use:** Cap. 25.
+
 ## Customer success
 
-Sistema che aiuta il cliente a ottenere il risultato appropriato, osserva uso/frizione e fa risalire feedback a prodotto, processo e assistenza.
+Sistema che aiuta il cliente a ottenere il risultato appropriato, osserva uso/frizione/success criteria e fa risalire feedback a prodotto, processo, assistenza e, quando emerge un nuovo bisogno reale, alla vendita.
+
+**First use:** Cap. 25.
+
+## Value review / review di valore
+
+Confronto periodico sul valore realizzato, priorità attuali, rischi, cambiamenti e nuovi bisogni. La frequenza deve seguire il contesto della relazione e non una cadenza universale.
 
 **First use:** Cap. 25.
 
@@ -489,6 +601,12 @@ Uscita/interruzione di clienti da una relazione o base attiva. Va interpretata r
 ## Riattivazione
 
 Intervento rivolto a clienti o relazioni inattive rispetto a una frequenza/comportamento atteso, per capire e, quando appropriato, recuperare la relazione.
+
+**First use:** Cap. 26.
+
+## Account growth / expansion
+
+Crescita del valore di una relazione esistente attraverso nuovi use case, team, bisogni, prodotti/servizi o scope realmente pertinenti. Un segnale di expansion diventa una vendita solo dopo nuova qualification quando richiede una nuova decisione.
 
 **First use:** Cap. 26.
 
@@ -597,6 +715,7 @@ Vendita effettiva dal canale/intermediario verso il cliente finale. Sell-in elev
 5. Non mantenere inglese e italiano come due concetti separati se significano la stessa cosa.
 6. Evitare gergo proprietario se una parola comune è più chiara, salvo quando il termine nomina una distinzione utile.
 7. Il glossario finale deve restare coerente con la primary-home map e con le chapter specs.
+8. Non importare nomi di framework o tattiche nel glossario soltanto perché esistono nel backend: aggiungerli solo se il testo reader-facing li usa davvero.
 
 ---
 
@@ -609,4 +728,6 @@ Il problema beginner-first non è più soltanto “fare un glossario finale”. 
 - il first-use chapter;
 - regole per impedirne l'uso anticipato.
 
-**Decisione proposta: G-007 → RESOLVED EDITORIALLY**, con copy-edit finale del glossario in Phase 8.
+La revalidation 2026-09-22 aggiunge i termini necessari a prospecting, qualification, sales performance e account growth senza trasferire gergo proprietario superfluo.
+
+**G-007 → RESOLVED EDITORIALLY**, con copy-edit finale del glossario in Phase 8.
