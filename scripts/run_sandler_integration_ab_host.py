@@ -5,8 +5,9 @@ Compares the existing five-file full control plane with the promoted
 REASONING_KERNEL.md while keeping specialist doctrine, semantic routing,
 model, effort and isolation identical.
 
-The harness deliberately reuses the validated Architecture Holdout machinery
-but swaps in the Phase 6 sales cases and the promoted kernel.
+The harness supports both the complete Phase 6 suite and explicit targeted
+reruns (for example R033,R041) when the merge-gate impact analysis proves that
+a correction is local. Full and kernel always run on the exact same case set.
 """
 
 from __future__ import annotations
@@ -28,6 +29,8 @@ FULL_ARCH = "sandler_a3_full"
 KERNEL_ARCH = "sandler_a3_kernel"
 DEFAULT_WORKDIR = Path("/tmp/formalife-sandler-integration-ab")
 EXPECTED_BRANCH = "integrate-sandler-v1"
+ALL_CASE_IDS = tuple(f"R{i:03d}" for i in range(31, 42))
+SELECTED_CASE_IDS = ALL_CASE_IDS
 
 # Preserve the local branch guard, while allowing the verified detached merge
 # ref used by GitHub Actions for this exact PR head branch. A detached local
@@ -56,17 +59,40 @@ ab.KERNEL_ARCH = KERNEL_ARCH
 ab.KERNEL = ROOT / "REASONING_KERNEL.md"
 
 
+def parse_cases(raw: str | None) -> tuple[str, ...]:
+    if raw is None or not raw.strip():
+        return ALL_CASE_IDS
+    ids = tuple(dict.fromkeys(part.strip().upper() for part in raw.split(",") if part.strip()))
+    if not ids:
+        raise SystemExit("--cases must contain at least one case id")
+    invalid = [cid for cid in ids if cid not in ALL_CASE_IDS]
+    if invalid:
+        raise SystemExit(f"invalid Phase 6 case ids: {invalid}; allowed={list(ALL_CASE_IDS)}")
+    return ids
+
+
 def load_phase6() -> list[dict]:
     rows = ab.load_jsonl(PHASE6)
-    out: list[dict] = []
-    seen: set[str] = set()
+    all_rows: dict[str, dict] = {}
     for row in rows:
         cid = row.get("id")
         if not isinstance(cid, str) or not cid.startswith("R"):
             raise SystemExit(f"invalid Phase 6 case id: {cid!r}")
-        if cid in seen:
+        if cid in all_rows:
             raise SystemExit(f"duplicate Phase 6 case id: {cid}")
-        seen.add(cid)
+        all_rows[cid] = row
+
+    actual_all = set(all_rows)
+    expected_all = set(ALL_CASE_IDS)
+    if actual_all != expected_all:
+        raise SystemExit(
+            "Phase 6 case set mismatch: "
+            f"missing={sorted(expected_all - actual_all)} extra={sorted(actual_all - expected_all)}"
+        )
+
+    out: list[dict] = []
+    for cid in SELECTED_CASE_IDS:
+        row = all_rows[cid]
         out.append(
             {
                 "case_id": cid,
@@ -74,13 +100,6 @@ def load_phase6() -> list[dict]:
                 "case_type": row.get("case_type"),
                 "prompt": row.get("prompt"),
             }
-        )
-    expected = {f"R{i:03d}" for i in range(31, 42)}
-    actual = {row["case_id"] for row in out}
-    if actual != expected:
-        raise SystemExit(
-            "Phase 6 case set mismatch: "
-            f"missing={sorted(expected - actual)} extra={sorted(actual - expected)}"
         )
     return out
 
@@ -91,11 +110,19 @@ ab.sanitized_holdout = load_phase6
 
 def validate_setup(base_dir: Path) -> int:
     report: dict[str, dict] = {}
+    expected_count = len(SELECTED_CASE_IDS)
     for variant in ("full", "kernel"):
         workdir = base_dir / variant
         _repo, arch, _branch, sha, prompts, root = ab.prepare_workspace(variant, workdir)
-        if len(prompts) != 11:
-            raise SystemExit(f"{variant}: expected 11 Phase 6 cases, got {len(prompts)}")
+        if len(prompts) != expected_count:
+            raise SystemExit(
+                f"{variant}: expected {expected_count} selected Phase 6 cases, got {len(prompts)}"
+            )
+        if [row.get("case_id") for row in prompts] != list(SELECTED_CASE_IDS):
+            raise SystemExit(
+                f"{variant}: selected cases/order mismatch: "
+                f"{[row.get('case_id') for row in prompts]} != {list(SELECTED_CASE_IDS)}"
+            )
         forbidden_prompt_fields = {
             "required_nodes",
             "required_checks",
@@ -115,6 +142,7 @@ def validate_setup(base_dir: Path) -> int:
             "architecture": arch,
             "commit_sha": sha,
             "cases": len(prompts),
+            "case_ids": list(SELECTED_CASE_IDS),
             "fixed_control_chars": ab.fixed_control_chars(variant, root),
             "workspace": str(root),
         }
@@ -124,11 +152,20 @@ def validate_setup(base_dir: Path) -> int:
     ratio = kchars / fchars if fchars else 0.0
     base_dir.mkdir(parents=True, exist_ok=True)
     (base_dir / "setup-validation.json").write_text(
-        json.dumps({"variants": report, "kernel_to_full_control_ratio": ratio}, indent=2) + "\n",
+        json.dumps(
+            {
+                "variants": report,
+                "selected_case_ids": list(SELECTED_CASE_IDS),
+                "kernel_to_full_control_ratio": ratio,
+            },
+            indent=2,
+        )
+        + "\n",
         encoding="utf-8",
     )
     print("SANDLER INTEGRATION A/B SETUP: PASS")
-    print("cases_per_variant=11")
+    print(f"cases_per_variant={expected_count}")
+    print("case_ids=" + ",".join(SELECTED_CASE_IDS))
     print(f"full_fixed_control_chars={fchars}")
     print(f"kernel_fixed_control_chars={kchars}")
     print(f"kernel_to_full_control_ratio={ratio:.3f}")
@@ -158,8 +195,6 @@ def run_variant(variant: str, workdir: Path) -> int:
 
 def blind_bundle(base_dir: Path) -> None:
     ab.blind_bundle(base_dir)
-    # Rename copies to make the integration-specific purpose explicit while
-    # leaving the original holdout-compatible artifacts intact.
     src_bundle = base_dir / "holdout-blind-answer-bundle.jsonl"
     src_mapping = base_dir / "holdout-blind-mapping.json"
     (base_dir / "sandler-blind-answer-bundle.jsonl").write_text(
@@ -178,6 +213,7 @@ def score_summary(path: Path, arch: str) -> dict:
 def orchestrate(base_dir: Path) -> int:
     base_dir.mkdir(parents=True, exist_ok=True)
     script = Path(__file__).resolve()
+    selected_arg = ",".join(SELECTED_CASE_IDS)
     for variant in ("full", "kernel"):
         proc = subprocess.run(
             [
@@ -185,6 +221,8 @@ def orchestrate(base_dir: Path) -> int:
                 str(script),
                 "--internal-variant",
                 variant,
+                "--cases",
+                selected_arg,
                 "--workdir",
                 str(base_dir / variant),
             ],
@@ -196,16 +234,22 @@ def orchestrate(base_dir: Path) -> int:
     blind_bundle(base_dir)
     full = score_summary(base_dir / "full" / "semantic-score.json", FULL_ARCH)
     kernel = score_summary(base_dir / "kernel" / "semantic-score.json", KERNEL_ARCH)
-    summary = {"full": full, "kernel": kernel}
+    summary = {
+        "selected_case_ids": list(SELECTED_CASE_IDS),
+        "full": full,
+        "kernel": kernel,
+    }
     (base_dir / "semantic-ab-summary.json").write_text(
         json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
+    count = len(SELECTED_CASE_IDS)
     print("\n==============================================")
     print("SANDLER INTEGRATION A/B — TRACE GENERATION COMPLETE")
     print("==============================================")
-    print("Cases per architecture: 11")
-    print("Codex calls total: 22")
+    print(f"Cases per architecture: {count}")
+    print("Case ids: " + ",".join(SELECTED_CASE_IDS))
+    print(f"Codex calls total: {count * 2}")
     print(
         "Full semantic verified recall="
         f"{full['mean_verified_semantic_recall']:.4f} "
@@ -225,16 +269,25 @@ def orchestrate(base_dir: Path) -> int:
     print("Blind answer bundle:", base_dir / "sandler-blind-answer-bundle.jsonl")
     print("Blind mapping (DO NOT REVEAL BEFORE JUDGMENT):", base_dir / "sandler-blind-mapping.json")
     print("Semantic A/B summary:", base_dir / "semantic-ab-summary.json")
-    print("Judge answers against Phase 6 checks before revealing the mapping.")
+    print("Judge answers against the selected Phase 6 checks before revealing the mapping.")
     return 0
 
 
 def main() -> int:
+    global SELECTED_CASE_IDS
+
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", type=Path, default=DEFAULT_WORKDIR)
     ap.add_argument("--validate-only", action="store_true")
+    ap.add_argument(
+        "--cases",
+        help="Comma-separated Phase 6 case ids. Default: full R031-R041 suite.",
+    )
     ap.add_argument("--internal-variant", choices=("full", "kernel"), help=argparse.SUPPRESS)
     args = ap.parse_args()
+
+    SELECTED_CASE_IDS = parse_cases(args.cases)
+
     if args.validate_only and args.internal_variant:
         raise SystemExit("use --validate-only or --internal-variant, not both")
     if args.validate_only:
