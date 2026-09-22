@@ -71,6 +71,14 @@ jobs:
           --validate-only
           --workdir /tmp/sandler-integration-ab-setup
 
+      - name: Dry-run targeted Sandler integration A/B setup without Codex
+        if: github.event_name == 'pull_request' && github.head_ref == 'integrate-sandler-v1'
+        run: >-
+          python3 scripts/run_sandler_integration_ab_host.py
+          --cases R033,R041
+          --validate-only
+          --workdir /tmp/sandler-integration-ab-targeted-setup
+
       - name: Build architecture inventory
         run: >-
           python3 scripts/build_architecture_inventory.py
