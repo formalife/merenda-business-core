@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Validate draft Doctrine/Retrieval Map shards.
+"""Validate Doctrine/Retrieval Map shards and semantic supplement.
 
-Checks structure, canonical paths/anchors, cross-shard graph references,
+Checks structure, canonical paths/anchors, cross-file graph references,
 provenance classes, and links to routing eval cases. Reports eval coverage
 without treating incomplete draft coverage as a failure yet.
 """
@@ -16,6 +16,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 MAP_DIR = ROOT / "reviews" / "drafts"
 EVAL_DIR = ROOT / "evals" / "routing"
+SUPPLEMENT = MAP_DIR / "SEMANTIC_UNIT_SUPPLEMENT_V2.json"
 
 REQUIRED = {
     "id", "label", "status", "canonical", "kind", "canonical_for",
@@ -38,7 +39,10 @@ HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 
 
 def map_files() -> list[Path]:
-    return sorted(MAP_DIR.glob("DOCTRINE_RETRIEVAL_MAP_V1_*.json"))
+    files = sorted(MAP_DIR.glob("DOCTRINE_RETRIEVAL_MAP_V1_*.json"))
+    if SUPPLEMENT.exists():
+        files.append(SUPPLEMENT)
+    return files
 
 
 def githubish_anchor(text: str) -> str:
@@ -76,7 +80,7 @@ def load_eval_ids() -> set[str]:
 def load_map_rows(errors: list[str]) -> list[dict]:
     files = map_files()
     if not files:
-        errors.append(f"No retrieval map shards found under {MAP_DIR.relative_to(ROOT)}")
+        errors.append(f"No retrieval map files found under {MAP_DIR.relative_to(ROOT)}")
         return []
 
     rows: list[dict] = []
@@ -116,7 +120,7 @@ def main() -> int:
             continue
 
         if entry_id in ids:
-            errors.append(f"Duplicate id across map shards: {entry_id}")
+            errors.append(f"Duplicate id across map files: {entry_id}")
         ids.add(entry_id)
 
         if row["status"] not in STATUSES:
@@ -166,7 +170,7 @@ def main() -> int:
             else:
                 covered_evals.add(case_id)
 
-    # Cross-shard references are checked only after all IDs are known.
+    # Cross-file references are checked only after all IDs are known.
     for row in rows:
         if not isinstance(row, dict) or "id" not in row:
             continue
