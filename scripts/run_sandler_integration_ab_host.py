@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from pathlib import Path
 import subprocess
 import sys
@@ -26,9 +27,27 @@ PHASE6 = ROOT / "evals" / "routing" / "cases_phase6.jsonl"
 FULL_ARCH = "sandler_a3_full"
 KERNEL_ARCH = "sandler_a3_kernel"
 DEFAULT_WORKDIR = Path("/tmp/formalife-sandler-integration-ab")
+EXPECTED_BRANCH = "integrate-sandler-v1"
 
-# Preserve the branch guard, but point it at the integration branch.
-base.EXPECTED_BRANCH = "integrate-sandler-v1"
+# Preserve the local branch guard, while allowing the verified detached merge
+# ref used by GitHub Actions for this exact PR head branch. A detached local
+# checkout still fails because the GitHub PR environment variables are absent.
+base.EXPECTED_BRANCH = EXPECTED_BRANCH
+_ORIGINAL_GOUT = base.gout
+
+
+def _integration_gout(repo: Path, *args: str) -> str:
+    value = _ORIGINAL_GOUT(repo, *args)
+    if args == ("branch", "--show-current") and value == "":
+        if (
+            os.environ.get("GITHUB_ACTIONS") == "true"
+            and os.environ.get("GITHUB_HEAD_REF") == EXPECTED_BRANCH
+        ):
+            return EXPECTED_BRANCH
+    return value
+
+
+base.gout = _integration_gout
 
 # Reuse the holdout machinery with the current promoted kernel, not the old
 # pre-promotion draft used by the historical architecture holdout.
