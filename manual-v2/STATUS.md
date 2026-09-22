@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 23 / PART VI OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 24 / PART VI CLOSED / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -67,11 +67,7 @@ Writing requirements remain:
 - no fixed word quota;
 - no systematic AI-like cadence.
 
----
-
-# Pedagogical apparatus
-
-Current restrained palette:
+Current restrained pedagogical palette:
 
 1. `ESEMPIO SVOLTO / ESEMPIO NUMERICO`
 2. `ERRORE FREQUENTE`
@@ -79,9 +75,7 @@ Current restrained palette:
 4. `VERIFICA NELLA TUA AZIENDA`
 5. `APPROFONDIMENTO`
 
-`STRUMENTO OPERATIVO` is used only when a genuine reusable artifact exists.
-
-No feature quota. Redundant callouts are deleted.
+`STRUMENTO OPERATIVO` is used only when a genuine reusable artifact exists. No feature quota; redundant callouts are deleted.
 
 ---
 
@@ -112,6 +106,7 @@ Reader-facing production completed through:
 - Chapter 21 — `Esperienza del cliente`
 - Chapter 22 — `Retention`
 - Chapter 23 — `Seconda vendita e referral`
+- Chapter 24 — `Brand e reputazione`
 
 Part introductions completed:
 
@@ -128,79 +123,70 @@ Part transition gates completed:
 - Part III — `Prima di proseguire`
 - Part IV — `Prima di proseguire`
 - Part V — `Prima di proseguire`
+- Part VI — `Prima di proseguire`
 
-Chapters 6–7 complete the Part II lens → evidence → buying-decision logic. Chapter 6 teaches research as decision-oriented evidence production rather than generic surveying, with explicit separation of behavior, customer statements, interpretation and strategic hypothesis. Chapter 7 recomposes those evidences into the concrete structure of a buying decision: initial situation, desired result, consequences, alternatives, status quo, criteria, switching risk, trigger, timing and stakeholders. It includes a reusable buying-decision map.
+---
 
-Chapter 8 opens Part III by turning that customer evidence into a reason to choose. It keeps positioning distinct from focus/category, offer, proof and copy; treats differentiation as operationally real before it is communicated; links relevance to customer criteria and consequences; and verifies the intended position against observed buying behavior. It includes a reusable positioning-and-evidence worksheet.
+# Production trail and chapter boundaries
 
-Chapter 9 gives that position a center: focus, product guide, category, comparison criterion, line-extension boundaries and brand architecture. It keeps the distinction between what the company can sell and what the market should remember, and it treats multibrand architecture as a growth choice rather than a shortcut around a weak core.
+Chapters 1–3 establish the business as a causal commercial/economic system, the minimum economic vocabulary and the evidence/test method used throughout the manual.
 
-Chapter 10 converts position and focus into a concrete commercial exchange. It defines offer structure, result/component logic, risk reduction, entry offers, transaction sequencing, upsell and cross-sell. It keeps offer design distinct from copy and pricing, links front-end economics to payback/capacity, and provides a reusable offer-and-sequence map.
+Chapters 4–7 complete the market/customer lens → evidence → buying-decision sequence. They separate market viability from customer desirability, turn research into decision-oriented evidence and reconstruct the concrete purchase decision through problem/result, alternatives, criteria, timing and stakeholders.
 
-Chapter 11 closes Part III by treating price as a system variable rather than a slogan or a cost-plus afterthought. It connects pricing to contribution, customer selection, capacity, comparability, payment timing and cash; defines the prerequisites for premium pricing; distinguishes payment conditions from discounts; treats systematic discounting as both an economic choice and a diagnostic signal; and provides a reusable pricing-test sheet with explicit metrics and stop conditions.
+Chapters 8–11 complete Part III. Positioning is treated as an operational reason to choose, focus/category gives that position a center, the offer converts it into a concrete exchange, and pricing is connected to value, customer selection, contribution, payment timing and economics. The Part III gate requires a real reason to choose, a coherent offer/transaction sequence and pricing logic before acquisition is amplified.
 
-The Part III transition gate makes the prerequisite for acquisition explicit: before amplifying demand, the reader should have a real reason to choose, a deliberate focus/category, a coherent offer and transaction sequence, a pricing logic compatible with target/economics and clearly labeled hypotheses that still require testing.
+Chapters 12–16 complete Part IV through proof → demand → direct access → borrowed/distributed access → orchestration. They separate authority/credibility/proof from the underlying offer, map active/latent demand, choose channels from economics and timing, treat partnerships/distribution as borrowed access with reciprocal economics, and close with explicit relationship states, database memory, routing/fallback, governed automation and sales handoff. The Part IV gate requires an acquisition system capable of delivering an informed opportunity to sales.
 
-The Part IV introduction opens the proof → demand → access → orchestration sequence. Chapter 12 then separates authority, credibility and relational trust; classifies proof by the uncertainty it can actually reduce; distinguishes testimonials from structured cases; places proof next to the claim or risk it must support; and turns accumulated evidence into a reusable proof library. It includes a proof matrix and a final business verification focused on gaps rather than vanity counts.
+Chapters 17–20 complete Part V through evidence → argument → execution → live sale → management over time. Chapter 17 builds a format-independent commercial argument; Chapter 18 adapts it to copy; Chapter 19 owns the live consultative diagnosis/prescription; Chapter 20 owns non-conversion states, follow-up, pipeline memory, scripts/training, performance and sales capacity. The Part V gate requires a repeatable path from evidence and message to an economically appropriate customer decision.
 
-Chapter 13 maps demand before channel choice. It separates relationship ownership from demand state, distinguishes active from latent demand, defines awareness levels without treating them as fixed identities, separates interest from commercial intent, adds timing/trigger as an independent variable and calibrates education versus directness to the actual distance from a decision. It includes a reusable demand/directness map and keeps routing, automation and channel mechanics in their later chapters.
+The Part VI introduction opens the promise → experience → value → continuity → second sale/referral → reputation sequence.
 
-Chapter 14 turns that demand map into channel choice. It treats the channel as an access mechanism rather than a substitute for positioning, compares online and offline by function rather than ideology, distinguishes organic/paid/direct access without pretending the categories are mutually exclusive, measures source economics through complete CAC/contribution/payback rather than CPL alone, and treats multichannel expansion as a coordination and resilience decision. It includes a numerical CPL-vs-CAC example and a reusable channel-evaluation sheet while preserving partnership/distribution for Chapter 15 and routing/database mechanics for Chapter 16.
+Chapter 21 treats the sale as an operational commitment. It makes the promise/handoff explicit, defines onboarding around prerequisites and expectations, separates time to first value from final-result time, distinguishes necessary customer participation from avoidable customer effort, treats support as both recovery and diagnostic evidence, and closes the loop from feedback to process correction. It includes a reusable promise → experience → first-value map.
 
-Chapter 15 completes the access layer by treating partnerships and distribution as borrowed or integrated market access rather than free acquisition. It separates endorsement from deeper partnership, evaluates economics on both sides of the agreement, translates revenue share into contribution and control, distinguishes sell-in from sell-through, and treats structural integrations as potentially defensible but dependency-creating choices. It includes a reusable partner/distribution evaluation sheet covering reciprocal value, economics, customer control, sell-through, operational obligations, reputation, dependence, exit rights and a bounded test before deeper integration.
+Chapter 22 defines retention against the natural duration and frequency of the relationship rather than indefinite customer permanence. It makes the unit of retention explicit by business model, compares expected frequency with observed recency/behavior, treats risk signals as triggers for verification rather than automatic diagnoses, separates reactivation from true recapture, and distinguishes natural exit from avoidable churn. It includes a reusable retention/risk/churn map.
 
-Chapter 16 closes Part IV by turning acquisition into explicit state movement rather than a sequence of pages or emails. It separates relationship state from source and awareness, distinguishes weak technical events from stronger commercial signals, introduces adaptive routing/backtracking and explicit fallback logic, treats the database as commercial memory, and constrains automation/AI through state, trigger, data, exception and escalation rules. It ends with prequalification and handoff criteria so expensive human sales time begins with context rather than reconstruction. A reusable state/routing/handoff map and final business verification make the acquisition system operational.
+Chapter 23 moves from preserving an appropriate relationship to generating value after the first result. It treats the second transaction as a designed bridge rather than accidental repeat purchase, permits continuity only where recurring value is real, requires subsequent offers to follow verified need and timing, treats referral as a reputational transfer that must be earned and facilitated, and turns reviews/testimonials/cases into structured customer-generated proof. It includes a reusable post-purchase value map.
 
-The Part IV transition gate is now complete. Before entering persuasion and live selling, the reader is required to have usable proof, a demand-state model, direct and borrowed access economics, explicit prospect states, database memory, routing/fallback logic, governed automation and a defined sales handoff.
+Chapter 24 closes Part VI by distinguishing intended positioning, accumulated brand memory and stakeholder reputation. It treats coherence, persistence and proof as the path from repeated experience to market memory; maps material stakeholders and reputational pre-mortems; treats PR as audience-relevant earned media rather than free publicity; handles crises through fact verification, pertinent responsibility, remedy and systemic correction; and treats community as belonging built after substance rather than as vanity attention. It includes a reusable `Mappa della memoria di mercato e della reputazione` covering position, experience, authority/proof, stakeholders, PR, crisis and community.
 
-The Part V introduction opens the evidence → argument → execution → live sale → management-over-time sequence. Chapter 17 then turns the evidence built in earlier Parts into a format-independent commercial argument: customer situation, problem/desire, consequences, desired result, mechanism, reason why, proof, objections, risk and next action. It separates customer evidence, company evidence and hypothesis; treats the status quo as a real alternative; links proof to the specific doubt it must reduce; and preserves continuity across source, message, destination and sales handoff. It includes a reusable argumentation map and a final audit that distinguishes weak reasoning from weak writing.
+The Part VI transition gate is complete. Before advanced customer economics, the reader is required to have a legible lifecycle from commercial promise through first value, natural relationship duration/frequency, retention/reactivation, appropriate next sale/referral and accumulated reputation/brand memory. This gives Part VII an actual customer lifecycle whose economics can now be measured meaningfully.
 
-Chapter 18 turns that argument into copy adapted to a specific medium and prospect state. It treats attention as selection plus continued relevance rather than a click objective, organizes copy around missing convictions rather than rigid formulas, ties claim strength to mechanism/reason why/proof, uses stories and testimonials only when they advance identification or evidence, gives price/risk/objections the context they require, and designs the CTA before testing controlled variants. It includes a reusable copy-review/test sheet and keeps the live diagnostic work of individual selling for Chapter 19.
+---
 
-Chapter 19 moves from written execution into the live consultative interaction. It begins from the context transferred by acquisition, separates qualification from diagnosis, standardizes the diagnostic method while personalizing the prescription, derives customer criteria through criterion → motive → consequence, maps stakeholders and decision process, ties each recommendation to observed evidence and treats objections as diagnostic signals rather than pressure targets. It includes a reusable consultative-deal map and preserves follow-up, pipeline, training, performance and sales-capacity management for Chapter 20.
+# Latest manuscript QA
 
-Chapter 20 closes Part V by moving from the single live conversation to the management of commercial opportunities over time. It separates materially different non-conversion states, designs follow-up from timing and cause rather than universal cadence, treats pipeline aging and next-step memory as reality checks, distinguishes scripts from recitation, links training to observed interactions, measures flow/process/conversion/economic quality and treats sales capacity as a constrained resource. It includes a numerical conversion/CAC example and a reusable pipeline/performance management sheet that connects state, evidence, next action, training, metrics, capacity and review conditions.
+Current cumulative manuscript: `Manuale_V2_Fino_Parte_VI.docx`.
 
-The Part V transition gate is complete. Before entering customer experience, the reader is required to have a grounded commercial argument, medium-specific message execution, a diagnostic/prescriptive live-sales process, explicit stakeholder and objection handling, state-based follow-up and pipeline memory, and—where a team exists—standards, training, performance measures and capacity logic.
-
-The Part VI introduction opens the promise → experience → value → continuity → second sale/referral → reputation sequence. Chapter 21 then treats the sale as an operational commitment: it makes the promise/handoff explicit, defines onboarding around prerequisites and expectations, separates time to first value from final-result time, distinguishes necessary customer participation from avoidable customer effort, treats support as both recovery and diagnostic evidence, and closes the loop from feedback to process correction. It includes a reusable promise → experience → first-value map and preserves retention, second sale/referral and reputation for Chapters 22–24.
-
-Chapter 22 defines retention against the natural duration and frequency of the relationship rather than as indefinite customer permanence. It makes the unit of retention explicit by business model, compares expected frequency with observed recency/behavior, uses risk signals as triggers for verification rather than automatic diagnoses, separates reactivation from true recapture, and distinguishes natural exit from avoidable churn. It includes a reusable retention/risk/churn map and preserves second sale, continuity offers and referral for Chapter 23.
-
-Chapter 23 moves from preserving an appropriate relationship to generating value after the first result. It treats the second transaction as a designed bridge rather than an accidental repeat purchase, allows continuity only where recurring value is real, requires subsequent offers to follow verified need and timing, treats referral as a reputational transfer that must be earned and facilitated, and turns reviews/testimonials/cases into structured customer-generated proof. It includes a reusable post-purchase value map linking second transaction, continuity, referral attribution and proof collection while preserving accumulated market memory for Chapter 24.
-
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 23.
-
-Latest manuscript QA:
-
-- 339 pages total;
-- pages 1–327 are pixel-identical to the validated Chapter 22 manuscript at the same 72-dpi rendering resolution;
-- pages 328–339 were rendered at 96 dpi and visually checked page by page;
-- Chapter 23 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
-- all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- the continuity table and multi-page post-purchase value map remain readable across page boundaries;
-- practice, worked-example, error and final verification callouts remain intact without split headers or adjacent-table artifacts;
-- an initial orphan final continuation page was removed by tightening the verification block while preserving its decision logic;
-- the final `VERIFICA NELLA TUA AZIENDA` and the Chapter 24 bridge now fit cleanly on the same final page;
-- no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
+- **353 pages total.**
+- The currently supplied/frozen Chapter 23 manuscript renders to **340 pages**; pages **1–340 are preserved pixel-identically** in the Part VI final manuscript at the same 72-dpi rendering resolution.
+- Pages **341–353** contain only Chapter 24 and the Part VI transition gate and were rendered and visually checked page by page.
+- Chapter 24 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page.
+- All new data-table rows are protected from splitting; multi-page tables repeat their headers cleanly.
+- The positioning/memory table and stakeholder table remain readable without row breaks or table-merging artifacts.
+- The PR procedure renders with explicit numbering **1–7** and does not inherit numbering from earlier list styles.
+- Practice, error and worked-example callouts remain intact without split headers.
+- The multi-page `Mappa della memoria di mercato e della reputazione` spans pages 350–351 with a clean repeated header.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 24 synthesis fit cleanly on page 352, with no orphan continuation.
+- The Part VI `Prima di proseguire` gate starts on a clean dedicated page 353 and fits entirely on that page.
+- No clipping, overlap, broken tables, visible Markdown markers, split callout headers or orphan continuation remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue and close Part VI with:
+Open Part VII — `Economia e organizzazione` — with its reader-facing introduction, then continue with:
 
-**Chapter 24 — `Brand e reputazione`.**
+**Chapter 25 — `Economia del cliente`.**
 
 Frozen sections:
 
-- 24.1 `Posizionamento e brand`
-- 24.2 `Accumulazione della memoria di mercato`
-- 24.3 `Reputazione e stakeholder`
-- 24.4 `Media e relazioni pubbliche`
-- 24.5 `Crisi e riparazione`
-- 24.6 `Community e appartenenza`
+- 25.1 `Unit economics`
+- 25.2 `Analisi per coorti`
+- 25.3 `Lifetime value`
+- 25.4 `Payback avanzato`
+- 25.5 `Costo massimo di acquisizione`
+- 25.6 `Costo marginale e leve di crescita`
 
-After Chapter 24, produce the Part VI `Prima di proseguire` transition gate before opening Part VII.
+Part VII then continues with cash/capital, capacity/bottlenecks, process/controls, people/organization and transferability before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
