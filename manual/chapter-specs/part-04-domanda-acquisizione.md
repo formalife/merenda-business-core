@@ -161,15 +161,15 @@ Il lettore sa classificare tre situazioni di domanda e motivare perché richiedo
 
 ---
 
-# Capitolo 16 — Scegliere canali, modalità e ritmo
+# Capitolo 16 — Scegliere canali, modalità, prospecting e ritmo
 
 ## Domanda
 
-Quale mezzo merita di essere usato per questo target, stato e modello economico?
+Quale mezzo merita di essere usato per questo target, stato e modello economico e, quando serve outbound, come lo trasformo in un sistema misurabile invece che in attività casuale?
 
 ## Learning outcome
 
-Il lettore sa assegnare ai canali una funzione, distinguere modalità di contatto e valutare costo/ritorno/capacità invece di partire dalla piattaforma.
+Il lettore sa assegnare ai canali una funzione, distinguere modalità di contatto, valutare costo/ritorno/capacità e costruire un sistema minimo di prospecting basato su fonti, nuove conversazioni, comportamento e qualità economica delle opportunità.
 
 ## Prerequisiti
 
@@ -182,6 +182,20 @@ Capp. 2, 11, 15.
 - one-to-one vs one-to-many;
 - known vs unknown audience;
 - cold outreach praticabile ma non universalmente preferibile;
+- prospecting come new-business development, non sinonimo di cold calling;
+- prospecting subordinato a target, positioning, offer, proof ed economics;
+- new conversation come unità di pianificazione;
+- portafoglio intenzionale di fonti e contributo atteso per fonte;
+- behavior plan distinto dal piano delle fonti;
+- selezione delle opportunità: bisogno servibile, possibilità realistica di vincere, desiderabilità economica del business;
+- call reluctance e outcome attachment come possibile problema di performance, non solo di script;
+- apertura low-pressure: ridurre aspettativa di pitch, chiarire contesto, permettere un no rapido;
+- problemi plausibili ≠ Pain già dimostrato;
+- appointment-first quando il primo contatto serve a ottenere una conversazione successiva;
+- light qualification ≠ qualification completa;
+- gatekeeper: verità, parità professionale e richiesta collaborativa;
+- nessuna formula universale acquisita per il first-touch voicemail;
+- practice/rehearsal per interiorizzare struttura e ascoltare meglio;
 - online/offline come implementazioni;
 - organic social contestuale, non default;
 - format economics: costo vs conversione/experience/relationship;
@@ -193,9 +207,13 @@ Capp. 2, 11, 15.
 
 ## Causalità centrale
 
-**target/stato/intento + funzione + economics + capacity → canale/formato sostenibile.**
+**target/stato/intento + funzione + economics + capacity → canale sostenibile; obiettivo economico + conversioni osservate → nuove conversazioni richieste → fonti/comportamenti → opportunità → feedback economico.**
+
+Il volume di outbound non corregge un target o un'offerta sbagliati.
 
 ## Decision framework
+
+Prima del canale:
 
 1. valore già posseduto nel database?;
 2. domanda attiva disponibile?;
@@ -206,9 +224,19 @@ Capp. 2, 11, 15.
 7. come misureremo fino a vendita/margine?;
 8. capacity può assorbire il volume?.
 
+Se il prospecting diretto è giustificato:
+
+9. quante nuove conversazioni servono per alimentare il funnel?;
+10. quali fonti sono realmente praticabili e coerenti col target?;
+11. quale contributo atteso assegniamo a ciascuna?;
+12. quali comportamenti controllabili devono avvenire con quale frequenza?;
+13. quale piccolo next step deve produrre il primo contatto?;
+14. come distinguiamo attività, conversazioni, meeting, opportunità qualificate e clienti economicamente validi?;
+15. quale evidenza farà aumentare, ridurre o abbandonare una fonte?.
+
 ## Metriche/evidenza
 
-CPL solo diagnostico; cost per sale, margin, CAC, LTV, payback, quality, channel cohort value, capacity.
+CPL solo diagnostico; attività per fonte; nuove conversazioni; appointment; show rate; qualified opportunity rate; conversione; cost per sale; margin; CAC; LTV; payback; quality; channel cohort value; tempo commerciale; capacity.
 
 ## Errori da prevenire
 
@@ -216,28 +244,37 @@ CPL solo diagnostico; cost per sale, margin, CAC, LTV, payback, quality, channel
 - “social perché tutti sono lì”;
 - vietare/idealizzare il cold;
 - usare un solo mezzo per ogni stato;
+- outbound prima di target/offerta;
+- volume senza economics;
+- cold calling come default perché manca un piano;
+- social/research come procrastinazione;
+- Pain installato con uno script;
+- mini-pitch dopo aver ottenuto l'appuntamento;
+- full qualification compressa artificialmente nel primo contatto;
+- deception sul gatekeeper;
+- inventare voicemail duration/cadence/benchmark universali;
 - scegliere webinar/evento solo per costo;
 - moltiplicare canali per compensare funnel debole.
 
 ## Esempi/casi
 
-Evento live vs webinar come economics example; social contextual; cold temporal nuance; owned event tail as mini-flow.
+Evento live vs webinar come economics example; social contextual; cold temporal nuance; owned event tail as mini-flow; mini-caso target B2B identificabile → numero di nuove conversazioni → portafoglio fonti → appointment; caso di gatekeeper gestito senza inganno.
 
 ## Backend sources
 
-MKT demand/channel; MKT quattro modalità; MKT eventi; MKT-067; FND-019/FND-050; P-010/P-013/P-014.
+MKT demand/channel; MKT quattro modalità; MKT eventi; MKT-067; FND-019/FND-050; P-010/P-013/P-014; ACQ-068…ACQ-076; `merenda/05_acquisizione/prospecting-e-outbound.md`.
 
 ## Collegamento
 
-Prepara Cap. 17: una volta generati contatti e relazioni bisogna ricordare stato e storia.
+Prepara Cap. 17: una volta generati contatti e relazioni bisogna ricordare stato e storia. Quando una conversazione diventa opportunità, Cap. 22 governa prequalifica e handoff verso la vendita.
 
 ## Definition first-use
 
-one-to-one/one-to-many se usati; owned media/earned/paid solo se necessari e definiti localmente.
+one-to-one/one-to-many se usati; prospecting; outbound; nuova conversazione; light qualification. Owned media/earned/paid solo se necessari e definiti localmente.
 
 ## Criteri di completezza
 
-Il lettore sa rispondere “quale canale?” con un criterio economico/funzionale e non con una preferenza personale.
+Il lettore sa rispondere “quale canale?” con un criterio economico/funzionale, sa trasformare un fabbisogno di pipeline in un piano di nuove conversazioni/fonti/comportamenti e sa spiegare perché il primo contatto non deve necessariamente diventare una sales call completa.
 
 ---
 
