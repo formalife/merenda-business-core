@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 16 / PART IV CLOSED / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 17 / PART V OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -105,6 +105,7 @@ Reader-facing production completed through:
 - Chapter 14 — `Canali di acquisizione`
 - Chapter 15 — `Partnership e distribuzione`
 - Chapter 16 — `Funnel e database`
+- Chapter 17 — `Argomentazione commerciale`
 
 Part introductions completed:
 
@@ -112,6 +113,7 @@ Part introductions completed:
 - Part II — `Mercato e cliente`
 - Part III — `Posizionamento, offerta e prezzo`
 - Part IV — `Fiducia, domanda e acquisizione`
+- Part V — `Comunicazione e vendita`
 
 Part transition gates completed:
 
@@ -139,39 +141,42 @@ Chapter 14 turns that demand map into channel choice. It treats the channel as a
 
 Chapter 15 completes the access layer by treating partnerships and distribution as borrowed or integrated market access rather than free acquisition. It separates endorsement from deeper partnership, evaluates economics on both sides of the agreement, translates revenue share into contribution and control, distinguishes sell-in from sell-through, and treats structural integrations as potentially defensible but dependency-creating choices. It includes a reusable partner/distribution evaluation sheet covering reciprocal value, economics, customer control, sell-through, operational obligations, reputation, dependence, exit rights and a bounded test before deeper integration.
 
-Chapter 16 closes the acquisition architecture by defining the funnel as movement between relationship states rather than a fixed sequence of pages. It separates source, awareness and state; treats behavior as graduated evidence; makes database memory operational; defines routing and fallback; constrains automation and AI behind explicit state/trigger/owner/data/escalation rules; and ends with prequalification and a context-rich handoff to sales. It includes a reusable state/routing/handoff map and a final audit focused on the first acquisition bottleneck rather than additional traffic or tooling.
+Chapter 16 closes Part IV by turning acquisition into explicit state movement rather than a sequence of pages or emails. It separates relationship state from source and awareness, distinguishes weak technical events from stronger commercial signals, introduces adaptive routing/backtracking and explicit fallback logic, treats the database as commercial memory, and constrains automation/AI through state, trigger, data, exception and escalation rules. It ends with prequalification and handoff criteria so expensive human sales time begins with context rather than reconstruction. A reusable state/routing/handoff map and final business verification make the acquisition system operational.
 
-The Part IV transition gate now closes the proof → demand → direct access → borrowed/distributed access → orchestration sequence. The reader should enter Part V with proof requirements, demand states, access economics, relationship states, routing/fallback and sales-handoff prerequisites made explicit.
+The Part IV transition gate is now complete. Before entering persuasion and live selling, the reader is required to have usable proof, a demand-state model, direct and borrowed access economics, explicit prospect states, database memory, routing/fallback logic, governed automation and a defined sales handoff.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 16 and the Part IV transition gate.
+The Part V introduction opens the evidence → argument → execution → live sale → management-over-time sequence. Chapter 17 then turns the evidence built in earlier Parts into a format-independent commercial argument: customer situation, problem/desire, consequences, desired result, mechanism, reason why, proof, objections, risk and next action. It separates customer evidence, company evidence and hypothesis; treats the status quo as a real alternative; links proof to the specific doubt it must reduce; and preserves continuity across source, message, destination and sales handoff. It includes a reusable argumentation map and a final audit that distinguishes weak reasoning from weak writing.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through the Part V introduction and Chapter 17.
 
 Latest manuscript QA:
 
-- 242 pages total;
-- pages 1–226 are pixel-identical to the validated Chapter 15 baseline at the same final rendering resolution;
-- pages 227–242 were rendered and visually checked page by page at final size;
-- Chapter 16 starts on a clean new page through `page_break_before`, with no extra blank page;
-- new state/routing tables keep rows unsplit and multi-page operational tables repeat their headers cleanly;
-- the final `VERIFICA NELLA TUA AZIENDA` remains intact and readable, followed by the Chapter 16 synthesis and the reader-facing Part IV gate;
-- the Part IV gate continues cleanly onto the final page without clipped bullets, broken paragraphs or an orphan heading;
+- 257 pages total;
+- pages 1–242 are pixel-identical to the validated Chapter 16 manuscript at the same rendering resolution;
+- pages 243–257 were rendered and visually checked page by page at final size;
+- the Part V introduction fits cleanly on one page, and Chapter 17 starts on a clean new page through `page_break_before`;
+- all new table rows are protected from splitting and multi-page tables repeat their headers cleanly;
+- the argumentation map continues cleanly across pages and the final `VERIFICA NELLA TUA AZIENDA` remains intact on one page;
+- the error/practice/example callouts remain in the intended flow and no extra blank page was introduced;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part V — `Comunicazione e vendita` — with its reader-facing introduction, then continue with:
+Continue Part V with:
 
-**Chapter 17 — `Argomentazione commerciale`.**
+**Chapter 18 — `Copywriting`.**
 
 Frozen sections:
 
-- 17.1 `Dalla ricerca all'argomento`
-- 17.2 `Problema, conseguenze e risultato`
-- 17.3 `Meccanismo e ragione per credere`
-- 17.4 `Prova e obiezioni`
-- 17.5 `Continuità tra fonte, messaggio e destinazione`
+- 18.1 `Apertura e attenzione`
+- 18.2 `Sequenza delle convinzioni`
+- 18.3 `Claim, meccanismo e prova`
+- 18.4 `Storie e testimonianze`
+- 18.5 `Prezzo, rischio e obiezioni`
+- 18.6 `Call to action e test`
 
-Part V then continues with Copywriting, Vendita consulenziale and Follow-up/gestione vendite according to the frozen architecture.
+Part V then continues with `Vendita consulenziale` and `Follow-up e gestione delle vendite` according to the frozen evidence → argument → execution → live sale → management-over-time sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
