@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 12 / PART IV OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 13 / PART IV OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -101,6 +101,7 @@ Reader-facing production completed through:
 - Chapter 10 — `Offerta`
 - Chapter 11 — `Prezzo`
 - Chapter 12 — `Fiducia e prova`
+- Chapter 13 — `Domanda e consapevolezza`
 
 Part introductions completed:
 
@@ -128,17 +129,19 @@ The Part III transition gate makes the prerequisite for acquisition explicit: be
 
 The Part IV introduction opens the proof → demand → access → orchestration sequence. Chapter 12 then separates authority, credibility and relational trust; classifies proof by the uncertainty it can actually reduce; distinguishes testimonials from structured cases; places proof next to the claim or risk it must support; and turns accumulated evidence into a reusable proof library. It includes a proof matrix and a final business verification focused on gaps rather than vanity counts.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 12 after the Part IV reader-facing introduction.
+Chapter 13 maps demand before channel choice. It separates relationship ownership from demand state, distinguishes active from latent demand, defines awareness levels without treating them as fixed identities, separates interest from commercial intent, adds timing/trigger as an independent variable and calibrates education versus directness to the actual distance from a decision. It includes a reusable demand/directness map and keeps routing, automation and channel mechanics in their later chapters.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 13.
 
 Latest manuscript QA:
 
-- 183 pages total;
-- pages 1–169 are pixel-identical to the validated Chapter 11 render when rendered with the same final settings;
-- pages 170–183 were rendered and visually checked page by page at final size;
-- Part IV and Chapter 12 both start on clean new pages through `page_break_before`, with no extra blank page;
-- comparison tables repeat cleanly and rows remain unsplit;
-- the authority/proof callouts, worked example, proof matrix and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
-- the final verification box remains intact on its page, followed by the Chapter 12 synthesis and transition to demand;
+- 197 pages total;
+- pages 1–183 are pixel-identical to the validated Chapter 12 render at the same rendering resolution;
+- pages 184–197 were rendered and visually checked page by page at final size;
+- Chapter 13 starts on a clean new page through `page_break_before`, with no extra blank page;
+- multi-page demand, awareness, intent, timing and operational-map tables repeat their headers cleanly and rows remain unsplit;
+- the automatic Word numbering inherited from earlier manuscript lists was removed from the Chapter 13 decision variables and final verification, so visible numbering now starts correctly at 1 and remains deterministic;
+- the error/practice/example callouts, operational map and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
@@ -147,16 +150,16 @@ Latest manuscript QA:
 
 Continue Part IV with:
 
-**Chapter 13 — `Domanda e consapevolezza`.**
+**Chapter 14 — `Canali di acquisizione`.**
 
 Frozen sections:
 
-- 13.1 `Domanda posseduta, attiva e latente`
-- 13.2 `Livelli di consapevolezza`
-- 13.3 `Intento e interesse`
-- 13.4 `Timing della domanda`
-- 13.5 `Educazione e directness`
+- 14.1 `Il ruolo del canale`
+- 14.2 `Online e offline`
+- 14.3 `Canali organici, a pagamento e diretti`
+- 14.4 `Economia del canale`
+- 14.5 `Multicanalità e coordinamento`
 
-Part IV then continues with direct channels, borrowed/distributed access and acquisition orchestration according to the frozen proof → demand → access → orchestration sequence.
+Part IV then continues with borrowed/distributed access in Chapter 15 and acquisition orchestration in Chapter 16 according to the frozen proof → demand → access → orchestration sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
