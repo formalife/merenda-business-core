@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from __future__ import annotations
 
 import json
@@ -9,7 +8,6 @@ ROOT = Path(__file__).resolve().parents[1]
 EVAL_DIR = ROOT / "evals" / "routing"
 MAP_DIR = ROOT / "reviews" / "drafts"
 SUPPLEMENT = MAP_DIR / "SEMANTIC_UNIT_SUPPLEMENT_V2.json"
-GOLD = EVAL_DIR / "semantic_gold_v2.jsonl"
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 PROVENANCE = {"MERENDA_PRIMARY", "ASSIMILATED", "SYNTHESIS"}
 
@@ -69,16 +67,20 @@ def load_registry() -> dict[str, dict]:
 
 def load_gold() -> dict[str, dict]:
     out: dict[str, dict] = {}
-    for lineno, raw in enumerate(GOLD.read_text(encoding="utf-8").splitlines(), start=1):
-        if not raw.strip():
-            continue
-        row = json.loads(raw)
-        cid = row.get("case_id")
-        if not isinstance(cid, str) or not cid:
-            raise ValueError(f"{GOLD}:{lineno}: missing case_id")
-        if cid in out:
-            raise ValueError(f"duplicate semantic gold case: {cid}")
-        out[cid] = row
+    files = sorted(EVAL_DIR.glob("semantic_gold*.jsonl"))
+    if not files:
+        raise ValueError("no semantic gold files found")
+    for path in files:
+        for lineno, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+            if not raw.strip():
+                continue
+            row = json.loads(raw)
+            cid = row.get("case_id")
+            if not isinstance(cid, str) or not cid:
+                raise ValueError(f"{path}:{lineno}: missing case_id")
+            if cid in out:
+                raise ValueError(f"duplicate semantic gold case: {cid} ({path.name}:{lineno})")
+            out[cid] = row
     return out
 
 

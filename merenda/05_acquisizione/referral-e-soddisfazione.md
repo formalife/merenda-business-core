@@ -30,7 +30,7 @@ Può occuparsene il titolare, personale interno o un'azienda di telemarketing ad
 
 La soddisfazione non genera automaticamente un passaparola attivo. Bisogna dire esplicitamente che si cercano segnalazioni, aiutare i clienti e fornire strumenti: non sono venditori addestrati. L'esempio è consegnare più copie di un libro da regalare a persone che potrebbero avere bisogno dell'offerta. Il materiale porta il nuovo contatto dentro la comunicazione dell'azienda, superando la difficoltà del semplice «chiama questo numero». Il relatore cita anche incentivi, senza definirne qui un piano. [Parte 2, 19:40–24:58](https://www.youtube.com/watch?v=GesepBOY5E8&t=1180s)
 
-Collegamenti: [prequalifica e follow-up](../06_vendita/prequalifica-follow-up-decisori.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md), [appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md).
+Collegamenti: [prequalifica e handoff marketing → vendita](../06_vendita/prequalifica-e-handoff-marketing-vendita.md), [cassa e capacità di crescita](../09_business/numeri-cassa-e-crescita.md), [appropriatezza e qualità economica dei clienti](../01_mercato/appropriatezza-clienti.md).
 
 ## Proteggere la reputazione di chi presenta
 
@@ -74,7 +74,56 @@ Gli incentivi vanno dimensionati su margine e valore atteso del nuovo cliente e 
 
 Fonte: [Il Modo Più Facile Per FARE MARKETING e Trovare CLIENTI [Subito]](https://www.youtube.com/watch?v=SK338MdNIy0), 27 giugno 2024. [Revisione](../../sources/transcripts/SK338MdNIy0.review.md).
 
+## Referral vs introduction — profondità assimilata Sandler
 
+La dottrina Sandler aggiunge una distinzione utile:
+
+- **referral** — il cliente fornisce un nome/contatto;
+- **introduction** — il cliente crea attivamente il ponte e mette il nuovo contatto “sul radar” dell'azienda/professionista.
+
+La seconda può trasferire più contesto e fiducia, ma non va richiesta con pressione.
+
+### Rendere la richiesta specifica
+
+Due modi assimilati e compatibili con la doctrine Merenda:
+
+1. individuare insieme una **persona specifica** già visibile nella rete del cliente;
+2. fare brainstorming su **caratteristiche osservabili** di persone per cui la soluzione può essere pertinente e generare nomi prima di decidere chi sia opportuno introdurre.
+
+Evitare richieste astratte equivalenti a “conosci qualcuno che potrebbe comprare?”.
+
+### Brainstorm first, qualify second
+
+Separare:
+
+1. generazione di possibili nomi;
+2. verifica di pertinenza;
+3. decisione se il cliente è a proprio agio nel fare l'introduzione;
+4. scelta del modo concreto di introdurre.
+
+Questo riduce pressione e impedisce al cliente di dover “vendere” per conto dell'azienda.
+
+### Chi non vuole presentare va lasciato tranquillo
+
+Una fonte Sandler istituzionale usa un'euristica 20-60-20. La KB **non importa le percentuali come fatto**.
+
+Conserva il meccanismo:
+
+- alcune persone presenteranno spontaneamente;
+- alcune possono essere aiutate da un processo migliore;
+- alcune non sono a proprio agio e non devono essere spinte.
+
+## Timing della richiesta: sintesi finale
+
+Merenda insegna sia la richiesta dopo vendita sia il momento di massimo successo; Sandler collega referral anche al Post-Sell e a review di valore successive.
+
+La KB non impone un unico momento.
+
+Principio:
+
+**chiedere quando esiste abbastanza fiducia/valore da rendere l'introduzione reputazionalmente difendibile per il cliente.**
+
+Un risultato appena realizzato è un trigger particolarmente forte, ma non l'unico possibile. La firma da sola non crea automaticamente diritto alla referral.
 
 ## Attribuire il referral: sapere chi genera clienti, quanto valore produce e quando si ferma
 
@@ -109,3 +158,7 @@ Il principio non è premiare automaticamente chiunque segnali. È rendere osserv
 I rapporti di conversione e gli studi citati nella fonte non diventano benchmark universali.
 
 Fonte assimilata: Moreno Bonechi, “Stai Facendo ai Tuoi Clienti Quello che Sky Ha Fatto ai Suoi per Dodici Anni?”, 11 agosto 2026. Review: ../../sources/merenda-sources/FM-SRC-0062/review.md.
+
+## Provenance dell'integrazione
+
+Le sezioni `Referral vs introduction` e `Timing della richiesta` incorporano **ASSIMILATED — Sandler**. Il resto conserva Merenda Primary e le assimilazioni già presenti. La riconciliazione completa è documentata in `../../reviews/SANDLER_MERENDA_CROSSWALK_2026-09-22.md`.

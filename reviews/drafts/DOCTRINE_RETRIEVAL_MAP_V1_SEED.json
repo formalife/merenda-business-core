@@ -114,11 +114,11 @@
   },
   {
     "id":"SALES.DIAGNOSE_BEFORE_PRESCRIBE","label":"Vendita come diagnosi prima della prescrizione","status":"current",
-    "canonical":{"path":"merenda/06_vendita/preventivo-consulenza-diagnosi.md","anchor":null},"kind":"process",
-    "canonical_for":["sales_diagnosis","sales_prescription"],"use_when":["appuntamenti ma bassa chiusura","script più aggressivo"],
-    "not_sufficient_for":["sostituire prequalifica, prova, offerta o follow-up"],"upstream":["POSITIONING.OPERATIONAL_DIFFERENCE"],"must_read_with":[],
-    "evidence_required":["problema","conseguenze","tentativi precedenti","criteri decisionali","prescrizione"],"provenance":{"class":"MERENDA_PRIMARY","notes":null},
-    "supersession":{"supersedes":[],"superseded_by":[]},"related":[],"eval_cases":["R010"]
+    "canonical":{"path":"merenda/06_vendita/diagnosi-e-pain.md","anchor":null},"kind":"process",
+    "canonical_for":["sales_diagnosis","sales_prescription"],"use_when":["appuntamenti ma bassa chiusura","script più aggressivo","presentazione prematura"],
+    "not_sufficient_for":["sostituire prequalifica, Budget, Decision, prova, offerta o follow-up"],"upstream":["POSITIONING.OPERATIONAL_DIFFERENCE"],"must_read_with":[],
+    "evidence_required":["problema","conseguenze","tentativi precedenti","impatto","prescrizione coerente"],"provenance":{"class":"MERENDA_PRIMARY","notes":"Il canonical node integra Pain Sandler assimilato, ma diagnosis-before-prescription resta principio Merenda Primary."},
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":["SALES.PAIN_QUALIFICATION","SALES.BUDGET_QUALIFICATION","SALES.DECISION_QUALIFICATION"],"eval_cases":["R010","R033"]
   },
   {
     "id":"CUSTOMER.SUCCESS_BEFORE_RETENTION_TACTIC","label":"Esperienza e risultato prima della tattica di retention","status":"current",
@@ -128,7 +128,7 @@
     "must_read_with":[{"id":"MARKET.NATURAL_CUSTOMER_EXPIRY","when":"il bisogno può terminare naturalmente"}],
     "evidence_required":["onboarding","adozione","risultato","esperienza","motivo uscita"],
     "provenance":{"class":"SYNTHESIS","notes":"Verificare provenance locale per attribuzioni specifiche."},
-    "supersession":{"supersedes":[],"superseded_by":[]},"related":[],"eval_cases":["R008","R019"]
+    "supersession":{"supersedes":[],"superseded_by":[]},"related":[],"eval_cases":["R008","R019","R041"]
   },
   {
     "id":"ECONOMICS.CUSTOMER_PROFITABILITY","label":"Profitto reale per cliente e whale curve","status":"current",

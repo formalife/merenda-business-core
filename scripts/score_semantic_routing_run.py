@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from __future__ import annotations
 
 import argparse
@@ -7,19 +6,23 @@ from pathlib import Path
 from statistics import mean
 
 ROOT = Path(__file__).resolve().parents[1]
-GOLD = ROOT / "evals" / "routing" / "semantic_gold_v2.jsonl"
+EVAL_DIR = ROOT / "evals" / "routing"
 
 
 def load_gold() -> dict[str, dict]:
     out: dict[str, dict] = {}
-    for raw in GOLD.read_text(encoding="utf-8").splitlines():
-        if not raw.strip():
-            continue
-        row = json.loads(raw)
-        cid = row["case_id"]
-        if cid in out:
-            raise ValueError(f"duplicate gold case: {cid}")
-        out[cid] = row
+    files = sorted(EVAL_DIR.glob("semantic_gold*.jsonl"))
+    if not files:
+        raise ValueError("no semantic gold files found")
+    for path in files:
+        for lineno, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+            if not raw.strip():
+                continue
+            row = json.loads(raw)
+            cid = row["case_id"]
+            if cid in out:
+                raise ValueError(f"duplicate gold case: {cid} ({path.name}:{lineno})")
+            out[cid] = row
     return out
 
 

@@ -18,7 +18,7 @@ Nel [caso CosMc's](../02_posizionamento/esempi-di-differenziazione.md#cosmcs-ste
 
 [Marketing del personale](marketing-del-personale.md): trattare recruiting e proposta di lavoro come target, offerta, campagna e conversione, poi sostenere la retention con struttura e condizioni credibili.
 
-[Retention, onboarding e customer success](retention-onboarding-e-customer-success.md): progettare onboarding, uso, supporto, feedback e correzione continua per ridurre churn evitabile e aumentare il valore reale della relazione.
+[Retention, onboarding e customer success](retention-onboarding-e-customer-success.md): onboarding, valore realizzato, supporto/feedback, handoff strutturato, review di valore, rischio, retention, KARE/account strategy e expansion basata su bisogni reali. È la gestione continuativa **dopo** il Post-Sell commerciale, non un ottavo step della vendita.
 
 [Exit readiness e trasferibilità dell'impresa](exit-readiness-e-trasferibilita.md): progettare ruoli, decision rights, KPI e processi affinché l'azienda possa funzionare e avere valore anche senza il fondatore operativo.
 
