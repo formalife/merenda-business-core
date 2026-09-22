@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 22 / PART VI OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 23 / PART VI OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -111,6 +111,7 @@ Reader-facing production completed through:
 - Chapter 20 — `Follow-up e gestione delle vendite`
 - Chapter 21 — `Esperienza del cliente`
 - Chapter 22 — `Retention`
+- Chapter 23 — `Seconda vendita e referral`
 
 Part introductions completed:
 
@@ -166,36 +167,40 @@ The Part VI introduction opens the promise → experience → value → continui
 
 Chapter 22 defines retention against the natural duration and frequency of the relationship rather than as indefinite customer permanence. It makes the unit of retention explicit by business model, compares expected frequency with observed recency/behavior, uses risk signals as triggers for verification rather than automatic diagnoses, separates reactivation from true recapture, and distinguishes natural exit from avoidable churn. It includes a reusable retention/risk/churn map and preserves second sale, continuity offers and referral for Chapter 23.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 22.
+Chapter 23 moves from preserving an appropriate relationship to generating value after the first result. It treats the second transaction as a designed bridge rather than an accidental repeat purchase, allows continuity only where recurring value is real, requires subsequent offers to follow verified need and timing, treats referral as a reputational transfer that must be earned and facilitated, and turns reviews/testimonials/cases into structured customer-generated proof. It includes a reusable post-purchase value map linking second transaction, continuity, referral attribution and proof collection while preserving accumulated market memory for Chapter 24.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 23.
 
 Latest manuscript QA:
 
-- 327 pages total;
-- pages 1–315 are pixel-identical to the validated Chapter 21 manuscript at the same 850×1200 rendering dimensions;
-- pages 316–327 were rendered and visually checked page by page at final QA size;
-- Chapter 22 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
+- 339 pages total;
+- pages 1–327 are pixel-identical to the validated Chapter 22 manuscript at the same 72-dpi rendering resolution;
+- pages 328–339 were rendered at 96 dpi and visually checked page by page;
+- Chapter 23 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
 - all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- the relationship-type table, risk-signal table and multi-page retention/risk/churn operating sheet remain readable across page boundaries;
-- error, practice and worked-example callouts remain intact without split headers or adjacent-table artifacts;
-- the final `VERIFICA NELLA TUA AZIENDA` remains intact and the Chapter 23 bridge stays on the same final page, with no orphan continuation;
+- the continuity table and multi-page post-purchase value map remain readable across page boundaries;
+- practice, worked-example, error and final verification callouts remain intact without split headers or adjacent-table artifacts;
+- an initial orphan final continuation page was removed by tightening the verification block while preserving its decision logic;
+- the final `VERIFICA NELLA TUA AZIENDA` and the Chapter 24 bridge now fit cleanly on the same final page;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue Part VI with:
+Continue and close Part VI with:
 
-**Chapter 23 — `Seconda vendita e referral`.**
+**Chapter 24 — `Brand e reputazione`.**
 
 Frozen sections:
 
-- 23.1 `Il secondo acquisto`
-- 23.2 `Continuità e ricorrenza`
-- 23.3 `Offerta successiva dopo il valore`
-- 23.4 `Referral`
-- 23.5 `Recensioni e prova generata dal cliente`
+- 24.1 `Posizionamento e brand`
+- 24.2 `Accumulazione della memoria di mercato`
+- 24.3 `Reputazione e stakeholder`
+- 24.4 `Media e relazioni pubbliche`
+- 24.5 `Crisi e riparazione`
+- 24.6 `Community e appartenenza`
 
-Part VI then continues with Chapter 24 — `Brand e reputazione` — before its reader-facing transition gate.
+After Chapter 24, produce the Part VI `Prima di proseguire` transition gate before opening Part VII.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
