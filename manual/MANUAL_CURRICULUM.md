@@ -2,7 +2,7 @@
 
 ## Stato
 
-**PHASE 3 — APPROVED / PASS 2026-09-20**
+**PHASE 3 — APPROVED / REVALIDATED 2026-09-22 AFTER SALES INTEGRATION**
 
 Questo documento trasforma il prerequisite graph e la primary-home map in un percorso didattico beginner-first.
 
@@ -13,6 +13,8 @@ Principio di costruzione:
 **prima capire il sistema → poi scegliere il mercato → poi creare ragione di scelta e offerta → poi generare e convertire domanda → poi mantenere la promessa → poi leggere economics/capacità → infine standardizzare, scalare ed espandere.**
 
 Il lettore non deve usare operativamente un concetto prima che sia stato definito abbastanza da comprenderlo.
+
+La rifusione 2026-09-22 non cambia la struttura da 39 capitoli: aumenta la profondità di prospecting, qualification, sales performance e customer success nelle case didattiche già corrette.
 
 ---
 
@@ -29,11 +31,11 @@ Al termine del manuale il lettore deve saper:
 7. costruire una differenza reale e una posizione comprensibile;
 8. progettare offerta, front-end, back-end, risk reversal e prezzo;
 9. costruire authority, credibility e proof coerenti con il rischio della decisione;
-10. classificare domanda, awareness, intent e timing prima di scegliere canali;
+10. classificare domanda, awareness, intent e timing prima di scegliere canali e costruire un sistema di prospecting misurabile quando nuova acquisizione diretta è giustificata;
 11. costruire database, funnel e percorsi adattivi come sistemi di stati e transizioni;
 12. scrivere comunicazione a risposta diretta a partire da strategia, VoC, prova e next step;
-13. progettare e gestire una vendita consulenziale end-to-end;
-14. progettare onboarding, customer success, seconda vendita, retention, riattivazione e referral;
+13. progettare e gestire una vendita consulenziale end-to-end distinguendo prequalifica da qualification e verificando problema, investimento e processo decisionale prima della proposta;
+14. progettare onboarding, customer success, account growth, seconda vendita, retention, riattivazione e referral senza trasformare soddisfazione o segnali operativi in vendita automatica;
 15. capire come esperienza, prova, reputazione e community accumulano brand nel tempo;
 16. leggere unit economics, cash conversion e capacity economics prima di scalare;
 17. trasformare un processo validato in ruoli, KPI, handoff, automazioni e governance;
@@ -308,13 +310,13 @@ Include libri/media/casi/testimonial come asset, non come tattiche obbligatorie.
 
 ---
 
-## Capitolo 16 — Scegliere canali, modalità e ritmo
+## Capitolo 16 — Scegliere canali, modalità, prospecting e ritmo
 
-**Domanda:** quale mezzo merita di essere usato per questo stato e questa economia?  
-**Learning outcome:** scegliere canale/formato per funzione, target, intento, costo e capacità.  
+**Domanda:** quale mezzo merita di essere usato per questo stato e questa economia e, quando serve outbound, come viene trasformato in un sistema misurabile?  
+**Learning outcome:** scegliere canale/formato per funzione, target, intento, costo e capacità e tradurre il fabbisogno di pipeline in nuove conversazioni, fonti e comportamenti controllabili.  
 **Prerequisiti:** Capp. 2, 11, 15.  
 **Dependency:** D-15.  
-**Primary homes:** MKT channel/mode/continuity.
+**Primary homes:** MKT channel/mode/continuity + ACQ-068…ACQ-076.
 
 Include:
 
@@ -322,6 +324,14 @@ Include:
 - one-to-one / one-to-many;
 - known / unknown;
 - online/offline come falsa dicotomia;
+- prospecting come new-business system, non sinonimo di cold calling;
+- nuova conversazione come unità di pianificazione;
+- portafoglio di fonti e contributo atteso per fonte;
+- behavior plan distinto dal piano delle fonti;
+- appointment-first quando il primo contatto serve ad aprire una conversazione successiva;
+- light qualification ≠ full qualification;
+- gatekeeper senza inganno;
+- nessuna formula universale di first-touch voicemail;
 - eventi proprietari come applicazione condizionale;
 - formato più economico ≠ formato economicamente migliore.
 
@@ -395,41 +405,67 @@ Esercizio: trasformazione di materia strategica in outline di sales letter.
 
 ## Capitolo 22 — Handoff, presa in carico e prequalifica
 
-**Domanda:** che cosa deve sapere la vendita prima di iniziare una conversazione costosa?  
-**Learning outcome:** progettare handoff, speed-to-lead, fit economico, stakeholder e timeframe.  
-**Prerequisiti:** Capp. 17–18.  
+**Domanda:** che cosa deve sapere la vendita prima di iniziare una conversazione costosa e che cosa deve ancora verificare prima della proposta?  
+**Learning outcome:** progettare handoff e prequalifica senza confonderli con qualification: marketing riduce incertezza, sales verifica problema, investimento/risorse e processo decisionale.  
+**Prerequisiti:** Capp. 16–18.  
 **Dependency:** D-20.  
-**Primary homes:** SAL early units; ACQ-066 supporting.
+**Primary homes:** SAL early units + SAL-072; ACQ-066/ACQ-074 supporting.
+
+Boundary didattico obbligatorio:
+
+**prequalifica ≠ qualification.**
 
 ---
 
-## Capitolo 23 — Vendita consulenziale end-to-end
+## Capitolo 23 — Vendita consulenziale: qualificare prima di prescrivere
 
-**Domanda:** come si accompagna una decisione senza ridurre la vendita a pitch e pressione?  
-**Learning outcome:** eseguire diagnosi → criteri → prescrizione → proof → proposta → verifica delle certezze → decisione.  
+**Domanda:** come si accompagna una decisione senza ridurre la vendita a pitch e pressione e senza presentare prima di aver verificato il fit?  
+**Learning outcome:** governare relazione/processo → problema → investimento → decision process → fulfillment selettivo → decisione → Post-Sell, includendo disqualification quando il fit non regge.  
 **Prerequisiti:** Capp. 11–14, 22.  
 **Dependency:** D-21.  
-**Primary homes:** SAL core / G-001 synthesis.
+**Primary homes:** SAL core + SAL-073…SAL-096 / G-001 synthesis.
+
+Include:
+
+- parità professionale e accordo sul processo della conversazione;
+- problema dichiarato ≠ problema qualificato;
+- quantificazione dell'impatto quando pertinente;
+- investimento come willingness + ability + risorse;
+- decisione come processo/stakeholder/criteri/timing;
+- process first, people second;
+- qualify/disqualify before present;
+- proposta selettiva;
+- readiness check come diagnosi, non algoritmo di closing;
+- tattiche conversazionali subordinate al processo;
+- Post-Sell immediato distinto dal lifecycle.
 
 Caso previsto: SC-003 Vendita end-to-end.
 
 ---
 
-## Capitolo 24 — Follow-up, recovery e sales management
+## Capitolo 24 — Follow-up, pipeline e sistema di performance della rete vendita
 
 **Domanda:** che cosa succede al no, al silenzio e alla performance variabile della rete?  
-**Learning outcome:** classificare non-conversioni, progettare follow-up e rendere il processo allenabile/misurabile.  
-**Prerequisiti:** Capp. 17, 23.  
+**Learning outcome:** classificare non-conversioni per stato reale e costruire un sistema di performance che distingue Behavior/Attitude/Technique, collega goal a behavior plan, practice/coaching, pipeline quality e risultati economici.  
+**Prerequisiti:** Capp. 17, 22–23.  
 **Dependency:** D-22/D-23.  
-**Primary homes:** SAL-040…SAL-068.
+**Primary homes:** SAL baseline follow-up/management + SAL-097…SAL-110.
 
 Include:
 
 - lost reason vs etichetta;
 - next step con data;
 - pipeline age/last activity;
+- silenzio post-proposta come possibile problema a monte;
+- follow-up differenziato per no/not-now/gap/silenzio/never-reached;
 - script come coreografia diagnostica;
-- role-play/review;
+- Behavior/Attitude/Technique come categorie di diagnosi;
+- behavior plan e activity math basati su rapporti osservati;
+- quattro livelli: activity, skill, pipeline quality, business outcome;
+- role-play/reinforcement;
+- pre-call planning/post-call debrief;
+- coaching loop e accountability anche del leader;
+- pipeline review oltre il forecast;
 - sales capacity e specializzazione dei ruoli.
 
 ---
@@ -438,25 +474,29 @@ Include:
 
 ## Capitolo 25 — Onboarding e customer success
 
-**Domanda:** come faccio sì che la promessa commerciale diventi valore reale?  
-**Learning outcome:** progettare primo valore, uso corretto, supporto, feedback e correzione.  
-**Prerequisiti:** Capp. 11–13.  
+**Domanda:** come faccio sì che la promessa commerciale diventi valore reale senza perdere il contesto della decisione nel passaggio a delivery?  
+**Learning outcome:** progettare handoff strutturato, primo valore, uso corretto, supporto, success criteria, review, rischio e correzione.  
+**Prerequisiti:** Capp. 11–13, 17, 23.  
 **Dependency:** D-24/D-25.  
-**Primary homes:** BUS-035…customer success cluster.
+**Primary homes:** BUS-035…customer success cluster + BUS-108…BUS-111; SAL-093 bridge.
+
+Include la distinzione fra supporto reattivo e customer success/account management proattivo.
 
 ---
 
-## Capitolo 26 — Il customer lifecycle completo
+## Capitolo 26 — Il customer lifecycle completo e la crescita dell'account
 
-**Domanda:** che cosa deve accadere dopo il primo acquisto?  
-**Learning outcome:** governare seconda vendita, continuità, inattività, riattivazione e uscita naturale in funzione della relazione attesa.  
-**Prerequisiti:** Capp. 6, 12, 17, 25.  
+**Domanda:** che cosa deve accadere dopo il primo acquisto e quando una nuova esigenza diventa una nuova opportunità commerciale?  
+**Learning outcome:** governare seconda vendita, account growth, continuità, inattività, riattivazione e uscita naturale in funzione della relazione attesa e del valore realizzato.  
+**Prerequisiti:** Capp. 6, 12, 17, 23, 25.  
 **Dependency:** D-26.  
-**Primary home:** G-008 synthesis / Business customer lifecycle.
+**Primary home:** G-008 synthesis / Business customer lifecycle + BUS-110…BUS-113.
 
 Sequenza:
 
-**durata/frequenza naturale → acquisto → onboarding → uso/risultato → next offer → comportamento atteso → deviazione → intervento → riattivazione o uscita naturale.**
+**durata/frequenza naturale → acquisto → onboarding → uso/valore → stato/nuova evidenza → next need o rischio → intervento → se nasce nuova opportunity, requalification → continuità/expansion/riattivazione/uscita.**
+
+Caveat obbligatorio: soddisfazione ≠ automatic upsell; Customer Success ≠ ottavo step della vendita.
 
 Caso previsto: SC-004 Customer lifecycle.
 
@@ -704,14 +744,24 @@ Il termine deve essere definito nel testo al primo utilizzo significativo; il gl
 | awareness | Cap. 15 |
 | intent | Cap. 15 |
 | domanda posseduta/attiva/latente | Cap. 15 |
+| prospecting / outbound / nuova conversazione | Cap. 16 |
 | funnel | Cap. 18 |
 | state machine / routing / fallback | Cap. 18 |
 | direct response | Cap. 21 |
 | CTA | Cap. 20–21 |
 | prequalifica | Cap. 22 |
+| qualification / disqualification | Cap. 22–23 |
+| problema qualificato / Pain | Cap. 23 |
+| investimento / Budget | Cap. 23 |
+| decision process / stakeholder | Cap. 23 |
+| readiness / Post-Sell | Cap. 23 |
 | sales pipeline | Cap. 24 |
+| Behavior / Attitude / Technique | Cap. 24 |
+| behavior plan / coaching / accountability | Cap. 24 |
 | customer success | Cap. 25 |
+| value review | Cap. 25 |
 | retention / churn | Cap. 26 |
+| account growth / expansion | Cap. 26 |
 | referral | Cap. 27 |
 | reputazione | Cap. 28 |
 | brand community / advocacy | Cap. 29 |
@@ -730,19 +780,23 @@ Il termine deve essere definito nel testo al primo utilizzo significativo; il gl
 
 # Coverage check contro primary-home map
 
-Tutti i cluster primari della Fase 2 hanno almeno una casa nel curriculum:
+Tutti i cluster primari e i delta di integrazione hanno almeno una casa nel curriculum:
 
 - fondamenti/metodo → Capp. 1–4;
 - mercato/cliente/VoC → Capp. 5–8;
 - positioning/focus/brand architecture → Capp. 9–10;
 - offer/front-end/back-end/pricing → Capp. 11–13;
 - authority/proof → Cap. 14;
-- demand/awareness/channel → Capp. 15–16;
+- demand/awareness/channel/prospecting → Capp. 15–16;
 - database/funnel/pre-education → Capp. 17–18;
 - partnership/distribution → Cap. 19;
 - copy → Capp. 20–21;
-- sales → Capp. 22–24;
-- onboarding/customer success/lifecycle → Capp. 25–27;
+- handoff/prequalifica → Cap. 22;
+- qualification/Fulfillment/decisione/Post-Sell → Cap. 23;
+- follow-up/sales performance/coaching → Cap. 24;
+- onboarding/customer success → Cap. 25;
+- lifecycle/account growth → Cap. 26;
+- referral/proof → Cap. 27;
 - reputation/community → Capp. 28–29;
 - economics/cash/capacity → Capp. 30–32;
 - process/governance/people/transferability → Capp. 33–35;
@@ -750,7 +804,7 @@ Tutti i cluster primari della Fase 2 hanno almeno una casa nel curriculum:
 - decision router/capstone → Cap. 39;
 - cases → distribuiti + capstone.
 
-Le 709 unità non vengono assegnate una per una in questo documento: la copertura è governata dalle case primarie definite in `PRIMARY_HOME_MAP.md`, che restano tracciabili ai crosswalk modulari.
+Le **763 unità** non vengono assegnate una per una in questo documento: la copertura è governata dalle case primarie e dai crosswalk modulari/delta, che restano tracciabili.
 
 ---
 
@@ -761,11 +815,13 @@ Il curriculum è lineare per insegnare. Il business è ciclico.
 Dopo aver presentato la sequenza end-to-end, il testo deve mostrare questi ritorni:
 
 - vendita → VoC / copy / offerta;
-- delivery → proof / positioning;
+- vendita → marketing/prequalifica quando lost reasons mostrano mismatch a monte;
+- delivery/customer success → proof / positioning / nuova evidenza commerciale;
+- nuova opportunity in account esistente → qualification, non automatic upsell;
 - database → target / timing / next offer;
 - churn/inattività → customer success / offer;
 - reviews/reputation → VoC / proof;
-- economics → canali / crescita;
+- economics → canali / prospecting / crescita;
 - capacity → intensità marketing;
 - expansion → nuovo market/positioning pass.
 
@@ -779,15 +835,17 @@ Questi feedback loop saranno richiamati localmente e ricomposti nel Cap. 39.
 2. **Brand è distribuito causalmente:** authority/proof prima di acquisition e vendita; reputazione/community dopo esperienza.
 3. **Copy arriva tardi:** non è una materia introduttiva ma la traduzione di ricerca, positioning, offer, proof e awareness.
 4. **Funnel = state machine:** non sequenza di pagine o software.
-5. **Vendita parte dall'handoff:** il lavoro prima della call è parte del sistema commerciale.
-6. **Lifecycle è uno:** seconda vendita, retention, riattivazione e referral non sono tattiche isolate.
-7. **Scale non è acquisition advanced:** è economics + cash + capacity + process + people + governance.
-8. **Expansion riapre il ciclo:** nuova nicchia/geografia/categoria richiede nuova diagnosi di mercato e posizione.
-9. **I casi seguono i concetti:** niente “capitolo storie” che obblighi il lettore a ricostruire da solo la lezione.
-10. **Il Cap. 39 ricompone il sistema:** il lettore termina sapendo decidere dove entrare, non soltanto ricordando l'ordine dei capitoli.
+5. **Prospecting è Acquisition:** viene dopo target/domanda/economics e produce conversazioni/opportunità; non è una versione compressa della trattativa.
+6. **Vendita parte dall'handoff ma qualifica dal vivo:** prequalifica non sostituisce problema, investimento e decision process; proposta solo dopo fit sufficiente.
+7. **Lifecycle è uno ma non è un'estensione del close:** Post-Sell immediato, Customer Success e nuova opportunity sono funzioni distinte; expansion rientra in qualification.
+8. **Sales performance è multilivello:** comportamento, skill, pipeline e outcome vanno letti insieme; più attività non è la correzione universale.
+9. **Scale non è acquisition advanced:** è economics + cash + capacity + process + people + governance.
+10. **Expansion riapre il ciclo:** nuova nicchia/geografia/categoria richiede nuova diagnosi di mercato e posizione.
+11. **I casi seguono i concetti:** niente “capitolo storie” che obblighi il lettore a ricostruire da solo la lezione.
+12. **Il Cap. 39 ricompone il sistema:** il lettore termina sapendo decidere dove entrare, non soltanto ricordando l'ordine dei capitoli.
 
 ---
 
 # Phase 3 gate
 
-**PASS — vedi `manual/PHASE3_AUDIT.md`.**
+**PASS — baseline `manual/PHASE3_AUDIT.md`; revalidation post-integrazione 2026-09-22 richiesta prima del drafting aggiornato.**
