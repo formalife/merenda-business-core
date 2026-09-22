@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 10 / PART III OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 11 / PART III CLOSED / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -99,6 +99,7 @@ Reader-facing production completed through:
 - Chapter 8 — `Posizionamento`
 - Chapter 9 — `Focalizzazione e categoria`
 - Chapter 10 — `Offerta`
+- Chapter 11 — `Prezzo`
 
 Part introductions completed:
 
@@ -109,6 +110,7 @@ Part introductions completed:
 Part transition gates completed:
 
 - Part II — `Prima di proseguire`
+- Part III — `Prima di proseguire`
 
 Chapters 6–7 complete the Part II lens → evidence → buying-decision logic. Chapter 6 teaches research as decision-oriented evidence production rather than generic surveying, with explicit separation of behavior, customer statements, interpretation and strategic hypothesis. Chapter 7 recomposes those evidences into the concrete structure of a buying decision: initial situation, desired result, consequences, alternatives, status quo, criteria, switching risk, trigger, timing and stakeholders. It includes a reusable buying-decision map.
 
@@ -118,35 +120,39 @@ Chapter 9 gives that position a center: focus, product guide, category, comparis
 
 Chapter 10 converts position and focus into a concrete commercial exchange. It defines offer structure, result/component logic, risk reduction, entry offers, transaction sequencing, upsell and cross-sell. It keeps offer design distinct from copy and pricing, links front-end economics to payback/capacity, and provides a reusable offer-and-sequence map.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 10.
+Chapter 11 closes Part III by treating price as a system variable rather than a slogan or a cost-plus afterthought. It connects pricing to contribution, customer selection, capacity, comparability, payment timing and cash; defines the prerequisites for premium pricing; distinguishes payment conditions from discounts; treats systematic discounting as both an economic choice and a diagnostic signal; and provides a reusable pricing-test sheet with explicit metrics and stop conditions.
+
+The Part III transition gate now makes the prerequisite for acquisition explicit: before amplifying demand, the reader should have a real reason to choose, a deliberate focus/category, a coherent offer and transaction sequence, a pricing logic compatible with target/economics and clearly labeled hypotheses that still require testing.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 11 and the Part III transition gate.
 
 Latest manuscript QA:
 
-- 153 pages total;
-- pages 1–137 are pixel-identical to the validated Chapter 9 render;
-- pages 138–153 were rendered and visually checked page by page;
-- an empty page initially created by an explicit page-break paragraph before Chapter 10 was removed and replaced with `page_break_before` on the chapter heading;
-- the risk table was corrected so rows do not split across pages and the header repeats on continuation;
-- chapter tables, callouts and the final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
+- 169 pages total;
+- pages 1–153 are pixel-identical to the validated Chapter 10 render when rendered with the same final settings;
+- pages 154–169 were rendered and visually checked at final size;
+- Chapter 11 starts on a clean new page through `page_break_before`, with no extra blank page;
+- multi-page pricing/payment worksheets repeat their headers and rows remain unsplit;
+- the `VERIFICA NELLA TUA AZIENDA` callout remains intact rather than splitting its header/content across pages;
+- the Part III `Prima di proseguire` gate is in normal reader-facing flow after the Chapter 11 conclusion;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Resume Part III production with:
+Open Part IV with its reader-facing introduction and then produce:
 
-**Chapter 11 — `Prezzo`.**
+**Chapter 12 — `Fiducia e prova`.**
 
 Frozen sections:
 
-- 11.1 `La funzione del prezzo`
-- 11.2 `Valore e comparabilità`
-- 11.3 `Prezzo premium`
-- 11.4 `Condizioni di pagamento`
-- 11.5 `Sconti e promozioni`
-- 11.6 `Testare il prezzo`
+- 12.1 `Autorità, credibilità e fiducia`
+- 12.2 `Tipi di prova`
+- 12.3 `Testimonianze e casi`
+- 12.4 `Prova nel punto di dubbio`
+- 12.5 `Costruire una libreria di prove`
 
-After Chapter 11, close Part III with its unnumbered `Prima di proseguire` transition gate.
+Part IV then continues with demand, direct channels, borrowed/distributed access and acquisition orchestration according to the frozen proof → demand → access → orchestration sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
