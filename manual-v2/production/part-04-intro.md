@@ -1,0 +1,13 @@
+# Parte IV — Fiducia, domanda e acquisizione
+
+La Parte III ha definito che cosa l'impresa vuole rendere preferibile e a quali condizioni economiche. Posizionamento, focalizzazione, offerta e prezzo hanno trasformato la conoscenza del mercato in una proposta concreta. Questo, però, non significa ancora che il mercato sia pronto a rispondere. Prima che una persona dedichi attenzione, denaro o tempo a una proposta deve considerarla abbastanza credibile da meritare una valutazione seria.
+
+La Parte IV affronta il passaggio dalla proposta alla domanda accessibile. L'ordine è importante. Il Capitolo 12 parte da **fiducia e prova** perché amplificare un messaggio non dimostrato significa soltanto esporre più persone allo stesso dubbio. Autorità, credibilità, testimonianze, casi e altre forme di prova servono a ridurre l'incertezza sulle affermazioni che contano nella decisione.
+
+Il Capitolo 13 distingue poi **domanda e consapevolezza**. Persone diverse possono avere lo stesso problema e trovarsi in stati molto differenti: alcune stanno già cercando una soluzione, altre riconoscono soltanto il problema, altre ancora non lo considerano una priorità. Questo cambia quanto bisogna educare, quanto si può essere diretti e quale tipo di risposta sia realistico aspettarsi.
+
+I Capitoli 14 e 15 riguardano l'**accesso al mercato**. Il primo esamina i canali diretti, online e offline, organici e a pagamento, insieme alla loro economia. Il secondo tratta l'accesso preso in prestito attraverso partner, distribuzione, endorsement e altre relazioni che permettono di raggiungere domanda già aggregata da qualcun altro. Il canale non viene quindi scelto per moda o familiarità, ma per il tipo di domanda, il target, il costo, il controllo e le dipendenze che introduce.
+
+Il Capitolo 16 ricompone questi elementi in **funnel e database**. Una persona non è definita soltanto dalla fonte da cui arriva: conta ciò che sa, ciò che ha fatto, ciò che manca prima della decisione e quale sia il prossimo passo economicamente sensato. Il funnel descrive il movimento tra questi stati; il database conserva memoria; routing, automazione e prequalifica aiutano a usare bene canali e tempo commerciale.
+
+L'obiettivo della Parte IV non è generare il maggior numero possibile di lead. È costruire un sistema che faccia arrivare alla vendita opportunità abbastanza informate, credibili e appropriate da meritare il costo del passo successivo. Prima di chiedere alla persuasione e alla trattativa di chiudere il lavoro, dobbiamo sapere che cosa il cliente deve credere, quale domanda stiamo intercettando, come la raggiungiamo e come ne manteniamo memoria.
