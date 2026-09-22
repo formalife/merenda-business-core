@@ -92,7 +92,6 @@ Questo collega customer success, marketing e operatività senza trasformarli nel
 - [Referral e soddisfazione](../05_acquisizione/referral-e-soddisfazione.md)
 - [Numeri, cassa e capacità di crescita](numeri-cassa-e-crescita.md)
 
-
 ## Dal segnale operativo all'opportunità: routing senza trasformare ogni tecnico in venditore
 
 Nel materiale del 1 settembre 2026 assimilato al corpus Merenda per istruzione dell'utente, Moreno Bonechi distingue tre oggetti che spesso finiscono nello stesso documento di assistenza:
@@ -122,7 +121,6 @@ Il principio completa il ciclo già presente **assistenza → causa → correzio
 **assistenza → segnale di bisogno reale → verifica → vendita**, senza confondere servizio e pressione commerciale.
 
 Fonte assimilata: Moreno Bonechi, “Nel «Rapportino» di Intervento C'è Quasi Sempre una Vendita Nascosta”, 1 settembre 2026. Review: ../../sources/merenda-sources/FM-SRC-0012/review.md.
-
 
 ## Retention a trigger: trasformare date e inattività in azioni prima che il cliente scompaia
 
@@ -168,7 +166,6 @@ La fonte propone cinque casi specifici; la KB conserva il framework generale dei
 
 Fonte assimilata: Moreno Bonechi, “Le 5 Automazioni Invisibili per Non Perdere Mai Più un Cliente”, 14 luglio 2026. Review: ../../sources/merenda-sources/FM-SRC-0071/review.md.
 
-
 ## Fare l'offerta successiva quando il valore appena consegnato è ancora evidente
 
 Nel materiale jAI del 2 marzo 2026 assimilato al corpus, la continuità viene collegata a un momento preciso della relazione: **subito dopo un risultato reale e riconosciuto dal cliente**.
@@ -198,7 +195,6 @@ Il principio completa onboarding e retention con una regola di **timing**: non l
 Le percentuali, le finestre temporali numeriche e i casi della fonte sono esempi.
 
 Fonte assimilata: Jay Abraham, Max Bernstein e Michael Simmons, “How Monetizing Trust Could Reveal $50,000+ Hiding In A Place No One Thought To Look”, 2 marzo 2026. Review: ../../sources/merenda-sources/FM-SRC-0081/review.md.
-
 
 ## Customer effort: il cliente non deve integrare i reparti al posto dell'azienda
 
@@ -247,3 +243,163 @@ La sequenza è:
 Questo si integra nel framework più recente di onboarding di questo nodo: il supporto fisico è una possibile implementazione quando migliora davvero comprensione, fiducia o avvio del cliente. Non è un requisito universale e non sostituisce qualità dell'erogazione e customer success.
 
 Fonte storica: Frank Merenda, “Il Paccone delle Meraviglie”. Review: ../../sources/merenda-sources/FM-SRC-0165/review.md.
+
+---
+
+# Handoff strutturato: la vendita deve trasferire il perché dell'acquisto
+
+La dottrina Sandler assimilata aggiunge un boundary importante fra **Post-Sell immediato** e Customer Success continuativo.
+
+Il Post-Sell della trattativa vive in `../06_vendita/fulfillment-proposta-decisione-e-post-sell.md` e stabilizza decisione, dubbi, aspettative e primi passi.
+
+Da quel punto in avanti, l'handoff deve trasferire almeno:
+
+- che cosa significa successo per il buyer economico;
+- come verrà misurato;
+- quale problema di business si sta risolvendo;
+- quali rischi/politiche interne possono rallentare adozione;
+- quale tipping point ha fatto decidere il cliente;
+- promesse e condizioni rilevanti già concordate.
+
+Principio di sintesi:
+
+**non trasferire soltanto ordine/contratto: trasferire il contesto causale della decisione.**
+
+Questo riduce customer effort e impedisce al cliente di ripetere da zero la propria storia al delivery.
+
+---
+
+# Customer Success: valore realizzato, non solo supporto reattivo
+
+La dottrina Sandler corrente rafforza una distinzione già coerente con Merenda:
+
+- **customer service** — risponde a problemi/richieste;
+- **customer success / account management proattivo** — aiuta a far realizzare valore, rende visibili rischi, rinnovi ed eventuali opportunità di expansion.
+
+Principio finale:
+
+**la firma crea il diritto di consegnare valore; non prova che il valore sia stato realizzato.**
+
+La gestione continuativa deve quindi osservare:
+
+- tempo al primo valore;
+- uso/adozione;
+- problemi e attriti;
+- criteri di successo concordati;
+- cambiamenti nella situazione del cliente;
+- rischio di churn;
+- nuove esigenze reali.
+
+---
+
+# Review di valore: cadence guidata dal cliente, non dal calendario per fede
+
+Sandler contiene il concetto di **Quarterly Value Review (QVR)** in una fonte corporate datata.
+
+La KB conserva il meccanismo e non universalizza i 90 giorni.
+
+Una review periodica deve chiedere:
+
+- stiamo ancora lavorando sui problemi più importanti?;
+- stiamo realmente consegnando il valore promesso?;
+- che cosa è cambiato?;
+- sono emersi rischi, bisogni o stakeholder nuovi?;
+
+La frequenza deve essere coerente con:
+
+- ritmo di cambiamento del cliente;
+- ciclo del prodotto/servizio;
+- valore/rischio dell'account;
+- economics della relazione.
+
+---
+
+# Evitare relazioni single-threaded
+
+Un account importante che dipende da una sola persona è fragile.
+
+Quando appropriato, conoscere più stakeholder riduce il rischio che:
+
+- cambio ruolo;
+- uscita dall'azienda;
+- cambio di priorità;
+- perdita di sponsor
+
+azzerino il contesto della relazione.
+
+Non significa aggirare il referente o creare politica interna. Significa costruire una relazione coerente con il modo in cui il valore viene realmente usato e valutato.
+
+---
+
+# Expansion: estensione del valore, non pitch automatico
+
+Nuove opportunità possono emergere da:
+
+- nuovi use case;
+- altri reparti;
+- nuove priorità;
+- nuovo budget;
+- problemi emersi durante delivery;
+- risultati già ottenuti.
+
+La sequenza finale è:
+
+**valore/problema reale → verifica → nuova opportunità → normale processo commerciale.**
+
+Non vendere automaticamente perché il cliente è già acquisito.
+
+Quando nasce una nuova decisione materiale, rientrano qualification, investimento e decision process.
+
+---
+
+# KARE come lente di portafoglio
+
+La dottrina Sandler assimila una semplice lente di account strategy:
+
+- **Keep** — proteggere valore/relazione esistente;
+- **Attain** — conquistare nuovi account;
+- **Recapture** — riaprire relazioni perse;
+- **Expand** — aumentare valore dentro account esistenti.
+
+KARE **non** è:
+
+- uno step aggiuntivo del processo di vendita;
+- una pipeline cronologica;
+- un obbligo di fare Keep sempre prima.
+
+È una griglia per decidere dove concentrare energia.
+
+Le singole iniziative ritornano nei rispettivi processi:
+
+- Attain → acquisizione/prospecting;
+- Recapture → riattivazione;
+- Expand → nuova qualification dentro account;
+- Keep → retention/customer success.
+
+---
+
+# PACE: boundary
+
+Sandler usa oggi il nome **PACE** per un framework Customer Success, ma il materiale acquisito non ne definisce lettere/procedura.
+
+La KB non completa l'acronimo dalla memoria e non crea una procedura inesistente.
+
+---
+
+# Referral e customer success
+
+Un risultato reale o una review di valore positiva può essere un buon momento per chiedere un'introduction/referral.
+
+Ma:
+
+- non ogni cliente soddisfatto deve essere sollecitato;
+- non ogni problema risolto deve diventare upsell;
+- prima viene il valore/la fiducia, poi l'opportunità commerciale quando esiste.
+
+La procedura di referral vive in `../05_acquisizione/referral-e-soddisfazione.md`.
+
+---
+
+# Provenance dell'integrazione
+
+Le sezioni da `Handoff strutturato` in poi incorporano **ASSIMILATED — Sandler** dentro il nodo Merenda corrente, mantenendo le assimilazioni MAF/jAI già presenti. Non viene creato un ottavo step di vendita: Post-Sell immediato e Customer Success continuativo restano funzioni diverse. La riconciliazione completa è in `../../reviews/SANDLER_MERENDA_CROSSWALK_2026-09-22.md`.
