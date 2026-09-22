@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 17 / PART V OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 18 / PART V OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -106,6 +106,7 @@ Reader-facing production completed through:
 - Chapter 15 — `Partnership e distribuzione`
 - Chapter 16 — `Funnel e database`
 - Chapter 17 — `Argomentazione commerciale`
+- Chapter 18 — `Copywriting`
 
 Part introductions completed:
 
@@ -147,17 +148,20 @@ The Part IV transition gate is now complete. Before entering persuasion and live
 
 The Part V introduction opens the evidence → argument → execution → live sale → management-over-time sequence. Chapter 17 then turns the evidence built in earlier Parts into a format-independent commercial argument: customer situation, problem/desire, consequences, desired result, mechanism, reason why, proof, objections, risk and next action. It separates customer evidence, company evidence and hypothesis; treats the status quo as a real alternative; links proof to the specific doubt it must reduce; and preserves continuity across source, message, destination and sales handoff. It includes a reusable argumentation map and a final audit that distinguishes weak reasoning from weak writing.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through the Part V introduction and Chapter 17.
+Chapter 18 turns that argument into copy adapted to a specific medium and prospect state. It treats attention as selection plus continued relevance rather than a click objective, organizes copy around missing convictions rather than rigid formulas, ties claim strength to mechanism/reason why/proof, uses stories and testimonials only when they advance identification or evidence, gives price/risk/objections the context they require, and designs the CTA before testing controlled variants. It includes a reusable copy-review/test sheet and keeps the live diagnostic work of individual selling for Chapter 19.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 18.
 
 Latest manuscript QA:
 
-- 257 pages total;
-- pages 1–242 are pixel-identical to the validated Chapter 16 manuscript at the same rendering resolution;
-- pages 243–257 were rendered and visually checked page by page at final size;
-- the Part V introduction fits cleanly on one page, and Chapter 17 starts on a clean new page through `page_break_before`;
-- all new table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- the argumentation map continues cleanly across pages and the final `VERIFICA NELLA TUA AZIENDA` remains intact on one page;
-- the error/practice/example callouts remain in the intended flow and no extra blank page was introduced;
+- 271 pages total;
+- pages 1–257 are pixel-identical to the validated Chapter 17 manuscript at the same 72-dpi rendering resolution;
+- pages 258–271 were rendered at 96 dpi and visually checked page by page;
+- Chapter 18 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
+- all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
+- an initial adjacent-table artifact after the opening-state table was corrected by restoring normal prose flow between the table and the error callout;
+- the claim/mechanism/proof table, resistance table and copy-review tool remain readable across page boundaries;
+- the final `VERIFICA NELLA TUA AZIENDA` remains intact on one page with the Chapter 19 bridge inside the intended reader-facing flow;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
@@ -166,17 +170,17 @@ Latest manuscript QA:
 
 Continue Part V with:
 
-**Chapter 18 — `Copywriting`.**
+**Chapter 19 — `Vendita consulenziale`.**
 
 Frozen sections:
 
-- 18.1 `Apertura e attenzione`
-- 18.2 `Sequenza delle convinzioni`
-- 18.3 `Claim, meccanismo e prova`
-- 18.4 `Storie e testimonianze`
-- 18.5 `Prezzo, rischio e obiezioni`
-- 18.6 `Call to action e test`
+- 19.1 `Preparazione della trattativa`
+- 19.2 `Qualifica e diagnosi`
+- 19.3 `Criteri, motivazioni e conseguenze`
+- 19.4 `Stakeholder e processo decisionale`
+- 19.5 `Prescrizione e prova`
+- 19.6 `Proposta, obiezioni e decisione`
 
-Part V then continues with `Vendita consulenziale` and `Follow-up e gestione delle vendite` according to the frozen evidence → argument → execution → live sale → management-over-time sequence.
+Part V then continues with Chapter 20 — `Follow-up e gestione delle vendite` — before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
