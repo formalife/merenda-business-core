@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 18 / PART V OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 19 / PART V OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -107,6 +107,7 @@ Reader-facing production completed through:
 - Chapter 16 — `Funnel e database`
 - Chapter 17 — `Argomentazione commerciale`
 - Chapter 18 — `Copywriting`
+- Chapter 19 — `Vendita consulenziale`
 
 Part introductions completed:
 
@@ -150,37 +151,39 @@ The Part V introduction opens the evidence → argument → execution → live s
 
 Chapter 18 turns that argument into copy adapted to a specific medium and prospect state. It treats attention as selection plus continued relevance rather than a click objective, organizes copy around missing convictions rather than rigid formulas, ties claim strength to mechanism/reason why/proof, uses stories and testimonials only when they advance identification or evidence, gives price/risk/objections the context they require, and designs the CTA before testing controlled variants. It includes a reusable copy-review/test sheet and keeps the live diagnostic work of individual selling for Chapter 19.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 18.
+Chapter 19 moves from written execution into the live consultative interaction. It begins from the context transferred by acquisition, separates qualification from diagnosis, standardizes the diagnostic method while personalizing the prescription, derives customer criteria through criterion → motive → consequence, maps stakeholders and decision process, ties each recommendation to observed evidence and treats objections as diagnostic signals rather than pressure targets. It includes a reusable consultative-deal map and preserves follow-up, pipeline, training, performance and sales-capacity management for Chapter 20.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 19.
 
 Latest manuscript QA:
 
-- 271 pages total;
-- pages 1–257 are pixel-identical to the validated Chapter 17 manuscript at the same 72-dpi rendering resolution;
-- pages 258–271 were rendered at 96 dpi and visually checked page by page;
-- Chapter 18 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
+- 285 pages total;
+- pages 1–271 are pixel-identical to the validated Chapter 18 manuscript at the same 72-dpi rendering resolution;
+- pages 272–285 were rendered at 96 dpi and visually checked page by page;
+- Chapter 19 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page;
 - all new data-table rows are protected from splitting and multi-page tables repeat their headers cleanly;
-- an initial adjacent-table artifact after the opening-state table was corrected by restoring normal prose flow between the table and the error callout;
-- the claim/mechanism/proof table, resistance table and copy-review tool remain readable across page boundaries;
-- the final `VERIFICA NELLA TUA AZIENDA` remains intact on one page with the Chapter 19 bridge inside the intended reader-facing flow;
-- no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
+- the criteria-table → worked-example transition no longer creates an adjacent-table repeated-header artifact;
+- the operational consultative-deal map continues cleanly across pages without an orphan final row;
+- the final `VERIFICA NELLA TUA AZIENDA` no longer inherits the preceding table header, remains intact, and is followed by the normal reader-facing synthesis / Chapter 20 bridge;
+- no clipping, overlap, broken tables, visible Markdown markers, split callout headers or orphan final bridge page remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue Part V with:
+Continue and close Part V with:
 
-**Chapter 19 — `Vendita consulenziale`.**
+**Chapter 20 — `Follow-up e gestione delle vendite`.**
 
 Frozen sections:
 
-- 19.1 `Preparazione della trattativa`
-- 19.2 `Qualifica e diagnosi`
-- 19.3 `Criteri, motivazioni e conseguenze`
-- 19.4 `Stakeholder e processo decisionale`
-- 19.5 `Prescrizione e prova`
-- 19.6 `Proposta, obiezioni e decisione`
+- 20.1 `Stati della mancata conversione`
+- 20.2 `Tempi e sequenze di follow-up`
+- 20.3 `Pipeline e memoria della trattativa`
+- 20.4 `Script e allenamento`
+- 20.5 `Misurazione della performance`
+- 20.6 `Capacità e organizzazione commerciale`
 
-Part V then continues with Chapter 20 — `Follow-up e gestione delle vendite` — before its reader-facing transition gate.
+After Chapter 20, produce the Part V `Prima di proseguire` transition gate and close the evidence → argument → execution → live sale → management-over-time sequence before opening Part VI.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
