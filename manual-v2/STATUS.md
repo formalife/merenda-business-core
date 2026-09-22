@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 13 / PART IV OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 14 / PART IV OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -102,6 +102,7 @@ Reader-facing production completed through:
 - Chapter 11 — `Prezzo`
 - Chapter 12 — `Fiducia e prova`
 - Chapter 13 — `Domanda e consapevolezza`
+- Chapter 14 — `Canali di acquisizione`
 
 Part introductions completed:
 
@@ -131,17 +132,20 @@ The Part IV introduction opens the proof → demand → access → orchestration
 
 Chapter 13 maps demand before channel choice. It separates relationship ownership from demand state, distinguishes active from latent demand, defines awareness levels without treating them as fixed identities, separates interest from commercial intent, adds timing/trigger as an independent variable and calibrates education versus directness to the actual distance from a decision. It includes a reusable demand/directness map and keeps routing, automation and channel mechanics in their later chapters.
 
-The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 13.
+Chapter 14 turns that demand map into channel choice. It treats the channel as an access mechanism rather than a substitute for positioning, compares online and offline by function rather than ideology, distinguishes organic/paid/direct access without pretending the categories are mutually exclusive, measures source economics through complete CAC/contribution/payback rather than CPL alone, and treats multichannel expansion as a coordination and resilience decision. It includes a numerical CPL-vs-CAC example and a reusable channel-evaluation sheet while preserving partnership/distribution for Chapter 15 and routing/database mechanics for Chapter 16.
+
+The cumulative Word manuscript is aligned to the definitive architecture and has been rendered through Chapter 14.
 
 Latest manuscript QA:
 
-- 197 pages total;
-- pages 1–183 are pixel-identical to the validated Chapter 12 render at the same rendering resolution;
-- pages 184–197 were rendered and visually checked page by page at final size;
-- Chapter 13 starts on a clean new page through `page_break_before`, with no extra blank page;
-- multi-page demand, awareness, intent, timing and operational-map tables repeat their headers cleanly and rows remain unsplit;
-- the automatic Word numbering inherited from earlier manuscript lists was removed from the Chapter 13 decision variables and final verification, so visible numbering now starts correctly at 1 and remains deterministic;
-- the error/practice/example callouts, operational map and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
+- 212 pages total;
+- pages 1–197 are pixel-identical to the validated Chapter 13 render at the same rendering resolution;
+- pages 198–212 were rendered and visually checked page by page at final size;
+- Chapter 14 starts on a clean new page through `page_break_before`, with no extra blank page;
+- all new data-table rows are protected from splitting and continuation tables repeat their headers cleanly;
+- the initial numerical-example table split was eliminated by compressing the comparison into the economically relevant rows, so the complete table remains on one page;
+- the final transition to Chapter 15 was tightened to eliminate an orphan one-paragraph trailing page;
+- the error/practice/example callouts, numerical example, operational channel sheet and final `VERIFICA NELLA TUA AZIENDA` remain in the intended document flow;
 - no clipping, overlap, broken tables, visible Markdown markers or split callout headers remain in the final deliverable.
 
 ---
@@ -150,16 +154,16 @@ Latest manuscript QA:
 
 Continue Part IV with:
 
-**Chapter 14 — `Canali di acquisizione`.**
+**Chapter 15 — `Partnership e distribuzione`.**
 
 Frozen sections:
 
-- 14.1 `Il ruolo del canale`
-- 14.2 `Online e offline`
-- 14.3 `Canali organici, a pagamento e diretti`
-- 14.4 `Economia del canale`
-- 14.5 `Multicanalità e coordinamento`
+- 15.1 `Accesso diretto e accesso preso in prestito`
+- 15.2 `Endorsement e partnership`
+- 15.3 `Economia del partner`
+- 15.4 `Sell-in e sell-through`
+- 15.5 `Integrazioni strutturali e rischio`
 
-Part IV then continues with borrowed/distributed access in Chapter 15 and acquisition orchestration in Chapter 16 according to the frozen proof → demand → access → orchestration sequence.
+Part IV then continues with acquisition orchestration in Chapter 16 according to the frozen proof → demand → direct access → borrowed/distributed access → funnel/database/handoff sequence.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
