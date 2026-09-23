@@ -1,6 +1,6 @@
 # Parte VI — Esperienza, relazione e reputazione
 
-La Parte V ha portato il sistema fino alla decisione commerciale. Da questo momento cambia il criterio con cui giudicare l'impresa: **non basta più rendere credibile una promessa; bisogna mantenerla nell'esperienza reale**. La vendita crea aspettative, impegni, tempi e condizioni che l'organizzazione deve trasformare in valore per il cliente.
+La Parte V ha portato il sistema fino alla decisione commerciale e al **Post-Sell immediato** che stabilizza aspettative e trasferisce il contesto essenziale. Da questo momento cambia il criterio con cui giudicare l'impresa: non basta più rendere credibile una promessa; bisogna mantenerla nell'esperienza reale.
 
 Questo passaggio è decisivo perché una transazione può essere economicamente corretta al momento della firma e diventare una cattiva vendita durante l'erogazione. Un onboarding confuso, tempi più lunghi di quanto il cliente aveva compreso, passaggi interni che lo costringono a ripetere informazioni o un supporto incapace di risolvere i problemi possono consumare il valore creato da posizionamento, marketing e vendita. Al contrario, un'esperienza coerente rende più credibili le promesse future e crea le condizioni per una relazione più lunga.
 
