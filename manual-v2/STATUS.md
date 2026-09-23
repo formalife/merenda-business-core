@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 31 / PART VIII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 32 / PART VIII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -114,6 +114,7 @@ Reader-facing production completed through:
 - Chapter 29 — `Persone e organizzazione`
 - Chapter 30 — `Trasferibilità dell'impresa`
 - Chapter 31 — `Prototipazione di nuove iniziative`
+- Chapter 32 — `Allocazione del capitale`
 
 Part introductions completed:
 
@@ -179,21 +180,22 @@ The Part VIII introduction reframes development as allocation of attention, capa
 
 Chapter 31 treats new initiatives as hypotheses that must earn progressively less reversible commitments. It starts from the intersection between a real customer problem and relevant competencies/assets, ranks uncertainty by economic consequence, and uses reversible tests to buy decision-changing evidence before fixed structure. It then builds a provisional economic model that separates observed values from scale assumptions, uses manual/concierge delivery to expose process reality and employs external capacity where it reduces the cost of uncertainty without surrendering critical control or learning. It includes a reusable `Scheda prototipo di nuova iniziativa` linking problem evidence, reusable assets, critical demand/access/delivery/economics hypotheses, test and stop rules, prototype economics, cash/capacity, concierge learning, external-capacity risks, delayed structure and evidence required before internalization.
 
+Chapter 32 treats capital allocation as a choice among competing uses of cash, capacity and managerial attention rather than as approval of individually positive projects. It frames the company itself as an economic asset, distinguishes average from marginal return, and gives priority to the current system constraint only after verifying that capital is actually the needed lever and that economically valid demand can absorb the added capacity. It connects productive-capacity decisions to incremental contribution, working capital, activation time, downside and reversibility; compares uses through evidence quality, payback, capital at risk, constraint impact and resilience; and treats external capital as a financing-plus-governance decision rather than free acceleration. It includes a reusable `Scheda allocazione del capitale` linking the outcome to change, the constraint, evidence and critical assumptions, total capital at risk, incremental cash, payback, capacity, downside, reversibility, dependencies, staged tranches and stop/revision conditions.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_31.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_32.docx`.
 
-- **445 pages total.**
-- Pages **1–430 are pixel-identical** to the validated Part VII manuscript at the same 72-dpi rendering resolution.
-- The Part VIII introduction starts on a clean new page **431** through paragraph-level `page_break_before` and fits completely on that page.
-- Chapter 31 starts on a clean new page **432** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **431–445** were rendered at 96 dpi and visually checked page by page.
-- Error, practice, numerical-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
-- The problem/competence, learning-before-structure, prototype-economics, concierge and external-capacity sequences remain readable without broken paragraphs or table collisions.
-- The multi-page `Scheda prototipo di nuova iniziativa` spans pages **441–444** with a clean repeated header; all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 32 bridge fit completely on page **445**.
+- **461 pages total.**
+- Pages **1–445 are pixel-identical** to the validated Chapter 31 manuscript at the same 72-dpi rendering resolution.
+- Chapter 32 starts on a clean new page **446** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **446–461** were rendered at 96 dpi and visually checked page by page.
+- Error, practice, worked/numerical-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
+- The enterprise-as-asset, constraint-reinvestment, productive-capacity, allocation-criteria and external-capital/governance sequences remain readable without broken paragraphs or table collisions.
+- The `Scheda allocazione del capitale` fits completely on page **457**; its header is marked to repeat and all table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 33 bridge fit completely on page **461**.
 - DOCX package integrity is clean; the document body contains one final `sectPr`, and no visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
@@ -202,14 +204,14 @@ Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_31.docx`.
 
 Continue Part VIII with:
 
-**Chapter 32 — `Allocazione del capitale`.**
+**Chapter 33 — `Espansione e scala`.**
 
 Frozen sections:
 
-- 32.1 `L'impresa come asset`
-- 32.2 `Reinvestire nel vincolo`
-- 32.3 `Capitale e capacità produttiva`
-- 32.4 `Criteri di allocazione`
-- 32.5 `Capitale esterno e governance`
+- 33.1 `Prerequisiti della scala`
+- 33.2 `Sfruttare il core prima di espandere`
+- 33.3 `Espansione per problema e segmento`
+- 33.4 `Nuove geografie e nuove categorie`
+- 33.5 `Replicazione, multibrand e struttura`
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
