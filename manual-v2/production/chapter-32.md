@@ -171,33 +171,19 @@ Un criterio unico come il ROI può essere utile ma insufficiente. Due progetti c
 
 I criteri più utili sono almeno sette.
 
-### Risultato economico incrementale
+**Risultato economico incrementale.** Quale variazione concreta di contribuzione, cassa o perdita evitata dovrebbe produrre l'investimento? Il risultato deve essere incrementale: ciò che cambia rispetto allo scenario senza investimento.
 
-Quale variazione concreta di contribuzione, cassa o perdita evitata dovrebbe produrre l'investimento? Il risultato deve essere incrementale: ciò che cambia rispetto allo scenario senza investimento.
+**Capitale totale a rischio.** Non considerare soltanto il prezzo iniziale. Includi costi di avvio, working capital, impegni contrattuali, assunzioni necessarie, integrazioni e altri costi difficili da recuperare. Questa è la quantità di capitale realmente esposta alla decisione.
 
-### Capitale totale a rischio
+**Tempo di recupero.** Quanto tempo serve perché la cassa incrementale recuperi l'esborso e i fabbisogni iniziali? Il payback non misura tutto il valore futuro, ma rende visibile per quanto tempo l'impresa rimane esposta prima di riottenere flessibilità.
 
-Non considerare soltanto il prezzo iniziale. Includi costi di avvio, working capital, impegni contrattuali, assunzioni necessarie, integrazioni e altri costi difficili da recuperare. Questa è la quantità di capitale realmente esposta alla decisione.
+**Qualità dell'evidenza.** Quali componenti del business case sono fatti osservati e quali sono ancora ipotesi? Un rendimento teorico del 50% basato su domanda, prezzo e costi non verificati non è direttamente comparabile con un rendimento inferiore sostenuto da comportamento ripetuto e dati operativi.
 
-### Tempo di recupero
+**Reversibilità e opzioni future.** Se l'ipotesi è sbagliata, quanto costa correggere? Un investimento modulare può conservare la possibilità di fermarsi, cambiare fornitore o riallocare. Un asset molto specifico può offrire più efficienza ma ridurre le opzioni. La reversibilità ha valore soprattutto quando l'incertezza è alta.
 
-Quanto tempo serve perché la cassa incrementale recuperi l'esborso e i fabbisogni iniziali? Il payback non misura tutto il valore futuro, ma rende visibile per quanto tempo l'impresa rimane esposta prima di riottenere flessibilità.
+**Impatto sul vincolo.** Il progetto aumenta davvero il risultato del sistema oppure migliora una funzione non vincolante? Questo criterio protegge dall'ottimizzazione locale e collega il capitale alla diagnosi operativa.
 
-### Qualità dell'evidenza
-
-Quali componenti del business case sono fatti osservati e quali sono ancora ipotesi? Un rendimento teorico del 50% basato su domanda, prezzo e costi non verificati non è direttamente comparabile con un rendimento inferiore sostenuto da comportamento ripetuto e dati operativi.
-
-### Reversibilità e opzioni future
-
-Se l'ipotesi è sbagliata, quanto costa correggere? Un investimento modulare può conservare la possibilità di fermarsi, cambiare fornitore o riallocare. Un asset molto specifico può offrire più efficienza ma ridurre le opzioni. La reversibilità ha valore soprattutto quando l'incertezza è alta.
-
-### Impatto sul vincolo
-
-Il progetto aumenta davvero il risultato del sistema oppure migliora una funzione non vincolante? Questo criterio protegge dall'ottimizzazione locale e collega il capitale alla diagnosi operativa.
-
-### Effetto sulla resilienza
-
-Che cosa succede a cassa, concentrazione, dipendenze e continuità? Un progetto economicamente interessante può rendere l'impresa troppo dipendente da un cliente, un fornitore, una tecnologia, una persona o un livello minimo di volume. Il rendimento deve essere compatibile con la capacità di sopportare lo scenario negativo.
+**Effetto sulla resilienza.** Che cosa succede a cassa, concentrazione, dipendenze e continuità? Un progetto economicamente interessante può rendere l'impresa troppo dipendente da un cliente, un fornitore, una tecnologia, una persona o un livello minimo di volume. Il rendimento deve essere compatibile con la capacità di sopportare lo scenario negativo.
 
 Questi criteri non vanno trasformati automaticamente in un punteggio ponderato che crea precisione apparente. Possono essere usati come griglia di confronto, accompagnati da pochi numeri riproducibili e dalle ipotesi che li generano.
 
