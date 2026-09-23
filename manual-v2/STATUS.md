@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 24 / PART VI CLOSED / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 25 / PART VII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -107,6 +107,7 @@ Reader-facing production completed through:
 - Chapter 22 — `Retention`
 - Chapter 23 — `Seconda vendita e referral`
 - Chapter 24 — `Brand e reputazione`
+- Chapter 25 — `Economia del cliente`
 
 Part introductions completed:
 
@@ -116,6 +117,7 @@ Part introductions completed:
 - Part IV — `Fiducia, domanda e acquisizione`
 - Part V — `Comunicazione e vendita`
 - Part VI — `Esperienza, relazione e reputazione`
+- Part VII — `Economia e organizzazione`
 
 Part transition gates completed:
 
@@ -151,42 +153,41 @@ Chapter 24 closes Part VI by distinguishing intended positioning, accumulated br
 
 The Part VI transition gate is complete. Before advanced customer economics, the reader is required to have a legible lifecycle from commercial promise through first value, natural relationship duration/frequency, retention/reactivation, appropriate next sale/referral and accumulated reputation/brand memory. This gives Part VII an actual customer lifecycle whose economics can now be measured meaningfully.
 
+The Part VII introduction opens the customer-economics → cash → capacity → process → people → transferability sequence. Chapter 25 then converts the customer lifecycle into an economic model: it defines coherent unit economics, compares cohorts at equal relationship age, separates observed from projected LTV, treats payback as a cumulative contribution curve rather than a static ratio, derives a maximum acquisition cost from required surplus and payback constraints, and distinguishes average from marginal acquisition economics. It includes a reusable `Scheda economia cliente e coorte` linking CAC, contribution, LTV, payback, acquisition ceiling and the first economic lever to test.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Parte_VI.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_25.docx`.
 
-- **353 pages total.**
-- The currently supplied/frozen Chapter 23 manuscript renders to **340 pages**; pages **1–340 are preserved pixel-identically** in the Part VI final manuscript at the same 72-dpi rendering resolution.
-- Pages **341–353** contain only Chapter 24 and the Part VI transition gate and were rendered and visually checked page by page.
-- Chapter 24 starts on a clean new page through paragraph-level `page_break_before`, with no extra blank page.
-- All new data-table rows are protected from splitting; multi-page tables repeat their headers cleanly.
-- The positioning/memory table and stakeholder table remain readable without row breaks or table-merging artifacts.
-- The PR procedure renders with explicit numbering **1–7** and does not inherit numbering from earlier list styles.
-- Practice, error and worked-example callouts remain intact without split headers.
-- The multi-page `Mappa della memoria di mercato e della reputazione` spans pages 350–351 with a clean repeated header.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 24 synthesis fit cleanly on page 352, with no orphan continuation.
-- The Part VI `Prima di proseguire` gate starts on a clean dedicated page 353 and fits entirely on that page.
-- No clipping, overlap, broken tables, visible Markdown markers, split callout headers or orphan continuation remain in the final deliverable.
+- **367 pages total.**
+- Pages **1–353 are pixel-identical** to the validated Part VI manuscript at the same 72-dpi rendering resolution.
+- Page **354** contains the Part VII introduction and fits completely on one clean page.
+- Chapter 25 starts on a clean new page **355** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **354–367** were rendered at 96 dpi and visually checked page by page.
+- All new table rows are protected from splitting; the multi-page `Scheda economia cliente e coorte` repeats its header cleanly across pages 364–366.
+- The unit-economics table, cohort comparison and payback example remain readable across page boundaries without clipping or overlap.
+- Error, practice, numerical-example, worked-example and final verification callouts remain intact without split headers or adjacent-table artifacts.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 26 bridge fit cleanly on page 367.
+- No visible Markdown markers, broken tables, missing glyphs, clipping, overlap or orphan continuation remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part VII — `Economia e organizzazione` — with its reader-facing introduction, then continue with:
+Continue Part VII with:
 
-**Chapter 25 — `Economia del cliente`.**
+**Chapter 26 — `Cassa e capitale circolante`.**
 
 Frozen sections:
 
-- 25.1 `Unit economics`
-- 25.2 `Analisi per coorti`
-- 25.3 `Lifetime value`
-- 25.4 `Payback avanzato`
-- 25.5 `Costo massimo di acquisizione`
-- 25.6 `Costo marginale e leve di crescita`
+- 26.1 `Profitto e cassa`
+- 26.2 `Crediti, scorte e debiti operativi`
+- 26.3 `Ciclo di conversione della cassa`
+- 26.4 `Riserve e fabbisogno finanziario`
+- 26.5 `Finanziare la crescita`
 
-Part VII then continues with cash/capital, capacity/bottlenecks, process/controls, people/organization and transferability before its reader-facing transition gate.
+Part VII then continues with Chapter 27 — `Capacità e colli di bottiglia`, Chapter 28 — `Processi e automazione`, Chapter 29 — `Persone e organizzazione`, and Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
