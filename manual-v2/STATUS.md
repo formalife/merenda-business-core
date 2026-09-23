@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 28 / PART VII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 29 / PART VII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -111,6 +111,7 @@ Reader-facing production completed through:
 - Chapter 26 — `Cassa e capitale circolante`
 - Chapter 27 — `Capacità e colli di bottiglia`
 - Chapter 28 — `Processi e automazione`
+- Chapter 29 — `Persone e organizzazione`
 
 Part introductions completed:
 
@@ -164,20 +165,22 @@ Chapter 27 turns operational capacity into a measurable economic constraint. It 
 
 Chapter 28 turns repeatable work into an explicit operating system. It starts from the result and current reality before standardization, defines states and decision points, makes owner/handoff/checkpoint responsibility explicit, separates the normal path from exceptions and escalation, and places automation only after triggers, data, rules and limits are defined. It closes by treating controls and reconciliation as risk-based verification rather than procedural decoration. It includes a reusable `Scheda processo, eccezioni e controllo` linking trigger, state, owner, completion, handoff, checkpoint, exceptions, automation boundaries, controls, reconciliation and revision conditions.
 
+Chapter 29 turns organizational design into an economic capacity decision. It starts from a recurrent bottleneck to define the role's owned result, responsibilities, decision rights and escalation boundaries; treats recruiting as a candidate-choice path supported by a concrete employment proposition; and selects people through work-relevant evidence rather than brand affinity or interview fluency alone. It then frames onboarding as staged transfer of responsibility, connects standards, feedback, KPI, incentives and controls to system outcomes, and sets specialization thresholds from recurring volume, bottlenecks and full role economics rather than headcount conventions. It includes a reusable `Scheda ruolo, recruiting e inserimento` linking bottleneck evidence, role mandate, decision rights, candidate evidence, employment proposition, onboarding milestones, controls, cost, expected value and specialization triggers.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_28.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_29.docx`.
 
-- **404 pages total.**
-- Pages **1–393 are pixel-identical** to the validated Chapter 27 manuscript at the same 72-dpi rendering resolution.
-- Chapter 28 starts on a clean new page **394** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **394–404** were rendered at 72 dpi and visually checked page by page.
-- Error, practice and final-verification callouts remain intact without clipping, overlap or split headers; substantial examples remain in the main prose where this improves page continuity.
-- The process-state, owner/handoff/checkpoint, normal-path/escalation and automation sequences remain readable without clipping or orphan continuation.
-- The multi-page `Scheda processo, eccezioni e controllo` spans pages **402–403** with a clean repeated header; all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 29 bridge fit completely on page **404**.
+- **416 pages total.**
+- Pages **1–404 are pixel-identical** to the validated Chapter 28 manuscript at the same 72-dpi rendering resolution.
+- Chapter 29 starts on a clean new page **405** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **405–416** were rendered at 72 dpi and visually checked page by page.
+- Error, practice, worked-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
+- The recruiting, selection/onboarding, standards/KPI and specialization sections remain readable without broken paragraphs or table collisions.
+- The multi-page `Scheda ruolo, recruiting e inserimento` spans pages **413–415** with a clean repeated header; all table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 30 bridge fit completely on page **416**.
 - No visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
@@ -186,16 +189,16 @@ Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_28.docx`.
 
 Continue Part VII with:
 
-**Chapter 29 — `Persone e organizzazione`.**
+**Chapter 30 — `Trasferibilità dell'impresa`.**
 
 Frozen sections:
 
-- 29.1 `Il ruolo nasce dal collo di bottiglia`
-- 29.2 `Recruiting e proposta di lavoro`
-- 29.3 `Selezione e inserimento`
-- 29.4 `Standard, feedback e incentivi`
-- 29.5 `Specializzazione e soglie economiche`
+- 30.1 `Dipendenza dal fondatore`
+- 30.2 `Funzioni economiche da sostituire`
+- 30.3 `KPI e diritti decisionali`
+- 30.4 `Controllo degli asset critici`
+- 30.5 `Assenza pianificata e test di trasferibilità`
 
-Part VII then continues with Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
+After Chapter 30, complete the reader-facing `Prima di proseguire` transition gate for Part VII before opening Part VIII.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
