@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 27 / PART VII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 28 / PART VII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -110,6 +110,7 @@ Reader-facing production completed through:
 - Chapter 25 — `Economia del cliente`
 - Chapter 26 — `Cassa e capitale circolante`
 - Chapter 27 — `Capacità e colli di bottiglia`
+- Chapter 28 — `Processi e automazione`
 
 Part introductions completed:
 
@@ -161,20 +162,22 @@ Chapter 26 separates profitability from cash timing, defines operational working
 
 Chapter 27 turns operational capacity into a measurable economic constraint. It distinguishes theoretical from practical capacity, connects utilization with queues, lead time and throughput, identifies the bottleneck as the phase/resource/rule that limits system output, and uses contribution per constrained unit plus opportunity cost to allocate scarce capacity. It then compares internal build, external purchase and access to existing capacity, including reversibility, control, continuity and quality risk. It includes a reusable `Scheda capacità e collo di bottiglia` linking practical capacity, demand, queue/WIP, throughput, the current constraint, avoidable loss on the constraint, contribution per constrained unit, opportunity cost and build/buy/access choices.
 
+Chapter 28 turns repeatable work into an explicit operating system. It starts from the result and current reality before standardization, defines states and decision points, makes owner/handoff/checkpoint responsibility explicit, separates the normal path from exceptions and escalation, and places automation only after triggers, data, rules and limits are defined. It closes by treating controls and reconciliation as risk-based verification rather than procedural decoration. It includes a reusable `Scheda processo, eccezioni e controllo` linking trigger, state, owner, completion, handoff, checkpoint, exceptions, automation boundaries, controls, reconciliation and revision conditions.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_27.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_28.docx`.
 
-- **393 pages total.**
-- Pages **1–380 are pixel-identical** to the validated Chapter 26 manuscript at the same 72-dpi rendering resolution.
-- Chapter 27 starts on a clean new page **381** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **381–393** were rendered at 72 dpi and visually checked page by page.
-- Error, practice, numerical-example, worked-example and final-verification callouts remain intact without clipping or split headers.
-- The utilization and throughput formulas remain readable, and the constrained-capacity numerical example is contained cleanly on page **388**.
-- The multi-page `Scheda capacità e collo di bottiglia` spans pages **390–392** with a clean repeated header; all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 28 bridge fit completely on page **393**, with no orphan continuation.
+- **404 pages total.**
+- Pages **1–393 are pixel-identical** to the validated Chapter 27 manuscript at the same 72-dpi rendering resolution.
+- Chapter 28 starts on a clean new page **394** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **394–404** were rendered at 72 dpi and visually checked page by page.
+- Error, practice and final-verification callouts remain intact without clipping, overlap or split headers; substantial examples remain in the main prose where this improves page continuity.
+- The process-state, owner/handoff/checkpoint, normal-path/escalation and automation sequences remain readable without clipping or orphan continuation.
+- The multi-page `Scheda processo, eccezioni e controllo` spans pages **402–403** with a clean repeated header; all table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 29 bridge fit completely on page **404**.
 - No visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
@@ -183,16 +186,16 @@ Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_27.docx`.
 
 Continue Part VII with:
 
-**Chapter 28 — `Processi e automazione`.**
+**Chapter 29 — `Persone e organizzazione`.**
 
 Frozen sections:
 
-- 28.1 `Dal risultato ripetibile al processo`
-- 28.2 `Ruoli, handoff e checkpoint`
-- 28.3 `Processo normale ed eccezioni`
-- 28.4 `Automazione dopo il processo`
-- 28.5 `Controlli e riconciliazione`
+- 29.1 `Il ruolo nasce dal collo di bottiglia`
+- 29.2 `Recruiting e proposta di lavoro`
+- 29.3 `Selezione e inserimento`
+- 29.4 `Standard, feedback e incentivi`
+- 29.5 `Specializzazione e soglie economiche`
 
-Part VII then continues with Chapter 29 — `Persone e organizzazione`, and Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
+Part VII then continues with Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
