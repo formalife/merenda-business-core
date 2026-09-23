@@ -17,12 +17,14 @@ Lo stesso individuo può essere sconosciuto al sistema, poi identificarsi, consu
 Uno **stato della relazione** è utile quando permette di rispondere a tre domande:
 
 1. che cosa sappiamo con sufficiente affidabilità su questa persona e sulla relazione;
+
 2. quale azione è appropriata adesso;
+
 3. quale evento dovrebbe modificare il percorso successivo.
 
 Il nome preciso degli stati dipende dal business. Non esiste una tassonomia universale che ogni CRM debba copiare. In un sistema di acquisizione, però, può essere utile distinguere almeno:
 
-| Stato operativo | Che cosa sappiamo | Lavoro successivo possibile |
+| **Stato operativo** | **Che cosa sappiamo** | **Lavoro successivo possibile** |
 | --- | --- | --- |
 | Non identificato | Ha incontrato un messaggio o un canale, ma non possediamo ancora una relazione utilizzabile | Ottenere una risposta osservabile senza presumere interesse commerciale |
 | Contatto identificato | Possediamo dati utilizzabili e una ragione lecita per ricontattarlo | Capire problema, consapevolezza, interesse e prossimo passo |
@@ -81,12 +83,19 @@ La sorgente è identica. Il form è identico. Cambiano **stato, evidenza e pross
 I percorsi adattivi richiedono anche fallback espliciti. Ogni passaggio importante dovrebbe rispondere almeno a:
 
 - qual è l'obiettivo;
+
 - quale stato o evento fa entrare la persona;
+
 - quale azione viene eseguita;
+
 - chi ne è responsabile quando serve una persona;
+
 - entro quale finestra dovrebbe avvenire;
+
 - quale outcome ci aspettiamo;
+
 - che cosa succede se quell'outcome non avviene;
+
 - in quale stato si entra dopo.
 
 Senza fallback il diagramma descrive soltanto il percorso ideale. Il business reale, invece, è pieno di persone che non aprono, non rispondono, rimandano, cambiano priorità, non si presentano o non sono adatte. Il funnel deve sapere anche dove vanno loro.
@@ -100,18 +109,31 @@ Una lista di email è già più utile di nessuna memoria, ma non è ancora una m
 Le informazioni pertinenti possono includere, a seconda del business e delle autorizzazioni disponibili:
 
 - dati identificativi e contatti utilizzabili;
+
 - origine della relazione;
+
 - stato corrente;
+
 - acquisti e date;
+
 - richieste, conversazioni e appuntamenti;
+
 - problemi o bisogni dichiarati;
+
 - contenuti o passaggi rilevanti completati;
+
 - condizioni commerciali già discusse;
+
 - decisori e stakeholder noti;
+
 - timing, scadenze o trigger;
+
 - assistenza, reclami o questioni aperte;
+
 - owner interno;
+
 - prossima azione prevista;
+
 - esiti precedenti e motivo della chiusura quando noto.
 
 Il criterio non è raccogliere più dati possibile. È raccogliere **dati che cambiano una decisione**.
@@ -139,8 +161,11 @@ Il **routing** è la regola che collega uno stato alla prossima azione. Non coin
 Per progettare il routing servono segnali abbastanza affidabili. Una gerarchia semplice può distinguere:
 
 - **segnali deboli** — esposizione, visita, apertura, click isolato;
+
 - **segnali medi** — consumo sostanziale di contenuto, ritorni ripetuti, risposta a domande di profilazione, comparazione esplicita;
+
 - **segnali forti** — richiesta di contatto, domanda su prezzo o tempi, dichiarazione di un problema attuale, scadenza, disponibilità economica, coinvolgimento del decisore;
+
 - **eventi decisivi** — acquisto, rifiuto esplicito, disqualifica, cancellazione, chiusura della trattativa.
 
 La gerarchia precisa dipende dal business. Serve a evitare che il sistema reagisca allo stesso modo a comportamenti con significato molto diverso.
@@ -151,7 +176,7 @@ Una regola di routing dovrebbe essere leggibile in linguaggio operativo, per ese
 
 Questa forma costringe a esplicitare ciò che molte automazioni lasciano implicito.
 
-| Elemento | Domanda da risolvere |
+| **Elemento** | **Domanda da risolvere** |
 | --- | --- |
 | Stato di ingresso | Che cosa deve essere già vero perché la regola si applichi? |
 | Segnale | Quale evento osservabile modifica la nostra valutazione? |
@@ -207,6 +232,8 @@ Il funnel di acquisizione termina bene quando consegna alla vendita un'opportuni
 
 Prequalificare non significa chiudere la vendita prima del venditore. Significa evitare che il venditore debba ricostruire ogni volta informazioni che il sistema poteva ottenere, spiegare o filtrare a monte.
 
+La prequalifica, però, **non equivale alla qualification completa**. Il lavoro a monte può ridurre l'incertezza e preparare ipotesi credibili su problema, compatibilità economica, ruolo e timing; la conversazione commerciale deve ancora verificare se il problema è abbastanza importante da giustificare un cambiamento, se esistono volontà e capacità di investire denaro, tempo e risorse e se il processo decisionale reale è sufficientemente chiaro. Marketing prepara il contesto; vendita verifica il fit prima della proposta.
+
 Quattro risultati sono particolarmente utili.
 
 Il primo è la **premotivazione**. Il prospect dovrebbe avere una ragione per valutare proprio questa impresa e non arrivare alla conversazione convinto che tutti i fornitori siano intercambiabili. Posizionamento, prova, materiali e informazioni standardizzabili dovrebbero fare una parte di questo lavoro prima dell'appuntamento.
@@ -219,17 +246,30 @@ Il quarto è il **timeframe**. Una persona può essere perfettamente in target e
 
 A questi quattro elementi va aggiunto un criterio più generale: **fit operativo**. Alcuni clienti sono economicamente capaci ma richiedono condizioni, personalizzazioni o rischi che rendono la vendita indesiderabile. La prequalifica deve quindi proteggere non soltanto il tempo del venditore, ma anche il sistema a valle.
 
-Quando i prerequisiti sono soddisfatti, il passaggio alla vendita deve essere concreto. Non basta cambiare uno stato nel CRM. Servono almeno:
+Lo stesso confine vale quando l'ingresso nasce da prospecting o outbound. Il primo contatto non dovrebbe essere trasformato automaticamente in una vendita completa: deve creare abbastanza contesto da verificare la pertinenza, ottenere una **nuova conversazione o un appuntamento concreto** e, quando utile, raccogliere soltanto una qualifica leggera. Problema, investimento e processo decisionale non vanno compressi artificialmente in pochi minuti solo per poter etichettare il contatto come “qualificato”.
+
+Per questo, nel prospecting, il volume utile non è il numero di nominativi toccati ma il numero di conversazioni nuove che meritano davvero il passo successivo. Le fonti vanno poi giudicate su show rate, opportunità realmente qualificate, conversione ed economia dei clienti generati, non soltanto sull'attività prodotta.
+
+Quando i **prerequisiti di prequalifica** sono soddisfatti, il passaggio alla vendita deve essere concreto. Non basta cambiare uno stato nel CRM. Servono almeno:
 
 - owner della presa in carico;
+
 - tempo atteso di risposta;
+
 - contesto raccolto finora;
+
 - motivo della richiesta;
+
 - stato e segnali osservati;
+
 - aspettative economiche note;
+
 - timing;
+
 - stakeholder conosciuti;
+
 - materiali già fruiti quando rilevanti;
+
 - prossima azione concordata.
 
 La velocità conta soprattutto quando il prospect ha appena espresso un'intenzione forte. Una richiesta lasciata ferma per ore o giorni può perdere priorità e rende inutile parte del lavoro di acquisizione già pagato. Il principio non è inseguire ogni click in tempo reale, ma **ridurre intenzionalmente il tempo tra un segnale commerciale forte e la presa in carico coerente**.
@@ -240,7 +280,7 @@ Il confine va scelto in base al lavoro che rimane da fare, non in base all'ideol
 
 ### STRUMENTO OPERATIVO — Mappa stati, routing e handoff
 
-| Campo | Che cosa registrare |
+| **Campo** | **Che cosa registrare** |
 | --- | --- |
 | Stato | Situazione operativa corrente della relazione |
 | Evidenza dello stato | Quali fatti o comportamenti giustificano la classificazione |
@@ -259,6 +299,9 @@ Il confine va scelto in base al lavoro che rimane da fare, non in base all'ideol
 | Automazione ammessa | Parti eseguibili senza giudizio umano aggiuntivo |
 | Escalation | Condizioni che richiedono intervento umano |
 | Metrica | Tempo di attraversamento, conversione, perdita, CAC o altra misura pertinente |
+| Tipo di ingresso | Inbound, referral, partner, prospecting/outbound o altra sorgente; la sorgente non certifica lo stato commerciale |
+| Prequalifica disponibile | Premotivazione, compatibilità economica preliminare, ruolo/stakeholder noto, timeframe e fit operativo già osservati |
+| Qualification da completare | Problema e conseguenze, volontà/capacità di investimento e processo decisionale da verificare interattivamente prima della proposta |
 
 La mappa obbliga a separare ciò che il sistema sa da ciò che sta inferendo. Un routing senza evidenza è una supposizione automatizzata. Un handoff senza contesto costringe il venditore a ricominciare. Un fallback assente crea lead «parcheggiate» che il CRM conserva ma nessuno governa.
 
@@ -267,14 +310,23 @@ La mappa obbliga a separare ciò che il sistema sa da ciò che sta inferendo. Un
 Scegli una sola offerta importante e ricostruisci il percorso reale di trenta-cinquanta contatti recenti, includendo sia chi ha comprato sia chi si è fermato. Non partire dal diagramma teorico: parti da ciò che è realmente successo.
 
 1. Elenca gli stati che oggi il team usa, formalmente o nella pratica. Elimina quelli che non cambiano nessuna decisione e separa quelli che contengono persone con bisogni operativi diversi.
+
 2. Per ciascuno stato, identifica l'evidenza che lo giustifica. Cerca etichette costruite su un singolo click o su impressioni non verificabili.
+
 3. Confronta sorgente e stato. Verifica se il sistema tratta automaticamente tutti i contatti di un canale nello stesso modo anche quando comportamento e consapevolezza differiscono.
+
 4. Individua il passaggio con più persone ferme o perse. Prima di comprare altro traffico, formula almeno una ipotesi sulla causa del blocco e una misura per verificarla.
+
 5. Controlla il database. Per dieci contatti scelti a caso, una persona diversa dal proprietario della relazione riesce a capire cosa è successo, che cosa è aperto e quale passo sia previsto?
+
 6. Elenca i tre segnali che attivano un routing importante. Per ciascuno, verifica se il significato commerciale attribuito è proporzionato all'evidenza reale.
+
 7. Scegli un percorso senza risposta e scrivi il fallback. Se oggi il fallback è «resta nella sequenza», decidi quando cambiare ritmo, percorso, owner o quando chiudere.
+
 8. Audit dell'automazione: per ogni azione automatica rilevante, scrivi stato, trigger, dati necessari, eccezione ed escalation. Se uno di questi elementi manca, l'automazione sta compensando una regola non definita.
+
 9. Verifica l'handoff alla vendita. Le opportunità arrivano con premotivazione, ordine di grandezza economico, timeframe e stakeholder sufficientemente chiari? Quanto tempo passa tra un segnale forte e la presa in carico?
+
 10. Scegli un solo collo di bottiglia e correggilo prima di aggiungere nuove sequenze, nuovi tag o nuovo traffico. Definisci metrica, periodo di osservazione e condizione di revisione.
 
 L'output utile è un sistema in cui ogni contatto possiede uno stato comprensibile, ogni stato ha un prossimo passo, ogni passaggio ha un fallback e la vendita riceve opportunità con abbastanza contesto da non dover ricostruire il marketing da zero.
