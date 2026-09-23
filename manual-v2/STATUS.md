@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 25 / PART VII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 26 / PART VII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -108,6 +108,7 @@ Reader-facing production completed through:
 - Chapter 23 — `Seconda vendita e referral`
 - Chapter 24 — `Brand e reputazione`
 - Chapter 25 — `Economia del cliente`
+- Chapter 26 — `Cassa e capitale circolante`
 
 Part introductions completed:
 
@@ -155,22 +156,23 @@ The Part VI transition gate is complete. Before advanced customer economics, the
 
 The Part VII introduction opens the customer-economics → cash → capacity → process → people → transferability sequence. Chapter 25 then converts the customer lifecycle into an economic model: it defines coherent unit economics, compares cohorts at equal relationship age, separates observed from projected LTV, treats payback as a cumulative contribution curve rather than a static ratio, derives a maximum acquisition cost from required surplus and payback constraints, and distinguishes average from marginal acquisition economics. It includes a reusable `Scheda economia cliente e coorte` linking CAC, contribution, LTV, payback, acquisition ceiling and the first economic lever to test.
 
+Chapter 26 separates profitability from cash timing, defines operational working capital through receivables, inventory and trade payables, introduces the cash conversion cycle through DIO + DSO − DPO, separates reserves from cash flow/burn/runway, and turns those elements into a rolling cash forecast and financing requirement. It then distinguishes a timing gap from a structural economics gap and frames internal working-capital levers, debt and equity around the source and duration of the cash need. It includes a reusable `Scheda cassa e capitale circolante` linking liquidity, minimum reserve, receivables/inventory/payables, CCC, burn/runway, downside scenario, financing need and revision conditions.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_25.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_26.docx`.
 
-- **367 pages total.**
-- Pages **1–353 are pixel-identical** to the validated Part VI manuscript at the same 72-dpi rendering resolution.
-- Page **354** contains the Part VII introduction and fits completely on one clean page.
-- Chapter 25 starts on a clean new page **355** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **354–367** were rendered at 96 dpi and visually checked page by page.
-- All new table rows are protected from splitting; the multi-page `Scheda economia cliente e coorte` repeats its header cleanly across pages 364–366.
-- The unit-economics table, cohort comparison and payback example remain readable across page boundaries without clipping or overlap.
-- Error, practice, numerical-example, worked-example and final verification callouts remain intact without split headers or adjacent-table artifacts.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 26 bridge fit cleanly on page 367.
-- No visible Markdown markers, broken tables, missing glyphs, clipping, overlap or orphan continuation remain in the final deliverable.
+- **380 pages total.**
+- Pages **1–367 are pixel-identical** to the validated Chapter 25 manuscript at the same 72-dpi rendering resolution.
+- Chapter 26 starts on a clean new page **368** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **368–380** were rendered at 72 dpi and visually checked page by page.
+- Error, practice, numerical-example and final-verification callouts remain intact without split headers or adjacent-table artifacts.
+- The cash-conversion-cycle formula, component definitions and numerical example remain readable without clipping or overlap.
+- The multi-page `Scheda cassa e capitale circolante` spans pages **377–379** with a clean repeated header; table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 27 bridge fit completely on page **380**, with no orphan continuation.
+- No visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
 
@@ -178,16 +180,16 @@ Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_25.docx`.
 
 Continue Part VII with:
 
-**Chapter 26 — `Cassa e capitale circolante`.**
+**Chapter 27 — `Capacità e colli di bottiglia`.**
 
 Frozen sections:
 
-- 26.1 `Profitto e cassa`
-- 26.2 `Crediti, scorte e debiti operativi`
-- 26.3 `Ciclo di conversione della cassa`
-- 26.4 `Riserve e fabbisogno finanziario`
-- 26.5 `Finanziare la crescita`
+- 27.1 `Capacità disponibile e capacità utile`
+- 27.2 `Utilizzo, code e picchi`
+- 27.3 `Il collo di bottiglia`
+- 27.4 `Costo opportunità della capacità`
+- 27.5 `Costruire, comprare o accedere alla capacità`
 
-Part VII then continues with Chapter 27 — `Capacità e colli di bottiglia`, Chapter 28 — `Processi e automazione`, Chapter 29 — `Persone e organizzazione`, and Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
+Part VII then continues with Chapter 28 — `Processi e automazione`, Chapter 29 — `Persone e organizzazione`, and Chapter 30 — `Trasferibilità dell'impresa` — before its reader-facing transition gate.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
