@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**COMPLETE — DEFINITIVE ARCHITECTURE FROZEN / READER-FACING PRODUCTION THROUGH CHAPTER 34 / PART VIII COMPLETE / WORD VERIFIED**
+**COMPLETE — DEFINITIVE ARCHITECTURE FROZEN / READER-FACING PRODUCTION THROUGH CHAPTER 34 / PART VIII COMPLETE / SANDLER SALES REFOUNDATION INTEGRATED / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work and reader-facing production is complete through all 34 chapters.
 
@@ -139,6 +139,19 @@ Part transition gates completed:
 - Part VII — `Prima di proseguire`
 - Part VIII — `Prima di proseguire`
 
+### Sales refoundation integration — 2026-09-23
+
+The post-production Sandler sales refoundation merged into Layer 1 has been integrated without reopening the 8-Part / 34-Chapter architecture.
+
+Reader-facing impact is concentrated in:
+
+- Chapter 16 — prospecting/outbound boundary, new-conversation planning, light qualification and explicit prequalification → qualification handoff;
+- Chapter 19 — professional process agreement/equal stature, qualification through problem → investment/resources → decision process, disqualification, selective presentation, decision clarity and immediate Post-Sell/handoff;
+- Chapter 20 — state-driven follow-up, safe-no closure, qualification quality in pipeline, Behavior/Attitude/Technique diagnosis, behavior planning, pre-call/debrief, coaching and accountability;
+- Part V gate, Part VI introduction and Chapter 21 — bridge from immediate Post-Sell into delivery with richer causal handoff.
+
+The reader-facing manual remains source-agnostic; Sandler provenance stays in the backend doctrine/crosswalk rather than becoming a parallel methodology in the book.
+
 ---
 
 # Production trail and chapter boundaries
@@ -149,13 +162,13 @@ Chapters 4–7 complete the market/customer lens → evidence → buying-decisio
 
 Chapters 8–11 complete Part III. Positioning is treated as an operational reason to choose, focus/category gives that position a center, the offer converts it into a concrete exchange, and pricing is connected to value, customer selection, contribution, payment timing and economics. The Part III gate requires a real reason to choose, a coherent offer/transaction sequence and pricing logic before acquisition is amplified.
 
-Chapters 12–16 complete Part IV through proof → demand → direct access → borrowed/distributed access → orchestration. They separate authority/credibility/proof from the underlying offer, map active/latent demand, choose channels from economics and timing, treat partnerships/distribution as borrowed access with reciprocal economics, and close with explicit relationship states, database memory, routing/fallback, governed automation and sales handoff. The Part IV gate requires an acquisition system capable of delivering an informed opportunity to sales.
+Chapters 12–16 complete Part IV through proof → demand → direct access → borrowed/distributed access → orchestration. They separate authority/credibility/proof from the underlying offer, map active/latent demand, choose channels from economics and timing, treat partnerships/distribution as borrowed access with reciprocal economics, and close with explicit relationship states, database memory, routing/fallback, governed automation and sales handoff. Chapter 16 now makes explicit that prospecting/outbound is subordinate to target, offer and economics, uses new conversations rather than raw touches as a planning unit, and treats first-contact qualification as light/preliminary: marketing and prospecting may reduce uncertainty, but problem, investment/resources and the real decision process still require interactive qualification before proposal. The Part IV gate therefore requires an acquisition system capable of delivering an informed, appropriately prequalified opportunity to sales without pretending that the sale has already been qualified.
 
-Chapters 17–20 complete Part V through evidence → argument → execution → live sale → management over time. Chapter 17 builds a format-independent commercial argument; Chapter 18 adapts it to copy; Chapter 19 owns the live consultative diagnosis/prescription; Chapter 20 owns non-conversion states, follow-up, pipeline memory, scripts/training, performance and sales capacity. The Part V gate requires a repeatable path from evidence and message to an economically appropriate customer decision.
+Chapters 17–20 complete Part V through evidence → argument → execution → live sale → management over time. Chapter 17 builds a format-independent commercial argument and Chapter 18 adapts it to copy. Chapter 19 now treats the live sale as one causal system: preparation and agreement on the conversation, qualified problem/Pain, investment/resources, decision process, diagnosis/prescription, selective proof/proposal, clear outcome and immediate Post-Sell/handoff; qualification explicitly includes disqualification. Chapter 20 then manages the portfolio over time through state-driven follow-up, pipeline quality, low-pressure closure when appropriate, Behavior/Attitude/Technique diagnosis, behavior plans, pre-call/debrief, coaching, accountability, economic measurement and sales capacity. The Part V gate requires a repeatable path from evidence and message to an economically appropriate customer decision, without using follow-up or harder closing to compensate for missing qualification upstream.
 
-The Part VI introduction opens the promise → experience → value → continuity → second sale/referral → reputation sequence.
+The Part VI introduction opens the promise → experience → value → continuity → second sale/referral → reputation sequence from the immediate Post-Sell: the commercial decision is stabilized, residual doubts/expectations are surfaced and the context needed by delivery is transferred before onboarding begins.
 
-Chapter 21 treats the sale as an operational commitment. It makes the promise/handoff explicit, defines onboarding around prerequisites and expectations, separates time to first value from final-result time, distinguishes necessary customer participation from avoidable customer effort, treats support as both recovery and diagnostic evidence, and closes the loop from feedback to process correction. It includes a reusable promise → experience → first-value map.
+Chapter 21 treats the sale as an operational commitment. It makes the promise/handoff explicit, including qualified problem/result, decision criteria, promises/conditions, stakeholder context, residual doubts, the concrete reason the customer decided and the criterion for recognizing first value. It defines onboarding around prerequisites and expectations, separates time to first value from final-result time, distinguishes necessary customer participation from avoidable customer effort, treats support as both recovery and diagnostic evidence, and closes the loop from feedback to process correction. It includes a reusable promise → experience → first-value map.
 
 Chapter 22 defines retention against the natural duration and frequency of the relationship rather than indefinite customer permanence. It makes the unit of retention explicit by business model, compares expected frequency with observed recency/behavior, treats risk signals as triggers for verification rather than automatic diagnoses, separates reactivation from true recapture, and distinguishes natural exit from avoidable churn. It includes a reusable retention/risk/churn map.
 
@@ -195,26 +208,24 @@ The Part VIII transition gate is complete. It closes the prototype/learn → cap
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_34.docx`.
+Current cumulative manuscript: `Manuale_V2_Completo_Sandler_vFinale.docx`.
 
-- **497 pages total.**
-- Pages **1–477 are pixel-identical** to the validated Chapter 33 manuscript at the same 72-dpi rendering resolution.
-- Chapter 34 starts on a clean new page **478** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **478–497** were rendered at 96 dpi and visually checked page by page.
-- Error, practice, worked/numerical-example, approfondimento, operational-tool and final-verification callouts remain intact without clipping, overlap or orphan continuation.
-- The economic-result, causal-chain, first-constraint, exclusion, test/standardize/scale and system-review sequences remain readable without broken paragraphs or table collisions.
-- The multi-page `Scheda diagnosi strategica` spans pages **491–493** with a clean repeated header; all new table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` fits completely on page **494**.
-- The Chapter 34 close completes on page **495**.
-- The Part VIII `Prima di proseguire` gate starts on a clean new page **496** and completes on page **497**.
-- DOCX package integrity is clean; the document body contains one final `sectPr`, and no visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
+- **505 pages total.**
+- The complete manuscript was rendered at 72 dpi after the Sandler integration and TOC/page-reference correction.
+- Actual chapter starts were independently detected from the final render and match the TOC, including Chapter 16 p. 227, Chapter 17 p. 245, Chapter 18 p. 259, Chapter 19 p. 273, Chapter 20 p. 292, Part VI p. 311, Chapter 21 p. 312 and Chapter 34 p. 486.
+- Relative to the previously validated 497-page baseline, **463 final pages are content-crop pixel-identical** to a validated baseline page; **42 changed/reflowed pages** were directly visually inspected at full rendered resolution.
+- The changed/reflowed review covers the corrected TOC, the Chapter 16 prospecting/prequalification additions, the complete Chapter 19 sales refoundation, Chapter 20 performance/follow-up additions, the Part V transition gate, the Part VI bridge and the enriched Chapter 21 sales→delivery handoff.
+- Chapter 16's extended routing/handoff tool remains clean across its multi-page span; Chapter 19's extended sales map and 10-step verification are intact; Chapter 20's expanded performance/pipeline tool and 10-step verification are intact.
+- No clipping, overlap, missing glyphs, broken table rows or orphaned callout headings were observed in the changed pages.
+- DOCX package integrity is clean; no visible Markdown markers remain in the document body.
+- Final package SHA256: `3437cea7b8c2ec061716cb58dd6b187e07bad6bafe3e6ed75172f627d9312aab`.
 
 ---
 
 # Current next action
 
-Reader-facing production is complete.
+Reader-facing production is complete and the Sandler sales refoundation has been integrated.
 
-Do not add another chapter or reopen the architecture by preference. The next authorized work should be final editorial/package QA across the complete manuscript — front matter, TOC/page references, cross-chapter consistency, final export/package checks and, when available, reader/editorial validation.
+Do not add another chapter or reopen the architecture by preference. The next useful work is evidence-driven editorial/reader validation of the complete manuscript, followed only by corrections supported by concrete comprehension, consistency or publishing evidence.
 
-Any content or architecture change should be evidence-driven and should preserve the current 8-Part / 34-Chapter structure unless concrete editorial or reader evidence demonstrates a real structural defect.
+Any content or architecture change should preserve the current 8-Part / 34-Chapter structure unless concrete editorial or reader evidence demonstrates a real structural defect.
