@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 32 / PART VIII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 33 / PART VIII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -115,6 +115,7 @@ Reader-facing production completed through:
 - Chapter 30 — `Trasferibilità dell'impresa`
 - Chapter 31 — `Prototipazione di nuove iniziative`
 - Chapter 32 — `Allocazione del capitale`
+- Chapter 33 — `Espansione e scala`
 
 Part introductions completed:
 
@@ -182,20 +183,23 @@ Chapter 31 treats new initiatives as hypotheses that must earn progressively les
 
 Chapter 32 treats capital allocation as a choice among competing uses of cash, capacity and managerial attention rather than as approval of individually positive projects. It frames the company itself as an economic asset, distinguishes average from marginal return, and gives priority to the current system constraint only after verifying that capital is actually the needed lever and that economically valid demand can absorb the added capacity. It connects productive-capacity decisions to incremental contribution, working capital, activation time, downside and reversibility; compares uses through evidence quality, payback, capital at risk, constraint impact and resilience; and treats external capital as a financing-plus-governance decision rather than free acceleration. It includes a reusable `Scheda allocazione del capitale` linking the outcome to change, the constraint, evidence and critical assumptions, total capital at risk, incremental cash, payback, capacity, downside, reversibility, dependencies, staged tranches and stop/revision conditions.
 
+Chapter 33 separates growth, scale and expansion so that added volume is not confused with a new strategic field. It defines scale readiness through demand evidence, marginal economics, capacity, cash, operational repeatability and governance; compares additional exploitation of the core with the higher uncertainty of adjacent opportunities; and maps expansion by changes in problem and segment before opening new geographies or categories. It treats geography as an economic variable, requires expansion cells with separately observable economics, and frames replication around explicit standards, local adaptations and escalation rights rather than cloning. It also treats multibrand as a response to a concrete positioning/category conflict rather than a default growth tactic. It includes a reusable `Scheda prerequisiti di espansione e scala` linking the unit to amplify, movement type, marginal economics, current constraint, capacity/cash, transferred assumptions, core opportunity cost, test cell, staged commitment, replication standards, governance, brand and the expected next constraint.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_32.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_33.docx`.
 
-- **461 pages total.**
-- Pages **1–445 are pixel-identical** to the validated Chapter 31 manuscript at the same 72-dpi rendering resolution.
-- Chapter 32 starts on a clean new page **446** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **446–461** were rendered at 96 dpi and visually checked page by page.
-- Error, practice, worked/numerical-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
-- The enterprise-as-asset, constraint-reinvestment, productive-capacity, allocation-criteria and external-capital/governance sequences remain readable without broken paragraphs or table collisions.
-- The `Scheda allocazione del capitale` fits completely on page **457**; its header is marked to repeat and all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 33 bridge fit completely on page **461**.
+- **477 pages total.**
+- Pages **1–461 are pixel-identical** to the validated Chapter 32 manuscript at the same 72-dpi rendering resolution.
+- Chapter 33 starts on a clean new page **462** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **462–477** were rendered at 96 dpi and visually checked page by page.
+- Error, practice, worked/numerical-example, approfondimento and final-verification callouts remain intact without clipping, overlap or orphan continuation.
+- The scale-prerequisite, core-exploitation, problem/segment, geography/category and replication/multibrand/structure sequences remain readable without broken paragraphs or table collisions.
+- The problem/segment comparison table fits completely on page **468**.
+- The multi-page `Scheda prerequisiti di espansione e scala` spans pages **474–476** with a clean repeated header; all new table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 34 bridge fit completely on page **477**.
 - DOCX package integrity is clean; the document body contains one final `sectPr`, and no visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
@@ -204,14 +208,17 @@ Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_32.docx`.
 
 Continue Part VIII with:
 
-**Chapter 33 — `Espansione e scala`.**
+**Chapter 34 — `Diagnosi strategica`.**
 
 Frozen sections:
 
-- 33.1 `Prerequisiti della scala`
-- 33.2 `Sfruttare il core prima di espandere`
-- 33.3 `Espansione per problema e segmento`
-- 33.4 `Nuove geografie e nuove categorie`
-- 33.5 `Replicazione, multibrand e struttura`
+- 34.1 `Partire dal risultato economico`
+- 34.2 `Risalire la catena causale`
+- 34.3 `Individuare il primo vincolo rilevante`
+- 34.4 `Scegliere cosa non fare`
+- 34.5 `Testare, standardizzare e scalare`
+- 34.6 `Riesaminare il sistema nel tempo`
+
+After Chapter 34, complete the Part VIII `Prima di proseguire` gate and final full-manual QA.
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
