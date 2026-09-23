@@ -2,9 +2,9 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 33 / PART VIII OPEN / WORD VERIFIED**
+**COMPLETE — DEFINITIVE ARCHITECTURE FROZEN / READER-FACING PRODUCTION THROUGH CHAPTER 34 / PART VIII COMPLETE / WORD VERIFIED**
 
-The manual has moved beyond prototype-only work.
+The manual has moved beyond prototype-only work and reader-facing production is complete through all 34 chapters.
 
 After production of Chapters 1–5, the reader-facing architecture was re-audited, corrected, subjected to a full-manual reevaluation and then challenged again in a second adversarial postmortem.
 
@@ -12,7 +12,7 @@ Result:
 
 **8 Parts / 34 Chapters — DEFINITIVE / FROZEN.**
 
-Future architecture changes require concrete drafting or reader evidence. Preference alone is not sufficient to reopen the TOC.
+Future architecture changes require concrete drafting, editorial or reader evidence. Preference alone is not sufficient to reopen the TOC.
 
 Canonical architecture:
 
@@ -116,6 +116,7 @@ Reader-facing production completed through:
 - Chapter 31 — `Prototipazione di nuove iniziative`
 - Chapter 32 — `Allocazione del capitale`
 - Chapter 33 — `Espansione e scala`
+- Chapter 34 — `Diagnosi strategica`
 
 Part introductions completed:
 
@@ -136,6 +137,7 @@ Part transition gates completed:
 - Part V — `Prima di proseguire`
 - Part VI — `Prima di proseguire`
 - Part VII — `Prima di proseguire`
+- Part VIII — `Prima di proseguire`
 
 ---
 
@@ -185,40 +187,34 @@ Chapter 32 treats capital allocation as a choice among competing uses of cash, c
 
 Chapter 33 separates growth, scale and expansion so that added volume is not confused with a new strategic field. It defines scale readiness through demand evidence, marginal economics, capacity, cash, operational repeatability and governance; compares additional exploitation of the core with the higher uncertainty of adjacent opportunities; and maps expansion by changes in problem and segment before opening new geographies or categories. It treats geography as an economic variable, requires expansion cells with separately observable economics, and frames replication around explicit standards, local adaptations and escalation rights rather than cloning. It also treats multibrand as a response to a concrete positioning/category conflict rather than a default growth tactic. It includes a reusable `Scheda prerequisiti di espansione e scala` linking the unit to amplify, movement type, marginal economics, current constraint, capacity/cash, transferred assumptions, core opportunity cost, test cell, staged commitment, replication standards, governance, brand and the expected next constraint.
 
+Chapter 34 closes the manual by integrating the architecture into a causal strategic diagnostic method. It starts from a material economic result, separates result, operational signal and cause, traces backward through the causal chain, and distinguishes the first relevant constraint from support constraints and secondary problems. It makes explicit what not to do, then turns diagnosis into a smallest credible test with metric, exposure limit and a predeclared stop/change/scale rule. Standardization follows evidence rather than preceding it; scale remains conditional on the prerequisites established in Chapter 33; and diagnosis is reopened when the constraint or the conditions supporting the previous decision change. It includes a reusable `Scheda diagnosi strategica` linking result, baseline and perimeter, causal chain, evidence versus open hypotheses, first relevant constraint, exclusions, test, metric, decision rule, standardization and scale prerequisites, expected next constraint and review triggers.
+
+The Part VIII transition gate is complete. It closes the prototype/learn → capital allocation → expansion/scale → diagnosis sequence by requiring the reader to separate facts from hypotheses, capital from evidence-buying, investment from scale authorization, core exploitation from expansion and primary constraints from secondary problems. Reader-facing production is complete through all 34 chapters. From this point the manual is intended to be re-entered at the layer indicated by the next relevant constraint rather than treated as a one-way checklist.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_33.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_34.docx`.
 
-- **477 pages total.**
-- Pages **1–461 are pixel-identical** to the validated Chapter 32 manuscript at the same 72-dpi rendering resolution.
-- Chapter 33 starts on a clean new page **462** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **462–477** were rendered at 96 dpi and visually checked page by page.
-- Error, practice, worked/numerical-example, approfondimento and final-verification callouts remain intact without clipping, overlap or orphan continuation.
-- The scale-prerequisite, core-exploitation, problem/segment, geography/category and replication/multibrand/structure sequences remain readable without broken paragraphs or table collisions.
-- The problem/segment comparison table fits completely on page **468**.
-- The multi-page `Scheda prerequisiti di espansione e scala` spans pages **474–476** with a clean repeated header; all new table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 34 bridge fit completely on page **477**.
+- **497 pages total.**
+- Pages **1–477 are pixel-identical** to the validated Chapter 33 manuscript at the same 72-dpi rendering resolution.
+- Chapter 34 starts on a clean new page **478** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **478–497** were rendered at 96 dpi and visually checked page by page.
+- Error, practice, worked/numerical-example, approfondimento, operational-tool and final-verification callouts remain intact without clipping, overlap or orphan continuation.
+- The economic-result, causal-chain, first-constraint, exclusion, test/standardize/scale and system-review sequences remain readable without broken paragraphs or table collisions.
+- The multi-page `Scheda diagnosi strategica` spans pages **491–493** with a clean repeated header; all new table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` fits completely on page **494**.
+- The Chapter 34 close completes on page **495**.
+- The Part VIII `Prima di proseguire` gate starts on a clean new page **496** and completes on page **497**.
 - DOCX package integrity is clean; the document body contains one final `sectPr`, and no visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue Part VIII with:
+Reader-facing production is complete.
 
-**Chapter 34 — `Diagnosi strategica`.**
+Do not add another chapter or reopen the architecture by preference. The next authorized work should be final editorial/package QA across the complete manuscript — front matter, TOC/page references, cross-chapter consistency, final export/package checks and, when available, reader/editorial validation.
 
-Frozen sections:
-
-- 34.1 `Partire dal risultato economico`
-- 34.2 `Risalire la catena causale`
-- 34.3 `Individuare il primo vincolo rilevante`
-- 34.4 `Scegliere cosa non fare`
-- 34.5 `Testare, standardizzare e scalare`
-- 34.6 `Riesaminare il sistema nel tempo`
-
-After Chapter 34, complete the Part VIII `Prima di proseguire` gate and final full-manual QA.
-
-Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
+Any content or architecture change should be evidence-driven and should preserve the current 8-Part / 34-Chapter structure unless concrete editorial or reader evidence demonstrates a real structural defect.
