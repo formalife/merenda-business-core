@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 29 / PART VII OPEN / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 30 / PART VII COMPLETE / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -112,6 +112,7 @@ Reader-facing production completed through:
 - Chapter 27 — `Capacità e colli di bottiglia`
 - Chapter 28 — `Processi e automazione`
 - Chapter 29 — `Persone e organizzazione`
+- Chapter 30 — `Trasferibilità dell'impresa`
 
 Part introductions completed:
 
@@ -130,6 +131,7 @@ Part transition gates completed:
 - Part IV — `Prima di proseguire`
 - Part V — `Prima di proseguire`
 - Part VI — `Prima di proseguire`
+- Part VII — `Prima di proseguire`
 
 ---
 
@@ -167,38 +169,41 @@ Chapter 28 turns repeatable work into an explicit operating system. It starts fr
 
 Chapter 29 turns organizational design into an economic capacity decision. It starts from a recurrent bottleneck to define the role's owned result, responsibilities, decision rights and escalation boundaries; treats recruiting as a candidate-choice path supported by a concrete employment proposition; and selects people through work-relevant evidence rather than brand affinity or interview fluency alone. It then frames onboarding as staged transfer of responsibility, connects standards, feedback, KPI, incentives and controls to system outcomes, and sets specialization thresholds from recurring volume, bottlenecks and full role economics rather than headcount conventions. It includes a reusable `Scheda ruolo, recruiting e inserimento` linking bottleneck evidence, role mandate, decision rights, candidate evidence, employment proposition, onboarding milestones, controls, cost, expected value and specialization triggers.
 
+Chapter 30 closes Part VII by defining transferability as the ability to preserve important functions and value when responsibility moves away from the founder or another key person. It maps dependency by interrupted economic function rather than visible workload, decomposes transfer into decisions, information, competencies, access and controls, connects a small set of KPI with explicit decision rights and escalation thresholds, and treats critical assets through ownership, access, recoverability and relationship continuity. It then uses planned absence as an operational test of hidden dependency rather than a paper exercise. It includes a reusable `Scheda trasferibilità dell'impresa` linking key-person dependency, economic function, replacement ownership, decision rights, KPI, critical assets, continuity access, planned absence, observed failures and revision conditions.
+
+The Part VII transition gate is complete. Before development and scale decisions, the reader is required to have explicit customer economics, a cash/working-capital view, a visible capacity constraint, defined processes and controls, roles grounded in real bottlenecks, and evidence about founder/key-person dependency and transferability. This gives Part VIII an economic and organizational system whose limits are visible enough to guide prototyping, capital allocation and expansion.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_29.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Parte_VII.docx`.
 
-- **416 pages total.**
-- Pages **1–404 are pixel-identical** to the validated Chapter 28 manuscript at the same 72-dpi rendering resolution.
-- Chapter 29 starts on a clean new page **405** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **405–416** were rendered at 72 dpi and visually checked page by page.
-- Error, practice, worked-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
-- The recruiting, selection/onboarding, standards/KPI and specialization sections remain readable without broken paragraphs or table collisions.
-- The multi-page `Scheda ruolo, recruiting e inserimento` spans pages **413–415** with a clean repeated header; all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 30 bridge fit completely on page **416**.
+- **430 pages total.**
+- Pages **1–416 are pixel-identical** to the validated Chapter 29 manuscript at the same 72-dpi rendering resolution.
+- Chapter 30 starts on a clean new page **417** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **417–430** were rendered at 72 dpi and visually checked page by page.
+- Error, practice, worked-example and final-verification callouts remain intact without clipping, overlap or broken headers.
+- The founder-dependency, functional-substitution, KPI/decision-rights, critical-asset and planned-absence sequences remain readable without broken paragraphs or table collisions.
+- The multi-page `Scheda trasferibilità dell'impresa` spans pages **426–428** with a clean repeated header; all table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` fits completely on page **429**.
+- The Part VII `Prima di proseguire` gate starts through paragraph-level `page_break_before` and fits completely on page **430**.
 - No visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Continue Part VII with:
+Open Part VIII — `Sviluppo e direzione dell'impresa` — with its reader-facing introduction, then produce:
 
-**Chapter 30 — `Trasferibilità dell'impresa`.**
+**Chapter 31 — `Prototipazione di nuove iniziative`.**
 
 Frozen sections:
 
-- 30.1 `Dipendenza dal fondatore`
-- 30.2 `Funzioni economiche da sostituire`
-- 30.3 `KPI e diritti decisionali`
-- 30.4 `Controllo degli asset critici`
-- 30.5 `Assenza pianificata e test di trasferibilità`
-
-After Chapter 30, complete the reader-facing `Prima di proseguire` transition gate for Part VII before opening Part VIII.
+- 31.1 `Competenze e problema da risolvere`
+- 31.2 `Comprare apprendimento prima di struttura`
+- 31.3 `Prototipo economico`
+- 31.4 `Servizio manuale e concierge`
+- 31.5 `Capacità esterna e struttura leggera`
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
