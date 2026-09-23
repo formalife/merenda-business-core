@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 30 / PART VII COMPLETE / WORD VERIFIED**
+**ACTIVE — DEFINITIVE ARCHITECTURE FROZEN / PRODUCTION THROUGH CHAPTER 31 / PART VIII OPEN / WORD VERIFIED**
 
 The manual has moved beyond prototype-only work.
 
@@ -113,6 +113,7 @@ Reader-facing production completed through:
 - Chapter 28 — `Processi e automazione`
 - Chapter 29 — `Persone e organizzazione`
 - Chapter 30 — `Trasferibilità dell'impresa`
+- Chapter 31 — `Prototipazione di nuove iniziative`
 
 Part introductions completed:
 
@@ -123,6 +124,7 @@ Part introductions completed:
 - Part V — `Comunicazione e vendita`
 - Part VI — `Esperienza, relazione e reputazione`
 - Part VII — `Economia e organizzazione`
+- Part VIII — `Sviluppo e direzione dell'impresa`
 
 Part transition gates completed:
 
@@ -173,37 +175,41 @@ Chapter 30 closes Part VII by defining transferability as the ability to preserv
 
 The Part VII transition gate is complete. Before development and scale decisions, the reader is required to have explicit customer economics, a cash/working-capital view, a visible capacity constraint, defined processes and controls, roles grounded in real bottlenecks, and evidence about founder/key-person dependency and transferability. This gives Part VIII an economic and organizational system whose limits are visible enough to guide prototyping, capital allocation and expansion.
 
+The Part VIII introduction reframes development as allocation of attention, capacity and capital under uncertainty rather than automatic growth. It establishes the sequence prototype/learn → allocate capital → expand/scale → integrate diagnosis, and makes clear that mature firms re-enter this loop whenever they introduce a product, geography, segment, operating model or material investment.
+
+Chapter 31 treats new initiatives as hypotheses that must earn progressively less reversible commitments. It starts from the intersection between a real customer problem and relevant competencies/assets, ranks uncertainty by economic consequence, and uses reversible tests to buy decision-changing evidence before fixed structure. It then builds a provisional economic model that separates observed values from scale assumptions, uses manual/concierge delivery to expose process reality and employs external capacity where it reduces the cost of uncertainty without surrendering critical control or learning. It includes a reusable `Scheda prototipo di nuova iniziativa` linking problem evidence, reusable assets, critical demand/access/delivery/economics hypotheses, test and stop rules, prototype economics, cash/capacity, concierge learning, external-capacity risks, delayed structure and evidence required before internalization.
+
 ---
 
 # Latest manuscript QA
 
-Current cumulative manuscript: `Manuale_V2_Fino_Parte_VII.docx`.
+Current cumulative manuscript: `Manuale_V2_Fino_Capitolo_31.docx`.
 
-- **430 pages total.**
-- Pages **1–416 are pixel-identical** to the validated Chapter 29 manuscript at the same 72-dpi rendering resolution.
-- Chapter 30 starts on a clean new page **417** through paragraph-level `page_break_before`, with no extra blank page.
-- Pages **417–430** were rendered at 72 dpi and visually checked page by page.
-- Error, practice, worked-example and final-verification callouts remain intact without clipping, overlap or broken headers.
-- The founder-dependency, functional-substitution, KPI/decision-rights, critical-asset and planned-absence sequences remain readable without broken paragraphs or table collisions.
-- The multi-page `Scheda trasferibilità dell'impresa` spans pages **426–428** with a clean repeated header; all table rows are protected from splitting.
-- The final `VERIFICA NELLA TUA AZIENDA` fits completely on page **429**.
-- The Part VII `Prima di proseguire` gate starts through paragraph-level `page_break_before` and fits completely on page **430**.
-- No visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
+- **445 pages total.**
+- Pages **1–430 are pixel-identical** to the validated Part VII manuscript at the same 72-dpi rendering resolution.
+- The Part VIII introduction starts on a clean new page **431** through paragraph-level `page_break_before` and fits completely on that page.
+- Chapter 31 starts on a clean new page **432** through paragraph-level `page_break_before`, with no extra blank page.
+- Pages **431–445** were rendered at 96 dpi and visually checked page by page.
+- Error, practice, numerical-example and final-verification callouts remain intact without clipping, overlap or orphan continuation.
+- The problem/competence, learning-before-structure, prototype-economics, concierge and external-capacity sequences remain readable without broken paragraphs or table collisions.
+- The multi-page `Scheda prototipo di nuova iniziativa` spans pages **441–444** with a clean repeated header; all table rows are protected from splitting.
+- The final `VERIFICA NELLA TUA AZIENDA` and Chapter 32 bridge fit completely on page **445**.
+- DOCX package integrity is clean; the document body contains one final `sectPr`, and no visible Markdown markers, broken tables, missing glyphs, clipping or overlap remain in the final deliverable.
 
 ---
 
 # Current next action
 
-Open Part VIII — `Sviluppo e direzione dell'impresa` — with its reader-facing introduction, then produce:
+Continue Part VIII with:
 
-**Chapter 31 — `Prototipazione di nuove iniziative`.**
+**Chapter 32 — `Allocazione del capitale`.**
 
 Frozen sections:
 
-- 31.1 `Competenze e problema da risolvere`
-- 31.2 `Comprare apprendimento prima di struttura`
-- 31.3 `Prototipo economico`
-- 31.4 `Servizio manuale e concierge`
-- 31.5 `Capacità esterna e struttura leggera`
+- 32.1 `L'impresa come asset`
+- 32.2 `Reinvestire nel vincolo`
+- 32.3 `Capitale e capacità produttiva`
+- 32.4 `Criteri di allocazione`
+- 32.5 `Capitale esterno e governance`
 
 Architecture is no longer an active design task. Reopen only if concrete drafting or reader evidence shows a real structural defect.
