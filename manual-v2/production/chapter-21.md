@@ -21,7 +21,9 @@ Il primo lavoro consiste quindi nel rendere esplicita la **promessa operativa** 
 Questo non significa accettare qualunque aspettativa del cliente come obbligo. Significa distinguere tre livelli:
 
 - ciò che l'impresa ha **promesso esplicitamente**;
+
 - ciò che il cliente può **ragionevolmente aspettarsi** dalla comunicazione e dal contesto;
+
 - ciò che il cliente **desidera ma non è stato promesso**, e che va chiarito prima che diventi una futura delusione.
 
 Quando questi livelli non vengono separati, l'organizzazione scopre il problema troppo tardi. Il team di delivery pensa di avere rispettato il perimetro, mentre il cliente crede di avere comprato qualcosa di diverso. Il venditore attribuisce l'insoddisfazione all'erogazione; l'erogazione attribuisce la promessa eccessiva alla vendita. Il cliente vede soltanto una promessa non mantenuta.
@@ -29,14 +31,26 @@ Quando questi livelli non vengono separati, l'organizzazione scopre il problema 
 Per questo il passaggio vendita → erogazione deve trasferire almeno le informazioni che cambiano il modo di servire quel cliente. In un ciclo semplice possono essere poche. In un progetto complesso possono includere:
 
 - problema e risultato atteso;
+
 - criteri che hanno determinato la scelta;
+
 - componenti acquistate e condizioni concordate;
+
 - tempi e milestone comunicati;
+
 - stakeholder e ruoli;
+
 - prerequisiti a carico del cliente;
+
 - rischi, eccezioni e limiti già discussi;
+
+- eventuali dubbi residui emersi subito dopo la decisione e come sono stati chiariti;
+
 - eventuali personalizzazioni autorizzate;
+
 - prima azione promessa dopo la firma.
+
+- ragione concreta della decisione e criterio con cui il cliente riconoscerà il primo valore;
 
 Il principio è lo stesso già applicato al passaggio marketing → vendita: **non costringere il cliente a ricostruire da zero una relazione che l'azienda ha già iniziato**. Se ogni reparto ricomincia con domande già fatte, la frizione organizzativa viene scaricata sul cliente.
 
@@ -60,7 +74,7 @@ Se queste informazioni non vengono chiarite, il sistema genera ritardi che posso
 
 Un buon onboarding rende espliciti almeno cinque elementi.
 
-| Elemento | Domanda da chiarire | Perché conta |
+| **Elemento** | **Domanda da chiarire** | **Perché conta** |
 | --- | --- | --- |
 | Risultato e perimetro | Che cosa stiamo cercando di ottenere e che cosa non è incluso? | Previene aspettative incompatibili |
 | Ruoli e responsabilità | Chi deve fare che cosa, lato azienda e lato cliente? | Riduce attese e rimbalzi |
@@ -107,8 +121,11 @@ Un servizio professionale richiede sei settimane per completare l'intero progett
 La soluzione non consiste nel promettere un completamento più rapido. Il team riprogetta il primo tratto del percorso:
 
 1. entro il primo giorno conferma obiettivi, ruoli, documenti e calendario;
+
 2. appena riceve i dati essenziali produce una prima fotografia diagnostica;
+
 3. entro una finestra definita restituisce due o tre evidenze che mostrano dove si trova il problema;
+
 4. collega quelle evidenze al piano di lavoro delle settimane successive.
 
 Il progetto continua a durare sei settimane, ma il cliente ottiene prima un valore reale: comprensione, direzione e visibilità sul progresso. Il tempo al risultato finale non cambia; **il tempo alla prima conferma utile diminuisce**.
@@ -126,11 +143,17 @@ Non tutto lo sforzo è negativo. Alcuni risultati richiedono partecipazione del 
 Il problema è lo **sforzo evitabile**, cioè quello che non contribuisce al risultato e nasce dal modo in cui l'organizzazione è costruita. Esempi tipici sono:
 
 - ripetere le stesse informazioni a più persone;
+
 - non sapere quale canale usare;
+
 - aspettare senza visibilità sullo stato;
+
 - dover sollecitare attività che l'azienda aveva promesso di gestire;
+
 - ricevere istruzioni contraddittorie;
+
 - essere trasferiti fra reparti senza che il contesto venga trasferito;
+
 - dover interpretare procedure interne che non dovrebbero gravare sul cliente.
 
 Il **customer effort** è quindi una lente operativa: quanto lavoro non necessario imponiamo al cliente per ricevere il valore che ha già comprato? Non serve trasformarlo subito in un indice sofisticato. Si può iniziare osservando passaggi, tempi, ripetizioni, escalation e richieste che non cambiano il risultato.
@@ -160,12 +183,19 @@ Un sistema di esperienza non può dipendere soltanto dalle impressioni interne. 
 Le fonti di feedback sono più ampie di un questionario. Comprendono:
 
 - reclami e richieste di assistenza;
+
 - domande ricorrenti;
+
 - ritardi e rework;
+
 - utilizzo o mancato utilizzo quando misurabile e pertinente;
+
 - conversazioni con clienti;
+
 - survey in momenti specifici;
+
 - motivi di cancellazione o interruzione, che verranno trattati più direttamente nel Capitolo 22;
+
 - recensioni e testimonianze, che diventeranno materia del Capitolo 23 quando il valore è già stato consegnato.
 
 Il momento della raccolta conta. Chiedere «quanto sei soddisfatto?» una sola volta può produrre un numero difficile da interpretare. È spesso più utile collegare il feedback a un touchpoint: attivazione, prima consegna, primo risultato, richiesta di supporto, completamento di una fase. In questo modo l'azienda sa quale parte del processo il cliente sta valutando.
@@ -186,7 +216,7 @@ Una metrica di soddisfazione può essere utile, ma non sostituisce il risultato.
 
 ### STRUMENTO OPERATIVO — Mappa promessa → esperienza → primo valore
 
-| Campo | Che cosa registrare |
+| **Campo** | **Che cosa registrare** |
 | --- | --- |
 | Offerta / relazione | Prodotto, servizio o percorso che stai analizzando |
 | Promessa principale | Risultato o cambiamento che ha motivato l'acquisto |
@@ -218,12 +248,19 @@ La mappa può essere applicata a un singolo prodotto o a un segmento di clienti.
 Scegli una sola offerta importante e ricostruisci il percorso dei primi giorni o delle prime fasi usando almeno dieci clienti recenti, includendo casi fluidi e casi problematici.
 
 1. Estrai le tre-cinque promesse più importanti da pagina, proposta, script e conversazioni di vendita. Verifica se l'erogazione possiede un modo concreto per mantenerle.
+
 2. Confronta ciò che il team di delivery riceve con ciò che il cliente aveva già comunicato alla vendita. Segna ogni informazione persa o richiesta di nuovo senza necessità.
+
 3. Definisci il primo valore in termini osservabili. Se il team non concorda su che cosa sia, il cliente probabilmente non dispone di un traguardo chiaro.
+
 4. Misura il tempo dall'acquisto al primo valore per il campione. Se varia molto, separa cause necessarie da attese e passaggi evitabili.
+
 5. Mappa i prerequisiti. Quanti ritardi derivano da informazioni, accessi o decisioni che potevano essere preparati durante onboarding e handoff?
+
 6. Rileggi ticket, reclami e richieste dei primi clienti. Conta quante volte il cliente deve ripetere informazioni, cercare il referente giusto o sollecitare un passaggio già promesso.
+
 7. Identifica i tre difetti più frequenti e classificali per gravità, frequenza e impatto sul risultato. Non correggere prima il problema più rumoroso se non è quello materialmente più dannoso.
+
 8. Scegli una sola correzione sul primo collo di bottiglia dell'esperienza e definisci la metrica che dovrebbe cambiare: tempo al primo valore, errori, rework, contatti di supporto, rispetto delle milestone o altro indicatore pertinente.
 
 L'output utile è un percorso nel quale la promessa commerciale sopravvive al passaggio verso l'erogazione, il cliente capisce come iniziare, il primo valore arriva in un tempo leggibile, lo sforzo evitabile viene ridotto e il feedback produce correzioni verificabili.
