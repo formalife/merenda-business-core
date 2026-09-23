@@ -1,0 +1,13 @@
+# Parte VIII — Sviluppo e direzione dell'impresa
+
+Le prime sette Parti hanno costruito il sistema prima di discutere la sua espansione. A questo punto mercato, cliente, offerta, acquisizione, vendita, esperienza, economia, cassa, capacità, processi, persone e dipendenze organizzative non sono più temi separati: sono vincoli e risorse che definiscono ciò che l'impresa può permettersi di fare.
+
+Lo sviluppo comincia qui. Non coincide con la crescita del fatturato né con l'apertura continua di nuovi fronti. Significa decidere **dove impiegare attenzione, capacità e capitale sotto incertezza**, distinguendo ciò che merita di essere approfondito da ciò che deve ancora guadagnarsi il diritto di ricevere struttura.
+
+Una nuova iniziativa può sembrare plausibile perché è vicina alle competenze esistenti, perché alcuni clienti la chiedono, perché un concorrente la offre o perché il mercato appare grande. Nessuno di questi segnali, preso da solo, dimostra che esistano domanda raggiungibile, margine, capacità di erogazione e un vantaggio sufficiente a giustificare l'investimento. Prima di costruire bisogna imparare.
+
+Per questo la Parte VIII segue una sequenza precisa. Il Capitolo 31 tratta la **prototipazione di nuove iniziative**: come partire da un problema reale, comprare apprendimento prima di struttura, costruire un prototipo economico e utilizzare lavoro manuale o capacità esterna per ridurre il costo dell'incertezza. Il Capitolo 32 affronta l'**allocazione del capitale**: anche un'iniziativa promettente compete con il core, con il collo di bottiglia corrente, con la liquidità e con altri impieghi possibili. Il Capitolo 33 tratta **espansione e scala**, quando i prerequisiti sono abbastanza solidi da permettere di amplificare senza moltiplicare un difetto. Il Capitolo 34 chiude il manuale riportando tutto alla **diagnosi strategica**: dal risultato economico alle cause a monte, fino alla scelta del prossimo test e di ciò che non va fatto.
+
+Questa non è una cronologia riservata alle startup. Un'impresa matura rientra continuamente nello stesso ciclo quando introduce un prodotto, entra in una geografia, serve un nuovo segmento, modifica il modello operativo o valuta un investimento rilevante. La domanda rimane la stessa: **quale evidenza deve esistere prima che il prossimo impegno diventi razionale?**
+
+Il primo passo è quindi imparare a sviluppare senza confondere intenzione e prova. Una nuova iniziativa deve essere trattata come un insieme di ipotesi economiche e operative da rendere progressivamente meno incerte, non come una struttura da costruire nella speranza che il mercato la giustifichi dopo.
